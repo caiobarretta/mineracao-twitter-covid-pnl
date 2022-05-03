@@ -3,27 +3,29 @@ import tweepy as tw
 import yaml
 from yaml.loader import SafeLoader
 
-def get_credentials(file_name):
-    with open(file_name) as f:
-        data = yaml.load(f, Loader=SafeLoader)
-    return data['consumer_key'],data['consumer_secret'],data['access_token'], data['access_token_secret']
+class TweepyAPI:
+    def __init__(self, file_name_credentials):
+        self.file_name_credentials = file_name_credentials
 
-def create_auth():
-    consumer_key, consumer_secret, access_token, access_token_secret = get_credentials('src/credentials.yaml')
-    auth = tw.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
-    return auth
+    def get_credentials(self):
+        with open(self.file_name_credentials) as f:
+            data = yaml.load(f, Loader=SafeLoader)
+        return data['consumer_key'],data['consumer_secret'],data['access_token'], data['access_token_secret']
 
-def create_api():
-    auth = create_auth()
-    api = tw.API(auth)
-    return api
+    def create_auth(self):
+        consumer_key, consumer_secret, access_token, access_token_secret = self.get_credentials()
+        auth = tw.OAuthHandler(consumer_key, consumer_secret)
+        auth.set_access_token(access_token, access_token_secret)
+        return auth
 
-def search_tweets(query, lang, count_of_tweets):
-    api = create_api()
-    tweets = tw.Cursor(api.search_tweets, q=query, lang=lang).items(count_of_tweets)
-    return tweets
+    def create_api(self):
+        auth = self.create_auth()
+        api = tw.API(auth)
+        return api
 
-tweets = search_tweets('#SUS AND #COVID', 'pt', 1)
-for tweet in tweets:
-    print(tweet.text)
+    def search_tweets(self, query, lang, count_of_tweets = 0):
+        api = self.create_api()
+        tweets = tw.Cursor(api.search_tweets, q=query, lang=lang).items()
+        if(count_of_tweets > 0):
+            tweets = tweets.items(count_of_tweets)
+        return tweets
