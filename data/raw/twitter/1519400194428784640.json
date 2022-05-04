@@ -2,8 +2,12 @@
   "created_at": "Wed Apr 27 19:36:50 +0000 2022",
   "id": 1519400194428784640,
   "id_str": "1519400194428784640",
-  "text": "RT @JotaInfo: Governo prepara MP para liberar vacina contra Covid-19 na rede privada. Tend\u00eancia \u00e9 que vacina para todos no SUS acabe quando\u2026",
+  "full_text": "RT @JotaInfo: Governo prepara MP para liberar vacina contra Covid-19 na rede privada. Tend\u00eancia \u00e9 que vacina para todos no SUS acabe quando\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -101,20 +105,24 @@
     "created_at": "Wed Apr 27 19:34:00 +0000 2022",
     "id": 1519399482034581504,
     "id_str": "1519399482034581504",
-    "text": "Governo prepara MP para liberar vacina contra Covid-19 na rede privada. Tend\u00eancia \u00e9 que vacina para todos no SUS ac\u2026 https://t.co/p2utBdUSBn",
-    "truncated": true,
+    "full_text": "Governo prepara MP para liberar vacina contra Covid-19 na rede privada. Tend\u00eancia \u00e9 que vacina para todos no SUS acabe quando houver maior cobertura vacinal e estabiliza\u00e7\u00e3o de casos. Leia em coluna: https://t.co/JnMXckNYYz",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      222
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/p2utBdUSBn",
-          "expanded_url": "https://twitter.com/i/web/status/1519399482034581504",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "url": "https://t.co/JnMXckNYYz",
+          "expanded_url": "https://bit.ly/3Ku4cm4",
+          "display_url": "bit.ly/3Ku4cm4",
           "indices": [
-            117,
-            140
+            199,
+            222
           ]
         }
       ]
@@ -156,7 +164,7 @@
         }
       },
       "protected": false,
-      "followers_count": 237785,
+      "followers_count": 237782,
       "friends_count": 1411,
       "listed_count": 1663,
       "created_at": "Tue Jul 01 07:33:10 +0000 2014",
@@ -165,7 +173,7 @@
       "time_zone": null,
       "geo_enabled": true,
       "verified": true,
-      "statuses_count": 72510,
+      "statuses_count": 72516,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

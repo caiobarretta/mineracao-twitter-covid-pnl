@@ -2,8 +2,12 @@
   "created_at": "Sat Apr 30 21:01:45 +0000 2022",
   "id": 1520508728998608898,
   "id_str": "1520508728998608898",
-  "text": "RT @tucamaiacaetano: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe. \nMedicamento \u00e9 o primeiro\u2026",
+  "full_text": "RT @tucamaiacaetano: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe. \nMedicamento \u00e9 o primeiro\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -45,7 +49,7 @@
       }
     },
     "protected": false,
-    "followers_count": 139,
+    "followers_count": 140,
     "friends_count": 659,
     "listed_count": 1,
     "created_at": "Wed Aug 04 22:43:17 +0000 2021",
@@ -54,7 +58,7 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 4882,
+    "statuses_count": 4894,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -88,21 +92,93 @@
     "created_at": "Sat Apr 30 20:56:03 +0000 2022",
     "id": 1520507293485486082,
     "id_str": "1520507293485486082",
-    "text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe. \nMedicamento \u00e9 o prime\u2026 https://t.co/ZKTrBxsPmR",
-    "truncated": true,
+    "full_text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe. \nMedicamento \u00e9 o primeiro a ser incorporado pelo Sistema \u00danico de Sa\u00fade (SUS) para o tratamento da Covid-19. https://t.co/eG2XP2MnOu",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      201
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/ZKTrBxsPmR",
-          "expanded_url": "https://twitter.com/i/web/status/1520507293485486082",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1520507291199488002,
+          "id_str": "1520507291199488002",
           "indices": [
-            117,
-            140
-          ]
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRntU0pWQAISO_9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRntU0pWQAISO_9.jpg",
+          "url": "https://t.co/eG2XP2MnOu",
+          "display_url": "pic.twitter.com/eG2XP2MnOu",
+          "expanded_url": "https://twitter.com/tucamaiacaetano/status/1520507293485486082/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1520507291199488002,
+          "id_str": "1520507291199488002",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRntU0pWQAISO_9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRntU0pWQAISO_9.jpg",
+          "url": "https://t.co/eG2XP2MnOu",
+          "display_url": "pic.twitter.com/eG2XP2MnOu",
+          "expanded_url": "https://twitter.com/tucamaiacaetano/status/1520507293485486082/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -130,16 +206,16 @@
         }
       },
       "protected": false,
-      "followers_count": 19069,
+      "followers_count": 19074,
       "friends_count": 18614,
       "listed_count": 20,
       "created_at": "Thu Jul 08 11:46:44 +0000 2021",
-      "favourites_count": 105938,
+      "favourites_count": 105968,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 46904,
+      "statuses_count": 46912,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

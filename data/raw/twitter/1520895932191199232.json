@@ -2,8 +2,12 @@
   "created_at": "Sun May 01 22:40:21 +0000 2022",
   "id": 1520895932191199232,
   "id_str": "1520895932191199232",
-  "text": "RT @ValStrongest: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\nMedicamento \u00e9 o primeiro a s\u2026",
+  "full_text": "RT @ValStrongest: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\nMedicamento \u00e9 o primeiro a s\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -88,21 +92,93 @@
     "created_at": "Sun May 01 16:35:38 +0000 2022",
     "id": 1520804145187405827,
     "id_str": "1520804145187405827",
-    "text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\nMedicamento \u00e9 o primei\u2026 https://t.co/QI6PeTwhxb",
-    "truncated": true,
+    "full_text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\nMedicamento \u00e9 o primeiro a ser incorporado pelo Sistema \u00danico de Sa\u00fade (SUS) para o tratamento da Covid-19.\nComposto atua sobre o sistema imune, auxiliando no processo de recupera\u00e7\u00e3o de https://t.co/U7zjr1s6oL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/QI6PeTwhxb",
-          "expanded_url": "https://twitter.com/i/web/status/1520804145187405827",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1520804143274864640,
+          "id_str": "1520804143274864640",
           "indices": [
-            117,
-            140
-          ]
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRr7T4zXMAAce-L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRr7T4zXMAAce-L.jpg",
+          "url": "https://t.co/U7zjr1s6oL",
+          "display_url": "pic.twitter.com/U7zjr1s6oL",
+          "expanded_url": "https://twitter.com/ValStrongest/status/1520804145187405827/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1520804143274864640,
+          "id_str": "1520804143274864640",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRr7T4zXMAAce-L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRr7T4zXMAAce-L.jpg",
+          "url": "https://t.co/U7zjr1s6oL",
+          "display_url": "pic.twitter.com/U7zjr1s6oL",
+          "expanded_url": "https://twitter.com/ValStrongest/status/1520804145187405827/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -134,12 +210,12 @@
       "friends_count": 4995,
       "listed_count": 0,
       "created_at": "Thu Jan 29 17:35:07 +0000 2015",
-      "favourites_count": 6245,
+      "favourites_count": 6247,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 5347,
+      "statuses_count": 5349,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

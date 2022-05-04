@@ -2,21 +2,103 @@
   "created_at": "Wed Apr 27 21:02:47 +0000 2022",
   "id": 1519421825608044544,
   "id_str": "1519421825608044544",
-  "text": "Covid-19: Confira estrat\u00e9gia vacinal nesta quinta em Salvador\n\n\u00danico requisito \u00e9 ter o Cart\u00e3o SUS vinculado a algum\u2026 https://t.co/C389dGTWFv",
-  "truncated": true,
+  "full_text": "Covid-19: Confira estrat\u00e9gia vacinal nesta quinta em Salvador\n\n\u00danico requisito \u00e9 ter o Cart\u00e3o SUS vinculado a algum munic\u00edpio da Bahia https://t.co/iiKVHaZk2u https://t.co/juwUbR4sad",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    158
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/C389dGTWFv",
-        "expanded_url": "https://twitter.com/i/web/status/1519421825608044544",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/iiKVHaZk2u",
+        "expanded_url": "https://atarde.com.br/_/1193942",
+        "display_url": "atarde.com.br/_/1193942",
         "indices": [
-          117,
-          140
+          135,
+          158
         ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1519421823670181888,
+        "id_str": "1519421823670181888",
+        "indices": [
+          159,
+          182
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRYSGS_WYAAw4mB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRYSGS_WYAAw4mB.jpg",
+        "url": "https://t.co/juwUbR4sad",
+        "display_url": "pic.twitter.com/juwUbR4sad",
+        "expanded_url": "https://twitter.com/atarde/status/1519421825608044544/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 984,
+            "h": 617,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 984,
+            "h": 617,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1519421823670181888,
+        "id_str": "1519421823670181888",
+        "indices": [
+          159,
+          182
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRYSGS_WYAAw4mB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRYSGS_WYAAw4mB.jpg",
+        "url": "https://t.co/juwUbR4sad",
+        "display_url": "pic.twitter.com/juwUbR4sad",
+        "expanded_url": "https://twitter.com/atarde/status/1519421825608044544/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 984,
+            "h": 617,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 984,
+            "h": 617,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -76,16 +158,16 @@
       }
     },
     "protected": false,
-    "followers_count": 506926,
+    "followers_count": 506940,
     "friends_count": 58,
-    "listed_count": 706,
+    "listed_count": 707,
     "created_at": "Wed Dec 16 20:18:25 +0000 2009",
     "favourites_count": 271,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": true,
-    "statuses_count": 154051,
+    "statuses_count": 154059,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

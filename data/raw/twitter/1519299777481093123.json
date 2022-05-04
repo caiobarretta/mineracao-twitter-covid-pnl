@@ -2,8 +2,12 @@
   "created_at": "Wed Apr 27 12:57:48 +0000 2022",
   "id": 1519299777481093123,
   "id_str": "1519299777481093123",
-  "text": "RT @saudegovba: Se liga: s\u00f3 com a vacina nosso corpo fica fort\u00e3o assim pra combater o coronav\u00edrus! Ent\u00e3o, qual \u00e9 o motivo da demora?\n\nFoto:\u2026",
+  "full_text": "RT @saudegovba: Se liga: s\u00f3 com a vacina nosso corpo fica fort\u00e3o assim pra combater o coronav\u00edrus! Ent\u00e3o, qual \u00e9 o motivo da demora?\n\nFoto:\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -62,12 +66,12 @@
     "friends_count": 2415,
     "listed_count": 17,
     "created_at": "Thu Sep 13 15:09:20 +0000 2018",
-    "favourites_count": 9305,
+    "favourites_count": 9307,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 9194,
+    "statuses_count": 9197,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -101,21 +105,150 @@
     "created_at": "Thu Apr 21 14:07:00 +0000 2022",
     "id": 1517142862550511616,
     "id_str": "1517142862550511616",
-    "text": "Se liga: s\u00f3 com a vacina nosso corpo fica fort\u00e3o assim pra combater o coronav\u00edrus! Ent\u00e3o, qual \u00e9 o motivo da demora\u2026 https://t.co/XHoeXjfpyN",
-    "truncated": true,
+    "full_text": "Se liga: s\u00f3 com a vacina nosso corpo fica fort\u00e3o assim pra combater o coronav\u00edrus! Ent\u00e3o, qual \u00e9 o motivo da demora?\n\nFoto: Supcom Lauro de Freitas\n\n#VacinaBahia #Vacina #Covid19 #Coronav\u00edrus #SUS #Sa\u00fade #Bahia #GovernoDaBahia https://t.co/8PViToiDnL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      226
+    ],
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "VacinaBahia",
+          "indices": [
+            149,
+            161
+          ]
+        },
+        {
+          "text": "Vacina",
+          "indices": [
+            162,
+            169
+          ]
+        },
+        {
+          "text": "Covid19",
+          "indices": [
+            170,
+            178
+          ]
+        },
+        {
+          "text": "Coronav\u00edrus",
+          "indices": [
+            179,
+            191
+          ]
+        },
+        {
+          "text": "SUS",
+          "indices": [
+            192,
+            196
+          ]
+        },
+        {
+          "text": "Sa\u00fade",
+          "indices": [
+            197,
+            203
+          ]
+        },
+        {
+          "text": "Bahia",
+          "indices": [
+            204,
+            210
+          ]
+        },
+        {
+          "text": "GovernoDaBahia",
+          "indices": [
+            211,
+            226
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/XHoeXjfpyN",
-          "expanded_url": "https://twitter.com/i/web/status/1517142862550511616",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1516886631642546177,
+          "id_str": "1516886631642546177",
           "indices": [
-            117,
-            140
-          ]
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQ0QWsuXwAEIIJd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQ0QWsuXwAEIIJd.jpg",
+          "url": "https://t.co/8PViToiDnL",
+          "display_url": "pic.twitter.com/8PViToiDnL",
+          "expanded_url": "https://twitter.com/saudegovba/status/1517142862550511616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 814,
+              "h": 610,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 814,
+              "h": 610,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1516886631642546177,
+          "id_str": "1516886631642546177",
+          "indices": [
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQ0QWsuXwAEIIJd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQ0QWsuXwAEIIJd.jpg",
+          "url": "https://t.co/8PViToiDnL",
+          "display_url": "pic.twitter.com/8PViToiDnL",
+          "expanded_url": "https://twitter.com/saudegovba/status/1517142862550511616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 814,
+              "h": 610,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 814,
+              "h": 610,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },

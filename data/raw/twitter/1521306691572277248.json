@@ -2,23 +2,32 @@
   "created_at": "Tue May 03 01:52:34 +0000 2022",
   "id": 1521306691572277248,
   "id_str": "1521306691572277248",
-  "text": "Nossa tomei a 3\u00b0 dose da vacina do covid hoje e estou um dengo s\u00f3 \ud83e\udd7a. \nPra completar vi que est\u00e1 um caro\u00e7o aonde foi\u2026 https://t.co/TOX0rRnNVr",
-  "truncated": true,
+  "full_text": "Nossa tomei a 3\u00b0 dose da vacina do covid hoje e estou um dengo s\u00f3 \ud83e\udd7a. \nPra completar vi que est\u00e1 um caro\u00e7o aonde foi aplicada a vacina \ud83e\udd75\ud83e\udd75\n#VacinaSalva #SUS",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    154
+  ],
   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
+    "hashtags": [
       {
-        "url": "https://t.co/TOX0rRnNVr",
-        "expanded_url": "https://twitter.com/i/web/status/1521306691572277248",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "text": "VacinaSalva",
         "indices": [
-          117,
-          140
+          137,
+          149
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          150,
+          154
         ]
       }
-    ]
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
   },
   "metadata": {
     "iso_language_code": "pt",

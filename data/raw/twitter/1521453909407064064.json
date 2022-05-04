@@ -2,21 +2,93 @@
   "created_at": "Tue May 03 11:37:33 +0000 2022",
   "id": 1521453909407064064,
   "id_str": "1521453909407064064",
-  "text": "Bom dia pessoal!\nAs campanhas de vacina\u00e7\u00e3o, s\u00e3o fundamentais para a sa\u00fade da popula\u00e7\u00e3o. Desde as vacinas obrigat\u00f3ri\u2026 https://t.co/jhPfVojh4l",
-  "truncated": true,
+  "full_text": "Bom dia pessoal!\nAs campanhas de vacina\u00e7\u00e3o, s\u00e3o fundamentais para a sa\u00fade da popula\u00e7\u00e3o. Desde as vacinas obrigat\u00f3rias do calend\u00e1rio das crian\u00e7as at\u00e9 a recente opera\u00e7\u00e3o contra a Covid 19.\nAs vacinas salvam milhares de vida.\nO SUS salva vidas.  \nEu acredito e defendo o SUS.\nE voc\u00ea? https://t.co/fvy1yPnnDr",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    280
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/jhPfVojh4l",
-        "expanded_url": "https://twitter.com/i/web/status/1521453909407064064",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1521453906936713216,
+        "id_str": "1521453906936713216",
         "indices": [
-          117,
-          140
-        ]
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FR1KRHEX0AAxeRb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FR1KRHEX0AAxeRb.jpg",
+        "url": "https://t.co/fvy1yPnnDr",
+        "display_url": "pic.twitter.com/fvy1yPnnDr",
+        "expanded_url": "https://twitter.com/DrNilton_/status/1521453909407064064/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1521453906936713216,
+        "id_str": "1521453906936713216",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FR1KRHEX0AAxeRb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FR1KRHEX0AAxeRb.jpg",
+        "url": "https://t.co/fvy1yPnnDr",
+        "display_url": "pic.twitter.com/fvy1yPnnDr",
+        "expanded_url": "https://twitter.com/DrNilton_/status/1521453909407064064/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 554,
+            "h": 554,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -53,7 +125,7 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 3405,
+    "statuses_count": 3406,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

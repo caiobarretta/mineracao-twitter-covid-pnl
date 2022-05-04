@@ -2,8 +2,12 @@
   "created_at": "Mon May 02 16:40:30 +0000 2022",
   "id": 1521167759907991552,
   "id_str": "1521167759907991552",
-  "text": "RT @MalyaIi: Primeira medi\u00e7\u00e3o incorporada no SUS para \"tratamento de covid\", com tarifa ZERO para importa\u00e7\u00e3o.\n#BolsonaroReeleito2022 https:\u2026",
+  "full_text": "RT @MalyaIi: Primeira medi\u00e7\u00e3o incorporada no SUS para \"tratamento de covid\", com tarifa ZERO para importa\u00e7\u00e3o.\n#BolsonaroReeleito2022 https:\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [
       {
@@ -53,7 +57,7 @@
       }
     },
     "protected": false,
-    "followers_count": 712,
+    "followers_count": 714,
     "friends_count": 746,
     "listed_count": 0,
     "created_at": "Mon Mar 25 14:12:32 +0000 2019",
@@ -62,7 +66,7 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 159873,
+    "statuses_count": 159895,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -96,21 +100,137 @@
     "created_at": "Mon May 02 16:11:27 +0000 2022",
     "id": 1521160447893946368,
     "id_str": "1521160447893946368",
-    "text": "Primeira medi\u00e7\u00e3o incorporada no SUS para \"tratamento de covid\", com tarifa ZERO para importa\u00e7\u00e3o.\u2026 https://t.co/C1u0Bip5bg",
-    "truncated": true,
+    "full_text": "Primeira medi\u00e7\u00e3o incorporada no SUS para \"tratamento de covid\", com tarifa ZERO para importa\u00e7\u00e3o.\n#BolsonaroReeleito2022 https://t.co/UTSHhlartQ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      119
+    ],
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "BolsonaroReeleito2022",
+          "indices": [
+            97,
+            119
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/C1u0Bip5bg",
-          "expanded_url": "https://twitter.com/i/web/status/1521160447893946368",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1521160440478408706,
+          "id_str": "1521160440478408706",
           "indices": [
-            98,
-            121
-          ]
+            120,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRw_XHUXoAIKxjj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRw_XHUXoAIKxjj.jpg",
+          "url": "https://t.co/UTSHhlartQ",
+          "display_url": "pic.twitter.com/UTSHhlartQ",
+          "expanded_url": "https://twitter.com/MalyaIi/status/1521160447893946368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 985,
+              "h": 1059,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 632,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 985,
+              "h": 1059,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1521160440478408706,
+          "id_str": "1521160440478408706",
+          "indices": [
+            120,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRw_XHUXoAIKxjj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRw_XHUXoAIKxjj.jpg",
+          "url": "https://t.co/UTSHhlartQ",
+          "display_url": "pic.twitter.com/UTSHhlartQ",
+          "expanded_url": "https://twitter.com/MalyaIi/status/1521160447893946368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 985,
+              "h": 1059,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 632,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 985,
+              "h": 1059,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1521160444525883393,
+          "id_str": "1521160444525883393",
+          "indices": [
+            120,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRw_XWZXMAEFOLQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRw_XWZXMAEFOLQ.jpg",
+          "url": "https://t.co/UTSHhlartQ",
+          "display_url": "pic.twitter.com/UTSHhlartQ",
+          "expanded_url": "https://twitter.com/MalyaIi/status/1521160447893946368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1020,
+              "h": 1417,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 864,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -138,7 +258,7 @@
         }
       },
       "protected": false,
-      "followers_count": 4944,
+      "followers_count": 4943,
       "friends_count": 5020,
       "listed_count": 5,
       "created_at": "Sat Dec 26 10:19:49 +0000 2020",

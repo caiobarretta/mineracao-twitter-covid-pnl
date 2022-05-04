@@ -2,21 +2,93 @@
   "created_at": "Sun May 01 14:50:30 +0000 2022",
   "id": 1520777688142782465,
   "id_str": "1520777688142782465",
-  "text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o prime\u2026 https://t.co/SjA7j7yCrm",
-  "truncated": true,
+  "full_text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o primeiro a ser incorporado pelo Sistema \u00danico de Sa\u00fade (SUS) para o tratamento da Covid-19.\n\nComposto atua sobre o sistema imune, auxiliando no processo de recupera\u00e7\u00e3o de https://t.co/gvMaXByM6s",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    280
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/SjA7j7yCrm",
-        "expanded_url": "https://twitter.com/i/web/status/1520777688142782465",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1520777685760454656,
+        "id_str": "1520777685760454656",
         "indices": [
-          117,
-          140
-        ]
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRrjP24XsAAXbch.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRrjP24XsAAXbch.jpg",
+        "url": "https://t.co/gvMaXByM6s",
+        "display_url": "pic.twitter.com/gvMaXByM6s",
+        "expanded_url": "https://twitter.com/Josegabrielrj/status/1520777688142782465/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520777685760454656,
+        "id_str": "1520777685760454656",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRrjP24XsAAXbch.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRrjP24XsAAXbch.jpg",
+        "url": "https://t.co/gvMaXByM6s",
+        "display_url": "pic.twitter.com/gvMaXByM6s",
+        "expanded_url": "https://twitter.com/Josegabrielrj/status/1520777688142782465/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -44,16 +116,16 @@
       }
     },
     "protected": false,
-    "followers_count": 1378,
-    "friends_count": 2220,
+    "followers_count": 1380,
+    "friends_count": 2221,
     "listed_count": 1,
     "created_at": "Mon Apr 20 21:22:00 +0000 2009",
-    "favourites_count": 9906,
+    "favourites_count": 9908,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 14168,
+    "statuses_count": 14175,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

@@ -2,8 +2,12 @@
   "created_at": "Tue May 03 14:00:18 +0000 2022",
   "id": 1521489833495044103,
   "id_str": "1521489833495044103",
-  "text": "PBH chama idosos acima de 60 anos para tomar 4\u00aa dose da vacina contra a Covid-19\n\n#VACINASIM #covid #vacina\u00e7\u00e3ocovid\u2026 https://t.co/7e5OZLIny8",
-  "truncated": true,
+  "full_text": "PBH chama idosos acima de 60 anos para tomar 4\u00aa dose da vacina contra a Covid-19\n\n#VACINASIM #covid #vacina\u00e7\u00e3ocovid \n#sus #Sa\u00fadeP\u00fablica #PBH\n\n\u2705 Leia essa e outras mat\u00e9rias no site: https://t.co/8tNxJV1ryl\n\n\ud83d\udd17 Link: https://t.co/7sDP6Sqtep https://t.co/Oi6jzTlfcB",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    237
+  ],
   "entities": {
     "hashtags": [
       {
@@ -26,19 +30,127 @@
           100,
           115
         ]
+      },
+      {
+        "text": "sus",
+        "indices": [
+          117,
+          121
+        ]
+      },
+      {
+        "text": "Sa\u00fadeP\u00fablica",
+        "indices": [
+          122,
+          135
+        ]
+      },
+      {
+        "text": "PBH",
+        "indices": [
+          136,
+          140
+        ]
       }
     ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/7e5OZLIny8",
-        "expanded_url": "https://twitter.com/i/web/status/1521489833495044103",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/8tNxJV1ryl",
+        "expanded_url": "http://novojornal.com.br",
+        "display_url": "novojornal.com.br",
         "indices": [
-          117,
-          140
+          181,
+          204
         ]
+      },
+      {
+        "url": "https://t.co/7sDP6Sqtep",
+        "expanded_url": "https://www.novojornal.com.br/idosos-acima-de-60-sao-convocados-para-4a-dose-da-vacina-contra-a-covid-19/",
+        "display_url": "novojornal.com.br/idosos-acima-d\u2026",
+        "indices": [
+          214,
+          237
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1521489830487769091,
+        "id_str": "1521489830487769091",
+        "indices": [
+          238,
+          261
+        ],
+        "media_url": "http://pbs.twimg.com/media/FR1q8IuXwAMyS0S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FR1q8IuXwAMyS0S.jpg",
+        "url": "https://t.co/Oi6jzTlfcB",
+        "display_url": "pic.twitter.com/Oi6jzTlfcB",
+        "expanded_url": "https://twitter.com/novojornal_/status/1521489833495044103/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1521489830487769091,
+        "id_str": "1521489830487769091",
+        "indices": [
+          238,
+          261
+        ],
+        "media_url": "http://pbs.twimg.com/media/FR1q8IuXwAMyS0S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FR1q8IuXwAMyS0S.jpg",
+        "url": "https://t.co/Oi6jzTlfcB",
+        "display_url": "pic.twitter.com/Oi6jzTlfcB",
+        "expanded_url": "https://twitter.com/novojornal_/status/1521489833495044103/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -85,7 +197,7 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 864,
+    "statuses_count": 866,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

@@ -2,8 +2,12 @@
   "created_at": "Mon May 02 20:46:49 +0000 2022",
   "id": 1521229747736305664,
   "id_str": "1521229747736305664",
-  "text": "\u00c9 bom registrar, muito grata ao SUS: 4a dose contra COVID-19 e uma dose contra influenza.\n#VacinasSalvamVidas\u2026 https://t.co/y3YyGAK0dB",
-  "truncated": true,
+  "full_text": "\u00c9 bom registrar, muito grata ao SUS: 4a dose contra COVID-19 e uma dose contra influenza.\n#VacinasSalvamVidas\n#vivaosus\u2764\ufe0f\ud83d\udc89 em Cantinho Da Verita https://t.co/Z5VStijcVK",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    168
+  ],
   "entities": {
     "hashtags": [
       {
@@ -12,18 +16,25 @@
           90,
           109
         ]
+      },
+      {
+        "text": "vivaosus",
+        "indices": [
+          110,
+          119
+        ]
       }
     ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/y3YyGAK0dB",
-        "expanded_url": "https://twitter.com/i/web/status/1521229747736305664",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/Z5VStijcVK",
+        "expanded_url": "https://www.instagram.com/p/CdEdDjLOar0/?igshid=YTgzYjQ4ZTY=",
+        "display_url": "instagram.com/p/CdEdDjLOar0/\u2026",
         "indices": [
-          111,
-          134
+          145,
+          168
         ]
       }
     ]

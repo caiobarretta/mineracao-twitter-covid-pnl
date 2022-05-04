@@ -2,8 +2,12 @@
   "created_at": "Fri Apr 29 10:35:56 +0000 2022",
   "id": 1519988848985583616,
   "id_str": "1519988848985583616",
-  "text": "@Andomore @padilhando N\u00e3o fosse o SUS, o atendimento de UTI pra contaminados por covid seria impag\u00e1vel pra boa part\u2026 https://t.co/iV5cGIQZLU",
-  "truncated": true,
+  "full_text": "@Andomore @padilhando N\u00e3o fosse o SUS, o atendimento de UTI pra contaminados por covid seria impag\u00e1vel pra boa parte dos que previsaram desse tipo de cuidado.",
+  "truncated": false,
+  "display_text_range": [
+    22,
+    158
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -29,17 +33,7 @@
         ]
       }
     ],
-    "urls": [
-      {
-        "url": "https://t.co/iV5cGIQZLU",
-        "expanded_url": "https://twitter.com/i/web/status/1519988848985583616",
-        "display_url": "twitter.com/i/web/status/1\u2026",
-        "indices": [
-          117,
-          140
-        ]
-      }
-    ]
+    "urls": []
   },
   "metadata": {
     "iso_language_code": "pt",

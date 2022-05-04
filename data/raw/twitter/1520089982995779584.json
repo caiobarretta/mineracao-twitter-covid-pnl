@@ -2,21 +2,103 @@
   "created_at": "Fri Apr 29 17:17:48 +0000 2022",
   "id": 1520089982995779584,
   "id_str": "1520089982995779584",
-  "text": "Plataforma centraliza dados de filas de cirurgias eletivas do SUS\n\nPrograma integra conjunto de medidas para agiliz\u2026 https://t.co/zJOUpadbgD",
-  "truncated": true,
+  "full_text": "Plataforma centraliza dados de filas de cirurgias eletivas do SUS\n\nPrograma integra conjunto de medidas para agilizar o atendimento da demanda reprimida em raz\u00e3o da pandemia de covid-19: https://t.co/PFO2N4AXVO https://t.co/Rd2UrQb4Rm",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    210
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/zJOUpadbgD",
-        "expanded_url": "https://twitter.com/i/web/status/1520089982995779584",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/PFO2N4AXVO",
+        "expanded_url": "https://portal.campinas.sp.gov.br/noticia/44173",
+        "display_url": "portal.campinas.sp.gov.br/noticia/44173",
         "indices": [
-          117,
-          140
+          187,
+          210
         ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1520089960900141057,
+        "id_str": "1520089960900141057",
+        "indices": [
+          211,
+          234
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRhxxAIXIAEgKSG.png",
+        "media_url_https": "https://pbs.twimg.com/media/FRhxxAIXIAEgKSG.png",
+        "url": "https://t.co/Rd2UrQb4Rm",
+        "display_url": "pic.twitter.com/Rd2UrQb4Rm",
+        "expanded_url": "https://twitter.com/campinaspref/status/1520089982995779584/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520089960900141057,
+        "id_str": "1520089960900141057",
+        "indices": [
+          211,
+          234
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRhxxAIXIAEgKSG.png",
+        "media_url_https": "https://pbs.twimg.com/media/FRhxxAIXIAEgKSG.png",
+        "url": "https://t.co/Rd2UrQb4Rm",
+        "display_url": "pic.twitter.com/Rd2UrQb4Rm",
+        "expanded_url": "https://twitter.com/campinaspref/status/1520089982995779584/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 555,
+            "h": 400,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
       }
     ]
   },
@@ -44,7 +126,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2591,
+    "followers_count": 2592,
     "friends_count": 31,
     "listed_count": 12,
     "created_at": "Wed Apr 29 16:56:19 +0000 2020",
@@ -53,7 +135,7 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 5161,
+    "statuses_count": 5166,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

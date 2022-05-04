@@ -2,8 +2,12 @@
   "created_at": "Thu Apr 28 22:10:02 +0000 2022",
   "id": 1519801136882098178,
   "id_str": "1519801136882098178",
-  "text": "Vacina\u00e7\u00e3o em BH: Capital vacina contra a gripe, sarampo e Covid neste s\u00e1bado, 30\n\n#VACINASIM #vacinagripe\n#sus\u2026 https://t.co/V7vOjqB5At",
-  "truncated": true,
+  "full_text": "Vacina\u00e7\u00e3o em BH: Capital vacina contra a gripe, sarampo e Covid neste s\u00e1bado, 30\n\n#VACINASIM #vacinagripe\n#sus #Sa\u00fadeP\u00fablica #vacinagripe2022 \n\n\u2705 Leia essa e outras mat\u00e9rias no site: https://t.co/8tNxJV1ryl\n\n\ud83d\udd17 Link: https://t.co/EuR8NOzpCG https://t.co/3gcCt6NiCi",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    239
+  ],
   "entities": {
     "hashtags": [
       {
@@ -26,19 +30,120 @@
           106,
           110
         ]
+      },
+      {
+        "text": "Sa\u00fadeP\u00fablica",
+        "indices": [
+          111,
+          124
+        ]
+      },
+      {
+        "text": "vacinagripe2022",
+        "indices": [
+          125,
+          141
+        ]
       }
     ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/V7vOjqB5At",
-        "expanded_url": "https://twitter.com/i/web/status/1519801136882098178",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/8tNxJV1ryl",
+        "expanded_url": "http://novojornal.com.br",
+        "display_url": "novojornal.com.br",
         "indices": [
-          112,
-          135
+          183,
+          206
         ]
+      },
+      {
+        "url": "https://t.co/EuR8NOzpCG",
+        "expanded_url": "https://www.novojornal.com.br/capital-vacina-contra-a-gripe-sarampo-e-covid-neste-sabado/",
+        "display_url": "novojornal.com.br/capital-vacina\u2026",
+        "indices": [
+          216,
+          239
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1519801134826893315,
+        "id_str": "1519801134826893315",
+        "indices": [
+          240,
+          263
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRdrFHKXsAMZjwI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRdrFHKXsAMZjwI.jpg",
+        "url": "https://t.co/3gcCt6NiCi",
+        "display_url": "pic.twitter.com/3gcCt6NiCi",
+        "expanded_url": "https://twitter.com/novojornal_/status/1519801136882098178/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1519801134826893315,
+        "id_str": "1519801134826893315",
+        "indices": [
+          240,
+          263
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRdrFHKXsAMZjwI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRdrFHKXsAMZjwI.jpg",
+        "url": "https://t.co/3gcCt6NiCi",
+        "display_url": "pic.twitter.com/3gcCt6NiCi",
+        "expanded_url": "https://twitter.com/novojornal_/status/1519801136882098178/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -85,7 +190,7 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 864,
+    "statuses_count": 866,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

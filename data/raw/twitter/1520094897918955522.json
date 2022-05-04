@@ -2,8 +2,12 @@
   "created_at": "Fri Apr 29 17:37:20 +0000 2022",
   "id": 1520094897918955522,
   "id_str": "1520094897918955522",
-  "text": "RT @Haddad_Fernando: \u201cSa\u00fade e Educa\u00e7\u00e3o em SP no p\u00f3s-pandemia s\u00e3o desafios enormes: crian\u00e7as voltando \u00e0s aulas em condi\u00e7\u00f5es prec\u00e1rias, profe\u2026",
+  "full_text": "RT @Haddad_Fernando: \u201cSa\u00fade e Educa\u00e7\u00e3o em SP no p\u00f3s-pandemia s\u00e3o desafios enormes: crian\u00e7as voltando \u00e0s aulas em condi\u00e7\u00f5es prec\u00e1rias, profe\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -49,7 +53,7 @@
     "friends_count": 2030,
     "listed_count": 2,
     "created_at": "Fri Jun 29 03:10:21 +0000 2018",
-    "favourites_count": 54998,
+    "favourites_count": 55000,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
@@ -88,23 +92,25 @@
     "created_at": "Fri Apr 29 12:46:44 +0000 2022",
     "id": 1520021767749783553,
     "id_str": "1520021767749783553",
-    "text": "\u201cSa\u00fade e Educa\u00e7\u00e3o em SP no p\u00f3s-pandemia s\u00e3o desafios enormes: crian\u00e7as voltando \u00e0s aulas em condi\u00e7\u00f5es prec\u00e1rias, pr\u2026 https://t.co/ASABmya3UE",
-    "truncated": true,
+    "full_text": "\u201cSa\u00fade e Educa\u00e7\u00e3o em SP no p\u00f3s-pandemia s\u00e3o desafios enormes: crian\u00e7as voltando \u00e0s aulas em condi\u00e7\u00f5es prec\u00e1rias, professores sendo maltratados pelo governo do Estado e uma fila do SUS muito grande com procedimentos que foram adiados em fun\u00e7\u00e3o da COVID.\u201d #EquipeHaddad",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      267
+    ],
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "hashtags": [
         {
-          "url": "https://t.co/ASABmya3UE",
-          "expanded_url": "https://twitter.com/i/web/status/1520021767749783553",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "text": "EquipeHaddad",
           "indices": [
-            117,
-            140
+            254,
+            267
           ]
         }
-      ]
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
     },
     "metadata": {
       "iso_language_code": "pt",
@@ -130,11 +136,11 @@
         }
       },
       "protected": false,
-      "followers_count": 2367373,
+      "followers_count": 2367423,
       "friends_count": 570,
-      "listed_count": 2490,
+      "listed_count": 2491,
       "created_at": "Sat Aug 13 03:51:21 +0000 2011",
-      "favourites_count": 1286,
+      "favourites_count": 1285,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
@@ -171,7 +177,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 65,
-    "favorite_count": 329,
+    "favorite_count": 330,
     "favorited": false,
     "retweeted": false,
     "lang": "pt"

@@ -2,21 +2,93 @@
   "created_at": "Sun May 01 20:17:18 +0000 2022",
   "id": 1520859932597358592,
   "id_str": "1520859932597358592",
-  "text": "\ud83d\ude4c\ud83c\udffd Mais uma semana come\u00e7a e com ela vem a multivacina\u00e7\u00e3o. \n\n\ud83d\udc89A equipe de sa\u00fade estar\u00e1 vacinando contra a Covid-19,\u2026 https://t.co/708tYb1Pzy",
-  "truncated": true,
+  "full_text": "\ud83d\ude4c\ud83c\udffd Mais uma semana come\u00e7a e com ela vem a multivacina\u00e7\u00e3o. \n\n\ud83d\udc89A equipe de sa\u00fade estar\u00e1 vacinando contra a Covid-19, sarampo e influenza. Fique atento aos hor\u00e1rios e o local mais perto de ti! \n\n\ud83d\udcc2 Leve RG, cart\u00e3o do SUS e cart\u00e3o de vacina. https://t.co/WglO8CwrLM",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    236
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/708tYb1Pzy",
-        "expanded_url": "https://twitter.com/i/web/status/1520859932597358592",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1520859926473621506,
+        "id_str": "1520859926473621506",
         "indices": [
-          116,
-          139
-        ]
+          237,
+          260
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsuC5aWQAIcG05.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsuC5aWQAIcG05.jpg",
+        "url": "https://t.co/WglO8CwrLM",
+        "display_url": "pic.twitter.com/WglO8CwrLM",
+        "expanded_url": "https://twitter.com/pmscomunica/status/1520859932597358592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 818,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 818,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 543,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520859926473621506,
+        "id_str": "1520859926473621506",
+        "indices": [
+          237,
+          260
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsuC5aWQAIcG05.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsuC5aWQAIcG05.jpg",
+        "url": "https://t.co/WglO8CwrLM",
+        "display_url": "pic.twitter.com/WglO8CwrLM",
+        "expanded_url": "https://twitter.com/pmscomunica/status/1520859932597358592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 818,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 818,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 543,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },

@@ -2,21 +2,93 @@
   "created_at": "Mon May 02 17:48:41 +0000 2022",
   "id": 1521184920625889282,
   "id_str": "1521184920625889282",
-  "text": "a lembran\u00e7a peculiar de quando eu estagiei no SUS e tava fazendo cartaz de Covid antes mesmo de ter chegado no Bras\u2026 https://t.co/hrNBPGskdv",
-  "truncated": true,
+  "full_text": "a lembran\u00e7a peculiar de quando eu estagiei no SUS e tava fazendo cartaz de Covid antes mesmo de ter chegado no Brasil... era meio sinistro\n\nmuita gente deve ter visto esse cartaz na sa\u00fade p\u00fablica em S\u00e3o Paulo kkkkkk eu que fiz https://t.co/UFMNLA5tpT",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    226
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/hrNBPGskdv",
-        "expanded_url": "https://twitter.com/i/web/status/1521184920625889282",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1521184918025474051,
+        "id_str": "1521184918025474051",
         "indices": [
-          117,
-          140
-        ]
+          227,
+          250
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRxVn5SXEAM6Icr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRxVn5SXEAM6Icr.jpg",
+        "url": "https://t.co/UFMNLA5tpT",
+        "display_url": "pic.twitter.com/UFMNLA5tpT",
+        "expanded_url": "https://twitter.com/cafe_com_bolo/status/1521184920625889282/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1521184918025474051,
+        "id_str": "1521184918025474051",
+        "indices": [
+          227,
+          250
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRxVn5SXEAM6Icr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRxVn5SXEAM6Icr.jpg",
+        "url": "https://t.co/UFMNLA5tpT",
+        "display_url": "pic.twitter.com/UFMNLA5tpT",
+        "expanded_url": "https://twitter.com/cafe_com_bolo/status/1521184920625889282/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },

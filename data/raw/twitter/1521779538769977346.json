@@ -2,8 +2,12 @@
   "created_at": "Wed May 04 09:11:29 +0000 2022",
   "id": 1521779538769977346,
   "id_str": "1521779538769977346",
-  "text": "RT @MariNogueira___: Ap\u00f3s meses de vacina\u00e7\u00e3o contra a covid-19, apesar das fakenews e do governo federal atacar/desfinanciar a ci\u00eancia, tec\u2026",
+  "full_text": "RT @MariNogueira___: Ap\u00f3s meses de vacina\u00e7\u00e3o contra a covid-19, apesar das fakenews e do governo federal atacar/desfinanciar a ci\u00eancia, tec\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -101,21 +105,150 @@
     "created_at": "Mon May 02 15:04:05 +0000 2022",
     "id": 1521143494617751555,
     "id_str": "1521143494617751555",
-    "text": "Ap\u00f3s meses de vacina\u00e7\u00e3o contra a covid-19, apesar das fakenews e do governo federal atacar/desfinanciar a ci\u00eancia,\u2026 https://t.co/M3eKXdBdA1",
-    "truncated": true,
+    "full_text": "Ap\u00f3s meses de vacina\u00e7\u00e3o contra a covid-19, apesar das fakenews e do governo federal atacar/desfinanciar a ci\u00eancia, tecnologia e sa\u00fade p\u00fablicas, h\u00e1 diminui\u00e7\u00e3o expressiva no n\u00famero de mortos e adoecidos por Covid gra\u00e7as \u00e0 vacina\u00e7\u00e3o! Viva o SUS! @pcbpartidao_rj @OPoderPopular https://t.co/dEYVczek5J",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/M3eKXdBdA1",
-          "expanded_url": "https://twitter.com/i/web/status/1521143494617751555",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "screen_name": "pcbpartidao_rj",
+          "name": "PCB Partid\u00e3o RJ (oficial)",
+          "id": 1244299494151290881,
+          "id_str": "1244299494151290881",
           "indices": [
-            116,
-            139
+            243,
+            258
           ]
+        },
+        {
+          "screen_name": "OPoderPopular",
+          "name": "Jornal O Poder Popular",
+          "id": 963879263605854210,
+          "id_str": "963879263605854210",
+          "indices": [
+            259,
+            273
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1521143489387540482,
+          "id_str": "1521143489387540482",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRwv8blXsAI87jq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRwv8blXsAI87jq.jpg",
+          "url": "https://t.co/dEYVczek5J",
+          "display_url": "pic.twitter.com/dEYVczek5J",
+          "expanded_url": "https://twitter.com/MariNogueira___/status/1521143494617751555/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 678,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1079,
+              "h": 1076,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1079,
+              "h": 1076,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1521143489387540482,
+          "id_str": "1521143489387540482",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRwv8blXsAI87jq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRwv8blXsAI87jq.jpg",
+          "url": "https://t.co/dEYVczek5J",
+          "display_url": "pic.twitter.com/dEYVczek5J",
+          "expanded_url": "https://twitter.com/MariNogueira___/status/1521143494617751555/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 678,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1079,
+              "h": 1076,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1079,
+              "h": 1076,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1521143492487036928,
+          "id_str": "1521143492487036928",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRwv8nIWQAAnWAR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRwv8nIWQAAnWAR.jpg",
+          "url": "https://t.co/dEYVczek5J",
+          "display_url": "pic.twitter.com/dEYVczek5J",
+          "expanded_url": "https://twitter.com/MariNogueira___/status/1521143494617751555/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 518,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1079,
+              "h": 822,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1079,
+              "h": 822,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -152,7 +285,7 @@
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 326,
+      "statuses_count": 327,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

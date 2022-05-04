@@ -2,8 +2,12 @@
   "created_at": "Thu Apr 28 13:05:02 +0000 2022",
   "id": 1519663983162269698,
   "id_str": "1519663983162269698",
-  "text": "#PBH desobriga exig\u00eancia de cart\u00e3o de vacina e teste de Covid em shows e eventos na capital\n\n#cmsbh #sus #salveosus\u2026 https://t.co/WiiHHrMp4y",
-  "truncated": true,
+  "full_text": "#PBH desobriga exig\u00eancia de cart\u00e3o de vacina e teste de Covid em shows e eventos na capital\n\n#cmsbh #sus #salveosus #controlesocial #saudepublica #saudeparatodos #pbh \n\n\u2705 Leia essa e outras mat\u00e9rias no site: https://t.co/8tNxJV1ryl\n\n\ud83d\udd17 Link: https://t.co/GZYptiijG1 https://t.co/qDrFSLG2UQ",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    264
+  ],
   "entities": {
     "hashtags": [
       {
@@ -33,19 +37,134 @@
           105,
           115
         ]
+      },
+      {
+        "text": "controlesocial",
+        "indices": [
+          116,
+          131
+        ]
+      },
+      {
+        "text": "saudepublica",
+        "indices": [
+          132,
+          145
+        ]
+      },
+      {
+        "text": "saudeparatodos",
+        "indices": [
+          146,
+          161
+        ]
+      },
+      {
+        "text": "pbh",
+        "indices": [
+          162,
+          166
+        ]
       }
     ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/WiiHHrMp4y",
-        "expanded_url": "https://twitter.com/i/web/status/1519663983162269698",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/8tNxJV1ryl",
+        "expanded_url": "http://novojornal.com.br",
+        "display_url": "novojornal.com.br",
         "indices": [
-          117,
-          140
+          208,
+          231
         ]
+      },
+      {
+        "url": "https://t.co/GZYptiijG1",
+        "expanded_url": "https://www.novojornal.com.br/cartao-de-vacina-e-teste-de-covid-nao-serao-mais-exigidos/",
+        "display_url": "novojornal.com.br/cartao-de-vaci\u2026",
+        "indices": [
+          241,
+          264
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1519663981027332096,
+        "id_str": "1519663981027332096",
+        "indices": [
+          265,
+          288
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRbuVtcXEAAR2_S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRbuVtcXEAAR2_S.jpg",
+        "url": "https://t.co/qDrFSLG2UQ",
+        "display_url": "pic.twitter.com/qDrFSLG2UQ",
+        "expanded_url": "https://twitter.com/novojornal_/status/1519663983162269698/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1519663981027332096,
+        "id_str": "1519663981027332096",
+        "indices": [
+          265,
+          288
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRbuVtcXEAAR2_S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRbuVtcXEAAR2_S.jpg",
+        "url": "https://t.co/qDrFSLG2UQ",
+        "display_url": "pic.twitter.com/qDrFSLG2UQ",
+        "expanded_url": "https://twitter.com/novojornal_/status/1519663983162269698/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -92,7 +211,7 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 864,
+    "statuses_count": 866,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

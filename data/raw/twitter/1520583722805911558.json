@@ -2,10 +2,22 @@
   "created_at": "Sun May 01 01:59:45 +0000 2022",
   "id": 1520583722805911558,
   "id_str": "1520583722805911558",
-  "text": "@AnaPaulaVolei Deixem o presidente \nDA FOME\nMIS\u00c9RIA\nDESEMPREGO\nINFLA\u00c7\u00c3O EU M 13%\nFALTA SE REM\u00c9DIOS\nFAL\u00caNCIA DO SUS\u2026 https://t.co/NLUorzf0vS",
-  "truncated": true,
+  "full_text": "@AnaPaulaVolei Deixem o presidente \nDA FOME\nMIS\u00c9RIA\nDESEMPREGO\nINFLA\u00c7\u00c3O EU M 13%\nFALTA SE REM\u00c9DIOS\nFAL\u00caNCIA DO SUS\nFILA DA APOSENTADORIA\nFALTA DE SANEAMENTO\nQUEIMADAS\n700 MIL MORTES DE COVID\n\nOU SEJA A MOCA AI DEFENDE O PA\u00cdS DA DESGRA\u00c7A \nCOM O PIR GOVERNO DO MUNDO\n#ForaBolsonaroeSuaQuadrilha https://t.co/u4Wb0OJ2b3",
+  "truncated": false,
+  "display_text_range": [
+    15,
+    292
+  ],
   "entities": {
-    "hashtags": [],
+    "hashtags": [
+      {
+        "text": "ForaBolsonaroeSuaQuadrilha",
+        "indices": [
+          265,
+          292
+        ]
+      }
+    ],
     "symbols": [],
     "user_mentions": [
       {
@@ -19,15 +31,83 @@
         ]
       }
     ],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/NLUorzf0vS",
-        "expanded_url": "https://twitter.com/i/web/status/1520583722805911558",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1520583720209731584,
+        "id_str": "1520583720209731584",
         "indices": [
-          116,
-          139
-        ]
+          293,
+          316
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRoy1k5X0AACyof.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRoy1k5X0AACyof.jpg",
+        "url": "https://t.co/u4Wb0OJ2b3",
+        "display_url": "pic.twitter.com/u4Wb0OJ2b3",
+        "expanded_url": "https://twitter.com/RejaneRuiva2/status/1520583722805911558/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 704,
+            "h": 878,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 704,
+            "h": 878,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 545,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520583720209731584,
+        "id_str": "1520583720209731584",
+        "indices": [
+          293,
+          316
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRoy1k5X0AACyof.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRoy1k5X0AACyof.jpg",
+        "url": "https://t.co/u4Wb0OJ2b3",
+        "display_url": "pic.twitter.com/u4Wb0OJ2b3",
+        "expanded_url": "https://twitter.com/RejaneRuiva2/status/1520583722805911558/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 704,
+            "h": 878,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 704,
+            "h": 878,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 545,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -59,12 +139,12 @@
     "friends_count": 613,
     "listed_count": 0,
     "created_at": "Tue Dec 07 16:52:48 +0000 2021",
-    "favourites_count": 619,
+    "favourites_count": 620,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 1546,
+    "statuses_count": 1547,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

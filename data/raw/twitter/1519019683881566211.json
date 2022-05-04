@@ -2,8 +2,12 @@
   "created_at": "Tue Apr 26 18:24:49 +0000 2022",
   "id": 1519019683881566211,
   "id_str": "1519019683881566211",
-  "text": "Mesmo com a chegada do frio, #Dengue dispara no Brasil, ofuscada pela COVID 19, Guerra da Ucr\u00e2nia e Carnaval. Evite\u2026 https://t.co/OeplzyqwHE",
-  "truncated": true,
+  "full_text": "Mesmo com a chegada do frio, #Dengue dispara no Brasil, ofuscada pela COVID 19, Guerra da Ucr\u00e2nia e Carnaval. Evite \u00c1gua Parada, criadouro do mosquito vetor, o Aedes Aegypt.https://t.co/jiybDvtQck #Sa\u00fade #Sa\u00fadeP\u00fablica #Sa\u00fadeColetiva #Medicina #Infectologia #Promo\u00e7\u00e3odaSa\u00fade #SUS https://t.co/uMhtfotKrW",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    278
+  ],
   "entities": {
     "hashtags": [
       {
@@ -12,19 +16,146 @@
           29,
           36
         ]
+      },
+      {
+        "text": "Sa\u00fade",
+        "indices": [
+          197,
+          203
+        ]
+      },
+      {
+        "text": "Sa\u00fadeP\u00fablica",
+        "indices": [
+          204,
+          217
+        ]
+      },
+      {
+        "text": "Sa\u00fadeColetiva",
+        "indices": [
+          218,
+          232
+        ]
+      },
+      {
+        "text": "Medicina",
+        "indices": [
+          233,
+          242
+        ]
+      },
+      {
+        "text": "Infectologia",
+        "indices": [
+          243,
+          256
+        ]
+      },
+      {
+        "text": "Promo\u00e7\u00e3odaSa\u00fade",
+        "indices": [
+          257,
+          273
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          274,
+          278
+        ]
       }
     ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/OeplzyqwHE",
-        "expanded_url": "https://twitter.com/i/web/status/1519019683881566211",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/jiybDvtQck",
+        "expanded_url": "https://grupodobemestaredafelicidade.blogspot.com/2022/03/dengue-zika-chicungunha-saude.html",
+        "display_url": "\u2026odobemestaredafelicidade.blogspot.com/2022/03/dengue\u2026",
         "indices": [
-          117,
-          140
+          173,
+          196
         ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1519019542994898944,
+        "id_str": "1519019542994898944",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRSkOesWUAAu_p9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRSkOesWUAAu_p9.jpg",
+        "url": "https://t.co/uMhtfotKrW",
+        "display_url": "pic.twitter.com/uMhtfotKrW",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1519019683881566211/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1519019542994898944,
+        "id_str": "1519019542994898944",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRSkOesWUAAu_p9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRSkOesWUAAu_p9.jpg",
+        "url": "https://t.co/uMhtfotKrW",
+        "display_url": "pic.twitter.com/uMhtfotKrW",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1519019683881566211/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 512,
+            "h": 309,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },

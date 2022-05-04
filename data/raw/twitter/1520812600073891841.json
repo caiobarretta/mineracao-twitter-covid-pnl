@@ -2,8 +2,12 @@
   "created_at": "Sun May 01 17:09:13 +0000 2022",
   "id": 1520812600073891841,
   "id_str": "1520812600073891841",
-  "text": "N\u00famero de mortes por Covid aumenta mais de 30% em uma semana e preocupa especialistas https://t.co/EJZYqHsldv #R7 v\u2026 https://t.co/uEYlVPTwno",
-  "truncated": true,
+  "full_text": "N\u00famero de mortes por Covid aumenta mais de 30% em uma semana e preocupa especialistas https://t.co/EJZYqHsldv #R7 via @portalr7 S\u00f3 para LEMBRAR QUE NO , PICO DA PANDEMIA , em JAN/FEV/MAR\u00c7O  de 2021 , quando o SUS PEDIU LEITOS NOS HOSPITAIS MILITARES estes NEGARAM LEITOS ao SUS!",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    278
+  ],
   "entities": {
     "hashtags": [
       {
@@ -15,7 +19,18 @@
       }
     ],
     "symbols": [],
-    "user_mentions": [],
+    "user_mentions": [
+      {
+        "screen_name": "portalR7",
+        "name": "Portal R7.com",
+        "id": 65473559,
+        "id_str": "65473559",
+        "indices": [
+          118,
+          127
+        ]
+      }
+    ],
     "urls": [
       {
         "url": "https://t.co/EJZYqHsldv",
@@ -24,15 +39,6 @@
         "indices": [
           86,
           109
-        ]
-      },
-      {
-        "url": "https://t.co/uEYlVPTwno",
-        "expanded_url": "https://twitter.com/i/web/status/1520812600073891841",
-        "display_url": "twitter.com/i/web/status/1\u2026",
-        "indices": [
-          117,
-          140
         ]
       }
     ]

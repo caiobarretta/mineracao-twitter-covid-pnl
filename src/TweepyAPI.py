@@ -25,7 +25,7 @@ class TweepyAPI:
 
     def search_tweets(self, query, lang, count_of_tweets = 0):
         api = self.create_api()
-        tweets = tw.Cursor(api.search_tweets, q=query, lang=lang).items()
+        tweets = tw.Cursor(api.search_tweets, q=query, lang=lang, tweet_mode = "extended").items()
         if(count_of_tweets > 0):
             tweets = tweets.items(count_of_tweets)
         return tweets

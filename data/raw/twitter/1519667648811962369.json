@@ -2,23 +2,39 @@
   "created_at": "Thu Apr 28 13:19:36 +0000 2022",
   "id": 1519667648811962369,
   "id_str": "1519667648811962369",
-  "text": "Foi lindo! Arrebatador. Enxergar o sorriso sem m\u00e1scara chega a soar algo apote\u00f3tico. Que nossos feitos ecoem pela e\u2026 https://t.co/HQXPxYz3vU",
-  "truncated": true,
+  "full_text": "Foi lindo! Arrebatador. Enxergar o sorriso sem m\u00e1scara chega a soar algo apote\u00f3tico. Que nossos feitos ecoem pela eternidade, guiando de forma brilhante, considera\u00e7\u00f5es de amor ao pr\u00f3ximo, ci\u00eancia e sa\u00fade. \n#vivaosus\u2764 #covid_19 #sus",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    231
+  ],
   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
+    "hashtags": [
       {
-        "url": "https://t.co/HQXPxYz3vU",
-        "expanded_url": "https://twitter.com/i/web/status/1519667648811962369",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "text": "vivaosus",
         "indices": [
-          117,
-          140
+          206,
+          215
+        ]
+      },
+      {
+        "text": "covid_19",
+        "indices": [
+          217,
+          226
+        ]
+      },
+      {
+        "text": "sus",
+        "indices": [
+          227,
+          231
         ]
       }
-    ]
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
   },
   "metadata": {
     "iso_language_code": "pt",
@@ -48,7 +64,7 @@
     "friends_count": 120,
     "listed_count": 0,
     "created_at": "Mon Mar 30 18:47:48 +0000 2020",
-    "favourites_count": 5236,
+    "favourites_count": 5237,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,

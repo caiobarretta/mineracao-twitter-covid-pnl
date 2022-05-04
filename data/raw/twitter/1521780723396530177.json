@@ -2,8 +2,12 @@
   "created_at": "Wed May 04 09:16:12 +0000 2022",
   "id": 1521780723396530177,
   "id_str": "1521780723396530177",
-  "text": "RT @unifeso: N\u00e3o perca a confer\u00eancia top sobre o SUS e os desafios na pandemia da Covid-19, amanh\u00e3, 4/5, \u00e0s 17h, com o Dr. @danielsoranz (e\u2026",
+  "full_text": "RT @unifeso: N\u00e3o perca a confer\u00eancia top sobre o SUS e os desafios na pandemia da Covid-19, amanh\u00e3, 4/5, \u00e0s 17h, com o Dr. @danielsoranz (e\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -97,21 +101,122 @@
     "created_at": "Tue May 03 19:29:49 +0000 2022",
     "id": 1521572757045141504,
     "id_str": "1521572757045141504",
-    "text": "N\u00e3o perca a confer\u00eancia top sobre o SUS e os desafios na pandemia da Covid-19, amanh\u00e3, 4/5, \u00e0s 17h, com o Dr.\u2026 https://t.co/ZdwtpHAxSv",
-    "truncated": true,
+    "full_text": "N\u00e3o perca a confer\u00eancia top sobre o SUS e os desafios na pandemia da Covid-19, amanh\u00e3, 4/5, \u00e0s 17h, com o Dr. @danielsoranz (egresso do #unifeso, doutor em Epidemiologia e ex-Secret\u00e1rio Municipal de Sa\u00fade do RJ). Tamb\u00e9m ter\u00e1 transmiss\u00e3o simult\u00e2nea. \u25b6 https://t.co/VhsQJ0HcOv https://t.co/rGjs2IE1hJ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "unifeso",
+          "indices": [
+            136,
+            144
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "danielsoranz",
+          "name": "Daniel Soranz",
+          "id": 93426187,
+          "id_str": "93426187",
+          "indices": [
+            110,
+            123
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/ZdwtpHAxSv",
-          "expanded_url": "https://twitter.com/i/web/status/1521572757045141504",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "url": "https://t.co/VhsQJ0HcOv",
+          "expanded_url": "http://bit.ly/3MMruVx",
+          "display_url": "bit.ly/3MMruVx",
           "indices": [
-            111,
-            134
+            251,
+            274
           ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1521572754910330881,
+          "id_str": "1521572754910330881",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/FR22W-RXwAE0RLK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FR22W-RXwAE0RLK.jpg",
+          "url": "https://t.co/rGjs2IE1hJ",
+          "display_url": "pic.twitter.com/rGjs2IE1hJ",
+          "expanded_url": "https://twitter.com/unifeso/status/1521572757045141504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1521572754910330881,
+          "id_str": "1521572754910330881",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/FR22W-RXwAE0RLK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FR22W-RXwAE0RLK.jpg",
+          "url": "https://t.co/rGjs2IE1hJ",
+          "display_url": "pic.twitter.com/rGjs2IE1hJ",
+          "expanded_url": "https://twitter.com/unifeso/status/1521572757045141504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },

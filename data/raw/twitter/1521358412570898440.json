@@ -2,20 +2,24 @@
   "created_at": "Tue May 03 05:18:05 +0000 2022",
   "id": 1521358412570898440,
   "id_str": "1521358412570898440",
-  "text": "E viva o SUS! Viva os pol\u00edticos que passaram o ano enchendo o RABO com o dinheiro da sa\u00fade!\nViva a m\u00eddia PUTA que t\u2026 https://t.co/FCwk3sbrwx",
-  "truncated": true,
+  "full_text": "E viva o SUS! Viva os pol\u00edticos que passaram o ano enchendo o RABO com o dinheiro da sa\u00fade!\nViva a m\u00eddia PUTA que tinha at\u00e9 contador de mortes por Covid e arrotava hipocrisia humanit\u00e1ria.\nE Viva os COVIDIOTAS que se indignam por falta de vacina e se calam mediante o descaso! https://t.co/5CdYiorzpf",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    275
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/FCwk3sbrwx",
-        "expanded_url": "https://twitter.com/i/web/status/1521358412570898440",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/5CdYiorzpf",
+        "expanded_url": "https://twitter.com/AdriAlcantara22/status/1521223595128668161",
+        "display_url": "twitter.com/AdriAlcantara2\u2026",
         "indices": [
-          117,
-          140
+          276,
+          299
         ]
       }
     ]
@@ -90,21 +94,119 @@
     "created_at": "Mon May 02 20:22:22 +0000 2022",
     "id": 1521223595128668161,
     "id_str": "1521223595128668161",
-    "text": "Parte do teto do Hospital da Restaura\u00e7\u00e3o desabou hoje, em cima de pacientes. \nHaja descaso com a popula\u00e7\u00e3o, que al\u00e9\u2026 https://t.co/JD5c8EUtj5",
-    "truncated": true,
+    "full_text": "Parte do teto do Hospital da Restaura\u00e7\u00e3o desabou hoje, em cima de pacientes. \nHaja descaso com a popula\u00e7\u00e3o, que al\u00e9m de enfrentar superlota\u00e7\u00e3o, ainda corre risco de vida dentro do hospital. \nSe o maior hospital p\u00fablico de Recife est\u00e1 assim, imaginem como estar\u00e3o os outros de PE. https://t.co/Q1J1YbXkRJ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/JD5c8EUtj5",
-          "expanded_url": "https://twitter.com/i/web/status/1521223595128668161",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1521223552904613889,
+          "id_str": "1521223552904613889",
           "indices": [
-            117,
-            140
-          ]
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521223552904613889/pu/img/93SRTHkpwQ4fcYeY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521223552904613889/pu/img/93SRTHkpwQ4fcYeY.jpg",
+          "url": "https://t.co/Q1J1YbXkRJ",
+          "display_url": "pic.twitter.com/Q1J1YbXkRJ",
+          "expanded_url": "https://twitter.com/AdriAlcantara22/status/1521223595128668161/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1521223552904613889,
+          "id_str": "1521223552904613889",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521223552904613889/pu/img/93SRTHkpwQ4fcYeY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521223552904613889/pu/img/93SRTHkpwQ4fcYeY.jpg",
+          "url": "https://t.co/Q1J1YbXkRJ",
+          "display_url": "pic.twitter.com/Q1J1YbXkRJ",
+          "expanded_url": "https://twitter.com/AdriAlcantara22/status/1521223595128668161/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              30,
+              53
+            ],
+            "duration_millis": 29000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1521223552904613889/pu/pl/s7UZvBtA6vQeVhLJ.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1521223552904613889/pu/vid/480x848/2wKcEEb7GMrvFqut.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1521223552904613889/pu/vid/320x564/Fws81qLN7zhwktGM.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
         }
       ]
     },
@@ -132,16 +234,16 @@
         }
       },
       "protected": false,
-      "followers_count": 67345,
-      "friends_count": 35635,
+      "followers_count": 67348,
+      "friends_count": 35637,
       "listed_count": 43,
       "created_at": "Wed Nov 28 16:25:37 +0000 2018",
-      "favourites_count": 213977,
+      "favourites_count": 213980,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 58865,
+      "statuses_count": 58869,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

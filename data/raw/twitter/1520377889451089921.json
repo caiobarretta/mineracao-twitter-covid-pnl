@@ -2,20 +2,32 @@
   "created_at": "Sat Apr 30 12:21:50 +0000 2022",
   "id": 1520377889451089921,
   "id_str": "1520377889451089921",
-  "text": "Levantamento do g1 foi feito com base nos informativos divulgados pela Prefeitura entre os dias 18 e 22 de abril. V\u2026 https://t.co/VmVYO9pifO",
-  "truncated": true,
+  "full_text": "Levantamento do g1 foi feito com base nos informativos divulgados pela Prefeitura entre os dias 18 e 22 de abril. Veja tamb\u00e9m informa\u00e7\u00f5es de \u00f3bitos e interna\u00e7\u00f5es #g1ZonadaMata https://t.co/hFE60aBWos",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    199
+  ],
   "entities": {
-    "hashtags": [],
+    "hashtags": [
+      {
+        "text": "g1ZonadaMata",
+        "indices": [
+          162,
+          175
+        ]
+      }
+    ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/VmVYO9pifO",
-        "expanded_url": "https://twitter.com/i/web/status/1520377889451089921",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/hFE60aBWos",
+        "expanded_url": "http://glo.bo/3KwvAjl",
+        "display_url": "glo.bo/3KwvAjl",
         "indices": [
-          117,
-          140
+          176,
+          199
         ]
       }
     ]
@@ -57,7 +69,7 @@
       }
     },
     "protected": false,
-    "followers_count": 4561,
+    "followers_count": 4560,
     "friends_count": 1,
     "listed_count": 36,
     "created_at": "Fri Sep 06 15:15:20 +0000 2013",

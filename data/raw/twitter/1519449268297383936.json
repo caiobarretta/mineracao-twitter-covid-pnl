@@ -2,21 +2,174 @@
   "created_at": "Wed Apr 27 22:51:50 +0000 2022",
   "id": 1519449268297383936,
   "id_str": "1519449268297383936",
-  "text": "Blocos de Carnaval de Rua Clandestinos aumentam chance de Piora da pandemia da COVID 19 e dos Surtos de Gripe e de\u2026 https://t.co/ay2vko0TEh",
-  "truncated": true,
+  "full_text": "Blocos de Carnaval de Rua Clandestinos aumentam chance de Piora da pandemia da COVID 19 e dos Surtos de Gripe e de Sarampo. Use M\u00e1scara. Evite Aglomera\u00e7\u00f5es.https://t.co/WGZrl2foxh #Sa\u00fadeP\u00fablica #Sa\u00fade #Medicina #Infectologia #Vacina #GovernoSP #PrefeituraSP #ALESP #Congresso #SUS https://t.co/e7Pj1Kgyc6",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    280
+  ],
   "entities": {
-    "hashtags": [],
+    "hashtags": [
+      {
+        "text": "Sa\u00fadeP\u00fablica",
+        "indices": [
+          180,
+          193
+        ]
+      },
+      {
+        "text": "Sa\u00fade",
+        "indices": [
+          194,
+          200
+        ]
+      },
+      {
+        "text": "Medicina",
+        "indices": [
+          201,
+          210
+        ]
+      },
+      {
+        "text": "Infectologia",
+        "indices": [
+          211,
+          224
+        ]
+      },
+      {
+        "text": "Vacina",
+        "indices": [
+          225,
+          232
+        ]
+      },
+      {
+        "text": "GovernoSP",
+        "indices": [
+          233,
+          243
+        ]
+      },
+      {
+        "text": "PrefeituraSP",
+        "indices": [
+          244,
+          257
+        ]
+      },
+      {
+        "text": "ALESP",
+        "indices": [
+          258,
+          264
+        ]
+      },
+      {
+        "text": "Congresso",
+        "indices": [
+          265,
+          275
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          276,
+          280
+        ]
+      }
+    ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/ay2vko0TEh",
-        "expanded_url": "https://twitter.com/i/web/status/1519449268297383936",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/WGZrl2foxh",
+        "expanded_url": "https://grupodobemestaredafelicidade.blogspot.com/2022/04/covid19-coronavirus-saude-saudepublica.html",
+        "display_url": "\u2026odobemestaredafelicidade.blogspot.com/2022/04/covid1\u2026",
         "indices": [
-          116,
-          139
+          156,
+          179
         ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1519449254305148929,
+        "id_str": "1519449254305148929",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRYrC-EXMAEwIbi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRYrC-EXMAEwIbi.jpg",
+        "url": "https://t.co/e7Pj1Kgyc6",
+        "display_url": "pic.twitter.com/e7Pj1Kgyc6",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1519449268297383936/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1519449254305148929,
+        "id_str": "1519449254305148929",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRYrC-EXMAEwIbi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRYrC-EXMAEwIbi.jpg",
+        "url": "https://t.co/e7Pj1Kgyc6",
+        "display_url": "pic.twitter.com/e7Pj1Kgyc6",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1519449268297383936/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 639,
+            "h": 426,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },

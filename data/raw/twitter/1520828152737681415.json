@@ -2,21 +2,167 @@
   "created_at": "Sun May 01 18:11:01 +0000 2022",
   "id": 1520828152737681415,
   "id_str": "1520828152737681415",
-  "text": "M\u00e9dia de Casos novos e Mortes por COVID 19 volta a subir no Brasil ap\u00f3s Carnaval e fim do uso Obrigat\u00f3rio das M\u00e1sca\u2026 https://t.co/EDUYJalVqQ",
-  "truncated": true,
+  "full_text": "M\u00e9dia de Casos novos e Mortes por COVID 19 volta a subir no Brasil ap\u00f3s Carnaval e fim do uso Obrigat\u00f3rio das M\u00e1scaras.A Pandemia n\u00e3o acabou.https://t.co/5h1BozQhkM #Educa\u00e7\u00e3o #Educa\u00e7\u00e3oemSa\u00fade #Promo\u00e7\u00e3odaSa\u00fade #Comunica\u00e7\u00e3oemSa\u00fade #Moradia #Nutri\u00e7\u00e3o #Alimenta\u00e7\u00e3oSaud\u00e1vel #SUS #OMS https://t.co/plvJWfFl4M",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    278
+  ],
   "entities": {
-    "hashtags": [],
+    "hashtags": [
+      {
+        "text": "Educa\u00e7\u00e3o",
+        "indices": [
+          165,
+          174
+        ]
+      },
+      {
+        "text": "Educa\u00e7\u00e3oemSa\u00fade",
+        "indices": [
+          175,
+          191
+        ]
+      },
+      {
+        "text": "Promo\u00e7\u00e3odaSa\u00fade",
+        "indices": [
+          192,
+          208
+        ]
+      },
+      {
+        "text": "Comunica\u00e7\u00e3oemSa\u00fade",
+        "indices": [
+          209,
+          228
+        ]
+      },
+      {
+        "text": "Moradia",
+        "indices": [
+          229,
+          237
+        ]
+      },
+      {
+        "text": "Nutri\u00e7\u00e3o",
+        "indices": [
+          238,
+          247
+        ]
+      },
+      {
+        "text": "Alimenta\u00e7\u00e3oSaud\u00e1vel",
+        "indices": [
+          248,
+          268
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          269,
+          273
+        ]
+      },
+      {
+        "text": "OMS",
+        "indices": [
+          274,
+          278
+        ]
+      }
+    ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
       {
-        "url": "https://t.co/EDUYJalVqQ",
-        "expanded_url": "https://twitter.com/i/web/status/1520828152737681415",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/5h1BozQhkM",
+        "expanded_url": "https://grupodobemestaredafelicidade.blogspot.com/2022/05/no-dia-01-de-maio-de-2022-o-brasil.html",
+        "display_url": "\u2026odobemestaredafelicidade.blogspot.com/2022/05/no-dia\u2026",
         "indices": [
-          117,
-          140
+          141,
+          164
         ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1520827131013566465,
+        "id_str": "1520827131013566465",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsQN8zXEAEM_a4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsQN8zXEAEM_a4.jpg",
+        "url": "https://t.co/plvJWfFl4M",
+        "display_url": "pic.twitter.com/plvJWfFl4M",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1520828152737681415/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 771,
+            "h": 420,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 771,
+            "h": 420,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 370,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520827131013566465,
+        "id_str": "1520827131013566465",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsQN8zXEAEM_a4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsQN8zXEAEM_a4.jpg",
+        "url": "https://t.co/plvJWfFl4M",
+        "display_url": "pic.twitter.com/plvJWfFl4M",
+        "expanded_url": "https://twitter.com/Grupodobemestar/status/1520828152737681415/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 771,
+            "h": 420,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 771,
+            "h": 420,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 370,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },

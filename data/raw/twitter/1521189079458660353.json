@@ -2,23 +2,50 @@
   "created_at": "Mon May 02 18:05:13 +0000 2022",
   "id": 1521189079458660353,
   "id_str": "1521189079458660353",
-  "text": "Muito conveniente em ano de elei\u00e7\u00f5es negarem testar os pacientes com sintomas de covid. Se n\u00e3o tem teste n\u00e3o tem da\u2026 https://t.co/tU9Ymas3Zq",
-  "truncated": true,
+  "full_text": "Muito conveniente em ano de elei\u00e7\u00f5es negarem testar os pacientes com sintomas de covid. Se n\u00e3o tem teste n\u00e3o tem dados e nesse caso problema resolvido @govbr vamos calar a boca das emissoras n\u00e3o \u00e9 mesmo. \n#sus #saude #covid",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    223
+  ],
   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
+    "hashtags": [
       {
-        "url": "https://t.co/tU9Ymas3Zq",
-        "expanded_url": "https://twitter.com/i/web/status/1521189079458660353",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "text": "sus",
         "indices": [
-          117,
-          140
+          205,
+          209
+        ]
+      },
+      {
+        "text": "saude",
+        "indices": [
+          210,
+          216
+        ]
+      },
+      {
+        "text": "covid",
+        "indices": [
+          217,
+          223
         ]
       }
-    ]
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "govbr",
+        "name": "Governo do Brasil",
+        "id": 861707648584085504,
+        "id_str": "861707648584085504",
+        "indices": [
+          151,
+          157
+        ]
+      }
+    ],
+    "urls": []
   },
   "metadata": {
     "iso_language_code": "pt",

@@ -2,8 +2,12 @@
   "created_at": "Wed Apr 27 17:02:04 +0000 2022",
   "id": 1519361249775136771,
   "id_str": "1519361249775136771",
-  "text": "RT @Olivaci77: @GovSC Uma justa homenagem com valor de b\u00f4nus de R$ 2000 para servidores da Sa\u00fade do @GovSC que lutaram de mar\u00e7o de 2020 a m\u2026",
+  "full_text": "RT @Olivaci77: @GovSC Uma justa homenagem com valor de b\u00f4nus de R$ 2000 para servidores da Sa\u00fade do @GovSC que lutaram de mar\u00e7o de 2020 a m\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -131,10 +135,22 @@
     "created_at": "Sat Apr 23 02:00:04 +0000 2022",
     "id": 1517684700231446531,
     "id_str": "1517684700231446531",
-    "text": "@GovSC Uma justa homenagem com valor de b\u00f4nus de R$ 2000 para servidores da Sa\u00fade do @GovSC que lutaram de mar\u00e7o de\u2026 https://t.co/dcPxNebIFF",
-    "truncated": true,
+    "full_text": "@GovSC Uma justa homenagem com valor de b\u00f4nus de R$ 2000 para servidores da Sa\u00fade do @GovSC que lutaram de mar\u00e7o de 2020 a mar\u00e7o de 2022 na Pandemia do Covid-19 seria muito justo @CarlosMoises que gestores municipais tamb\u00e9m fa\u00e7am esse reconhecimento @orvinodeavila @saojose_pmsj #SUS https://t.co/qk2uclUrhA",
+    "truncated": false,
+    "display_text_range": [
+      7,
+      283
+    ],
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "SUS",
+          "indices": [
+            279,
+            283
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [
         {
@@ -156,17 +172,128 @@
             85,
             91
           ]
+        },
+        {
+          "screen_name": "CarlosMoises",
+          "name": "Carlos Mois\u00e9s",
+          "id": 456795842,
+          "id_str": "456795842",
+          "indices": [
+            179,
+            192
+          ]
+        },
+        {
+          "screen_name": "orvinodeavila",
+          "name": "Orvino Coelho de \u00c1vila",
+          "id": 1100484113369313280,
+          "id_str": "1100484113369313280",
+          "indices": [
+            250,
+            264
+          ]
+        },
+        {
+          "screen_name": "saojose_pmsj",
+          "name": "Prefeitura Municipal de S\u00e3o Jos\u00e9",
+          "id": 235205076,
+          "id_str": "235205076",
+          "indices": [
+            265,
+            278
+          ]
         }
       ],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/dcPxNebIFF",
-          "expanded_url": "https://twitter.com/i/web/status/1517684700231446531",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1517684690265812993,
+          "id_str": "1517684690265812993",
           "indices": [
-            117,
-            140
-          ]
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ_mL0xXsAEtQ0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ_mL0xXsAEtQ0d.jpg",
+          "url": "https://t.co/qk2uclUrhA",
+          "display_url": "pic.twitter.com/qk2uclUrhA",
+          "expanded_url": "https://twitter.com/Olivaci77/status/1517684700231446531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1517684690265812993,
+          "id_str": "1517684690265812993",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ_mL0xXsAEtQ0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ_mL0xXsAEtQ0d.jpg",
+          "url": "https://t.co/qk2uclUrhA",
+          "display_url": "pic.twitter.com/qk2uclUrhA",
+          "expanded_url": "https://twitter.com/Olivaci77/status/1517684700231446531/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FQ_mL0xXsAEtQ0d.mp4"
+              }
+            ]
+          }
         }
       ]
     },

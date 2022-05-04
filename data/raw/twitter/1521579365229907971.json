@@ -2,8 +2,12 @@
   "created_at": "Tue May 03 19:56:04 +0000 2022",
   "id": 1521579365229907971,
   "id_str": "1521579365229907971",
-  "text": "@flotusboy @MichelC38328445 @rehrlz @ivanildoiii E os mais vulner\u00e1veis ficariam protegidos. Al\u00e9m, de rever os dados\u2026 https://t.co/snbfiWxJHg",
-  "truncated": true,
+  "full_text": "@flotusboy @MichelC38328445 @rehrlz @ivanildoiii E os mais vulner\u00e1veis ficariam protegidos. Al\u00e9m, de rever os dados sobre a mortalidade no SUS, para se separar os que morreram de COVID-19 e os que morreram com COVID-19",
+  "truncated": false,
+  "display_text_range": [
+    49,
+    218
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -49,17 +53,7 @@
         ]
       }
     ],
-    "urls": [
-      {
-        "url": "https://t.co/snbfiWxJHg",
-        "expanded_url": "https://twitter.com/i/web/status/1521579365229907971",
-        "display_url": "twitter.com/i/web/status/1\u2026",
-        "indices": [
-          117,
-          140
-        ]
-      }
-    ]
+    "urls": []
   },
   "metadata": {
     "iso_language_code": "pt",
@@ -89,7 +83,7 @@
     "friends_count": 1482,
     "listed_count": 0,
     "created_at": "Thu Nov 05 20:44:44 +0000 2020",
-    "favourites_count": 96382,
+    "favourites_count": 96379,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,

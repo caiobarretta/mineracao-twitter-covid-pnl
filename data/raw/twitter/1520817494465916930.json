@@ -2,8 +2,12 @@
   "created_at": "Sun May 01 17:28:40 +0000 2022",
   "id": 1520817494465916930,
   "id_str": "1520817494465916930",
-  "text": "RT @1blogart: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o primeiro a ser\u2026",
+  "full_text": "RT @1blogart: MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o primeiro a ser\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    139
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -45,16 +49,16 @@
       }
     },
     "protected": false,
-    "followers_count": 6953,
+    "followers_count": 6956,
     "friends_count": 4252,
     "listed_count": 20,
     "created_at": "Sun Aug 16 22:15:48 +0000 2009",
-    "favourites_count": 590235,
+    "favourites_count": 590247,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 461847,
+    "statuses_count": 461857,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -88,21 +92,93 @@
     "created_at": "Sun May 01 17:18:38 +0000 2022",
     "id": 1520814968941289473,
     "id_str": "1520814968941289473",
-    "text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o prime\u2026 https://t.co/SL2Vs6ULaQ",
-    "truncated": true,
+    "full_text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o primeiro a ser incorporado pelo Sistema \u00danico de Sa\u00fade (SUS) para o tratamento da Covid-19.    \n \nSecomVc\nMinist\u00e9rio da Economia\nGoverno do Brasil https://t.co/p6StmO6wM4",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      256
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/SL2Vs6ULaQ",
-          "expanded_url": "https://twitter.com/i/web/status/1520814968941289473",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1520814967154479106,
+          "id_str": "1520814967154479106",
           "indices": [
-            117,
-            140
-          ]
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRsFJ65XEAIHkc1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRsFJ65XEAIHkc1.jpg",
+          "url": "https://t.co/p6StmO6wM4",
+          "display_url": "pic.twitter.com/p6StmO6wM4",
+          "expanded_url": "https://twitter.com/1blogart/status/1520814968941289473/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1520814967154479106,
+          "id_str": "1520814967154479106",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRsFJ65XEAIHkc1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRsFJ65XEAIHkc1.jpg",
+          "url": "https://t.co/p6StmO6wM4",
+          "display_url": "pic.twitter.com/p6StmO6wM4",
+          "expanded_url": "https://twitter.com/1blogart/status/1520814968941289473/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 608,
+              "h": 342,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -143,16 +219,16 @@
         }
       },
       "protected": false,
-      "followers_count": 2381,
-      "friends_count": 4675,
+      "followers_count": 2387,
+      "friends_count": 4687,
       "listed_count": 0,
       "created_at": "Tue Feb 17 03:07:55 +0000 2009",
-      "favourites_count": 46508,
+      "favourites_count": 46522,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 1014,
+      "statuses_count": 1016,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

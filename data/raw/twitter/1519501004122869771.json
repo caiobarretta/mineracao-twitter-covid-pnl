@@ -2,8 +2,12 @@
   "created_at": "Thu Apr 28 02:17:25 +0000 2022",
   "id": 1519501004122869771,
   "id_str": "1519501004122869771",
-  "text": "RT @tvbrasilgov: \ud83d\ude37 #covid19: @govbr zera imposto de importa\u00e7\u00e3o do medicamento #baricitinibe. O rem\u00e9dio \u00e9 usado em pacientes hospitalizados\u2026",
+  "full_text": "RT @tvbrasilgov: \ud83d\ude37 #covid19: @govbr zera imposto de importa\u00e7\u00e3o do medicamento #baricitinibe. O rem\u00e9dio \u00e9 usado em pacientes hospitalizados\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    139
+  ],
   "entities": {
     "hashtags": [
       {
@@ -70,7 +74,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1402,
+    "followers_count": 1407,
     "friends_count": 1403,
     "listed_count": 0,
     "created_at": "Wed Apr 27 00:48:02 +0000 2022",
@@ -113,8 +117,12 @@
     "created_at": "Wed Apr 27 17:59:00 +0000 2022",
     "id": 1519375574497591296,
     "id_str": "1519375574497591296",
-    "text": "\ud83d\ude37 #covid19: @govbr zera imposto de importa\u00e7\u00e3o do medicamento #baricitinibe. O rem\u00e9dio \u00e9 usado em pacientes hospital\u2026 https://t.co/1lTigvYsVb",
-    "truncated": true,
+    "full_text": "\ud83d\ude37 #covid19: @govbr zera imposto de importa\u00e7\u00e3o do medicamento #baricitinibe. O rem\u00e9dio \u00e9 usado em pacientes hospitalizados com coronav\u00edrus e foi o 1\u00ba a ser incorporado ao SUS para tratar a doen\u00e7a. https://t.co/YdWk7E5Kpb",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      195
+    ],
     "entities": {
       "hashtags": [
         {
@@ -145,15 +153,117 @@
           ]
         }
       ],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/1lTigvYsVb",
-          "expanded_url": "https://twitter.com/i/web/status/1519375574497591296",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "id": 1519372760685985794,
+          "id_str": "1519372760685985794",
           "indices": [
-            117,
-            140
-          ]
+            196,
+            219
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1519372760685985794/img/a_cwQ3k-Ikx5Om_5.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1519372760685985794/img/a_cwQ3k-Ikx5Om_5.jpg",
+          "url": "https://t.co/YdWk7E5Kpb",
+          "display_url": "pic.twitter.com/YdWk7E5Kpb",
+          "expanded_url": "https://twitter.com/tvbrasilgov/status/1519375574497591296/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1519372760685985794,
+          "id_str": "1519372760685985794",
+          "indices": [
+            196,
+            219
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1519372760685985794/img/a_cwQ3k-Ikx5Om_5.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1519372760685985794/img/a_cwQ3k-Ikx5Om_5.jpg",
+          "url": "https://t.co/YdWk7E5Kpb",
+          "display_url": "pic.twitter.com/YdWk7E5Kpb",
+          "expanded_url": "https://twitter.com/tvbrasilgov/status/1519375574497591296/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 55388,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1519372760685985794/vid/480x270/CeM_FaOYEEmDI6Tg.mp4?tag=14"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1519372760685985794/vid/640x360/q8nfVKJAVuc4WO2y.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1519372760685985794/vid/1280x720/emHP9X42pAy31iRt.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1519372760685985794/pl/0je3U-GZsvs0W37J.m3u8?tag=14&container=fmp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          }
         }
       ]
     },
@@ -181,7 +291,7 @@
         }
       },
       "protected": false,
-      "followers_count": 334773,
+      "followers_count": 334785,
       "friends_count": 236,
       "listed_count": 1261,
       "created_at": "Mon Jan 12 19:48:35 +0000 2009",

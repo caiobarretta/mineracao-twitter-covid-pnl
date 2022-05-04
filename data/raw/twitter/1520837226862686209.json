@@ -2,21 +2,93 @@
   "created_at": "Sun May 01 18:47:05 +0000 2022",
   "id": 1520837226862686209,
   "id_str": "1520837226862686209",
-  "text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o prime\u2026 https://t.co/a6GUfPILE9",
-  "truncated": true,
+  "full_text": "MAIS IMPOSTOS ZERADOS: Camex reduz a ZERO al\u00edquota do imposto de importa\u00e7\u00e3o do Baricitinibe.\n\nMedicamento \u00e9 o primeiro a ser incorporado pelo Sistema \u00danico de Sa\u00fade (SUS) para o tratamento da Covid-19. https://t.co/EwZcDLjyrB",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    201
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
+    "urls": [],
+    "media": [
       {
-        "url": "https://t.co/a6GUfPILE9",
-        "expanded_url": "https://twitter.com/i/web/status/1520837226862686209",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "id": 1520837224056725506,
+        "id_str": "1520837224056725506",
         "indices": [
-          117,
-          140
-        ]
+          202,
+          225
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsZZcUXoAIYBnW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsZZcUXoAIYBnW.jpg",
+        "url": "https://t.co/EwZcDLjyrB",
+        "display_url": "pic.twitter.com/EwZcDLjyrB",
+        "expanded_url": "https://twitter.com/RobertoLindoso1/status/1520837226862686209/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1520837224056725506,
+        "id_str": "1520837224056725506",
+        "indices": [
+          202,
+          225
+        ],
+        "media_url": "http://pbs.twimg.com/media/FRsZZcUXoAIYBnW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FRsZZcUXoAIYBnW.jpg",
+        "url": "https://t.co/EwZcDLjyrB",
+        "display_url": "pic.twitter.com/EwZcDLjyrB",
+        "expanded_url": "https://twitter.com/RobertoLindoso1/status/1520837226862686209/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 608,
+            "h": 342,
+            "resize": "fit"
+          }
+        }
       }
     ]
   },
@@ -44,8 +116,8 @@
       }
     },
     "protected": false,
-    "followers_count": 3479,
-    "friends_count": 4089,
+    "followers_count": 3480,
+    "friends_count": 4088,
     "listed_count": 0,
     "created_at": "Sun Sep 20 14:39:16 +0000 2020",
     "favourites_count": 55317,
@@ -53,7 +125,7 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 50108,
+    "statuses_count": 50107,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,

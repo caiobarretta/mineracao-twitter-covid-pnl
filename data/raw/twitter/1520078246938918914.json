@@ -2,8 +2,12 @@
   "created_at": "Fri Apr 29 16:31:10 +0000 2022",
   "id": 1520078246938918914,
   "id_str": "1520078246938918914",
-  "text": "RT @andreroncaglia: N\u00e3o entraremos no topo, onde ocorre a disputa por  chips menores que um v\u00edrus. Mas h\u00e1 toda uma rede de produtos mais si\u2026",
+  "full_text": "RT @andreroncaglia: N\u00e3o entraremos no topo, onde ocorre a disputa por  chips menores que um v\u00edrus. Mas h\u00e1 toda uma rede de produtos mais si\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -67,7 +71,7 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 96420,
+    "statuses_count": 96418,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -101,20 +105,32 @@
     "created_at": "Fri Apr 29 13:04:39 +0000 2022",
     "id": 1520026276945440771,
     "id_str": "1520026276945440771",
-    "text": "N\u00e3o entraremos no topo, onde ocorre a disputa por  chips menores que um v\u00edrus. Mas h\u00e1 toda uma rede de produtos mai\u2026 https://t.co/8CmyzJ8ck4",
-    "truncated": true,
+    "full_text": "N\u00e3o entraremos no topo, onde ocorre a disputa por  chips menores que um v\u00edrus. Mas h\u00e1 toda uma rede de produtos mais simples que o #CEITEC poderia muito bem atender e, a partir da atua\u00e7\u00e3o, aprimorar a governan\u00e7a da empresa e ganhar maior robustez.\nhttps://t.co/6Fa4v9pin2",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      271
+    ],
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "CEITEC",
+          "indices": [
+            131,
+            138
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/8CmyzJ8ck4",
-          "expanded_url": "https://twitter.com/i/web/status/1520026276945440771",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "url": "https://t.co/6Fa4v9pin2",
+          "expanded_url": "https://www.brasildefato.com.br/2021/09/20/governo-abriu-mao-de-ter-sensores-baratos-e-eficazes-para-deteccao-precoce-de-covid-no-sus",
+          "display_url": "brasildefato.com.br/2021/09/20/gov\u2026",
           "indices": [
-            117,
-            140
+            248,
+            271
           ]
         }
       ]
@@ -156,16 +172,16 @@
         }
       },
       "protected": false,
-      "followers_count": 31924,
-      "friends_count": 1869,
+      "followers_count": 31929,
+      "friends_count": 1868,
       "listed_count": 218,
       "created_at": "Wed Feb 13 19:54:56 +0000 2013",
-      "favourites_count": 26709,
+      "favourites_count": 26707,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 8178,
+      "statuses_count": 8177,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

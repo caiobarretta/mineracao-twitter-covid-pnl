@@ -2,8 +2,12 @@
   "created_at": "Sat Apr 30 01:55:12 +0000 2022",
   "id": 1520220189811523584,
   "id_str": "1520220189811523584",
-  "text": "RT @Metropoles: \ud83d\udc8aInclus\u00e3o de p\u00edlulas anti-Covid no SUS pode gerar economia de R$ 19 bi\n\nConsulta p\u00fablica sobre uso dos rem\u00e9dios nirmaltrevi\u2026",
+  "full_text": "RT @Metropoles: \ud83d\udc8aInclus\u00e3o de p\u00edlulas anti-Covid no SUS pode gerar economia de R$ 19 bi\n\nConsulta p\u00fablica sobre uso dos rem\u00e9dios nirmaltrevi\u2026",
   "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -49,7 +53,7 @@
     "friends_count": 5000,
     "listed_count": 0,
     "created_at": "Tue Aug 17 23:59:09 +0000 2021",
-    "favourites_count": 53363,
+    "favourites_count": 53364,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
@@ -87,21 +91,103 @@
     "created_at": "Fri Apr 29 11:30:00 +0000 2022",
     "id": 1520002456108765184,
     "id_str": "1520002456108765184",
-    "text": "\ud83d\udc8aInclus\u00e3o de p\u00edlulas anti-Covid no SUS pode gerar economia de R$ 19 bi\n\nConsulta p\u00fablica sobre uso dos rem\u00e9dios nir\u2026 https://t.co/CWe2NEmWAr",
-    "truncated": true,
+    "full_text": "\ud83d\udc8aInclus\u00e3o de p\u00edlulas anti-Covid no SUS pode gerar economia de R$ 19 bi\n\nConsulta p\u00fablica sobre uso dos rem\u00e9dios nirmaltrevir e ritonavir para tratar sintomas leves de Covid-19 foi encerrada na quarta-feira (27/4).\n\nLeia: https://t.co/aAvoJa4Lyj https://t.co/y6SoVilaP9",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      244
+    ],
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/CWe2NEmWAr",
-          "expanded_url": "https://twitter.com/i/web/status/1520002456108765184",
-          "display_url": "twitter.com/i/web/status/1\u2026",
+          "url": "https://t.co/aAvoJa4Lyj",
+          "expanded_url": "https://cutt.ly/XGRU54U",
+          "display_url": "cutt.ly/XGRU54U",
           "indices": [
-            117,
-            140
+            221,
+            244
           ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1519998396894953480,
+          "id_str": "1519998396894953480",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRgefRoWQAgUnij.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRgefRoWQAgUnij.jpg",
+          "url": "https://t.co/y6SoVilaP9",
+          "display_url": "pic.twitter.com/y6SoVilaP9",
+          "expanded_url": "https://twitter.com/Metropoles/status/1520002456108765184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1519998396894953480,
+          "id_str": "1519998396894953480",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/media/FRgefRoWQAgUnij.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FRgefRoWQAgUnij.jpg",
+          "url": "https://t.co/y6SoVilaP9",
+          "display_url": "pic.twitter.com/y6SoVilaP9",
+          "expanded_url": "https://twitter.com/Metropoles/status/1520002456108765184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -142,16 +228,16 @@
         }
       },
       "protected": false,
-      "followers_count": 607056,
+      "followers_count": 607118,
       "friends_count": 1544,
-      "listed_count": 1354,
+      "listed_count": 1355,
       "created_at": "Wed Jun 17 14:39:37 +0000 2015",
       "favourites_count": 19836,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": true,
-      "statuses_count": 208459,
+      "statuses_count": 208466,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

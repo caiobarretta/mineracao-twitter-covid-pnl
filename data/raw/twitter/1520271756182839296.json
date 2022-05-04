@@ -2,8 +2,12 @@
   "created_at": "Sat Apr 30 05:20:06 +0000 2022",
   "id": 1520271756182839296,
   "id_str": "1520271756182839296",
-  "text": "Viva o sus\n\n#VozPreta Amadou Alpha Sall \u00e9 o virologista senegal\u00eas que mudou o rumo da ci\u00eancia criando um teste pra\u2026 https://t.co/ERd2jc79AK",
-  "truncated": true,
+  "full_text": "Viva o sus\n\n#VozPreta Amadou Alpha Sall \u00e9 o virologista senegal\u00eas que mudou o rumo da ci\u00eancia criando um teste pra detectar a Covid-19 por menos de 1 d\u00f3lar, salvando vidas. @revista_raca https://t.co/OVXrvZc7B7",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    210
+  ],
   "entities": {
     "hashtags": [
       {
@@ -15,15 +19,26 @@
       }
     ],
     "symbols": [],
-    "user_mentions": [],
+    "user_mentions": [
+      {
+        "screen_name": "revista_raca",
+        "name": "Revista Ra\u00e7a",
+        "id": 860547249138434048,
+        "id_str": "860547249138434048",
+        "indices": [
+          173,
+          186
+        ]
+      }
+    ],
     "urls": [
       {
-        "url": "https://t.co/ERd2jc79AK",
-        "expanded_url": "https://twitter.com/i/web/status/1520271756182839296",
-        "display_url": "twitter.com/i/web/status/1\u2026",
+        "url": "https://t.co/OVXrvZc7B7",
+        "expanded_url": "http://bit.ly/3EWwaFA",
+        "display_url": "bit.ly/3EWwaFA",
         "indices": [
-          116,
-          139
+          187,
+          210
         ]
       }
     ]
