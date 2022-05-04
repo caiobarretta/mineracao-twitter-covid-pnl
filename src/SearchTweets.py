@@ -12,9 +12,10 @@ def save_tweets(tweets):
     try:
         for tweet in tweets:
             print(f'salvando tweet: {tweet.id} para arquivo.')
-            file_name = f'data/raw/{tweet.id}.json'
+            file_name = f'data/raw/twitter/{tweet.id}.json'
             content = tweet._json
             save_json(file_name, content)
+            time.sleep(1)
     except TooManyRequests:
             print(f'Ocorreu um erro: {TooManyRequests}')
 
@@ -106,7 +107,7 @@ query_counter = 0
 
 print(f'Inicializando pesquisa no twitter')
 print(f'Quantidades de itens da pesquisa: {len(pesquisas)}')
-for pesquisa in pesquisas[::-1]:
+for pesquisa in pesquisas:
     query = pesquisa['q']
     lang = pesquisa['lang']
     tentativas = 0
