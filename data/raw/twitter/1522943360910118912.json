@@ -1,0 +1,143 @@
+{
+  "created_at": "Sat May 07 14:16:06 +0000 2022",
+  "id": 1522943360910118912,
+  "id_str": "1522943360910118912",
+  "full_text": "@Myanguee Muito n\u00e9!? Eu amei\nVai no app conect SUS &gt; vacinas &gt; COVID 19 &gt; certificado &gt; adicionar a wallet \u2728",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Myanguee",
+        "name": "libido de uma gay",
+        "id": 45039409,
+        "id_str": "45039409",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1522911515229265920,
+  "in_reply_to_status_id_str": "1522911515229265920",
+  "in_reply_to_user_id": 45039409,
+  "in_reply_to_user_id_str": "45039409",
+  "in_reply_to_screen_name": "Myanguee",
+  "user": {
+    "id": 188470944,
+    "id_str": "188470944",
+    "name": "soso",
+    "screen_name": "lucasksotana",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo",
+    "description": "",
+    "url": "https://t.co/stGJBFqbuY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/stGJBFqbuY",
+            "expanded_url": "https://vsco.co/lucasksotana",
+            "display_url": "vsco.co/lucasksotana",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 310,
+    "friends_count": 390,
+    "listed_count": 1,
+    "created_at": "Wed Sep 08 20:23:12 +0000 2010",
+    "favourites_count": 1582,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10056,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "383232",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1460048491187691528/M6ccGzNt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460048491187691528/M6ccGzNt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/188470944/1511409684",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "0F484E",
+    "profile_text_color": "A1CCAE",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "609213651ca56376",
+    "url": "https://api.twitter.com/1.1/geo/id/609213651ca56376.json",
+    "place_type": "city",
+    "name": "Santo Ant\u00f4nio da Platina",
+    "full_name": "Santo Ant\u00f4nio da Platina, Brasil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -50.242911,
+            -23.452733
+          ],
+          [
+            -49.92507,
+            -23.452733
+          ],
+          [
+            -49.92507,
+            -23.122191
+          ],
+          [
+            -50.242911,
+            -23.122191
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}
