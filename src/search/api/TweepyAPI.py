@@ -29,3 +29,6 @@ class TweepyAPI:
         if(count_of_tweets > 0):
             tweets = tweets.items(count_of_tweets)
         return tweets
+    
+    def get_api_name(self):
+        return 'Twitter'

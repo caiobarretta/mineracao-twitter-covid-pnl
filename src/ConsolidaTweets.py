@@ -34,11 +34,14 @@ def retona_texto_tweets(path_tweets, extension_tweets):
         list_text.append(list_fields)
     return headers, list_text
 
-path_tweets = 'data/raw/twitter/'
-extension_tweets = '.json'
+def main():
+    path_tweets = 'data/raw/twitter/'
+    extension_tweets = '.json'
 
-headers, data = retona_texto_tweets(path_tweets, extension_tweets)
-path_csv = f'{path_tweets}consolidado.csv'
+    headers, data = retona_texto_tweets(path_tweets, extension_tweets)
+    path_csv = f'{path_tweets}consolidado.csv'
 
-write_csv_consolidado(path_csv, headers, data)
+    write_csv_consolidado(path_csv, headers, data)
 
+if __name__ == '__main__':
+    main()
