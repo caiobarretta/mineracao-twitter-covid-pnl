@@ -1,0 +1,227 @@
+{
+  "created_at": "Mon May 09 12:24:41 +0000 2022",
+  "id": 1523640096762830850,
+  "id_str": "1523640096762830850",
+  "full_text": "1\u00ba rem\u00e9dio para tratar sintomas leves de #Covid \u00e9 incorporado pelo #SUS: https://t.co/27oq8Sixvs",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Covid",
+        "indices": [
+          41,
+          47
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1523637205058658306,
+        "id_str": "1523637205058658306",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1523637205058658306/img/R7ayPg2EUcC69Xm5.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1523637205058658306/img/R7ayPg2EUcC69Xm5.jpg",
+        "url": "https://t.co/27oq8Sixvs",
+        "display_url": "pic.twitter.com/27oq8Sixvs",
+        "expanded_url": "https://twitter.com/radiobandnewsfm/status/1523640096762830850/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1523637205058658306,
+        "id_str": "1523637205058658306",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1523637205058658306/img/R7ayPg2EUcC69Xm5.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1523637205058658306/img/R7ayPg2EUcC69Xm5.jpg",
+        "url": "https://t.co/27oq8Sixvs",
+        "display_url": "pic.twitter.com/27oq8Sixvs",
+        "expanded_url": "https://twitter.com/radiobandnewsfm/status/1523640096762830850/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 40402,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1523637205058658306/vid/480x270/is9wmmi6CpD5sDDu.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1523637205058658306/pl/GlW2ZyptRAKDBy4h.m3u8?tag=14&container=fmp4"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1523637205058658306/vid/640x360/wEKFgZATL4hRD1_W.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1523637205058658306/vid/1280x720/uobJJbWvKeqWEm6M.mp4?tag=14"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26573303,
+    "id_str": "26573303",
+    "name": "R\u00e1dio BandNews FM",
+    "screen_name": "radiobandnewsfm",
+    "location": "Brasil",
+    "description": "Twitter oficial da Rede BandNews FM.",
+    "url": "https://t.co/jH7EsCTmmF",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/jH7EsCTmmF",
+            "expanded_url": "http://www.bandnewsfm.com.br",
+            "display_url": "bandnewsfm.com.br",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1526631,
+    "friends_count": 199,
+    "listed_count": 3061,
+    "created_at": "Wed Mar 25 19:44:43 +0000 2009",
+    "favourites_count": 2610,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 206087,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "2FC2EF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1397295714628218884/A6Efk-71_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397295714628218884/A6Efk-71_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26573303/1613045132",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 9,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "pt"
+}
