@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mIOJ9jCY2NPwT0Reao2q6wJGo3M",
+  "id": "UgyaNhHsnXssMw_AfhB4AaABAg",
+  "snippet": {
+    "videoId": "gV7gjHEmDyc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aziwQkdaGDcWWQzrgwpCKg0i4Yc",
+      "id": "UgyaNhHsnXssMw_AfhB4AaABAg",
+      "snippet": {
+        "videoId": "gV7gjHEmDyc",
+        "textDisplay": "Presidenta? N\u00e3o existe essa palavra.",
+        "textOriginal": "Presidenta? N\u00e3o existe essa palavra.",
+        "authorDisplayName": "Guilherme Alexandre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUGfcaq8U5IlfNRrnZQVoSi5qzz2DNekjfWkjyQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpIZjjc83F-160P5ymUcNUQ",
+        "authorChannelId": {
+          "value": "UCpIZjjc83F-160P5ymUcNUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-07T19:22:47Z",
+        "updatedAt": "2021-01-07T19:22:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "h2FACXrpKt8QvGvj0kaVGxhfDYQ",
+      "id": "UgyaNhHsnXssMw_AfhB4AaABAg.9IDqkYUupic9ITpI31vFao",
+      "snippet": {
+        "textDisplay": "@Lidi Maia estou mentindo?",
+        "textOriginal": "@Lidi Maia estou mentindo?",
+        "parentId": "UgyaNhHsnXssMw_AfhB4AaABAg",
+        "authorDisplayName": "Guilherme Alexandre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUGfcaq8U5IlfNRrnZQVoSi5qzz2DNekjfWkjyQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpIZjjc83F-160P5ymUcNUQ",
+        "authorChannelId": {
+          "value": "UCpIZjjc83F-160P5ymUcNUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-14T00:17:52Z",
+        "updatedAt": "2021-01-14T00:17:52Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8sk8x_FjRCU5qIcEyr1eqVrEMyg",
+      "id": "UgyaNhHsnXssMw_AfhB4AaABAg.9IDqkYUupic9ITni7ZPe93",
+      "snippet": {
+        "textDisplay": "Afff \ud83d\ude44",
+        "textOriginal": "Afff \ud83d\ude44",
+        "parentId": "UgyaNhHsnXssMw_AfhB4AaABAg",
+        "authorDisplayName": "Lidi Maia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7V63I0Qfk5N4C3u9bpTj3gwZU_1d5UoU8IvTjGGs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCioYfh9HZvPk2RiwQsiiboA",
+        "authorChannelId": {
+          "value": "UCioYfh9HZvPk2RiwQsiiboA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-14T00:04:05Z",
+        "updatedAt": "2021-01-14T00:04:05Z"
+      }
+    }
+  ]
+}

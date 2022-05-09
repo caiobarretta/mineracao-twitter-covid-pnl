@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dEO65-2YY-dKbE4SjZ3eIvCbSxE",
+  "id": "UgwmqWjlzJLM6WwpHYZ4AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h1jJlb-TC37iXr5StTgQsnRC3Nk",
+      "id": "UgwmqWjlzJLM6WwpHYZ4AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "Ander eu tenho uma licen\u00e7a estudantil do corona7, se eu atualizar eu terei que pagar de novo?",
+        "textOriginal": "Ander eu tenho uma licen\u00e7a estudantil do corona7, se eu atualizar eu terei que pagar de novo?",
+        "authorDisplayName": "Leandro Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKWVRLiMR5hu8rIyJ9JENd8FceOzrwRWpDyhst=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIKHfCN-imcZG_MbLqQL80A",
+        "authorChannelId": {
+          "value": "UCIKHfCN-imcZG_MbLqQL80A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-19T02:18:06Z",
+        "updatedAt": "2022-04-19T02:18:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P_WxT_VcKyaPPZVwlItnu3P-6x8",
+      "id": "UgwmqWjlzJLM6WwpHYZ4AaABAg.9_zVi63C76r9a-R_fv8l9E",
+      "snippet": {
+        "textDisplay": "Todas as atualiza\u00e7\u00f5es s\u00e3o gratuitas pra quem tem a licen\u00e7a.",
+        "textOriginal": "Todas as atualiza\u00e7\u00f5es s\u00e3o gratuitas pra quem tem a licen\u00e7a.",
+        "parentId": "UgwmqWjlzJLM6WwpHYZ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-19T11:01:14Z",
+        "updatedAt": "2022-04-19T11:01:14Z"
+      }
+    }
+  ]
+}

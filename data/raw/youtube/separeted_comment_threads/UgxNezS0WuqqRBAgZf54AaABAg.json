@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OPjg3LuxF-2V2s2crQbKQRVRnTk",
+  "id": "UgxNezS0WuqqRBAgZf54AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Jp21BlOmrB3fV0SaUeb01hY0-bQ",
+      "id": "UgxNezS0WuqqRBAgZf54AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "\u00c9 um sonho!!!!",
+        "textOriginal": "\u00c9 um sonho!!!!",
+        "authorDisplayName": "Malu Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/aT7dNiCl22bq0vGFoPCjwUY0aIgDj9rDikIRLez8hzxFWb0k2OVY9rboALx9NZZ8DM2GJv2QKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZa_p9ACapvM_l3gUbLslfw",
+        "authorChannelId": {
+          "value": "UCZa_p9ACapvM_l3gUbLslfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T21:55:34Z",
+        "updatedAt": "2022-04-18T21:55:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BRhBGr-iDWUKK3yOFOvEuZ1e30M",
+      "id": "UgxNezS0WuqqRBAgZf54AaABAg.9_z1fKQPkyP9a-imIvRCH_",
+      "snippet": {
+        "textDisplay": "Realmente!!!",
+        "textOriginal": "Realmente!!!",
+        "parentId": "UgxNezS0WuqqRBAgZf54AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-19T13:40:14Z",
+        "updatedAt": "2022-04-19T13:40:14Z"
+      }
+    }
+  ]
+}

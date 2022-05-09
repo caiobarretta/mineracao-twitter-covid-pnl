@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "66w_T5nAWEmnFmuukNQ-Tx7BXyE",
+  "id": "UgzPXKcp09P2MkS4EAx4AaABAg",
+  "snippet": {
+    "videoId": "rckzwVBe7gk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Mu-QagTXG1TLfJVICmqx0y-z8Jw",
+      "id": "UgzPXKcp09P2MkS4EAx4AaABAg",
+      "snippet": {
+        "videoId": "rckzwVBe7gk",
+        "textDisplay": "Muito maneiro essa live, show de bola!!! Aguardando as pr\u00f3ximas",
+        "textOriginal": "Muito maneiro essa live, show de bola!!! Aguardando as pr\u00f3ximas",
+        "authorDisplayName": "Helder Const\u00e2ncio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPpcztl_r0d_LE9PpgDImvFXSyR9gjwDZyvz_sTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTPqesvDpsvLGfAKmGJdUTA",
+        "authorChannelId": {
+          "value": "UCTPqesvDpsvLGfAKmGJdUTA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-14T17:02:36Z",
+        "updatedAt": "2020-04-14T17:02:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kDCedMUd7gVcOOn9tnm2Fz1ptbQ",
+      "id": "UgzPXKcp09P2MkS4EAx4AaABAg.97RWfMF4WZT97RXRnjcKU7",
+      "snippet": {
+        "textDisplay": "Hoje tem mais",
+        "textOriginal": "Hoje tem mais",
+        "parentId": "UgzPXKcp09P2MkS4EAx4AaABAg",
+        "authorDisplayName": "CANAL SANDECO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmvhgUPr6zCGTOwOOwebxuGZY8oWkIkigtWEI0tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ",
+        "authorChannelId": {
+          "value": "UCIQne9yW4TvCCNYQLszfXCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-14T17:09:21Z",
+        "updatedAt": "2020-04-14T17:09:21Z"
+      }
+    }
+  ]
+}

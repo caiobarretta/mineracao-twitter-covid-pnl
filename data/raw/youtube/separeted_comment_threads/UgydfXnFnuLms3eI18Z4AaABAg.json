@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SMaoS4Uxx_BUh5p5Z5wPS4E5zzc",
+  "id": "UgydfXnFnuLms3eI18Z4AaABAg",
+  "snippet": {
+    "videoId": "30FijUpQ1po",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "N-qlVnzzm4183Cab3RW3BLTFPOw",
+      "id": "UgydfXnFnuLms3eI18Z4AaABAg",
+      "snippet": {
+        "videoId": "30FijUpQ1po",
+        "textDisplay": "Ganhou um inscrito adorei a aula muito obrigado pelo ensinamento",
+        "textOriginal": "Ganhou um inscrito adorei a aula muito obrigado pelo ensinamento",
+        "authorDisplayName": "Raphael Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo-Kd2AqQKph5zYkDoih8B9EEeelrf4dt0P9S3fw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbCCVOeMIzObvuH0q2gwjmw",
+        "authorChannelId": {
+          "value": "UCbCCVOeMIzObvuH0q2gwjmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-09T13:49:43Z",
+        "updatedAt": "2020-12-09T13:49:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yGDPS4MNXpuYPso-FMLU9-UBLcc",
+      "id": "UgydfXnFnuLms3eI18Z4AaABAg.9H2__ewrl8D9H2bKBVw4Bd",
+      "snippet": {
+        "textDisplay": "\ud83d\ude00\ud83d\udc4d",
+        "textOriginal": "\ud83d\ude00\ud83d\udc4d",
+        "parentId": "UgydfXnFnuLms3eI18Z4AaABAg",
+        "authorDisplayName": "CANAL SANDECO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmvhgUPr6zCGTOwOOwebxuGZY8oWkIkigtWEI0tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ",
+        "authorChannelId": {
+          "value": "UCIQne9yW4TvCCNYQLszfXCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-09T14:04:56Z",
+        "updatedAt": "2020-12-09T14:04:56Z"
+      }
+    }
+  ]
+}

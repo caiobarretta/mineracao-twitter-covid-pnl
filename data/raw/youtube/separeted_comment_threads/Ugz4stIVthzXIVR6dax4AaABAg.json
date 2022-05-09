@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ShRFuGcTYMsK8TVFF5BMnzvl_cU",
+  "id": "Ugz4stIVthzXIVR6dax4AaABAg",
+  "snippet": {
+    "videoId": "9arbSePMReI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5tdRfBujJGEPz3g_zKPjSLuKPhk",
+      "id": "Ugz4stIVthzXIVR6dax4AaABAg",
+      "snippet": {
+        "videoId": "9arbSePMReI",
+        "textDisplay": "Fl\u00e1vio, parab\u00e9ns pelo canal, cara! Vou ver o m\u00e1ximo de v\u00eddeos do seu canal pra aprender a programar um pouco. Tu \u00e9 um monstro, parab\u00e9ns!",
+        "textOriginal": "Fl\u00e1vio, parab\u00e9ns pelo canal, cara! Vou ver o m\u00e1ximo de v\u00eddeos do seu canal pra aprender a programar um pouco. Tu \u00e9 um monstro, parab\u00e9ns!",
+        "authorDisplayName": "Rafael Rezende dos Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWahrFo4EdCIcuAgLyl3nN27QaZTQ0gJcNfzwrQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCo6j7s1GQjpKSBm0HDe89tA",
+        "authorChannelId": {
+          "value": "UCo6j7s1GQjpKSBm0HDe89tA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-05T01:03:01Z",
+        "updatedAt": "2020-08-05T01:03:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "F0m8zJAP5g7TAEGpFyze0ZvhKJI",
+      "id": "Ugz4stIVthzXIVR6dax4AaABAg.9Bxlfwk-nVy9BxnjKiJsJI",
+      "snippet": {
+        "textDisplay": "Valeu, abra\u00e7os",
+        "textOriginal": "Valeu, abra\u00e7os",
+        "parentId": "Ugz4stIVthzXIVR6dax4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-05T01:20:57Z",
+        "updatedAt": "2020-08-05T01:20:57Z"
+      }
+    }
+  ]
+}

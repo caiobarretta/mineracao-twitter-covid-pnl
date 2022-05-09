@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YhrNIvFQcPHe6IOHylbhkl-RKU0",
+  "id": "UgwXNocAqWwz_Cs4RU54AaABAg",
+  "snippet": {
+    "videoId": "QId6Oj9tGJ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vAIXiE6hnW-DjHPQEN2UcJgUqww",
+      "id": "UgwXNocAqWwz_Cs4RU54AaABAg",
+      "snippet": {
+        "videoId": "QId6Oj9tGJ4",
+        "textDisplay": "Cloroquina?",
+        "textOriginal": "Cloroquina?",
+        "authorDisplayName": "Fabricio Canez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmM9meNECpBVNVAi7n5RaU6eSpIFz3PMY2SQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClpqmiMjxwcZJ9BLxdwe2tQ",
+        "authorChannelId": {
+          "value": "UClpqmiMjxwcZJ9BLxdwe2tQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-04-01T12:53:00Z",
+        "updatedAt": "2022-04-01T12:53:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sG4Pw-wmczz08mzfcHKNBipe8uM",
+      "id": "UgwXNocAqWwz_Cs4RU54AaABAg.9_HI3XskId69_HSjp7FsfX",
+      "snippet": {
+        "textDisplay": "A vacina foi apenas um bom neg\u00f3cio.",
+        "textOriginal": "A vacina foi apenas um bom neg\u00f3cio.",
+        "parentId": "UgwXNocAqWwz_Cs4RU54AaABAg",
+        "authorDisplayName": "Joao Burim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9SlmlAZJTSS3Mpi7JPcTmpLagh9IIKNrAZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD61Ye0NAhXaz87kyZ55FOQ",
+        "authorChannelId": {
+          "value": "UCD61Ye0NAhXaz87kyZ55FOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-01T14:26:17Z",
+        "updatedAt": "2022-04-01T14:26:17Z"
+      }
+    }
+  ]
+}

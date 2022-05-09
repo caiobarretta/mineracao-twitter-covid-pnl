@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nIs1LAyQ_T1Nc_5zA9SWqo9QD7w",
+  "id": "UgyQHA739A71xYmMM8B4AaABAg",
+  "snippet": {
+    "videoId": "V7vf7mLqAnw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BFS8t23mD5FsOx_MFCUbegK8Phk",
+      "id": "UgyQHA739A71xYmMM8B4AaABAg",
+      "snippet": {
+        "videoId": "V7vf7mLqAnw",
+        "textDisplay": "\u00c9 ainda fecham as academias, enfim a burrice",
+        "textOriginal": "\u00c9 ainda fecham as academias, enfim a burrice",
+        "authorDisplayName": "Davi Anuncia\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHQO9e9Csd5pMEm-Fd6bzELJOIgm8e7Wa-ePX8fL8Aai0s-qOsefm_JVS_QUsV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQFxZuoixe2gfgVs1t8gaoQ",
+        "authorChannelId": {
+          "value": "UCQFxZuoixe2gfgVs1t8gaoQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-13T11:59:37Z",
+        "updatedAt": "2021-05-13T11:59:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6p1OZ3CZvDyID7QGXMWuu0NdQP8",
+      "id": "UgyQHA739A71xYmMM8B4AaABAg.9NHVBvemuUX9NsAPHNJ2DK",
+      "snippet": {
+        "textDisplay": "Exatamente",
+        "textOriginal": "Exatamente",
+        "parentId": "UgyQHA739A71xYmMM8B4AaABAg",
+        "authorDisplayName": "fabiana costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQaqejGzYs0XGoZbhWC_0AvpSpnI4P8OuL3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUJa-9usmaIkSekoxA8OJPA",
+        "authorChannelId": {
+          "value": "UCUJa-9usmaIkSekoxA8OJPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-28T03:09:04Z",
+        "updatedAt": "2021-05-28T03:09:04Z"
+      }
+    }
+  ]
+}

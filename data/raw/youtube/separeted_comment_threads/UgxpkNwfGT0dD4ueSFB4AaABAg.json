@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZWzuhSUPORxjRZnk-c9CJHNDiTs",
+  "id": "UgxpkNwfGT0dD4ueSFB4AaABAg",
+  "snippet": {
+    "videoId": "V7vf7mLqAnw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "61qpZcy_o39tETZGFFAliOVTHv8",
+      "id": "UgxpkNwfGT0dD4ueSFB4AaABAg",
+      "snippet": {
+        "videoId": "V7vf7mLqAnw",
+        "textDisplay": "Gordofobia!!!!",
+        "textOriginal": "Gordofobia!!!!",
+        "authorDisplayName": "suspiro 23",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlO7woBwm9kDwwsyesWLRaYYgifmKkO_gaIRSEjg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCloKzLwwmKHADDljXX-O8dg",
+        "authorChannelId": {
+          "value": "UCloKzLwwmKHADDljXX-O8dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-19T14:10:09Z",
+        "updatedAt": "2020-07-19T14:10:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OeSUmmwa61he0M4xQxN9gs8LxYs",
+      "id": "UgxpkNwfGT0dD4ueSFB4AaABAg.9BIPFHn-N9h9N8OcJh0SLL",
+      "snippet": {
+        "textDisplay": "N\u00e3o sabe nem o que est\u00e1 falando",
+        "textOriginal": "N\u00e3o sabe nem o que est\u00e1 falando",
+        "parentId": "UgxpkNwfGT0dD4ueSFB4AaABAg",
+        "authorDisplayName": "LS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1FtnjXqJzoVCE05BvEqwYdTtsJbqWl9fPs0Zidg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCh_P57-1a5tjumuy4HJLtqg",
+        "authorChannelId": {
+          "value": "UCh_P57-1a5tjumuy4HJLtqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-09T23:09:01Z",
+        "updatedAt": "2021-05-09T23:09:01Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "kbyGo_wiijuXZRMjxA4UDL1FdeU",
+      "id": "UgxpkNwfGT0dD4ueSFB4AaABAg.9BIPFHn-N9h9MNh6qW6UY6",
+      "snippet": {
+        "textDisplay": "Cala boca cara.",
+        "textOriginal": "Cala boca cara.",
+        "parentId": "UgxpkNwfGT0dD4ueSFB4AaABAg",
+        "authorDisplayName": "Keyaru Yeager",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3ZLby9K2x1NkxWS0hhb36_9MYF2vQdq-cZWQ55mURXIQr9Eo3QdZbFsNd1cmMvu2828yn-O0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzQPFt-vQjodWpy_0BmLk4Q",
+        "authorChannelId": {
+          "value": "UCzQPFt-vQjodWpy_0BmLk4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-21T01:16:34Z",
+        "updatedAt": "2021-04-21T01:16:34Z"
+      }
+    }
+  ]
+}

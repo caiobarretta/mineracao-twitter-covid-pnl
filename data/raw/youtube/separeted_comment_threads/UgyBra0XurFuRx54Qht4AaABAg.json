@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HylHyB2zmsjvHOv0YTLgLlMnkBk",
+  "id": "UgyBra0XurFuRx54Qht4AaABAg",
+  "snippet": {
+    "videoId": "TCiFPnV470Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Z7XuKgyzuMJ8riUi6dbd1B59YKE",
+      "id": "UgyBra0XurFuRx54Qht4AaABAg",
+      "snippet": {
+        "videoId": "TCiFPnV470Y",
+        "textDisplay": "Ele mata.?",
+        "textOriginal": "Ele mata.?",
+        "authorDisplayName": "Lucas Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRoE8QhyundAqSe7KfmDUhe4MXrjXeVXployWWO6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5mS_S3rqL_YGWfRCbTPzug",
+        "authorChannelId": {
+          "value": "UC5mS_S3rqL_YGWfRCbTPzug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-14T20:25:19Z",
+        "updatedAt": "2021-04-14T20:25:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hzuom4ROq1WkeIPhj69njR7of6Q",
+      "id": "UgyBra0XurFuRx54Qht4AaABAg.9M7j0OGEjQs9U0RBIGXEx4",
+      "snippet": {
+        "textDisplay": "Acho que a resposta \u00e9 meio \u00f3bvia \ud83d\ude44",
+        "textOriginal": "Acho que a resposta \u00e9 meio \u00f3bvia \ud83d\ude44",
+        "parentId": "UgyBra0XurFuRx54Qht4AaABAg",
+        "authorDisplayName": "FWOOPER",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0Z_mC0OQ2u5ouFMgMzqrJpp7hxpMX-ZcTG0-dscHKX3ioVks7u5AZRFDZTDiUEoN_0wGAVDc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0rYncqTcV8RJokjRaV0UhQ",
+        "authorChannelId": {
+          "value": "UC0rYncqTcV8RJokjRaV0UhQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-27T20:37:15Z",
+        "updatedAt": "2021-10-27T20:37:15Z"
+      }
+    }
+  ]
+}

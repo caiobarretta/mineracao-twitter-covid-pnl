@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "I9F2o-Y-K4O24MvS5i1fie5V2Sk",
+  "id": "UgzAcX3rcKEKfM_GfRV4AaABAg",
+  "snippet": {
+    "videoId": "x0MTn3Gcel0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tniLw0yu7GGr_iRHJnUZdzr8OY8",
+      "id": "UgzAcX3rcKEKfM_GfRV4AaABAg",
+      "snippet": {
+        "videoId": "x0MTn3Gcel0",
+        "textDisplay": "Muito bom. Obrigada por esta aula!",
+        "textOriginal": "Muito bom. Obrigada por esta aula!",
+        "authorDisplayName": "Aline Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2Y0vxoQkdf8jBrqbPuTr-zJFRoRCzvUC-JH-VnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6rmFDHdZ57ZHkW9svgevPA",
+        "authorChannelId": {
+          "value": "UC6rmFDHdZ57ZHkW9svgevPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-12-10T19:11:24Z",
+        "updatedAt": "2021-12-10T19:11:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FBe2rQRN3JQn4e-T1tukux3vqJY",
+      "id": "UgzAcX3rcKEKfM_GfRV4AaABAg.9Vm_L-JWd8O9VoSHTp6jwA",
+      "snippet": {
+        "textDisplay": "Obrigado, Aline! Um forte abra\u00e7o e bons estudos!",
+        "textOriginal": "Obrigado, Aline! Um forte abra\u00e7o e bons estudos!",
+        "parentId": "UgzAcX3rcKEKfM_GfRV4AaABAg",
+        "authorDisplayName": "Geografia do Monstro - Prof. F\u00e1bio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjsVKl_fx_GPrcRLYJVuUYUbTzLo9PqQBH6GEC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_Iw8gt92x1eY9XdZPTDNow",
+        "authorChannelId": {
+          "value": "UC_Iw8gt92x1eY9XdZPTDNow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-11T12:39:29Z",
+        "updatedAt": "2021-12-11T12:39:29Z"
+      }
+    }
+  ]
+}

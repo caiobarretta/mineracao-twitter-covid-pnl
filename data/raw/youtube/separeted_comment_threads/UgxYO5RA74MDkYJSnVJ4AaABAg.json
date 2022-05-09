@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rspKHQDL4JhP5oae3Eo0GHdz1SU",
+  "id": "UgxYO5RA74MDkYJSnVJ4AaABAg",
+  "snippet": {
+    "videoId": "WcUSgHRVdK8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sqcXpac3MQkruJQRPxsxSk4cNKw",
+      "id": "UgxYO5RA74MDkYJSnVJ4AaABAg",
+      "snippet": {
+        "videoId": "WcUSgHRVdK8",
+        "textDisplay": "V\u00eddeo top demais!!!",
+        "textOriginal": "V\u00eddeo top demais!!!",
+        "authorDisplayName": "Koelho 89",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4HVv8PXTEOYO0cBv2hg1XJH9m63btet_LPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCloSTKDRIyHM_tz7X_FRp6g",
+        "authorChannelId": {
+          "value": "UCloSTKDRIyHM_tz7X_FRp6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-30T23:25:22Z",
+        "updatedAt": "2021-07-30T23:25:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3V6evxILAFweb7Lyp9tnWDj4OCM",
+      "id": "UgxYO5RA74MDkYJSnVJ4AaABAg.9QRZfjjQ4WQ9S4cE91C8op",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a",
+        "parentId": "UgxYO5RA74MDkYJSnVJ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-09T18:36:40Z",
+        "updatedAt": "2021-09-09T18:36:40Z"
+      }
+    }
+  ]
+}

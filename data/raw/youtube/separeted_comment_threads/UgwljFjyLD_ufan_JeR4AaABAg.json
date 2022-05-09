@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-ei6At7OwdWivgJg1PsOkODVQqc",
+  "id": "UgwljFjyLD_ufan_JeR4AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "50ODqIkaeRs5qESNt6olqzfzN-w",
+      "id": "UgwljFjyLD_ufan_JeR4AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "posso usar isso para jogos ?",
+        "textOriginal": "posso usar isso para jogos ?",
+        "authorDisplayName": "Elton Sm",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZVPioal0VBZ2zYaHBvK0SVBKwh5ImtMCdp6YB=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMT4xik25HfaN_jhOAg6ELQ",
+        "authorChannelId": {
+          "value": "UCMT4xik25HfaN_jhOAg6ELQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-25T11:11:18Z",
+        "updatedAt": "2022-04-25T11:11:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "U0S-tx7uSVvWBr54EFOdaH1XS-8",
+      "id": "UgwljFjyLD_ufan_JeR4AaABAg.9aEuVdVUuO59aFlVODHfP4",
+      "snippet": {
+        "textDisplay": "Pode sim!",
+        "textOriginal": "Pode sim!",
+        "parentId": "UgwljFjyLD_ufan_JeR4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-25T19:11:51Z",
+        "updatedAt": "2022-04-25T19:11:51Z"
+      }
+    }
+  ]
+}

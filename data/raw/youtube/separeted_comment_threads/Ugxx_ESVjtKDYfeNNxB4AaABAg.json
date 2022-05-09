@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "x_jUbHUBTXwOEI7ClSF6I91PcQ0",
+  "id": "Ugxx_ESVjtKDYfeNNxB4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b1riL8W_I4bFj-ABlziOE3NKpzE",
+      "id": "Ugxx_ESVjtKDYfeNNxB4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Parab\u00e9ns! Muito bom! Uma pergunta... se us\u00e1ssemos um dataset mais atualizado, por exemplo.. at\u00e9 25/04 e carregar no notebook, poder\u00edamos filtrar apenas pelo Brasil n\u00e9?",
+        "textOriginal": "Parab\u00e9ns! Muito bom! Uma pergunta... se us\u00e1ssemos um dataset mais atualizado, por exemplo.. at\u00e9 25/04 e carregar no notebook, poder\u00edamos filtrar apenas pelo Brasil n\u00e9?",
+        "authorDisplayName": "Juliana Duque",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGfCzktpa95PIA2kAaQzt2xSjRVEJpWBE8FYQ5qRE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_R-SpZGDVjzymDR4CkGQyw",
+        "authorChannelId": {
+          "value": "UC_R-SpZGDVjzymDR4CkGQyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-26T17:05:09Z",
+        "updatedAt": "2020-04-26T17:05:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xRhmOtlfxtCyiaL26I2rRiTE6hM",
+      "id": "Ugxx_ESVjtKDYfeNNxB4AaABAg.97vQVUnd21g97wAifeXWCa",
+      "snippet": {
+        "textDisplay": "Com certeza Juliana. Obrigado pelo coment\u00e1rio.",
+        "textOriginal": "Com certeza Juliana. Obrigado pelo coment\u00e1rio.",
+        "parentId": "Ugxx_ESVjtKDYfeNNxB4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-27T00:06:31Z",
+        "updatedAt": "2020-04-27T00:06:31Z"
+      }
+    }
+  ]
+}

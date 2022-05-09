@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oDepKUtftc47ROrLJS72LBsSCRU",
+  "id": "UgzbpZJo8yKxgsiMJL94AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E1dj5vRTvGz2TFgPoP-oZovYJ_Q",
+      "id": "UgzbpZJo8yKxgsiMJL94AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Consegue compartilhar aqui ou somente no Telegram mesmo? \ud83e\udd14",
+        "textOriginal": "Consegue compartilhar aqui ou somente no Telegram mesmo? \ud83e\udd14",
+        "authorDisplayName": "Roney Laurent - Roots - Tech",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYns9EqRLrbV8M_tU9MpHovKb2dwKq9De_F8ADkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC3X_abYbxdflKvnEmiYi3Q",
+        "authorChannelId": {
+          "value": "UCC3X_abYbxdflKvnEmiYi3Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-05T01:24:00Z",
+        "updatedAt": "2020-05-05T01:24:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lRo4EAKzvGbmR8Rn3ltJhMTksA8",
+      "id": "UgzbpZJo8yKxgsiMJL94AaABAg.98FuxA-br3M98G-gsr5sPl",
+      "snippet": {
+        "textDisplay": "Fala Mochileiro, segue o link para download diretamente do github => https://github.com/minerandodados/mdrepo/blob/master/Scrips_visualizando_dados_coronavirus_python%20(1).zip",
+        "textOriginal": "Fala Mochileiro, segue o link para download diretamente do github => https://github.com/minerandodados/mdrepo/blob/master/Scrips_visualizando_dados_coronavirus_python%20(1).zip",
+        "parentId": "UgzbpZJo8yKxgsiMJL94AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-05T02:14:12Z",
+        "updatedAt": "2020-05-05T02:14:12Z"
+      }
+    }
+  ]
+}

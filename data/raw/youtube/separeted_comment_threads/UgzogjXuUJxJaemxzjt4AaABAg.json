@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zYyIVSgQ8jdoo5yTjqSB2-aw2ek",
+  "id": "UgzogjXuUJxJaemxzjt4AaABAg",
+  "snippet": {
+    "videoId": "jATYbmGBBYc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kpXgwq_zenNLlCjk4hYxRPk15RU",
+      "id": "UgzogjXuUJxJaemxzjt4AaABAg",
+      "snippet": {
+        "videoId": "jATYbmGBBYc",
+        "textDisplay": "do anyone care what news or specialist doctor say? nobody cares!",
+        "textOriginal": "do anyone care what news or specialist doctor say? nobody cares!",
+        "authorDisplayName": "Vivim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/YvmdMuIZI6FoHlwrAXQQ_wzLP6brUkDnw93ICzXqyzFatAYxhjHJ6IapbeCFGEN3bEScO2AfPw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClEzSUR8npU0J8eHy7LRLdQ",
+        "authorChannelId": {
+          "value": "UClEzSUR8npU0J8eHy7LRLdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-09T00:05:07Z",
+        "updatedAt": "2022-05-09T00:05:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sxe4gaQAj0oPeul1P_87no5T71Y",
+      "id": "UgzogjXuUJxJaemxzjt4AaABAg.9amlOc82Dgh9ammA0g-8aS",
+      "snippet": {
+        "textDisplay": "Not if were talking about Fox or Newsmax.",
+        "textOriginal": "Not if were talking about Fox or Newsmax.",
+        "parentId": "UgzogjXuUJxJaemxzjt4AaABAg",
+        "authorDisplayName": "Jordan David",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWHWDgcvUNLEfLOG7GiKyuUw-0JNTCqoSPrD598Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRdKbvPkbTTDxIucWbCbhOQ",
+        "authorChannelId": {
+          "value": "UCRdKbvPkbTTDxIucWbCbhOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-09T00:11:51Z",
+        "updatedAt": "2022-05-09T00:11:51Z"
+      }
+    }
+  ]
+}

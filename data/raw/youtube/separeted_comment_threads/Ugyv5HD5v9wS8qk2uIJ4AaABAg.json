@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pmtEvFoaMNY9jGkvYbc3p_omuf0",
+  "id": "Ugyv5HD5v9wS8qk2uIJ4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hnzqUJ2jcOFqlCwZ_6YpHcNFe1w",
+      "id": "Ugyv5HD5v9wS8qk2uIJ4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Muito bom mesmo, muito obrigado pela iniciativa de vcs.",
+        "textOriginal": "Muito bom mesmo, muito obrigado pela iniciativa de vcs.",
+        "authorDisplayName": "Allan Braquiel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtb2e-YahrOb3OXXm4snATGYvxdz04lYbTOLHwox8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcCL_5RHs8j5s996oWbaQFA",
+        "authorChannelId": {
+          "value": "UCcCL_5RHs8j5s996oWbaQFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-24T12:45:20Z",
+        "updatedAt": "2020-04-24T12:45:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Cbyw-25G7WhMWjTIXhnAOjHkYSY",
+      "id": "Ugyv5HD5v9wS8qk2uIJ4AaABAg.97poAjVTJvv97qC3UOuZIz",
+      "snippet": {
+        "textDisplay": "Valeu Allan!",
+        "textOriginal": "Valeu Allan!",
+        "parentId": "Ugyv5HD5v9wS8qk2uIJ4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-24T16:22:47Z",
+        "updatedAt": "2020-04-24T16:22:47Z"
+      }
+    }
+  ]
+}

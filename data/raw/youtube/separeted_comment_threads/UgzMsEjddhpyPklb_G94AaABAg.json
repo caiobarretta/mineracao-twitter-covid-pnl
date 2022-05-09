@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OuMcj-tYwwWTmkIkiiukKu2xeKc",
+  "id": "UgzMsEjddhpyPklb_G94AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lxO3bDsUxpIU-eQgUv0dNMb5Kjo",
+      "id": "UgzMsEjddhpyPklb_G94AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Excelente aula.",
+        "textOriginal": "Excelente aula.",
+        "authorDisplayName": "Rodrigo Vargas Castilhos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFEvnvmzeUJRAKhg5vsweg4DSA9ZmaCRxvi3wArw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsXM_5C24-mhG9dglYbGKBQ",
+        "authorChannelId": {
+          "value": "UCsXM_5C24-mhG9dglYbGKBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-19T22:33:50Z",
+        "updatedAt": "2020-04-19T22:33:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Euyrg0gcIYhW7DvbGI2BJA-5Prk",
+      "id": "UgzMsEjddhpyPklb_G94AaABAg.97dzYep4yS_97fX75VnyWn",
+      "snippet": {
+        "textDisplay": "Valeu Rodrig\u00e3o.",
+        "textOriginal": "Valeu Rodrig\u00e3o.",
+        "parentId": "UgzMsEjddhpyPklb_G94AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-20T12:55:08Z",
+        "updatedAt": "2020-04-20T12:55:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i7x064o3pCsdrAhbQjH0iYrMkt4",
+  "id": "UgwGSuk4nF86ezdXZUp4AaABAg",
+  "snippet": {
+    "videoId": "VepbhWm9E5M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NsHno-p5j0Xd47COjyxKzoM25MY",
+      "id": "UgwGSuk4nF86ezdXZUp4AaABAg",
+      "snippet": {
+        "videoId": "VepbhWm9E5M",
+        "textDisplay": "muito boa essa aula! muito obrigado... ;)",
+        "textOriginal": "muito boa essa aula! muito obrigado... ;)",
+        "authorDisplayName": "Cristiano Soares de Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTIPyXu-88eKfQHTfwdaDqhaVnq5fRQ8RkOb4dM9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkfIi6hkyaUz7q4h1vngzcQ",
+        "authorChannelId": {
+          "value": "UCkfIi6hkyaUz7q4h1vngzcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-12T02:13:32Z",
+        "updatedAt": "2020-04-12T02:13:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gzD779s1M4SzguTav_35s6ZolwE",
+      "id": "UgwGSuk4nF86ezdXZUp4AaABAg.97KmKp0kzUq97KsKbZltfn",
+      "snippet": {
+        "textDisplay": "\ud83d\ude00\ud83d\udc4d",
+        "textOriginal": "\ud83d\ude00\ud83d\udc4d",
+        "parentId": "UgwGSuk4nF86ezdXZUp4AaABAg",
+        "authorDisplayName": "CANAL SANDECO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmvhgUPr6zCGTOwOOwebxuGZY8oWkIkigtWEI0tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ",
+        "authorChannelId": {
+          "value": "UCIQne9yW4TvCCNYQLszfXCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-12T03:05:56Z",
+        "updatedAt": "2020-04-12T03:05:56Z"
+      }
+    }
+  ]
+}

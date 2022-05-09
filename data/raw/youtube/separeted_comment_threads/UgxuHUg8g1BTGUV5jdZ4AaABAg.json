@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vKCty9VC2IztQBOYGHUcJSuuc-Q",
+  "id": "UgxuHUg8g1BTGUV5jdZ4AaABAg",
+  "snippet": {
+    "videoId": "jjLQkBmkGhA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OhtlDnZFTxMR5hShNE3_mcg7_us",
+      "id": "UgxuHUg8g1BTGUV5jdZ4AaABAg",
+      "snippet": {
+        "videoId": "jjLQkBmkGhA",
+        "textDisplay": "Abaixa a m\u00fasica por favorrrrrr!!!!!",
+        "textOriginal": "Abaixa a m\u00fasica por favorrrrrr!!!!!",
+        "authorDisplayName": "MsEvandro2000",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-nFUaWlBk7Au7UL806xeDVW4uK9hK0R27CL6f=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkavMupxMWaMKjKwl1QshQw",
+        "authorChannelId": {
+          "value": "UCkavMupxMWaMKjKwl1QshQw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-02T13:40:56Z",
+        "updatedAt": "2021-08-02T13:40:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YSF2vDYEsLSiyp3GmFvi5UdAaxE",
+      "id": "UgxuHUg8g1BTGUV5jdZ4AaABAg.9QYFAuAZ4qc9T493YYj-9i",
+      "snippet": {
+        "textDisplay": "Melhor tirar...",
+        "textOriginal": "Melhor tirar...",
+        "parentId": "UgxuHUg8g1BTGUV5jdZ4AaABAg",
+        "authorDisplayName": "Aurino Nunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQEI2SKqf-gLNvtiY_gqsxvt2LFA0Ffod1iTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCCiYDM3Hx4wOCKQNAXd7UA",
+        "authorChannelId": {
+          "value": "UCCCiYDM3Hx4wOCKQNAXd7UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-04T10:44:28Z",
+        "updatedAt": "2021-10-04T10:44:28Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7tRMFsnrdMrAwTxKlpMkv3Rbi40",
+  "id": "UgyoI6ZXaBUtc_PtEhF4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pY1zScW_kg9HU5ClsiALt6C4BGM",
+      "id": "UgyoI6ZXaBUtc_PtEhF4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Otima aula adorei .\nMas uma pergunta, tem como em vez de eu baixar o dataset eu fazer com que minha aplica\u00e7\u00e3o pegue os dados mais recentes em determinado site assim sempre que eu rodar verei os dados mais recentes ??",
+        "textOriginal": "Otima aula adorei .\nMas uma pergunta, tem como em vez de eu baixar o dataset eu fazer com que minha aplica\u00e7\u00e3o pegue os dados mais recentes em determinado site assim sempre que eu rodar verei os dados mais recentes ??",
+        "authorDisplayName": "Mateus Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa6N_-p2wJARkNGzI76W-_bdtusgdG2plum71J=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsD1genuJJ6R98vcBrZTzQQ",
+        "authorChannelId": {
+          "value": "UCsD1genuJJ6R98vcBrZTzQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-04-19T19:42:40Z",
+        "updatedAt": "2020-04-19T19:42:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CDwWWj7AFrIKXgQYl9L72PVmC78",
+      "id": "UgyoI6ZXaBUtc_PtEhF4AaABAg.97dfy48CuPV97e7vxXcBRf",
+      "snippet": {
+        "textDisplay": "@Stack t\u00eam como fazer um exemplo em video ou me recomendar um video pois tenho pouca experiencia com python",
+        "textOriginal": "@Stack t\u00eam como fazer um exemplo em video ou me recomendar um video pois tenho pouca experiencia com python",
+        "parentId": "UgyoI6ZXaBUtc_PtEhF4AaABAg",
+        "authorDisplayName": "Mateus Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa6N_-p2wJARkNGzI76W-_bdtusgdG2plum71J=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsD1genuJJ6R98vcBrZTzQQ",
+        "authorChannelId": {
+          "value": "UCsD1genuJJ6R98vcBrZTzQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-04-19T23:55:47Z",
+        "updatedAt": "2020-04-19T23:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "KyiIa9GXZceXNJKMEAv0iekmbxk",
+      "id": "UgyoI6ZXaBUtc_PtEhF4AaABAg.97dfy48CuPV97dsAZD7JFK",
+      "snippet": {
+        "textDisplay": "Tem sim Mateus, voc\u00ea pode conectar diretamente a um banco de dados, por exemplo.",
+        "textOriginal": "Tem sim Mateus, voc\u00ea pode conectar diretamente a um banco de dados, por exemplo.",
+        "parentId": "UgyoI6ZXaBUtc_PtEhF4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-19T21:29:22Z",
+        "updatedAt": "2020-04-19T21:29:22Z"
+      }
+    }
+  ]
+}

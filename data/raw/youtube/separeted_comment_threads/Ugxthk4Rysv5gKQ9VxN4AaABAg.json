@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ObA-nOFaylJyp_58AQYbk0CJ2PQ",
+  "id": "Ugxthk4Rysv5gKQ9VxN4AaABAg",
+  "snippet": {
+    "videoId": "4U8Yyi_k6EI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pyGgmfK1KEodwtEt2sIDU2l3HyU",
+      "id": "Ugxthk4Rysv5gKQ9VxN4AaABAg",
+      "snippet": {
+        "videoId": "4U8Yyi_k6EI",
+        "textDisplay": "Fake news",
+        "textOriginal": "Fake news",
+        "authorDisplayName": "Lais F. Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKRO8M6GHmTEmBv4dndTxl2nV_rMRpzypi226y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWdDiGyoV_zmrWVPNt2tDnw",
+        "authorChannelId": {
+          "value": "UCWdDiGyoV_zmrWVPNt2tDnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-07T19:22:50Z",
+        "updatedAt": "2020-04-07T19:22:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bwc9ALDz3YchCeMblP4aS0HJmUU",
+      "id": "Ugxthk4Rysv5gKQ9VxN4AaABAg.979k9GQDaUE97A0NnQjni5",
+      "snippet": {
+        "textDisplay": "Tudo \u00e9 fake news agora.",
+        "textOriginal": "Tudo \u00e9 fake news agora.",
+        "parentId": "Ugxthk4Rysv5gKQ9VxN4AaABAg",
+        "authorDisplayName": "Pedro Calegaro #PelaResPublica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ubx7S5oJSuCDux1t7lnHWyhBjQFyF_ZN9L7WRADc2dpuJOY-RQtOL0DP3WxR8SXCE41cU4AWFjk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIZUYIyEAPDdrfQM01oT6OA",
+        "authorChannelId": {
+          "value": "UCIZUYIyEAPDdrfQM01oT6OA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-07T21:53:22Z",
+        "updatedAt": "2020-04-07T21:53:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PudTEObNKrvJEbHArnQENQcdoQ0",
+  "id": "UgwYvyoIPJ3r83wMOu94AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GkJz8sEimRwv7mnptGeGdSewbPY",
+      "id": "UgwYvyoIPJ3r83wMOu94AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "cara tenho um trabalho na facul sobre a covid 19 em python. muito obrigado ajudou muito",
+        "textOriginal": "cara tenho um trabalho na facul sobre a covid 19 em python. muito obrigado ajudou muito",
+        "authorDisplayName": "JO\u00c3O VITOR",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScenljcLzdTgO3E-Bmb1agZ7nr_-8jfO2lZQ6t=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQmHhnTTMorCVI6VO7b4xrA",
+        "authorChannelId": {
+          "value": "UCQmHhnTTMorCVI6VO7b4xrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-04-20T02:13:38Z",
+        "updatedAt": "2020-04-20T02:13:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i-ctmEF8LyYC2s2R_NQ-xsThjJU",
+      "id": "UgwYvyoIPJ3r83wMOu94AaABAg.97eNhXA_wAf97fX2Obj_hn",
+      "snippet": {
+        "textDisplay": "Que massa cara!",
+        "textOriginal": "Que massa cara!",
+        "parentId": "UgwYvyoIPJ3r83wMOu94AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-20T12:54:30Z",
+        "updatedAt": "2020-04-20T12:54:30Z"
+      }
+    }
+  ]
+}

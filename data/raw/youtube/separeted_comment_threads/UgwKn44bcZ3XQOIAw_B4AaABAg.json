@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zbXhRWIgWw4PSKhrjzDCabnCG0g",
+  "id": "UgwKn44bcZ3XQOIAw_B4AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "emVKqgxvWEsVgJzSofma3VFbY8s",
+      "id": "UgwKn44bcZ3XQOIAw_B4AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Amei o conteudo do video",
+        "textOriginal": "Amei o conteudo do video",
+        "authorDisplayName": "Maria J\u00fanior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIiLt28wW285CtLHoNT_5wCP67tZAhPfrl6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCc7e08AcTJOus2gkbiDhzIw",
+        "authorChannelId": {
+          "value": "UCc7e08AcTJOus2gkbiDhzIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-29T20:46:58Z",
+        "updatedAt": "2021-03-29T20:46:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-88pryAS53k09F0MeZvhwzOfCPY",
+      "id": "UgwKn44bcZ3XQOIAw_B4AaABAg.9LUZm-V_6nO9Lb2Lqvx45J",
+      "snippet": {
+        "textDisplay": "Valeu Maria!",
+        "textOriginal": "Valeu Maria!",
+        "parentId": "UgwKn44bcZ3XQOIAw_B4AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-01T18:28:49Z",
+        "updatedAt": "2021-04-01T18:28:49Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8VzpvC6bWtvRXg9m5yKN_yrj5tk",
+  "id": "Ugze7oDhCyx0ICdL7sJ4AaABAg",
+  "snippet": {
+    "videoId": "eneqjCVF2R4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tCHnSVKoqCp__f9xp51byk6e_Bs",
+      "id": "Ugze7oDhCyx0ICdL7sJ4AaABAg",
+      "snippet": {
+        "videoId": "eneqjCVF2R4",
+        "textDisplay": "Bugado aqui. \nAbre e fecha.",
+        "textOriginal": "Bugado aqui. \nAbre e fecha.",
+        "authorDisplayName": "Fl\u00e1vio Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTe7Se9zXX5S3DBzwG4Gqu6VkA-3P01tUBIfta3m4s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC46bhnBvcnP-eYpmOZIrDsw",
+        "authorChannelId": {
+          "value": "UC46bhnBvcnP-eYpmOZIrDsw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-03T19:53:56Z",
+        "updatedAt": "2020-08-03T19:53:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jV_ZR5JnYAUqjSpEWTqxs_5xXxA",
+      "id": "Ugze7oDhCyx0ICdL7sJ4AaABAg.9BudWKkui5g9BumMpVXcoY",
+      "snippet": {
+        "textDisplay": "App com problema aqui tamb\u00e9m. N\u00e3o abre mais",
+        "textOriginal": "App com problema aqui tamb\u00e9m. N\u00e3o abre mais",
+        "parentId": "Ugze7oDhCyx0ICdL7sJ4AaABAg",
+        "authorDisplayName": "PASSO A PASSO IOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuPGeG9DhZ7W21M48iIB6wjmXk3sM5NUYKWVUldQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq7cMJJNI5bSSOP6VtrIKUQ",
+        "authorChannelId": {
+          "value": "UCq7cMJJNI5bSSOP6VtrIKUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-03T21:11:17Z",
+        "updatedAt": "2020-08-03T21:11:17Z"
+      }
+    }
+  ]
+}

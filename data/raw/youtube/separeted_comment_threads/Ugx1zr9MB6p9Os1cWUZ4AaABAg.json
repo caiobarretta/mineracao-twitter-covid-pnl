@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GfuRDnH_f9OdfgmzqJIezm5xZE8",
+  "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+  "snippet": {
+    "videoId": "qzGzMXL02gA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JFfm3_dZKBubN2E_wKx0E9ZXVkQ",
+      "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+      "snippet": {
+        "videoId": "qzGzMXL02gA",
+        "textDisplay": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+        "textOriginal": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+        "authorDisplayName": "Paulo Nobukuni",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpqfLoK8IiFVZEtboFBHJmUENl6CKmDnyZ9qE99g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzBE_klF9W9hEU-PCjJ-LEQ",
+        "authorChannelId": {
+          "value": "UCzBE_klF9W9hEU-PCjJ-LEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-07T04:17:59Z",
+        "updatedAt": "2020-07-07T04:17:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XcbsjhzuGTz3zBcRragpVbH1Yi8",
+      "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg.9AnRwbVN_Tz9AnVsfKBANv",
+      "snippet": {
+        "textDisplay": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+        "textOriginal": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+        "parentId": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-07T04:52:24Z",
+        "updatedAt": "2020-07-07T04:52:24Z"
+      }
+    }
+  ]
+}

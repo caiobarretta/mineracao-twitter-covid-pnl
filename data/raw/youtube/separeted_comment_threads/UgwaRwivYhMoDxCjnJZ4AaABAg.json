@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CQMlCx-tQYr57abrYuwWNsZWJZo",
+  "id": "UgwaRwivYhMoDxCjnJZ4AaABAg",
+  "snippet": {
+    "videoId": "WcUSgHRVdK8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2it3Kc-PRo84-Syl-HR_P4u8NWc",
+      "id": "UgwaRwivYhMoDxCjnJZ4AaABAg",
+      "snippet": {
+        "videoId": "WcUSgHRVdK8",
+        "textDisplay": "OBRIGADO",
+        "textOriginal": "OBRIGADO",
+        "authorDisplayName": "Mateus Augusto Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAApadxAR47B183WrZ-iJJSXEzvL8gkjUepDVs-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfjsP9o1iQ86QpduxoK9XHw",
+        "authorChannelId": {
+          "value": "UCfjsP9o1iQ86QpduxoK9XHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-31T01:42:29Z",
+        "updatedAt": "2021-07-31T01:42:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dTVdsPHNkFuhREd8zmsjLHoBgB0",
+      "id": "UgwaRwivYhMoDxCjnJZ4AaABAg.9QRoMzo0E2b9S4cGeR0t7h",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a\ud83d\udd25",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a\ud83d\udd25",
+        "parentId": "UgwaRwivYhMoDxCjnJZ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-09T18:37:00Z",
+        "updatedAt": "2021-09-09T18:37:00Z"
+      }
+    }
+  ]
+}

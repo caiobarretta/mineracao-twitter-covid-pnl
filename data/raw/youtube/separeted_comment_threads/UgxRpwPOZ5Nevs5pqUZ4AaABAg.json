@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MN7GLdirOUFumkj8fQkiZvvgBx8",
+  "id": "UgxRpwPOZ5Nevs5pqUZ4AaABAg",
+  "snippet": {
+    "videoId": "IcmTHuvMgU0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HQfg2OWwXTuTxZZe8Fj-JucS3fc",
+      "id": "UgxRpwPOZ5Nevs5pqUZ4AaABAg",
+      "snippet": {
+        "videoId": "IcmTHuvMgU0",
+        "textDisplay": "Anvisa...j\u00e1 foi Anvisa eu avisei!!!",
+        "textOriginal": "Anvisa...j\u00e1 foi Anvisa eu avisei!!!",
+        "authorDisplayName": "Roberto Pinto de Mello",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQrPIrOqo3B0yn55PWl8vtpf2KTJRpTyvIvzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdNvd7Ql9Xx8x4h57b0B65Q",
+        "authorChannelId": {
+          "value": "UCdNvd7Ql9Xx8x4h57b0B65Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-07T00:34:29Z",
+        "updatedAt": "2022-05-07T00:34:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "I-ODM6AytSDPs6odEtsVbFStags",
+      "id": "UgxRpwPOZ5Nevs5pqUZ4AaABAg.9ahfA2_nNS19ahl3xH4CPw",
+      "snippet": {
+        "textDisplay": "Avisou o que? Que vc \u00e9 doente? Bem era melhor ter falado com algum psiquiatra.",
+        "textOriginal": "Avisou o que? Que vc \u00e9 doente? Bem era melhor ter falado com algum psiquiatra.",
+        "parentId": "UgxRpwPOZ5Nevs5pqUZ4AaABAg",
+        "authorDisplayName": "Igor Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRC-oRYRk8OgcCGEm8cd64n9oaGPh_AIze5mc7X=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTze_doOggHaw7soGEr7XA",
+        "authorChannelId": {
+          "value": "UCnTze_doOggHaw7soGEr7XA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-07T01:26:05Z",
+        "updatedAt": "2022-05-07T01:26:05Z"
+      }
+    }
+  ]
+}

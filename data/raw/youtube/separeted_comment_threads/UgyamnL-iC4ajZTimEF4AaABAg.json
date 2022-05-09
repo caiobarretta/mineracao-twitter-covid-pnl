@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mbSJnFj6SN1GzsTGBWMCzf3BdbI",
+  "id": "UgyamnL-iC4ajZTimEF4AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "187iL0jT03Z4e3gxlxDgKp7RoQk",
+      "id": "UgyamnL-iC4ajZTimEF4AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "Show!!!",
+        "textOriginal": "Show!!!",
+        "authorDisplayName": "Jeff",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8Nz72FYmkvaYF6MqRGJWnva-YJWzXHXc6Gcp2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcn9yqjNk_QB0oJFpQLfjlA",
+        "authorChannelId": {
+          "value": "UCcn9yqjNk_QB0oJFpQLfjlA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T21:44:25Z",
+        "updatedAt": "2022-04-18T21:44:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Kp0Q9f7G7XxZtuAbZ32YfZoQCLs",
+      "id": "UgyamnL-iC4ajZTimEF4AaABAg.9_z0OaoXhW69a-in283eNz",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a",
+        "parentId": "UgyamnL-iC4ajZTimEF4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-19T13:40:20Z",
+        "updatedAt": "2022-04-19T13:40:20Z"
+      }
+    }
+  ]
+}

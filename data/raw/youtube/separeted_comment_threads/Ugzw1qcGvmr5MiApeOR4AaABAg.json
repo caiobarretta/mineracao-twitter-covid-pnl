@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xDFAA6qfy4YDpCtN2G6gsVk_D58",
+  "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+  "snippet": {
+    "videoId": "qzGzMXL02gA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_Mk1I2myYEx4yrWXUvP0SPXIiMw",
+      "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+      "snippet": {
+        "videoId": "qzGzMXL02gA",
+        "textDisplay": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+        "textOriginal": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+        "authorDisplayName": "Victor Raphael",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQshS2cYc4um25iTtqYSsGqekVtOQCGvHRSADCgNcc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFcdQKTSqDTypn7Itc9x3Pw",
+        "authorChannelId": {
+          "value": "UCFcdQKTSqDTypn7Itc9x3Pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-04T19:22:32Z",
+        "updatedAt": "2020-05-04T19:22:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Vx39qiBB4jJ6ESIKWVtaHEEyD3E",
+      "id": "Ugzw1qcGvmr5MiApeOR4AaABAg.98FG_jMjxrb98FPTim1H6d",
+      "snippet": {
+        "textDisplay": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+        "textOriginal": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+        "parentId": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T20:40:13Z",
+        "updatedAt": "2020-05-04T20:40:13Z"
+      }
+    }
+  ]
+}

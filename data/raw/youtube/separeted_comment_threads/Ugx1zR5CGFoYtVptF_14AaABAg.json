@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SGfZulNyjjtkmdRbGlkRYyU4QPE",
+  "id": "Ugx1zR5CGFoYtVptF_14AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "d1IougjKSXJQ4YOD7WS3vXH9rK4",
+      "id": "Ugx1zR5CGFoYtVptF_14AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Muito bom, parabens por compartilhar seu conhecimento conosco.",
+        "textOriginal": "Muito bom, parabens por compartilhar seu conhecimento conosco.",
+        "authorDisplayName": "Joao Neto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWRGY3JZpaLSQh1RcUpaGfbDrY12uDj79QckWAp7U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzBZx_LWCb7r-47ddOe9baA",
+        "authorChannelId": {
+          "value": "UCzBZx_LWCb7r-47ddOe9baA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-04-21T18:47:30Z",
+        "updatedAt": "2020-04-21T18:47:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "04E2yi9t7sNfQlJRp4rycA_uXk8",
+      "id": "Ugx1zR5CGFoYtVptF_14AaABAg.97ijElYBjXX97kkRj0Pqss",
+      "snippet": {
+        "textDisplay": "Valeu Joao.",
+        "textOriginal": "Valeu Joao.",
+        "parentId": "Ugx1zR5CGFoYtVptF_14AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-22T13:36:29Z",
+        "updatedAt": "2020-04-22T13:36:29Z"
+      }
+    }
+  ]
+}

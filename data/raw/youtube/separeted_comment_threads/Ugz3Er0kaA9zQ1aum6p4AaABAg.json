@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5rHYQ6xTM31XyfMmh5Q2GCAmIMM",
+  "id": "Ugz3Er0kaA9zQ1aum6p4AaABAg",
+  "snippet": {
+    "videoId": "PpbJNX7ZPq8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "klcU78nbilnmkRJC3MC47ZFebKE",
+      "id": "Ugz3Er0kaA9zQ1aum6p4AaABAg",
+      "snippet": {
+        "videoId": "PpbJNX7ZPq8",
+        "textDisplay": "Parabens pelo pessimo profissionalismo",
+        "textOriginal": "Parabens pelo pessimo profissionalismo",
+        "authorDisplayName": "Ricardo Tondati",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjgBgb79joJXq6RArgHwIsi_u50aS805ntVt2wuQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCalp1g66Cwllq-5qtshj8AQ",
+        "authorChannelId": {
+          "value": "UCalp1g66Cwllq-5qtshj8AQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-03T19:56:57Z",
+        "updatedAt": "2020-03-03T19:56:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7aS5qf8HNwTMa5a893v5ETfQpKU",
+      "id": "Ugz3Er0kaA9zQ1aum6p4AaABAg.95kgEUzENBc96v7IlmZFDc",
+      "snippet": {
+        "textDisplay": "@Canal Butantan PIADISTAS!!!",
+        "textOriginal": "@Canal Butantan PIADISTAS!!!",
+        "parentId": "Ugz3Er0kaA9zQ1aum6p4AaABAg",
+        "authorDisplayName": "Alyne Grimaldi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOXVPKeG4gn_VRpekSF9FrSih47617v_0JkIv_zg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCP05D2Byg3tmRczcGfBUwDg",
+        "authorChannelId": {
+          "value": "UCP05D2Byg3tmRczcGfBUwDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-01T17:46:00Z",
+        "updatedAt": "2020-04-01T17:46:00Z"
+      }
+    }
+  ]
+}

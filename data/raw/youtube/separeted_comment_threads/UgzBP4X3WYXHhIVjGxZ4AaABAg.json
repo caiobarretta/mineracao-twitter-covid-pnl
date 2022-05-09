@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nGB4YQaKhuwSpbveMR5UlK2kkgI",
+  "id": "UgzBP4X3WYXHhIVjGxZ4AaABAg",
+  "snippet": {
+    "videoId": "FWCVCL0U7sE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4LgWgb0NwNKkZJLDH8G5pJxn6vk",
+      "id": "UgzBP4X3WYXHhIVjGxZ4AaABAg",
+      "snippet": {
+        "videoId": "FWCVCL0U7sE",
+        "textDisplay": "Haha primeiro!!",
+        "textOriginal": "Haha primeiro!!",
+        "authorDisplayName": "Bruno Paiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQt1DQYnhvtd2qPcz8OIzXBteVRvB9d6ViT9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWEdUXjAniCHybTN695JFpg",
+        "authorChannelId": {
+          "value": "UCWEdUXjAniCHybTN695JFpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-09T16:40:34Z",
+        "updatedAt": "2020-03-09T16:40:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7IWgiT660lUMh68AyLSSPhpHiJo",
+      "id": "UgzBP4X3WYXHhIVjGxZ4AaABAg.95zmXQRRnfy95zmcelGnj-",
+      "snippet": {
+        "textDisplay": "N foi n mas ok",
+        "textOriginal": "N foi n mas ok",
+        "parentId": "UgzBP4X3WYXHhIVjGxZ4AaABAg",
+        "authorDisplayName": "Miguel ;-;",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTk_AvUzUgjBwdjY6Z4n9YELUNTel4yRoMrr06R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuSOqHJTZ1opHZSZk59t1dw",
+        "authorChannelId": {
+          "value": "UCuSOqHJTZ1opHZSZk59t1dw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-09T16:41:25Z",
+        "updatedAt": "2020-03-09T16:41:25Z"
+      }
+    }
+  ]
+}

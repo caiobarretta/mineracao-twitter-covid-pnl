@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6smeXlSmuwnDYeTycoYJrmsS2Cs",
+  "id": "UgytzK9UrNhhvFdJVQR4AaABAg",
+  "snippet": {
+    "videoId": "x0MTn3Gcel0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gLU7qVdG4GvlGdhOtwD-PnXYo9g",
+      "id": "UgytzK9UrNhhvFdJVQR4AaABAg",
+      "snippet": {
+        "videoId": "x0MTn3Gcel0",
+        "textDisplay": "When your health system is SUS",
+        "textOriginal": "When your health system is SUS",
+        "authorDisplayName": "ali fegelein",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6FlKkbPyXsApKP_oKTIYNzabldzZ9vNdIcgHhPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwvzznTyQmaeFEPoCIkkyfA",
+        "authorChannelId": {
+          "value": "UCwvzznTyQmaeFEPoCIkkyfA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-18T16:47:27Z",
+        "updatedAt": "2022-04-18T16:47:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZT0BIjcfizDEyA3alPTiYv0ALmc",
+      "id": "UgytzK9UrNhhvFdJVQR4AaABAg.9_yUPXvji1Q9a_dTOx9spq",
+      "snippet": {
+        "textDisplay": "Come here to brazil :>",
+        "textOriginal": "Come here to brazil :>",
+        "parentId": "UgytzK9UrNhhvFdJVQR4AaABAg",
+        "authorDisplayName": "Maria do Socorro Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSyxUA3Uw_vyv31dvPu3F3s9hv-sw58TAmyBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnUSk_IthU8MrlDJz13KKsQ",
+        "authorChannelId": {
+          "value": "UCnUSk_IthU8MrlDJz13KKsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-03T21:45:44Z",
+        "updatedAt": "2022-05-03T21:45:44Z"
+      }
+    }
+  ]
+}

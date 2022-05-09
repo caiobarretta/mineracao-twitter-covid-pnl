@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mHE1COYp7BRnYWrJQiAxf27-SIg",
+  "id": "UgwyRieUxv8bvHeWbq94AaABAg",
+  "snippet": {
+    "videoId": "30FijUpQ1po",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "y1AvSR-8iwmPTt3RWKyVq7EBN1w",
+      "id": "UgwyRieUxv8bvHeWbq94AaABAg",
+      "snippet": {
+        "videoId": "30FijUpQ1po",
+        "textDisplay": "Muito bom!",
+        "textOriginal": "Muito bom!",
+        "authorDisplayName": "Paulo Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHsU8gp_Y9tBbIINLnL3RXUrXb-EtkC40YLXll=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-v8RLpg7nAG0l-WqXWV9Kw",
+        "authorChannelId": {
+          "value": "UC-v8RLpg7nAG0l-WqXWV9Kw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-25T23:33:13Z",
+        "updatedAt": "2020-05-25T23:33:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hBD_MeP0JCGJeJf_NzIShOVn1ak",
+      "id": "UgwyRieUxv8bvHeWbq94AaABAg.995my8-r9FW9ACqH5lv5Tl",
+      "snippet": {
+        "textDisplay": "Obrigado",
+        "textOriginal": "Obrigado",
+        "parentId": "UgwyRieUxv8bvHeWbq94AaABAg",
+        "authorDisplayName": "CANAL SANDECO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmvhgUPr6zCGTOwOOwebxuGZY8oWkIkigtWEI0tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ",
+        "authorChannelId": {
+          "value": "UCIQne9yW4TvCCNYQLszfXCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-22T13:48:14Z",
+        "updatedAt": "2020-06-22T13:48:14Z"
+      }
+    }
+  ]
+}

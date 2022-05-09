@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yjzNMiKcA5hEbRd0Wo8O3qPrwzc",
+  "id": "Ugwd4yyJqRkcfge7j7t4AaABAg",
+  "snippet": {
+    "videoId": "npCwAMasbhU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UdT8az4EVFjJHd0lhrzVlg6t4tg",
+      "id": "Ugwd4yyJqRkcfge7j7t4AaABAg",
+      "snippet": {
+        "videoId": "npCwAMasbhU",
+        "textDisplay": "Muy bonita Raquel , y felicidades \ud83d\ude0d",
+        "textOriginal": "Muy bonita Raquel , y felicidades \ud83d\ude0d",
+        "authorDisplayName": "nuria egea sells",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHaSA5R0_n9-DbzOANrORR76ZRwsI__oZt-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRwEk9B0QIJb9eqISlaS0UQ",
+        "authorChannelId": {
+          "value": "UCRwEk9B0QIJb9eqISlaS0UQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-29T07:23:31Z",
+        "updatedAt": "2021-04-29T07:23:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JK8c_WNpGCuV6uXM6gjxUoIWlQ0",
+      "id": "Ugwd4yyJqRkcfge7j7t4AaABAg.9MhxTTyzfP19MiUBvv-Pzd",
+      "snippet": {
+        "textDisplay": "Muchas gracias preciosa\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+        "textOriginal": "Muchas gracias preciosa\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+        "parentId": "Ugwd4yyJqRkcfge7j7t4AaABAg",
+        "authorDisplayName": "Cada una con sus cosas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HwWe2CpKlwQCM3BzF4YQAXrN8HGDKSVLXZZdVxUIBgzTdeWQy9wbA3rpyP8DHFtDyD_AcRvbYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg2fWonniri5qxHrlZybTcQ",
+        "authorChannelId": {
+          "value": "UCg2fWonniri5qxHrlZybTcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-29T12:18:13Z",
+        "updatedAt": "2021-04-29T12:18:13Z"
+      }
+    }
+  ]
+}

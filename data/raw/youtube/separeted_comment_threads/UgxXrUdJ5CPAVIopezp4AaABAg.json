@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gwuKvQPOCWVAXjLSVutDQdgDXn0",
+  "id": "UgxXrUdJ5CPAVIopezp4AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ijlR1MncuBoCe-vc5LgRdwpHL3w",
+      "id": "UgxXrUdJ5CPAVIopezp4AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "Show de bola!",
+        "textOriginal": "Show de bola!",
+        "authorDisplayName": "Bruno Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4RqzdjJo6_slpX22LP5pQg0MLCgTQsGwD2i-U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzbOXwxuGfL3IJGHLIVsyaQ",
+        "authorChannelId": {
+          "value": "UCzbOXwxuGfL3IJGHLIVsyaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T22:46:17Z",
+        "updatedAt": "2022-04-18T22:46:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SfL-pEnulqBntStiKnfamAb_kGQ",
+      "id": "UgxXrUdJ5CPAVIopezp4AaABAg.9_z7Tlf0-cP9a-iigrRhhF",
+      "snippet": {
+        "textDisplay": "Valeu obrigado!!!!",
+        "textOriginal": "Valeu obrigado!!!!",
+        "parentId": "UgxXrUdJ5CPAVIopezp4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-19T13:39:45Z",
+        "updatedAt": "2022-04-19T13:39:45Z"
+      }
+    }
+  ]
+}

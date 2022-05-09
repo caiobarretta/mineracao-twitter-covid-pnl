@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9TSzSvxJLJ32l2KD-19wU0j69DA",
+  "id": "UgyhCvrRtniarC5IvDF4AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "w94BB89FiUaWeF3l92L7WdVTPbw",
+      "id": "UgyhCvrRtniarC5IvDF4AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Nossa parab\u00e9ns! Vale cada segundo!",
+        "textOriginal": "Nossa parab\u00e9ns! Vale cada segundo!",
+        "authorDisplayName": "Denis Akao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPxnLC3IeN2Y7lbCAERI3SRzr-FcdjFkrzwsBCUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAlKc5RCI6dAaZFKLfxFHAg",
+        "authorChannelId": {
+          "value": "UCAlKc5RCI6dAaZFKLfxFHAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T12:29:44Z",
+        "updatedAt": "2021-03-14T12:29:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "coLWXUaNqg600sy7fcWvpCuEd8o",
+      "id": "UgyhCvrRtniarC5IvDF4AaABAg.9Ks2x0wmGwE9KxQ6MgZs9C",
+      "snippet": {
+        "textDisplay": "Valeu Denis!",
+        "textOriginal": "Valeu Denis!",
+        "parentId": "UgyhCvrRtniarC5IvDF4AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-16T14:28:19Z",
+        "updatedAt": "2021-03-16T14:28:19Z"
+      }
+    }
+  ]
+}

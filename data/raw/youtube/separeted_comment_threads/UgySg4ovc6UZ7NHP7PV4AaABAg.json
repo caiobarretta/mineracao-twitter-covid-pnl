@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bvbWXkjrTkjEJtvt2JYOyob0DbE",
+  "id": "UgySg4ovc6UZ7NHP7PV4AaABAg",
+  "snippet": {
+    "videoId": "fxZJTbq2K8w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_xtkb3U7wxoh9_AJ4SIoQB_jyF0",
+      "id": "UgySg4ovc6UZ7NHP7PV4AaABAg",
+      "snippet": {
+        "videoId": "fxZJTbq2K8w",
+        "textDisplay": "Atualizando em 3, 2, 1...",
+        "textOriginal": "Atualizando em 3, 2, 1...",
+        "authorDisplayName": "Gregory Lavor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRiipk2tk8rVyViIdftZD_BvFLhnSkxRVDcdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCakQL_l-xhw0suwQcZOKTdw",
+        "authorChannelId": {
+          "value": "UCakQL_l-xhw0suwQcZOKTdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-18T21:15:13Z",
+        "updatedAt": "2022-04-18T21:15:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uZehTcWfMydPeuByZtgfeQxxECs",
+      "id": "UgySg4ovc6UZ7NHP7PV4AaABAg.9_yy2lknDet9a-ipWRzrIV",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a",
+        "parentId": "UgySg4ovc6UZ7NHP7PV4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-19T13:40:41Z",
+        "updatedAt": "2022-04-19T13:40:41Z"
+      }
+    }
+  ]
+}

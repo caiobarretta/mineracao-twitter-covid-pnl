@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UAu0hB5Bj3CfPUkB5ENp0QQllu8",
+  "id": "UgwOXR0IQDtk_MB-X7d4AaABAg",
+  "snippet": {
+    "videoId": "PjG_imUHTSI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xkt2I_iXTvO63IRxMcmapVOH5u0",
+      "id": "UgwOXR0IQDtk_MB-X7d4AaABAg",
+      "snippet": {
+        "videoId": "PjG_imUHTSI",
+        "textDisplay": "Lixo de aplicativo !",
+        "textOriginal": "Lixo de aplicativo !",
+        "authorDisplayName": "Brasileiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0n4I3gANgT_O4mrLdhJ_zzx2ul5OUEH8KzTd8Hg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU_Z5oTpDPcRbIpDEhpspkw",
+        "authorChannelId": {
+          "value": "UCU_Z5oTpDPcRbIpDEhpspkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-26T01:49:55Z",
+        "updatedAt": "2020-09-26T01:49:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i-wRhYX4Sq-2lJgwdeINSr4eTPM",
+      "id": "UgwOXR0IQDtk_MB-X7d4AaABAg.9E2kNxefxj79JviWkjCvTH",
+      "snippet": {
+        "textDisplay": "PARA",
+        "textOriginal": "PARA",
+        "parentId": "UgwOXR0IQDtk_MB-X7d4AaABAg",
+        "authorDisplayName": "O MANO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSs8kVWBfDRWB_OMiqFv1RhMo5ksmeImYtjF6DM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPcA-WtgpwCeVs8w99xbfIg",
+        "authorChannelId": {
+          "value": "UCPcA-WtgpwCeVs8w99xbfIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-19T02:08:05Z",
+        "updatedAt": "2021-02-19T02:08:05Z"
+      }
+    }
+  ]
+}

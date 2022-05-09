@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IlRO0BkyhYvmJDHl_kQIlw6zV_U",
+  "id": "UgyO9QEmvIuyQqRhoNt4AaABAg",
+  "snippet": {
+    "videoId": "rPMMC4D7uJo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PVCq2XXk8n5bNwD-6ezNgMkm7AQ",
+      "id": "UgyO9QEmvIuyQqRhoNt4AaABAg",
+      "snippet": {
+        "videoId": "rPMMC4D7uJo",
+        "textDisplay": "Amei o canal! Vc tem um \u00f3timo conte\u00fado. Vou compartilhar com a galera",
+        "textOriginal": "Amei o canal! Vc tem um \u00f3timo conte\u00fado. Vou compartilhar com a galera",
+        "authorDisplayName": "Erin Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHHHflmcSKL6l8Od4iQBrVBkn93-6nCfkIBw7JOQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWFFHhV83LvpMK0TH8JLm4w",
+        "authorChannelId": {
+          "value": "UCWFFHhV83LvpMK0TH8JLm4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-22T22:26:03Z",
+        "updatedAt": "2020-03-22T22:26:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aNGipfI12Q4ZtVr306Xv47Oq3CM",
+      "id": "UgyO9QEmvIuyQqRhoNt4AaABAg.96WsPBIcHWd96WselX6Eba",
+      "snippet": {
+        "textDisplay": "Patricia Leite \u2764\ufe0f\u2764\ufe0f\u270a\ud83c\udffe obrigada",
+        "textOriginal": "Patricia Leite \u2764\ufe0f\u2764\ufe0f\u270a\ud83c\udffe obrigada",
+        "parentId": "UgyO9QEmvIuyQqRhoNt4AaABAg",
+        "authorDisplayName": "Doutora Drag - Dimitra Vulcana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8NFUdfay2MrGv21M0s064WQyfG2KW6y4hEQr6sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcgl8D1QAwAmZekgv1-BaQg",
+        "authorChannelId": {
+          "value": "UCcgl8D1QAwAmZekgv1-BaQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-22T22:28:19Z",
+        "updatedAt": "2020-03-22T22:28:19Z"
+      }
+    }
+  ]
+}

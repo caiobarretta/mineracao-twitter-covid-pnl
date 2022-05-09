@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EMghYLbuKMxQwF0SAnqHr1jfCck",
+  "id": "UgwImHji9aTzhCitkKV4AaABAg",
+  "snippet": {
+    "videoId": "npCwAMasbhU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8O68Ui5uwngNW89HhNfxyhm2JPo",
+      "id": "UgwImHji9aTzhCitkKV4AaABAg",
+      "snippet": {
+        "videoId": "npCwAMasbhU",
+        "textDisplay": "Preciosa Corona gracias\ud83d\ude18\ud83d\ude18",
+        "textOriginal": "Preciosa Corona gracias\ud83d\ude18\ud83d\ude18",
+        "authorDisplayName": "Yolanda Lozoya",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ9eeZr5H69lR1QYYea-ysVxJ8-3rnlsBHN2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbH58i2k2qFF9d0M99ZdTzw",
+        "authorChannelId": {
+          "value": "UCbH58i2k2qFF9d0M99ZdTzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-29T11:21:50Z",
+        "updatedAt": "2021-04-29T11:21:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6hxEuipGBeQ67lWnwHfyBGsj1mE",
+      "id": "UgwImHji9aTzhCitkKV4AaABAg.9MiNjx-cMIX9MiULucQ3kV",
+      "snippet": {
+        "textDisplay": "Gracias a ti coraz\u00f3n\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+        "textOriginal": "Gracias a ti coraz\u00f3n\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+        "parentId": "UgwImHji9aTzhCitkKV4AaABAg",
+        "authorDisplayName": "Cada una con sus cosas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HwWe2CpKlwQCM3BzF4YQAXrN8HGDKSVLXZZdVxUIBgzTdeWQy9wbA3rpyP8DHFtDyD_AcRvbYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg2fWonniri5qxHrlZybTcQ",
+        "authorChannelId": {
+          "value": "UCg2fWonniri5qxHrlZybTcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-29T12:19:35Z",
+        "updatedAt": "2021-04-29T12:19:35Z"
+      }
+    }
+  ]
+}

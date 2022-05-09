@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ixr-F86X_BDFIGVmR61QGj86J_8",
+  "id": "UgxQ_eLhWGSSdf75gph4AaABAg",
+  "snippet": {
+    "videoId": "4U8Yyi_k6EI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fe3idU1-czDF0FaQDWyFbmL71XA",
+      "id": "UgxQ_eLhWGSSdf75gph4AaABAg",
+      "snippet": {
+        "videoId": "4U8Yyi_k6EI",
+        "textDisplay": "p\u00e9ssima explica\u00e7\u00e3o",
+        "textOriginal": "p\u00e9ssima explica\u00e7\u00e3o",
+        "authorDisplayName": "breno jose villa villa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWb8iJZHKXyAQNnyQOCUxyt0O9hTBhp4WewA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdYtdVY2XHK7VdKX540PQbQ",
+        "authorChannelId": {
+          "value": "UCdYtdVY2XHK7VdKX540PQbQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-18T13:06:17Z",
+        "updatedAt": "2021-03-18T13:06:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RAm0yzfuPBNZ2QI60ZKZITTiRQw",
+      "id": "UgxQ_eLhWGSSdf75gph4AaABAg.9L1QJCJQ7Ut9NIjPvcxeXm",
+      "snippet": {
+        "textDisplay": "faz uma melhor",
+        "textOriginal": "faz uma melhor",
+        "parentId": "UgxQ_eLhWGSSdf75gph4AaABAg",
+        "authorDisplayName": "purple",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQascPiH85Cz08PFh9ujk4tvwnzHpIhXGKI1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3FTreyjV0DXhbfVfWQSwPw",
+        "authorChannelId": {
+          "value": "UC3FTreyjV0DXhbfVfWQSwPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-13T23:31:50Z",
+        "updatedAt": "2021-05-13T23:31:50Z"
+      }
+    }
+  ]
+}

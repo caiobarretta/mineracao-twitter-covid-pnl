@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KGWENn3mPqKViUQA54VGqUBjGNg",
+  "id": "UgwKN5Ri-78l7X3By3h4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pBGnmaqBVNDeqlYNi4fNacQadvE",
+      "id": "UgwKN5Ri-78l7X3By3h4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Parab\u00e9ns pelo conte\u00fado! Estou come\u00e7ando na \u00e1rea de an\u00e1lise de dados e seu canal tem sido de grande ajuda!",
+        "textOriginal": "Parab\u00e9ns pelo conte\u00fado! Estou come\u00e7ando na \u00e1rea de an\u00e1lise de dados e seu canal tem sido de grande ajuda!",
+        "authorDisplayName": "Guilherme Lamb",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVRKFzW7f2FJljJZZ00_5rFlKHrtaOgdtfAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1PHfxckxV8egDHmMs716VQ",
+        "authorChannelId": {
+          "value": "UC1PHfxckxV8egDHmMs716VQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-20T23:17:18Z",
+        "updatedAt": "2020-04-20T23:17:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jgumuZ8A1VK1zmpafNr3SpIq2Qg",
+      "id": "UgwKN5Ri-78l7X3By3h4AaABAg.97gdJto-rnN97gxcwYm2kd",
+      "snippet": {
+        "textDisplay": "Fico feliz por saber que a aula foi \u00fatil Guilherme. Um abra\u00e7o.",
+        "textOriginal": "Fico feliz por saber que a aula foi \u00fatil Guilherme. Um abra\u00e7o.",
+        "parentId": "UgwKN5Ri-78l7X3By3h4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-21T02:14:47Z",
+        "updatedAt": "2020-04-21T02:14:47Z"
+      }
+    }
+  ]
+}

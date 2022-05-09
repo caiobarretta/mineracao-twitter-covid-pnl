@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R8NrNJZTGgemQryf7RRn-RGuzlE",
+  "id": "UgzvYSkylX_xTiB91j14AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qknYog1m0kXfDU6hrfPqZDHHL3M",
+      "id": "UgzvYSkylX_xTiB91j14AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Oq se fala na intro?",
+        "textOriginal": "Oq se fala na intro?",
+        "authorDisplayName": "Matheus Vivan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSone2LklEkuYp72gGuKfJskSMToUX4PSuKrvLaYQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdD0cw9x9gUtSRS5CWkCP_w",
+        "authorChannelId": {
+          "value": "UCdD0cw9x9gUtSRS5CWkCP_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-29T20:05:47Z",
+        "updatedAt": "2021-01-29T20:05:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Uu2AJVp6nbReloTNg7gu8MlLGSU",
+      "id": "UgzvYSkylX_xTiB91j14AaABAg.9J6_9kgByO69JOGoucDWdp",
+      "snippet": {
+        "textDisplay": "\uc548\ub155\ud558\uc138\uc694 que seria um oi em coreano!",
+        "textOriginal": "\uc548\ub155\ud558\uc138\uc694 que seria um oi em coreano!",
+        "parentId": "UgzvYSkylX_xTiB91j14AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-05T17:03:06Z",
+        "updatedAt": "2021-02-05T17:03:06Z"
+      }
+    }
+  ]
+}

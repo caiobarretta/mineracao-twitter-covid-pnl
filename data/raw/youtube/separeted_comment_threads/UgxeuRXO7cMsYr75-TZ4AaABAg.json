@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xFnCK8LZ6H4s6-s_SsJqU1hOYIo",
+  "id": "UgxeuRXO7cMsYr75-TZ4AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VPxb0Rsl_DV4hMLI7b5kdh1K00A",
+      "id": "UgxeuRXO7cMsYr75-TZ4AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Parab\u00e9ns pelo conte\u00fado Guilherme e Vanessa.",
+        "textOriginal": "Parab\u00e9ns pelo conte\u00fado Guilherme e Vanessa.",
+        "authorDisplayName": "Carlos Eduardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uJ76DIjFoowVP8X_VzIuL02gJM1UDUe8spclQ8WJveKxllP-1ClT-kwJTExvEAKCBQGVPV4x_KM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6B4210pFYHJaD9J8cnlX6g",
+        "authorChannelId": {
+          "value": "UC6B4210pFYHJaD9J8cnlX6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-26T17:06:43Z",
+        "updatedAt": "2021-01-26T17:06:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NjRYf3BH-Ym9gQsNASCkmV9BuVY",
+      "id": "UgxeuRXO7cMsYr75-TZ4AaABAg.9IzXHaBjwb-9IzvjNm392k",
+      "snippet": {
+        "textDisplay": "Brigado duplo!",
+        "textOriginal": "Brigado duplo!",
+        "parentId": "UgxeuRXO7cMsYr75-TZ4AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-26T20:49:06Z",
+        "updatedAt": "2021-01-26T20:49:06Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3bJxmwrSMmBpL6dPdbKePUDzIYo",
+  "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+  "snippet": {
+    "videoId": "qzGzMXL02gA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gC6zv-LspPqMflo0EI62euSIE9c",
+      "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+      "snippet": {
+        "videoId": "qzGzMXL02gA",
+        "textDisplay": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+        "textOriginal": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+        "authorDisplayName": "Analytic Design",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFyqeQYmayo7vM2N_JI54OrQZ23TuBkZpRpg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXGgthHB1mcVqaRGu8PuA3A",
+        "authorChannelId": {
+          "value": "UCXGgthHB1mcVqaRGu8PuA3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-02T18:17:26Z",
+        "updatedAt": "2020-05-02T18:17:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lPF4zvbnDGgpvpdOHU99GYfOMOg",
+      "id": "UgzI1ieSncV3A_C1rLF4AaABAg.98A-Y8u9bzQ98A6ecwr5of",
+      "snippet": {
+        "textDisplay": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+        "textOriginal": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+        "parentId": "UgzI1ieSncV3A_C1rLF4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-02T19:19:37Z",
+        "updatedAt": "2020-05-02T19:19:37Z"
+      }
+    }
+  ]
+}

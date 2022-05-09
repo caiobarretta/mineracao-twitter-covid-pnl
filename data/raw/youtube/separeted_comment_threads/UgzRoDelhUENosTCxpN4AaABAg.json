@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KxxLwIIcfDqcyKbas_xSG-3zLx8",
+  "id": "UgzRoDelhUENosTCxpN4AaABAg",
+  "snippet": {
+    "videoId": "aR_BMpoPtVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nKqA8pEVvWHkFs8j8otZm2uIeh4",
+      "id": "UgzRoDelhUENosTCxpN4AaABAg",
+      "snippet": {
+        "videoId": "aR_BMpoPtVI",
+        "textDisplay": "E quem perdeu a senha?",
+        "textOriginal": "E quem perdeu a senha?",
+        "authorDisplayName": "Dani Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR58ZyxYTd8rbJPN-YnTovCxAj9_2s-nD8diYYaJGc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRppJxOO94UfVpXXl5fdEoQ",
+        "authorChannelId": {
+          "value": "UCRppJxOO94UfVpXXl5fdEoQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-02T12:18:00Z",
+        "updatedAt": "2022-01-02T12:18:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vvpngkxmJs5BjwJm9H_fbldUdAY",
+      "id": "UgzRoDelhUENosTCxpN4AaABAg.9Wh3JLywUp39WhHIhWQL39",
+      "snippet": {
+        "textDisplay": "Voc\u00ea pode recuperar na op\u00e7\u00e3o \"esqueci minha senha\" na tela de login",
+        "textOriginal": "Voc\u00ea pode recuperar na op\u00e7\u00e3o \"esqueci minha senha\" na tela de login",
+        "parentId": "UgzRoDelhUENosTCxpN4AaABAg",
+        "authorDisplayName": "Melhores Destinos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/jq-ccX4x35VN6HlJDq3s-4aMoyNrL91zbGAFPlnsyg76BUzKl4NJxVbHJxBkKqsU7_Momm_XfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWN45XZWIlZoUeohfqiyURA",
+        "authorChannelId": {
+          "value": "UCWN45XZWIlZoUeohfqiyURA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-02T14:20:15Z",
+        "updatedAt": "2022-01-02T14:20:15Z"
+      }
+    }
+  ]
+}

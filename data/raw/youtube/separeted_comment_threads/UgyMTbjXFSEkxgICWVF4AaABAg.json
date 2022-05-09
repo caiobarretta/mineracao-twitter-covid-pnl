@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DzAy9kQQT8n-jzSP0Hthvc-kUzQ",
+  "id": "UgyMTbjXFSEkxgICWVF4AaABAg",
+  "snippet": {
+    "videoId": "Z2C14einBmE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PcmyHCKgPd2hFaeKs8wHrfMv6hI",
+      "id": "UgyMTbjXFSEkxgICWVF4AaABAg",
+      "snippet": {
+        "videoId": "Z2C14einBmE",
+        "textDisplay": "Est\u00e1 no grupo de risco ? Por isso tomou a vacina ?",
+        "textOriginal": "Est\u00e1 no grupo de risco ? Por isso tomou a vacina ?",
+        "authorDisplayName": "Rebecca Borchoski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HWogUiTQTQ8CHjB44O-svjRJjILm8ToCP4yX-lLstj1GLUM1G9TGWJF0YRWidbnr0bHh_0Uguw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCL_QSHMS3XPj8fxD9PlW0A",
+        "authorChannelId": {
+          "value": "UCCL_QSHMS3XPj8fxD9PlW0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-02T23:17:54Z",
+        "updatedAt": "2021-06-02T23:18:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M2XSG3OpsOQCdeJm4yMDNVwpdeY",
+      "id": "UgyMTbjXFSEkxgICWVF4AaABAg.9O6CiIXig5f9O6D8oBO7Xr",
+      "snippet": {
+        "textDisplay": "Eu falo sobre no v\u00eddeo.",
+        "textOriginal": "Eu falo sobre no v\u00eddeo.",
+        "parentId": "UgyMTbjXFSEkxgICWVF4AaABAg",
+        "authorDisplayName": "Tudo em Dose Dupla",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-8L6nAMkGUgDbMwRNOsM7HRvdWOBeBOT7QVbuQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXe2LETi-FQrf7pUoS1ZSxw",
+        "authorChannelId": {
+          "value": "UCXe2LETi-FQrf7pUoS1ZSxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-02T23:21:39Z",
+        "updatedAt": "2021-06-02T23:21:39Z"
+      }
+    }
+  ]
+}

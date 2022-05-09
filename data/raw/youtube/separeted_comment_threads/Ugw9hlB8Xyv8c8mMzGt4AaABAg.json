@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UD8_Q2_vjgdsJaAsNVlNiuNjsu0",
+  "id": "Ugw9hlB8Xyv8c8mMzGt4AaABAg",
+  "snippet": {
+    "videoId": "rckzwVBe7gk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "00rDN53Z2hiQFkJAUwfRMTEzkX8",
+      "id": "Ugw9hlB8Xyv8c8mMzGt4AaABAg",
+      "snippet": {
+        "videoId": "rckzwVBe7gk",
+        "textDisplay": "import pandas as pd\nimport numpy as np\n\n!pip install folium\nimport folium\nfrom folium import plugins\n\nmapa = folium.Map(\n        width = 800,\n        height = 600,\n        location = [-15.77972, -47.92972],\n        zoom_start = 4\n    )\n\nmapa\n\n---------------------------------------------------------------------------\nNameError                                 Traceback (most recent call last)\n<ipython-input-10-ac301eef271c> in <module>\n----> 1 mapa\n\nNameError: name 'mapa' is not defined\n\nAlguem poderia me ajudar a resolver este ERRO na execu\u00e7\u00e3o do meu script!!!!!!!!!!",
+        "textOriginal": "import pandas as pd\nimport numpy as np\n\n!pip install folium\nimport folium\nfrom folium import plugins\n\nmapa = folium.Map(\n        width = 800,\n        height = 600,\n        location = [-15.77972, -47.92972],\n        zoom_start = 4\n    )\n\nmapa\n\n---------------------------------------------------------------------------\nNameError                                 Traceback (most recent call last)\n<ipython-input-10-ac301eef271c> in <module>\n----> 1 mapa\n\nNameError: name 'mapa' is not defined\n\nAlguem poderia me ajudar a resolver este ERRO na execu\u00e7\u00e3o do meu script!!!!!!!!!!",
+        "authorDisplayName": "Paulo Alberto Paix\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeCReWX0iCcGZ8PY8CO1gepBwvipGE4-FWJgB_-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa5e9db-L83Do0JiEbeGEAQ",
+        "authorChannelId": {
+          "value": "UCa5e9db-L83Do0JiEbeGEAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-01T20:54:19Z",
+        "updatedAt": "2021-05-01T20:54:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

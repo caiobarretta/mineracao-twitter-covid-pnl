@@ -1,0 +1,223 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "b_QANto09sI7gzA1W2qsSnm4ufk",
+  "id": "UgxSB4BylBebldZzdzR4AaABAg",
+  "snippet": {
+    "videoId": "jfsmqZs5IFE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0hSWRXI6BsbKRYjxCGmJ8X7mGD0",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg",
+      "snippet": {
+        "videoId": "jfsmqZs5IFE",
+        "textDisplay": "Sudo Control, sabe como exportar o mapa do folium pra colocar em site?  Tipo, eu gero o arquivo HTML na hora de salvar, mas isso n\u00e3o \u00e9 suficiente pra colocar em um iframe de um site. Sabe dizer se tem como exportar o c\u00f3digo do mapa em HTML ou em iframe?",
+        "textOriginal": "Sudo Control, sabe como exportar o mapa do folium pra colocar em site?  Tipo, eu gero o arquivo HTML na hora de salvar, mas isso n\u00e3o \u00e9 suficiente pra colocar em um iframe de um site. Sabe dizer se tem como exportar o c\u00f3digo do mapa em HTML ou em iframe?",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T00:26:43Z",
+        "updatedAt": "2020-05-04T00:26:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 9,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hdMt4Nej-VrRVIq5CftE_2_Tw_o",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98FQ-ZS3Ko6",
+      "snippet": {
+        "textDisplay": "Voc\u00ea deixou o arquivo mapa.html na mesma pasta onde est\u00e1 esse seu HTML que vc quer usar o iframe? Eu n\u00e3o sei muito sobre HTML, mas se n\u00e3o funcionar me manda os arquivos que eu dou uma olhada contato@sudocontrol.com.br",
+        "textOriginal": "Voc\u00ea deixou o arquivo mapa.html na mesma pasta onde est\u00e1 esse seu HTML que vc quer usar o iframe? Eu n\u00e3o sei muito sobre HTML, mas se n\u00e3o funcionar me manda os arquivos que eu dou uma olhada contato@sudocontrol.com.br",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-04T20:44:50Z",
+        "updatedAt": "2020-05-04T20:44:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "aPP0jP-gFFwuCCrera3Sz9FFFII",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98FJLLvkfOd",
+      "snippet": {
+        "textDisplay": "@SudoControl eu tentei por um editor de HTML, mas n\u00e3o to sabendo puxar o documento .html pro src, e o pior que eu nem to conseguindo achar algo sobre como exportar mapas do folium pra website nos forums",
+        "textOriginal": "@SudoControl eu tentei por um editor de HTML, mas n\u00e3o to sabendo puxar o documento .html pro src, e o pior que eu nem to conseguindo achar algo sobre como exportar mapas do folium pra website nos forums",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-04T19:46:39Z",
+        "updatedAt": "2020-05-04T19:46:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "bw7QGp3GPTZyuDjWIo8fSE2U1LY",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98FIwpFKr_U",
+      "snippet": {
+        "textDisplay": "Como voc\u00ea fez? Qual plataforma vc est\u00e1 usando?",
+        "textOriginal": "Como voc\u00ea fez? Qual plataforma vc est\u00e1 usando?",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-04T19:43:10Z",
+        "updatedAt": "2020-05-04T19:43:10Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "LmhWYOde_2n64P_A02yFFIUf62A",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98FHsdG4SI8",
+      "snippet": {
+        "textDisplay": "n\u00e3o consegui... pode me dar uma ajuda?",
+        "textOriginal": "n\u00e3o consegui... pode me dar uma ajuda?",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T19:33:51Z",
+        "updatedAt": "2020-05-04T19:33:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZEJ3pcJYJxadOed5SdCidAFGRds",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98DH_CZ5N6z",
+      "snippet": {
+        "textDisplay": "@SudoControl vou testar e te falo se consegui. Sua playlist de folium \u00e9 mt boa",
+        "textOriginal": "@SudoControl vou testar e te falo se consegui. Sua playlist de folium \u00e9 mt boa",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T00:52:43Z",
+        "updatedAt": "2020-05-04T00:52:43Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "53WtVEL2mbY4qYVF8-RFDKmWGfU",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98DHWgsccOk",
+      "snippet": {
+        "textDisplay": "@SudoControl muito obrigado!",
+        "textOriginal": "@SudoControl muito obrigado!",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T00:52:14Z",
+        "updatedAt": "2020-05-04T00:52:14Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "qFYkGOcoOBfscyPLxprSDTNynlU",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98DG_wgl4lM",
+      "snippet": {
+        "textDisplay": "Eu coloquei isso na pagina HTML para importar o mapa e mostrar em um iframe",
+        "textOriginal": "Eu coloquei isso na pagina HTML para importar o mapa e mostrar em um iframe",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T00:44:05Z",
+        "updatedAt": "2020-05-04T00:44:05Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "kpa_a449nou7MnKiRa4cltb7UXw",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98DFuMIaHjV",
+      "snippet": {
+        "textDisplay": "@SudoControl mas vc colocou isso dentro do teu c\u00f3digo Python?",
+        "textOriginal": "@SudoControl mas vc colocou isso dentro do teu c\u00f3digo Python?",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "Rodrigo Brust",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyHTn6bjXsaejtf3TQWaSHo52dZlAYm6DURhb_Fa8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzKLHA-IRJwXmZ7_htJXmA",
+        "authorChannelId": {
+          "value": "UCnzKLHA-IRJwXmZ7_htJXmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-04T00:38:08Z",
+        "updatedAt": "2020-05-04T00:38:08Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "z2EG14gPWJe0GD7fSdIDHKDgYJU",
+      "id": "UgxSB4BylBebldZzdzR4AaABAg.98DEaglwvXE98DFWRxrZRM",
+      "snippet": {
+        "textDisplay": "Eu tinha feito um teste h\u00e1 alguns dias e consegui importar dentro de um iframe.\n\n<iframe class=\"map\", src=\"mapa.html\" width=\"560\" height=\"600\"></iframe>",
+        "textOriginal": "Eu tinha feito um teste h\u00e1 alguns dias e consegui importar dentro de um iframe.\n\n<iframe class=\"map\", src=\"mapa.html\" width=\"560\" height=\"600\"></iframe>",
+        "parentId": "UgxSB4BylBebldZzdzR4AaABAg",
+        "authorDisplayName": "SudoControl",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+        "authorChannelId": {
+          "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-04T00:34:44Z",
+        "updatedAt": "2020-05-04T00:34:44Z"
+      }
+    }
+  ]
+}

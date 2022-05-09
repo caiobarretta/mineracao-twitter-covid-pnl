@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VBoWh_EswEWdQeaS1XDcHLqMMDI",
+  "id": "Ugwwu1aJIuZ0rjHyhLp4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "j6E-dBDf7ToQMulmJ0Y9XB71H8c",
+      "id": "Ugwwu1aJIuZ0rjHyhLp4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Grande apresenta\u00e7\u00e3o! Abra\u00e7o",
+        "textOriginal": "Grande apresenta\u00e7\u00e3o! Abra\u00e7o",
+        "authorDisplayName": "Marcelo Feliciani",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkm13h9N3-EIj5j2mjlMIm-ht30eDGlQ6J0xzQtA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCklHuCzti8MqlRsT0aX4_qw",
+        "authorChannelId": {
+          "value": "UCklHuCzti8MqlRsT0aX4_qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-04-19T15:48:59Z",
+        "updatedAt": "2020-04-19T15:48:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_UqBNjDYfJpydPkGGd16hY9pK80",
+      "id": "Ugwwu1aJIuZ0rjHyhLp4AaABAg.97dGDV16Okm97dKP58OKqi",
+      "snippet": {
+        "textDisplay": "Obrigado Marcelo. Um abra\u00e7o.",
+        "textOriginal": "Obrigado Marcelo. Um abra\u00e7o.",
+        "parentId": "Ugwwu1aJIuZ0rjHyhLp4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-19T16:25:31Z",
+        "updatedAt": "2020-04-19T16:25:31Z"
+      }
+    }
+  ]
+}

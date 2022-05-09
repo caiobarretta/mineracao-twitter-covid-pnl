@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vXiW7a04RKeAf5X1kxE-gKlHYGE",
+  "id": "UgzPg4gLb0W5DM-BLQp4AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mJ2Br-yrE__FjZvx4m7yRqJBbSg",
+      "id": "UgzPg4gLb0W5DM-BLQp4AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Mavilhoso! Obrigado por esse conte\u00fado de qualidade! Parab\u00e9ns pelo canal!",
+        "textOriginal": "Mavilhoso! Obrigado por esse conte\u00fado de qualidade! Parab\u00e9ns pelo canal!",
+        "authorDisplayName": "Pierre de Fermat",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRov6W7KLfxps6cu6ieqW6N4AgB4eEHs-4A7I1aYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUkp5Lha5UZKuB-B3EwOEpw",
+        "authorChannelId": {
+          "value": "UCUkp5Lha5UZKuB-B3EwOEpw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-26T18:59:38Z",
+        "updatedAt": "2021-01-26T18:59:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lLIWuo1gUL9UJj97bUxcaSv7hDg",
+      "id": "UgzPg4gLb0W5DM-BLQp4AaABAg.9IzjCe_RjIY9IzvgY8Miz9",
+      "snippet": {
+        "textDisplay": "Valeu Pierre!",
+        "textOriginal": "Valeu Pierre!",
+        "parentId": "UgzPg4gLb0W5DM-BLQp4AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-26T20:48:43Z",
+        "updatedAt": "2021-01-26T20:48:43Z"
+      }
+    }
+  ]
+}

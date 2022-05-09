@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rdzNFkxjfXbgAFao3YHp2idPKFs",
+  "id": "UgxmKsqmcZniD_9dl6x4AaABAg",
+  "snippet": {
+    "videoId": "iVVnB_sgGPs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RBIJvM3zJT9YaCc40mnk1cku0WU",
+      "id": "UgxmKsqmcZniD_9dl6x4AaABAg",
+      "snippet": {
+        "videoId": "iVVnB_sgGPs",
+        "textDisplay": "Bioinform\u00e1tica s2",
+        "textOriginal": "Bioinform\u00e1tica s2",
+        "authorDisplayName": "Bruna Helena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMtTGd880N6CvJuBgk67N1Kpc33fIhdyiIX-rqlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCark8-Pu5eyYv0y_07qGQWA",
+        "authorChannelId": {
+          "value": "UCark8-Pu5eyYv0y_07qGQWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-29T20:00:32Z",
+        "updatedAt": "2021-01-29T20:00:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s8AIsssnzxeYjlz_zSLxpGafJZo",
+      "id": "UgxmKsqmcZniD_9dl6x4AaABAg.9J6ZZDKArIh9JGYdkV9hss",
+      "snippet": {
+        "textDisplay": "+1 nessa",
+        "textOriginal": "+1 nessa",
+        "parentId": "UgxmKsqmcZniD_9dl6x4AaABAg",
+        "authorDisplayName": "Guiminam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyqIXDqQXIlVYXdhssxMaOY_w3lYThqxuFmEC6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGOF_UsgvLYAudAVjKEkPJA",
+        "authorChannelId": {
+          "value": "UCGOF_UsgvLYAudAVjKEkPJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-02T17:04:57Z",
+        "updatedAt": "2021-02-02T17:04:57Z"
+      }
+    }
+  ]
+}

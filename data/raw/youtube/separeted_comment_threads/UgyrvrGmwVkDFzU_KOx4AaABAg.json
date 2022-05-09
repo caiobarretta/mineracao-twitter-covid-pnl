@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XrDkwe76kdh0M_o4trzuvfiQzZQ",
+  "id": "UgyrvrGmwVkDFzU_KOx4AaABAg",
+  "snippet": {
+    "videoId": "Xk0zHZBa7LM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "S7Pt3oAPDMu_IRFsnh3mCXFrBlY",
+      "id": "UgyrvrGmwVkDFzU_KOx4AaABAg",
+      "snippet": {
+        "videoId": "Xk0zHZBa7LM",
+        "textDisplay": "Sou aluno do DSZ mas ainda venho no YouTube pela riqueza do conte\u00fado",
+        "textOriginal": "Sou aluno do DSZ mas ainda venho no YouTube pela riqueza do conte\u00fado",
+        "authorDisplayName": "Bruno Consani",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvRjCiqBTiK65arEqJLUo4nqkhvjgwkYtwVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg065UFxo54FkU6MUv3K_Tg",
+        "authorChannelId": {
+          "value": "UCg065UFxo54FkU6MUv3K_Tg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-20T02:14:35Z",
+        "updatedAt": "2020-04-20T02:14:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lY4M_vz6My6Q0PGLnRhthXOkE-c",
+      "id": "UgyrvrGmwVkDFzU_KOx4AaABAg.97eNoWg24Hm97fX5TF_txW",
+      "snippet": {
+        "textDisplay": "Sensacional Bruno, obrigado pelo coment\u00e1rio.",
+        "textOriginal": "Sensacional Bruno, obrigado pelo coment\u00e1rio.",
+        "parentId": "UgyrvrGmwVkDFzU_KOx4AaABAg",
+        "authorDisplayName": "Stack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ipCnkYqtNOFkbqmSvBHuhKOfe3YvP2qPGJyRZaILLObu-XWXZFB0DDV4AbllAjMP40217_WgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q",
+        "authorChannelId": {
+          "value": "UCZ8gRCp3vixlGVAtplCDd5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-20T12:54:55Z",
+        "updatedAt": "2020-04-20T12:54:55Z"
+      }
+    }
+  ]
+}

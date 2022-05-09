@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OX7Yiv_ENrZCzqX8Sjfk8AU9Tko",
+  "id": "UgxAtPZjl4yE9-YTHZ14AaABAg",
+  "snippet": {
+    "videoId": "VepbhWm9E5M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "maCp0k8ftng4NdzMjzrYo2jNesg",
+      "id": "UgxAtPZjl4yE9-YTHZ14AaABAg",
+      "snippet": {
+        "videoId": "VepbhWm9E5M",
+        "textDisplay": "Sandeco uma ajuda, peguei a base de ontem 01/07/2021\n\ncasos.shape()\nme traz um valor de, (527,)\n\npassando o mortes.shape()\nme retorna (3342, 539).\n\nQuando jogo as linhas de comando\n\nmortes = np.sum(mortes.iloc[ :   , 4 : mortes.shape[1]])\r\nmortes.index = pd.DatetimeIndex(mortes.index)\r\nmortes.tail(5)\n\nda o seguinte erro\n\nIndexError                                Traceback (most recent call last)\r\n<ipython-input-45-6562a63187d4> in <module>()\r\n----> 1 mortes = np.sum(mortes.iloc[ :   , 4 : mortes.shape[1]])\r\n      2 mortes.index = pd.DatetimeIndex(mortes.index)\r\n      3 mortes.tail(5)\r\n\r\nIndexError: tuple index out of range",
+        "textOriginal": "Sandeco uma ajuda, peguei a base de ontem 01/07/2021\n\ncasos.shape()\nme traz um valor de, (527,)\n\npassando o mortes.shape()\nme retorna (3342, 539).\n\nQuando jogo as linhas de comando\n\nmortes = np.sum(mortes.iloc[ :   , 4 : mortes.shape[1]])\r\nmortes.index = pd.DatetimeIndex(mortes.index)\r\nmortes.tail(5)\n\nda o seguinte erro\n\nIndexError                                Traceback (most recent call last)\r\n<ipython-input-45-6562a63187d4> in <module>()\r\n----> 1 mortes = np.sum(mortes.iloc[ :   , 4 : mortes.shape[1]])\r\n      2 mortes.index = pd.DatetimeIndex(mortes.index)\r\n      3 mortes.tail(5)\r\n\r\nIndexError: tuple index out of range",
+        "authorDisplayName": "Anderson Zen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo7e9GJpjXz26w0KvOABFF9LDnroR6UFPI7szwHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDCIUbHdueOLYQaRVQ5yhhg",
+        "authorChannelId": {
+          "value": "UCDCIUbHdueOLYQaRVQ5yhhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-02T16:04:49Z",
+        "updatedAt": "2021-07-02T16:04:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

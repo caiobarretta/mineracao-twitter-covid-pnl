@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NwyLuzf5dUA1xGsp6yBQ5qDHiVg",
+  "id": "UgzI9APm5GY6x_oYwkx4AaABAg",
+  "snippet": {
+    "videoId": "G2yVKKQXQiQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "clH-i9TtqJoY8BLzS20yYzXx-d4",
+      "id": "UgzI9APm5GY6x_oYwkx4AaABAg",
+      "snippet": {
+        "videoId": "G2yVKKQXQiQ",
+        "textDisplay": "\"Seguimos pensando en like cuando alguien un coraz\u00f3n nesecita.\"",
+        "textOriginal": "\"Seguimos pensando en like cuando alguien un coraz\u00f3n nesecita.\"",
+        "authorDisplayName": "Bryan Rojas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSH6NFcOqcHuAO3TX_vxO6BB4JSZWPYqND8ZLikNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuWWYL2jJxrd-y3qCLclnSw",
+        "authorChannelId": {
+          "value": "UCuWWYL2jJxrd-y3qCLclnSw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2021-05-28T17:17:26Z",
+        "updatedAt": "2021-05-28T17:17:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xQSHHKjlhD_hqXVffgJVszKixDI",
+      "id": "UgzI9APm5GY6x_oYwkx4AaABAg.9NtgUle_8qJ9aKcvPh29sv",
+      "snippet": {
+        "textDisplay": "Eso es la verdad",
+        "textOriginal": "Eso es la verdad",
+        "parentId": "UgzI9APm5GY6x_oYwkx4AaABAg",
+        "authorDisplayName": "Rodrigo Andr\u00e9s Riquelme Caro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGmRXOcSmHAVi3Yj44T5F4O9jny1YNLxc0uj18nFlm4r0QD6LGUyWm5x632eoz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCo0gU4ltm_2jbzro1N4zFCw",
+        "authorChannelId": {
+          "value": "UCo0gU4ltm_2jbzro1N4zFCw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-27T16:33:06Z",
+        "updatedAt": "2022-04-27T16:33:06Z"
+      }
+    }
+  ]
+}

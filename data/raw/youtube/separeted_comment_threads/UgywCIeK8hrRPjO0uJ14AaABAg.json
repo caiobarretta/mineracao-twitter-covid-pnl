@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wu_d85NX7kpGbJlVHd-u3Hz9uVg",
+  "id": "UgywCIeK8hrRPjO0uJ14AaABAg",
+  "snippet": {
+    "videoId": "uKrT2E3TqAY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FReCfmLAFEZbzaF0Xpqf3JPgAuY",
+      "id": "UgywCIeK8hrRPjO0uJ14AaABAg",
+      "snippet": {
+        "videoId": "uKrT2E3TqAY",
+        "textDisplay": "Eu odeio a escola :D",
+        "textOriginal": "Eu odeio a escola :D",
+        "authorDisplayName": "Hansel lob",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRynwhoNwAXHLWLccuwkLiJJWCYcnHz5q_SSYs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpl3UIR1EXPmOLvUurg3G9g",
+        "authorChannelId": {
+          "value": "UCpl3UIR1EXPmOLvUurg3G9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-04-24T17:33:55Z",
+        "updatedAt": "2020-04-24T17:33:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tIn4rDp22yjS9ULf3gV0nU37xs0",
+      "id": "UgywCIeK8hrRPjO0uJ14AaABAg.97qKCNg9iID99PDrmaO1mL",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m :D",
+        "textOriginal": "Tamb\u00e9m :D",
+        "parentId": "UgywCIeK8hrRPjO0uJ14AaABAg",
+        "authorDisplayName": "Kharne",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwBNhAZCPIjw2ENYW4YDZ7LguZMYLPdTDKqT_5FQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuMcywLI2d5-0vqmgOmdtSQ",
+        "authorChannelId": {
+          "value": "UCuMcywLI2d5-0vqmgOmdtSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-02T12:42:35Z",
+        "updatedAt": "2020-06-02T12:42:35Z"
+      }
+    }
+  ]
+}

@@ -20,7 +20,7 @@ class FilterYouTubeCommentThreads:
                 return True
         return False
 
-    def get_youtube_idvideo_from_search_list_file(self, path, extension, search_match, func_save_json):
+    def filtered_comment_threads(self, path, extension, search_match, func_save_json):
         path_to_matching = f'{path}*{extension}'
         file_list = glob.glob(path_to_matching)
         for file in file_list:
@@ -32,6 +32,16 @@ class FilterYouTubeCommentThreads:
                     id = content['id']
                     file_name = f'data/raw/youtube/filtered_comment_threads/{id}.json'
                     func_save_json(file_name, content)
+    
+    def separeted_comment_threads(self, path, extension, func_save_json):
+        path_to_matching = f'{path}*{extension}'
+        file_list = glob.glob(path_to_matching)
+        for file in file_list:
+            data = self.read_json(file)
+            for content in data:
+                id = content['id']
+                file_name = f'data/raw/youtube/separeted_comment_threads/{id}.json'
+                func_save_json(file_name, content)
 
 
 def main():
@@ -45,7 +55,10 @@ def main():
     func_save_json = search.save_json
 
     search_match = search.load_search_query_list_dict(func_get_query_to_search)
-    pesquisa = filter.get_youtube_idvideo_from_search_list_file(path, extension, search_match, func_save_json)
+    
+    #filter.filtered_comment_threads(path, extension, search_match, func_save_json)
+
+    filter.separeted_comment_threads(path, extension, func_save_json)
 
 if __name__ == '__main__':
     main()
