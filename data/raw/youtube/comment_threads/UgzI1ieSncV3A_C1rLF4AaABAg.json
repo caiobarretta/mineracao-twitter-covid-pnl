@@ -1,0 +1,442 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "GfuRDnH_f9OdfgmzqJIezm5xZE8",
+    "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "JFfm3_dZKBubN2E_wKx0E9ZXVkQ",
+        "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+          "textOriginal": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+          "authorDisplayName": "Paulo Nobukuni",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpqfLoK8IiFVZEtboFBHJmUENl6CKmDnyZ9qE99g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzBE_klF9W9hEU-PCjJ-LEQ",
+          "authorChannelId": {
+            "value": "UCzBE_klF9W9hEU-PCjJ-LEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2020-07-07T04:17:59Z",
+          "updatedAt": "2020-07-07T04:17:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "XcbsjhzuGTz3zBcRragpVbH1Yi8",
+        "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg.9AnRwbVN_Tz9AnVsfKBANv",
+        "snippet": {
+          "textDisplay": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+          "textOriginal": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+          "parentId": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-07-07T04:52:24Z",
+          "updatedAt": "2020-07-07T04:52:24Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "3bJxmwrSMmBpL6dPdbKePUDzIYo",
+    "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "gC6zv-LspPqMflo0EI62euSIE9c",
+        "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+          "textOriginal": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+          "authorDisplayName": "Analytic Design",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFyqeQYmayo7vM2N_JI54OrQZ23TuBkZpRpg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXGgthHB1mcVqaRGu8PuA3A",
+          "authorChannelId": {
+            "value": "UCXGgthHB1mcVqaRGu8PuA3A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-05-02T18:17:26Z",
+          "updatedAt": "2020-05-02T18:17:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "lPF4zvbnDGgpvpdOHU99GYfOMOg",
+        "id": "UgzI1ieSncV3A_C1rLF4AaABAg.98A-Y8u9bzQ98A6ecwr5of",
+        "snippet": {
+          "textDisplay": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+          "textOriginal": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+          "parentId": "UgzI1ieSncV3A_C1rLF4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2020-05-02T19:19:37Z",
+          "updatedAt": "2020-05-02T19:19:37Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "jFYFJ0mTL7eR9JN0NK6hXzEt9Hg",
+    "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "RDzkUDZdpGI3i1Y-imcdOIR053c",
+        "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Bom dia Fl\u00e1vio! Pelo que entendi, a imagem tem que estar na rede, pois \u00e9 de l\u00e1 que uso a mesma. Estou certo? Caso esteja certo, como coloco a imagem na rede? qual \u00e9 a extens\u00e3o dela? Obrigado!",
+          "textOriginal": "Bom dia Fl\u00e1vio! Pelo que entendi, a imagem tem que estar na rede, pois \u00e9 de l\u00e1 que uso a mesma. Estou certo? Caso esteja certo, como coloco a imagem na rede? qual \u00e9 a extens\u00e3o dela? Obrigado!",
+          "authorDisplayName": "Paulo Nobukuni",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpqfLoK8IiFVZEtboFBHJmUENl6CKmDnyZ9qE99g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzBE_klF9W9hEU-PCjJ-LEQ",
+          "authorChannelId": {
+            "value": "UCzBE_klF9W9hEU-PCjJ-LEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-07-08T12:46:22Z",
+          "updatedAt": "2020-07-08T12:46:22Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "0r_A12ZO7wjXsRGF7gewvUhQKcQ",
+        "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg.9Aqvuv0SHhP9Aqws7Q0MUX",
+        "snippet": {
+          "textDisplay": "Bom dia, para vc compartilhar o mapa com outras pessoas a imagem precisa estar hospedada. Voc\u00ea pode pesquisar no Google \"hospedar imagem\" v\u00e3o aparecer v\u00e1rios sites que s\u00e3o todos muito parecidos (n\u00e3o tenho nenhum em especifico para te recomendar). Acredito que funcione tanto .png quanto .jpg. A\u00ed \u00e9 s\u00f3 pegar o link e fazer como indico no v\u00eddeo",
+          "textOriginal": "Bom dia, para vc compartilhar o mapa com outras pessoas a imagem precisa estar hospedada. Voc\u00ea pode pesquisar no Google \"hospedar imagem\" v\u00e3o aparecer v\u00e1rios sites que s\u00e3o todos muito parecidos (n\u00e3o tenho nenhum em especifico para te recomendar). Acredito que funcione tanto .png quanto .jpg. A\u00ed \u00e9 s\u00f3 pegar o link e fazer como indico no v\u00eddeo",
+          "parentId": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-07-08T12:54:43Z",
+          "updatedAt": "2020-07-08T12:54:43Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "xDFAA6qfy4YDpCtN2G6gsVk_D58",
+    "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_Mk1I2myYEx4yrWXUvP0SPXIiMw",
+        "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+          "textOriginal": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+          "authorDisplayName": "Victor Raphael",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQshS2cYc4um25iTtqYSsGqekVtOQCGvHRSADCgNcc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFcdQKTSqDTypn7Itc9x3Pw",
+          "authorChannelId": {
+            "value": "UCFcdQKTSqDTypn7Itc9x3Pw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-05-04T19:22:32Z",
+          "updatedAt": "2020-05-04T19:22:32Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "Vx39qiBB4jJ6ESIKWVtaHEEyD3E",
+        "id": "Ugzw1qcGvmr5MiApeOR4AaABAg.98FG_jMjxrb98FPTim1H6d",
+        "snippet": {
+          "textDisplay": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+          "textOriginal": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+          "parentId": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-05-04T20:40:13Z",
+          "updatedAt": "2020-05-04T20:40:13Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "GfuRDnH_f9OdfgmzqJIezm5xZE8",
+    "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "JFfm3_dZKBubN2E_wKx0E9ZXVkQ",
+        "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+          "textOriginal": "Ol\u00e1! Queria saber se \u00e9 poss\u00edvel colocar um t\u00edtulo no mapa. Ainda, como colocar autoria. (pode ser escrito ou como figura). Obrigado.",
+          "authorDisplayName": "Paulo Nobukuni",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpqfLoK8IiFVZEtboFBHJmUENl6CKmDnyZ9qE99g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzBE_klF9W9hEU-PCjJ-LEQ",
+          "authorChannelId": {
+            "value": "UCzBE_klF9W9hEU-PCjJ-LEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2020-07-07T04:17:59Z",
+          "updatedAt": "2020-07-07T04:17:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "XcbsjhzuGTz3zBcRragpVbH1Yi8",
+        "id": "Ugx1zr9MB6p9Os1cWUZ4AaABAg.9AnRwbVN_Tz9AnVsfKBANv",
+        "snippet": {
+          "textDisplay": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+          "textOriginal": "Voc\u00ea pode adicionar usando uma figura: https://youtu.be/R51jwNayPek",
+          "parentId": "Ugx1zr9MB6p9Os1cWUZ4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-07-07T04:52:24Z",
+          "updatedAt": "2020-07-07T04:52:24Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "3bJxmwrSMmBpL6dPdbKePUDzIYo",
+    "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "gC6zv-LspPqMflo0EI62euSIE9c",
+        "id": "UgzI1ieSncV3A_C1rLF4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+          "textOriginal": "Oi Fl\u00e1vio, parab\u00e9ns pelo v\u00eddeo. Os nomes dos munic\u00edpios que mostro nos marcadores do meu mapa est\u00e3o com problema de acentua\u00e7\u00e3o. Poderia me ajudar?",
+          "authorDisplayName": "Analytic Design",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFyqeQYmayo7vM2N_JI54OrQZ23TuBkZpRpg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXGgthHB1mcVqaRGu8PuA3A",
+          "authorChannelId": {
+            "value": "UCXGgthHB1mcVqaRGu8PuA3A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-05-02T18:17:26Z",
+          "updatedAt": "2020-05-02T18:17:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "lPF4zvbnDGgpvpdOHU99GYfOMOg",
+        "id": "UgzI1ieSncV3A_C1rLF4AaABAg.98A-Y8u9bzQ98A6ecwr5of",
+        "snippet": {
+          "textDisplay": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+          "textOriginal": "Boa tarde, utilize encoding='latin1' no lugar do utf8. Aqui eu fiz um teste e funcionou.",
+          "parentId": "UgzI1ieSncV3A_C1rLF4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2020-05-02T19:19:37Z",
+          "updatedAt": "2020-05-02T19:19:37Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "jFYFJ0mTL7eR9JN0NK6hXzEt9Hg",
+    "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "RDzkUDZdpGI3i1Y-imcdOIR053c",
+        "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Bom dia Fl\u00e1vio! Pelo que entendi, a imagem tem que estar na rede, pois \u00e9 de l\u00e1 que uso a mesma. Estou certo? Caso esteja certo, como coloco a imagem na rede? qual \u00e9 a extens\u00e3o dela? Obrigado!",
+          "textOriginal": "Bom dia Fl\u00e1vio! Pelo que entendi, a imagem tem que estar na rede, pois \u00e9 de l\u00e1 que uso a mesma. Estou certo? Caso esteja certo, como coloco a imagem na rede? qual \u00e9 a extens\u00e3o dela? Obrigado!",
+          "authorDisplayName": "Paulo Nobukuni",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpqfLoK8IiFVZEtboFBHJmUENl6CKmDnyZ9qE99g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzBE_klF9W9hEU-PCjJ-LEQ",
+          "authorChannelId": {
+            "value": "UCzBE_klF9W9hEU-PCjJ-LEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-07-08T12:46:22Z",
+          "updatedAt": "2020-07-08T12:46:22Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "0r_A12ZO7wjXsRGF7gewvUhQKcQ",
+        "id": "UgxKlbQPt6_Vl6HVDuJ4AaABAg.9Aqvuv0SHhP9Aqws7Q0MUX",
+        "snippet": {
+          "textDisplay": "Bom dia, para vc compartilhar o mapa com outras pessoas a imagem precisa estar hospedada. Voc\u00ea pode pesquisar no Google \"hospedar imagem\" v\u00e3o aparecer v\u00e1rios sites que s\u00e3o todos muito parecidos (n\u00e3o tenho nenhum em especifico para te recomendar). Acredito que funcione tanto .png quanto .jpg. A\u00ed \u00e9 s\u00f3 pegar o link e fazer como indico no v\u00eddeo",
+          "textOriginal": "Bom dia, para vc compartilhar o mapa com outras pessoas a imagem precisa estar hospedada. Voc\u00ea pode pesquisar no Google \"hospedar imagem\" v\u00e3o aparecer v\u00e1rios sites que s\u00e3o todos muito parecidos (n\u00e3o tenho nenhum em especifico para te recomendar). Acredito que funcione tanto .png quanto .jpg. A\u00ed \u00e9 s\u00f3 pegar o link e fazer como indico no v\u00eddeo",
+          "parentId": "UgxKlbQPt6_Vl6HVDuJ4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-07-08T12:54:43Z",
+          "updatedAt": "2020-07-08T12:54:43Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "xDFAA6qfy4YDpCtN2G6gsVk_D58",
+    "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+    "snippet": {
+      "videoId": "qzGzMXL02gA",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_Mk1I2myYEx4yrWXUvP0SPXIiMw",
+        "id": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+        "snippet": {
+          "videoId": "qzGzMXL02gA",
+          "textDisplay": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+          "textOriginal": "Mano lan\u00e7a logo esse outro video kkkk Cara to tentando fazer um mapa pro covid 19 pra paraiba, setando os municipios, mas n\u00e3o estou conseguindo, tamb\u00e9m tive o problema da acentua\u00e7\u00e3o, mas o meu maior problema t\u00e1 sendo em utilizar o csv pra fazer a escala de cores do mapa, se puder me dar uma ajuda cara",
+          "authorDisplayName": "Victor Raphael",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQshS2cYc4um25iTtqYSsGqekVtOQCGvHRSADCgNcc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFcdQKTSqDTypn7Itc9x3Pw",
+          "authorChannelId": {
+            "value": "UCFcdQKTSqDTypn7Itc9x3Pw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2020-05-04T19:22:32Z",
+          "updatedAt": "2020-05-04T19:22:32Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "Vx39qiBB4jJ6ESIKWVtaHEEyD3E",
+        "id": "Ugzw1qcGvmr5MiApeOR4AaABAg.98FG_jMjxrb98FPTim1H6d",
+        "snippet": {
+          "textDisplay": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+          "textOriginal": "Eu j\u00e1 lancei esse e mais 2 videos e estou editando mais um, que deve sair at\u00e9 amanh\u00e3. voc\u00ea pode acompanhar o que j\u00e1 saiu aqui: https://www.youtube.com/playlist?list=PL1-q71aVvtoTzHMW2U--LyB0wwmp0KL5I\n\nSobre a escala de cores, voc\u00ea passa a informa\u00e7\u00e3o bins=\n\nfolium.Choropleth(\n    geo_data=arquivo_json,\n    data=tudo,\n    columns=['estado', 'casos_p_milhao'],\n    key_on='feature.properties.UF',\n    fill_color='OrRd',\n    bins=[0, 2000, 5000, 10000, 15000, 20000, 25000, 30000, 35000]\n).add_to(m)\n\nVoc\u00ea pode passar at\u00e9 9 n\u00fameros, como eu fiz.\n\nOutra alternativa \u00e9 deixar:\nbins=9 (ou qualquer numero entre 3 e 9), que ele cria automaticamente os intervalos, quando n\u00e3o \u00e9 passado essa informa\u00e7\u00e3o ele cria 6 bins.\n\nNo pr\u00f3ximo v\u00eddeo (que falta terminar de editar), al\u00e9m de falar isso eu comento que \u00e9 interessante analisar a incid\u00eancia (casos por milh\u00e3o de habitantes)\n\nSe quiser conversar melhor pode mandar um e-mail para contato@sudocontrol.com.br",
+          "parentId": "Ugzw1qcGvmr5MiApeOR4AaABAg",
+          "authorDisplayName": "SudoControl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr02XewpEw-dOVCg54FV1lAikELyGf3YS1-p4-pQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYCcZpc8nK9kRA5zWOHJQEA",
+          "authorChannelId": {
+            "value": "UCYCcZpc8nK9kRA5zWOHJQEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2020-05-04T20:40:13Z",
+          "updatedAt": "2020-05-04T20:40:13Z"
+        }
+      }
+    ]
+  }
+]
