@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JNw5I2ORn2SEQ9jmzXHFqVEouqI",
+  "id": "UgwDMt5MVmalc-6rKfV4AaABAg",
+  "snippet": {
+    "videoId": "srDVWfMMmzg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wBdZjdKmkzkAk37NLCFN4fHs1AE",
+      "id": "UgwDMt5MVmalc-6rKfV4AaABAg",
+      "snippet": {
+        "videoId": "srDVWfMMmzg",
+        "textDisplay": "Boa noite meu querido",
+        "textOriginal": "Boa noite meu querido",
+        "authorDisplayName": "ROSA DOURADO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_MLJXtlAQOgSy-XqiCUvCceyFP8aK0DAJ30ql8zfOI1ZnGKlC1p8ZSXhVg21ZEivfCK-uW793A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqYYmfbB7qYTACUTAf7OoxQ",
+        "authorChannelId": {
+          "value": "UCqYYmfbB7qYTACUTAf7OoxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-04T22:25:07Z",
+        "updatedAt": "2020-08-04T22:25:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mQklXIvkLuYyO3zoeFmLYm_xonQ",
+      "id": "UgwDMt5MVmalc-6rKfV4AaABAg.9BxUbTZ7vqs9BxWBx44dZh",
+      "snippet": {
+        "textDisplay": "Oi Amiga Rosa",
+        "textOriginal": "Oi Amiga Rosa",
+        "parentId": "UgwDMt5MVmalc-6rKfV4AaABAg",
+        "authorDisplayName": "Cervejex",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_qSCY3VsmxLMwbH6IodgHOO2Ic4fjpMVK1vGjdB0SEe5GzbdsGSiG8WRtUefLrcVOhyZGCAUMUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvKqZixK39EptFqIzeqoWHA",
+        "authorChannelId": {
+          "value": "UCvKqZixK39EptFqIzeqoWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-04T22:38:58Z",
+        "updatedAt": "2020-08-04T22:38:58Z"
+      }
+    }
+  ]
+}

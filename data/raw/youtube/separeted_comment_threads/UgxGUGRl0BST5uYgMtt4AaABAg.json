@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zVGpuIUXf11tGeWpK4VSp6exGY8",
+  "id": "UgxGUGRl0BST5uYgMtt4AaABAg",
+  "snippet": {
+    "videoId": "vOp_-oKp3Ck",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BQpnaMBFdz7Xt1wnODuvj-0d1C0",
+      "id": "UgxGUGRl0BST5uYgMtt4AaABAg",
+      "snippet": {
+        "videoId": "vOp_-oKp3Ck",
+        "textDisplay": "dejavu.o escritor inconciente  relatou algo do futuro.",
+        "textOriginal": "dejavu.o escritor inconciente  relatou algo do futuro.",
+        "authorDisplayName": "Alfredo Cristovam de Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTDNED3wzaJQfTu8tCgo-PkH8MB1QkMqZ_9u5QOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnKNrAMpImX3bRuzir_eMlQ",
+        "authorChannelId": {
+          "value": "UCnKNrAMpImX3bRuzir_eMlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-24T02:54:21Z",
+        "updatedAt": "2020-03-24T02:54:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lpxhTRFh_T0jp2beviDFsntWHto",
+      "id": "UgxGUGRl0BST5uYgMtt4AaABAg.96ZvuC6pDsi96ayN0hwu8x",
+      "snippet": {
+        "textDisplay": "sim...",
+        "textOriginal": "sim...",
+        "parentId": "UgxGUGRl0BST5uYgMtt4AaABAg",
+        "authorDisplayName": "Alfredo Cristovam de Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTDNED3wzaJQfTu8tCgo-PkH8MB1QkMqZ_9u5QOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnKNrAMpImX3bRuzir_eMlQ",
+        "authorChannelId": {
+          "value": "UCnKNrAMpImX3bRuzir_eMlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-24T21:54:23Z",
+        "updatedAt": "2020-03-24T21:54:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "kimhiwkzR96vGIvZRmBfpvLE6tE",
+      "id": "UgxGUGRl0BST5uYgMtt4AaABAg.96ZvuC6pDsi96_5FWxLwYb",
+      "snippet": {
+        "textDisplay": "Pois \u00e9. *Obrigado pelo coment\u00e1rio. Poderia se inscrever no meu canal para me ajudar a publicar mais v\u00eddeos como esse.*",
+        "textOriginal": "Pois \u00e9. *Obrigado pelo coment\u00e1rio. Poderia se inscrever no meu canal para me ajudar a publicar mais v\u00eddeos como esse.*",
+        "parentId": "UgxGUGRl0BST5uYgMtt4AaABAg",
+        "authorDisplayName": "REZENHANDO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRm9Le5RexWyOJdAF7yw4SxWzsJvCOprxZn-NVL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCfmjZm3KuEE-XsNhfBnqvQ",
+        "authorChannelId": {
+          "value": "UCCfmjZm3KuEE-XsNhfBnqvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-24T04:24:46Z",
+        "updatedAt": "2020-03-24T04:24:46Z"
+      }
+    }
+  ]
+}

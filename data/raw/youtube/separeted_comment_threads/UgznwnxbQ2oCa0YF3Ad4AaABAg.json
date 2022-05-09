@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kua_wDFgkHhIBZprAMuAKkLyVrI",
+  "id": "UgznwnxbQ2oCa0YF3Ad4AaABAg",
+  "snippet": {
+    "videoId": "-4S7LQLkbs8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sHTm0bVHZT_N4-U9Z9tvmeoOlec",
+      "id": "UgznwnxbQ2oCa0YF3Ad4AaABAg",
+      "snippet": {
+        "videoId": "-4S7LQLkbs8",
+        "textDisplay": "Era pra aplicar nos pol\u00edticos pois eles representam o povo",
+        "textOriginal": "Era pra aplicar nos pol\u00edticos pois eles representam o povo",
+        "authorDisplayName": "Rafael Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEsRnYXm5uPOCupzyNwskfr6cD-If1LqSjyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFA7AP-lDpeyw96eA8j6sZQ",
+        "authorChannelId": {
+          "value": "UCFA7AP-lDpeyw96eA8j6sZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 21,
+        "publishedAt": "2020-06-06T01:05:39Z",
+        "updatedAt": "2020-06-06T01:05:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "68dfdqEdz_hcjml9oOzcjowK68c",
+      "id": "UgznwnxbQ2oCa0YF3Ad4AaABAg.99YHHiURp969EMMuby1qqZ",
+      "snippet": {
+        "textDisplay": "Concordo",
+        "textOriginal": "Concordo",
+        "parentId": "UgznwnxbQ2oCa0YF3Ad4AaABAg",
+        "authorDisplayName": "Maria Nicolly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6VXe2ns1fpYW_2mroqWLzXCBu24MnFxRvHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvMAmyF3zGVe4oxppFpoizA",
+        "authorChannelId": {
+          "value": "UCvMAmyF3zGVe4oxppFpoizA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-03T16:40:52Z",
+        "updatedAt": "2020-10-03T16:40:52Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "f4X7N-pKvnXTiAy1rgzXhCaC26A",
+      "id": "UgznwnxbQ2oCa0YF3Ad4AaABAg.99YHHiURp969D3qPGMtNIp",
+      "snippet": {
+        "textDisplay": "Verdade.",
+        "textOriginal": "Verdade.",
+        "parentId": "UgznwnxbQ2oCa0YF3Ad4AaABAg",
+        "authorDisplayName": "\ud83e\udd40 Vlog Voltando \u00e0 Sonhar, cozinhando\ud83d\udc8b",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2789EGDIIzqQamzJKp_ycBIhvn6-OjZ56XenRFWhPowsM7SGV5BEQY4F5WN2B8RcAABWqjhgMdk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC33BQCSJSM-pKzVD7N9TsDQ",
+        "authorChannelId": {
+          "value": "UC33BQCSJSM-pKzVD7N9TsDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-01T15:30:22Z",
+        "updatedAt": "2020-09-01T15:30:22Z"
+      }
+    }
+  ]
+}

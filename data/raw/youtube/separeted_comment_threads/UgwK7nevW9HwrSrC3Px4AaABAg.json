@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HG0G1zixgZyghB5WNd_8r6-T1Go",
+  "id": "UgwK7nevW9HwrSrC3Px4AaABAg",
+  "snippet": {
+    "videoId": "WBcC9iwH7-Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KMEVd1tOk7niUVvQ_qWGcF_Hf_U",
+      "id": "UgwK7nevW9HwrSrC3Px4AaABAg",
+      "snippet": {
+        "videoId": "WBcC9iwH7-Q",
+        "textDisplay": "V\u00eddeo muito \u00fatil como sempre. Defendam o SUS!",
+        "textOriginal": "V\u00eddeo muito \u00fatil como sempre. Defendam o SUS!",
+        "authorDisplayName": "Mah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWOQKIwC3YSHDqp5xzK5YFfLmuGQkAwMXh4tKpkEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp3oR-YVLJyk-VaNC4W7VEQ",
+        "authorChannelId": {
+          "value": "UCp3oR-YVLJyk-VaNC4W7VEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-03-22T00:07:27Z",
+        "updatedAt": "2020-03-22T00:07:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RWibhTa27CmhDOLtqPJ0BKBl1Rw",
+      "id": "UgwK7nevW9HwrSrC3Px4AaABAg.96UUCyvjeaC96UbaWdpMM_",
+      "snippet": {
+        "textDisplay": "Marlon Jardim sempre \u2764\ufe0f\ud83d\udcaa\ud83c\udfff\u270a\ud83c\udffe",
+        "textOriginal": "Marlon Jardim sempre \u2764\ufe0f\ud83d\udcaa\ud83c\udfff\u270a\ud83c\udffe",
+        "parentId": "UgwK7nevW9HwrSrC3Px4AaABAg",
+        "authorDisplayName": "Doutora Drag - Dimitra Vulcana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8NFUdfay2MrGv21M0s064WQyfG2KW6y4hEQr6sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcgl8D1QAwAmZekgv1-BaQg",
+        "authorChannelId": {
+          "value": "UCcgl8D1QAwAmZekgv1-BaQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-22T01:20:42Z",
+        "updatedAt": "2020-03-22T01:20:42Z"
+      }
+    }
+  ]
+}

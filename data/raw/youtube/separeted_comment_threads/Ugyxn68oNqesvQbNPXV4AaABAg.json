@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WNKEqjW2Ou675TGGMIlczZ4X0-Q",
+  "id": "Ugyxn68oNqesvQbNPXV4AaABAg",
+  "snippet": {
+    "videoId": "vOp_-oKp3Ck",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1pUdxty3mgsMgWDW1joRtKobfTc",
+      "id": "Ugyxn68oNqesvQbNPXV4AaABAg",
+      "snippet": {
+        "videoId": "vOp_-oKp3Ck",
+        "textDisplay": "No entiendo nada \ud83d\ude05",
+        "textOriginal": "No entiendo nada \ud83d\ude05",
+        "authorDisplayName": "SERGIO SUAREZ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwQvW9fUxDmvbLZEIBr2qHxTHjAT367yQR_CNfag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeyzXEtanolYdKBF3_66ZAg",
+        "authorChannelId": {
+          "value": "UCeyzXEtanolYdKBF3_66ZAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-22T02:19:46Z",
+        "updatedAt": "2020-03-22T02:19:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B6ZPlQiPy9mXN0k6_1IlcfFTyRQ",
+      "id": "Ugyxn68oNqesvQbNPXV4AaABAg.96UiM9uz3g896Z0TPX5Wen",
+      "snippet": {
+        "textDisplay": "@REZENHANDO dale \u270c\nSube video de ex jesuita\n alberto rivera \nEstan en portuguez sus comics en pdf de internet \nHabla sobre eso",
+        "textOriginal": "@REZENHANDO dale \u270c\nSube video de ex jesuita\n alberto rivera \nEstan en portuguez sus comics en pdf de internet \nHabla sobre eso",
+        "parentId": "Ugyxn68oNqesvQbNPXV4AaABAg",
+        "authorDisplayName": "SERGIO SUAREZ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwQvW9fUxDmvbLZEIBr2qHxTHjAT367yQR_CNfag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeyzXEtanolYdKBF3_66ZAg",
+        "authorChannelId": {
+          "value": "UCeyzXEtanolYdKBF3_66ZAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T18:23:45Z",
+        "updatedAt": "2020-03-23T18:23:45Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "HRJcroJ3HDj5NxvFPjTcR6Z8UZM",
+      "id": "Ugyxn68oNqesvQbNPXV4AaABAg.96UiM9uz3g896Z0IIN8vtg",
+      "snippet": {
+        "textDisplay": "*Gracias por el comentario. Podr\u00eda suscribirme a mi canal para ayudarme a publicar m\u00e1s videos como este.*",
+        "textOriginal": "*Gracias por el comentario. Podr\u00eda suscribirme a mi canal para ayudarme a publicar m\u00e1s videos como este.*",
+        "parentId": "Ugyxn68oNqesvQbNPXV4AaABAg",
+        "authorDisplayName": "REZENHANDO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRm9Le5RexWyOJdAF7yw4SxWzsJvCOprxZn-NVL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCfmjZm3KuEE-XsNhfBnqvQ",
+        "authorChannelId": {
+          "value": "UCCfmjZm3KuEE-XsNhfBnqvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T18:22:13Z",
+        "updatedAt": "2020-03-23T18:22:13Z"
+      }
+    }
+  ]
+}

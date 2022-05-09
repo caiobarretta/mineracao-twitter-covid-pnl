@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "58DTVxLqZDbZiLV1_voQol-6gAc",
+  "id": "UgyP5N28aNQK18aCLBB4AaABAg",
+  "snippet": {
+    "videoId": "ue6mYLFMZKQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "V6h022_5CnS2-JK6oz754qzgoGc",
+      "id": "UgyP5N28aNQK18aCLBB4AaABAg",
+      "snippet": {
+        "videoId": "ue6mYLFMZKQ",
+        "textDisplay": "O valor da \"ma\u00e7\u00e3 \" eh bem mais alto, uma m\u00e9dia de 20$ mil reais.",
+        "textOriginal": "O valor da \"ma\u00e7\u00e3 \" eh bem mais alto, uma m\u00e9dia de 20$ mil reais.",
+        "authorDisplayName": "Andreia Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/usXdP0R9Te95_z9Fyja8xM_0pF5JAwTBrysXgljBgUpU2qmd6v5cFRPlMcmdVL5mMWNq8Ih3VA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4IPlBSYLu92qyc3BEYQEOw",
+        "authorChannelId": {
+          "value": "UC4IPlBSYLu92qyc3BEYQEOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-08-16T11:49:15Z",
+        "updatedAt": "2020-08-16T11:49:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B97Iuv74KM7qL_u_dVCpXnvqUsY",
+      "id": "UgyP5N28aNQK18aCLBB4AaABAg.9CQFNjISiZK9CRMepM2ZGs",
+      "snippet": {
+        "textDisplay": "@Lucas Botelho Isso!",
+        "textOriginal": "@Lucas Botelho Isso!",
+        "parentId": "UgyP5N28aNQK18aCLBB4AaABAg",
+        "authorDisplayName": "Andreia Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/usXdP0R9Te95_z9Fyja8xM_0pF5JAwTBrysXgljBgUpU2qmd6v5cFRPlMcmdVL5mMWNq8Ih3VA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4IPlBSYLu92qyc3BEYQEOw",
+        "authorChannelId": {
+          "value": "UC4IPlBSYLu92qyc3BEYQEOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-16T22:12:07Z",
+        "updatedAt": "2020-08-16T22:12:07Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uy9E0q3YmCLCtvTO8Ezt7yEbtV8",
+      "id": "UgyP5N28aNQK18aCLBB4AaABAg.9CQFNjISiZK9CRKsqo3T3U",
+      "snippet": {
+        "textDisplay": "26 mil",
+        "textOriginal": "26 mil",
+        "parentId": "UgyP5N28aNQK18aCLBB4AaABAg",
+        "authorDisplayName": "Lucas Botelho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMeRDvNhFoq6Lo8deNvZKgEas8FSy0PFDibw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8z6OwLQSvT26LapvXTNPXQ",
+        "authorChannelId": {
+          "value": "UC8z6OwLQSvT26LapvXTNPXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-16T21:56:34Z",
+        "updatedAt": "2020-08-16T21:56:34Z"
+      }
+    }
+  ]
+}

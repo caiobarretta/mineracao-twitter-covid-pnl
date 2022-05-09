@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qM2yr28b8yayB8G9TYu-0bWoigg",
+  "id": "UgxD5lzJ6W1xbfrvsIR4AaABAg",
+  "snippet": {
+    "videoId": "srDVWfMMmzg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6bC2cdClJhpFDjq1ysipj7w6V6E",
+      "id": "UgxD5lzJ6W1xbfrvsIR4AaABAg",
+      "snippet": {
+        "videoId": "srDVWfMMmzg",
+        "textDisplay": "J\u00e1 havia tomado outras long com lim\u00e3o, vou experimentar ela com lim\u00e3o",
+        "textOriginal": "J\u00e1 havia tomado outras long com lim\u00e3o, vou experimentar ela com lim\u00e3o",
+        "authorDisplayName": "Rose Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSA6pXAx84ot4pRBwmKc34qxQjS-nO-mQEczNQHwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvoqpxNvmTE3UrWsDgS9WFg",
+        "authorChannelId": {
+          "value": "UCvoqpxNvmTE3UrWsDgS9WFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-18T17:51:24Z",
+        "updatedAt": "2020-12-18T17:51:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eZQFiM5dIQl3Grk44GdqYkUWt_k",
+      "id": "UgxD5lzJ6W1xbfrvsIR4AaABAg.9HQBOm7o9MI9HQIDFHpttF",
+      "snippet": {
+        "textDisplay": "Legal Rose \u00e9 sempre bom experimentar",
+        "textOriginal": "Legal Rose \u00e9 sempre bom experimentar",
+        "parentId": "UgxD5lzJ6W1xbfrvsIR4AaABAg",
+        "authorDisplayName": "Cervejex",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_qSCY3VsmxLMwbH6IodgHOO2Ic4fjpMVK1vGjdB0SEe5GzbdsGSiG8WRtUefLrcVOhyZGCAUMUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvKqZixK39EptFqIzeqoWHA",
+        "authorChannelId": {
+          "value": "UCvKqZixK39EptFqIzeqoWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-18T18:51:00Z",
+        "updatedAt": "2020-12-18T18:51:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fVLmg-FIiCTTc8xGVco-kDX93gs",
+  "id": "Ugzmc91ISZJ-FFF7L114AaABAg",
+  "snippet": {
+    "videoId": "E38-egVxt0s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G232BdA8XfAdNx8DdQfr0vNb6xQ",
+      "id": "Ugzmc91ISZJ-FFF7L114AaABAg",
+      "snippet": {
+        "videoId": "E38-egVxt0s",
+        "textDisplay": "E l\u00e1 vamos n\u00f3s de novo...",
+        "textOriginal": "E l\u00e1 vamos n\u00f3s de novo...",
+        "authorDisplayName": "Vagner Nunes Os\u00f3rio Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNez-auZKMLG23X_NMXSGuxBqwPKyRMLW_BPHkPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7jTwoQIYmfGn8f3pXD0Meg",
+        "authorChannelId": {
+          "value": "UC7jTwoQIYmfGn8f3pXD0Meg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-03-17T18:57:35Z",
+        "updatedAt": "2022-03-17T18:57:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_pgq5bd2KkxXZJV5TAuoHg-CRbQ",
+      "id": "Ugzmc91ISZJ-FFF7L114AaABAg.9ZgJrlxMpeZ9ZqQdRMYXL3",
+      "snippet": {
+        "textDisplay": "@Roberto vinicius s\u00f3 o come\u00e7o",
+        "textOriginal": "@Roberto vinicius s\u00f3 o come\u00e7o",
+        "parentId": "Ugzmc91ISZJ-FFF7L114AaABAg",
+        "authorDisplayName": "Ruben",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/eMdBQ5nwTl0W53h_OI0uY7qu-mUjbHF_I0OMVHmMbxbZNohvh_f5UqB1CjxgmD8WRMUOv_LA7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrYCrX_Br90vUlyt_nNGN-Q",
+        "authorChannelId": {
+          "value": "UCrYCrX_Br90vUlyt_nNGN-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-21T17:09:12Z",
+        "updatedAt": "2022-03-21T17:09:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Nw3mNbA1kGsxUgnMQDY6uyqJEsU",
+      "id": "Ugzmc91ISZJ-FFF7L114AaABAg.9ZgJrlxMpeZ9ZgyRHIOXf0",
+      "snippet": {
+        "textDisplay": "Profecias em apocalipse, sera ?",
+        "textOriginal": "Profecias em apocalipse, sera ?",
+        "parentId": "Ugzmc91ISZJ-FFF7L114AaABAg",
+        "authorDisplayName": "Roberto vinicius",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/fIyYQtnSaxDx4gkLO5_hWgYz3I972aCoOiZ3RubRKhQXOL5D43isXjATX_lLgID7LkN6AnHGAOs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4AlkoRDmxITgQ8BfK8RKug",
+        "authorChannelId": {
+          "value": "UC4AlkoRDmxITgQ8BfK8RKug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-18T01:00:50Z",
+        "updatedAt": "2022-03-18T01:00:50Z"
+      }
+    }
+  ]
+}

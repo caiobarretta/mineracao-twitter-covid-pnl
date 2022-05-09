@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_xL3pc9oUgdkUba_KoIFwsEZDN0",
+  "id": "UgwQJjBXFqadOEefwsJ4AaABAg",
+  "snippet": {
+    "videoId": "E38-egVxt0s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8FySRFMw2AhYk7rPlWUL9e1LUZs",
+      "id": "UgwQJjBXFqadOEefwsJ4AaABAg",
+      "snippet": {
+        "videoId": "E38-egVxt0s",
+        "textDisplay": "Covid 3, o retorno!",
+        "textOriginal": "Covid 3, o retorno!",
+        "authorDisplayName": "Lukas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzfFfZsXkR_k7CeSC26ZM-Ha07mYFxjwz8ICLcbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUNxHKnUZha-8ziPuzI9e_w",
+        "authorChannelId": {
+          "value": "UCUNxHKnUZha-8ziPuzI9e_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-03-17T18:42:00Z",
+        "updatedAt": "2022-03-17T18:42:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lfRtiAJOUPrSl-W1aaEsTRj2928",
+      "id": "UgwQJjBXFqadOEefwsJ4AaABAg.9ZgI4_FvO7H9ZpDTV1iZQp",
+      "snippet": {
+        "textDisplay": "Exatamente",
+        "textOriginal": "Exatamente",
+        "parentId": "UgwQJjBXFqadOEefwsJ4AaABAg",
+        "authorDisplayName": "Priscila Monteiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwzFHPi6K5OLDISgdpmVLmX-gpcqsiexnwYuR8NQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJovQfrjIvfZG02bPGS0e5w",
+        "authorChannelId": {
+          "value": "UCJovQfrjIvfZG02bPGS0e5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-21T05:54:52Z",
+        "updatedAt": "2022-03-21T05:54:52Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "hHNLTfAztAY06ZfgfUV0BOQNM88",
+      "id": "UgwQJjBXFqadOEefwsJ4AaABAg.9ZgI4_FvO7H9ZgMMv3K1ZE",
+      "snippet": {
+        "textDisplay": "O retorno da fraude",
+        "textOriginal": "O retorno da fraude",
+        "parentId": "UgwQJjBXFqadOEefwsJ4AaABAg",
+        "authorDisplayName": "Edson Moraes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIrOSfjvkmqZHFNpdizQDSWlGkLFYeuGtNa0CCWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgDA5lfsr_i_3Ew7aYWilAA",
+        "authorChannelId": {
+          "value": "UCgDA5lfsr_i_3Ew7aYWilAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-03-17T19:19:27Z",
+        "updatedAt": "2022-03-17T19:19:27Z"
+      }
+    }
+  ]
+}

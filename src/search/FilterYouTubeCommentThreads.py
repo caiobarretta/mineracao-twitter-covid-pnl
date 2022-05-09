@@ -24,14 +24,13 @@ class FilterYouTubeCommentThreads:
         path_to_matching = f'{path}*{extension}'
         file_list = glob.glob(path_to_matching)
         for file in file_list:
-            data = self.read_json(file)
-            for content in data:
-                text_original = content['snippet']['topLevelComment']['snippet']['textOriginal']
-                is_match = self.verify_text_match_search(text_original, search_match)
-                if is_match:
-                    id = content['id']
-                    file_name = f'data/raw/youtube/filtered_comment_threads/{id}.json'
-                    func_save_json(file_name, content)
+            content = self.read_json(file)
+            text_original = content['snippet']['topLevelComment']['snippet']['textOriginal']
+            is_match = self.verify_text_match_search(text_original, search_match)
+            if is_match:
+                id = content['id']
+                file_name = f'data/raw/youtube/filtered_comment_threads/{id}.json'
+                func_save_json(file_name, content)
     
     def separeted_comment_threads(self, path, extension, func_save_json):
         path_to_matching = f'{path}*{extension}'
@@ -46,9 +45,7 @@ class FilterYouTubeCommentThreads:
 
 def main():
     filter = FilterYouTubeCommentThreads()
-    path = 'data/raw/youtube/comment_threads/'
-    extension = '.json'
-
+    
     search = SearchBase()
     
     func_get_query_to_search = SearchKeys('pt').get_youtube_separeted_terms_seach_list_query_covid
@@ -56,9 +53,13 @@ def main():
 
     search_match = search.load_search_query_list_dict(func_get_query_to_search)
     
-    #filter.filtered_comment_threads(path, extension, search_match, func_save_json)
-
+    path = 'data/raw/youtube/comment_threads/'
+    extension = '.json'
     filter.separeted_comment_threads(path, extension, func_save_json)
+
+    path = 'data/raw/youtube/separeted_comment_threads/'
+    extension = '.json'
+    filter.filtered_comment_threads(path, extension, search_match, func_save_json)
 
 if __name__ == '__main__':
     main()

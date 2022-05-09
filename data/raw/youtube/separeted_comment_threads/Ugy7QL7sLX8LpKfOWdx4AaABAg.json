@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rrmdegbOAO5MHRs7wf7fBQtKkKQ",
+  "id": "Ugy7QL7sLX8LpKfOWdx4AaABAg",
+  "snippet": {
+    "videoId": "GllEutk-n1k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KLH7lOIuhTj2y5ZgzoxOxcyp2Mo",
+      "id": "Ugy7QL7sLX8LpKfOWdx4AaABAg",
+      "snippet": {
+        "videoId": "GllEutk-n1k",
+        "textDisplay": "Esto fue en 2013",
+        "textOriginal": "Esto fue en 2013",
+        "authorDisplayName": "Crislo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTnhWs78M24wUEg-zdAeaJPmL2JTwkf28u5wse6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcirGTG6CJn-vuSqP_4qd2w",
+        "authorChannelId": {
+          "value": "UCcirGTG6CJn-vuSqP_4qd2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-05-31T16:33:07Z",
+        "updatedAt": "2020-05-31T16:33:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SJd1-KHvyNDho5pmq7vWpmNe5Og",
+      "id": "Ugy7QL7sLX8LpKfOWdx4AaABAg.99KUeSU5Z6i9Bxa4nCg4HY",
+      "snippet": {
+        "textDisplay": "El virus muto y ahora se transmite mas facil de persona a persona y por eso se convirtio en pandemia",
+        "textOriginal": "El virus muto y ahora se transmite mas facil de persona a persona y por eso se convirtio en pandemia",
+        "parentId": "Ugy7QL7sLX8LpKfOWdx4AaABAg",
+        "authorDisplayName": "JEFf Duran",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zuojAnZD8bLEO5wBFzms94YV2KXMQ81evuTbUe9MA7vqtqQkf0MmGgcymERr092bq5oGCJmjmg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMsl7oHEKwX6OrHRW6OcjfA",
+        "authorChannelId": {
+          "value": "UCMsl7oHEKwX6OrHRW6OcjfA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-08-04T23:21:41Z",
+        "updatedAt": "2020-08-04T23:21:41Z"
+      }
+    }
+  ]
+}
