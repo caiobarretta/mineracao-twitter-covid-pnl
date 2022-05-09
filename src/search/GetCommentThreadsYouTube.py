@@ -1,43 +1,43 @@
-import json
 import time
 from SearchBase import SearchBase
-from SearchKeys import SearchKeys
 from api.YouTubeAPI import YouTubeAPI
+from SearchKeys import SearchKeys
 
 
-class SearchYouTube(SearchBase):
-    def __init__(self, quantidade_maxima_resultados = 10) -> None:
+class SearchListYouTube(SearchBase):
+    def __init__(self) -> None:
         super().__init__()
-        self.quantidade_maxima_resultados = quantidade_maxima_resultados
-    
+
     def save_search_list(self, search_list):
         for video in search_list:
-            videoId = video['id']['videoId']
+            videoId = video['id']
             print(f'salvando video pesquisa: {videoId} para arquivo.')
-            file_name = f'data/raw/youtube/search_list/{videoId}.json'
+            file_name = f'data/raw/youtube/comment_threads/{videoId}.json'
             content = search_list
             self.save_json(file_name, content)
             time.sleep(1)
 
     def get_and_save_search_list(self, api, query, lang):
         print(f'carregando os resultados da pesquisa: {query} na api do YT')
-        search_list = api.search_list(query, self.quantidade_maxima_resultados)
+        search_list = api.load_comments_from_videoid_with_threads(query)
         print(f'quantidade de resultados da pesquisa: {query}|{lang} carregados com sucesso.')
         self.save_search_list(search_list)
-    
+
     def get_new_instance_api(self, file_credentials):
         return YouTubeAPI(file_credentials)
     
-
 def main():
-    search = SearchYouTube()
+    search = SearchListYouTube()
     file_credentials = 'src/credentials.yaml'
 
+    search_keys = SearchKeys('pt')
+
     func_get_new_instance_api = search.get_new_instance_api
-    func_get_query_to_search = SearchKeys('pt').get_youtube_search_list_query_covid
     func_get_and_save_data = search.get_and_save_search_list
 
-    pesquisa = search.load_search_query_list_dict(func_get_query_to_search)
+    path = 'data/raw/youtube/search_list/'
+    extension = '.json'
+    pesquisa = search_keys.get_youtube_idvideo_from_search_list_file(path, extension)
 
     search.load_search(file_credentials, pesquisa, func_get_new_instance_api, func_get_and_save_data)
 

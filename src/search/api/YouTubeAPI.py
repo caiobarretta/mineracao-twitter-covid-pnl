@@ -21,22 +21,25 @@ class YouTubeAPI:
 
     def get_comment_threads(self, youtube, video_id):
         threads = []
-        results = youtube.commentThreads().list(part='id,snippet',
-                                                videoId=video_id,
-                                                textFormat='plainText',
-                                                order='relevance').execute()
-        for item in results['items']:
-            threads.append(item)
-
-        while 'nextPageToken' in results:
-            pageToken = results['nextPageToken']
-            results = youtube.commentThreads().list(part='snippet',
+        try:
+            results = youtube.commentThreads().list(part='id,snippet',
                                                     videoId=video_id,
-                                                    pageToken=pageToken,
                                                     textFormat='plainText',
                                                     order='relevance').execute()
-        for item in results['items']:
-            threads.append(item)
+            for item in results['items']:
+                threads.append(item)
+
+            while 'nextPageToken' in results:
+                pageToken = results['nextPageToken']
+                results = youtube.commentThreads().list(part='snippet',
+                                                        videoId=video_id,
+                                                        pageToken=pageToken,
+                                                        textFormat='plainText',
+                                                        order='relevance').execute()
+            for item in results['items']:
+                threads.append(item)
+        except HttpError as error:
+            print(f'ocorreu um erro: {error}')
         return threads
 
     def build_api_service(self):
