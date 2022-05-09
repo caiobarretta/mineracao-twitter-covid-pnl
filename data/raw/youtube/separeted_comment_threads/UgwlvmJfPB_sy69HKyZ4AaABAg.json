@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TtYlR2HraF26PfBJ8PG_6bRBri8",
+  "id": "UgwlvmJfPB_sy69HKyZ4AaABAg",
+  "snippet": {
+    "videoId": "bYMWEgivLsk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4eNy88fN_6KKoWwgUtauj65r6dQ",
+      "id": "UgwlvmJfPB_sy69HKyZ4AaABAg",
+      "snippet": {
+        "videoId": "bYMWEgivLsk",
+        "textDisplay": "Vou mostrar aos meus alunos, obrigado!",
+        "textOriginal": "Vou mostrar aos meus alunos, obrigado!",
+        "authorDisplayName": "Elton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTo7Nyyek9HOdYS6jgwxETbKWAPclbnEpA9b-M=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIER097X0DvYajo-XpKw-CA",
+        "authorChannelId": {
+          "value": "UCIER097X0DvYajo-XpKw-CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-10T03:30:11Z",
+        "updatedAt": "2021-08-10T03:30:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p_QHAgKuHCLxP1tU2INVI3kWhog",
+      "id": "UgwlvmJfPB_sy69HKyZ4AaABAg.9QqkdeGCzj79QrAUsmkRwh",
+      "snippet": {
+        "textDisplay": "Boa, use sem modera\u00e7\u00e3o :D",
+        "textOriginal": "Boa, use sem modera\u00e7\u00e3o :D",
+        "parentId": "UgwlvmJfPB_sy69HKyZ4AaABAg",
+        "authorDisplayName": "Santa paCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkk4rMARyEEbO3L3Y6R4hgrY5v1pcW5O-u8lcT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCExZrIeyic2vbbRDPKW-37A",
+        "authorChannelId": {
+          "value": "UCExZrIeyic2vbbRDPKW-37A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-10T07:24:47Z",
+        "updatedAt": "2021-08-10T07:24:47Z"
+      }
+    }
+  ]
+}

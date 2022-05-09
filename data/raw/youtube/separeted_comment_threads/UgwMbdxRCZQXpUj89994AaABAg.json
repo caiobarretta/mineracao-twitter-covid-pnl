@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HkBxI2md9V5RkI-q2sPdTNlfBPA",
+  "id": "UgwMbdxRCZQXpUj89994AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OF1zYRYfTqqfFGFi2ov0cpy6cIk",
+      "id": "UgwMbdxRCZQXpUj89994AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "O meu n\u00e3o passa do primero..sempre vem aquele neg\u00f3cio do \"n\u00e3o sou um rob\u00f4\" a\u00ed n\u00e3o sai de l\u00e1...",
+        "textOriginal": "O meu n\u00e3o passa do primero..sempre vem aquele neg\u00f3cio do \"n\u00e3o sou um rob\u00f4\" a\u00ed n\u00e3o sai de l\u00e1...",
+        "authorDisplayName": "Aliuj matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKBLQNmmtrIlKifd3J3jZ0cMrDOvH-f1wbEHja=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1qpJxuYLd_J1UZPebU0PaQ",
+        "authorChannelId": {
+          "value": "UC1qpJxuYLd_J1UZPebU0PaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-15T19:22:47Z",
+        "updatedAt": "2021-02-15T19:22:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "w71z1BXtCCzNtQX1q-K3VlZwBdM",
+      "id": "UgwMbdxRCZQXpUj89994AaABAg.9JnGkbhxYQz9ON6_LlD7l3",
+      "snippet": {
+        "textDisplay": "O meu igual",
+        "textOriginal": "O meu igual",
+        "parentId": "UgwMbdxRCZQXpUj89994AaABAg",
+        "authorDisplayName": "Cari Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxPy4ZYBRZTE6woQ79SGOocAdPD6EfCUhtzQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5iNGlJr4KsWBM2tWfVVfuw",
+        "authorChannelId": {
+          "value": "UC5iNGlJr4KsWBM2tWfVVfuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-09T12:51:20Z",
+        "updatedAt": "2021-06-09T12:51:20Z"
+      }
+    }
+  ]
+}

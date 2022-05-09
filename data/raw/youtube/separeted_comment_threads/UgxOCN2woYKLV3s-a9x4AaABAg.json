@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fMmB_PjGzytLI92U2bWvhjsY3Kk",
+  "id": "UgxOCN2woYKLV3s-a9x4AaABAg",
+  "snippet": {
+    "videoId": "puL5hy6cgM0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mkxhaz_f6QLekiMyH2opnqeoItU",
+      "id": "UgxOCN2woYKLV3s-a9x4AaABAg",
+      "snippet": {
+        "videoId": "puL5hy6cgM0",
+        "textDisplay": "Ola",
+        "textOriginal": "Ola",
+        "authorDisplayName": "Yuina duble\ud83d\udc99",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/S4jkBwBYjsnMD_PaNYLmcbUqwbwVFg0JP6Z-ygL_tuxVApKpAQF4J7xzWlAgaAWjme-YMHj5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUYSOtxbYX83jgv3XQjbhSQ",
+        "authorChannelId": {
+          "value": "UCUYSOtxbYX83jgv3XQjbhSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-19T01:31:46Z",
+        "updatedAt": "2021-01-19T01:31:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3q9wf4dveWxClulgul5yyOYl6Ag",
+      "id": "UgxOCN2woYKLV3s-a9x4AaABAg.9IfpifDCiMn9IfpsDRrn1P",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+        "textOriginal": "Ol\u00e1 \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+        "parentId": "UgxOCN2woYKLV3s-a9x4AaABAg",
+        "authorDisplayName": "Software da Hora",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRU1GQWAmBGja3vXGdPvg9SH8df79aJoBbzrxh7tg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvcVOczpq6rJvy3pEqtEstA",
+        "authorChannelId": {
+          "value": "UCvcVOczpq6rJvy3pEqtEstA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-19T01:33:04Z",
+        "updatedAt": "2021-01-19T01:33:04Z"
+      }
+    }
+  ]
+}

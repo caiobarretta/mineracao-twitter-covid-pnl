@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oEoKnOqlA5ygDSIHF5BRRCUQ6SM",
+  "id": "UgytRu2uNCNYk7Yd-KF4AaABAg",
+  "snippet": {
+    "videoId": "wC3r4Lcm1Sw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pcL0nfKlBrQsISGBR31_6MjyyIo",
+      "id": "UgytRu2uNCNYk7Yd-KF4AaABAg",
+      "snippet": {
+        "videoId": "wC3r4Lcm1Sw",
+        "textDisplay": "Muito bom",
+        "textOriginal": "Muito bom",
+        "authorDisplayName": "lucas dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR892UyyR13CmaxaCIxt7BIwT5eQ1rhBiUzK4Esj2c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFJky_6aQ5yoEOfsbFP34Eg",
+        "authorChannelId": {
+          "value": "UCFJky_6aQ5yoEOfsbFP34Eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-06-04T21:14:18Z",
+        "updatedAt": "2020-06-04T21:14:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "niI3Mje1SXMY-8MeAW0H5F4FAFY",
+      "id": "UgytRu2uNCNYk7Yd-KF4AaABAg.99VI0Tc10-r99VYyB6PzHR",
+      "snippet": {
+        "textDisplay": "@Canal Butantan sim, j\u00e1 sou inscrito",
+        "textOriginal": "@Canal Butantan sim, j\u00e1 sou inscrito",
+        "parentId": "UgytRu2uNCNYk7Yd-KF4AaABAg",
+        "authorDisplayName": "lucas dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR892UyyR13CmaxaCIxt7BIwT5eQ1rhBiUzK4Esj2c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFJky_6aQ5yoEOfsbFP34Eg",
+        "authorChannelId": {
+          "value": "UCFJky_6aQ5yoEOfsbFP34Eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-04T23:42:24Z",
+        "updatedAt": "2020-06-04T23:42:24Z"
+      }
+    }
+  ]
+}

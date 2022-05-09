@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tnIC3xJ0jIpF1SDK0rHgB7aQxYY",
+  "id": "UgxG6v_U9nohJ5tw68x4AaABAg",
+  "snippet": {
+    "videoId": "cZ6TxcmULhQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vBt6SbWOAtH5a3lZotPvkf0bReI",
+      "id": "UgxG6v_U9nohJ5tw68x4AaABAg",
+      "snippet": {
+        "videoId": "cZ6TxcmULhQ",
+        "textDisplay": "Animo espa\u00f1a animo todo el mundo saludos desde Mexico s\u00e1ldremos de este virus horrible",
+        "textOriginal": "Animo espa\u00f1a animo todo el mundo saludos desde Mexico s\u00e1ldremos de este virus horrible",
+        "authorDisplayName": "Alex RO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRV1IfjnF8DiAdFtnNb5nSbBhMap-du6hu3hw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm6vrFAS4lp5-txvqg8DHCw",
+        "authorChannelId": {
+          "value": "UCm6vrFAS4lp5-txvqg8DHCw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2020-09-26T22:52:21Z",
+        "updatedAt": "2020-09-26T22:52:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gyAshgetgJxPDRZpk8jiaqcE30s",
+      "id": "UgxG6v_U9nohJ5tw68x4AaABAg.9E5-rMGy1_99EDDgVeERFi",
+      "snippet": {
+        "textDisplay": "Y como convences a los necios!!",
+        "textOriginal": "Y como convences a los necios!!",
+        "parentId": "UgxG6v_U9nohJ5tw68x4AaABAg",
+        "authorDisplayName": "lucia Ballesteros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTqqMnLOWUbgvmkFitY8Iq47vKlZGyVybBASw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkbp4Ufs3rb2WLJlrfHoYqQ",
+        "authorChannelId": {
+          "value": "UCkbp4Ufs3rb2WLJlrfHoYqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-30T03:27:08Z",
+        "updatedAt": "2020-09-30T03:27:08Z"
+      }
+    }
+  ]
+}

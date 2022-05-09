@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NvTfZqjW2BbqDA6GhKzA2lhTlds",
+  "id": "UgyhRItrFETBTF1Ue1B4AaABAg",
+  "snippet": {
+    "videoId": "kW0PGxMCbkE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mcLPTf40BtvlVt9IJ5gq4nz75yc",
+      "id": "UgyhRItrFETBTF1Ue1B4AaABAg",
+      "snippet": {
+        "videoId": "kW0PGxMCbkE",
+        "textDisplay": "\u00c9 s\u00f3 chegar no posto e fazer mm",
+        "textOriginal": "\u00c9 s\u00f3 chegar no posto e fazer mm",
+        "authorDisplayName": "Erica Amanda Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUY19W2nz7DGIWMmPdNIBHAVMRoU9wI89a1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCowESPk96Rv_VOZRWKcMo5w",
+        "authorChannelId": {
+          "value": "UCowESPk96Rv_VOZRWKcMo5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-07T19:06:05Z",
+        "updatedAt": "2021-11-07T19:06:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X8S8ScvFo6hnIkoTP9ckIXfyPGU",
+      "id": "UgyhRItrFETBTF1Ue1B4AaABAg.9USaVESioxm9USaXGmrsuU",
+      "snippet": {
+        "textDisplay": "?",
+        "textOriginal": "?",
+        "parentId": "UgyhRItrFETBTF1Ue1B4AaABAg",
+        "authorDisplayName": "Erica Amanda Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUY19W2nz7DGIWMmPdNIBHAVMRoU9wI89a1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCowESPk96Rv_VOZRWKcMo5w",
+        "authorChannelId": {
+          "value": "UCowESPk96Rv_VOZRWKcMo5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-07T19:06:22Z",
+        "updatedAt": "2021-11-07T19:06:22Z"
+      }
+    }
+  ]
+}

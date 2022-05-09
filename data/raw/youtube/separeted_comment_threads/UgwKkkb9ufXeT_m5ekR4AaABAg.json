@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VSTRlt6VNNYV94X7waJHlSZiWvc",
+  "id": "UgwKkkb9ufXeT_m5ekR4AaABAg",
+  "snippet": {
+    "videoId": "bYMWEgivLsk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_h_XAGoBOxGEAjedeGfQ6pi_gJI",
+      "id": "UgwKkkb9ufXeT_m5ekR4AaABAg",
+      "snippet": {
+        "videoId": "bYMWEgivLsk",
+        "textDisplay": "\u00d3timo video! J\u00e1 compartilhei com a fam\u00edlia \ud83d\ude04",
+        "textOriginal": "\u00d3timo video! J\u00e1 compartilhei com a fam\u00edlia \ud83d\ude04",
+        "authorDisplayName": "Andr\u00e9ia Costa de Azevedo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFQCgAxzTN9_vIaQQugmAnSmG4EyMoJVW2C7nX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFodGnKUnsf-NE1Ln7frRiA",
+        "authorChannelId": {
+          "value": "UCFodGnKUnsf-NE1Ln7frRiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-09T20:33:05Z",
+        "updatedAt": "2021-08-09T20:33:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MMAqGWQKKGwaBoWbfXHx3kX2jiE",
+      "id": "UgwKkkb9ufXeT_m5ekR4AaABAg.9Qq-ufOu0ds9QrAYZSROxg",
+      "snippet": {
+        "textDisplay": "Tomara que eles gostem :D",
+        "textOriginal": "Tomara que eles gostem :D",
+        "parentId": "UgwKkkb9ufXeT_m5ekR4AaABAg",
+        "authorDisplayName": "Santa paCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkk4rMARyEEbO3L3Y6R4hgrY5v1pcW5O-u8lcT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCExZrIeyic2vbbRDPKW-37A",
+        "authorChannelId": {
+          "value": "UCExZrIeyic2vbbRDPKW-37A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-10T07:25:17Z",
+        "updatedAt": "2021-08-10T07:25:17Z"
+      }
+    }
+  ]
+}

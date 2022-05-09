@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_Hme-oqN0Sqs9jJudz1Vwngy3y4",
+  "id": "UgjMSBel17tZHngCoAEC",
+  "snippet": {
+    "videoId": "_GKse_BCAWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "60lZDa3X89neEbwe21b6LuWmFAI",
+      "id": "UgjMSBel17tZHngCoAEC",
+      "snippet": {
+        "videoId": "_GKse_BCAWU",
+        "textDisplay": "Parab\u00e9ns, bom trabalho!",
+        "textOriginal": "Parab\u00e9ns, bom trabalho!",
+        "authorDisplayName": "Juliana Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRR-6hJ9qNCo0hL5h61wuvQ0_XMyLc_bVdNmYxmBMw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjXsbpcfFAAseIoRRza4zpw",
+        "authorChannelId": {
+          "value": "UCjXsbpcfFAAseIoRRza4zpw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2014-07-30T19:08:58Z",
+        "updatedAt": "2014-07-30T19:08:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nloo5mO_JYzr5KrhSWEnvKoCiPg",
+      "id": "UgjMSBel17tZHngCoAEC.7-H0Z7-DuEs71WwofkheDG",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "UgjMSBel17tZHngCoAEC",
+        "authorDisplayName": "Biologia EAD UFg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3qMsREP7Za9aRAyOkN6ZxwKkTMpAT_hEKLUJZqA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoucZrpKnupzd0n0Z9NXHgQ",
+        "authorChannelId": {
+          "value": "UCoucZrpKnupzd0n0Z9NXHgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2014-09-24T16:38:10Z",
+        "updatedAt": "2014-09-24T16:38:10Z"
+      }
+    }
+  ]
+}

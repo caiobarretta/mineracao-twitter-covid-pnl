@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Gid3Pp03w06lrNvl3-B33r_QzYw",
+  "id": "UgzJlfOnScwX2-XGpSp4AaABAg",
+  "snippet": {
+    "videoId": "kW0PGxMCbkE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ardRGfcx2faVeEaRnkTpmjLaV5Q",
+      "id": "UgzJlfOnScwX2-XGpSp4AaABAg",
+      "snippet": {
+        "videoId": "kW0PGxMCbkE",
+        "textDisplay": "a profissional fez esse teste no meu filho..mas colocou no exame como ele tivesse feito por muco nasal.pq?",
+        "textOriginal": "a profissional fez esse teste no meu filho..mas colocou no exame como ele tivesse feito por muco nasal.pq?",
+        "authorDisplayName": "Francisca Queiroz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwwe2clMkzJR32b077s13RfbQvJj0MnlBaKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM-r6kDKlYZ5P7zJeu8Y55A",
+        "authorChannelId": {
+          "value": "UCM-r6kDKlYZ5P7zJeu8Y55A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-23T13:19:43Z",
+        "updatedAt": "2021-03-23T13:19:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "U0zQGpN1FUJdHFwEf-CeRJ3YuOc",
+      "id": "UgzJlfOnScwX2-XGpSp4AaABAg.9LEJp17gYhR9SZ3w7-izGq",
+      "snippet": {
+        "textDisplay": "Depende do teste, tem que ler o manual.",
+        "textOriginal": "Depende do teste, tem que ler o manual.",
+        "parentId": "UgzJlfOnScwX2-XGpSp4AaABAg",
+        "authorDisplayName": "Giulliana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZLuWWW6ITnB5429oTPVwqI443fdWZRDYiIG-ert0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDCf93lFGToJTt9pDWdJ1yw",
+        "authorChannelId": {
+          "value": "UCDCf93lFGToJTt9pDWdJ1yw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-21T14:24:41Z",
+        "updatedAt": "2021-09-21T14:24:41Z"
+      }
+    }
+  ]
+}

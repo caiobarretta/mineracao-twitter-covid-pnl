@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HxUz-j5V7cA7NPxmyGArlhADaGk",
+  "id": "UgwDznELXgq8ZfgpDNd4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EF_sBtaQXUttBBNipCnX4XBN1Bs",
+      "id": "UgwDznELXgq8ZfgpDNd4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "Gente pra quer esse tanto de fraldas e doida e nem precisa esse tanto",
+        "textOriginal": "Gente pra quer esse tanto de fraldas e doida e nem precisa esse tanto",
+        "authorDisplayName": "Jucelma Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAEjY7pKr_J_mwFAQMWdja4opktva8g1Y7GpNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwUwolIHWPBh8pEe0sLLvXA",
+        "authorChannelId": {
+          "value": "UCwUwolIHWPBh8pEe0sLLvXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-05-19T01:00:53Z",
+        "updatedAt": "2021-05-19T01:00:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BCSm-XbmLlW7XOZYlNuW0CGApyU",
+      "id": "UgwDznELXgq8ZfgpDNd4AaABAg.9NVl_V-5jJk9NVlk3FTNEE",
+      "snippet": {
+        "textDisplay": "Levei pra testar os tamanhos, se ela usaria a rn, a p menor ou a p maior. Por\u00e9m usei apenas as rn e usei o pacote todo.",
+        "textOriginal": "Levei pra testar os tamanhos, se ela usaria a rn, a p menor ou a p maior. Por\u00e9m usei apenas as rn e usei o pacote todo.",
+        "parentId": "UgwDznELXgq8ZfgpDNd4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-19T01:02:19Z",
+        "updatedAt": "2021-05-19T01:02:19Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5SLOkj4PzWLMKDlFj20lvWtYOTE",
+  "id": "UgzAHwHDN6IpKKL_f2R4AaABAg",
+  "snippet": {
+    "videoId": "oFCAFnxgjmo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QFJlM0XnPWwqKsQnC-OWxBfBw70",
+      "id": "UgzAHwHDN6IpKKL_f2R4AaABAg",
+      "snippet": {
+        "videoId": "oFCAFnxgjmo",
+        "textDisplay": "Que sujeito med\u00edocre, a vida vai ti dar o troco \u00f1 perde por esperar.",
+        "textOriginal": "Que sujeito med\u00edocre, a vida vai ti dar o troco \u00f1 perde por esperar.",
+        "authorDisplayName": "Rita de Paula",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrHAK_dFxxyPhDo5WRSh6OVWnVkmPY5ziqwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLvChpWMNyyJKwCrbzbrziQ",
+        "authorChannelId": {
+          "value": "UCLvChpWMNyyJKwCrbzbrziQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2021-08-27T22:58:23Z",
+        "updatedAt": "2021-08-27T22:58:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SBP9a2hYUVJsqRBMHkp8XZn4g4M",
+      "id": "UgzAHwHDN6IpKKL_f2R4AaABAg.9RZbqg0JDE59R_sL-VWt3o",
+      "snippet": {
+        "textDisplay": "Assim como a vida tamb\u00e9m deu troco e voc\u00eas",
+        "textOriginal": "Assim como a vida tamb\u00e9m deu troco e voc\u00eas",
+        "parentId": "UgzAHwHDN6IpKKL_f2R4AaABAg",
+        "authorDisplayName": "Daniel Jos\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRs-iaaoWQ4nZ-O-OXYBnsynRUzgN9ffrm4FQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYTr3mhHUvaggNoTwGDL4cg",
+        "authorChannelId": {
+          "value": "UCYTr3mhHUvaggNoTwGDL4cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T10:41:43Z",
+        "updatedAt": "2021-08-28T10:41:43Z"
+      }
+    }
+  ]
+}

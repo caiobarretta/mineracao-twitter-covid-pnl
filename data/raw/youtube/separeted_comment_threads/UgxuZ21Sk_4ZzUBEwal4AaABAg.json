@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kg2uqTs6mAgLP4zxX529NA7-s_4",
+  "id": "UgxuZ21Sk_4ZzUBEwal4AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "okbW4yZmC5bnZIMJ-4hlQ-DvM6w",
+      "id": "UgxuZ21Sk_4ZzUBEwal4AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "Muito bom! Parab\u00e9ns!",
+        "textOriginal": "Muito bom! Parab\u00e9ns!",
+        "authorDisplayName": "Sarah Angelica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2WzP7YpsVi9I_-rmJtevgZsURAG8oGbGhTxuN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC98wcXlyI2_ZQo053PWhN3g",
+        "authorChannelId": {
+          "value": "UC98wcXlyI2_ZQo053PWhN3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T10:49:43Z",
+        "updatedAt": "2022-01-17T10:49:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mhujiAiPiSX1yDLaq2i7H0EVnO0",
+      "id": "UgxuZ21Sk_4ZzUBEwal4AaABAg.9XIX7pgpv5c9XJAIIZDVQ6",
+      "snippet": {
+        "textDisplay": "Que bom que gostou do conte\u00fado, Sarah! \ud83d\udc9c",
+        "textOriginal": "Que bom que gostou do conte\u00fado, Sarah! \ud83d\udc9c",
+        "parentId": "UgxuZ21Sk_4ZzUBEwal4AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T16:49:24Z",
+        "updatedAt": "2022-01-17T16:49:24Z"
+      }
+    }
+  ]
+}

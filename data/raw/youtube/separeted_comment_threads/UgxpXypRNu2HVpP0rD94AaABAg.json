@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "tJub3-HygcSBM12d1p_9Ka7UEcw",
+  "etag": "8KmbKVR9WJNQrZsG1mPEM4vFM5g",
   "id": "UgxpXypRNu2HVpP0rD94AaABAg",
   "snippet": {
     "videoId": "wT10bO9fhb0",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "i1GG-to0Khd1dSaIfGuyG9ND0WE",
+      "etag": "NQ3n9-Gd4IWZwI_mtCdZXZUh5aU",
       "id": "UgxpXypRNu2HVpP0rD94AaABAg",
       "snippet": {
         "videoId": "wT10bO9fhb0",
@@ -20,16 +20,37 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 23,
+        "likeCount": 24,
         "publishedAt": "2022-05-08T16:29:06Z",
         "updatedAt": "2022-05-08T16:29:06Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 4,
+    "totalReplyCount": 5,
     "isPublic": true
   },
   "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eUsiWhoNNd8TvJOBSw8P7wwx7UQ",
+      "id": "UgxpXypRNu2HVpP0rD94AaABAg.9alxCdPbh0O9aoOzCot2ag",
+      "snippet": {
+        "textDisplay": "Nunca vai existir uma lei proibindo o uso de m\u00e1scara.. o uso de m\u00e1scara \u00e9 recomendado pela pr\u00f3pria OMS.",
+        "textOriginal": "Nunca vai existir uma lei proibindo o uso de m\u00e1scara.. o uso de m\u00e1scara \u00e9 recomendado pela pr\u00f3pria OMS.",
+        "parentId": "UgxpXypRNu2HVpP0rD94AaABAg",
+        "authorDisplayName": "Sil je",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvRrf0OqzwImUr8NT18yiaUQCzC3wKV1m1nbENL6JdkGoLjJ6RsQEsBX7ljWZz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcibeFGIGA5gRgwk8m4QCvg",
+        "authorChannelId": {
+          "value": "UCcibeFGIGA5gRgwk8m4QCvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T15:19:00Z",
+        "updatedAt": "2022-05-09T15:19:00Z"
+      }
+    },
     {
       "kind": "youtube#comment",
       "etag": "zbrXpc_ModpEWJlkO3Sa5VkRgj4",

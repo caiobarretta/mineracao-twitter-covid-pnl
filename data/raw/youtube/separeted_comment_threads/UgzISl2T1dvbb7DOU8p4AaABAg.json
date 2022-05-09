@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6l8J2i-u5tfbngbS_dp5osmjgIQ",
+  "id": "UgzISl2T1dvbb7DOU8p4AaABAg",
+  "snippet": {
+    "videoId": "brnUrUU81Ow",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Lqiat0smebr5J1XJOv325q7gFQc",
+      "id": "UgzISl2T1dvbb7DOU8p4AaABAg",
+      "snippet": {
+        "videoId": "brnUrUU81Ow",
+        "textDisplay": "Esse v\u00eddeo \u00e9 o melhor conte\u00fado que eu achei na internet sobre a sa\u00fade no Brasil.",
+        "textOriginal": "Esse v\u00eddeo \u00e9 o melhor conte\u00fado que eu achei na internet sobre a sa\u00fade no Brasil.",
+        "authorDisplayName": "o Binho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTX-5Y_NAZ-8dU3-ncBLZsGRwustyQkQRie0ikYteI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu-wLWuDgdegsC15cnPuV9Q",
+        "authorChannelId": {
+          "value": "UCu-wLWuDgdegsC15cnPuV9Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 62,
+        "publishedAt": "2017-08-22T00:05:21Z",
+        "updatedAt": "2017-08-22T00:05:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Uw9H32WhhQN3mO72G8IaZiAbOfQ",
+      "id": "UgzISl2T1dvbb7DOU8p4AaABAg.8WYKMRVCDly9PtsNMPaDlk",
+      "snippet": {
+        "textDisplay": "Vim por causa do AMOGUS",
+        "textOriginal": "Vim por causa do AMOGUS",
+        "parentId": "UgzISl2T1dvbb7DOU8p4AaABAg",
+        "authorDisplayName": "mike'-'",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/sTjROmzQrACd0zfC0HUQVHedWHj0sMnmk1YSu1I0YYQBUk1t89151a32_cIwVPWpG3fOuyeXDA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTR7MCKRmE_hySxNHWfR-XQ",
+        "authorChannelId": {
+          "value": "UCTR7MCKRmE_hySxNHWfR-XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-17T12:04:03Z",
+        "updatedAt": "2021-07-17T12:04:03Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "V8aUmvS6A-yvUwAidu9t1CMQiGk",
+  "id": "Ugxfg3SeZL2Ek-qM__94AaABAg",
+  "snippet": {
+    "videoId": "M-3jvTSIA0g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EkSAAmbqPRrNr4o1gZIDzUQdWhE",
+      "id": "Ugxfg3SeZL2Ek-qM__94AaABAg",
+      "snippet": {
+        "videoId": "M-3jvTSIA0g",
+        "textDisplay": "Por que n\u00e3o aparece o icone laranja da carteirinha.",
+        "textOriginal": "Por que n\u00e3o aparece o icone laranja da carteirinha.",
+        "authorDisplayName": "Maria Twitter Fcbook ytube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeTmIMbw4A3ESWeo8UG-EgC1sszwnNMgRXlQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0m04qMfy5yyAoMz3U61ASA",
+        "authorChannelId": {
+          "value": "UC0m04qMfy5yyAoMz3U61ASA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-25T12:35:23Z",
+        "updatedAt": "2021-03-25T12:35:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CfZHkkFJPiKJz4sPBH7aR9q-lZc",
+      "id": "Ugxfg3SeZL2Ek-qM__94AaABAg.9LJOL-QKMmG9O6sv_CGPIS",
+      "snippet": {
+        "textDisplay": "O meu tamb\u00e9m",
+        "textOriginal": "O meu tamb\u00e9m",
+        "parentId": "Ugxfg3SeZL2Ek-qM__94AaABAg",
+        "authorDisplayName": "Liliane Maciel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_CPah_lTeXLGsiu7oj11kBxfqIuFNwNWi-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6VIo2V6jbW9DXOUKjDmaMA",
+        "authorChannelId": {
+          "value": "UC6VIo2V6jbW9DXOUKjDmaMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-03T05:35:27Z",
+        "updatedAt": "2021-06-03T05:35:27Z"
+      }
+    }
+  ]
+}

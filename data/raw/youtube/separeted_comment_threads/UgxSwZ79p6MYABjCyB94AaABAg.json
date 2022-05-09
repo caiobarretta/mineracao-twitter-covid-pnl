@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CSZuZL7URuxIOGjcm67N4ZDB1U4",
+  "id": "UgxSwZ79p6MYABjCyB94AaABAg",
+  "snippet": {
+    "videoId": "NfaEeATu_Is",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4JSwN0oJzkGVlVQpSuaYULoJgiI",
+      "id": "UgxSwZ79p6MYABjCyB94AaABAg",
+      "snippet": {
+        "videoId": "NfaEeATu_Is",
+        "textDisplay": "Quando a Amanda fala eu coloco no mudo.",
+        "textOriginal": "Quando a Amanda fala eu coloco no mudo.",
+        "authorDisplayName": "Edmund Burke",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvKR1TM6mAxno3u7z9pyzw9HSfxIajh_NzeQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxOsFona8a6yXQ9IImXNPbw",
+        "authorChannelId": {
+          "value": "UCxOsFona8a6yXQ9IImXNPbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 24,
+        "publishedAt": "2022-04-20T12:53:16Z",
+        "updatedAt": "2022-04-20T12:53:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LHfOPazNTYgGmeTWNpW5KFjaXHI",
+      "id": "UgxSwZ79p6MYABjCyB94AaABAg.9a2DC48dwmC9a2DXP0bSLK",
+      "snippet": {
+        "textDisplay": "Kkkkkkkk no mudo n\u00e3o, na tecla silenciosa.",
+        "textOriginal": "Kkkkkkkk no mudo n\u00e3o, na tecla silenciosa.",
+        "parentId": "UgxSwZ79p6MYABjCyB94AaABAg",
+        "authorDisplayName": "Jos\u00e9 Carlos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvIOBmr9kno4kRuW-PNV758a4eduMr7Panzg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1vb_AWDNLwzIXQXn7ObGw",
+        "authorChannelId": {
+          "value": "UCO1vb_AWDNLwzIXQXn7ObGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-20T12:56:10Z",
+        "updatedAt": "2022-04-20T12:57:41Z"
+      }
+    }
+  ]
+}

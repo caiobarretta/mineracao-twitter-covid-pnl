@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0QL5ihFULLE3btFc1kUmQsrzzwQ",
+  "id": "UgxXRL84tA_Xckire6N4AaABAg",
+  "snippet": {
+    "videoId": "NfaEeATu_Is",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6a_dOlRoaQ72w-eXdawnYg6yXUY",
+      "id": "UgxXRL84tA_Xckire6N4AaABAg",
+      "snippet": {
+        "videoId": "NfaEeATu_Is",
+        "textDisplay": "Por aqui faz tempo que tudo t\u00e1 normal, gra\u00e7as a Deus.",
+        "textOriginal": "Por aqui faz tempo que tudo t\u00e1 normal, gra\u00e7as a Deus.",
+        "authorDisplayName": "Rita Nunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgkx-Np1-xi-1X6H-fUIiXto6Jx7bFRpBY8Gkt=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCel8HuNvIrm__IcjTY3OFhg",
+        "authorChannelId": {
+          "value": "UCel8HuNvIrm__IcjTY3OFhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 39,
+        "publishedAt": "2022-04-20T13:23:28Z",
+        "updatedAt": "2022-04-20T13:23:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "84wc_ZnrTRFqix2L6IRXAdTOIEw",
+      "id": "UgxXRL84tA_Xckire6N4AaABAg.9a2GeLagBQ19a4mOpwJ9aS",
+      "snippet": {
+        "textDisplay": "O n d e  ?",
+        "textOriginal": "O n d e  ?",
+        "parentId": "UgxXRL84tA_Xckire6N4AaABAg",
+        "authorDisplayName": "Maria de Lourdes de Vasconcelos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0O1VPc3AEgXIAZLsISADJ8pKf3F50x5Ih9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu6kGiyksYbt3mdDhKZ8Ogg",
+        "authorChannelId": {
+          "value": "UCu6kGiyksYbt3mdDhKZ8Ogg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-21T12:48:03Z",
+        "updatedAt": "2022-04-21T12:48:03Z"
+      }
+    }
+  ]
+}

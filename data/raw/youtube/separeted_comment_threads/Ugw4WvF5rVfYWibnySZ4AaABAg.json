@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M2bdNT8rXauXaLjeblX4cN06lvU",
+  "id": "Ugw4WvF5rVfYWibnySZ4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qMeZ-er_jXH_fPA8XfBwKFkvxrU",
+      "id": "Ugw4WvF5rVfYWibnySZ4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Belo video! Parab\u00e9ns e obrigada!!!!",
+        "textOriginal": "Belo video! Parab\u00e9ns e obrigada!!!!",
+        "authorDisplayName": "RNeves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/OQmF-OeDaeSHd9J_id6wVjQel5hmbYvnhi5hD5YFAvFGIPGBywUilGvYQ44Z9k_hSZv9WbQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqEyL0NqqsIdZ6mI9J4Tf2A",
+        "authorChannelId": {
+          "value": "UCqEyL0NqqsIdZ6mI9J4Tf2A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-19T19:00:00Z",
+        "updatedAt": "2022-03-19T19:00:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OF0U3ZWeXgq-h1_4hVPRABHfDAQ",
+      "id": "Ugw4WvF5rVfYWibnySZ4AaABAg.9ZlTjBFQFpR9ZloTjGcqQO",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d\ud83c\udffc",
+        "textOriginal": "\ud83d\udc4d\ud83c\udffc",
+        "parentId": "Ugw4WvF5rVfYWibnySZ4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-19T22:10:00Z",
+        "updatedAt": "2022-03-19T22:10:00Z"
+      }
+    }
+  ]
+}

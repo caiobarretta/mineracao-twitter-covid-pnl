@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rC3HCisxOsolwi2Q0bxdf34x57c",
+  "id": "UgzG2rNccryqeGn6JXx4AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IyM0eFB_jI1B78Zo5NmT7xeg938",
+      "id": "UgzG2rNccryqeGn6JXx4AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "amei essa espolia\u00e7\u00e3o",
+        "textOriginal": "amei essa espolia\u00e7\u00e3o",
+        "authorDisplayName": "Maristela Avelino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kdGgWRTGa4SXu8YmuQSESJosqrh_DfI6xW7HwPVuU4B-lpsvY1u7xaKevbq62-UOFcZ5HB25Hww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsoyG8LY7bWJit_lF8xvGpQ",
+        "authorChannelId": {
+          "value": "UCsoyG8LY7bWJit_lF8xvGpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-20T04:09:27Z",
+        "updatedAt": "2020-12-20T04:09:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "y2xyXa0xx2p3quHom1M9vjGuk74",
+      "id": "UgzG2rNccryqeGn6JXx4AaABAg.9HTrvKjb9iB9Rb5cKpBoXZ",
+      "snippet": {
+        "textDisplay": "sim",
+        "textOriginal": "sim",
+        "parentId": "UgzG2rNccryqeGn6JXx4AaABAg",
+        "authorDisplayName": "Paulo Vitor Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDPVv5a0GQd3a2gmzPFOuHIPzC9TrpkoaRrYXP7w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZuk2-AXxrW14E8dBbKSzBQ",
+        "authorChannelId": {
+          "value": "UCZuk2-AXxrW14E8dBbKSzBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T22:05:47Z",
+        "updatedAt": "2021-08-28T22:05:47Z"
+      }
+    }
+  ]
+}

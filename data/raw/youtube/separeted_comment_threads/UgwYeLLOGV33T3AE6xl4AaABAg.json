@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VixMJE6Pc6rQpyWQYLc6XN_BTfY",
+  "id": "UgwYeLLOGV33T3AE6xl4AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "u_Fw5DXNXDSKMwKmlx9SjX4b-yg",
+      "id": "UgwYeLLOGV33T3AE6xl4AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Eu nao consigo abaixar porque son tenho uma dose",
+        "textOriginal": "Eu nao consigo abaixar porque son tenho uma dose",
+        "authorDisplayName": "Fabiana Hayli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5spmqMwzbjMXUmf2jTAj-k3_cAPtWzDc_iQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt7F402cJOaIa6cC6hqeFfg",
+        "authorChannelId": {
+          "value": "UCt7F402cJOaIa6cC6hqeFfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-03T22:46:17Z",
+        "updatedAt": "2022-02-03T22:46:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aDTluq-7idfkyJP4DahIuiDHVZs",
+      "id": "UgwYeLLOGV33T3AE6xl4AaABAg.9Y-_dyB_65v9Y1rwwjdRCP",
+      "snippet": {
+        "textDisplay": "sim, com uma dose, vc s\u00f3 consegue a vers\u00e3o em portugu\u00eas. V\u00e1 tomar a segunda dose que depois ir\u00e1 conseguir.",
+        "textOriginal": "sim, com uma dose, vc s\u00f3 consegue a vers\u00e3o em portugu\u00eas. V\u00e1 tomar a segunda dose que depois ir\u00e1 conseguir.",
+        "parentId": "UgwYeLLOGV33T3AE6xl4AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-04T20:04:38Z",
+        "updatedAt": "2022-02-04T20:04:38Z"
+      }
+    }
+  ]
+}

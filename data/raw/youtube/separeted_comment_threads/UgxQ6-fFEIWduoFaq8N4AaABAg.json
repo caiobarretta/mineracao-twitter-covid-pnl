@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NoSWDh2MiRBI58U1wyD7L_pdmcY",
+  "id": "UgxQ6-fFEIWduoFaq8N4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZTOCNaERGtklOgffQQzJAWbCljA",
+      "id": "UgxQ6-fFEIWduoFaq8N4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Parab\u00e9ns Bruno pelo conte\u00fado informativo e preciso!",
+        "textOriginal": "Parab\u00e9ns Bruno pelo conte\u00fado informativo e preciso!",
+        "authorDisplayName": "Katia Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ31d9ZzH4UUQrou9gt8V--Ck_ocBSd-Uy1wp2i_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvKjFlDdI4MUxDKmznwleUw",
+        "authorChannelId": {
+          "value": "UCvKjFlDdI4MUxDKmznwleUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-18T14:23:02Z",
+        "updatedAt": "2021-11-18T14:23:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GdbrKe3UApPWckvbLjmDxFOKCNY",
+      "id": "UgxQ6-fFEIWduoFaq8N4AaABAg.9UtPqlZlmbZ9UtS71bq4pY",
+      "snippet": {
+        "textDisplay": "Obrigado Katia!!",
+        "textOriginal": "Obrigado Katia!!",
+        "parentId": "UgxQ6-fFEIWduoFaq8N4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-18T14:42:52Z",
+        "updatedAt": "2021-11-18T14:42:52Z"
+      }
+    }
+  ]
+}

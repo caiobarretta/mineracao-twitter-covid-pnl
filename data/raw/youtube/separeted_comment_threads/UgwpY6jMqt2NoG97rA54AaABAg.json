@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CuUY82w6KaCxSGBYijIdM7F1xhc",
+  "id": "UgwpY6jMqt2NoG97rA54AaABAg",
+  "snippet": {
+    "videoId": "D9lnaILJuGc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hZM3Q-lBHtEQeXKZnUrdgp03Ufk",
+      "id": "UgwpY6jMqt2NoG97rA54AaABAg",
+      "snippet": {
+        "videoId": "D9lnaILJuGc",
+        "textDisplay": "\u00d3timo v\u00eddeo, vc s\u00f3 deveria ter falando algo no final. ( Tipo, se inscreve, curta, etc )",
+        "textOriginal": "\u00d3timo v\u00eddeo, vc s\u00f3 deveria ter falando algo no final. ( Tipo, se inscreve, curta, etc )",
+        "authorDisplayName": "Wilton Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRK6s-J_un9ubzN9DAjC18jiiIssgI-GaelAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN9qP8gqJDGgus73bKHDfxw",
+        "authorChannelId": {
+          "value": "UCN9qP8gqJDGgus73bKHDfxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-09-20T17:01:12Z",
+        "updatedAt": "2019-09-20T17:01:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BJrGvLE0fzMR3hoXTCWDU3UE0Vo",
+      "id": "UgwpY6jMqt2NoG97rA54AaABAg.9-6VxrlI-2N90PTriklz_y",
+      "snippet": {
+        "textDisplay": "Muito obrigado pelo feedback! Contamos muito com a intera\u00e7\u00e3o de voc\u00eas! \ud83e\udd1d",
+        "textOriginal": "Muito obrigado pelo feedback! Contamos muito com a intera\u00e7\u00e3o de voc\u00eas! \ud83e\udd1d",
+        "parentId": "UgwpY6jMqt2NoG97rA54AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-10-22T22:19:50Z",
+        "updatedAt": "2019-10-22T22:19:50Z"
+      }
+    }
+  ]
+}

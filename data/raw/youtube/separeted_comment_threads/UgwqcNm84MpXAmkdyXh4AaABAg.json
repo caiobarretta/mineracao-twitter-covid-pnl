@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0Yiyauq7yQxg9cxEo3XdCpbELn8",
+  "id": "UgwqcNm84MpXAmkdyXh4AaABAg",
+  "snippet": {
+    "videoId": "v3-nCjpx3vU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "auKLs4-DdyRBZFBwyZt1s6jOApg",
+      "id": "UgwqcNm84MpXAmkdyXh4AaABAg",
+      "snippet": {
+        "videoId": "v3-nCjpx3vU",
+        "textDisplay": "Boa noite! \u00d3timo debate \ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Boa noite! \u00d3timo debate \ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Juliana Brito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4vPW4LVglZOHlj3079bvYbVfU_kJgMh0-yZnPSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQl9nRIecY-bI9L5Cs1xlKg",
+        "authorChannelId": {
+          "value": "UCQl9nRIecY-bI9L5Cs1xlKg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-22T22:11:43Z",
+        "updatedAt": "2021-03-22T22:11:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XXCpfkvxeoA422s1NEPpUkX3bXQ",
+      "id": "UgwqcNm84MpXAmkdyXh4AaABAg.9LCgudlnWXY9LClUW4bVJZ",
+      "snippet": {
+        "textDisplay": "Que bom que gostou, Juliana!",
+        "textOriginal": "Que bom que gostou, Juliana!",
+        "parentId": "UgwqcNm84MpXAmkdyXh4AaABAg",
+        "authorDisplayName": "Plataforma Regi\u00e3o e Redes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dP8YtsEmzyzuy-1QaJxeXyTp6YkNHk4Fc7pGOY2C-ZVqJ6Ud9ES9BaLT8XunIj5iGU8Nf8Pl=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQvL6jIE1qYmFyHNZhBxhMQ",
+        "authorChannelId": {
+          "value": "UCQvL6jIE1qYmFyHNZhBxhMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-22T22:51:42Z",
+        "updatedAt": "2021-03-22T22:51:42Z"
+      }
+    }
+  ]
+}

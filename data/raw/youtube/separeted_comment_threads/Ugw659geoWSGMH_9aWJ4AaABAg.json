@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3UhFByIQVQlhF7x7VYqAc4oI_AE",
+  "id": "Ugw659geoWSGMH_9aWJ4AaABAg",
+  "snippet": {
+    "videoId": "gbSRoLZoFhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "628WC6bGNqC7CnuMfhl6tS9H_yw",
+      "id": "Ugw659geoWSGMH_9aWJ4AaABAg",
+      "snippet": {
+        "videoId": "gbSRoLZoFhI",
+        "textDisplay": "Cheguei aqui pesquisando sobre Civid-19. Sugiro que continuem usando a base de dados de Covid-19 (Por exemplo a SRAG-Open DataSUS) dada a procura e relev\u00e2ncia do assunto para toda a popula\u00e7\u00e3o. Por exemplo, analisar o efeito da vacina\u00e7\u00e3o no n\u00fameros de leitos, por exemplo. E depois usar scikit learn para algo. Seria uma live nota 100000. Parab\u00e9ns pelo trabalho.",
+        "textOriginal": "Cheguei aqui pesquisando sobre Civid-19. Sugiro que continuem usando a base de dados de Covid-19 (Por exemplo a SRAG-Open DataSUS) dada a procura e relev\u00e2ncia do assunto para toda a popula\u00e7\u00e3o. Por exemplo, analisar o efeito da vacina\u00e7\u00e3o no n\u00fameros de leitos, por exemplo. E depois usar scikit learn para algo. Seria uma live nota 100000. Parab\u00e9ns pelo trabalho.",
+        "authorDisplayName": "Cristiano Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSLSCja1G1ZuV9gbKFPKHs8AZVu_O9OYa4dnDnMiQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSTuN2ehtAFghgtbWRf5Lhw",
+        "authorChannelId": {
+          "value": "UCSTuN2ehtAFghgtbWRf5Lhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-11T18:54:35Z",
+        "updatedAt": "2021-04-11T18:54:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PN3m6ej6nzvm89JdpBSnl4HmLEQ",
+      "id": "Ugw659geoWSGMH_9aWJ4AaABAg.9M-qFC_dyQ_9M0kCj8WFhv",
+      "snippet": {
+        "textDisplay": "Oi Cristiano, dicas muito boas, obrigada!",
+        "textOriginal": "Oi Cristiano, dicas muito boas, obrigada!",
+        "parentId": "Ugw659geoWSGMH_9aWJ4AaABAg",
+        "authorDisplayName": "Programa\u00e7\u00e3o Din\u00e2mica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRF8uYoPtR38nc4HOUKqNewFRKqxrSKz_yFCKa1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg",
+        "authorChannelId": {
+          "value": "UC70mr11REaCqgKke7DPJoLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T03:21:03Z",
+        "updatedAt": "2021-04-12T03:21:03Z"
+      }
+    }
+  ]
+}

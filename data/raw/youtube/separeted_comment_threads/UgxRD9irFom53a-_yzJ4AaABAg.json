@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jkRkeCNvVmWa07ogQsrZ0fqHdig",
+  "id": "UgxRD9irFom53a-_yzJ4AaABAg",
+  "snippet": {
+    "videoId": "gbSRoLZoFhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bIjQDZAHnH5dRvtKnOWlR04Iuvs",
+      "id": "UgxRD9irFom53a-_yzJ4AaABAg",
+      "snippet": {
+        "videoId": "gbSRoLZoFhI",
+        "textDisplay": "N\u00e3o consigo acessar todos os dados disponibilizados. Apesar da documenta\u00e7\u00e3o informar que podemos fazer pedidos at\u00e9 que a lista de registros retornados esteja vazia  (\"hits^ :[]), o servidor para de responder com os dados depois de uma quantidade de requisi\u00e7\u00f5es, e No lugar envia uma mensagem de erro HTTP com c\u00f3digo 429 (excesso de requisi\u00e7\u00f5es).\n\nTentei contornar est\u00e1 situa\u00e7\u00e3o parando  a execu\u00e7\u00e3o  do software temporariamente (dando \"pause\")  por um per\u00edodo arbitr\u00e1rio ( j\u00e1 que n\u00e3o \u00e9 informado  o tempo de espera necess\u00e1rio para ser poss\u00edvel realizar novamente o pedido) em caso de erro. Infelizmente, n\u00e3o consegui um resultado  positivo. \n\nSe algu\u00e9m conseguiu escrever instru\u00e7\u00f5es em Python para acessar todos os registros sobre vacina\u00e7\u00e3o, e puder me informar sobre como conseguiu, isso ser\u00e1 de grande ajuda!",
+        "textOriginal": "N\u00e3o consigo acessar todos os dados disponibilizados. Apesar da documenta\u00e7\u00e3o informar que podemos fazer pedidos at\u00e9 que a lista de registros retornados esteja vazia  (\"hits^ :[]), o servidor para de responder com os dados depois de uma quantidade de requisi\u00e7\u00f5es, e No lugar envia uma mensagem de erro HTTP com c\u00f3digo 429 (excesso de requisi\u00e7\u00f5es).\n\nTentei contornar est\u00e1 situa\u00e7\u00e3o parando  a execu\u00e7\u00e3o  do software temporariamente (dando \"pause\")  por um per\u00edodo arbitr\u00e1rio ( j\u00e1 que n\u00e3o \u00e9 informado  o tempo de espera necess\u00e1rio para ser poss\u00edvel realizar novamente o pedido) em caso de erro. Infelizmente, n\u00e3o consegui um resultado  positivo. \n\nSe algu\u00e9m conseguiu escrever instru\u00e7\u00f5es em Python para acessar todos os registros sobre vacina\u00e7\u00e3o, e puder me informar sobre como conseguiu, isso ser\u00e1 de grande ajuda!",
+        "authorDisplayName": "Patrick Jane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQc_ZbKEDs-1C69dtwA5tB6v51Ueygbojj7tA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRbRF3CIjamTfNvjy0ZhHpA",
+        "authorChannelId": {
+          "value": "UCRbRF3CIjamTfNvjy0ZhHpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-20T14:38:54Z",
+        "updatedAt": "2021-08-20T14:38:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LmKKEECFqU9jMJ99p5GNaNgrzAA",
+  "id": "Ugxagq9Z4mzkGTI9KSR4AaABAg",
+  "snippet": {
+    "videoId": "QfujFQt9Cnc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cOHUNsVKFO1Qp8dxjq_u3f0aAi0",
+      "id": "Ugxagq9Z4mzkGTI9KSR4AaABAg",
+      "snippet": {
+        "videoId": "QfujFQt9Cnc",
+        "textDisplay": "Acho muito estranho\ud83e\udd14",
+        "textOriginal": "Acho muito estranho\ud83e\udd14",
+        "authorDisplayName": "Ivanete Faustino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPzi62XDptK4sjpuasTfZnAGSzIjM1F0-2Og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCE9nj6mr8uGFboeUYpbw4tg",
+        "authorChannelId": {
+          "value": "UCE9nj6mr8uGFboeUYpbw4tg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-06T11:10:02Z",
+        "updatedAt": "2022-05-06T11:10:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QhRD72KEfNE2dpFfRgcVrkmhBA8",
+      "id": "Ugxagq9Z4mzkGTI9KSR4AaABAg.9agE64TOhMJ9agK04R-Vor",
+      "snippet": {
+        "textDisplay": "a palavra correta \u00e9 corporativismo",
+        "textOriginal": "a palavra correta \u00e9 corporativismo",
+        "parentId": "Ugxagq9Z4mzkGTI9KSR4AaABAg",
+        "authorDisplayName": "Rodrigo Rodarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrhc9ZESveoeOXRZcWxZjF27EyAiaRtAch4X8iyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUcdVe0O6-fW94Fv7yH_E6w",
+        "authorChannelId": {
+          "value": "UCUcdVe0O6-fW94Fv7yH_E6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-06T12:01:39Z",
+        "updatedAt": "2022-05-06T12:01:39Z"
+      }
+    }
+  ]
+}

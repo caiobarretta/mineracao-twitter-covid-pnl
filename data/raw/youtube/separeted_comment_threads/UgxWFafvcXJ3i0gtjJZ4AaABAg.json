@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EUo_8Mswt-8jK7aJuPo0SwjMD3g",
+  "id": "UgxWFafvcXJ3i0gtjJZ4AaABAg",
+  "snippet": {
+    "videoId": "NfaEeATu_Is",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-WEK72B4TOmH7hEfnlCTgF0HB4Y",
+      "id": "UgxWFafvcXJ3i0gtjJZ4AaABAg",
+      "snippet": {
+        "videoId": "NfaEeATu_Is",
+        "textDisplay": "Bravo, Ricardo.\nOs ladr\u00f5es querem seguir roubando. \nGente da pior esp\u00e9cie.",
+        "textOriginal": "Bravo, Ricardo.\nOs ladr\u00f5es querem seguir roubando. \nGente da pior esp\u00e9cie.",
+        "authorDisplayName": "ChequerCoaching",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTfPUPO6G3jIhIXZTJOz_pTk_GOUg5BbpK1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnudXSeMtesBIxLVoPYf0NQ",
+        "authorChannelId": {
+          "value": "UCnudXSeMtesBIxLVoPYf0NQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 47,
+        "publishedAt": "2022-04-20T13:49:52Z",
+        "updatedAt": "2022-04-20T13:49:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pLcW1fHfIcxoIPZJzKdmd7G5mzI",
+      "id": "UgxWFafvcXJ3i0gtjJZ4AaABAg.9a2JfcDHWSG9a2pvq9bOPI",
+      "snippet": {
+        "textDisplay": "Que o digam os madeireiros apadrinhados por ele.",
+        "textOriginal": "Que o digam os madeireiros apadrinhados por ele.",
+        "parentId": "UgxWFafvcXJ3i0gtjJZ4AaABAg",
+        "authorDisplayName": "Joao Batista Novais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWZ3dT82KyAQqf0dG8u8X1CcVLAW9DSiDZoA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRo0eeQmhkliCmaizJByIUA",
+        "authorChannelId": {
+          "value": "UCRo0eeQmhkliCmaizJByIUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-20T18:40:26Z",
+        "updatedAt": "2022-04-20T18:40:26Z"
+      }
+    }
+  ]
+}

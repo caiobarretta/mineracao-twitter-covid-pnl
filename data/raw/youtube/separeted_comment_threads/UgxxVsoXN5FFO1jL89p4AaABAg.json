@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Wy-trlrK6nMthedTVXtf-Vm9zjE",
+  "id": "UgxxVsoXN5FFO1jL89p4AaABAg",
+  "snippet": {
+    "videoId": "h3-ure4GPYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R6aeQANnmt-8aVtfpjZdZaUYR8E",
+      "id": "UgxxVsoXN5FFO1jL89p4AaABAg",
+      "snippet": {
+        "videoId": "h3-ure4GPYE",
+        "textDisplay": "Pensei q precisava QR code\ud83e\udd14",
+        "textOriginal": "Pensei q precisava QR code\ud83e\udd14",
+        "authorDisplayName": "Sueli Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJXwZ_XLy6QxAyqbXuVjmEYE6AgEVAY8UmlKZyWg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe_b5w0yCupVLPHwf8xR8IQ",
+        "authorChannelId": {
+          "value": "UCe_b5w0yCupVLPHwf8xR8IQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-05T12:11:11Z",
+        "updatedAt": "2021-09-05T12:11:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MRyPnNXRGD824cXNvnttktfnp1E",
+      "id": "UgxxVsoXN5FFO1jL89p4AaABAg.9RucwEU0ptj9RvINXM3O2_",
+      "snippet": {
+        "textDisplay": "Oi Sueli, tudo bem?\nO QR \u00e9 gerado na hora que voc\u00ea gera o certificado. \nAbs!",
+        "textOriginal": "Oi Sueli, tudo bem?\nO QR \u00e9 gerado na hora que voc\u00ea gera o certificado. \nAbs!",
+        "parentId": "UgxxVsoXN5FFO1jL89p4AaABAg",
+        "authorDisplayName": "Comer, Amar e Viajar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpfo7CvhgLj-Xn5EHZNXqhX-gJSn99lG_7DVDz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ4ztwBOKpqp5jemSF4D93Q",
+        "authorChannelId": {
+          "value": "UCQ4ztwBOKpqp5jemSF4D93Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-05T18:22:02Z",
+        "updatedAt": "2021-09-05T18:22:02Z"
+      }
+    }
+  ]
+}

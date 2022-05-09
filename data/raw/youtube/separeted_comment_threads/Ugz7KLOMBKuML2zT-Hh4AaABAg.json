@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QP-ABF--A2goreysZba5WwXl3wQ",
+  "id": "Ugz7KLOMBKuML2zT-Hh4AaABAg",
+  "snippet": {
+    "videoId": "D6z3lamGtA8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LuOvlMuTUD57SKYaOMHkuiqcn4k",
+      "id": "Ugz7KLOMBKuML2zT-Hh4AaABAg",
+      "snippet": {
+        "videoId": "D6z3lamGtA8",
+        "textDisplay": "Parab\u00e9ns pelo trabalho. Excelente.",
+        "textOriginal": "Parab\u00e9ns pelo trabalho. Excelente.",
+        "authorDisplayName": "Ivete Almeiddhhggha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRG2AMZ6ohK0udB2cDzoQkBe5ojLlfAwmK4rw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpf2NcqcpF4admkiH2AEgLw",
+        "authorChannelId": {
+          "value": "UCpf2NcqcpF4admkiH2AEgLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-02-05T00:21:11Z",
+        "updatedAt": "2021-02-05T00:21:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "peW2egevTqANOvSfNCAmoerF1cs",
+      "id": "Ugz7KLOMBKuML2zT-Hh4AaABAg.9JMU9YhYvGG9JOA4q6-O5L",
+      "snippet": {
+        "textDisplay": "Grato. Vamos divulgar. Saude",
+        "textOriginal": "Grato. Vamos divulgar. Saude",
+        "parentId": "Ugz7KLOMBKuML2zT-Hh4AaABAg",
+        "authorDisplayName": "Sobre cidades, zumbis e neoliberalismo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtxqZuk4N4V2-uU-ZOxWpGLQ_QVSn0W07Or-W4rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu8bZMiooRUpjYeKxVFnnGg",
+        "authorChannelId": {
+          "value": "UCu8bZMiooRUpjYeKxVFnnGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-05T16:04:15Z",
+        "updatedAt": "2021-02-05T16:04:15Z"
+      }
+    }
+  ]
+}

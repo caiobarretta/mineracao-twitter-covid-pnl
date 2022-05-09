@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "omaNCFYhyNalLhp9KZZqiu3uHA0",
+  "id": "Ugyr0UkCyyxGe1_j0xB4AaABAg",
+  "snippet": {
+    "videoId": "OTycBm4N8to",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HLjalDdXvFdR4FC8LTg8jt_nuJw",
+      "id": "Ugyr0UkCyyxGe1_j0xB4AaABAg",
+      "snippet": {
+        "videoId": "OTycBm4N8to",
+        "textDisplay": "Algu\u00e9m aqui acha que os atuais 20.000 \u00f3bitos s\u00e3o reais? No Brasil?",
+        "textOriginal": "Algu\u00e9m aqui acha que os atuais 20.000 \u00f3bitos s\u00e3o reais? No Brasil?",
+        "authorDisplayName": "andre rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlhIKmgt0Yi4UD6OopbRiIIbBvpWq__ax50GyJ2Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtR0cG-ey_MPzbIc8psWlag",
+        "authorChannelId": {
+          "value": "UCtR0cG-ey_MPzbIc8psWlag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-23T21:32:51Z",
+        "updatedAt": "2020-05-23T21:32:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "69kNNQVxnd75TsUfhfbTeU9cyDc",
+      "id": "Ugyr0UkCyyxGe1_j0xB4AaABAg.990QamTUFpb991_4dGMPjG",
+      "snippet": {
+        "textDisplay": "Naoooooo",
+        "textOriginal": "Naoooooo",
+        "parentId": "Ugyr0UkCyyxGe1_j0xB4AaABAg",
+        "authorDisplayName": "Alex Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGTQ_sQVQP6vMN2Q3s1PVF_lJLXo2_psRU9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEJythTmTi-6WEYMQLvrJUw",
+        "authorChannelId": {
+          "value": "UCEJythTmTi-6WEYMQLvrJUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-24T08:14:56Z",
+        "updatedAt": "2020-05-24T08:14:56Z"
+      }
+    }
+  ]
+}

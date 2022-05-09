@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BgqZUoTEoijLZsTi6VQ0-rtZnoo",
+  "id": "UgzmfwlbeTobELG8TnZ4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Kcw57JeIPEYntXdTFxdVnhLMwV0",
+      "id": "UgzmfwlbeTobELG8TnZ4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "O app n\u00e3o aparece  que tomei vacina",
+        "textOriginal": "O app n\u00e3o aparece  que tomei vacina",
+        "authorDisplayName": "\u00c9LICA PENTEADO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxCweh6XQbgBu3Z11W_Ss_V0Vs4Gca1VRyPh6kfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDpXV4kVnp9wwcPZ2rKPPJw",
+        "authorChannelId": {
+          "value": "UCDpXV4kVnp9wwcPZ2rKPPJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-02T14:15:45Z",
+        "updatedAt": "2022-03-02T14:15:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cUIiaR51c9ahuUuJEzCzreljRcw",
+      "id": "UgzmfwlbeTobELG8TnZ4AaABAg.9Z4BgMVmi7n9Z4C6941Awa",
+      "snippet": {
+        "textDisplay": "Ir no posto onde vacinou pra incluir",
+        "textOriginal": "Ir no posto onde vacinou pra incluir",
+        "parentId": "UgzmfwlbeTobELG8TnZ4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-02T14:19:24Z",
+        "updatedAt": "2022-03-02T14:19:24Z"
+      }
+    }
+  ]
+}

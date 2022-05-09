@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WZHoE2rD-9FJnMZY3nI6Y6FmAxQ",
+  "id": "UgyU8LxGadfjxV4X1Rt4AaABAg",
+  "snippet": {
+    "videoId": "zN0m66R_HVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eBAb97RROg8jH5hvO6dDsa17s2w",
+      "id": "UgyU8LxGadfjxV4X1Rt4AaABAg",
+      "snippet": {
+        "videoId": "zN0m66R_HVg",
+        "textDisplay": "34 semanas e 2 dias. Esperando minha maria Valentina",
+        "textOriginal": "34 semanas e 2 dias. Esperando minha maria Valentina",
+        "authorDisplayName": "Luiza Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlLqKLvA65AKE8Rgnu6SWiKfVPXCzGn_BK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnhfUjbhtzlNYk8S519dlwQ",
+        "authorChannelId": {
+          "value": "UCnhfUjbhtzlNYk8S519dlwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-07T10:09:09Z",
+        "updatedAt": "2021-10-07T10:09:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KFoABjf3EmgfbdqHo08lldbInuw",
+      "id": "UgyU8LxGadfjxV4X1Rt4AaABAg.9TBoPUB2fix9TBoTML3_wA",
+      "snippet": {
+        "textDisplay": "Que venha com muita sa\u00fade \u2764",
+        "textOriginal": "Que venha com muita sa\u00fade \u2764",
+        "parentId": "UgyU8LxGadfjxV4X1Rt4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-07T10:09:41Z",
+        "updatedAt": "2021-10-07T10:09:41Z"
+      }
+    }
+  ]
+}

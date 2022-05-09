@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EWPQAMyL58-zqmmWnM3aQAa0ty4",
+  "id": "Ugxcye0-mbwTl3_skDR4AaABAg",
+  "snippet": {
+    "videoId": "OTycBm4N8to",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6ltHIZnPuPee7nAc7iealWPOebc",
+      "id": "Ugxcye0-mbwTl3_skDR4AaABAg",
+      "snippet": {
+        "videoId": "OTycBm4N8to",
+        "textDisplay": "Tudo mentira n\u00e3o tem essas mortes que t\u00e3o falando",
+        "textOriginal": "Tudo mentira n\u00e3o tem essas mortes que t\u00e3o falando",
+        "authorDisplayName": "Marciano Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRa2vbPtGJ-bS_b__yWR602QukEbAY5AfN81A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNXvAbJL__OfCKFmXMI7fhQ",
+        "authorChannelId": {
+          "value": "UCNXvAbJL__OfCKFmXMI7fhQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-23T19:35:04Z",
+        "updatedAt": "2020-05-23T19:35:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BfqOXiba0lmqFu0_jSRM5bio2-k",
+      "id": "Ugxcye0-mbwTl3_skDR4AaABAg.990D79rsbNf990Ogs8r6Ag",
+      "snippet": {
+        "textDisplay": "Ser\u00e1??\nSei nao viu..",
+        "textOriginal": "Ser\u00e1??\nSei nao viu..",
+        "parentId": "Ugxcye0-mbwTl3_skDR4AaABAg",
+        "authorDisplayName": "0 2",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1NELj_p88IjnHy_KDFAke7Gwk4qED8iuIDA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU2G1i1bZFg6RVCvcpaAG3w",
+        "authorChannelId": {
+          "value": "UCU2G1i1bZFg6RVCvcpaAG3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-23T21:16:12Z",
+        "updatedAt": "2020-05-23T21:16:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SsFwVB0-EitFDFtjkf0DA5uyQFk",
+  "id": "Ugwds7DkxBvDjjI1T9R4AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "F72o-ZwOsotpPh942x5bfK-A3Y8",
+      "id": "Ugwds7DkxBvDjjI1T9R4AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Oque carteira",
+        "textOriginal": "Oque carteira",
+        "authorDisplayName": "In\u00e1cio Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTio8EV36YAcKdz-FzkjRE3kux2VkzaLcJDq3Y6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVVTW8RPR-UwxjPcnFzoGAg",
+        "authorChannelId": {
+          "value": "UCVVTW8RPR-UwxjPcnFzoGAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-26T13:17:28Z",
+        "updatedAt": "2021-05-26T13:17:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7Exz94B20wkXm0fuoscPAmUFUgs",
+      "id": "Ugwds7DkxBvDjjI1T9R4AaABAg.9No6RRszcfw9NrFWrtl1_7",
+      "snippet": {
+        "textDisplay": "De saude",
+        "textOriginal": "De saude",
+        "parentId": "Ugwds7DkxBvDjjI1T9R4AaABAg",
+        "authorDisplayName": "Afonso Alc\u00e2ntara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-eGKrqlla8F-A4bxgzDqiMbKtf2kbaNIHl2jBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrbnZTc2tkOyhkV1wEnjgfQ",
+        "authorChannelId": {
+          "value": "UCrbnZTc2tkOyhkV1wEnjgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-27T18:34:34Z",
+        "updatedAt": "2021-05-27T18:34:34Z"
+      }
+    }
+  ]
+}

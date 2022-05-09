@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ugnAEQl9q_aIBCWYiOJoyyQVyfk",
+  "id": "UgzpDTKJNaMScN54v7N4AaABAg",
+  "snippet": {
+    "videoId": "jnnC7SDgDs4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lsIwhNTkmhSvJCasedrWZFxqJqA",
+      "id": "UgzpDTKJNaMScN54v7N4AaABAg",
+      "snippet": {
+        "videoId": "jnnC7SDgDs4",
+        "textDisplay": "Por qu\u00e9 Morales habla de \"tenemos\" y \"no fuimos\" si \u00e9l es guatemalteco?",
+        "textOriginal": "Por qu\u00e9 Morales habla de \"tenemos\" y \"no fuimos\" si \u00e9l es guatemalteco?",
+        "authorDisplayName": "Cangrefut",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbBlw4fQZk7SrjY-ilUQ7rnjocxT7rbkk7nMyAY69ClBLmsc38HDHFNTEBthtb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdFE79QEkZS7JmpCDcyqa0w",
+        "authorChannelId": {
+          "value": "UCdFE79QEkZS7JmpCDcyqa0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-21T20:50:23Z",
+        "updatedAt": "2022-04-21T20:50:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CBBn3pKL6AuD87dmHJpfAgEc_W0",
+      "id": "UgzpDTKJNaMScN54v7N4AaABAg.9a5daTFS7Ui9a5ttXwpnWl",
+      "snippet": {
+        "textDisplay": "Ese wey se considera mexicano.",
+        "textOriginal": "Ese wey se considera mexicano.",
+        "parentId": "UgzpDTKJNaMScN54v7N4AaABAg",
+        "authorDisplayName": "Juan Gomez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrYRfeHVSRlBp70ZCSdUDdL8Op_nAPCpKMDP1ixAj_89IYH4hSvTasMfoi3Gkm=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgk2JCVQAmLUgmWIL799SHw",
+        "authorChannelId": {
+          "value": "UCgk2JCVQAmLUgmWIL799SHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-21T23:12:47Z",
+        "updatedAt": "2022-04-21T23:12:47Z"
+      }
+    }
+  ]
+}

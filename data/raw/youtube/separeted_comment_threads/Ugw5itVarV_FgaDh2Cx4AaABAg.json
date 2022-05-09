@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bctWqkuWJXLdNgkyuvlhV8nzeTQ",
+  "id": "Ugw5itVarV_FgaDh2Cx4AaABAg",
+  "snippet": {
+    "videoId": "MmlFqbA2Qno",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ir9OiOf7wJVmjv2hbRMOWPEKx_A",
+      "id": "Ugw5itVarV_FgaDh2Cx4AaABAg",
+      "snippet": {
+        "videoId": "MmlFqbA2Qno",
+        "textDisplay": "Quem j\u00e1 toma a vacina deixa o link",
+        "textOriginal": "Quem j\u00e1 toma a vacina deixa o link",
+        "authorDisplayName": "RD ZIN OFC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyc_J0ODqnEchkS5P9eSaZUPzDWKa5eITjLMEH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUPnzRzIvS7hL7-pbE1Oxdw",
+        "authorChannelId": {
+          "value": "UCUPnzRzIvS7hL7-pbE1Oxdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-08-31T01:51:46Z",
+        "updatedAt": "2021-08-31T01:51:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GZ3VbT1dvC_65T2aguDUffmrKXU",
+      "id": "Ugw5itVarV_FgaDh2Cx4AaABAg.9Rge4CFcaRe9RqaCi-V1VR",
+      "snippet": {
+        "textDisplay": "Que link ?",
+        "textOriginal": "Que link ?",
+        "parentId": "Ugw5itVarV_FgaDh2Cx4AaABAg",
+        "authorDisplayName": "Cara Que Desenha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQoWVVAi8MnVjzzJ0Wc2vIiquXq8WNUx4Mzsfs3Zw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW7Nlf3JUC6kltnx6rH4syQ",
+        "authorChannelId": {
+          "value": "UCW7Nlf3JUC6kltnx6rH4syQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T22:30:23Z",
+        "updatedAt": "2021-09-03T22:30:23Z"
+      }
+    }
+  ]
+}

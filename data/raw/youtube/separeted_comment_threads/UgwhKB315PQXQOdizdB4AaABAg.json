@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VM1ILp87VlBNxdzyK13sPEKmuuM",
+  "id": "UgwhKB315PQXQOdizdB4AaABAg",
+  "snippet": {
+    "videoId": "X_3qDxtc2H4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NQ21EcDOt2FRj4miPOUqrUxAYhw",
+      "id": "UgwhKB315PQXQOdizdB4AaABAg",
+      "snippet": {
+        "videoId": "X_3qDxtc2H4",
+        "textDisplay": "Est\u00e1s restricciones son inhumanas y la verdad es una decisi\u00f3n m\u00e1s pol\u00edtica que sanitaria",
+        "textOriginal": "Est\u00e1s restricciones son inhumanas y la verdad es una decisi\u00f3n m\u00e1s pol\u00edtica que sanitaria",
+        "authorDisplayName": "Maria Madre Mia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa5fJ7wJzxf4tMF8bb9cyxrdNhG-W-6aKOEhaG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuan8GBEveBiwQGDqKR7_2Q",
+        "authorChannelId": {
+          "value": "UCuan8GBEveBiwQGDqKR7_2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 27,
+        "publishedAt": "2022-04-23T20:47:04Z",
+        "updatedAt": "2022-04-23T20:47:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vQv7y7sGyiBqd1KYxwXpw7qNbA8",
+      "id": "UgwhKB315PQXQOdizdB4AaABAg.9aAmnzJIQZ99aIkHDL3D6_",
+      "snippet": {
+        "textDisplay": "Totalmente de acuerdo!!!",
+        "textOriginal": "Totalmente de acuerdo!!!",
+        "parentId": "UgwhKB315PQXQOdizdB4AaABAg",
+        "authorDisplayName": "Graciela Gonzalez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzgwDqJfNlKx0ZjhyXAj33Vw-9wfCtWgBoCTNIOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSzsTApiMOXYl3RRSDkMpPg",
+        "authorChannelId": {
+          "value": "UCSzsTApiMOXYl3RRSDkMpPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-26T22:58:54Z",
+        "updatedAt": "2022-04-26T22:58:54Z"
+      }
+    }
+  ]
+}

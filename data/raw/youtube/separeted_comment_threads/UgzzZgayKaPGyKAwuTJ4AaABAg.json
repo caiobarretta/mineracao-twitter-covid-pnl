@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jrj9Z0iNHVKGQcTcNpS1x5T7-sc",
+  "id": "UgzzZgayKaPGyKAwuTJ4AaABAg",
+  "snippet": {
+    "videoId": "KGxwh39emiE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_VUe-hWfuhzkMbD94AfEIbs82eU",
+      "id": "UgzzZgayKaPGyKAwuTJ4AaABAg",
+      "snippet": {
+        "videoId": "KGxwh39emiE",
+        "textDisplay": "Why some infected patients are just having flu like symptoms while others have serious complications?",
+        "textOriginal": "Why some infected patients are just having flu like symptoms while others have serious complications?",
+        "authorDisplayName": "Shu Wing Lam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRttlOxrcKA3_nx21ZxmcFcW7A0HVYiYPeE0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzUONyMerbS0zff-qyiYWlw",
+        "authorChannelId": {
+          "value": "UCzUONyMerbS0zff-qyiYWlw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-29T00:33:24Z",
+        "updatedAt": "2022-01-29T00:33:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZotseKnW7e5vTsriKplVbeItbaU",
+      "id": "UgzzZgayKaPGyKAwuTJ4AaABAg.9XlK8FWX-fz9XmKdIv_zIh",
+      "snippet": {
+        "textDisplay": "Pre existing cross reactive t cells from other coronaviruses, and vitamin deficiency",
+        "textOriginal": "Pre existing cross reactive t cells from other coronaviruses, and vitamin deficiency",
+        "parentId": "UgzzZgayKaPGyKAwuTJ4AaABAg",
+        "authorDisplayName": "Will R Thomson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUlwVlSlg11kP6aXgu47vqSLjbxR0os6N6bRhUylz312kGEEkhzJ47CmdYzBuS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqzIocOSytU2J2MDSoskofw",
+        "authorChannelId": {
+          "value": "UCqzIocOSytU2J2MDSoskofw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-29T09:57:00Z",
+        "updatedAt": "2022-01-29T09:57:00Z"
+      }
+    }
+  ]
+}

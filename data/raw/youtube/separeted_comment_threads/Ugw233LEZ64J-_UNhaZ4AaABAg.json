@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oA8tfJFvjLCQmwTANLn_AjfPPSY",
+  "id": "Ugw233LEZ64J-_UNhaZ4AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "F1yk9deLrDLGHdlDaW2uwYQSFyg",
+      "id": "Ugw233LEZ64J-_UNhaZ4AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Obrigada pelo v\u00eddeo, me ajudou demais \ud83d\udc4b\ud83d\udc4b\ud83d\udc4b",
+        "textOriginal": "Obrigada pelo v\u00eddeo, me ajudou demais \ud83d\udc4b\ud83d\udc4b\ud83d\udc4b",
+        "authorDisplayName": "Maria Edneia Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUIMRUwJVODTHg3FGq-IfSqJ24u1n54x400osnTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCegeHqBuBZQsl8cs3FkGaSQ",
+        "authorChannelId": {
+          "value": "UCegeHqBuBZQsl8cs3FkGaSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-17T12:39:09Z",
+        "updatedAt": "2021-11-17T12:39:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "frD9BxwldzYzWyeYqoE9SbFPfgE",
+      "id": "Ugw233LEZ64J-_UNhaZ4AaABAg.9UqeA-WDo-y9Uqlkn1dZsx",
+      "snippet": {
+        "textDisplay": "que bom :)",
+        "textOriginal": "que bom :)",
+        "parentId": "Ugw233LEZ64J-_UNhaZ4AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-17T13:45:29Z",
+        "updatedAt": "2021-11-17T13:45:29Z"
+      }
+    }
+  ]
+}

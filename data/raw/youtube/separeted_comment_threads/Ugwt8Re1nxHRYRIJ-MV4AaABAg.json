@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8iNu6E7XpaWEfWOs9F7WEjYynhg",
+  "id": "Ugwt8Re1nxHRYRIJ-MV4AaABAg",
+  "snippet": {
+    "videoId": "bVL16u4O3a8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hPSffYh430LJOC9qehcPSNvaeQs",
+      "id": "Ugwt8Re1nxHRYRIJ-MV4AaABAg",
+      "snippet": {
+        "videoId": "bVL16u4O3a8",
+        "textDisplay": "Esse v\u00eddeo n\u00e3o explica nada S\u00f3 atrapalha",
+        "textOriginal": "Esse v\u00eddeo n\u00e3o explica nada S\u00f3 atrapalha",
+        "authorDisplayName": "Dayvid Charlles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRB_dRmjeGwPTgmQZTli_M2DsCK_reZl-vJAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy-Lq7VZ1qpRdRSdy_LTu4Q",
+        "authorChannelId": {
+          "value": "UCy-Lq7VZ1qpRdRSdy_LTu4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T11:14:20Z",
+        "updatedAt": "2022-01-09T11:14:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2goz3ERhnQKa_Ywyqqtgt8aTvdM",
+      "id": "Ugwt8Re1nxHRYRIJ-MV4AaABAg.9Wyya8uGdrf9Wz1L3wd653",
+      "snippet": {
+        "textDisplay": "Voc\u00ea que \u00e9 limitado, amigo... s\u00f3 aprender a interpretar as informa\u00e7\u00f5es kkkkkkkkk \ud83d\ude18\u2764",
+        "textOriginal": "Voc\u00ea que \u00e9 limitado, amigo... s\u00f3 aprender a interpretar as informa\u00e7\u00f5es kkkkkkkkk \ud83d\ude18\u2764",
+        "parentId": "Ugwt8Re1nxHRYRIJ-MV4AaABAg",
+        "authorDisplayName": "Luciana de Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvFzEa2kplfJEQAfZf6qvRkZU7LsnjpzQeiy3G=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLhXHHF4k4Sxfy6UtnmeArA",
+        "authorChannelId": {
+          "value": "UCLhXHHF4k4Sxfy6UtnmeArA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-01-09T11:47:05Z",
+        "updatedAt": "2022-01-09T11:47:05Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ghHyTt18A_O0te8QuFhcPCwxi5w",
+      "id": "Ugwt8Re1nxHRYRIJ-MV4AaABAg.9Wyya8uGdrf9Wz-ypTknaB",
+      "snippet": {
+        "textDisplay": "\u00c9 porque voc\u00ea \u00e9 limitado... a\u00ed n\u00e3o entende... kkkkkkkkkkk\nNormal isso, cara. Relaxa.",
+        "textOriginal": "\u00c9 porque voc\u00ea \u00e9 limitado... a\u00ed n\u00e3o entende... kkkkkkkkkkk\nNormal isso, cara. Relaxa.",
+        "parentId": "Ugwt8Re1nxHRYRIJ-MV4AaABAg",
+        "authorDisplayName": "Diogo Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgeYObWdc_LgzSjmVJPROaZAyydJMoCsHfS695=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsU-ez_WNWBXutvaiS9c_fA",
+        "authorChannelId": {
+          "value": "UCsU-ez_WNWBXutvaiS9c_fA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-01-09T11:35:11Z",
+        "updatedAt": "2022-01-09T11:35:11Z"
+      }
+    }
+  ]
+}

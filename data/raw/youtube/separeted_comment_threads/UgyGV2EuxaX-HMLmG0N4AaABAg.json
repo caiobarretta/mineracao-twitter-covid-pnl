@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "D12QmMh8txBFAC4mtOZaYnae6I8",
+  "id": "UgyGV2EuxaX-HMLmG0N4AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "u7F1TVFqglNMLNnDYT2sG7jfOEo",
+      "id": "UgyGV2EuxaX-HMLmG0N4AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Parab\u00e9ns, \u00f3tima explica\u00e7\u00e3o: simples direta e sem enrola\u00e7\u00e3o",
+        "textOriginal": "Parab\u00e9ns, \u00f3tima explica\u00e7\u00e3o: simples direta e sem enrola\u00e7\u00e3o",
+        "authorDisplayName": "Ator-Criador",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8CLhhHgyfFRopa8OkywXlYNFO9a5iyPen-ICv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvFe7O1lJFMDzF24jOlOt3A",
+        "authorChannelId": {
+          "value": "UCvFe7O1lJFMDzF24jOlOt3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-10-04T14:09:20Z",
+        "updatedAt": "2021-10-04T14:09:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kEqWGEefZrryIXunrkhkOrETD8w",
+      "id": "UgyGV2EuxaX-HMLmG0N4AaABAg.9T4WVyhy77D9TISB7bynsh",
+      "snippet": {
+        "textDisplay": "N\u00e3o tem como imprimir?",
+        "textOriginal": "N\u00e3o tem como imprimir?",
+        "parentId": "UgyGV2EuxaX-HMLmG0N4AaABAg",
+        "authorDisplayName": "Maria Zita Felix De Mranda Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXWKqwg53rcO6LF5Ok8T5VFj5Jfe4ujZ3svVrrKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_FppSC5zA4Yz0ko0ygDB4g",
+        "authorChannelId": {
+          "value": "UC_FppSC5zA4Yz0ko0ygDB4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-10T00:00:54Z",
+        "updatedAt": "2021-10-10T00:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "1ZleRgF51eYas34Al_9eX9Vfpng",
+      "id": "UgyGV2EuxaX-HMLmG0N4AaABAg.9T4WVyhy77D9T6kdGhEq3E",
+      "snippet": {
+        "textDisplay": "Obrigada \ud83d\ude0d",
+        "textOriginal": "Obrigada \ud83d\ude0d",
+        "parentId": "UgyGV2EuxaX-HMLmG0N4AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-05T11:00:01Z",
+        "updatedAt": "2021-10-05T11:00:01Z"
+      }
+    }
+  ]
+}

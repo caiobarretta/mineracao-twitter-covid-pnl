@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bnBTFRWwJYsqNQ5e-saHl6htHA0",
+  "id": "Ugw7FR7jHUFo5uTbSGx4AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "v-Ip1Uwa9R8hm_XdgzLxC-vWPJU",
+      "id": "Ugw7FR7jHUFo5uTbSGx4AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Obrigada ajudou muuuito \u2764\ufe0f",
+        "textOriginal": "Obrigada ajudou muuuito \u2764\ufe0f",
+        "authorDisplayName": "Thaynara Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7iri5PFUyNBuKL7iGJE41EilpyUgKaKUNiWXhng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMeFhQH4QzWJFsO60uvBjxQ",
+        "authorChannelId": {
+          "value": "UCMeFhQH4QzWJFsO60uvBjxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-29T16:16:48Z",
+        "updatedAt": "2021-09-29T16:16:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5gnUOCQsafvwKJzlJ6-hDrFUJzM",
+      "id": "Ugw7FR7jHUFo5uTbSGx4AaABAg.9Sss7CdffQQ9SuaelNQ2oM",
+      "snippet": {
+        "textDisplay": "que bom, fico feliz :)",
+        "textOriginal": "que bom, fico feliz :)",
+        "parentId": "Ugw7FR7jHUFo5uTbSGx4AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-30T08:22:42Z",
+        "updatedAt": "2021-09-30T08:22:42Z"
+      }
+    }
+  ]
+}

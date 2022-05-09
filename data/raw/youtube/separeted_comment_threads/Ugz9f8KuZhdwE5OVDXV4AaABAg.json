@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Qf4_pNrcByhlz3IHixSIsQq7iT4",
+  "id": "Ugz9f8KuZhdwE5OVDXV4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kqqWnLsnq-TSo87YGWNje0w-VJQ",
+      "id": "Ugz9f8KuZhdwE5OVDXV4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "Que saida lindaaaa \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "Que saida lindaaaa \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "authorDisplayName": "Eu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlX2N04x_ntUlagsIhEsp6eISZaJxfZfIJsxxNVzQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-NStSL5KOLqUzUN-UB15ZQ",
+        "authorChannelId": {
+          "value": "UC-NStSL5KOLqUzUN-UB15ZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T12:07:02Z",
+        "updatedAt": "2022-01-18T12:07:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2jKL_7oXQygjlOnvjvtuUEaqQ5s",
+      "id": "Ugz9f8KuZhdwE5OVDXV4AaABAg.9XLEm0JIk989XLN273n5sm",
+      "snippet": {
+        "textDisplay": "Obrigada \u2764",
+        "textOriginal": "Obrigada \u2764",
+        "parentId": "Ugz9f8KuZhdwE5OVDXV4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T13:19:16Z",
+        "updatedAt": "2022-01-18T13:19:16Z"
+      }
+    }
+  ]
+}

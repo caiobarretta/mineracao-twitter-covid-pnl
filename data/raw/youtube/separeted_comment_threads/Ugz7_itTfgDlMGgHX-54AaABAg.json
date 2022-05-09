@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UPUZRQ2WHAlXxDCRaDAGEikGzP8",
+  "id": "Ugz7_itTfgDlMGgHX-54AaABAg",
+  "snippet": {
+    "videoId": "BtN-goy9VOY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R4GaSt8DJxBLy09IfFj2gV-ug5E",
+      "id": "Ugz7_itTfgDlMGgHX-54AaABAg",
+      "snippet": {
+        "videoId": "BtN-goy9VOY",
+        "textDisplay": "Infinetly better than how the general media explained it.",
+        "textOriginal": "Infinetly better than how the general media explained it.",
+        "authorDisplayName": "Gilded Throne",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROcnLRDA8vIRbsYRkOBB2MPC2XGEaA9_V5urWc0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC324DxLp7KPXGLte1vsEPgw",
+        "authorChannelId": {
+          "value": "UC324DxLp7KPXGLte1vsEPgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 84,
+        "publishedAt": "2022-02-01T22:45:38Z",
+        "updatedAt": "2022-02-01T22:45:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SN4WlYNXMB2LJfaO0wlgkIKWnjc",
+      "id": "Ugz7_itTfgDlMGgHX-54AaABAg.9XvQzV5vDqB9Y6u0BTB7zV",
+      "snippet": {
+        "textDisplay": "Yes",
+        "textOriginal": "Yes",
+        "parentId": "Ugz7_itTfgDlMGgHX-54AaABAg",
+        "authorDisplayName": "timo modric",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQf9MHS4Ihnd1ouCI-XG-oTFD86BVDl-GiK4oeHYSyWwrCjiViWwdt3JdTadoId=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSLKzUPtvP4GwME54m2kk0Q",
+        "authorChannelId": {
+          "value": "UCSLKzUPtvP4GwME54m2kk0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-06T18:58:54Z",
+        "updatedAt": "2022-02-06T18:58:54Z"
+      }
+    }
+  ]
+}

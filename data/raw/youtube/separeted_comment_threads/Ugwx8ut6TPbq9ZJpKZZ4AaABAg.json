@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "njD_RWju33pWFPLl1SDJoA3b0Oo",
+  "id": "Ugwx8ut6TPbq9ZJpKZZ4AaABAg",
+  "snippet": {
+    "videoId": "CVSd0WKy5cs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "A67M08FBa2jX6mRmBNQ-ES6QZ-M",
+      "id": "Ugwx8ut6TPbq9ZJpKZZ4AaABAg",
+      "snippet": {
+        "videoId": "CVSd0WKy5cs",
+        "textDisplay": "Bom dia SANDECO! no trecho \"baseMap.add_child(plugins.HeatMap(coordenadas))\" ele n\u00e3o aceitou os dados no Colab, vi que s\u00e3o vers\u00f5es diferentes do folium. Tem como converter para um formato que o Colab aceite, talvez aquele detalhe das listas. Grato pela aten\u00e7\u00e3o.",
+        "textOriginal": "Bom dia SANDECO! no trecho \"baseMap.add_child(plugins.HeatMap(coordenadas))\" ele n\u00e3o aceitou os dados no Colab, vi que s\u00e3o vers\u00f5es diferentes do folium. Tem como converter para um formato que o Colab aceite, talvez aquele detalhe das listas. Grato pela aten\u00e7\u00e3o.",
+        "authorDisplayName": "Claudio Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSc8AY_QW_b0NHKWtbrqSak0sQq3RmgOvdupaGdjQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEd8SUWfbsvl49DMcMH2EJQ",
+        "authorChannelId": {
+          "value": "UCEd8SUWfbsvl49DMcMH2EJQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-15T15:10:06Z",
+        "updatedAt": "2020-04-15T15:10:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cbu7rZgcsqm3IDFeFDLVhf9k858",
+      "id": "Ugwx8ut6TPbq9ZJpKZZ4AaABAg.97TtaEjbEzi98YAaPfSNnU",
+      "snippet": {
+        "textDisplay": "Tive o mesmo problema, s\u00f3 que no meu caso eu tinha esquecido de importar a sublib 'plugins' do folium rsrs",
+        "textOriginal": "Tive o mesmo problema, s\u00f3 que no meu caso eu tinha esquecido de importar a sublib 'plugins' do folium rsrs",
+        "parentId": "Ugwx8ut6TPbq9ZJpKZZ4AaABAg",
+        "authorDisplayName": "Jairo Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGpy-24Lmhi_gtIXlHG94V_WMUW0qdeBK1OQNDXvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV0P8qSEBamkoli_-xQ4-Mg",
+        "authorChannelId": {
+          "value": "UCV0P8qSEBamkoli_-xQ4-Mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-12T03:35:46Z",
+        "updatedAt": "2020-05-12T03:35:46Z"
+      }
+    }
+  ]
+}

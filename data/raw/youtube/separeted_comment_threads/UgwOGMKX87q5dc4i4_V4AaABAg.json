@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JnfvR0komTygl74wQiVOWWWxwsQ",
+  "id": "UgwOGMKX87q5dc4i4_V4AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qur9dit9Urvy1AWISTUP5k5QaCo",
+      "id": "UgwOGMKX87q5dc4i4_V4AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Bom dia o  meu bloqueou",
+        "textOriginal": "Bom dia o  meu bloqueou",
+        "authorDisplayName": "Alaina Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDaYMRL77IA5zpHKCcCnePIOG_Q2tw8gH4fF0R2nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtzvNELT6WrT6cKbiShk8OQ",
+        "authorChannelId": {
+          "value": "UCtzvNELT6WrT6cKbiShk8OQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-10T15:28:08Z",
+        "updatedAt": "2021-09-10T15:28:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "25NoUdtbh7S3S97wX7-J9lyPYyA",
+      "id": "UgwOGMKX87q5dc4i4_V4AaABAg.9S6rSB9mqQE9S7ZNhSKgeY",
+      "snippet": {
+        "textDisplay": "Vc sabe a raz\u00e3o do bloqueio?",
+        "textOriginal": "Vc sabe a raz\u00e3o do bloqueio?",
+        "parentId": "UgwOGMKX87q5dc4i4_V4AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-10T22:00:44Z",
+        "updatedAt": "2021-09-10T22:00:44Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "v8LjOTJ7kvprHp6sNU6aQ16phyo",
+  "id": "UgyFQUZXdz5LqFtnPUN4AaABAg",
+  "snippet": {
+    "videoId": "LiDpAkyIo-o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zmH_2oJAAhKpSn-PxvN35zHbUho",
+      "id": "UgyFQUZXdz5LqFtnPUN4AaABAg",
+      "snippet": {
+        "videoId": "LiDpAkyIo-o",
+        "textDisplay": "Esse app \u00e9 verdadeiro ou fake New?",
+        "textOriginal": "Esse app \u00e9 verdadeiro ou fake New?",
+        "authorDisplayName": "Kelly Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/m9wlIbdqj0GaDKpO7-1IHplg3KCcULcJ1TtauYytsk5g0VSPcuVz9QW9jBi19HOq7j4kssr7mw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpuyYjfdb7fnUeqHfol-HwQ",
+        "authorChannelId": {
+          "value": "UCpuyYjfdb7fnUeqHfol-HwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-06T10:56:53Z",
+        "updatedAt": "2020-04-06T10:56:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "G634S-VS1FC0kiRA62HNqR4S9Fc",
+      "id": "UgyFQUZXdz5LqFtnPUN4AaABAg.976GSig4uxK976tOIPP8qE",
+      "snippet": {
+        "textDisplay": "S\u00f3 instale aplicativo que esteja na Play Store e que seja de desenvolvedor conhecido.",
+        "textOriginal": "S\u00f3 instale aplicativo que esteja na Play Store e que seja de desenvolvedor conhecido.",
+        "parentId": "UgyFQUZXdz5LqFtnPUN4AaABAg",
+        "authorDisplayName": "Ajuda Aqui",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/tycSCHm3dbIv8qR-3xlTH0hiwFgx2DUVL8g9PeaMxEzwuL_SEMtfyNCiUHIVULLYAFQDC8ha=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQGlbGdLzmG8QzAxi7Ob5EQ",
+        "authorChannelId": {
+          "value": "UCQGlbGdLzmG8QzAxi7Ob5EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-06T16:45:48Z",
+        "updatedAt": "2020-04-06T16:45:48Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "337Okg6TancUb3xIE-LQr1Wl3HA",
+      "id": "UgyFQUZXdz5LqFtnPUN4AaABAg.976GSig4uxK976tFM5esry",
+      "snippet": {
+        "textDisplay": "Oi, verdadeiro do SUS mesmo.",
+        "textOriginal": "Oi, verdadeiro do SUS mesmo.",
+        "parentId": "UgyFQUZXdz5LqFtnPUN4AaABAg",
+        "authorDisplayName": "Ajuda Aqui",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/tycSCHm3dbIv8qR-3xlTH0hiwFgx2DUVL8g9PeaMxEzwuL_SEMtfyNCiUHIVULLYAFQDC8ha=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQGlbGdLzmG8QzAxi7Ob5EQ",
+        "authorChannelId": {
+          "value": "UCQGlbGdLzmG8QzAxi7Ob5EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-06T16:44:35Z",
+        "updatedAt": "2020-04-06T16:44:35Z"
+      }
+    }
+  ]
+}

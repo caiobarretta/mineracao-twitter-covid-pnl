@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0GJELmlKvxs9LD7PowTi9M-JeOs",
+  "id": "UgzmV48n_C_-N88cO0t4AaABAg",
+  "snippet": {
+    "videoId": "HawfOT9nZ0U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xstxR69nLxTuF4r2R5ncMPvhx-Y",
+      "id": "UgzmV48n_C_-N88cO0t4AaABAg",
+      "snippet": {
+        "videoId": "HawfOT9nZ0U",
+        "textDisplay": "Han dicho tantas mentiras que ya nadie les cree \ud83e\udd73\u2764\ufe0f la verdad sale a la luz",
+        "textOriginal": "Han dicho tantas mentiras que ya nadie les cree \ud83e\udd73\u2764\ufe0f la verdad sale a la luz",
+        "authorDisplayName": "Rebeca Robles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGCuzYsC5w5lMCgpl6ShnrOAiDY-MaEjm8v5Y7XzmFDt7srYiElIEJnsDopC-L=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-7H-nDzutDhO8c9iofQykg",
+        "authorChannelId": {
+          "value": "UC-7H-nDzutDhO8c9iofQykg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2022-04-29T04:44:15Z",
+        "updatedAt": "2022-04-29T04:44:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wM5N-BYxHd5z1QSV6KIwxBIxKds",
+      "id": "UgzmV48n_C_-N88cO0t4AaABAg.9aOWOOoCpqQ9aW6ZGBRjr6",
+      "snippet": {
+        "textDisplay": "@Diego Ch\u00e1vez el canal",
+        "textOriginal": "@Diego Ch\u00e1vez el canal",
+        "parentId": "UgzmV48n_C_-N88cO0t4AaABAg",
+        "authorDisplayName": "Cristian ruiz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQvcCgkclL9yl7Jrhi7FziIwq8qpX34lk5lw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-7gn3RDmjf0w_Pd8kYymSg",
+        "authorChannelId": {
+          "value": "UC-7gn3RDmjf0w_Pd8kYymSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-02T03:32:28Z",
+        "updatedAt": "2022-05-02T03:32:28Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "2cM0Meggcj0aJFo4ZdPgaSuMf0Y",
+      "id": "UgzmV48n_C_-N88cO0t4AaABAg.9aOWOOoCpqQ9aRgGpM9WEZ",
+      "snippet": {
+        "textDisplay": "El canal o el gobierno? Dx",
+        "textOriginal": "El canal o el gobierno? Dx",
+        "parentId": "UgzmV48n_C_-N88cO0t4AaABAg",
+        "authorDisplayName": "Diego Ch\u00e1vez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXpWTzw5OjKv9cCHm2_i15Mp4D_DYC4SI6YSv50w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJBlRHlLJ2932X0MNyZepWA",
+        "authorChannelId": {
+          "value": "UCJBlRHlLJ2932X0MNyZepWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-30T10:17:04Z",
+        "updatedAt": "2022-04-30T10:17:04Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cR_zWy_s5yq6JZYQkoQl7j4FX_I",
+  "id": "UgwBPDpSw6ekhkFNx3R4AaABAg",
+  "snippet": {
+    "videoId": "D9lnaILJuGc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kv2HLxuOU25yGvtKJOX1cOod3-o",
+      "id": "UgwBPDpSw6ekhkFNx3R4AaABAg",
+      "snippet": {
+        "videoId": "D9lnaILJuGc",
+        "textDisplay": "Muito bom, o v\u00eddeo sobre essa hist\u00f3ria",
+        "textOriginal": "Muito bom, o v\u00eddeo sobre essa hist\u00f3ria",
+        "authorDisplayName": "F. LEMOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8rL7SfYMdWrhVxLqPmYKPKDJ9p932PpGYaw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU828s0FOZy4av0oKw_6kFQ",
+        "authorChannelId": {
+          "value": "UCU828s0FOZy4av0oKw_6kFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-05-15T11:30:57Z",
+        "updatedAt": "2019-05-15T11:30:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "b4XuR-PJeLtVGrEmrUub9DceWjY",
+      "id": "UgwBPDpSw6ekhkFNx3R4AaABAg.8uxKQ5ghcBn8vEnTynhcKV",
+      "snippet": {
+        "textDisplay": "Se o conte\u00fado te agradou, a gente fica feliz junto! \ud83d\ude43",
+        "textOriginal": "Se o conte\u00fado te agradou, a gente fica feliz junto! \ud83d\ude43",
+        "parentId": "UgwBPDpSw6ekhkFNx3R4AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-05-22T15:39:57Z",
+        "updatedAt": "2019-05-22T15:39:57Z"
+      }
+    }
+  ]
+}

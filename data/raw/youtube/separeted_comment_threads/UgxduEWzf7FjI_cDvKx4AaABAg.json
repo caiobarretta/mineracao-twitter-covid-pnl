@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Dbi-JGS97kekS34mLdjHFTEV1Oc",
+  "id": "UgxduEWzf7FjI_cDvKx4AaABAg",
+  "snippet": {
+    "videoId": "zN0m66R_HVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9Xr2eN8SZa5CKE5rstm_Cz9HaUQ",
+      "id": "UgxduEWzf7FjI_cDvKx4AaABAg",
+      "snippet": {
+        "videoId": "zN0m66R_HVg",
+        "textDisplay": "Amei, tou com 34 e 1 dia e nome da minha filha \u00e9 a mesma da sua, Anna Diuly \ud83d\ude0d\ud83e\udd70",
+        "textOriginal": "Amei, tou com 34 e 1 dia e nome da minha filha \u00e9 a mesma da sua, Anna Diuly \ud83d\ude0d\ud83e\udd70",
+        "authorDisplayName": "Mary Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNBPtsny0NPiIRyCYoknMI8nKGt09NPpnLRxHOhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX7kQGqiRKbvScouSZvuqrw",
+        "authorChannelId": {
+          "value": "UCX7kQGqiRKbvScouSZvuqrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-07-29T17:58:50Z",
+        "updatedAt": "2021-07-29T17:58:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Mrf6OK2_H1tBudOO4UmJp9VJTdQ",
+      "id": "UgxduEWzf7FjI_cDvKx4AaABAg.9QOPWFvHONs9QORTVqKs4V",
+      "snippet": {
+        "textDisplay": "@Emily Rhis \ud83e\udd70am\u00e9m",
+        "textOriginal": "@Emily Rhis \ud83e\udd70am\u00e9m",
+        "parentId": "UgxduEWzf7FjI_cDvKx4AaABAg",
+        "authorDisplayName": "Mary Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNBPtsny0NPiIRyCYoknMI8nKGt09NPpnLRxHOhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX7kQGqiRKbvScouSZvuqrw",
+        "authorChannelId": {
+          "value": "UCX7kQGqiRKbvScouSZvuqrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-29T18:15:56Z",
+        "updatedAt": "2021-07-29T18:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "IXPFfr6-epJZ4gM6OmohTiBrXfI",
+      "id": "UgxduEWzf7FjI_cDvKx4AaABAg.9QOPWFvHONs9QOQ-y5lHMt",
+      "snippet": {
+        "textDisplay": "Ai que gracinha \u2764\ud83d\ude0d Que venha com muita sa\u00fade",
+        "textOriginal": "Ai que gracinha \u2764\ud83d\ude0d Que venha com muita sa\u00fade",
+        "parentId": "UgxduEWzf7FjI_cDvKx4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-29T18:03:09Z",
+        "updatedAt": "2021-07-29T18:03:09Z"
+      }
+    }
+  ]
+}

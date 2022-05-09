@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "p1NL2XsSOCi_zpISeHGm2fpjqqo",
+  "id": "UgwyYq5g_VLWIIykY0F4AaABAg",
+  "snippet": {
+    "videoId": "kq8A5mmApm8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KQRyPpjqxEQHEE5rJ1fhyKo_0gw",
+      "id": "UgwyYq5g_VLWIIykY0F4AaABAg",
+      "snippet": {
+        "videoId": "kq8A5mmApm8",
+        "textDisplay": "Excelente v\u00eddeo! Muito informativo! Obrigada!",
+        "textOriginal": "Excelente v\u00eddeo! Muito informativo! Obrigada!",
+        "authorDisplayName": "Sirlei Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ1sOVVCWnaMdK0xsYqECWVrlm558X3VxrpA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQDQtLTMTZJvqwwtJ-6vBFw",
+        "authorChannelId": {
+          "value": "UCQDQtLTMTZJvqwwtJ-6vBFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-25T14:00:58Z",
+        "updatedAt": "2022-03-25T14:00:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "I8xpqekDJvEQC1NG5MMkvha3nQk",
+      "id": "UgwyYq5g_VLWIIykY0F4AaABAg.9_-OHHriUf99_CgzmAfyG3",
+      "snippet": {
+        "textDisplay": "Ol\u00e1! Muito obrigado pelo coment\u00e1rio! Forte abra\u00e7o!",
+        "textOriginal": "Ol\u00e1! Muito obrigado pelo coment\u00e1rio! Forte abra\u00e7o!",
+        "parentId": "UgwyYq5g_VLWIIykY0F4AaABAg",
+        "authorDisplayName": "UniCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR1SUr-fzXw-VIlmTTtrKtqDUJKuUdgn3OTqEk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcfVbI2V8GOOhXokGYYopbA",
+        "authorChannelId": {
+          "value": "UCcfVbI2V8GOOhXokGYYopbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-30T18:03:20Z",
+        "updatedAt": "2022-03-30T18:03:20Z"
+      }
+    }
+  ]
+}

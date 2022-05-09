@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Dvmo5GCaXFBLMN9-a99mQBg2jH8",
+  "id": "UgyQQoIsmygnHB1lus54AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R_QwGum15I1RwyBQlpKtUxMCDls",
+      "id": "UgyQQoIsmygnHB1lus54AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Obgdo, inform. Grande valia",
+        "textOriginal": "Obgdo, inform. Grande valia",
+        "authorDisplayName": "Joao Roberto Caieiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_JUFVa-hjglrV6eaxAKG-_1genIMUYXVfGG3w28E=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWnHm7OIP1NI8SBPyqaGkjQ",
+        "authorChannelId": {
+          "value": "UCWnHm7OIP1NI8SBPyqaGkjQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-01-22T15:30:50Z",
+        "updatedAt": "2021-01-22T15:30:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1Tj6BY9f_ubiysQZymzKN1_cWfw",
+      "id": "UgyQQoIsmygnHB1lus54AaABAg.9Ip37mUyf159IryPU68You",
+      "snippet": {
+        "textDisplay": "Valew",
+        "textOriginal": "Valew",
+        "parentId": "UgyQQoIsmygnHB1lus54AaABAg",
+        "authorDisplayName": "Afonso Alc\u00e2ntara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-eGKrqlla8F-A4bxgzDqiMbKtf2kbaNIHl2jBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrbnZTc2tkOyhkV1wEnjgfQ",
+        "authorChannelId": {
+          "value": "UCrbnZTc2tkOyhkV1wEnjgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-23T18:38:32Z",
+        "updatedAt": "2021-01-23T18:38:32Z"
+      }
+    }
+  ]
+}

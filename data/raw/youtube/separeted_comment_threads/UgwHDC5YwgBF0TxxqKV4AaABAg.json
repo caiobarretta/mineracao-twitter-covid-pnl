@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NUc9QiL1typzEM-JuEM8XZULMKY",
+  "id": "UgwHDC5YwgBF0TxxqKV4AaABAg",
+  "snippet": {
+    "videoId": "gbSRoLZoFhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-mNuB_SR1ae5lMyvSIzVWvLn3m4",
+      "id": "UgwHDC5YwgBF0TxxqKV4AaABAg",
+      "snippet": {
+        "videoId": "gbSRoLZoFhI",
+        "textDisplay": "Eu n\u00e3o entendi como ficaria o c\u00f3digo sem copiar do POSTMAN para o momento que se deve passar usu\u00e1rio e senha. O POSTMAN no c\u00f3digo simplesmente solta um:\n\nheaders = {\r\n  'Authorization': 'Basic aW11bml6YWNhb19wdWJsaWM6cWx0bzV0JjdyX0ArI1Rsc3RpZ2k=',\r\n  'Content-Type': 'application/json',\r\n  'Cookie': 'ELASTIC-PROD=1618079452.839.9136.791476'\r\n}\n\nSe for colocar no c\u00f3digo sem usar o POSTMAN, como fica a quest\u00e3o do usu\u00e1rio e senha informado no site do DATASUS?",
+        "textOriginal": "Eu n\u00e3o entendi como ficaria o c\u00f3digo sem copiar do POSTMAN para o momento que se deve passar usu\u00e1rio e senha. O POSTMAN no c\u00f3digo simplesmente solta um:\n\nheaders = {\r\n  'Authorization': 'Basic aW11bml6YWNhb19wdWJsaWM6cWx0bzV0JjdyX0ArI1Rsc3RpZ2k=',\r\n  'Content-Type': 'application/json',\r\n  'Cookie': 'ELASTIC-PROD=1618079452.839.9136.791476'\r\n}\n\nSe for colocar no c\u00f3digo sem usar o POSTMAN, como fica a quest\u00e3o do usu\u00e1rio e senha informado no site do DATASUS?",
+        "authorDisplayName": "Antonio Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1sTuAFNzzDKe1pb2bxnvTdiXWW996jx5MoQRICQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKiag-7p1igaR7GaM5Y9Pdw",
+        "authorChannelId": {
+          "value": "UCKiag-7p1igaR7GaM5Y9Pdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-14T07:52:48Z",
+        "updatedAt": "2021-04-14T07:52:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cF1eaKTl_HMB4Fh6eneC5jXe9KM",
+      "id": "UgwHDC5YwgBF0TxxqKV4AaABAg.9M6Ntl3Xv1N9M6vtNLEypW",
+      "snippet": {
+        "textDisplay": "Oi Antonio, uma op\u00e7\u00e3o seria:\n\nrequests.get(url, auth=HTTPBasicAuth('user', 'inserir-senha'))\n\npara isso precisamos importar from requests.auth import HTTPBasicAuth\n\nespero ter ajudado!",
+        "textOriginal": "Oi Antonio, uma op\u00e7\u00e3o seria:\n\nrequests.get(url, auth=HTTPBasicAuth('user', 'inserir-senha'))\n\npara isso precisamos importar from requests.auth import HTTPBasicAuth\n\nespero ter ajudado!",
+        "parentId": "UgwHDC5YwgBF0TxxqKV4AaABAg",
+        "authorDisplayName": "Programa\u00e7\u00e3o Din\u00e2mica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRF8uYoPtR38nc4HOUKqNewFRKqxrSKz_yFCKa1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg",
+        "authorChannelId": {
+          "value": "UC70mr11REaCqgKke7DPJoLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-14T12:58:34Z",
+        "updatedAt": "2021-04-14T12:58:34Z"
+      }
+    }
+  ]
+}

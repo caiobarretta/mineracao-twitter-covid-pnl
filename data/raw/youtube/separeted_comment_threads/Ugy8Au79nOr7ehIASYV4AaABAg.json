@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MdVn1FHbYqYuLd0RR8oY1BzqK3M",
+  "id": "Ugy8Au79nOr7ehIASYV4AaABAg",
+  "snippet": {
+    "videoId": "tukFXjFnzjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SONwTWM0_Q0PPBq-Df6nhPZQ4Zs",
+      "id": "Ugy8Au79nOr7ehIASYV4AaABAg",
+      "snippet": {
+        "videoId": "tukFXjFnzjU",
+        "textDisplay": "Depois de 15 dias de sintomas o teste funciona?",
+        "textOriginal": "Depois de 15 dias de sintomas o teste funciona?",
+        "authorDisplayName": "Viviane Bernardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCx0BHMQHOTytdL8pSuVcbX-G9N1CC_F6h8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLzE-6DXjIBwOR89CdvH0iA",
+        "authorChannelId": {
+          "value": "UCLzE-6DXjIBwOR89CdvH0iA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-05-18T14:20:04Z",
+        "updatedAt": "2021-05-18T14:20:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FD-Q7P6NqsTCph6DVk4QUbGFTV0",
+      "id": "Ugy8Au79nOr7ehIASYV4AaABAg.9NUcF1litDm9Oi6LTy-YID",
+      "snippet": {
+        "textDisplay": "Ent\u00e3o N\u00e3o \u00e9 teste r\u00e1pido?",
+        "textOriginal": "Ent\u00e3o N\u00e3o \u00e9 teste r\u00e1pido?",
+        "parentId": "Ugy8Au79nOr7ehIASYV4AaABAg",
+        "authorDisplayName": "Tyeuda Gonsalves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSBR5W-OaOZJ8_7oQRomw6t_i9U_u-xqLyoPkZ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC-AUWPzEibjaZPHvLIe_Hw",
+        "authorChannelId": {
+          "value": "UCC-AUWPzEibjaZPHvLIe_Hw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-18T01:52:36Z",
+        "updatedAt": "2021-06-18T01:52:36Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "XGKBhuABgxVorQCdPHhcOIj2Yt8",
+      "id": "Ugy8Au79nOr7ehIASYV4AaABAg.9NUcF1litDm9OACd6UFvHA",
+      "snippet": {
+        "textDisplay": "Sim ....",
+        "textOriginal": "Sim ....",
+        "parentId": "Ugy8Au79nOr7ehIASYV4AaABAg",
+        "authorDisplayName": "Rafael oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6zHirBFS17hdRQZwgKP0kq45wVkEb2fIJewlP7G0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXMF_o74MPA1GOT2NMIqJKw",
+        "authorChannelId": {
+          "value": "UCXMF_o74MPA1GOT2NMIqJKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-04T12:34:09Z",
+        "updatedAt": "2021-06-04T12:34:09Z"
+      }
+    }
+  ]
+}

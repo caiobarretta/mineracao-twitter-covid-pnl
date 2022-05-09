@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4KMIGLmYMP8Cxxauj3gE8Bt8s6c",
+  "id": "UgxNfG_hW50UAqS-oHZ4AaABAg",
+  "snippet": {
+    "videoId": "bYMWEgivLsk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ctV_VFLkVmbdYEC4oH1s3-sZSxY",
+      "id": "UgxNfG_hW50UAqS-oHZ4AaABAg",
+      "snippet": {
+        "videoId": "bYMWEgivLsk",
+        "textDisplay": "Anima\u00e7\u00e3o incr\u00edvel! J\u00e1 estava sentindo falta dos v\u00eddeos!",
+        "textOriginal": "Anima\u00e7\u00e3o incr\u00edvel! J\u00e1 estava sentindo falta dos v\u00eddeos!",
+        "authorDisplayName": "Camila Brum",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOYrXWcAfHrHP44ifN_2zMHhJQED-K7l8Dsl7C5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkRR9iCNCR32qPTddxsNtbg",
+        "authorChannelId": {
+          "value": "UCkRR9iCNCR32qPTddxsNtbg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-11T00:54:50Z",
+        "updatedAt": "2021-08-11T00:54:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xvIHFFFs6KgfeVaBTkkb294VHuw",
+      "id": "UgxNfG_hW50UAqS-oHZ4AaABAg.9Qt2edFk2we9QtnAIzlt7P",
+      "snippet": {
+        "textDisplay": "Demorei mas voltei (eu acho hahaha)",
+        "textOriginal": "Demorei mas voltei (eu acho hahaha)",
+        "parentId": "UgxNfG_hW50UAqS-oHZ4AaABAg",
+        "authorDisplayName": "Santa paCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkk4rMARyEEbO3L3Y6R4hgrY5v1pcW5O-u8lcT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCExZrIeyic2vbbRDPKW-37A",
+        "authorChannelId": {
+          "value": "UCExZrIeyic2vbbRDPKW-37A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-11T07:49:59Z",
+        "updatedAt": "2021-08-11T07:49:59Z"
+      }
+    }
+  ]
+}

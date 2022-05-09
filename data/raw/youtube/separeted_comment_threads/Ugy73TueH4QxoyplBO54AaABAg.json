@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8jB3a8hZCgHHEa3-F9ftucp26QU",
+  "id": "Ugy73TueH4QxoyplBO54AaABAg",
+  "snippet": {
+    "videoId": "kW0PGxMCbkE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kFszfphyf7BEILNxDAaliXJCrrs",
+      "id": "Ugy73TueH4QxoyplBO54AaABAg",
+      "snippet": {
+        "videoId": "kW0PGxMCbkE",
+        "textDisplay": "Eu \u00f1 confiu na Oms",
+        "textOriginal": "Eu \u00f1 confiu na Oms",
+        "authorDisplayName": "Magneuza Israel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFZLO-TwfleenxGwSTeV38JEzEP9m2tC9yzw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf10lLMfX_cl_qBoVwoNPTA",
+        "authorChannelId": {
+          "value": "UCf10lLMfX_cl_qBoVwoNPTA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-10T00:45:29Z",
+        "updatedAt": "2020-07-10T00:45:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CJTui0ZhQQbOmrQflx9a7Ce8AHU",
+      "id": "Ugy73TueH4QxoyplBO54AaABAg.9Aun-lAIRmX9BTG22wPW68",
+      "snippet": {
+        "textDisplay": "Confia em quem? No Bolsonaro?",
+        "textOriginal": "Confia em quem? No Bolsonaro?",
+        "parentId": "Ugy73TueH4QxoyplBO54AaABAg",
+        "authorDisplayName": "Djonathan de Mattos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMxQeg2o8KJG1HEKjFPXp_VvaUAg9gYWHAZAg0kik=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxb_4k5g5dHqwgPfnSydbhg",
+        "authorChannelId": {
+          "value": "UCxb_4k5g5dHqwgPfnSydbhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-23T19:21:21Z",
+        "updatedAt": "2020-07-23T19:21:21Z"
+      }
+    }
+  ]
+}

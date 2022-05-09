@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pGavUQUd8Ct6A1xb_apQCP2xs00",
+  "id": "UgxR6LDmqCp1uXTCN1B4AaABAg",
+  "snippet": {
+    "videoId": "KGxwh39emiE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xnn5kzu5yV92T_UtPJfxFvuLDkg",
+      "id": "UgxR6LDmqCp1uXTCN1B4AaABAg",
+      "snippet": {
+        "videoId": "KGxwh39emiE",
+        "textDisplay": "If you get a bad cough, sleep in a chair,  antihistamine before bed.",
+        "textOriginal": "If you get a bad cough, sleep in a chair,  antihistamine before bed.",
+        "authorDisplayName": "Joseph T pg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMlizO6LTExwqMSIpuew9gYjsJjt1O2D6kzqzBDc5pB-fjDnPOKx-Wi9lT5tUs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXZ2603T9VXNlFDEDFD_RAA",
+        "authorChannelId": {
+          "value": "UCXZ2603T9VXNlFDEDFD_RAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-28T16:19:52Z",
+        "updatedAt": "2022-01-28T16:19:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZPmb0KhIeP_hWu0OrapAT23wb-E",
+      "id": "UgxR6LDmqCp1uXTCN1B4AaABAg.9XkRea2vRlF9XleQSXrAsF",
+      "snippet": {
+        "textDisplay": "Wrong\u274c.",
+        "textOriginal": "Wrong\u274c.",
+        "parentId": "UgxR6LDmqCp1uXTCN1B4AaABAg",
+        "authorDisplayName": "Jocelyn Joseph",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ5fbYdFxYZo8VFaJvcw8ewsD80nLsbE5PLg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCviWtTgq3hhEqNk0I0KJw9w",
+        "authorChannelId": {
+          "value": "UCviWtTgq3hhEqNk0I0KJw9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-29T03:39:23Z",
+        "updatedAt": "2022-01-29T03:39:23Z"
+      }
+    }
+  ]
+}

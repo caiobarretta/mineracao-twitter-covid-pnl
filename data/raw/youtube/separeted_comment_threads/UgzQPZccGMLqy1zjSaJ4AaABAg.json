@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YOJiB_3FeJmtmZloHmFFdwgZaQg",
+  "id": "UgzQPZccGMLqy1zjSaJ4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GDIld-sRds813pwVX2rZ9GSE588",
+      "id": "UgzQPZccGMLqy1zjSaJ4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "Achei muita fralda",
+        "textOriginal": "Achei muita fralda",
+        "authorDisplayName": "wcleuma carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlUie0FJznk4jWhltryjOY-LKYgaEtOtKy-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-VyALZy1diiwYOOrwtpdVQ",
+        "authorChannelId": {
+          "value": "UC-VyALZy1diiwYOOrwtpdVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-25T10:49:11Z",
+        "updatedAt": "2021-08-25T10:49:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WnDGI1vD2pCtDjUqgGxQ1BkMC-4",
+      "id": "UgzQPZccGMLqy1zjSaJ4AaABAg.9RT9o31iZn09RTU7bhWmz0",
+      "snippet": {
+        "textDisplay": "Pior que eu usei a maioria kkk",
+        "textOriginal": "Pior que eu usei a maioria kkk",
+        "parentId": "UgzQPZccGMLqy1zjSaJ4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-25T13:46:45Z",
+        "updatedAt": "2021-08-25T13:46:45Z"
+      }
+    }
+  ]
+}

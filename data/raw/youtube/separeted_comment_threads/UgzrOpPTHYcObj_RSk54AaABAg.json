@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ys4--RUnjnUarOo_j4kt-RVwdLo",
+  "id": "UgzrOpPTHYcObj_RSk54AaABAg",
+  "snippet": {
+    "videoId": "h3-ure4GPYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5Mho8lx6ITIyMBzKEk5heByekg0",
+      "id": "UgzrOpPTHYcObj_RSk54AaABAg",
+      "snippet": {
+        "videoId": "h3-ure4GPYE",
+        "textDisplay": "Muito obrigado mano !!! valeuz\u00e3o.",
+        "textOriginal": "Muito obrigado mano !!! valeuz\u00e3o.",
+        "authorDisplayName": "Tuann Guedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuuW-s8XrrW2qfGx9zqg6Clf6PL7TadCIDMWhrow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2nIX3isSW4ddaE3H06dziQ",
+        "authorChannelId": {
+          "value": "UC2nIX3isSW4ddaE3H06dziQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-04T18:15:26Z",
+        "updatedAt": "2021-12-04T18:15:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hAfMaMrK7YxwWgRKSxzrxliyX80",
+      "id": "UgzrOpPTHYcObj_RSk54AaABAg.9VY19qW53bm9WJB1_NDoU_",
+      "snippet": {
+        "textDisplay": "Disponha!",
+        "textOriginal": "Disponha!",
+        "parentId": "UgzrOpPTHYcObj_RSk54AaABAg",
+        "authorDisplayName": "Comer, Amar e Viajar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpfo7CvhgLj-Xn5EHZNXqhX-gJSn99lG_7DVDz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ4ztwBOKpqp5jemSF4D93Q",
+        "authorChannelId": {
+          "value": "UCQ4ztwBOKpqp5jemSF4D93Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-23T20:24:28Z",
+        "updatedAt": "2021-12-23T20:24:28Z"
+      }
+    }
+  ]
+}

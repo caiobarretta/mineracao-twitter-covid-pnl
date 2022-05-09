@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bqr4twOOtIQ4WxaPQGBfEUqYDMM",
+  "id": "Ugxp3RossWLSOR6NGfR4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QLgB91HgY34-sOkI10tCTTuevAY",
+      "id": "Ugxp3RossWLSOR6NGfR4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Top",
+        "textOriginal": "Top",
+        "authorDisplayName": "Jo\u00e3o Paulo Gomes Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSV2BFw8sruZu1Oxpp0Qe43GnIibWsenj9T0v48XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7gsfqyEdZou3M1xsApLUWw",
+        "authorChannelId": {
+          "value": "UC7gsfqyEdZou3M1xsApLUWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-24T21:47:06Z",
+        "updatedAt": "2021-12-24T21:47:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NhTdJrtWHP-cj0KTKgg0PYi97n8",
+      "id": "Ugxp3RossWLSOR6NGfR4AaABAg.9WLuHiQ09949WLy537xm6A",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d\ud83c\udffc",
+        "textOriginal": "\ud83d\udc4d\ud83c\udffc",
+        "parentId": "Ugxp3RossWLSOR6NGfR4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-24T22:20:20Z",
+        "updatedAt": "2021-12-24T22:20:20Z"
+      }
+    }
+  ]
+}

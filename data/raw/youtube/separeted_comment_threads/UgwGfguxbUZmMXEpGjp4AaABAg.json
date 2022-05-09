@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fRfMB-n5cDE4xGly8jhONRjBWiI",
+  "id": "UgwGfguxbUZmMXEpGjp4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "noaLoCdj6rDc8lx_RBjTNYo-MkM",
+      "id": "UgwGfguxbUZmMXEpGjp4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "E a toalha?",
+        "textOriginal": "E a toalha?",
+        "authorDisplayName": "Tatiele Maetins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRclH4JpuM7G5HiF4nZ7JPkg_uSmonCHtVfZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiXOb4YFDTkd7q-chyIukng",
+        "authorChannelId": {
+          "value": "UCiXOb4YFDTkd7q-chyIukng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-25T20:22:53Z",
+        "updatedAt": "2021-07-25T20:22:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6S-AaPZ6DyIHk8YCnykzx8Leb8Y",
+      "id": "UgwGfguxbUZmMXEpGjp4AaABAg.9QEMooXGQcj9QENKjc0z3b",
+      "snippet": {
+        "textDisplay": "Coloquei em outra bolsa...",
+        "textOriginal": "Coloquei em outra bolsa...",
+        "parentId": "UgwGfguxbUZmMXEpGjp4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-25T20:27:22Z",
+        "updatedAt": "2021-07-25T20:27:22Z"
+      }
+    }
+  ]
+}

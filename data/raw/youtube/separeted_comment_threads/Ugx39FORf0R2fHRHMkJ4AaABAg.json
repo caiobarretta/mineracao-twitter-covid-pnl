@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mIK8ILzElnHOHLntGTvfZHh1RGw",
+  "id": "Ugx39FORf0R2fHRHMkJ4AaABAg",
+  "snippet": {
+    "videoId": "i0ZabxXmH4Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aatE2inrS4B2mSnCT_uTDXBuYII",
+      "id": "Ugx39FORf0R2fHRHMkJ4AaABAg",
+      "snippet": {
+        "videoId": "i0ZabxXmH4Y",
+        "textDisplay": "Biggest scam ever !",
+        "textOriginal": "Biggest scam ever !",
+        "authorDisplayName": "Rohit Sharma",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWZemcHM8NyqtUCyXkQy2zCTjBwQ9mfcUujUYvpw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa5sBnAO0_W2TOPqtMjAbWw",
+        "authorChannelId": {
+          "value": "UCa5sBnAO0_W2TOPqtMjAbWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-22T22:03:10Z",
+        "updatedAt": "2021-02-22T22:03:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ttngxN4SqE2rO2wciK3xAR5fCXg",
+      "id": "Ugx39FORf0R2fHRHMkJ4AaABAg.9K4_fQWNCrx9KFJhWRmpiT",
+      "snippet": {
+        "textDisplay": "So is the medical degree you think you have",
+        "textOriginal": "So is the medical degree you think you have",
+        "parentId": "Ugx39FORf0R2fHRHMkJ4AaABAg",
+        "authorDisplayName": "Raphael Miguel Balon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxMDRaLcb3vrOlmP4XwOL0DGDhcE4cqf0bzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB3bb1eV3qx0hyg5DjNJzJw",
+        "authorChannelId": {
+          "value": "UCB3bb1eV3qx0hyg5DjNJzJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-27T02:06:32Z",
+        "updatedAt": "2021-02-27T02:06:32Z"
+      }
+    }
+  ]
+}

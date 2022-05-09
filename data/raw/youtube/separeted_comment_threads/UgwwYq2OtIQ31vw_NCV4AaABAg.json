@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bwq1g8hbUbwOHnKeSqzoq-sMnAc",
+  "id": "UgwwYq2OtIQ31vw_NCV4AaABAg",
+  "snippet": {
+    "videoId": "tukFXjFnzjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ldw7Y4NA7EFGo6pEl6uAlwITwwY",
+      "id": "UgwwYq2OtIQ31vw_NCV4AaABAg",
+      "snippet": {
+        "videoId": "tukFXjFnzjU",
+        "textDisplay": "Ol\u00e1\nBoa noite se o paciente deu positivo quando pode realizar o teste novamente?",
+        "textOriginal": "Ol\u00e1\nBoa noite se o paciente deu positivo quando pode realizar o teste novamente?",
+        "authorDisplayName": "Ana Paula Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgzjlusDbgIyt5miYMo3pzOkM6PiMDXTgRMw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdpWbmMlJv15PS3kqa6pJBQ",
+        "authorChannelId": {
+          "value": "UCdpWbmMlJv15PS3kqa6pJBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2020-07-20T01:35:52Z",
+        "updatedAt": "2020-07-20T01:35:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WJfCZj_qFWY3nhsBDsEUo5S2atA",
+      "id": "UgwwYq2OtIQ31vw_NCV4AaABAg.9BJciawuIOP9TMH12WB7wF",
+      "snippet": {
+        "textDisplay": "Tbm qria saber",
+        "textOriginal": "Tbm qria saber",
+        "parentId": "UgwwYq2OtIQ31vw_NCV4AaABAg",
+        "authorDisplayName": "Rodrygo Antonio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVAaHGL20T2bYjf0AxAvK72ZU6k3-Su2_UZs4E0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4no_Hct_4p6LdEuNdchhtg",
+        "authorChannelId": {
+          "value": "UC4no_Hct_4p6LdEuNdchhtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-11T11:40:22Z",
+        "updatedAt": "2021-10-11T11:40:22Z"
+      }
+    }
+  ]
+}

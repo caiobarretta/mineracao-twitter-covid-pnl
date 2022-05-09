@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M_GTxslozOpPNM1vJrqiOonUkZ8",
+  "id": "UgwEvSd8e_4FxlCC9ml4AaABAg",
+  "snippet": {
+    "videoId": "tukFXjFnzjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XHbXK0iC8aVC8xSJ71OhrIMWZUc",
+      "id": "UgwEvSd8e_4FxlCC9ml4AaABAg",
+      "snippet": {
+        "videoId": "tukFXjFnzjU",
+        "textDisplay": "Muito \u00fatil !",
+        "textOriginal": "Muito \u00fatil !",
+        "authorDisplayName": "Renata GF",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGR52NedOwICoOZko_vYgoncLROJtvE7v1aVckvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0T-pHoxoG93Gcwkotjm6gg",
+        "authorChannelId": {
+          "value": "UC0T-pHoxoG93Gcwkotjm6gg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-07-09T23:19:40Z",
+        "updatedAt": "2020-07-09T23:19:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Prl7k_W--E6xTD8PpZ--_WU8FZo",
+      "id": "UgwEvSd8e_4FxlCC9ml4AaABAg.9AudBJfVs0X9XE10i6TPdd",
+      "snippet": {
+        "textDisplay": "Ola Renata, boa Tarde",
+        "textOriginal": "Ola Renata, boa Tarde",
+        "parentId": "UgwEvSd8e_4FxlCC9ml4AaABAg",
+        "authorDisplayName": "Zgely d'sousa Domingos Domingos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKdLVGNfXEDvkMbHTQSI-2RXsTrVrnb5DY7IEf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9KtdbEkZ99vu6Q1I4vKlFA",
+        "authorChannelId": {
+          "value": "UC9KtdbEkZ99vu6Q1I4vKlFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-15T16:52:10Z",
+        "updatedAt": "2022-01-15T16:52:10Z"
+      }
+    }
+  ]
+}

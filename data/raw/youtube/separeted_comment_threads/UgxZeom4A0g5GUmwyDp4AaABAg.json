@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iQ5ahC0sot1qY3hcAR_lNSByT-A",
+  "id": "UgxZeom4A0g5GUmwyDp4AaABAg",
+  "snippet": {
+    "videoId": "D6z3lamGtA8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oFJ6CvPRN7svv_i5FMDUu6sBykk",
+      "id": "UgxZeom4A0g5GUmwyDp4AaABAg",
+      "snippet": {
+        "videoId": "D6z3lamGtA8",
+        "textDisplay": "Excelente produ\u00e7\u00e3o. Bastante did\u00e1tico, linguagem clara e objetiva. Parab\u00e9ns aos envolvidos.",
+        "textOriginal": "Excelente produ\u00e7\u00e3o. Bastante did\u00e1tico, linguagem clara e objetiva. Parab\u00e9ns aos envolvidos.",
+        "authorDisplayName": "Jack",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSO4o3wJPz-KSOZqq5oCPKONUtfsIuZ-aT-7TZRMOc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOArpEtHEIFZH9GcEjqfE9Q",
+        "authorChannelId": {
+          "value": "UCOArpEtHEIFZH9GcEjqfE9Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-01-29T02:59:10Z",
+        "updatedAt": "2021-01-29T02:59:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DGR3j-Tkuk4i6Rs2Vo9F0ceOTBA",
+      "id": "UgxZeom4A0g5GUmwyDp4AaABAg.9J4jfc40_bN9J5wArMbNVY",
+      "snippet": {
+        "textDisplay": "Valeu. Vamos seguindo na divulga\u00e7\u00e3o.",
+        "textOriginal": "Valeu. Vamos seguindo na divulga\u00e7\u00e3o.",
+        "parentId": "UgxZeom4A0g5GUmwyDp4AaABAg",
+        "authorDisplayName": "Sobre cidades, zumbis e neoliberalismo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtxqZuk4N4V2-uU-ZOxWpGLQ_QVSn0W07Or-W4rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu8bZMiooRUpjYeKxVFnnGg",
+        "authorChannelId": {
+          "value": "UCu8bZMiooRUpjYeKxVFnnGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-29T14:07:40Z",
+        "updatedAt": "2021-01-29T14:07:40Z"
+      }
+    }
+  ]
+}

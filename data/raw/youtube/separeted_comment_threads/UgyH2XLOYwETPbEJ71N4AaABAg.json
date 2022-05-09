@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vPbWS96CCW7n4JHuPMjJo-jjYlg",
+  "id": "UgyH2XLOYwETPbEJ71N4AaABAg",
+  "snippet": {
+    "videoId": "r55udsjMG8Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zwbrUASfrkrUItW6HXS3u96jnqg",
+      "id": "UgyH2XLOYwETPbEJ71N4AaABAg",
+      "snippet": {
+        "videoId": "r55udsjMG8Q",
+        "textDisplay": "Mais terrorismo",
+        "textOriginal": "Mais terrorismo",
+        "authorDisplayName": "jaime paulo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2aoTmeJrOpyDqfrj9oRDYivWuMKePrT1MHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIRbM_gvcYMGRdr2VIiFtlg",
+        "authorChannelId": {
+          "value": "UCIRbM_gvcYMGRdr2VIiFtlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-23T23:35:24Z",
+        "updatedAt": "2021-11-23T23:35:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zKhbCoWiHPmsl9xyijPTfiJfH5g",
+      "id": "UgyH2XLOYwETPbEJ71N4AaABAg.9V6H1mqrgCv9V6Ur9O8PWr",
+      "snippet": {
+        "textDisplay": "Quer noticinha levinha?\nAssista Ana Maria Braga.",
+        "textOriginal": "Quer noticinha levinha?\nAssista Ana Maria Braga.",
+        "parentId": "UgyH2XLOYwETPbEJ71N4AaABAg",
+        "authorDisplayName": "Livraria Phylos - Livraria e Sebo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AStyK9G0tlVJax5EOzR1rXocTjnAFaXgT2fwYc7v13vz-Ls5YesYCulbzdyuK-QYe_yO7xdc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoQY2rLZN1hh5mkvaTLttUQ",
+        "authorChannelId": {
+          "value": "UCoQY2rLZN1hh5mkvaTLttUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-24T01:36:09Z",
+        "updatedAt": "2021-11-24T01:36:09Z"
+      }
+    }
+  ]
+}

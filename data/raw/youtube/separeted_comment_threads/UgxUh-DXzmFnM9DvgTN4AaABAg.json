@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OosgkG9kUVWL8J5ZoH3k0U7lxQ0",
+  "id": "UgxUh-DXzmFnM9DvgTN4AaABAg",
+  "snippet": {
+    "videoId": "m_ahO-D32oM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "g8P8EFq262SU_wm9xbx-cEiIAfc",
+      "id": "UgxUh-DXzmFnM9DvgTN4AaABAg",
+      "snippet": {
+        "videoId": "m_ahO-D32oM",
+        "textDisplay": "Vamos soltar os bandidos!!!! Eles s\u00e3o uns coitadinhos",
+        "textOriginal": "Vamos soltar os bandidos!!!! Eles s\u00e3o uns coitadinhos",
+        "authorDisplayName": "ARW",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSnyXv7sPl9p_B43IizzLt4QMnKd9JOHtSLI-x=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeeSNGnJ0p7IaSrd58sif_Q",
+        "authorChannelId": {
+          "value": "UCeeSNGnJ0p7IaSrd58sif_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-11-03T17:45:45Z",
+        "updatedAt": "2020-11-03T17:45:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aLaosrf6fZWgsybF2_eH193atDM",
+      "id": "UgxUh-DXzmFnM9DvgTN4AaABAg.9FbIz0QanSo9V0fz3dAA7e",
+      "snippet": {
+        "textDisplay": "Rsrsrs",
+        "textOriginal": "Rsrsrs",
+        "parentId": "UgxUh-DXzmFnM9DvgTN4AaABAg",
+        "authorDisplayName": "Alan Vitor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDYWxaEj5RGxvkNB6Cdedj5nzcKwG3nskSqnMMAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwX2TMoCqVa_gUzdVHqFm2g",
+        "authorChannelId": {
+          "value": "UCwX2TMoCqVa_gUzdVHqFm2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-21T19:26:39Z",
+        "updatedAt": "2021-11-21T19:26:39Z"
+      }
+    }
+  ]
+}

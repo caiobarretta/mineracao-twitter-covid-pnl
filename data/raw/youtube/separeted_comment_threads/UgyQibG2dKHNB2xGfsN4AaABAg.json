@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6AgiU2BzJl8az9Ap6BQR6BEra2g",
+  "id": "UgyQibG2dKHNB2xGfsN4AaABAg",
+  "snippet": {
+    "videoId": "TAOb4hpBZhQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "985tPqIMBNa-clpVA_0D0eYyy3Y",
+      "id": "UgyQibG2dKHNB2xGfsN4AaABAg",
+      "snippet": {
+        "videoId": "TAOb4hpBZhQ",
+        "textDisplay": "S\u00f3 Deus por n\u00f3s",
+        "textOriginal": "S\u00f3 Deus por n\u00f3s",
+        "authorDisplayName": "Douglas Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzJZkJVYg-klkZyOMMJliGKykCEa1sEFXcLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUAuRfqODszOro0T1AhdSPg",
+        "authorChannelId": {
+          "value": "UCUAuRfqODszOro0T1AhdSPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-04-18T14:07:01Z",
+        "updatedAt": "2021-04-18T14:07:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8VyhXj9xdPy_mw4Is3PgJJ9h-Ak",
+      "id": "UgyQibG2dKHNB2xGfsN4AaABAg.9MHLu9iesvy9N0YRVVunMe",
+      "snippet": {
+        "textDisplay": "s\u00f3 os cientistas",
+        "textOriginal": "s\u00f3 os cientistas",
+        "parentId": "UgyQibG2dKHNB2xGfsN4AaABAg",
+        "authorDisplayName": "Edgar Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNa53XYIrqNA3OpQ57HmouJD-1TSF2bcmXjEP7Zdo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX0um9KuFvUr0_mt51Y9cYQ",
+        "authorChannelId": {
+          "value": "UCX0um9KuFvUr0_mt51Y9cYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-06T22:00:52Z",
+        "updatedAt": "2021-05-06T22:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "URA42YGFbFjdDBWP-eNF4LYH4bU",
+      "id": "UgyQibG2dKHNB2xGfsN4AaABAg.9MHLu9iesvy9MI80b5MziI",
+      "snippet": {
+        "textDisplay": "Ol\u00e1, Douglas! Obrigado pelo coment\u00e1rio. Esperamos que Ele d\u00ea for\u00e7a a todos os pacientes, profissionais de sa\u00fade, pesquisadores, e tantas outras pessoas que lutam para que essa pandemia acabe o mais cedo poss\u00edvel. Forte abra\u00e7o e muita sa\u00fade!",
+        "textOriginal": "Ol\u00e1, Douglas! Obrigado pelo coment\u00e1rio. Esperamos que Ele d\u00ea for\u00e7a a todos os pacientes, profissionais de sa\u00fade, pesquisadores, e tantas outras pessoas que lutam para que essa pandemia acabe o mais cedo poss\u00edvel. Forte abra\u00e7o e muita sa\u00fade!",
+        "parentId": "UgyQibG2dKHNB2xGfsN4AaABAg",
+        "authorDisplayName": "UniCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR1SUr-fzXw-VIlmTTtrKtqDUJKuUdgn3OTqEk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcfVbI2V8GOOhXokGYYopbA",
+        "authorChannelId": {
+          "value": "UCcfVbI2V8GOOhXokGYYopbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-18T21:24:56Z",
+        "updatedAt": "2021-04-18T21:25:13Z"
+      }
+    }
+  ]
+}

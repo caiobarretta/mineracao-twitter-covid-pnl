@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wHzK5LPLm9dsJWmGraPM0xlBXC0",
+  "id": "UgztmRq4l-AXGJLs6B54AaABAg",
+  "snippet": {
+    "videoId": "rrI5ibkDPk0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5cUiGKpyc-oGZKGB_T19fdfw5d4",
+      "id": "UgztmRq4l-AXGJLs6B54AaABAg",
+      "snippet": {
+        "videoId": "rrI5ibkDPk0",
+        "textDisplay": "T\u00f4 aqui ligadinho na live",
+        "textOriginal": "T\u00f4 aqui ligadinho na live",
+        "authorDisplayName": "Cleilcio Leandro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCWgrLjFtD-h4OpcJ893BMykKbTlQ1mwSEKzDyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9FEUGWa_AocqIgk89JzcRQ",
+        "authorChannelId": {
+          "value": "UC9FEUGWa_AocqIgk89JzcRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-07T01:06:27Z",
+        "updatedAt": "2020-08-07T01:06:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "A55yBMLVNj_Kg9VAx1CZJAvJtvE",
+      "id": "UgztmRq4l-AXGJLs6B54AaABAg.9C1vepOWfQO9C1we-QdS7C",
+      "snippet": {
+        "textDisplay": "Bruno fala um pouco sobre as medidas de preven\u00e7\u00e3o  que a faculdade pretende tomar ap\u00f3s a libera\u00e7\u00e3o das aulas presenciais.",
+        "textOriginal": "Bruno fala um pouco sobre as medidas de preven\u00e7\u00e3o  que a faculdade pretende tomar ap\u00f3s a libera\u00e7\u00e3o das aulas presenciais.",
+        "parentId": "UgztmRq4l-AXGJLs6B54AaABAg",
+        "authorDisplayName": "Cleilcio Leandro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCWgrLjFtD-h4OpcJ893BMykKbTlQ1mwSEKzDyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9FEUGWa_AocqIgk89JzcRQ",
+        "authorChannelId": {
+          "value": "UC9FEUGWa_AocqIgk89JzcRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-07T01:15:04Z",
+        "updatedAt": "2020-08-07T01:15:04Z"
+      }
+    }
+  ]
+}

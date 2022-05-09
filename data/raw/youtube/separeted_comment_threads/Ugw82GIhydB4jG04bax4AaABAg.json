@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "e3e20VgcA0gMwfZu7fcdyNA8v9s",
+  "id": "Ugw82GIhydB4jG04bax4AaABAg",
+  "snippet": {
+    "videoId": "HQbOitW5uPw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OeMCxD3KZThp0A6xWyP6HEaoHOo",
+      "id": "Ugw82GIhydB4jG04bax4AaABAg",
+      "snippet": {
+        "videoId": "HQbOitW5uPw",
+        "textDisplay": "Wikipedia xd ni siquiera parafraseo nada",
+        "textOriginal": "Wikipedia xd ni siquiera parafraseo nada",
+        "authorDisplayName": "mariana Trech MaderoBlake",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEus3Cfr2fsteya6P0oCw_oFiTLnFrCKjrT4iN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTCAphBAp5eYCHAAEnYQnHQ",
+        "authorChannelId": {
+          "value": "UCTCAphBAp5eYCHAAEnYQnHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-15T05:54:57Z",
+        "updatedAt": "2020-03-15T05:54:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OaIXOL4vVILzCB03PSZgS632ttU",
+      "id": "Ugw82GIhydB4jG04bax4AaABAg.96D4Q-8MKUy979YRZ-G0He",
+      "snippet": {
+        "textDisplay": "Es una enciclopedia por eso sus art\u00edculos son extensos y con muchos detalles.",
+        "textOriginal": "Es una enciclopedia por eso sus art\u00edculos son extensos y con muchos detalles.",
+        "parentId": "Ugw82GIhydB4jG04bax4AaABAg",
+        "authorDisplayName": "Guillermo Trillo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4U7S_Y34Q2w1jKszJCml-nEEZeVI4aK1iPdpNAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSwx-yoCpA1OfiisoqwLivw",
+        "authorChannelId": {
+          "value": "UCSwx-yoCpA1OfiisoqwLivw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-07T17:31:44Z",
+        "updatedAt": "2020-04-07T17:31:44Z"
+      }
+    }
+  ]
+}

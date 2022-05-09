@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C17YJV0Ry42I-y3fnng9GrKlUJA",
+  "id": "UgxM7ZgoGVymeAdHWt14AaABAg",
+  "snippet": {
+    "videoId": "KGxwh39emiE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2RnnD7_FCfM0AeLev2LyD2DqsGk",
+      "id": "UgxM7ZgoGVymeAdHWt14AaABAg",
+      "snippet": {
+        "videoId": "KGxwh39emiE",
+        "textDisplay": "Is there any way to know when a person is vaccinated if the person is less or more likely to be having symptoms?",
+        "textOriginal": "Is there any way to know when a person is vaccinated if the person is less or more likely to be having symptoms?",
+        "authorDisplayName": "Sailor Green Tea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQakFjh-hdj70Di0Gl_XYzOeDUxs9FZ-u985SbI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZB-F2COo_EU2yE-EzXfm0g",
+        "authorChannelId": {
+          "value": "UCZB-F2COo_EU2yE-EzXfm0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-29T05:07:02Z",
+        "updatedAt": "2022-01-29T05:07:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uQDqdfKkgrcmx9NW_fmphfD--98",
+      "id": "UgxM7ZgoGVymeAdHWt14AaABAg.9XloSPYETpG9XmKZS-lpc8",
+      "snippet": {
+        "textDisplay": "No. It's russian roulette.",
+        "textOriginal": "No. It's russian roulette.",
+        "parentId": "UgxM7ZgoGVymeAdHWt14AaABAg",
+        "authorDisplayName": "Will R Thomson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUlwVlSlg11kP6aXgu47vqSLjbxR0os6N6bRhUylz312kGEEkhzJ47CmdYzBuS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqzIocOSytU2J2MDSoskofw",
+        "authorChannelId": {
+          "value": "UCqzIocOSytU2J2MDSoskofw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-29T09:56:21Z",
+        "updatedAt": "2022-01-29T09:56:21Z"
+      }
+    }
+  ]
+}

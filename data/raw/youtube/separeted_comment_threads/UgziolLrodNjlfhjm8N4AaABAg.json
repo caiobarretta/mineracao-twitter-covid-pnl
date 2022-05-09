@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5WTWtgOMVn-45qRWYYV5Rhtd574",
+  "id": "UgziolLrodNjlfhjm8N4AaABAg",
+  "snippet": {
+    "videoId": "NfaEeATu_Is",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cX1wjkKe0pWExQdQZAc7znwgpQ0",
+      "id": "UgziolLrodNjlfhjm8N4AaABAg",
+      "snippet": {
+        "videoId": "NfaEeATu_Is",
+        "textDisplay": "Olha a cara de quem comeu e n\u00e3o gostou ,ela \u00e9 do quanto pior melhor",
+        "textOriginal": "Olha a cara de quem comeu e n\u00e3o gostou ,ela \u00e9 do quanto pior melhor",
+        "authorDisplayName": "Angelito Monteiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHUsiwpeVG5VwQ-K665-STuRXuMQ-pex1mld4FlA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdIydl6PA0eUjHava4x4iVQ",
+        "authorChannelId": {
+          "value": "UCdIydl6PA0eUjHava4x4iVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 38,
+        "publishedAt": "2022-04-20T13:00:49Z",
+        "updatedAt": "2022-04-20T13:00:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TPhyJqbn5VhLPEvNZsEhG_HffUQ",
+      "id": "UgziolLrodNjlfhjm8N4AaABAg.9a2E3N7oMwr9a2Sj-JRQvy",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m acho",
+        "textOriginal": "Tamb\u00e9m acho",
+        "parentId": "UgziolLrodNjlfhjm8N4AaABAg",
+        "authorDisplayName": "Cilene Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfAso_8h3NTVgUWA8Q5Rv4zQA6BFWkmIXVRgjfdg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxrHS9CLtXvyDOKHUxeuWZA",
+        "authorChannelId": {
+          "value": "UCxrHS9CLtXvyDOKHUxeuWZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-20T15:08:58Z",
+        "updatedAt": "2022-04-20T15:08:58Z"
+      }
+    }
+  ]
+}

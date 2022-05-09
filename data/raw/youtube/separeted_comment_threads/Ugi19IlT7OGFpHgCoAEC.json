@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1oBfLO-vdY2ui4FebQkpeGe3WjA",
+  "id": "Ugi19IlT7OGFpHgCoAEC",
+  "snippet": {
+    "videoId": "brnUrUU81Ow",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OXmlu7cYjaFsSoZ4Ionv6m_zZhM",
+      "id": "Ugi19IlT7OGFpHgCoAEC",
+      "snippet": {
+        "videoId": "brnUrUU81Ow",
+        "textDisplay": "V\u00eddeo super r\u00e1pido e bem explicado",
+        "textOriginal": "V\u00eddeo super r\u00e1pido e bem explicado",
+        "authorDisplayName": "Jordana Guimar\u00e3es",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQv8Qy50nUxg4ZDxt8BqHF6KlxHr4yzV-EWxgMYAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzbqDVNNxNVO_tvyzse93Pw",
+        "authorChannelId": {
+          "value": "UCzbqDVNNxNVO_tvyzse93Pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 74,
+        "publishedAt": "2016-05-02T15:35:17Z",
+        "updatedAt": "2016-05-02T15:35:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UNh373KvRvPmEJy56ljSIo6suUg",
+      "id": "Ugi19IlT7OGFpHgCoAEC.8DNkb6zePk88K67qo8LMQH",
+      "snippet": {
+        "textDisplay": "Jordana Guimar\u00e3es,,o Brasil t\u00e1 foda",
+        "textOriginal": "Jordana Guimar\u00e3es,,o Brasil t\u00e1 foda",
+        "parentId": "Ugi19IlT7OGFpHgCoAEC",
+        "authorDisplayName": "Di\u00f3genes Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3AZ9F3VBdbfbB9EoL_CyZsGM4t82FhlFmm60r=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO3x54U1V9v31VKLgLCGygg",
+        "authorChannelId": {
+          "value": "UCO3x54U1V9v31VKLgLCGygg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-10-16T19:00:34Z",
+        "updatedAt": "2016-10-16T19:00:34Z"
+      }
+    }
+  ]
+}

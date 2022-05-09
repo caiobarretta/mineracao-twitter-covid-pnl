@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NpujA5ayI7nqN5Y6SMmCK9Zj7SA",
+  "id": "Ugwkjb-O2jtRw4e34cd4AaABAg",
+  "snippet": {
+    "videoId": "ojXoMaPW2og",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HCER7WhqGjwXTxTACCJPGrqRlc4",
+      "id": "Ugwkjb-O2jtRw4e34cd4AaABAg",
+      "snippet": {
+        "videoId": "ojXoMaPW2og",
+        "textDisplay": "Amei a aula... Achei bem completa!",
+        "textOriginal": "Amei a aula... Achei bem completa!",
+        "authorDisplayName": "Leila Vaz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxGVFGq1mOGwAEVYNWNl4cnpWXfvj7hBpt7uW12Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU6s23jRSbUFHBZTTkR3dNw",
+        "authorChannelId": {
+          "value": "UCU6s23jRSbUFHBZTTkR3dNw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-02-05T14:12:11Z",
+        "updatedAt": "2021-02-05T14:12:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3w5VAAW2yjNRYFwCKSKIV9v1hjg",
+      "id": "Ugwkjb-O2jtRw4e34cd4AaABAg.9JNyFzg_2iR9R3nSzytBR4",
+      "snippet": {
+        "textDisplay": "Sus",
+        "textOriginal": "Sus",
+        "parentId": "Ugwkjb-O2jtRw4e34cd4AaABAg",
+        "authorDisplayName": "Filipi Rogues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kSs1XNs7Wkka5uMBtYJHyDM1TTSZ2GujrvJ4o5vk8N8vo_J_Fq5QEjrTF6bHvPTt2gg-xeK1dEs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3mxYXww2wEseC-xsTs7w0g",
+        "authorChannelId": {
+          "value": "UC3mxYXww2wEseC-xsTs7w0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-15T14:24:11Z",
+        "updatedAt": "2021-08-15T14:24:11Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "1reTGCUFNJVjqNQBHhHEZWnH1Sk",
+      "id": "Ugwkjb-O2jtRw4e34cd4AaABAg.9JNyFzg_2iR9JTHmOP9Cpv",
+      "snippet": {
+        "textDisplay": "Obrigada \ud83d\ude03",
+        "textOriginal": "Obrigada \ud83d\ude03",
+        "parentId": "Ugwkjb-O2jtRw4e34cd4AaABAg",
+        "authorDisplayName": "Enfermagem Florence",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRroiIzW3SBopMAfgOsF9KGZJet2jre5fpogvWNmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf2LklDNf280HVpwIlRtAzg",
+        "authorChannelId": {
+          "value": "UCf2LklDNf280HVpwIlRtAzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-07T15:47:42Z",
+        "updatedAt": "2021-02-07T15:47:42Z"
+      }
+    }
+  ]
+}

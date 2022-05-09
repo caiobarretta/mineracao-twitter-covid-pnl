@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MVAvJbgf4oy5ihly3FR_haFmkJI",
+  "id": "Ugx_IOAj_k8rIVqYD1R4AaABAg",
+  "snippet": {
+    "videoId": "-x1ED_5kU7g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3hvYdrKgcuJcWON1bQj0S6_Sxcc",
+      "id": "Ugx_IOAj_k8rIVqYD1R4AaABAg",
+      "snippet": {
+        "videoId": "-x1ED_5kU7g",
+        "textDisplay": "Boa \ud83d\ude0d noite amiga o Matheus est\u00e1 cada dia mais fofo",
+        "textOriginal": "Boa \ud83d\ude0d noite amiga o Matheus est\u00e1 cada dia mais fofo",
+        "authorDisplayName": "Jane Oliveira IPDA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTivycmw0_aRJazpUThtZbNSLXhTNUB0WnEPpLaunY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeswu_auUezjphugRQZ5FZA",
+        "authorChannelId": {
+          "value": "UCeswu_auUezjphugRQZ5FZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-29T23:01:21Z",
+        "updatedAt": "2021-08-29T23:01:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MPtwgcm6FNPEYi9ERaNGMAkkBaU",
+      "id": "Ugx_IOAj_k8rIVqYD1R4AaABAg.9Rdlm6imZ2z9Rg5Vm_kIyu",
+      "snippet": {
+        "textDisplay": "Oi lindona, est\u00e1 muito fofo mesmo \ud83e\udd70",
+        "textOriginal": "Oi lindona, est\u00e1 muito fofo mesmo \ud83e\udd70",
+        "parentId": "Ugx_IOAj_k8rIVqYD1R4AaABAg",
+        "authorDisplayName": "Darlys Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-saQLbs9OPPLVEiorl0oROLQk0NNrX1nDmhUH2RWvniUQRKMhV4-3iuCFOq_eX7tqIkXO_6BUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5qtUBCZTr-ZIn5Aq9I8SFQ",
+        "authorChannelId": {
+          "value": "UC5qtUBCZTr-ZIn5Aq9I8SFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-30T20:40:58Z",
+        "updatedAt": "2021-08-30T20:40:58Z"
+      }
+    }
+  ]
+}

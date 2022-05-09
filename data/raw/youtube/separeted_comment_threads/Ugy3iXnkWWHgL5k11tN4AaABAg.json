@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6yyF-mu9tljBqRb5LbbVZtfRTMU",
+  "id": "Ugy3iXnkWWHgL5k11tN4AaABAg",
+  "snippet": {
+    "videoId": "bxoIlTaAqZE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7V47ZPPA0T8Fw4_RkcbcWS40cas",
+      "id": "Ugy3iXnkWWHgL5k11tN4AaABAg",
+      "snippet": {
+        "videoId": "bxoIlTaAqZE",
+        "textDisplay": "Nao to conseguindo ver meu historico de vacina, diz que vai ser atualizado",
+        "textOriginal": "Nao to conseguindo ver meu historico de vacina, diz que vai ser atualizado",
+        "authorDisplayName": "Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kAzu7hLowzEIAukZk4ty1qCPICvR1sYiTIg0DJLD190WVwJzijQfk9U6C9HYxAhrQ5Zf5Cjiyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpjA4W-Is8obU2rHl9BC2Ug",
+        "authorChannelId": {
+          "value": "UCpjA4W-Is8obU2rHl9BC2Ug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-15T11:23:16Z",
+        "updatedAt": "2020-12-15T11:23:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eZ7M-53tXBLWm17z2_BBijW_QGk",
+      "id": "Ugy3iXnkWWHgL5k11tN4AaABAg.9HHlaIzV1lF9IAJB3qp_eW",
+      "snippet": {
+        "textDisplay": "A mesma coisa est\u00e1 acontecendo comigo.",
+        "textOriginal": "A mesma coisa est\u00e1 acontecendo comigo.",
+        "parentId": "Ugy3iXnkWWHgL5k11tN4AaABAg",
+        "authorDisplayName": "Paulo Figueiredo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRCmqpcZtnwVKVJB54Yqwvo5hHeAsv9T3OAM-CmhwM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJRQrYWZSL4GAJpUBhUQuNg",
+        "authorChannelId": {
+          "value": "UCJRQrYWZSL4GAJpUBhUQuNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-06T10:22:59Z",
+        "updatedAt": "2021-01-06T10:22:59Z"
+      }
+    }
+  ]
+}

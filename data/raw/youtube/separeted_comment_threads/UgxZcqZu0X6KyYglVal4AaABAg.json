@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EvLPzyiw1PlB1kgnkU7ZHUxoLdk",
+  "id": "UgxZcqZu0X6KyYglVal4AaABAg",
+  "snippet": {
+    "videoId": "tukFXjFnzjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L60GF-z4oz8W_93jD5CinjCOF2Q",
+      "id": "UgxZcqZu0X6KyYglVal4AaABAg",
+      "snippet": {
+        "videoId": "tukFXjFnzjU",
+        "textDisplay": "Tem que est\u00e1 em jejum para fazer o teste",
+        "textOriginal": "Tem que est\u00e1 em jejum para fazer o teste",
+        "authorDisplayName": "Mi A S",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTX-aNBJRck_qfANWaq9Lg2-gY_6PypnigsCtbYVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwiZmugwHvHDz9E4OAOMN3g",
+        "authorChannelId": {
+          "value": "UCwiZmugwHvHDz9E4OAOMN3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-20T12:54:25Z",
+        "updatedAt": "2021-03-20T12:54:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_YAOX4MdLkEdf0T-Y-BGeap6W-8",
+      "id": "UgxZcqZu0X6KyYglVal4AaABAg.9L6YY5CW-i49OACf4i2786",
+      "snippet": {
+        "textDisplay": "N\u00e3o",
+        "textOriginal": "N\u00e3o",
+        "parentId": "UgxZcqZu0X6KyYglVal4AaABAg",
+        "authorDisplayName": "Rafael oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6zHirBFS17hdRQZwgKP0kq45wVkEb2fIJewlP7G0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXMF_o74MPA1GOT2NMIqJKw",
+        "authorChannelId": {
+          "value": "UCXMF_o74MPA1GOT2NMIqJKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-04T12:34:25Z",
+        "updatedAt": "2021-06-04T12:34:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uSaYZC7Kkdb35fHaJAybcSi8Ffc",
+      "id": "UgxZcqZu0X6KyYglVal4AaABAg.9L6YY5CW-i49LGQKCTfVky",
+      "snippet": {
+        "textDisplay": "N\u00e3o precisa estar de jejum",
+        "textOriginal": "N\u00e3o precisa estar de jejum",
+        "parentId": "UgxZcqZu0X6KyYglVal4AaABAg",
+        "authorDisplayName": "Tabita Santiago",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3VZ0POBP4SBfNRWk00DUmfUbxqip3xLmMJ0JRQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEgKGePb60Eus504BB-fvRw",
+        "authorChannelId": {
+          "value": "UCEgKGePb60Eus504BB-fvRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-24T08:55:01Z",
+        "updatedAt": "2021-03-24T08:55:01Z"
+      }
+    }
+  ]
+}

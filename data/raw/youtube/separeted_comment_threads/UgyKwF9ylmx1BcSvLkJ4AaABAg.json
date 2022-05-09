@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bofGcupGVF06k0I_38zbaLfKcFE",
+  "id": "UgyKwF9ylmx1BcSvLkJ4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "caDErQbSN8IqeBy7af6pNhbxzFQ",
+      "id": "UgyKwF9ylmx1BcSvLkJ4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Isso deveria ser mais f\u00e1cil. Entrar nesse aplicativo. M\u00e1s n\u00e3o \u00e9.",
+        "textOriginal": "Isso deveria ser mais f\u00e1cil. Entrar nesse aplicativo. M\u00e1s n\u00e3o \u00e9.",
+        "authorDisplayName": "Neide Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/saEiFgg22MhXvjltDl_mBki731IwaF6pU6UFNAVoQkZhIlFaL8Iq0v4D7dBlltLOehmHM452=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFa_UmZbH7oZeiXM1Si5Xfg",
+        "authorChannelId": {
+          "value": "UCFa_UmZbH7oZeiXM1Si5Xfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-23T15:07:35Z",
+        "updatedAt": "2021-11-23T15:07:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-MLJoVf3gsS5FuGS8gs-80MiSWU",
+      "id": "UgyKwF9ylmx1BcSvLkJ4AaABAg.9V5MvRn-DBY9V5e7ZjGfOi",
+      "snippet": {
+        "textDisplay": "O cadastro que \u00e9 mais chatinho, depois fica tranquilo",
+        "textOriginal": "O cadastro que \u00e9 mais chatinho, depois fica tranquilo",
+        "parentId": "UgyKwF9ylmx1BcSvLkJ4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-23T17:46:40Z",
+        "updatedAt": "2021-11-23T17:46:40Z"
+      }
+    }
+  ]
+}

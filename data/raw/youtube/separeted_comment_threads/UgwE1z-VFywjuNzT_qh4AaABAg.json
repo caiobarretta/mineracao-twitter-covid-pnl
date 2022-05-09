@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "e0QZgnb8cO5FRVsDxZTgsLRv5eE",
+  "id": "UgwE1z-VFywjuNzT_qh4AaABAg",
+  "snippet": {
+    "videoId": "_GKse_BCAWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "weHAd7kwWeStMW_-fOaM5r1fZpE",
+      "id": "UgwE1z-VFywjuNzT_qh4AaABAg",
+      "snippet": {
+        "videoId": "_GKse_BCAWU",
+        "textDisplay": "que coisa mais chata.\nmimimimimimimi.",
+        "textOriginal": "que coisa mais chata.\nmimimimimimimi.",
+        "authorDisplayName": "Vitoria BONOMO oficial",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/h_KqAUg8h1qXYE85sIZpFpoNBKwAvfBZvi9ugx5WTiexTMneF4_PKeqB8a5XSND0am2pbbhw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvXZzpxMMSFDRHd-lfeg2tA",
+        "authorChannelId": {
+          "value": "UCvXZzpxMMSFDRHd-lfeg2tA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-01T17:10:04Z",
+        "updatedAt": "2020-07-01T17:10:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2wkz4ibFOeJMIp5z6-EREa4BBBY",
+      "id": "UgwE1z-VFywjuNzT_qh4AaABAg.9A_NXGdnJpR9RqCSYGRNoD",
+      "snippet": {
+        "textDisplay": "\u0d9e",
+        "textOriginal": "\u0d9e",
+        "parentId": "UgwE1z-VFywjuNzT_qh4AaABAg",
+        "authorDisplayName": "Walter White",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PJnEk7lsD2YAcpV8fopyTchzQniOIUoUFP8_974SAURrAvgcR7nwJMxfS2MpSPnkjgvgkFnkaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCE7TF5PmGydX73xlVMiPX7Q",
+        "authorChannelId": {
+          "value": "UCE7TF5PmGydX73xlVMiPX7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T18:54:06Z",
+        "updatedAt": "2021-09-03T18:54:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "xTKcEEfOCEeHF5RviXH9vOc6RkE",
+      "id": "UgwE1z-VFywjuNzT_qh4AaABAg.9A_NXGdnJpR9AwRQu5cc-E",
+      "snippet": {
+        "textDisplay": "Ent\u00e3o porque tu viu",
+        "textOriginal": "Ent\u00e3o porque tu viu",
+        "parentId": "UgwE1z-VFywjuNzT_qh4AaABAg",
+        "authorDisplayName": "Jo\u00e3o_P19",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mj8gAdaqOoSMeUumrFOMe3moYhAw6sqYQy8pQADfEWJ62dEHy-RO2UyLFg6rxQXfyQDIglWo0w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCht6B79VUbcAG53OZMcmcjA",
+        "authorChannelId": {
+          "value": "UCht6B79VUbcAG53OZMcmcjA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-10T16:06:41Z",
+        "updatedAt": "2020-07-10T16:06:41Z"
+      }
+    }
+  ]
+}

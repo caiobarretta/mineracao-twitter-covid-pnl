@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y9-x1pJgNDgvgJlbGHPc8btnyEw",
+  "id": "UgyyzBiaK5NBEhrhRzh4AaABAg",
+  "snippet": {
+    "videoId": "oFCAFnxgjmo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uZjAXaYNofhQl0Qh5OpKx7gt19U",
+      "id": "UgyyzBiaK5NBEhrhRzh4AaABAg",
+      "snippet": {
+        "videoId": "oFCAFnxgjmo",
+        "textDisplay": "Boicote ao arroz prato fino! N\u00e3o compro!",
+        "textOriginal": "Boicote ao arroz prato fino! N\u00e3o compro!",
+        "authorDisplayName": "Vilma Magalhaes Neves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvaB6oydZiBanH5xbGBG1Kj7gqkXiloyOU7w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVKEQH8uu9F5giBKiu_POYg",
+        "authorChannelId": {
+          "value": "UCVKEQH8uu9F5giBKiu_POYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-08-27T23:05:23Z",
+        "updatedAt": "2021-08-27T23:05:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GI7cEyEvgj5VFL40-vsCNixHxMs",
+      "id": "UgyyzBiaK5NBEhrhRzh4AaABAg.9RZcdwKzkDI9R_sPnvsAGL",
+      "snippet": {
+        "textDisplay": "Azar teu",
+        "textOriginal": "Azar teu",
+        "parentId": "UgyyzBiaK5NBEhrhRzh4AaABAg",
+        "authorDisplayName": "Daniel Jos\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRs-iaaoWQ4nZ-O-OXYBnsynRUzgN9ffrm4FQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYTr3mhHUvaggNoTwGDL4cg",
+        "authorChannelId": {
+          "value": "UCYTr3mhHUvaggNoTwGDL4cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T10:42:22Z",
+        "updatedAt": "2021-08-28T10:42:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-7APOs8txTC0yvE5OpWmE9qxlts",
+  "id": "Ugyw7hKRibm7QSUDe2V4AaABAg",
+  "snippet": {
+    "videoId": "tukFXjFnzjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hdSN1v0qYNkzgsfYvDYFeUN6TDU",
+      "id": "Ugyw7hKRibm7QSUDe2V4AaABAg",
+      "snippet": {
+        "videoId": "tukFXjFnzjU",
+        "textDisplay": "Quanto custa",
+        "textOriginal": "Quanto custa",
+        "authorDisplayName": "\u00cdndio Kranken",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjsgoxzmAnR-B22_o_73VZJyctT25KfrcFNFT0_qU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8LFI2Tem5RS2qHw7KPWyOA",
+        "authorChannelId": {
+          "value": "UC8LFI2Tem5RS2qHw7KPWyOA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2020-08-02T10:09:02Z",
+        "updatedAt": "2020-08-02T10:09:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-lBRd7TVBLHDZEl5Dw2K5sOoq3w",
+      "id": "Ugyw7hKRibm7QSUDe2V4AaABAg.9Br0mTphNLc9MXXhufwyM2",
+      "snippet": {
+        "textDisplay": "120 paguei",
+        "textOriginal": "120 paguei",
+        "parentId": "Ugyw7hKRibm7QSUDe2V4AaABAg",
+        "authorDisplayName": "Assun\u00e7\u00e3o 17",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsLTLmuc1l2VLYT-qTm3SYEu3GwpLKkpkIzjHUHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCc5_tCOlRZpdWEaVn5Hl8Iw",
+        "authorChannelId": {
+          "value": "UCc5_tCOlRZpdWEaVn5Hl8Iw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-24T20:58:03Z",
+        "updatedAt": "2021-04-24T20:58:03Z"
+      }
+    }
+  ]
+}

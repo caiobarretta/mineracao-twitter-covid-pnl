@@ -1,6 +1,6 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "glb8iOyT0dtN5SHleU9t5e_OOB8",
+  "etag": "N8cARO0_fcbMGwRh4vI5AxLlzdk",
   "id": "UgwlB-Rm_a2BTIbk6Jd4AaABAg",
   "snippet": {
     "videoId": "wT10bO9fhb0",
@@ -26,10 +26,31 @@
       }
     },
     "canReply": true,
-    "totalReplyCount": 1,
+    "totalReplyCount": 2,
     "isPublic": true
   },
   "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "A9zUXtAYNsxP2ou_1rUqtayBdv8",
+      "id": "UgwlB-Rm_a2BTIbk6Jd4AaABAg.9alsPTgttRE9aoOizVxorR",
+      "snippet": {
+        "textDisplay": "Acho que este COVID n\u00e3o vai acabar nunca",
+        "textOriginal": "Acho que este COVID n\u00e3o vai acabar nunca",
+        "parentId": "UgwlB-Rm_a2BTIbk6Jd4AaABAg",
+        "authorDisplayName": "Ivone Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDkfHzIL1UuVMfAszoFbFFBd7Qom_DGEzX6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGET6J57nt3Wla-3VLjf3cw",
+        "authorChannelId": {
+          "value": "UCGET6J57nt3Wla-3VLjf3cw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T15:16:47Z",
+        "updatedAt": "2022-05-09T15:16:47Z"
+      }
+    },
     {
       "kind": "youtube#comment",
       "etag": "y1Aw7BDlg0hHjRr_oQLlLWiSM7g",

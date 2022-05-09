@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "su8vqo6vnTXsCDNerlw9yt23dwg",
+  "id": "Ugz3UIGDyrcv-WxRhdt4AaABAg",
+  "snippet": {
+    "videoId": "k6ND7DGH7Gw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "coA6iLYypp6oxN1uwMr2-LeIFz8",
+      "id": "Ugz3UIGDyrcv-WxRhdt4AaABAg",
+      "snippet": {
+        "videoId": "k6ND7DGH7Gw",
+        "textDisplay": "*Fiquem tranquilos...* *ainda tem o carnaval por vir !!!*",
+        "textOriginal": "*Fiquem tranquilos...* *ainda tem o carnaval por vir !!!*",
+        "authorDisplayName": "Fabiano Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQb3SUqYNm42r__FPyU6AK9sNEyyagPl19GQGK-Dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeamDJq_0x6vreirKORJf6Q",
+        "authorChannelId": {
+          "value": "UCeamDJq_0x6vreirKORJf6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 28,
+        "publishedAt": "2022-01-14T19:48:16Z",
+        "updatedAt": "2022-01-14T19:48:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P0h-YCZx7RR3TLNBo-Rj34rqrrA",
+      "id": "Ugz3UIGDyrcv-WxRhdt4AaABAg.9XBlNdvtjaU9XG3bvnLSTi",
+      "snippet": {
+        "textDisplay": "N\u00e3o Vai ter n\u00e3o",
+        "textOriginal": "N\u00e3o Vai ter n\u00e3o",
+        "parentId": "Ugz3UIGDyrcv-WxRhdt4AaABAg",
+        "authorDisplayName": "Ana De Lurdes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkBUF0MjsSqdc1vgzdXUNY369QUall4Nvjgh5jUEbd3MTpkHY1y_UV_REK5b1c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKc6-PDBcUXX6QEgpj0N3EQ",
+        "authorChannelId": {
+          "value": "UCKc6-PDBcUXX6QEgpj0N3EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-16T11:53:20Z",
+        "updatedAt": "2022-01-16T11:53:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Oqqu1fCOWcbcA4kr0RmJHQSa66E",
+      "id": "Ugz3UIGDyrcv-WxRhdt4AaABAg.9XBlNdvtjaU9XE5nstTJY4",
+      "snippet": {
+        "textDisplay": "Miseric\u00f3rdia",
+        "textOriginal": "Miseric\u00f3rdia",
+        "parentId": "Ugz3UIGDyrcv-WxRhdt4AaABAg",
+        "authorDisplayName": "Cristina Pires",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTAzQynPkuA7GM7K8y7_uOKTMFvwL01HZg2lhrPHJrq0ExPf6iMzOSOeFVCPoF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCY-Pe5H24aDQUpP2tTOTkiw",
+        "authorChannelId": {
+          "value": "UCY-Pe5H24aDQUpP2tTOTkiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-15T17:33:58Z",
+        "updatedAt": "2022-01-15T17:33:58Z"
+      }
+    }
+  ]
+}

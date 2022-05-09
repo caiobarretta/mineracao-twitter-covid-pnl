@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5EXa5t3mLhZMSOc5ARUCYXKoPv8",
+  "id": "UghIYhgJGQCvOngCoAEC",
+  "snippet": {
+    "videoId": "_GKse_BCAWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MzkknurQfqtOiinzU1QBmliDP-U",
+      "id": "UghIYhgJGQCvOngCoAEC",
+      "snippet": {
+        "videoId": "_GKse_BCAWU",
+        "textDisplay": "Muito bom!!!",
+        "textOriginal": "Muito bom!!!",
+        "authorDisplayName": "Zarife Rosario Darz\u00e9 Otero",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr4v_PEIKkw_ryrUW9ZE5sN4V74ICsyv4EbfhL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd86lEdOkhVsqRHR2L5bgrA",
+        "authorChannelId": {
+          "value": "UCd86lEdOkhVsqRHR2L5bgrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2014-04-17T11:01:31Z",
+        "updatedAt": "2014-04-17T11:01:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8IEnX_IcpD3GK1A0YHSo_Mop1zI",
+      "id": "UghIYhgJGQCvOngCoAEC.7-H0Z7-AS-l75ibJD3OtGs",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "UghIYhgJGQCvOngCoAEC",
+        "authorDisplayName": "Biologia EAD UFg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3qMsREP7Za9aRAyOkN6ZxwKkTMpAT_hEKLUJZqA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoucZrpKnupzd0n0Z9NXHgQ",
+        "authorChannelId": {
+          "value": "UCoucZrpKnupzd0n0Z9NXHgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2014-09-24T16:38:29Z",
+        "updatedAt": "2014-09-24T16:38:29Z"
+      }
+    }
+  ]
+}

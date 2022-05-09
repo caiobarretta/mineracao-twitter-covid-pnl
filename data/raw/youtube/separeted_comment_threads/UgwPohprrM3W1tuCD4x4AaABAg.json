@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2Vh4wb9aOy33T_tBqlYex76L1Lg",
+  "id": "UgwPohprrM3W1tuCD4x4AaABAg",
+  "snippet": {
+    "videoId": "Sid5ewDvwms",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IZje0Pcj86HDANMGgUOZ4gMFdxk",
+      "id": "UgwPohprrM3W1tuCD4x4AaABAg",
+      "snippet": {
+        "videoId": "Sid5ewDvwms",
+        "textDisplay": "Heeeeeeeeeee! Tudo na palma da m\u00e3o inclusive para encomendar o caix\u00e3o adiantado!",
+        "textOriginal": "Heeeeeeeeeee! Tudo na palma da m\u00e3o inclusive para encomendar o caix\u00e3o adiantado!",
+        "authorDisplayName": "Roberto Gama",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXTc36NZx9gl4Inmk_-g-_V348r47WVgrD4rpr0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8P50mmH4TgKYVR607yTDEg",
+        "authorChannelId": {
+          "value": "UC8P50mmH4TgKYVR607yTDEg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2021-11-29T12:20:18Z",
+        "updatedAt": "2021-11-29T12:20:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hZ4X2OUAwge0G5KytzaG36suVH0",
+      "id": "UgwPohprrM3W1tuCD4x4AaABAg.9VKWYRMXzdV9XGXb7FG4m-",
+      "snippet": {
+        "textDisplay": "Kkkkkkkkkkkkkk",
+        "textOriginal": "Kkkkkkkkkkkkkk",
+        "parentId": "UgwPohprrM3W1tuCD4x4AaABAg",
+        "authorDisplayName": "Wesley Freitas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYQSkpAu35IDsHT77PYt4t0lk8Y3jaQ89HJg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXLwDeuAudIgRN0p7PEvKeQ",
+        "authorChannelId": {
+          "value": "UCXLwDeuAudIgRN0p7PEvKeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-16T16:15:22Z",
+        "updatedAt": "2022-01-16T16:15:22Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "lzL6XJaREYaHPgOxQEIjCCEb8po",
+      "id": "UgwPohprrM3W1tuCD4x4AaABAg.9VKWYRMXzdV9Vc2c4ev7A2",
+      "snippet": {
+        "textDisplay": "Kkkk n\u00e9 n\u00e3o, ja sabe o tamanho do caix\u00e3o..cor e etc kkk",
+        "textOriginal": "Kkkk n\u00e9 n\u00e3o, ja sabe o tamanho do caix\u00e3o..cor e etc kkk",
+        "parentId": "UgwPohprrM3W1tuCD4x4AaABAg",
+        "authorDisplayName": "Jackson Amorim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwicuDnikjJJC_hRIjXXgVpyDV14GOcFPPlgHbiKE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaqMJNaJg_6EEZVYPYmFP7Q",
+        "authorChannelId": {
+          "value": "UCaqMJNaJg_6EEZVYPYmFP7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-06T17:04:22Z",
+        "updatedAt": "2021-12-06T17:04:22Z"
+      }
+    }
+  ]
+}

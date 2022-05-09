@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2GU5Ie55qi-Vi3hB-3H9pWUJI18",
+  "id": "UgySExvz_iCe0BX4TiR4AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WS9J0Aad6srHt7tvLBBhcAFIl4Q",
+      "id": "UgySExvz_iCe0BX4TiR4AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "Parab\u00e9ns, muito bem explanado",
+        "textOriginal": "Parab\u00e9ns, muito bem explanado",
+        "authorDisplayName": "Jaqueline Bueno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4v13GoR_O1ZgGCD4VZE2kguQWNHXRryeIAcTiaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyJqdyHmUT4STFEWaCudeog",
+        "authorChannelId": {
+          "value": "UCyJqdyHmUT4STFEWaCudeog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-16T15:18:03Z",
+        "updatedAt": "2020-12-16T15:18:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MskPeuZ3tL1hctC6L5lw_9IT2bc",
+      "id": "UgySExvz_iCe0BX4TiR4AaABAg.9HKlFl1Hc619Rb5ba7Cik3",
+      "snippet": {
+        "textDisplay": "show",
+        "textOriginal": "show",
+        "parentId": "UgySExvz_iCe0BX4TiR4AaABAg",
+        "authorDisplayName": "Paulo Vitor Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDPVv5a0GQd3a2gmzPFOuHIPzC9TrpkoaRrYXP7w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZuk2-AXxrW14E8dBbKSzBQ",
+        "authorChannelId": {
+          "value": "UCZuk2-AXxrW14E8dBbKSzBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T22:05:41Z",
+        "updatedAt": "2021-08-28T22:05:41Z"
+      }
+    }
+  ]
+}

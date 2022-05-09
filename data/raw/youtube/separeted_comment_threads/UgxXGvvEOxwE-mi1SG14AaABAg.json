@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XLhaKc9aUpwiGM2GQd4AHTqY5wo",
+  "id": "UgxXGvvEOxwE-mi1SG14AaABAg",
+  "snippet": {
+    "videoId": "bxoIlTaAqZE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Nf7HxYDAxPp9v3S8GxOhX-BPSP0",
+      "id": "UgxXGvvEOxwE-mi1SG14AaABAg",
+      "snippet": {
+        "videoId": "bxoIlTaAqZE",
+        "textDisplay": "\ud83e\udd1d",
+        "textOriginal": "\ud83e\udd1d",
+        "authorDisplayName": "Laura Dornelles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCk-mzCHcPYoyuXVRCfoOGKAHi0w6OkX-JcK_G3zg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnqonzzHduuaB9wRLqHRTAg",
+        "authorChannelId": {
+          "value": "UCnqonzzHduuaB9wRLqHRTAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-17T21:56:01Z",
+        "updatedAt": "2020-09-17T21:56:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j6B4RBpU1quwhAu3YUj3NAJGhGo",
+      "id": "UgxXGvvEOxwE-mi1SG14AaABAg.9DijFrh04lL9DkFga9BCgm",
+      "snippet": {
+        "textDisplay": "Os esfor\u00e7os para cuidar dos cidad\u00e3os brasileiros principalmente durante o per\u00edodo de pandemia s\u00e3o cont\u00ednuos. Acompanhe as a\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade pelas redes sociais.",
+        "textOriginal": "Os esfor\u00e7os para cuidar dos cidad\u00e3os brasileiros principalmente durante o per\u00edodo de pandemia s\u00e3o cont\u00ednuos. Acompanhe as a\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade pelas redes sociais.",
+        "parentId": "UgxXGvvEOxwE-mi1SG14AaABAg",
+        "authorDisplayName": "Minist\u00e9rio da Sa\u00fade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7dAlLpNhzbAbcX8eSzJuFwlNyCpnC6p1V3FwrmxX07PbNKp3evyTFcDw6ysiX5dhxoY_jotqSg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC12zKGLhMhDeDidoctM6BrA",
+        "authorChannelId": {
+          "value": "UC12zKGLhMhDeDidoctM6BrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-18T12:07:24Z",
+        "updatedAt": "2020-09-18T12:07:24Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uN_4Ls8K4qD1zCZWMQUsgjd_iuU",
+  "id": "UgwdAgeGsVPf8xeAfMl4AaABAg",
+  "snippet": {
+    "videoId": "MmlFqbA2Qno",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fEeHokrNbaE6iKU46GdxcYJy4Zc",
+      "id": "UgwdAgeGsVPf8xeAfMl4AaABAg",
+      "snippet": {
+        "videoId": "MmlFqbA2Qno",
+        "textDisplay": "Mano como assim a palavra \" Sabido\" isso existe?",
+        "textOriginal": "Mano como assim a palavra \" Sabido\" isso existe?",
+        "authorDisplayName": "Maxhell Slowyer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTR9gfm1aDcmyVmj7vK3SXl1WxXwF-uNqzG_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzYKNUXb2AayZdAxW_gZ_4g",
+        "authorChannelId": {
+          "value": "UCzYKNUXb2AayZdAxW_gZ_4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-07T21:59:22Z",
+        "updatedAt": "2021-10-07T21:59:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LJgDIgIFpMkLuuROjgHOkbs0l84",
+      "id": "UgwdAgeGsVPf8xeAfMl4AaABAg.9TD4gJK4bNm9TONiR5x6Q9",
+      "snippet": {
+        "textDisplay": "Claro rsrs",
+        "textOriginal": "Claro rsrs",
+        "parentId": "UgwdAgeGsVPf8xeAfMl4AaABAg",
+        "authorDisplayName": "Isabella Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9j1MIa6uoTVyi9rcaTMqBeoSobg7rUR1tcjq0c1ECLSXU_Y4HO1KFI4xYlTvXWA8eEi_ch76=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPZXR36atq2092hRa0YtDuw",
+        "authorChannelId": {
+          "value": "UCPZXR36atq2092hRa0YtDuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-12T07:17:20Z",
+        "updatedAt": "2021-10-12T07:17:20Z"
+      }
+    }
+  ]
+}

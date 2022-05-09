@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T1mm5hoca2vKbdXo8xY0TmqjoZw",
+  "id": "Ugy22Zdmj-mxUrhAdd94AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vAGm4R_tH1aDcrJ39ic5ugpLP_0",
+      "id": "Ugy22Zdmj-mxUrhAdd94AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Oi Bruno , o meu nome nao ta aparecendo na carteira de vacina",
+        "textOriginal": "Oi Bruno , o meu nome nao ta aparecendo na carteira de vacina",
+        "authorDisplayName": "Pamela Morais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo_9JCo1qXjA56ve_mxorrSc0BRf2Q_7x8n0FOgzE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy_W0N2bvPIKXB9OCGFplKA",
+        "authorChannelId": {
+          "value": "UCy_W0N2bvPIKXB9OCGFplKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-08T02:46:03Z",
+        "updatedAt": "2021-12-08T02:46:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rV3333-5BoAwLe7PIRw_J59WeUw",
+      "id": "Ugy22Zdmj-mxUrhAdd94AaABAg.9VfezP4kgax9VgHq3wLEcq",
+      "snippet": {
+        "textDisplay": "N\u00e3o sei te dizer o motivo do erro",
+        "textOriginal": "N\u00e3o sei te dizer o motivo do erro",
+        "parentId": "Ugy22Zdmj-mxUrhAdd94AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-08T08:34:18Z",
+        "updatedAt": "2021-12-08T08:34:18Z"
+      }
+    }
+  ]
+}

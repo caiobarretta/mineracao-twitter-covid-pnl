@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pjPSOPqItKoXYVspwR74XLek_xA",
+  "id": "Ugzd9q92DsUn8eTRBtF4AaABAg",
+  "snippet": {
+    "videoId": "D6z3lamGtA8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JaNWvjPStOr8wCVllac9Cop7tm0",
+      "id": "Ugzd9q92DsUn8eTRBtF4AaABAg",
+      "snippet": {
+        "videoId": "D6z3lamGtA8",
+        "textDisplay": "Excelente explica\u00e7\u00e3o!!!",
+        "textOriginal": "Excelente explica\u00e7\u00e3o!!!",
+        "authorDisplayName": "Thays Benicio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnCj-SAKAUrOvMka9XWnCojcBV2Fit_MFd6oHbZgE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWimJUkZc9H3unJHHLBsVlg",
+        "authorChannelId": {
+          "value": "UCWimJUkZc9H3unJHHLBsVlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-02-05T12:04:51Z",
+        "updatedAt": "2021-02-05T12:04:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GrCKHFvY4o4eOS5qrC5OeGxQGa4",
+      "id": "Ugzd9q92DsUn8eTRBtF4AaABAg.9JNjgNF63By9JOA5vkhzE6",
+      "snippet": {
+        "textDisplay": "valeu thays.",
+        "textOriginal": "valeu thays.",
+        "parentId": "Ugzd9q92DsUn8eTRBtF4AaABAg",
+        "authorDisplayName": "Sobre cidades, zumbis e neoliberalismo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtxqZuk4N4V2-uU-ZOxWpGLQ_QVSn0W07Or-W4rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu8bZMiooRUpjYeKxVFnnGg",
+        "authorChannelId": {
+          "value": "UCu8bZMiooRUpjYeKxVFnnGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-05T16:04:24Z",
+        "updatedAt": "2021-02-05T16:04:24Z"
+      }
+    }
+  ]
+}

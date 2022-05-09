@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0khvOPS-K0PyuKL-aMTmdA2Y0gk",
+  "id": "Ugx76w34cKMFKAQFdDZ4AaABAg",
+  "snippet": {
+    "videoId": "nQVrPwsXMT0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JmPZSc0nOkkGu9SHCjcBR5TeKNg",
+      "id": "Ugx76w34cKMFKAQFdDZ4AaABAg",
+      "snippet": {
+        "videoId": "nQVrPwsXMT0",
+        "textDisplay": "Co\nRo \nNa \nTi\nMo.",
+        "textOriginal": "Co\nRo \nNa \nTi\nMo.",
+        "authorDisplayName": "J U A N",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/W03gEZis9VBrR9u84ovPfUZa-FIx0A-dmNT_6MH0iv7uKt5-Q2iX3n2I4l_4dear3nM6RJTsPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy1SuAajS1lfZenwkmLKEpA",
+        "authorChannelId": {
+          "value": "UCy1SuAajS1lfZenwkmLKEpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 17,
+        "publishedAt": "2022-05-04T14:56:17Z",
+        "updatedAt": "2022-05-04T14:56:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0zxo5UW9uPKDG9y0lPD80EY3a28",
+      "id": "Ugx76w34cKMFKAQFdDZ4AaABAg.9abUPRO3wtB9abaCcF0POJ",
+      "snippet": {
+        "textDisplay": "La tuya",
+        "textOriginal": "La tuya",
+        "parentId": "Ugx76w34cKMFKAQFdDZ4AaABAg",
+        "authorDisplayName": "Alejandro Garc\u00eda Moreno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfPTkCrzPEmAYX2q1A75HdA30Fa8iWRAU6pw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCefsr8zke_UUrKVml8nX6-A",
+        "authorChannelId": {
+          "value": "UCefsr8zke_UUrKVml8nX6-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-04T15:55:42Z",
+        "updatedAt": "2022-05-04T15:55:42Z"
+      }
+    }
+  ]
+}

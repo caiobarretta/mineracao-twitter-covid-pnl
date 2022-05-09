@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_L9b2sPaSz_AKeTdj4ZDRCCQapU",
+  "id": "UgxYRsxAmM6FAesUBsd4AaABAg",
+  "snippet": {
+    "videoId": "L1L_e7WWA3Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "H_l9iol7C6dHUkJ_SypFTJIjyU8",
+      "id": "UgxYRsxAmM6FAesUBsd4AaABAg",
+      "snippet": {
+        "videoId": "L1L_e7WWA3Q",
+        "textDisplay": "Nenhum! Fa\u00e7a o tratamento precoce e se cuide!",
+        "textOriginal": "Nenhum! Fa\u00e7a o tratamento precoce e se cuide!",
+        "authorDisplayName": "Bruno Carminatti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/1AI-Tq6pjrmvVUEd7XWEqxSyA9DRhpIQq5_-10mPy9dPPny6QijnNqRxsGzMIAWZ3T3L7s7xSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMg-0FKxxtvb-gyfN6a-Jow",
+        "authorChannelId": {
+          "value": "UCMg-0FKxxtvb-gyfN6a-Jow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-15T20:02:17Z",
+        "updatedAt": "2022-01-15T20:02:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vfx7CdVJ0QkA6jaWmXxgoqcbUcM",
+      "id": "UgxYRsxAmM6FAesUBsd4AaABAg.9XEMmDieQAu9XGiHq6aoYY",
+      "snippet": {
+        "textDisplay": "Bostaminion.",
+        "textOriginal": "Bostaminion.",
+        "parentId": "UgxYRsxAmM6FAesUBsd4AaABAg",
+        "authorDisplayName": "J\u00fanior Jr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUJnqEyMvGvU7fdkSRLgZ_7VvXw17M6NQZeQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAZjVTS2PZke_j1GGq19VaQ",
+        "authorChannelId": {
+          "value": "UCAZjVTS2PZke_j1GGq19VaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-16T17:57:27Z",
+        "updatedAt": "2022-01-16T17:57:27Z"
+      }
+    }
+  ]
+}

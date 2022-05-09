@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8qMVOStq2HJQlDxblyfQZsbtVWk",
+  "id": "Ugy3zabL5j0IElWwDbV4AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JPVqgDT0J3Qq6FEfGMzpfQCPadQ",
+      "id": "Ugy3zabL5j0IElWwDbV4AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Utilidade p\u00fablica!",
+        "textOriginal": "Utilidade p\u00fablica!",
+        "authorDisplayName": "Job Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTX-4fS3E5WJXTabrzsroTUQVkGXQ4p27ngpovvyIE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDvoW5-tHRfXO72M5HnfCaA",
+        "authorChannelId": {
+          "value": "UCDvoW5-tHRfXO72M5HnfCaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-01-18T02:29:58Z",
+        "updatedAt": "2021-01-18T02:29:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4JyZSS5-w-rcVQDGk21flzcZlJg",
+      "id": "Ugy3zabL5j0IElWwDbV4AaABAg.9IdMa5dHMKm9IfkYyGvL6d",
+      "snippet": {
+        "textDisplay": "Valew Inscreva-se no canal",
+        "textOriginal": "Valew Inscreva-se no canal",
+        "parentId": "Ugy3zabL5j0IElWwDbV4AaABAg",
+        "authorDisplayName": "Afonso Alc\u00e2ntara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-eGKrqlla8F-A4bxgzDqiMbKtf2kbaNIHl2jBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrbnZTc2tkOyhkV1wEnjgfQ",
+        "authorChannelId": {
+          "value": "UCrbnZTc2tkOyhkV1wEnjgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-19T00:46:37Z",
+        "updatedAt": "2021-01-19T00:46:37Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6V4aoi_oDMp8v5tyokkx_AkZWww",
+  "id": "Ugi4X5poGgZsbngCoAEC",
+  "snippet": {
+    "videoId": "_GKse_BCAWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fAhxtFvNj7kFNLuiqiVyGvR1xlo",
+      "id": "Ugi4X5poGgZsbngCoAEC",
+      "snippet": {
+        "videoId": "_GKse_BCAWU",
+        "textDisplay": "Muito bacana os recursos ilustrativos utilizados. Adorei!",
+        "textOriginal": "Muito bacana os recursos ilustrativos utilizados. Adorei!",
+        "authorDisplayName": "Aline Tenorio SP",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfp75njYOmd-MAO1hTQUZKmMEQ6Ja9MuJXTFz0qg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaPy8Xng2yRu4IFOdUjuiIg",
+        "authorChannelId": {
+          "value": "UCaPy8Xng2yRu4IFOdUjuiIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2017-01-08T21:16:30Z",
+        "updatedAt": "2017-01-08T21:16:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R63TXtWkab8i4bfCVjFabvfGb6U",
+      "id": "Ugi4X5poGgZsbngCoAEC.8NUfAyqad9L9FtvEPZQ87e",
+      "snippet": {
+        "textDisplay": "Eu j\u00e1 falei q \u00e9 chato",
+        "textOriginal": "Eu j\u00e1 falei q \u00e9 chato",
+        "parentId": "Ugi4X5poGgZsbngCoAEC",
+        "authorDisplayName": "Eliane Pechim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLREWknQYRykVgDcYcFgM2vUDQqNk1B-lCAsLSbIeq4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi3FzCOubzWtDAVsGkw0UCA",
+        "authorChannelId": {
+          "value": "UCi3FzCOubzWtDAVsGkw0UCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-10T23:15:07Z",
+        "updatedAt": "2020-11-10T23:15:07Z"
+      }
+    }
+  ]
+}

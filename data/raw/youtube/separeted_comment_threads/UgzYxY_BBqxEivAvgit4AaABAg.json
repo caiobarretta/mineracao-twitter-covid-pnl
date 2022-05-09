@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BDs8EMqb4766PSDo8WyjL-Z_xYI",
+  "id": "UgzYxY_BBqxEivAvgit4AaABAg",
+  "snippet": {
+    "videoId": "L1L_e7WWA3Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0_KagtN854I_KCFvcDnJDLrMfE4",
+      "id": "UgzYxY_BBqxEivAvgit4AaABAg",
+      "snippet": {
+        "videoId": "L1L_e7WWA3Q",
+        "textDisplay": "V\u00e3o assusta o c\u00e3o com essa tal de omicrom",
+        "textOriginal": "V\u00e3o assusta o c\u00e3o com essa tal de omicrom",
+        "authorDisplayName": "Felipe Alonso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgBika_6KjUTCsIH2yklQaqkdwxCx49U_Pgzlwb41qwJje2bjbFfE28KYNvjOH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0GtjCARZrXe-VxeKUn-AFw",
+        "authorChannelId": {
+          "value": "UC0GtjCARZrXe-VxeKUn-AFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T19:44:13Z",
+        "updatedAt": "2022-01-17T19:44:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XORWomULqXZTRpNXMYml3AbWesU",
+      "id": "UgzYxY_BBqxEivAvgit4AaABAg.9XJUIgI27Oc9XK50F0zs1X",
+      "snippet": {
+        "textDisplay": "Se assusta quem quer, a variante t\u00e1 a\u00ed \u00e9 s\u00f3 se prevenir.",
+        "textOriginal": "Se assusta quem quer, a variante t\u00e1 a\u00ed \u00e9 s\u00f3 se prevenir.",
+        "parentId": "UgzYxY_BBqxEivAvgit4AaABAg",
+        "authorDisplayName": "AYANO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRdIfIl-BFVMlQqXgzrTtPRx7ZFvjSxpO2gCALHRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClj4iFUJceBjIZzpruvJ9fA",
+        "authorChannelId": {
+          "value": "UClj4iFUJceBjIZzpruvJ9fA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T01:22:29Z",
+        "updatedAt": "2022-01-18T01:22:29Z"
+      }
+    }
+  ]
+}

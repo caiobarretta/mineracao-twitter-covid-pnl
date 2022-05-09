@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uuRjPkRyJBc_da1036EWBXZma68",
+  "id": "UgzZIqNNgy_kJwiiEo14AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cl_QLmnrwUpArF7apaCajhbyURU",
+      "id": "UgzZIqNNgy_kJwiiEo14AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Parab\u00e9ns Bruno! Seus v\u00eddeos s\u00e3o muito bons! Obrigada \u263a\ufe0f",
+        "textOriginal": "Parab\u00e9ns Bruno! Seus v\u00eddeos s\u00e3o muito bons! Obrigada \u263a\ufe0f",
+        "authorDisplayName": "Marcia Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgwOWcag4w8W1wCyvGDeXDEbcJYl5drPyPQcwZQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLkcuaYOvLPSlkdkuX8C2Rg",
+        "authorChannelId": {
+          "value": "UCLkcuaYOvLPSlkdkuX8C2Rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-18T10:45:55Z",
+        "updatedAt": "2022-03-18T10:45:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "soss1VQLhnI6-qm5u0jfyojgC9I",
+      "id": "UgzZIqNNgy_kJwiiEo14AaABAg.9Zi0OVM1Zb79ZiADTUGKvO",
+      "snippet": {
+        "textDisplay": "Obrigado!!",
+        "textOriginal": "Obrigado!!",
+        "parentId": "UgzZIqNNgy_kJwiiEo14AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-18T12:11:47Z",
+        "updatedAt": "2022-03-18T12:11:47Z"
+      }
+    }
+  ]
+}

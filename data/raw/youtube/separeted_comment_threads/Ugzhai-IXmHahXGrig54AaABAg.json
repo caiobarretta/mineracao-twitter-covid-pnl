@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xq9ec3tIQjTv4_N8d_meAxT_IlM",
+  "id": "Ugzhai-IXmHahXGrig54AaABAg",
+  "snippet": {
+    "videoId": "kW0PGxMCbkE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iaXzxCSNTrV7v_v-MVRVtzSWyvU",
+      "id": "Ugzhai-IXmHahXGrig54AaABAg",
+      "snippet": {
+        "videoId": "kW0PGxMCbkE",
+        "textDisplay": "Qual a efic\u00e1cia do teste?",
+        "textOriginal": "Qual a efic\u00e1cia do teste?",
+        "authorDisplayName": "Romulo Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJPGXIPMrDkXKfRTVP0bUtTUmqva21xefWhw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGKXk5x1olJ4vRkUT21B4uA",
+        "authorChannelId": {
+          "value": "UCGKXk5x1olJ4vRkUT21B4uA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-01T15:21:17Z",
+        "updatedAt": "2020-08-01T15:21:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yJog_hrHvagUWvWqF2LsqZv3xns",
+      "id": "Ugzhai-IXmHahXGrig54AaABAg.9Bp-iddkr8L9H0cnIqDJnG",
+      "snippet": {
+        "textDisplay": "0%",
+        "textOriginal": "0%",
+        "parentId": "Ugzhai-IXmHahXGrig54AaABAg",
+        "authorDisplayName": "Arnon Schaefer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPj7BmocuoqE7NPB1lGy6wVVF2dmp6_8vxhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBFD9FzdN-3k3rsaFwTJ_lQ",
+        "authorChannelId": {
+          "value": "UCBFD9FzdN-3k3rsaFwTJ_lQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-08T19:39:18Z",
+        "updatedAt": "2020-12-08T19:39:18Z"
+      }
+    }
+  ]
+}

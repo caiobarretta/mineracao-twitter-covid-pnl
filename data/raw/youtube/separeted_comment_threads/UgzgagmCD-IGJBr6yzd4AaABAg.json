@@ -1,0 +1,160 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iNm6xsVHyhko2ypEluDdvDyZKuA",
+  "id": "UgzgagmCD-IGJBr6yzd4AaABAg",
+  "snippet": {
+    "videoId": "gbSRoLZoFhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5i23mo-Nor7fll7_ea--WDzDKak",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg",
+      "snippet": {
+        "videoId": "gbSRoLZoFhI",
+        "textDisplay": "Com este comando eu \"pego\" os 10000 resultados\njson.dumps({\n  \"size\": 10000\n})\nComo fa\u00e7o para pegar todos?\nObrigado",
+        "textOriginal": "Com este comando eu \"pego\" os 10000 resultados\njson.dumps({\n  \"size\": 10000\n})\nComo fa\u00e7o para pegar todos?\nObrigado",
+        "authorDisplayName": "Vitor Bocchini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZfWo6SixjaJcAxmOZD4PWznNqEalTuN23owtz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqfhG8W8cxF2PXYwVjUtjSQ",
+        "authorChannelId": {
+          "value": "UCqfhG8W8cxF2PXYwVjUtjSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T12:32:05Z",
+        "updatedAt": "2021-04-12T12:32:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 6,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YTL_FGwf4E9gkMmkWGjmTfkyROI",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9Su7lTEjUBY",
+      "snippet": {
+        "textDisplay": "@Laura Nunes Cardoso Ol\u00e1 Luana, n\u00e3o tentei mais, amanha ou depois eu entro na API e te falo bjos",
+        "textOriginal": "@Laura Nunes Cardoso Ol\u00e1 Luana, n\u00e3o tentei mais, amanha ou depois eu entro na API e te falo bjos",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Vitor Bocchini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZfWo6SixjaJcAxmOZD4PWznNqEalTuN23owtz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqfhG8W8cxF2PXYwVjUtjSQ",
+        "authorChannelId": {
+          "value": "UCqfhG8W8cxF2PXYwVjUtjSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-30T04:01:29Z",
+        "updatedAt": "2021-09-30T04:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8KzIskgZgQ88uHMT8RCoS7K40VM",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9StBqa2eDnM",
+      "snippet": {
+        "textDisplay": "conseguiu pegar tudo? aqui n\u00e3o deu certo",
+        "textOriginal": "conseguiu pegar tudo? aqui n\u00e3o deu certo",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Laura Nunes Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWkOIdR3NqucrnBXn-pLeaeggEGQVKF1hyhjibhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClpsvEnIbndYj04d-PT7Qvg",
+        "authorChannelId": {
+          "value": "UClpsvEnIbndYj04d-PT7Qvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-29T19:17:53Z",
+        "updatedAt": "2021-09-29T19:17:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Y1vBJ7gzwZ4c_jfGi-r3c9NkLuo",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9SJNTR5sv3_",
+      "snippet": {
+        "textDisplay": "@Antonio Mendes Bom dia Antonio, poderia compartilhar os c\u00f3digos  de como fica a configura\u00e7\u00e3o desse processo? n\u00e3o estou conseguindo.",
+        "textOriginal": "@Antonio Mendes Bom dia Antonio, poderia compartilhar os c\u00f3digos  de como fica a configura\u00e7\u00e3o desse processo? n\u00e3o estou conseguindo.",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Thiago Reolon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS85UVtG8JGCzRMLDM8kpNMTrn5HAGanhemDJF5Yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr2mEift7xqhnRye1Jr8ZQQ",
+        "authorChannelId": {
+          "value": "UCr2mEift7xqhnRye1Jr8ZQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-15T12:07:33Z",
+        "updatedAt": "2021-09-15T12:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "vk2kA0vpgankze6Ita_8KUtSoJU",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9M_BgFQ4A6v",
+      "snippet": {
+        "textDisplay": "D\u00e1 uma olhada no manual da API, l\u00e1 explica o passo a passo ;)",
+        "textOriginal": "D\u00e1 uma olhada no manual da API, l\u00e1 explica o passo a passo ;)",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Programa\u00e7\u00e3o Din\u00e2mica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRF8uYoPtR38nc4HOUKqNewFRKqxrSKz_yFCKa1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg",
+        "authorChannelId": {
+          "value": "UC70mr11REaCqgKke7DPJoLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-25T21:43:18Z",
+        "updatedAt": "2021-04-25T21:43:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8caILZaKesWzI1oUhqMJ4t67iLQ",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9MUQLtl4_pg",
+      "snippet": {
+        "textDisplay": "@Antonio Mendes como fa\u00e7o isso?",
+        "textOriginal": "@Antonio Mendes como fa\u00e7o isso?",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Marcos Andr\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTY3bav0KSOM-3bur3RNktFJr3ar1W330XAZ1k_-sk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw52NkxbETtAeqsT4C4waIw",
+        "authorChannelId": {
+          "value": "UCw52NkxbETtAeqsT4C4waIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-23T15:56:01Z",
+        "updatedAt": "2021-04-23T15:56:01Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "L9PYijBfPjjzAWDWcS2QXKg3dCw",
+      "id": "UgzgagmCD-IGJBr6yzd4AaABAg.9M1jGZo140a9M6O6n4P0rT",
+      "snippet": {
+        "textDisplay": "Voc\u00ea precisa mudar a URL de requisi\u00e7\u00e3o, adicionando ?scroll=1m ao final. Quando requisitar pela primeira vez, ele retornar\u00e1 um campo chamado scroll_id, que deve ser repassado na pr\u00f3xima requisi\u00e7\u00e3o tamb\u00e9m. Voc\u00ea ficar\u00e1 requisitando at\u00e9 consumir todos os dados (hits volte vazio).",
+        "textOriginal": "Voc\u00ea precisa mudar a URL de requisi\u00e7\u00e3o, adicionando ?scroll=1m ao final. Quando requisitar pela primeira vez, ele retornar\u00e1 um campo chamado scroll_id, que deve ser repassado na pr\u00f3xima requisi\u00e7\u00e3o tamb\u00e9m. Voc\u00ea ficar\u00e1 requisitando at\u00e9 consumir todos os dados (hits volte vazio).",
+        "parentId": "UgzgagmCD-IGJBr6yzd4AaABAg",
+        "authorDisplayName": "Antonio Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1sTuAFNzzDKe1pb2bxnvTdiXWW996jx5MoQRICQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKiag-7p1igaR7GaM5Y9Pdw",
+        "authorChannelId": {
+          "value": "UCKiag-7p1igaR7GaM5Y9Pdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-14T07:54:42Z",
+        "updatedAt": "2021-04-14T07:54:42Z"
+      }
+    }
+  ]
+}

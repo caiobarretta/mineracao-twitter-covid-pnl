@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OXb6vUAPpQdriPUUZiT3QRcf3hg",
+  "id": "Ugw_LP20I4pSf3xJ_dZ4AaABAg",
+  "snippet": {
+    "videoId": "dLKMgS-WCDc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YujsIi6zafgfoo9pRcMIA1qGj88",
+      "id": "Ugw_LP20I4pSf3xJ_dZ4AaABAg",
+      "snippet": {
+        "videoId": "dLKMgS-WCDc",
+        "textDisplay": "Curse the person who ate the bat",
+        "textOriginal": "Curse the person who ate the bat",
+        "authorDisplayName": "Just Some NEW Guy With A Mustache",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ApFENecTsbZw83kMAK1CD81w7ZPP8IHmOWO17TEUj-vdzSoEEU0I3SxlhOUOEBjiOxHMYOQveWE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGrec2Kx5hkv08A5D1osq_g",
+        "authorChannelId": {
+          "value": "UCGrec2Kx5hkv08A5D1osq_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-30T16:13:35Z",
+        "updatedAt": "2021-08-30T16:13:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Lnx51X72Skhs_o_YB3oCCtXKGxo",
+      "id": "Ugw_LP20I4pSf3xJ_dZ4AaABAg.9RfbuP8FYsM9RlHmejsmwe",
+      "snippet": {
+        "textDisplay": "Curse the person at fort Detrick biolab",
+        "textOriginal": "Curse the person at fort Detrick biolab",
+        "parentId": "Ugw_LP20I4pSf3xJ_dZ4AaABAg",
+        "authorDisplayName": "Entary 4",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTz7jJWLpabEcPGaJ7sPsSG3UJeCeLRuTEkvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCskckfwLnaJsHw6PnNsYrDA",
+        "authorChannelId": {
+          "value": "UCskckfwLnaJsHw6PnNsYrDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-01T21:04:28Z",
+        "updatedAt": "2021-09-01T21:04:28Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "JADpDwPh_W9OsLfzGLwh5vzMYbE",
+      "id": "Ugw_LP20I4pSf3xJ_dZ4AaABAg.9RfbuP8FYsM9Rfc64b-0sK",
+      "snippet": {
+        "textDisplay": "No one ate the bat...",
+        "textOriginal": "No one ate the bat...",
+        "parentId": "Ugw_LP20I4pSf3xJ_dZ4AaABAg",
+        "authorDisplayName": "Yun Ki Lee",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXVQ_LMHxrM5l7oGlkPuuQv9dkLAQ5U4muSFdwHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAy1rr0IUx2MuO1nsqCHc_g",
+        "authorChannelId": {
+          "value": "UCAy1rr0IUx2MuO1nsqCHc_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-30T16:15:19Z",
+        "updatedAt": "2021-08-30T16:15:19Z"
+      }
+    }
+  ]
+}

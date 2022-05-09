@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H8Wp3AkawErq1z5_KaZTpUUSeiE",
+  "id": "Ugx5J1Iqo3snvD9sRn14AaABAg",
+  "snippet": {
+    "videoId": "mX8prrueSVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "smKt48vsE5eqZNi6LQ3lpwDuJPY",
+      "id": "Ugx5J1Iqo3snvD9sRn14AaABAg",
+      "snippet": {
+        "videoId": "mX8prrueSVg",
+        "textDisplay": "Muito obrigado. Ajudou muito com suas informa\u00e7\u00f5es",
+        "textOriginal": "Muito obrigado. Ajudou muito com suas informa\u00e7\u00f5es",
+        "authorDisplayName": "Fagner Albuquerque",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zhQDBDQXCbXy2ta2TF-gKwNewwiZcbx-epsMkqsGt3JCGmBh8AZnRhVWb7DdMkxar5e3hA966g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6cAiNC9rHVzo8JHt31A-XQ",
+        "authorChannelId": {
+          "value": "UC6cAiNC9rHVzo8JHt31A-XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-02T23:55:16Z",
+        "updatedAt": "2021-12-02T23:55:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KgVzgbIBDUUiKlzMdYQosjnpHlw",
+      "id": "Ugx5J1Iqo3snvD9sRn14AaABAg.9VTUT82biwI9V_c4x01_Tq",
+      "snippet": {
+        "textDisplay": "Feliz por ter ajudado",
+        "textOriginal": "Feliz por ter ajudado",
+        "parentId": "Ugx5J1Iqo3snvD9sRn14AaABAg",
+        "authorDisplayName": "Viajar \u00e9 Simples",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSScyZVQ2opM9awPf8Fm-IEfJjuW7UOKx5eNk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC--QhSn5tTibn4QKBKRUVIw",
+        "authorChannelId": {
+          "value": "UC--QhSn5tTibn4QKBKRUVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-05T18:25:17Z",
+        "updatedAt": "2021-12-05T18:25:17Z"
+      }
+    }
+  ]
+}

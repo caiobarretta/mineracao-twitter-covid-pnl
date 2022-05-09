@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_bnAyVpro6yqkb6vKtlNewcuwaw",
+  "id": "UgwWcJg3UHp6NjqmvWl4AaABAg",
+  "snippet": {
+    "videoId": "QfujFQt9Cnc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8McgNQOth6LMqVZ--5YS07TBOvA",
+      "id": "UgwWcJg3UHp6NjqmvWl4AaABAg",
+      "snippet": {
+        "videoId": "QfujFQt9Cnc",
+        "textDisplay": "O supremo est\u00e1 cavando a pr\u00f3pria ru\u00edna",
+        "textOriginal": "O supremo est\u00e1 cavando a pr\u00f3pria ru\u00edna",
+        "authorDisplayName": "J\u00falio C\u00e9sar Lage",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyg9HThTqw8kteRbmo_L93hqenPOknodjlZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-WM6ffkEc-nk7yLc9IbChg",
+        "authorChannelId": {
+          "value": "UC-WM6ffkEc-nk7yLc9IbChg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2022-05-06T10:50:56Z",
+        "updatedAt": "2022-05-06T10:50:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "88baA4_phr0dGbw9ZR4LxzsmiXA",
+      "id": "UgwWcJg3UHp6NjqmvWl4AaABAg.9agBv6QMq5e9agJsAdz2NC",
+      "snippet": {
+        "textDisplay": "vejo isso tamb\u00e9m, e acho \u00f3timo eles n\u00e3o enxergaram ...e cada vez v\u00e3o ruindo mais de pouco em pouco",
+        "textOriginal": "vejo isso tamb\u00e9m, e acho \u00f3timo eles n\u00e3o enxergaram ...e cada vez v\u00e3o ruindo mais de pouco em pouco",
+        "parentId": "UgwWcJg3UHp6NjqmvWl4AaABAg",
+        "authorDisplayName": "Rodrigo Rodarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrhc9ZESveoeOXRZcWxZjF27EyAiaRtAch4X8iyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUcdVe0O6-fW94Fv7yH_E6w",
+        "authorChannelId": {
+          "value": "UCUcdVe0O6-fW94Fv7yH_E6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-06T12:00:26Z",
+        "updatedAt": "2022-05-06T12:00:26Z"
+      }
+    }
+  ]
+}

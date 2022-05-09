@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Dv9v3PwPN8fhh4ZLvoEwPeGcLlo",
+  "id": "UgwGRGKJkQH9zwguSkd4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "75eNdN3rB8JJi13Y3w9Ok_PKOfw",
+      "id": "UgwGRGKJkQH9zwguSkd4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Parab\u00e9ns Bruno, seu conte\u00fado \u00e9 maravilhoso, me ajudou demais, obrigado",
+        "textOriginal": "Parab\u00e9ns Bruno, seu conte\u00fado \u00e9 maravilhoso, me ajudou demais, obrigado",
+        "authorDisplayName": "Maria Eliene De Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQa0F83J4g48wz7T5YohfGU6pb1EzwP_jYs7fn4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXqHfmMeL-KHfTxUlAwgq7Q",
+        "authorChannelId": {
+          "value": "UCXqHfmMeL-KHfTxUlAwgq7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-07T11:25:53Z",
+        "updatedAt": "2021-12-07T11:25:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "G7jJqp2grnMmF8Ruo2v-zSypU3c",
+      "id": "UgwGRGKJkQH9zwguSkd4AaABAg.9Ve0fpKDkQC9Ve95EW43XB",
+      "snippet": {
+        "textDisplay": "Quem bom que pude ajudar \ud83d\ude00",
+        "textOriginal": "Quem bom que pude ajudar \ud83d\ude00",
+        "parentId": "UgwGRGKJkQH9zwguSkd4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-07T12:39:23Z",
+        "updatedAt": "2021-12-07T12:39:23Z"
+      }
+    }
+  ]
+}

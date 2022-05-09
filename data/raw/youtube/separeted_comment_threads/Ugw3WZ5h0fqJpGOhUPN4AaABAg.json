@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aE_xsuoPG4qxBZKtFjECX_wKiEs",
+  "id": "Ugw3WZ5h0fqJpGOhUPN4AaABAg",
+  "snippet": {
+    "videoId": "U-zPbEzdBh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CV6m1J-EjOvIHoK5kfRonTnfISM",
+      "id": "Ugw3WZ5h0fqJpGOhUPN4AaABAg",
+      "snippet": {
+        "videoId": "U-zPbEzdBh0",
+        "textDisplay": "muito bom",
+        "textOriginal": "muito bom",
+        "authorDisplayName": "BiaDiger",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/CsQwqRgodYHVEm8gD1GstSBM9xgFYIuIOKF3QjR9W0p-hr02IOHsRqu5jKuXUzLLomQOcU74=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbzRmaZYV27cBPqJ5wT5bLA",
+        "authorChannelId": {
+          "value": "UCbzRmaZYV27cBPqJ5wT5bLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-12T01:39:13Z",
+        "updatedAt": "2021-04-12T01:39:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZpBNAlToEZn-MH5uyNFhrstL2dc",
+      "id": "Ugw3WZ5h0fqJpGOhUPN4AaABAg.9M0ZYq7ryJE9MC3DuYhm4e",
+      "snippet": {
+        "textDisplay": "Beatriz, obrigada pela participa\u00e7\u00e3o.",
+        "textOriginal": "Beatriz, obrigada pela participa\u00e7\u00e3o.",
+        "parentId": "Ugw3WZ5h0fqJpGOhUPN4AaABAg",
+        "authorDisplayName": "Nasc Treinamentos Enfermagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_gaaLCAh2sevqYQL4R8Smt5-d2Z3BngZ-al-K=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEsbdoJYnhm6x41nVQffYgw",
+        "authorChannelId": {
+          "value": "UCEsbdoJYnhm6x41nVQffYgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-16T12:47:37Z",
+        "updatedAt": "2021-04-16T12:47:37Z"
+      }
+    }
+  ]
+}

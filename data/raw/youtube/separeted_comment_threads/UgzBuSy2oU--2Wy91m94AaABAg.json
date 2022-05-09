@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8gt74BVI_Ijy2NapNPJM5eGy0XA",
+  "id": "UgzBuSy2oU--2Wy91m94AaABAg",
+  "snippet": {
+    "videoId": "zN0m66R_HVg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rNEM1PjIed0V4jS6jzzOyqRnTZ4",
+      "id": "UgzBuSy2oU--2Wy91m94AaABAg",
+      "snippet": {
+        "videoId": "zN0m66R_HVg",
+        "textDisplay": "Amei\u2764\ud83d\ude0dsuper bem explicado",
+        "textOriginal": "Amei\u2764\ud83d\ude0dsuper bem explicado",
+        "authorDisplayName": "Jenifer Morais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS79Kuhf_x4jW3RqnQi--yjQFrRvVvyu88X2g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCo3dfeUQYzb6SMsf3giMCZg",
+        "authorChannelId": {
+          "value": "UCo3dfeUQYzb6SMsf3giMCZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-07-28T21:16:30Z",
+        "updatedAt": "2021-07-28T21:16:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "y67WGu9Sv3-r3sVQ2GLIMNTIAKo",
+      "id": "UgzBuSy2oU--2Wy91m94AaABAg.9QMBLDDMX439QMHzms2vvF",
+      "snippet": {
+        "textDisplay": "Obrigada amore \u2764\ud83d\ude0d",
+        "textOriginal": "Obrigada amore \u2764\ud83d\ude0d",
+        "parentId": "UgzBuSy2oU--2Wy91m94AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-28T22:14:37Z",
+        "updatedAt": "2021-07-28T22:14:37Z"
+      }
+    }
+  ]
+}

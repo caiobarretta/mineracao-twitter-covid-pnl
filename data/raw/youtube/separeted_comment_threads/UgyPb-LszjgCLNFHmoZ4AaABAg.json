@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7TnMK_PD6rWNrKcR1qSeyCj1PZg",
+  "id": "UgyPb-LszjgCLNFHmoZ4AaABAg",
+  "snippet": {
+    "videoId": "bVL16u4O3a8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QrgOwuvv1OX4lVbLLxumgdREVBQ",
+      "id": "UgyPb-LszjgCLNFHmoZ4AaABAg",
+      "snippet": {
+        "videoId": "bVL16u4O3a8",
+        "textDisplay": "E uma bosta n\u00e3o consegui fazer o cadastro",
+        "textOriginal": "E uma bosta n\u00e3o consegui fazer o cadastro",
+        "authorDisplayName": "Wendel Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMSbKvzRbnp6_wiKvgqKDfyFSgOl4PuVFSKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmW-nRu_fwbLQ76wB5cSBMw",
+        "authorChannelId": {
+          "value": "UCmW-nRu_fwbLQ76wB5cSBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-08T15:50:47Z",
+        "updatedAt": "2021-12-08T15:50:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dDnjClxrTysC9OqMstYdNWWxqN8",
+      "id": "UgyPb-LszjgCLNFHmoZ4AaABAg.9Vh3mvQP-OV9W5amxc2pmZ",
+      "snippet": {
+        "textDisplay": "Tbm n\u00e3o, d\u00e1 erro de alguma coisa a\u00ed",
+        "textOriginal": "Tbm n\u00e3o, d\u00e1 erro de alguma coisa a\u00ed",
+        "parentId": "UgyPb-LszjgCLNFHmoZ4AaABAg",
+        "authorDisplayName": "An\u00f4nimo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5Sfim6Uhy290GjhvFKcg_32kzeE1pmBFi56l30w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzPdkmvCL-FRFhwI6n4PKYA",
+        "authorChannelId": {
+          "value": "UCzPdkmvCL-FRFhwI6n4PKYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-18T13:48:54Z",
+        "updatedAt": "2021-12-18T13:48:54Z"
+      }
+    }
+  ]
+}

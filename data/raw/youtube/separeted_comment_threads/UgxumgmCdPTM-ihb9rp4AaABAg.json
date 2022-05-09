@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "qmbWc-bQattOTBKve5raHlW9Kcg",
+  "etag": "FIOyfUkXCoAOs97mBekNNZQwFL4",
   "id": "UgxumgmCdPTM-ihb9rp4AaABAg",
   "snippet": {
     "videoId": "jATYbmGBBYc",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "8eNeZ581gnnXgleAzMHnaUcm6kU",
+      "etag": "bpRTm2vvIs3Zy_3QhDm0Gl57uEI",
       "id": "UgxumgmCdPTM-ihb9rp4AaABAg",
       "snippet": {
         "videoId": "jATYbmGBBYc",
@@ -20,16 +20,37 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 20,
+        "likeCount": 21,
         "publishedAt": "2022-05-09T01:20:01Z",
         "updatedAt": "2022-05-09T01:20:01Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 9,
+    "totalReplyCount": 11,
     "isPublic": true
   },
   "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qND5I6aJosnb6hw3jnbhjkeBrRY",
+      "id": "UgxumgmCdPTM-ihb9rp4AaABAg.9amtyBMJgME9aoK38KLwE4",
+      "snippet": {
+        "textDisplay": "Colorado? Our daily 80mph wind/fire storms help with ventilation.",
+        "textOriginal": "Colorado? Our daily 80mph wind/fire storms help with ventilation.",
+        "parentId": "UgxumgmCdPTM-ihb9rp4AaABAg",
+        "authorDisplayName": "L H",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXYIbA-cv-EPwrUimh9QyjD9zlm88zltqmrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRIE7m2p-IcpzrybNlkKKrQ",
+        "authorChannelId": {
+          "value": "UCRIE7m2p-IcpzrybNlkKKrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T14:36:00Z",
+        "updatedAt": "2022-05-09T14:36:00Z"
+      }
+    },
     {
       "kind": "youtube#comment",
       "etag": "kx2DFDRho2AJjrMbnT7b2SuZr30",

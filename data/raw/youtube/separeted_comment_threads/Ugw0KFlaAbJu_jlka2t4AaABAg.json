@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BF0CIU40shi2uqeFfqN2CGzuOcA",
+  "id": "Ugw0KFlaAbJu_jlka2t4AaABAg",
+  "snippet": {
+    "videoId": "U-zPbEzdBh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "D3KFCFZDNgp65mgE1-ppEycHcoU",
+      "id": "Ugw0KFlaAbJu_jlka2t4AaABAg",
+      "snippet": {
+        "videoId": "U-zPbEzdBh0",
+        "textDisplay": "Gostei.Muito objetiva!",
+        "textOriginal": "Gostei.Muito objetiva!",
+        "authorDisplayName": "Cristina Aragao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh2oOnmP0EuZHqnD9viP2wgv8EeeACta5FjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdJbwKDB7dz7SAy63Lcssow",
+        "authorChannelId": {
+          "value": "UCdJbwKDB7dz7SAy63Lcssow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-29T23:23:11Z",
+        "updatedAt": "2021-09-29T23:23:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "abPFldqdNlg9N2p_gzK6X27nA98",
+      "id": "Ugw0KFlaAbJu_jlka2t4AaABAg.9StcvB2pa-s9TDLStfXoxJ",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "Ugw0KFlaAbJu_jlka2t4AaABAg",
+        "authorDisplayName": "Nasc Treinamentos Enfermagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_gaaLCAh2sevqYQL4R8Smt5-d2Z3BngZ-al-K=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEsbdoJYnhm6x41nVQffYgw",
+        "authorChannelId": {
+          "value": "UCEsbdoJYnhm6x41nVQffYgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-08T00:25:57Z",
+        "updatedAt": "2021-10-08T00:25:57Z"
+      }
+    }
+  ]
+}

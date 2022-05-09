@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2GqWCdnLRyOMyO3vqxLFIUB6slQ",
+  "id": "UgzPxYNvnJMcAiqz1k54AaABAg",
+  "snippet": {
+    "videoId": "yqA0fVhApVc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-DsipqpEQeL-WwDaTJiE96pUF2Q",
+      "id": "UgzPxYNvnJMcAiqz1k54AaABAg",
+      "snippet": {
+        "videoId": "yqA0fVhApVc",
+        "textDisplay": "Hacen esto por que saben que es todo una farsa.",
+        "textOriginal": "Hacen esto por que saben que es todo una farsa.",
+        "authorDisplayName": "Mike Donovan2019",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQcNHTcYS2YmB11fDPSk2spCGdnaI_AuhMZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC80Xtz0nO5qEcvIpSIh73zw",
+        "authorChannelId": {
+          "value": "UC80Xtz0nO5qEcvIpSIh73zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-24T02:37:37Z",
+        "updatedAt": "2021-03-24T02:37:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GQC1jv09yJYLga5eVv_I46vHYWE",
+      "id": "UgzPxYNvnJMcAiqz1k54AaABAg.9LFk7vOqjWP9LGtXwCpF-l",
+      "snippet": {
+        "textDisplay": "@DragRaceOpulence Vos sabes que yo tambi\u00e9n fui de viaje a varios lados sin barbijo sin nada y anduve por todos lados y nunca me contagie de nada, que virus tan letal.",
+        "textOriginal": "@DragRaceOpulence Vos sabes que yo tambi\u00e9n fui de viaje a varios lados sin barbijo sin nada y anduve por todos lados y nunca me contagie de nada, que virus tan letal.",
+        "parentId": "UgzPxYNvnJMcAiqz1k54AaABAg",
+        "authorDisplayName": "Mike Donovan2019",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQcNHTcYS2YmB11fDPSk2spCGdnaI_AuhMZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC80Xtz0nO5qEcvIpSIh73zw",
+        "authorChannelId": {
+          "value": "UC80Xtz0nO5qEcvIpSIh73zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T13:19:02Z",
+        "updatedAt": "2021-03-24T13:19:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "oqO0m8AY9ZaiYR53-obeX0tnIOU",
+      "id": "UgzPxYNvnJMcAiqz1k54AaABAg.9LFk7vOqjWP9LG8pSJwu10",
+      "snippet": {
+        "textDisplay": "Fui de viaje y me contagi\u00e9 en el bar que mostraron en el v\u00eddeo :)",
+        "textOriginal": "Fui de viaje y me contagi\u00e9 en el bar que mostraron en el v\u00eddeo :)",
+        "parentId": "UgzPxYNvnJMcAiqz1k54AaABAg",
+        "authorDisplayName": "DragRaceOpulence",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1ybO-hMcGvjSAuKH3p4M0g6MSmlLaRoC6wJv2mg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7bg6KGrbfBzI5GCMbV2LIA",
+        "authorChannelId": {
+          "value": "UC7bg6KGrbfBzI5GCMbV2LIA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T06:22:08Z",
+        "updatedAt": "2021-03-24T06:22:08Z"
+      }
+    }
+  ]
+}

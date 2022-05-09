@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WNyliQ9u81dGQRoKc2WcCrwf7HU",
+  "id": "UgymcJbVKj3uBXXN5Tt4AaABAg",
+  "snippet": {
+    "videoId": "KGxwh39emiE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_RX5t-rG8StWOE9xevrRNLmkUM0",
+      "id": "UgymcJbVKj3uBXXN5Tt4AaABAg",
+      "snippet": {
+        "videoId": "KGxwh39emiE",
+        "textDisplay": "Brought to you by Pfizer.",
+        "textOriginal": "Brought to you by Pfizer.",
+        "authorDisplayName": "PalWhi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEA8Iq9Zs4h62uBcFfjF69y7521SHFCmG6ZA9JwyyuYRsS-B5ze_kmtGTR3_ZR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClHcOrxYpHUN9RIniAM89-A",
+        "authorChannelId": {
+          "value": "UClHcOrxYpHUN9RIniAM89-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2022-01-28T12:29:34Z",
+        "updatedAt": "2022-01-28T12:29:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5MpFX5kDR8oELz-5eQp3QqeNhk0",
+      "id": "UgymcJbVKj3uBXXN5Tt4AaABAg.9Xk1IqvwjRP9XlgITom1P0",
+      "snippet": {
+        "textDisplay": "True  \ud83d\udc4d",
+        "textOriginal": "True  \ud83d\udc4d",
+        "parentId": "UgymcJbVKj3uBXXN5Tt4AaABAg",
+        "authorDisplayName": "Jocelyn Joseph",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ5fbYdFxYZo8VFaJvcw8ewsD80nLsbE5PLg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCviWtTgq3hhEqNk0I0KJw9w",
+        "authorChannelId": {
+          "value": "UCviWtTgq3hhEqNk0I0KJw9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-29T03:55:46Z",
+        "updatedAt": "2022-01-29T03:55:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZSxzlidgCDvlaleFayfK0T2476M",
+      "id": "UgymcJbVKj3uBXXN5Tt4AaABAg.9Xk1IqvwjRP9Xka9-VGOnG",
+      "snippet": {
+        "textDisplay": "Exactly",
+        "textOriginal": "Exactly",
+        "parentId": "UgymcJbVKj3uBXXN5Tt4AaABAg",
+        "authorDisplayName": "Kiril Mihaylov",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRiDtX2IO1kJtcIUOMiC_paN5Ud1QLRZPgtTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVsMBQdkkF_17-f-8V-B5OQ",
+        "authorChannelId": {
+          "value": "UCVsMBQdkkF_17-f-8V-B5OQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-28T17:42:48Z",
+        "updatedAt": "2022-01-28T17:42:48Z"
+      }
+    }
+  ]
+}

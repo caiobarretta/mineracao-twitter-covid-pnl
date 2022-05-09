@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NZzCpPNSKMHPOyQq5W2ZfwoHfMg",
+  "id": "UgzYKcwuHJVbF52l0uV4AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CJ7xa1TqZcElJoign6ZoIZbb3LU",
+      "id": "UgzYKcwuHJVbF52l0uV4AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Boa tarde! Feito apenas isso voc\u00ea j\u00e1 estar\u00e1 cadastrado?",
+        "textOriginal": "Boa tarde! Feito apenas isso voc\u00ea j\u00e1 estar\u00e1 cadastrado?",
+        "authorDisplayName": "Vit\u00f3ria Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScctCzIU19t92rwbG7SpkIzv3bPfzFG3_pbQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCczmznjS_R53FBe4TgqwhcA",
+        "authorChannelId": {
+          "value": "UCczmznjS_R53FBe4TgqwhcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-29T20:05:31Z",
+        "updatedAt": "2021-03-29T20:05:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "T9vRH5PD4c2iskuiFNDPQfDE0Lk",
+      "id": "UgzYKcwuHJVbF52l0uV4AaABAg.9LUV1NOBBUo9Lbd0QjqNx2",
+      "snippet": {
+        "textDisplay": "Ainda pode se inscrever?",
+        "textOriginal": "Ainda pode se inscrever?",
+        "parentId": "UgzYKcwuHJVbF52l0uV4AaABAg",
+        "authorDisplayName": "carlos cc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS485eZMi9iytuDfn5pstWCcN0lEN6iJJo0cCM8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfw0-rbXt4PBDPz5Anr59LA",
+        "authorChannelId": {
+          "value": "UCfw0-rbXt4PBDPz5Anr59LA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-01T23:57:57Z",
+        "updatedAt": "2021-04-01T23:57:57Z"
+      }
+    }
+  ]
+}

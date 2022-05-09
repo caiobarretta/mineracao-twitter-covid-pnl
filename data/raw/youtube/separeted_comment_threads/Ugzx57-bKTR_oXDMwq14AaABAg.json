@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9cgxcSRoutEPvYGe8Y3GUEMtfHw",
+  "id": "Ugzx57-bKTR_oXDMwq14AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "epm0KJ1mjoCF5wQHYyXlbFZ0Fus",
+      "id": "Ugzx57-bKTR_oXDMwq14AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "Gostei de saber da hist\u00f3ria do sus",
+        "textOriginal": "Gostei de saber da hist\u00f3ria do sus",
+        "authorDisplayName": "Nat\u00e1lia Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0Zh4t2ZKaMVrDl8DnAGgSIr2wf3qMEgTAZg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcwsmyvi1HDSafLNYLDrZ7w",
+        "authorChannelId": {
+          "value": "UCcwsmyvi1HDSafLNYLDrZ7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-10T16:07:56Z",
+        "updatedAt": "2019-03-10T16:07:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qsUJBpoPsE5td2lYKWPst1ufRnE",
+      "id": "Ugzx57-bKTR_oXDMwq14AaABAg.8sIse5M8oqz8sLQ-eagQW-",
+      "snippet": {
+        "textDisplay": "Ficamos felizes em saber que a aula te agradou! (=",
+        "textOriginal": "Ficamos felizes em saber que a aula te agradou! (=",
+        "parentId": "Ugzx57-bKTR_oXDMwq14AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-11T15:46:36Z",
+        "updatedAt": "2019-03-11T15:46:36Z"
+      }
+    }
+  ]
+}

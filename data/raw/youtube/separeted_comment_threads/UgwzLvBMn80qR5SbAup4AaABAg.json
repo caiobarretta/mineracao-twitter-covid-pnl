@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WJBOcKHjkSNbQdH_zFlYiDexJOA",
+  "id": "UgwzLvBMn80qR5SbAup4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "g9ZT99mnT_fyp4oplEsDig48PQI",
+      "id": "UgwzLvBMn80qR5SbAup4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Me ajudou muito, voc\u00ea \u00e9 luz! \u2728\u2764\ufe0f",
+        "textOriginal": "Me ajudou muito, voc\u00ea \u00e9 luz! \u2728\u2764\ufe0f",
+        "authorDisplayName": "Elaine da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFBDp2tAhqLF3d_54R8YA41ZJ8ZUB2pQJi9g1otw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsG7cQQMXGOmraBH3Sn7QlA",
+        "authorChannelId": {
+          "value": "UCsG7cQQMXGOmraBH3Sn7QlA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-13T04:10:21Z",
+        "updatedAt": "2022-01-13T04:10:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kmUcuGb-k4fwJrZd7weMHipGyF4",
+      "id": "UgwzLvBMn80qR5SbAup4AaABAg.9X7WFIqv3cv9X80zTZW-Ds",
+      "snippet": {
+        "textDisplay": "\u263a\ufe0f",
+        "textOriginal": "\u263a\ufe0f",
+        "parentId": "UgwzLvBMn80qR5SbAup4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T08:56:25Z",
+        "updatedAt": "2022-01-13T08:56:25Z"
+      }
+    }
+  ]
+}

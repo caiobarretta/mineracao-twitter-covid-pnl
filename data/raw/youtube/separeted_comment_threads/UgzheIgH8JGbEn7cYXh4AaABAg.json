@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vDAOoKPnK407IA-tFzeX5N8R6jA",
+  "id": "UgzheIgH8JGbEn7cYXh4AaABAg",
+  "snippet": {
+    "videoId": "C-ccaCCZgAY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TqvfNQUD5yZdncT3lvAFvjMWy8g",
+      "id": "UgzheIgH8JGbEn7cYXh4AaABAg",
+      "snippet": {
+        "videoId": "C-ccaCCZgAY",
+        "textDisplay": "Mto legal.. Dica super \u00fatil ! Obrigada Armando \ud83d\ude37",
+        "textOriginal": "Mto legal.. Dica super \u00fatil ! Obrigada Armando \ud83d\ude37",
+        "authorDisplayName": "Glaucia GAD",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhRoGmF8BGbxrt6sA0ZF5B0IQOsSSZecCRuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSjbpL1NrisKw1fftFcCmkw",
+        "authorChannelId": {
+          "value": "UCSjbpL1NrisKw1fftFcCmkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-18T22:11:07Z",
+        "updatedAt": "2020-04-18T22:11:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0jTBboR6xPe6cPl-bXzTi-IbJTU",
+      "id": "UgzheIgH8JGbEn7cYXh4AaABAg.97bN9SdCeSC97bNn07I1Nj",
+      "snippet": {
+        "textDisplay": "Obrigado Glau!!!",
+        "textOriginal": "Obrigado Glau!!!",
+        "parentId": "UgzheIgH8JGbEn7cYXh4AaABAg",
+        "authorDisplayName": "Apps e Ajustes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPvPrQugMOwn92v5NTNqzCD4uVXQN-An_3TBA8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfN_USbKTYNL1_591XJ1J3g",
+        "authorChannelId": {
+          "value": "UCfN_USbKTYNL1_591XJ1J3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-18T22:16:39Z",
+        "updatedAt": "2020-04-18T22:16:39Z"
+      }
+    }
+  ]
+}

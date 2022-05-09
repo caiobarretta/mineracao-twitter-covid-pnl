@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5cficql8wy5HzmIrFxSHqI7Br50",
+  "id": "UgzQEW4ljEaFPJuLZht4AaABAg",
+  "snippet": {
+    "videoId": "AZzFw7wOBKk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "babirzeYo420WE_zAF2wnE0nglY",
+      "id": "UgzQEW4ljEaFPJuLZht4AaABAg",
+      "snippet": {
+        "videoId": "AZzFw7wOBKk",
+        "textDisplay": "J\u00e1 chega de quarentena dr",
+        "textOriginal": "J\u00e1 chega de quarentena dr",
+        "authorDisplayName": "Mauri Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0EFZxI6sLnEXZDEoDujo-D6K6Nj6Z2HczYhgFAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF1WeGgPL2Of2K4gr3zcWAg",
+        "authorChannelId": {
+          "value": "UCF1WeGgPL2Of2K4gr3zcWAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-31T21:13:42Z",
+        "updatedAt": "2020-08-31T21:13:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s9UC-az68I7QTOZFbxjYaniqqpI",
+      "id": "UgzQEW4ljEaFPJuLZht4AaABAg.9D1su0YaPWb9DKCfXwc7oO",
+      "snippet": {
+        "textDisplay": "N \u00e9 vc q determina isso..",
+        "textOriginal": "N \u00e9 vc q determina isso..",
+        "parentId": "UgzQEW4ljEaFPJuLZht4AaABAg",
+        "authorDisplayName": "Carolina Vianna",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQRwLIYIkcy1dw59ig5xuVVTM1wVARcqdTRnuKN1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa48R09rlvwAA6BB0zBdbaQ",
+        "authorChannelId": {
+          "value": "UCa48R09rlvwAA6BB0zBdbaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-08T00:01:33Z",
+        "updatedAt": "2020-09-08T00:01:33Z"
+      }
+    }
+  ]
+}

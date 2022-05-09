@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5ZAr_jKiAnVFAzcdR4wMh-yc7yQ",
+  "id": "Ugyn-luL9LvKeXe77Ed4AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QSwf5qVzr7u6iU5ardJaAKp05hE",
+      "id": "Ugyn-luL9LvKeXe77Ed4AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "Excelente aula. Parab\u00e9ns!!!",
+        "textOriginal": "Excelente aula. Parab\u00e9ns!!!",
+        "authorDisplayName": "Samuel Rocha Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQshdxC8z7fPEZTi5SjWwQNFBYStxSES2VYyVMfBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF1o2mDZW4cy1cf36CyDDTw",
+        "authorChannelId": {
+          "value": "UCF1o2mDZW4cy1cf36CyDDTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2019-05-17T23:15:57Z",
+        "updatedAt": "2019-05-17T23:15:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fi8Pc4JSe_Dz_QDU3M3dtFbKosI",
+      "id": "Ugyn-luL9LvKeXe77Ed4AaABAg.8v2jgU2q3Jm8vEnvk20PB2",
+      "snippet": {
+        "textDisplay": "Agradecemos pelo coment\u00e1rio! Que bom que voc\u00ea curtiu o conte\u00fado propagado! (=",
+        "textOriginal": "Agradecemos pelo coment\u00e1rio! Que bom que voc\u00ea curtiu o conte\u00fado propagado! (=",
+        "parentId": "Ugyn-luL9LvKeXe77Ed4AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-05-22T15:43:53Z",
+        "updatedAt": "2019-05-22T15:43:53Z"
+      }
+    }
+  ]
+}

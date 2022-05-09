@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CL64byHmdRQgTLiIfIXJhx-TjPg",
+  "id": "UgyZnkxYYW2O4mWSRDB4AaABAg",
+  "snippet": {
+    "videoId": "k_nfuHqvf9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7gSfyMhF6JIhJxl4lxTW5wNZZhE",
+      "id": "UgyZnkxYYW2O4mWSRDB4AaABAg",
+      "snippet": {
+        "videoId": "k_nfuHqvf9M",
+        "textDisplay": "Tuve Omicron. Duro 48 horas. Es una gripe pero no fuerte. He tenido peores",
+        "textOriginal": "Tuve Omicron. Duro 48 horas. Es una gripe pero no fuerte. He tenido peores",
+        "authorDisplayName": "Daniela Oro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPgP4PDQ6bjYfW_n6vbK8t4iP0f5pUZXEZEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl9D1IN3kcPL_zkufjkhyqA",
+        "authorChannelId": {
+          "value": "UCl9D1IN3kcPL_zkufjkhyqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-01-11T06:57:23Z",
+        "updatedAt": "2022-01-11T06:57:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0jVmkMhRStxQPaQb0LBHameBYRQ",
+      "id": "UgyZnkxYYW2O4mWSRDB4AaABAg.9X2eltw4rEk9YvkelKwK_E",
+      "snippet": {
+        "textDisplay": "el problema es contagiar",
+        "textOriginal": "el problema es contagiar",
+        "parentId": "UgyZnkxYYW2O4mWSRDB4AaABAg",
+        "authorDisplayName": "AJ TR",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT98N387ZzCANdUWpuEmN9jqNFhwyAm0AP-O3sk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCh-WFOr7xeZ1Amp8Tm6J5ww",
+        "authorChannelId": {
+          "value": "UCh-WFOr7xeZ1Amp8Tm6J5ww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-26T22:17:42Z",
+        "updatedAt": "2022-02-26T22:17:42Z"
+      }
+    }
+  ]
+}

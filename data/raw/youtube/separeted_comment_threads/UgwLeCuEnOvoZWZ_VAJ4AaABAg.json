@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jzxQLDwrPaC59vKt_7jzx7PPOrs",
+  "id": "UgwLeCuEnOvoZWZ_VAJ4AaABAg",
+  "snippet": {
+    "videoId": "yqA0fVhApVc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5vueG-vN_ti16R7W3Fl7Nr_IeS4",
+      "id": "UgwLeCuEnOvoZWZ_VAJ4AaABAg",
+      "snippet": {
+        "videoId": "yqA0fVhApVc",
+        "textDisplay": "Me encanta brabo x los que disfrutan yo hago lo mismo x que soy libre",
+        "textOriginal": "Me encanta brabo x los que disfrutan yo hago lo mismo x que soy libre",
+        "authorDisplayName": "Miguel Alava",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRohhJdwEfsc2sBB__deNVaaU8rLVslDkGK0w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPsOzwBORU33a_A43H2hklQ",
+        "authorChannelId": {
+          "value": "UCPsOzwBORU33a_A43H2hklQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2021-03-23T14:48:46Z",
+        "updatedAt": "2021-03-23T14:48:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qXm5Z2rp2XQFl3mxnvhoxUTQboQ",
+      "id": "UgwLeCuEnOvoZWZ_VAJ4AaABAg.9LEU0FA46MY9LFdUNZOCd0",
+      "snippet": {
+        "textDisplay": "Bravo , educaci\u00f3n tambi\u00e9n es libr\u00e9... Lo digo para que aprendas a escribir y a no ser bobo.",
+        "textOriginal": "Bravo , educaci\u00f3n tambi\u00e9n es libr\u00e9... Lo digo para que aprendas a escribir y a no ser bobo.",
+        "parentId": "UgwLeCuEnOvoZWZ_VAJ4AaABAg",
+        "authorDisplayName": "DR. Zaius",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSUW9aYD5Pud-IPYpmA9IPMmNnChB5qlhtmoWRGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQzGtUWdk3ZP9is-E8wJVkw",
+        "authorChannelId": {
+          "value": "UCQzGtUWdk3ZP9is-E8wJVkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-24T01:39:30Z",
+        "updatedAt": "2021-03-24T01:39:30Z"
+      }
+    }
+  ]
+}

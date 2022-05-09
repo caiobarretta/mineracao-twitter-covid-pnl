@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4aDCmqJzyDzYG6KjnzooKlqZsls",
+  "id": "Ugx_zTXvqTH1FKS2brd4AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ys3tqp5b1d0i4L1e9fb-5gED2dU",
+      "id": "Ugx_zTXvqTH1FKS2brd4AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Oi bom dia, t\u00f4 tentando fazer o cadastro do meu marido mas t\u00e1 dando erro pq ser\u00e1?",
+        "textOriginal": "Oi bom dia, t\u00f4 tentando fazer o cadastro do meu marido mas t\u00e1 dando erro pq ser\u00e1?",
+        "authorDisplayName": "Ang\u00e9lica Adriana Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdcqhC4hiUrehIVcJ9DqAk12NhFY0DLCRWeQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWmdhz4vqFE6wPX88z27OLw",
+        "authorChannelId": {
+          "value": "UCWmdhz4vqFE6wPX88z27OLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-11T10:55:52Z",
+        "updatedAt": "2021-08-11T10:55:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P-P6ZRf0WzKy-omhoarVgpn4IEk",
+      "id": "Ugx_zTXvqTH1FKS2brd4AaABAg.9Qu7RmLXNBg9Qy-ZtZc6xJ",
+      "snippet": {
+        "textDisplay": "Qual seria o erro",
+        "textOriginal": "Qual seria o erro",
+        "parentId": "Ugx_zTXvqTH1FKS2brd4AaABAg",
+        "authorDisplayName": "Afonso Alc\u00e2ntara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-eGKrqlla8F-A4bxgzDqiMbKtf2kbaNIHl2jBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrbnZTc2tkOyhkV1wEnjgfQ",
+        "authorChannelId": {
+          "value": "UCrbnZTc2tkOyhkV1wEnjgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-12T23:04:02Z",
+        "updatedAt": "2021-08-12T23:04:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "E9mXh3MXvQtrvAw3AsM-rrx9P_c",
+  "id": "UgwP3AMyMYQ4ruqupup4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IOD70b5CCHfvGdar2461CIAIjFQ",
+      "id": "UgwP3AMyMYQ4ruqupup4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "Tudo lindo \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "Tudo lindo \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "authorDisplayName": "Daiana Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AQYWtIdnKl1pVN065DKWIMJ2RBGXK9EFV4_QtBlfHLlVMpHgAZh0pc9fFSie2UQMLu-5wQBH61k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoWSeOGoTAntBat1gdmv_dg",
+        "authorChannelId": {
+          "value": "UCoWSeOGoTAntBat1gdmv_dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-01T09:07:57Z",
+        "updatedAt": "2022-03-01T09:07:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HwxNZ4Fzqvkmzrhgv9Zic_qF1lg",
+      "id": "UgwP3AMyMYQ4ruqupup4AaABAg.9Z13f8CtYC39Z1VgMtUigS",
+      "snippet": {
+        "textDisplay": "Obrigada \u2764",
+        "textOriginal": "Obrigada \u2764",
+        "parentId": "UgwP3AMyMYQ4ruqupup4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-01T13:12:47Z",
+        "updatedAt": "2022-03-01T13:12:47Z"
+      }
+    }
+  ]
+}

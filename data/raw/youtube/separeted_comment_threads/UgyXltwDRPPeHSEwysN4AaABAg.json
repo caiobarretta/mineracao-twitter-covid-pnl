@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "casq5Vb67VLWeKlyGgFWE55lJI0",
+  "id": "UgyXltwDRPPeHSEwysN4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "t9O0bsGsauQoW4uN4BwH2TLUxc0",
+      "id": "UgyXltwDRPPeHSEwysN4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Muito bom! Parab\u00e9ns!!",
+        "textOriginal": "Muito bom! Parab\u00e9ns!!",
+        "authorDisplayName": "Alexandra Vinhaes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQa3xWaSz5jP0l14dfmb6KAu9M7A-B1Dk3Kog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCylB_2dc5XGba31nLNCaApw",
+        "authorChannelId": {
+          "value": "UCylB_2dc5XGba31nLNCaApw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-21T14:04:54Z",
+        "updatedAt": "2022-01-21T14:04:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4VDbVuBBfF422-YSzzbXW_Zjokw",
+      "id": "UgyXltwDRPPeHSEwysN4AaABAg.9XTAdrxSkSV9XTUZtFpy5M",
+      "snippet": {
+        "textDisplay": "\u263a\ufe0f",
+        "textOriginal": "\u263a\ufe0f",
+        "parentId": "UgyXltwDRPPeHSEwysN4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-21T16:58:58Z",
+        "updatedAt": "2022-01-21T16:58:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YOns3UbXLKv3jQV2Ga_HmkrvaJo",
+  "id": "UgzBLL7V5blN3rUIJjV4AaABAg",
+  "snippet": {
+    "videoId": "NzZYt0SZANs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "u8Pd3_RoS77aqkC8v0UHDMvDQyM",
+      "id": "UgzBLL7V5blN3rUIJjV4AaABAg",
+      "snippet": {
+        "videoId": "NzZYt0SZANs",
+        "textDisplay": "Vlw Professore, salvou aqui <3",
+        "textOriginal": "Vlw Professore, salvou aqui <3",
+        "authorDisplayName": "FELIPE FERNANDES",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfYrjt_t50QFZKRnhxzJV_6BV8pQjI_H2ib06Yz8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSLnqlOLSx89_xMcjKMLAUA",
+        "authorChannelId": {
+          "value": "UCSLnqlOLSx89_xMcjKMLAUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-01T22:30:50Z",
+        "updatedAt": "2020-10-01T22:30:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mHmEcMCXJkgWOcqa_QZrEkEvxQc",
+      "id": "UgzBLL7V5blN3rUIJjV4AaABAg.9EHqN8p45NV9QvcM08LTLh",
+      "snippet": {
+        "textDisplay": "professora*",
+        "textOriginal": "professora*",
+        "parentId": "UgzBLL7V5blN3rUIJjV4AaABAg",
+        "authorDisplayName": "Whiterun Guard",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSy2tJtUuPaS8TSBOnG7aWJPEebasjPTVox5-FxNQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIMj6HkFXJ3VNwzJ3LekUOA",
+        "authorChannelId": {
+          "value": "UCIMj6HkFXJ3VNwzJ3LekUOA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-12T00:53:56Z",
+        "updatedAt": "2021-08-12T00:53:56Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "wizeHgKdt1cAg0RWKCLi_lI8Oc0",
+      "id": "UgzBLL7V5blN3rUIJjV4AaABAg.9EHqN8p45NV9EIZaxtfz0u",
+      "snippet": {
+        "textDisplay": "Estamos juntos, Felipe!",
+        "textOriginal": "Estamos juntos, Felipe!",
+        "parentId": "UgzBLL7V5blN3rUIJjV4AaABAg",
+        "authorDisplayName": "Jaleko Acad\u00eamicos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgyEm3EkqEBrlBvqUUuGGHNQAmBv-Ji-drmiqGkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGDzJkGOb2YfM-VQ9rJyMg",
+        "authorChannelId": {
+          "value": "UCoGDzJkGOb2YfM-VQ9rJyMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-02T05:14:49Z",
+        "updatedAt": "2020-10-02T05:14:49Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LQ_zQIBPkwyR86k-HNd0qwB6l3U",
+  "id": "Ugx8ytK1vuNEveRuncp4AaABAg",
+  "snippet": {
+    "videoId": "ogngY0RPoFk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JCI12uxiA8N8v8fw74IVc4uzvaM",
+      "id": "Ugx8ytK1vuNEveRuncp4AaABAg",
+      "snippet": {
+        "videoId": "ogngY0RPoFk",
+        "textDisplay": "Muito obrigada pela informa\u00e7\u00e3o que Deus te aben\u00e7oe",
+        "textOriginal": "Muito obrigada pela informa\u00e7\u00e3o que Deus te aben\u00e7oe",
+        "authorDisplayName": "fabiane rafael",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7RgB9qpuHk4_b0DIpTksDeoOC7IBa64AQ86llnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAyauGAQcxSWeefG8XRPgVg",
+        "authorChannelId": {
+          "value": "UCAyauGAQcxSWeefG8XRPgVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-09T15:36:23Z",
+        "updatedAt": "2021-03-09T15:36:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zM98CZ2tQtWTAsRBGbrm89_TEHE",
+      "id": "Ugx8ytK1vuNEveRuncp4AaABAg.9KfWKdwLsBg9KgL9AiU1xh",
+      "snippet": {
+        "textDisplay": "Obrigado",
+        "textOriginal": "Obrigado",
+        "parentId": "Ugx8ytK1vuNEveRuncp4AaABAg",
+        "authorDisplayName": "Afonso Alc\u00e2ntara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-eGKrqlla8F-A4bxgzDqiMbKtf2kbaNIHl2jBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrbnZTc2tkOyhkV1wEnjgfQ",
+        "authorChannelId": {
+          "value": "UCrbnZTc2tkOyhkV1wEnjgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-09T23:17:56Z",
+        "updatedAt": "2021-03-09T23:17:56Z"
+      }
+    }
+  ]
+}

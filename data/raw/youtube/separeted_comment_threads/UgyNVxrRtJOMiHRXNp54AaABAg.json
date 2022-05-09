@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w8dnUE9Cd9HiBIIRt03hhI95Zr4",
+  "id": "UgyNVxrRtJOMiHRXNp54AaABAg",
+  "snippet": {
+    "videoId": "i0ZabxXmH4Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bdQcNHbAD62fRZ4wmfXBjUkuAgE",
+      "id": "UgyNVxrRtJOMiHRXNp54AaABAg",
+      "snippet": {
+        "videoId": "i0ZabxXmH4Y",
+        "textDisplay": "This has helped me a lot in my school projects",
+        "textOriginal": "This has helped me a lot in my school projects",
+        "authorDisplayName": "Ashif Ararat Shitul",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTK6AvZ3yTgkvuyt7tSmwAIjqWXEuftcO63IXwWkg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcmxrZoh1ajkbBwnlpyUnyA",
+        "authorChannelId": {
+          "value": "UCcmxrZoh1ajkbBwnlpyUnyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 26,
+        "publishedAt": "2021-08-15T08:19:27Z",
+        "updatedAt": "2021-08-15T08:19:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cPNQ-v9oMC_CtEZR3lHZSl4XYeE",
+      "id": "UgyNVxrRtJOMiHRXNp54AaABAg.9R38i_TxiPn9SOK2JXOo5m",
+      "snippet": {
+        "textDisplay": "today covid",
+        "textOriginal": "today covid",
+        "parentId": "UgyNVxrRtJOMiHRXNp54AaABAg",
+        "authorDisplayName": "Maryam Fazlin Channel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/4kUFTEAC9l2yVKfGYTwmiJUO9NVHPvawgyqITqFu5Cs4KopB52HV69vzE6alSLgE3MIMGQwMqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzqLPcQ4jvxZom-1KhSnMKw",
+        "authorChannelId": {
+          "value": "UCzqLPcQ4jvxZom-1KhSnMKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-17T10:13:50Z",
+        "updatedAt": "2021-09-17T10:13:50Z"
+      }
+    }
+  ]
+}

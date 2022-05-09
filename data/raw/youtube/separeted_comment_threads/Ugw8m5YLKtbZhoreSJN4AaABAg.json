@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MHCdfxHf6k94JryBBkFwhOKtoyU",
+  "id": "Ugw8m5YLKtbZhoreSJN4AaABAg",
+  "snippet": {
+    "videoId": "ojXoMaPW2og",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tzDNgXEk8Ns0KqEhoIt8fCXlVg8",
+      "id": "Ugw8m5YLKtbZhoreSJN4AaABAg",
+      "snippet": {
+        "videoId": "ojXoMaPW2og",
+        "textDisplay": "Muito bem explicado! Parab\u00e9ns pelo trabalho!",
+        "textOriginal": "Muito bem explicado! Parab\u00e9ns pelo trabalho!",
+        "authorDisplayName": "rodrigo fernando souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiy0J0JwJgi2PdKX6ciibuRV8kDVfAgNLQkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzEMZvVtVNPUAnbNDJwETzw",
+        "authorChannelId": {
+          "value": "UCzEMZvVtVNPUAnbNDJwETzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-11-06T15:43:12Z",
+        "updatedAt": "2020-11-06T15:43:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ElD1F_PknlHSnegu5LOT5uac4xk",
+      "id": "Ugw8m5YLKtbZhoreSJN4AaABAg.9FioL1xyxyE9Qxvz8heJbC",
+      "snippet": {
+        "textDisplay": "Sus",
+        "textOriginal": "Sus",
+        "parentId": "Ugw8m5YLKtbZhoreSJN4AaABAg",
+        "authorDisplayName": "Thunder FB",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LTLxwU8WKBqFu2nsu6XRqsiuLWwJUvH2dXYnT1ppVGOIxuyh7XkNqQsLc98kvE2RdKhR631tB4k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbdmdaOyCZmE_Qz4oLykyrg",
+        "authorChannelId": {
+          "value": "UCbdmdaOyCZmE_Qz4oLykyrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-12T22:23:55Z",
+        "updatedAt": "2021-08-12T22:23:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "faRGZa7hMbwnyEA2RycntHIR96E",
+      "id": "Ugw8m5YLKtbZhoreSJN4AaABAg.9FioL1xyxyE9PWXmX6YWGA",
+      "snippet": {
+        "textDisplay": "Amogus",
+        "textOriginal": "Amogus",
+        "parentId": "Ugw8m5YLKtbZhoreSJN4AaABAg",
+        "authorDisplayName": "craftpro game",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrnGu1m7pQwRzJN8vVEC0mtjedwatqamY1RA6LIMs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5qrB_3nyTYnHPAxtjlJxgA",
+        "authorChannelId": {
+          "value": "UC5qrB_3nyTYnHPAxtjlJxgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-08T01:13:37Z",
+        "updatedAt": "2021-07-08T01:13:37Z"
+      }
+    }
+  ]
+}

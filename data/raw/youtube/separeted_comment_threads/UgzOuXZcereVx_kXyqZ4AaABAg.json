@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CXtOFUWOctJRBa9etvrBRH0FFTo",
+  "id": "UgzOuXZcereVx_kXyqZ4AaABAg",
+  "snippet": {
+    "videoId": "oFCAFnxgjmo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WMmImSEMTVn-W9c9ZvqIXFPDoxM",
+      "id": "UgzOuXZcereVx_kXyqZ4AaABAg",
+      "snippet": {
+        "videoId": "oFCAFnxgjmo",
+        "textDisplay": "Parei de comprar o Prato Fino.",
+        "textOriginal": "Parei de comprar o Prato Fino.",
+        "authorDisplayName": "Bordados Luluzinha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9v4qvBlG4EwYcnJdC2o4131J7jnr-h0YrHUVm4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1JOUcdOG_WsJI6tA9xde8g",
+        "authorChannelId": {
+          "value": "UC1JOUcdOG_WsJI6tA9xde8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 22,
+        "publishedAt": "2021-08-27T22:43:47Z",
+        "updatedAt": "2021-08-27T22:43:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_4Di4gTI_MVxz4YHRRfj4mtTNFE",
+      "id": "UgzOuXZcereVx_kXyqZ4AaABAg.9RZaAhP9t9I9Ra-kmFWEZd",
+      "snippet": {
+        "textDisplay": "BOICOTE AO ARROZ PRATO FINO .",
+        "textOriginal": "BOICOTE AO ARROZ PRATO FINO .",
+        "parentId": "UgzOuXZcereVx_kXyqZ4AaABAg",
+        "authorDisplayName": "Kassia Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTO7E0xTQYOCFXpkElebhks9gnK0haVb2-iCoPwBC8NzTVXU_ZS-fi-Bk7ncH5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvoIz_voVMQ6iIWYZ4m1ojQ",
+        "authorChannelId": {
+          "value": "UCvoIz_voVMQ6iIWYZ4m1ojQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-28T11:55:17Z",
+        "updatedAt": "2021-08-28T11:55:17Z"
+      }
+    }
+  ]
+}

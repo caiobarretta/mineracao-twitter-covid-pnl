@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g7AVq-z1d6v8R4qJuTU5g_vQPeU",
+  "id": "Ugw5P7gnRGqoIY_PHAB4AaABAg",
+  "snippet": {
+    "videoId": "Sid5ewDvwms",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tv6bKZHrVN1gZLgEI5Ve0aWD3Ww",
+      "id": "Ugw5P7gnRGqoIY_PHAB4AaABAg",
+      "snippet": {
+        "videoId": "Sid5ewDvwms",
+        "textDisplay": "N\u00e3o tem como criar a senha. J\u00e1 tentei v\u00e1rias vezes. N\u00e3o existe, como criar a senha. Algu\u00e9m conseguiu? Aff...",
+        "textOriginal": "N\u00e3o tem como criar a senha. J\u00e1 tentei v\u00e1rias vezes. N\u00e3o existe, como criar a senha. Algu\u00e9m conseguiu? Aff...",
+        "authorDisplayName": "Fafa Halfeld",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTXDk7BAekHkRroDpUS6kt9_sLfiX0EnlfPhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAlTBrDdA1OK8GO8X6VDNUA",
+        "authorChannelId": {
+          "value": "UCAlTBrDdA1OK8GO8X6VDNUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-20T15:02:17Z",
+        "updatedAt": "2021-10-20T15:02:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FgmdEmqmBeM920e8eUdKjGvQIAs",
+      "id": "Ugw5P7gnRGqoIY_PHAB4AaABAg.9TioHlMadPp9VT3jhkErHz",
+      "snippet": {
+        "textDisplay": "Eu tamb\u00e9m n\u00e3o consegui criar a senha.",
+        "textOriginal": "Eu tamb\u00e9m n\u00e3o consegui criar a senha.",
+        "parentId": "Ugw5P7gnRGqoIY_PHAB4AaABAg",
+        "authorDisplayName": "Anailda Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMH3sZR7AsKhGM7A-NA757UvxJ4AyD0Wt-iCn4Lg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA504yw5QN7BI06-t8srpRQ",
+        "authorChannelId": {
+          "value": "UCA504yw5QN7BI06-t8srpRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-02T20:01:43Z",
+        "updatedAt": "2021-12-02T20:01:43Z"
+      }
+    }
+  ]
+}
