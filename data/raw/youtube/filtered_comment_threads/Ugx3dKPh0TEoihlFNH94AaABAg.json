@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ply5mVeBeHGPo5U6pKY--SS2QJg",
+  "id": "Ugx3dKPh0TEoihlFNH94AaABAg",
+  "snippet": {
+    "videoId": "PjG_imUHTSI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MCg6xkQJD7ReS2tkd_vHE8IdInM",
+      "id": "Ugx3dKPh0TEoihlFNH94AaABAg",
+      "snippet": {
+        "videoId": "PjG_imUHTSI",
+        "textDisplay": "CORONA V\u00cdRUS SUS",
+        "textOriginal": "CORONA V\u00cdRUS SUS",
+        "authorDisplayName": "Ant\u00f4nio Ala\u00f4r Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXbinzG7VatcwDDvjwTS4cWmrW2bZiUHTPc2cWNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmEsbAfAuNQSf21-C-zeO6g",
+        "authorChannelId": {
+          "value": "UCmEsbAfAuNQSf21-C-zeO6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-06T09:58:54Z",
+        "updatedAt": "2022-02-06T09:58:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OewTOH0qxsar31Ro_JatS9IOv5Q",
+      "id": "Ugx3dKPh0TEoihlFNH94AaABAg.9Y5wD62AwuN9Y5wSAC9sVQ",
+      "snippet": {
+        "textDisplay": "Minha vacina\u00e7\u00e3o",
+        "textOriginal": "Minha vacina\u00e7\u00e3o",
+        "parentId": "Ugx3dKPh0TEoihlFNH94AaABAg",
+        "authorDisplayName": "Ant\u00f4nio Ala\u00f4r Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXbinzG7VatcwDDvjwTS4cWmrW2bZiUHTPc2cWNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmEsbAfAuNQSf21-C-zeO6g",
+        "authorChannelId": {
+          "value": "UCmEsbAfAuNQSf21-C-zeO6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-06T10:00:57Z",
+        "updatedAt": "2022-02-06T10:00:57Z"
+      }
+    }
+  ]
+}

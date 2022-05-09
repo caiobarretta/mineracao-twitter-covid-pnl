@@ -47,3 +47,9 @@ class SearchKeys:
                 query_dict_line = self.__build_string_idvideo_youtube(videoId)
                 query_list.append(query_dict_line)
         return query_list
+
+    def __build_string_youtube_separeted_terms_list(self, first_pos, second_pos):
+        return {'first_term': f'{first_pos} ', 'second_term': f'{second_pos}'}
+
+    def get_youtube_separeted_terms_seach_list_query_covid(self, first_pos_list, second_pos_list):
+        return self.__build_query_list(first_pos_list, second_pos_list, self.__build_string_youtube_separeted_terms_list)

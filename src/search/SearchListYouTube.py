@@ -5,7 +5,7 @@ from api.YouTubeAPI import YouTubeAPI
 
 
 class SearchListYouTube(SearchBase):
-    def __init__(self, quantidade_maxima_resultados = 10) -> None:
+    def __init__(self, quantidade_maxima_resultados = 50) -> None:
         super().__init__()
         self.quantidade_maxima_resultados = quantidade_maxima_resultados
     
