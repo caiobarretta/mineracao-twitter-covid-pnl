@@ -13,7 +13,7 @@ class SearchListYouTube(SearchBase):
     def save_search_list(self, search_list):
         for video in search_list:
             videoId = str(uuid.uuid4())
-            if 'videoId' in video:
+            if 'videoId' in video['id']:
                 videoId = video['id']['videoId']
             print(f'salvando video pesquisa: {videoId} para arquivo.')
             file_name = f'data/raw/youtube/search_list/{videoId}.json'
