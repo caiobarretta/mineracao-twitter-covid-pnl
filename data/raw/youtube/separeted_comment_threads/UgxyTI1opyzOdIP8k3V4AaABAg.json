@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4kZhvbESUOz6FlHeiiXMDnJssjQ",
+  "id": "UgxyTI1opyzOdIP8k3V4AaABAg",
+  "snippet": {
+    "videoId": "0CCjYce4gkc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XR8XvTy7LNb-Qbx6rjWHdsgb5qA",
+      "id": "UgxyTI1opyzOdIP8k3V4AaABAg",
+      "snippet": {
+        "videoId": "0CCjYce4gkc",
+        "textDisplay": "Buena explicaci\u00f3n, sobre todo, muy buena informaci\u00f3n \ud83d\udc4d\ud83c\udffc",
+        "textOriginal": "Buena explicaci\u00f3n, sobre todo, muy buena informaci\u00f3n \ud83d\udc4d\ud83c\udffc",
+        "authorDisplayName": "Arrieta Carlos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuJVLO33lqSGeTVTZBPylBvFO7bPDdgrZqJV6z=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-6QI-UhXLGh6vGoXG6JU0Q",
+        "authorChannelId": {
+          "value": "UC-6QI-UhXLGh6vGoXG6JU0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2020-06-19T06:15:26Z",
+        "updatedAt": "2020-06-19T06:15:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Gjn0mcw3dU7jGtVOoRda9ahcwIc",
+      "id": "UgxyTI1opyzOdIP8k3V4AaABAg.9A4J40tcQlY9A4LNXdYxlk",
+      "snippet": {
+        "textDisplay": "Muchas gracias por vernos y por comentar Arrieta Carlos, nos da mucho gusto que este material sea de su agrado, saludos.",
+        "textOriginal": "Muchas gracias por vernos y por comentar Arrieta Carlos, nos da mucho gusto que este material sea de su agrado, saludos.",
+        "parentId": "UgxyTI1opyzOdIP8k3V4AaABAg",
+        "authorDisplayName": "Fisiolog\u00eda DJ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kNVz_l_oZLH__UQi81oSIQl-mhHpdcXEnWNcBEpVvvs_Rfk2YgCQ6p-uijO217SWDFWm4LPRVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGqNKNc-NvzDWCT0JH6hN6Q",
+        "authorChannelId": {
+          "value": "UCGqNKNc-NvzDWCT0JH6hN6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-06-19T06:35:34Z",
+        "updatedAt": "2020-06-19T06:35:34Z"
+      }
+    }
+  ]
+}

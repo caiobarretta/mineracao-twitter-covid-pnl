@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TWs8MFmZzxVQmwk1JDi0v2j4G2w",
+  "id": "Ugw77-bwzFg9Ti37OEt4AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FEjgA0TBnNY6V5-WoJa5WuXGe2k",
+      "id": "Ugw77-bwzFg9Ti37OEt4AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "Como sempre, \u00f3timo. An\u00e1lise sua nunca decepciona haha",
+        "textOriginal": "Como sempre, \u00f3timo. An\u00e1lise sua nunca decepciona haha",
+        "authorDisplayName": "Mayte Emilly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMAkpZizSET2ytg07seZl1O-Q86im3kCBIIwfo-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLPeBBGqwlgtLMo6En6nB7g",
+        "authorChannelId": {
+          "value": "UCLPeBBGqwlgtLMo6En6nB7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-29T02:53:10Z",
+        "updatedAt": "2020-04-29T02:53:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JbAEl0raGrZr2O9ISbVOAUzQYbA",
+      "id": "Ugw77-bwzFg9Ti37OEt4AaABAg.980cNwZFDPl98PZCy9-GE5",
+      "snippet": {
+        "textDisplay": "obrigadooo",
+        "textOriginal": "obrigadooo",
+        "parentId": "Ugw77-bwzFg9Ti37OEt4AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-08T19:17:43Z",
+        "updatedAt": "2020-05-08T19:17:43Z"
+      }
+    }
+  ]
+}

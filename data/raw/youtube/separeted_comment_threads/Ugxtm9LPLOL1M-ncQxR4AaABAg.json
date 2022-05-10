@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CN5YMvyjdpgtlqW65xs7jXV9EWU",
+  "id": "Ugxtm9LPLOL1M-ncQxR4AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KGVh6OMF4OUHM-pUbY_vFyQJRnM",
+      "id": "Ugxtm9LPLOL1M-ncQxR4AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "Sensacional o v\u00eddeo. E realmente pelo tempo que tinham para desenvolver fizeram um \u00f3timo trabalho.",
+        "textOriginal": "Sensacional o v\u00eddeo. E realmente pelo tempo que tinham para desenvolver fizeram um \u00f3timo trabalho.",
+        "authorDisplayName": "Anderson Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKfYYTy-0ae6xM6_WikwoQUy2YgxxxSXtpOblpp4E=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAUbXPjKA5ZW5IJjOR_5eKg",
+        "authorChannelId": {
+          "value": "UCAUbXPjKA5ZW5IJjOR_5eKg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-28T22:34:32Z",
+        "updatedAt": "2020-04-28T22:34:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Qxy6WkcFT3qstifKL-xZjnOaaPg",
+      "id": "Ugxtm9LPLOL1M-ncQxR4AaABAg.9809miBpLpt980EdChha-o",
+      "snippet": {
+        "textDisplay": "Sim! Ficou incr\u00edvel!",
+        "textOriginal": "Sim! Ficou incr\u00edvel!",
+        "parentId": "Ugxtm9LPLOL1M-ncQxR4AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-28T23:16:55Z",
+        "updatedAt": "2020-04-28T23:16:55Z"
+      }
+    }
+  ]
+}

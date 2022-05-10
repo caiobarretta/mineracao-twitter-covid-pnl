@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bKxIMiFS9o2IgS7R9N9V8hMo9k0",
+  "id": "UgwqfIBclCFuF6zEaIh4AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nHHbSoVZa5EX_ZTIPQDSjg8JhAY",
+      "id": "UgwqfIBclCFuF6zEaIh4AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "O app est\u00e1 incr\u00edvel, os bot\u00f5es, o alinhamento dos textos,  achei sua an\u00e1lise bem clean Gabriel.",
+        "textOriginal": "O app est\u00e1 incr\u00edvel, os bot\u00f5es, o alinhamento dos textos,  achei sua an\u00e1lise bem clean Gabriel.",
+        "authorDisplayName": "Everton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJZAByZItxy2zftb-Lw-vPB93SXq_wkqxUCiSe7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBbDhaoCWeRs_2tnD1uPlWA",
+        "authorChannelId": {
+          "value": "UCBbDhaoCWeRs_2tnD1uPlWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-05-01T05:44:20Z",
+        "updatedAt": "2020-05-01T05:44:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IPNdYuv9jnLUabGAYnZl6nRIN-0",
+      "id": "UgwqfIBclCFuF6zEaIh4AaABAg.9864ZM4S6td98QDXo8lfqe",
+      "snippet": {
+        "textDisplay": "@Gabriel Silvestri Demais mano!",
+        "textOriginal": "@Gabriel Silvestri Demais mano!",
+        "parentId": "UgwqfIBclCFuF6zEaIh4AaABAg",
+        "authorDisplayName": "Everton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJZAByZItxy2zftb-Lw-vPB93SXq_wkqxUCiSe7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBbDhaoCWeRs_2tnD1uPlWA",
+        "authorChannelId": {
+          "value": "UCBbDhaoCWeRs_2tnD1uPlWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-09T01:27:34Z",
+        "updatedAt": "2020-05-09T01:27:34Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uvQ_FXzDLuqYp5IqL_-Q9UMOoZQ",
+      "id": "UgwqfIBclCFuF6zEaIh4AaABAg.9864ZM4S6td98PZDtwYX1w",
+      "snippet": {
+        "textDisplay": "massa n\u00e9? :)) obrigadoo",
+        "textOriginal": "massa n\u00e9? :)) obrigadoo",
+        "parentId": "UgwqfIBclCFuF6zEaIh4AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-08T19:17:51Z",
+        "updatedAt": "2020-05-08T19:17:51Z"
+      }
+    }
+  ]
+}

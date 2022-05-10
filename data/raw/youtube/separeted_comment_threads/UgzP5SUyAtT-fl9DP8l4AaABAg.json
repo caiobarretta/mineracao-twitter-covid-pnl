@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rCeb_lmIB2_zGY_ELEg_eZQjCvk",
+  "id": "UgzP5SUyAtT-fl9DP8l4AaABAg",
+  "snippet": {
+    "videoId": "0CCjYce4gkc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ks29nCt6xTcozIlK5AQgDmPjxRI",
+      "id": "UgzP5SUyAtT-fl9DP8l4AaABAg",
+      "snippet": {
+        "videoId": "0CCjYce4gkc",
+        "textDisplay": "Vengo de la clase de la profesora de cta",
+        "textOriginal": "Vengo de la clase de la profesora de cta",
+        "authorDisplayName": "EyRDz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gZHjh80KlYrKPYG1T7BSWtYnMQxDhThftllynBUlYZY6xpUH0nz9wqfu1dMcpVnynIu8CXi5jA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuKLzcIL6uvOj6QNeQ-PcNQ",
+        "authorChannelId": {
+          "value": "UCuKLzcIL6uvOj6QNeQ-PcNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-28T17:33:04Z",
+        "updatedAt": "2021-04-28T17:33:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4hLqZxf6vO-j3_tNCxJC_wsqP4k",
+      "id": "UgzP5SUyAtT-fl9DP8l4AaABAg.9MgTR6p4Ac59MrxdOxp7KS",
+      "snippet": {
+        "textDisplay": "Gracias por comentar y gracias a su excelente profesora que los manda con nosotros Adrian, es una profesora con muy buen gusto, saludos para usted, su grupo y su profesora, agradecemos que se suscriba y compara este material.",
+        "textOriginal": "Gracias por comentar y gracias a su excelente profesora que los manda con nosotros Adrian, es una profesora con muy buen gusto, saludos para usted, su grupo y su profesora, agradecemos que se suscriba y compara este material.",
+        "parentId": "UgzP5SUyAtT-fl9DP8l4AaABAg",
+        "authorDisplayName": "Fisiolog\u00eda DJ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kNVz_l_oZLH__UQi81oSIQl-mhHpdcXEnWNcBEpVvvs_Rfk2YgCQ6p-uijO217SWDFWm4LPRVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGqNKNc-NvzDWCT0JH6hN6Q",
+        "authorChannelId": {
+          "value": "UCGqNKNc-NvzDWCT0JH6hN6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-05-03T04:37:25Z",
+        "updatedAt": "2021-05-03T04:37:25Z"
+      }
+    }
+  ]
+}

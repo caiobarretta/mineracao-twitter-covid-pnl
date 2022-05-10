@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bxo-WuJLfFr5Ji-64PbLuw3N0f4",
+  "id": "Ugy9t5VijBEDbsCfunR4AaABAg",
+  "snippet": {
+    "videoId": "k-XbWjt-gcI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vJoLwV1a6BTxsyqZEqdywQDe4xM",
+      "id": "Ugy9t5VijBEDbsCfunR4AaABAg",
+      "snippet": {
+        "videoId": "k-XbWjt-gcI",
+        "textDisplay": "To gripada tenho de me isolar",
+        "textOriginal": "To gripada tenho de me isolar",
+        "authorDisplayName": "Marilza Crispinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyP6LqwlOnR51iAO1QNG34tSmPusyuyKsQjsqT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-WiM2ISsBj9poTv2nPMkFQ",
+        "authorChannelId": {
+          "value": "UC-WiM2ISsBj9poTv2nPMkFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-09T15:29:52Z",
+        "updatedAt": "2020-04-09T15:29:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QTLtibs5wstW2cWLclaXRXh6Whk",
+      "id": "Ugy9t5VijBEDbsCfunR4AaABAg.97EU4jwYbpz97EltzeO1gn",
+      "snippet": {
+        "textDisplay": "Sim",
+        "textOriginal": "Sim",
+        "parentId": "Ugy9t5VijBEDbsCfunR4AaABAg",
+        "authorDisplayName": "Felipe Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpGeuSam2b7m8TIkF71_fH48E8FW9Y8f-6tT3rlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQP2a7JrV6eOSgpd0iJ0EiA",
+        "authorChannelId": {
+          "value": "UCQP2a7JrV6eOSgpd0iJ0EiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-09T18:14:17Z",
+        "updatedAt": "2020-04-09T18:14:17Z"
+      }
+    }
+  ]
+}

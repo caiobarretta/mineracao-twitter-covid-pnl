@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H89zSjHHD4fCKokaGPq7mROqo-c",
+  "id": "UgznvSGMk6jP-ApnHSd4AaABAg",
+  "snippet": {
+    "videoId": "mjSdB5Q333I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HVRHB3Ho9z2dlyuMQJZUxP9xBfE",
+      "id": "UgznvSGMk6jP-ApnHSd4AaABAg",
+      "snippet": {
+        "videoId": "mjSdB5Q333I",
+        "textDisplay": "De verdad esperan que uno crea eso..",
+        "textOriginal": "De verdad esperan que uno crea eso..",
+        "authorDisplayName": "Patriota Cienxciento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-zZ805Wt1inrMiM5L1eg_mc9hE_DeQxfUtCfL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiEBqOc5Mg0afDBOT11Ih5g",
+        "authorChannelId": {
+          "value": "UCiEBqOc5Mg0afDBOT11Ih5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-05T17:04:19Z",
+        "updatedAt": "2022-04-05T17:04:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FjoJc_aHi0BVrB25ggfP3mzTllE",
+      "id": "UgznvSGMk6jP-ApnHSd4AaABAg.9_S2-lh1-4f9_qyugohk-3",
+      "snippet": {
+        "textDisplay": "No, todo ha sido un montaje desde el principio.",
+        "textOriginal": "No, todo ha sido un montaje desde el principio.",
+        "parentId": "UgznvSGMk6jP-ApnHSd4AaABAg",
+        "authorDisplayName": "Oleander 1982",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTwJ4T7GaEHUGxBvwp-IZYnCaE8k_GZtQm2A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrrKiIlEQGIpoqpzQuFtYDg",
+        "authorChannelId": {
+          "value": "UCrrKiIlEQGIpoqpzQuFtYDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-15T18:48:47Z",
+        "updatedAt": "2022-04-15T18:48:47Z"
+      }
+    }
+  ]
+}

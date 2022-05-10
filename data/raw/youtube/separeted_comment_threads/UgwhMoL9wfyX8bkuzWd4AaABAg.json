@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RVkYeRPI7zW7CdrDk78B_p1_63I",
+  "id": "UgwhMoL9wfyX8bkuzWd4AaABAg",
+  "snippet": {
+    "videoId": "BfhlBh07DRA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "csb44cpQMi06k4WIvSzncJn33O8",
+      "id": "UgwhMoL9wfyX8bkuzWd4AaABAg",
+      "snippet": {
+        "videoId": "BfhlBh07DRA",
+        "textDisplay": "Es f\u00e1cil hacer un simulacro como el de este video",
+        "textOriginal": "Es f\u00e1cil hacer un simulacro como el de este video",
+        "authorDisplayName": "Erase Me",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQB_Xem2S7ejm2nJXjTWz2uvVksHUHR4fzT-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxp9Ab6eITRQwHM6u7VSXuQ",
+        "authorChannelId": {
+          "value": "UCxp9Ab6eITRQwHM6u7VSXuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-14T15:54:46Z",
+        "updatedAt": "2020-05-14T15:54:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "e9TcTlMSHQNRE0Wc6eXYQl-Ifj4",
+      "id": "UgwhMoL9wfyX8bkuzWd4AaABAg.98ddkk6wm6098e2LkKEhHT",
+      "snippet": {
+        "textDisplay": "@Black Star Minerales tranquilo qu\u00e9date en tu casa y cree todo lo que te muestran en la TV",
+        "textOriginal": "@Black Star Minerales tranquilo qu\u00e9date en tu casa y cree todo lo que te muestran en la TV",
+        "parentId": "UgwhMoL9wfyX8bkuzWd4AaABAg",
+        "authorDisplayName": "Erase Me",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQB_Xem2S7ejm2nJXjTWz2uvVksHUHR4fzT-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxp9Ab6eITRQwHM6u7VSXuQ",
+        "authorChannelId": {
+          "value": "UCxp9Ab6eITRQwHM6u7VSXuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-14T19:38:25Z",
+        "updatedAt": "2020-05-14T19:38:25Z"
+      }
+    }
+  ]
+}

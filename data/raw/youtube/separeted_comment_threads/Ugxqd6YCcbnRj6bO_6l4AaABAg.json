@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zgaZBq3mNCL70z_Gr0VKw3izWKI",
+  "id": "Ugxqd6YCcbnRj6bO_6l4AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OsUPccHb5TUwYXXCZ7KyU4D_MhA",
+      "id": "Ugxqd6YCcbnRj6bO_6l4AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "Excelente v\u00eddeo! Muito interessante",
+        "textOriginal": "Excelente v\u00eddeo! Muito interessante",
+        "authorDisplayName": "Emanuel Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjvtaxtPDZkxhpiQXCcOn6MDwXgY_rLk6t7Npg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiHhzzYuX-oid3h7b3CaRlQ",
+        "authorChannelId": {
+          "value": "UCiHhzzYuX-oid3h7b3CaRlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-03T12:35:47Z",
+        "updatedAt": "2020-05-03T12:35:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2OLiJHkswKM1T6DBIwZUEr-0CBQ",
+      "id": "Ugxqd6YCcbnRj6bO_6l4AaABAg.98ByEl1uUZi98PZEKhPl_e",
+      "snippet": {
+        "textDisplay": ":))",
+        "textOriginal": ":))",
+        "parentId": "Ugxqd6YCcbnRj6bO_6l4AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-08T19:17:54Z",
+        "updatedAt": "2020-05-08T19:17:54Z"
+      }
+    }
+  ]
+}

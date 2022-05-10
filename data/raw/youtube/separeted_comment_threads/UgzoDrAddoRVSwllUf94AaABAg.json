@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3Y6sz-BrOnqQ06npngnIvzJhfTs",
+  "id": "UgzoDrAddoRVSwllUf94AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "64dorCLsKn1YXv0dseiRHN9m-Zc",
+      "id": "UgzoDrAddoRVSwllUf94AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "V\u00eddeo muito bom",
+        "textOriginal": "V\u00eddeo muito bom",
+        "authorDisplayName": "Alvaro Coelho Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFjSRPBtr6WJndZ0_UyfQaB0PE7TaglbMEcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx-PRC2UPAKon9L2E2w2SWg",
+        "authorChannelId": {
+          "value": "UCx-PRC2UPAKon9L2E2w2SWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-28T13:16:22Z",
+        "updatedAt": "2020-04-28T13:16:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-u-6kWOAtq-xP5NMPsHXGhGxDmg",
+      "id": "UgzoDrAddoRVSwllUf94AaABAg.98-9ubjKzkD98-ETEPc-WV",
+      "snippet": {
+        "textDisplay": "@Gabriel Silvestri de nadaaa",
+        "textOriginal": "@Gabriel Silvestri de nadaaa",
+        "parentId": "UgzoDrAddoRVSwllUf94AaABAg",
+        "authorDisplayName": "Alvaro Coelho Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFjSRPBtr6WJndZ0_UyfQaB0PE7TaglbMEcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx-PRC2UPAKon9L2E2w2SWg",
+        "authorChannelId": {
+          "value": "UCx-PRC2UPAKon9L2E2w2SWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-28T13:56:11Z",
+        "updatedAt": "2020-04-28T13:56:11Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "JjuNTlA3GT0kjfPT9SuI-iUoif0",
+      "id": "UgzoDrAddoRVSwllUf94AaABAg.98-9ubjKzkD98-De3rXP26",
+      "snippet": {
+        "textDisplay": "Alvaro Coelho Jesus valeeeeuu",
+        "textOriginal": "Alvaro Coelho Jesus valeeeeuu",
+        "parentId": "UgzoDrAddoRVSwllUf94AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-28T13:49:04Z",
+        "updatedAt": "2020-04-28T13:49:04Z"
+      }
+    }
+  ]
+}

@@ -10,8 +10,8 @@ class SearchBase:
     def get_lists_of_keys_to_search(self):
         hashtag_SUS_list = ['#SUS', '#SistemaUnicoDeSaude', '#SistemaUnicoSaude', ]
         SUS_list = ['SUS', 'S.U.S', 'Sistema único de saúde', 'Sistema unico de saude']
-        hashtag_COVID_list = ['#COVID', '#COVID-19', '#CORONA', '#CORONAVIRUS', '#SARS','#SARSCoV2','#SARS-CoV-2', '#CoV']
-        COVID_list = ['COVID', 'COVID-19', 'CORONA', 'CORONAVÍRUS', 'CORONAVIRUS', 'CORONA VIRUS', 'SARS','SARSCoV2','SARS-CoV-2', 'CoV']
+        hashtag_COVID_list = ['#COVID', '#COVID-19', '#CORONA', '#CORONAVIRUS', '#SARS','#SARSCoV2','#SARS-CoV-2', '#CoV', '#PandemiaCovid', '#PandemiaCorona', '#PandemiaCoronavirus']
+        COVID_list = ['COVID', 'COVID-19', 'CORONA', 'CORONAVÍRUS', 'CORONAVIRUS', 'CORONA VIRUS', 'SARS','SARSCoV2','SARS-CoV-2', 'CoV', 'Pandemia Covid', 'Pandemia Corona', 'Pandemia Corona vírus']
         return hashtag_SUS_list, SUS_list, hashtag_COVID_list, COVID_list
 
     def load_dict_to_search(self, func_get_query_to_search, first_list, second_list, list_of_dict_to_fill):

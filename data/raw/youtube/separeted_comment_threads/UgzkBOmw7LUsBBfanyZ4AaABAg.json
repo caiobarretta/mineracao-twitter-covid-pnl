@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "izjGFoa29idIz1k96ASpRUmQR2c",
+  "id": "UgzkBOmw7LUsBBfanyZ4AaABAg",
+  "snippet": {
+    "videoId": "FPthtX9eSz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "d2rP5zdw07FtUw8_YbrkZTcecck",
+      "id": "UgzkBOmw7LUsBBfanyZ4AaABAg",
+      "snippet": {
+        "videoId": "FPthtX9eSz0",
+        "textDisplay": "Realmente muito massa.",
+        "textOriginal": "Realmente muito massa.",
+        "authorDisplayName": "M\u00e1rcio Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYh4Eq7WwT1jB_UaHUWtTChVKCNN1OvMJjj5BVPl0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzXS3fDORClVNGJK1126iYA",
+        "authorChannelId": {
+          "value": "UCzXS3fDORClVNGJK1126iYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-28T13:21:17Z",
+        "updatedAt": "2020-04-28T13:21:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pGuzAtSHQpKZ5fwDmAhEIkAWyQs",
+      "id": "UgzkBOmw7LUsBBfanyZ4AaABAg.98-ATd08T8T98-DbbvuTYr",
+      "snippet": {
+        "textDisplay": "Jos\u00e9 M\u00e1rcio de Souza Silva obrigadooo",
+        "textOriginal": "Jos\u00e9 M\u00e1rcio de Souza Silva obrigadooo",
+        "parentId": "UgzkBOmw7LUsBBfanyZ4AaABAg",
+        "authorDisplayName": "Gabriel Silvestri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_ZTVjyAiZRjAdKNjTGlOB9DKzoSPwCcLWN0Otrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq76xfkglZDz2JBBjjd8SlQ",
+        "authorChannelId": {
+          "value": "UCq76xfkglZDz2JBBjjd8SlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-28T13:48:44Z",
+        "updatedAt": "2020-04-28T13:48:44Z"
+      }
+    }
+  ]
+}
