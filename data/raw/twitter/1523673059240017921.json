@@ -1,0 +1,175 @@
+{
+  "created_at": "Mon May 09 14:35:40 +0000 2022",
+  "id": 1523673059240017921,
+  "id_str": "1523673059240017921",
+  "full_text": "SUS ter\u00e1 primeiro medicamento para casos leves de Covid https://t.co/32UaBG25Ho https://t.co/dr7uVaUV9M",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    79
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/32UaBG25Ho",
+        "expanded_url": "http://dlvr.it/SQ232C",
+        "display_url": "dlvr.it/SQ232C",
+        "indices": [
+          56,
+          79
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1523673056501125122,
+        "id_str": "1523673056501125122",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/FSUsknaVUAITdb7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FSUsknaVUAITdb7.jpg",
+        "url": "https://t.co/dr7uVaUV9M",
+        "display_url": "pic.twitter.com/dr7uVaUV9M",
+        "expanded_url": "https://twitter.com/desouzabetalab/status/1523673059240017921/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 683,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 683,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1523673056501125122,
+        "id_str": "1523673056501125122",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/FSUsknaVUAITdb7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FSUsknaVUAITdb7.jpg",
+        "url": "https://t.co/dr7uVaUV9M",
+        "display_url": "pic.twitter.com/dr7uVaUV9M",
+        "expanded_url": "https://twitter.com/desouzabetalab/status/1523673059240017921/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 683,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 683,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 896098819477319680,
+    "id_str": "896098819477319680",
+    "name": "M.Ramos TIM BETA",
+    "screen_name": "desouzabetalab",
+    "location": "",
+    "description": "#timbetalab #timbeta",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 287,
+    "friends_count": 482,
+    "listed_count": 0,
+    "created_at": "Fri Aug 11 19:59:42 +0000 2017",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7990,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/896104895102812160/vYggYakw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896104895102812160/vYggYakw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/896098819477319680/1502483113",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "pt"
+}
