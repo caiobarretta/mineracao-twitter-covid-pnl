@@ -1,4 +1,5 @@
 import time
+import uuid
 from SearchBase import SearchBase
 from SearchKeys import SearchKeys
 from api.YouTubeAPI import YouTubeAPI
@@ -11,7 +12,9 @@ class SearchListYouTube(SearchBase):
     
     def save_search_list(self, search_list):
         for video in search_list:
-            videoId = video['id']['videoId']
+            videoId = str(uuid.uuid4())
+            if 'videoId' in video:
+                videoId = video['id']['videoId']
             print(f'salvando video pesquisa: {videoId} para arquivo.')
             file_name = f'data/raw/youtube/search_list/{videoId}.json'
             content = search_list
