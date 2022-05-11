@@ -1,0 +1,129 @@
+{
+  "created_at": "Tue May 03 19:35:26 +0000 2022",
+  "id": 1521574170060017665,
+  "id_str": "1521574170060017665",
+  "full_text": "@Rioparina Pois \u00e9 , no meu estado( PE) o pessoal da sa\u00fade odeia Bolsonaro! Principalmente os m\u00e9dicos que durante a pandemia atenderam em condi\u00e7\u00f5es prec\u00e1rias , onde muitos dele morreram! Os repasses do SUS para hospitais diminuiram mais de 50% nesse governo!",
+  "truncated": false,
+  "display_text_range": [
+    11,
+    257
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Rioparina",
+        "name": "VIT\u00c3O-13 CARTAS PARA O FUTURO SOMENTE PT",
+        "id": 1250820860325376001,
+        "id_str": "1250820860325376001",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1521535975360544771,
+  "in_reply_to_status_id_str": "1521535975360544771",
+  "in_reply_to_user_id": 1250820860325376001,
+  "in_reply_to_user_id_str": "1250820860325376001",
+  "in_reply_to_screen_name": "Rioparina",
+  "user": {
+    "id": 1436391760171778051,
+    "id_str": "1436391760171778051",
+    "name": "Maria de Lourdes Barreto Marroquim",
+    "screen_name": "de_marroquim",
+    "location": "",
+    "description": "Ser verdadeira",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 186,
+    "friends_count": 363,
+    "listed_count": 0,
+    "created_at": "Fri Sep 10 18:11:17 +0000 2021",
+    "favourites_count": 809,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 646,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1492477402022297602/x96BXiZW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492477402022297602/x96BXiZW_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "61490a94f1b5dde4",
+    "url": "https://api.twitter.com/1.1/geo/id/61490a94f1b5dde4.json",
+    "place_type": "city",
+    "name": "Abreu e Lima",
+    "full_name": "Abreu e Lima, Brasil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -35.13882,
+            -7.935547
+          ],
+          [
+            -34.856253,
+            -7.935547
+          ],
+          [
+            -34.856253,
+            -7.796151
+          ],
+          [
+            -35.13882,
+            -7.796151
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

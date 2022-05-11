@@ -8,8 +8,8 @@ class SearchBase:
             json.dump(content, f, indent=2)
 
     def get_lists_of_keys_to_search(self):
-        hashtag_SUS_list = ['#SUS', '#SistemaUnicoDeSaude', '#SistemaUnicoSaude', ]
-        SUS_list = ['SUS', 'S.U.S', 'Sistema único de saúde', 'Sistema unico de saude']
+        hashtag_SUS_list = ['#SUS', '#SistemaUnicoDeSaude', '#SistemaUnicoSaude', '#SaúdePública', '#SaudePublica', '#SistemaDeSaudePublico',  '#SistemaSaudePublico', '#SistemaDeSaúdePúblico',  '#SistemaSaúdePúblico']
+        SUS_list = ['SUS', 'S.U.S', 'Sistema único de saúde', 'Sistema unico de saude', 'Saúde Pública', 'Saude Publica', 'Sistema De Saude Publico', 'Sistema Saude Publico', 'Sistema De Saúde Público',  'Sistema Saúde Público']
         hashtag_COVID_list = ['#COVID', '#COIVD', '#COIVD-19', '#COVID-19', '#CORONA', '#CORONAVIRUS', '#SARS','#SARSCoV2','#SARS-CoV-2', '#CoV', '#Pandemia', '#PandemiaCovid', '#PandemiaCorona', '#PandemiaCoronavirus']
         COVID_list = ['COVID', 'COIVD', 'COVID-19', 'COIVD-19','CORONA', 'CORONAVÍRUS', 'CORONAVIRUS', 'CORONA VIRUS', 'SARS','SARSCoV2','SARS-CoV-2', 'CoV', 'Pandemia', 'Pandemia Covid', 'Pandemia Corona', 'Pandemia Corona vírus']
         return hashtag_SUS_list, SUS_list, hashtag_COVID_list, COVID_list
