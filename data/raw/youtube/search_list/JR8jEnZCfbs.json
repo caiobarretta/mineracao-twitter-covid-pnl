@@ -1,7 +1,41 @@
 [
   {
     "kind": "youtube#searchResult",
-    "etag": "PEGAszMVreSH32zv7h0WweHhIQ8",
+    "etag": "mbb5iOw45M6ZlozMw0kOlNB8MIE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4U8Yyi_k6EI"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-07T18:43:50Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "A incr\u00edvel batalha do sistema imunol\u00f3gico contra o coronav\u00edrus",
+      "description": "Neste v\u00eddeo, a rep\u00f3rter Camilla Veras Mota explica o funcionamento do nosso sistema imunol\u00f3gico e mostra como ele age ao ser ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4U8Yyi_k6EI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4U8Yyi_k6EI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4U8Yyi_k6EI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BBC News Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-07T18:43:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mMMhJFSk5yuxzqF7jjwj_9i7ZVM",
     "id": {
       "kind": "youtube#video",
       "videoId": "ywQXBGBj_2M"
@@ -69,36 +103,342 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "IDQOAqBMO2FwmduA_PBEuyP2Pmk",
+    "etag": "G6z6PeeqgJlNcQs6rW0IBRunphw",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Bl0KaoSfO0A"
+      "videoId": "PpbJNX7ZPq8"
     },
     "snippet": {
-      "publishedAt": "2022-05-08T21:30:00Z",
-      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-      "title": "SUS aprova medicamento oral contra a Covid-19",
-      "description": "O SUS deve disponibilizar ainda este ano as p\u00edlulas da Pfizer contra a Covid-19. A Comiss\u00e3o Nacional de Incorpora\u00e7\u00e3o de ...",
+      "publishedAt": "2020-02-28T17:19:25Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "O que se sabe sobre o coronav\u00edrus 2019, o SARS-CoV-2?",
+      "description": "Coronav\u00edrus \u00e9 uma grande fam\u00edlia de v\u00edrus que causa infec\u00e7\u00f5es respirat\u00f3rias. Em dezembro de 2019, um novo tipo de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/default.jpg",
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Record News",
+      "channelTitle": "Canal Butantan",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-08T21:30:00Z"
+      "publishTime": "2020-02-28T17:19:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9B9mZVhpBJ9AGHcVIyxyyjT4VDs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "p9Y3EscbF98"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-17T17:52:58Z",
+      "channelId": "UCvNbTU5NSQ_K8cWfY9OmWsw",
+      "title": "O que s\u00e3o subvariantes do novo coronav\u00edrus",
+      "description": "O termo variante se popularizou nos \u00faltimos dois anos, ap\u00f3s a descoberta do novo coronav\u00edrus, o SARS-CoV-2, respons\u00e1vel ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TV UFMG",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-17T17:52:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wlKa42wgep2j2rk1mZ776hGa59U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fz5xFui6A_M"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-29T17:01:36Z",
+      "channelId": "UCYhTgGdeaBbbZ-h_LVJ_6bw",
+      "title": "O papel do SUS no combate \u00e0 pandemia",
+      "description": "Crucial no combate \u00e0 Covid-19, Sistema \u00danico de Sa\u00fade enfrenta problemas novos e antigos de financiamento e governan\u00e7a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Pesquisa Fapesp",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-29T17:01:36Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AUWHbgeyMuZnymK6ZX8YB2R0nKc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T2zAei4IPCQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-03T20:47:45Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "China enfrenta novo surto de covid-19 e pede que popula\u00e7\u00e3o estoque comida",
+      "description": "Primeiro pa\u00eds a enfrentar o coronav\u00edrus, a China conseguiu controlar a pandemia amplamente desde o in\u00edcio de 2020, com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "exame",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-03T20:47:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kC0B3yhCYcbbKEKtjxKf76BP2bQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aMhF-BlR4Eg"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-10T07:30:00Z",
+      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+      "title": "E Tem Mais: Controle da Covid-19: muta\u00e7\u00f5es e circula\u00e7\u00e3o do v\u00edrus ainda exigem cuidados",
+      "description": "Neste epis\u00f3dio do E Tem Mais, Carol Nogueira apresenta um balan\u00e7o do quadro atual da pandemia da Covid-19 e dos cuidados ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aMhF-BlR4Eg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aMhF-BlR4Eg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aMhF-BlR4Eg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CNN Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-10T07:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bBR7SzIavtSDfCjELduwS6aZh-s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jjLQkBmkGhA"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-04T21:23:25Z",
+      "channelId": "UCUUU5zBnxg55vaXymuFJDPw",
+      "title": "Covid-19: Como o nosso sistema imune reage ao coronav\u00edrus?",
+      "description": "A professora de imunologia molecular da UnB, Andrea Maranh\u00e3o, explica como o nosso sistema imune reage ao coronav\u00edrus.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jjLQkBmkGhA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jjLQkBmkGhA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jjLQkBmkGhA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UnBTV",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-04T21:23:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "alKAgfH_kaW94OHYTX4QT8OC3Eo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5UitHFVsm_o"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-30T21:38:43Z",
+      "channelId": "UCPc49HyxtPKpBUWK0rvA1oQ",
+      "title": "O Sistema \u00danico de Sa\u00fade no enfrentamento da pandemia do novo coronav\u00edrus, Covid-19",
+      "description": "Aula 2 do curso de extens\u00e3o: A pandemia do novo coronav\u00edrus, Covid-19: Trabalho, Servi\u00e7o Social e Sa\u00fade do\\a Trabalhador\\a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5UitHFVsm_o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5UitHFVsm_o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5UitHFVsm_o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "F\u00f3rum de Debates e Entrevistas",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-30T21:38:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DrTSf5N7KoOwhiBjLEarDGX9VL4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4zAptoM437E"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-24T11:53:39Z",
+      "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+      "title": "&quot;Novas variantes do coronav\u00edrus ter\u00e3o surgido em pessoas com o sistema imunol\u00f3gico comprometido&quot;",
+      "description": "Entrevista completa a T\u00falio Machado, diretor do laborat\u00f3rio KRISP da Universidade de Medicina Nelson Mandela, em Durban na ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4zAptoM437E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4zAptoM437E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4zAptoM437E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "euronews (em portugu\u00eas)",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-24T11:53:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Q4L0TV7CJZyt7lweewHOAsXwXKE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JIrQeb9WUoA"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-01T16:59:47Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Minist\u00e9rio da Sa\u00fade aprova primeiro medicamento contra Covid-19 para o SUS",
+      "description": "O baricitinibe foi liberado para Covid-19 pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa). O medicamento foi aprovado ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JIrQeb9WUoA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JIrQeb9WUoA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JIrQeb9WUoA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornalismo TV Cultura",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-01T16:59:47Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iaNQpbIfDEqy1EU3URrXOnVljss",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TCiFPnV470Y"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-03T19:32:06Z",
+      "channelId": "UCliydr--ExoKG7LifaCht2A",
+      "title": "V\u00edrus SARS-CoV-2 - Coronav\u00edrus da COVID-19",
+      "description": "Nesse v\u00eddeo voc\u00ea encontra um resumo sobre as principais estruturas do coronav\u00edrus causador da pandemia de COVID-19, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TCiFPnV470Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TCiFPnV470Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TCiFPnV470Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Me Gusta Bio",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-03T19:32:06Z"
     }
   },
   {
@@ -137,138 +477,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "EElQMK8-6XpDLyO70qo_ttXS8f8",
+    "etag": "IDQOAqBMO2FwmduA_PBEuyP2Pmk",
     "id": {
       "kind": "youtube#video",
-      "videoId": "J-lBva5d934"
+      "videoId": "Bl0KaoSfO0A"
     },
     "snippet": {
-      "publishedAt": "2021-11-20T15:00:25Z",
-      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
-      "title": "Mega Vacina\u00e7\u00e3o contra a #Covid19 | 20 a 26 de novembro de 2021",
-      "description": "Hoje \u00e9 dia de Mega Vacina\u00e7\u00e3o!!! E o resto da semana tamb\u00e9m Uma semana inteira para voc\u00ea atualizar o seu ciclo vacinal ...",
+      "publishedAt": "2022-05-08T21:30:00Z",
+      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "title": "SUS aprova medicamento oral contra a Covid-19",
+      "description": "O SUS deve disponibilizar ainda este ano as p\u00edlulas da Pfizer contra a Covid-19. A Comiss\u00e3o Nacional de Incorpora\u00e7\u00e3o de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/default.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
+      "channelTitle": "Record News",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-11-20T15:00:25Z"
+      "publishTime": "2022-05-08T21:30:00Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ND058Mt1ULYQEPJSyK_oA7iiZ6s",
+    "etag": "hQ9xlxxsG9nYKs5TjIh00uVOBt4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "CsrHHHPHKwE"
+      "videoId": "DsMLFXxqQpo"
     },
     "snippet": {
-      "publishedAt": "2022-05-10T14:00:04Z",
-      "channelId": "UCFuIUoyHB12qpYa8Jpxoxow",
-      "title": "Aplica\u00e7\u00e3o Monol\u00edtica (A Arquitetura de Software Mais &quot;Tradicional&quot;) // Dicion\u00e1rio do Programador",
-      "description": "ESTUDE NA ALURA \u2192 https://codft.me/alura Todo tipo de arquitetura de software encontra espa\u00e7o dependendo do ...",
+      "publishedAt": "2022-05-09T18:09:21Z",
+      "channelId": "UCSv9d0kQegylHWpP83jWSQg",
+      "title": "Minist\u00e9rio da Sa\u00fade incorpora medicamento para casos leves de covid-19",
+      "description": "O Minist\u00e9rio da Sa\u00fade incorporou o primeiro medicamento para casos leves de covid-19 no rol do Sistema \u00danico de Sa\u00fade.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CsrHHHPHKwE/default.jpg",
+          "url": "https://i.ytimg.com/vi/DsMLFXxqQpo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CsrHHHPHKwE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DsMLFXxqQpo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CsrHHHPHKwE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DsMLFXxqQpo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "C\u00f3digo Fonte TV",
+      "channelTitle": "TV Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-10T14:00:04Z"
+      "publishTime": "2022-05-09T18:09:21Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "5GNK_KFd7kuymmeUVRfOm174zLY",
+    "etag": "lg38UIQ4FykDfIXLV_1CFI1JF0g",
     "id": {
       "kind": "youtube#video",
-      "videoId": "-SnZlAj39gc"
+      "videoId": "8HI7WV8egb8"
     },
     "snippet": {
-      "publishedAt": "2021-09-19T21:05:25Z",
-      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
-      "title": "Lan\u00e7amento do Plano Nacional de Expans\u00e3o da Testagem para Covid-19",
-      "description": "Plano Nacional de Expans\u00e3o da Testagem para Covid-19: cerca de 60 MILH\u00d5ES de testes de ant\u00edgeno ser\u00e3o distribu\u00eddos para ...",
+      "publishedAt": "2022-03-29T16:45:00Z",
+      "channelId": "UCcfVbI2V8GOOhXokGYYopbA",
+      "title": "Variante Deltacron: veja como o genoma do Coronav\u00edrus se misturou nesse mutante",
+      "description": "Saiba de modo simples como as informa\u00e7\u00f5es gen\u00e9ticas das variantes Delta e \u00d4micron se misturaram. Nos siga nas redes: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-SnZlAj39gc/default.jpg",
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-SnZlAj39gc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-SnZlAj39gc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
+      "channelTitle": "UniCi\u00eancia",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-09-19T21:05:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "MNkJqYRABi88NCnUQzcoXAlG3Qk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "hlowUhJv8bo"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-17T18:00:49Z",
-      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
-      "title": "Sa\u00fade News | Atualiza\u00e7\u00f5es Covid-19 | Edi\u00e7\u00e3o #84 | 17/11/2021",
-      "description": "Quarta-feira chegou e mais uma edi\u00e7\u00e3o do #Sa\u00fadeNews tamb\u00e9m! Vem com a gente para acompanhar as principais not\u00edcias da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hlowUhJv8bo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hlowUhJv8bo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hlowUhJv8bo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-17T18:00:49Z"
+      "publishTime": "2022-03-29T16:45:00Z"
     }
   },
   {
@@ -307,6 +613,210 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "KAJrg84wtHIyGslEC8GdD6gFbDs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "drf5usU8gK4"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-13T17:13:12Z",
+      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
+      "title": "Pandemia do coronav\u00edrus escancara urg\u00eancia de universalizar acesso aos servi\u00e7os de saneamento",
+      "description": "A pandemia da Covid-19 deixou clara a necessidade de se buscar boas condi\u00e7\u00f5es de sa\u00fade p\u00fablica para todos, indistintamente.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/drf5usU8gK4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/drf5usU8gK4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/drf5usU8gK4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Rede TVT",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-13T17:13:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bhDWXgKicEH9s-434mVGP1zcjHE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jgXUKAnDJ00"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-13T17:30:03Z",
+      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
+      "title": "NOVO SURTO DE COVID NA EUROPA E CHINA: O QUE EST\u00c1 ACONTECENDO",
+      "description": "Por que a Europa e a China vivem novo surto de COVID? Mesmo com as taxas de vacina\u00e7\u00e3o em alta, a Europa est\u00e1 sofrendo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-13T17:30:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XUz71rpc5xKTA04YEaiLwgTrzd4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "puSHlt-2XkQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-03T00:22:28Z",
+      "channelId": "UCEAbt7GFJVdTuyBxOvw16iA",
+      "title": "Protect Covid: Acompanhamento da resposta imune humoral ap\u00f3s vacina\u00e7\u00e3o na COVID-19.",
+      "description": "\u00c9 poss\u00edvel saber se o seu organismo desenvolveu anticorpos ap\u00f3s da vacina\u00e7\u00e3o contra a Covid-19. Neste evento, vamos mostrar ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/puSHlt-2XkQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/puSHlt-2XkQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/puSHlt-2XkQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Mobius Life Science",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-03T00:22:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3pCN6RI6eS8m8Z3Mfehi13-fEqA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fIddNwVUCWg"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-10T19:31:46Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "SARS CoV 2   Surto, epidemia ou pandemia",
+      "description": "A ocorr\u00eancia do coronav\u00edrus 2019 em mais de 100 pa\u00edses coloca em discuss\u00e3o o risco de uma pandemia da doen\u00e7a. Neste v\u00eddeo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fIddNwVUCWg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fIddNwVUCWg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fIddNwVUCWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-10T19:31:46Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "KJKFG7jVs9pwT2c33wjOi58oY2A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qJsSXhxvkPU"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-26T14:14:46Z",
+      "channelId": "UC_hOtRM1VXOdfRwD0ooAIEA",
+      "title": "Coronav\u00edrus: O que \u00e9, como funciona, cuidados | Agente Solid\u00e1rio",
+      "description": "V\u00eddeo em Libras: https://youtu.be/R7c3Lx-tdYU Encontre a EAD Unicesumar nas redes sociais: Blog: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qJsSXhxvkPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qJsSXhxvkPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qJsSXhxvkPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "EAD Unicesumar",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-26T14:14:46Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HUd4YZJrboic7klH4WaYgoQqWkU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T__gqrJdXrk"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-14T00:08:09Z",
+      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
+      "title": "\ud83d\udd34 COLAPSO E COVID: O QUE EST\u00c1 ERRADO COM A SA\u00daDE BRASILEIRA?",
+      "description": "O que leva um hospital a ter falta de oxig\u00eanio? Qual \u00e9 a sequ\u00eancia de erros que levam ao colapso? A pandemia de COVID ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T__gqrJdXrk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T__gqrJdXrk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T__gqrJdXrk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-14T00:08:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "zbhaGqLbHi3bKZbPF---wCGMaAA",
     "id": {
       "kind": "youtube#video",
@@ -341,36 +851,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "2tk_d73ljtoItjXw35_LVvcs5aY",
+    "etag": "H840EdOF-AiT01em9X-20sRuZNI",
     "id": {
       "kind": "youtube#video",
-      "videoId": "_ASuV5nS84E"
+      "videoId": "ZLnDOPQ2T98"
     },
     "snippet": {
-      "publishedAt": "2021-01-14T19:44:07Z",
-      "channelId": "UCKy854A2wVaBkZO9kAt1w_g",
-      "title": "LIVE: Sistemas de informa\u00e7\u00e3o para vacina\u00e7\u00e3o contra a Covid-19",
-      "description": "Este encontro ao vivo vai ser dedicado para falar sobre o registro de informa\u00e7\u00f5es e o acr\u00e9scimo da popula\u00e7\u00e3o aos servi\u00e7os de ...",
+      "publishedAt": "2020-07-30T21:11:16Z",
+      "channelId": "UCm17GAihi4NAVEnA1n4WajQ",
+      "title": "TESTES PARA CONTER A PANDEMIA DO COVID-19",
+      "description": "O curso de Farm\u00e1cia da UNINOVE apresenta mais um epis\u00f3dio sobre a pandemia do novo coronav\u00edrus, cujos temas que se ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_ASuV5nS84E/default.jpg",
+          "url": "https://i.ytimg.com/vi/ZLnDOPQ2T98/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_ASuV5nS84E/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZLnDOPQ2T98/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_ASuV5nS84E/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZLnDOPQ2T98/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CONASEMS",
+      "channelTitle": "UNINOVE",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-01-14T19:44:07Z"
+      "publishTime": "2020-07-30T21:11:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fmJWWceA2y9bRrOhyXBqrZ7kPVQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qMaVohaAB9s"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-01T18:00:05Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Contra a covid 19, anticorpos monoclonais",
+      "description": "Pesquisadores do Butantan iniciaram estudos para tentar desenvolver anticorpos monoclonais que possam combater a covid-19.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-01T18:00:05Z"
     }
   },
   {
@@ -409,410 +953,172 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TWMTZKoOBXXtzAPf9gClQ6wpuV4",
+    "etag": "nt-1rXSnNLQhxvyNkCTbw0oE1j0",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Za5FMmmEn3Y"
+      "videoId": "6wb8rr47x68"
     },
     "snippet": {
-      "publishedAt": "2020-04-15T17:38:36Z",
-      "channelId": "UCGsh5I0NMEJWZ4x73WzxrXg",
-      "title": "COVID-19 -  Na fase de transmiss\u00e3o comunit\u00e1ria de epidemias, qual o papel da APS?",
-      "description": "Para o m\u00e9dico e professor da Escola Andaluza de Sa\u00fade P\u00fablica, Sergio Minu\u00e9, sistemas de sa\u00fade com APS Forte \u00e9 mais ...",
+      "publishedAt": "2021-12-14T12:39:38Z",
+      "channelId": "UCfDwGB2fcPOn9DTtho3O_jA",
+      "title": "WEBINAR &quot;A PANDEMIA DA COVID-19 E O COMBATE POR PARTE DO SISTEMA DE SA\u00daDE E SISTEMA DE JUSTI\u00c7A&quot;",
+      "description": "WEBINAR \"A PANDEMIA DA COVID-19 E O COMBATE POR PARTE DO SISTEMA DE SA\u00daDE E SISTEMA DE JUSTI\u00c7A \u2013 A ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Za5FMmmEn3Y/default.jpg",
+          "url": "https://i.ytimg.com/vi/6wb8rr47x68/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Za5FMmmEn3Y/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6wb8rr47x68/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Za5FMmmEn3Y/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6wb8rr47x68/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Portal da Inova\u00e7\u00e3o na Gest\u00e3o do SUS",
+      "channelTitle": "Unisa Oficial",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-04-15T17:38:36Z"
+      "publishTime": "2021-12-14T12:39:38Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "jcfjebxJSpCF03ObQZKl2ZzBcrU",
+    "etag": "GqLnKJdxzOS9pMoWs2K8DF33_Ps",
     "id": {
       "kind": "youtube#video",
-      "videoId": "5nB5NLP9Pr8"
+      "videoId": "rpmZ5BbLm7U"
     },
     "snippet": {
-      "publishedAt": "2022-02-10T17:35:35Z",
-      "channelId": "UC04bxzJ3IyLH-G_h0olHvHw",
-      "title": "Webinar Planejamento DDTR 2022: COVID-19 &amp; Influenza &amp; Sarampo: O que precisamos saber?",
-      "description": "P\u00fablico Alvo: Profissionais de Sa\u00fade da Vigil\u00e2ncia, Imuniza\u00e7\u00e3o, Laborat\u00f3rio e Assist\u00eancia (DRS, 27 GVEs, SMS, setores p\u00fablico ...",
+      "publishedAt": "2021-07-15T22:18:54Z",
+      "channelId": "UCYamjJAo9qHUIN1jLYEDN4w",
+      "title": "COVID 19 NA\u0303O FAC\u0327A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS",
+      "description": "COVID 19 N\u00c3O FA\u00c7A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS! Dr. Eduardo Corassa, nutricionista, escritor, ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5nB5NLP9Pr8/default.jpg",
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5nB5NLP9Pr8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5nB5NLP9Pr8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Coordenadoria de Controle de Doen\u00e7as ",
+      "channelTitle": "Dr. Corassa SaudeFrugal",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-02-10T17:35:35Z"
+      "publishTime": "2021-07-15T22:18:54Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "yu_KfAC-W21owl8pPc1DUocAInE",
+    "etag": "PnIY8meUqcAXKt3mdlaFUnlIAPA",
     "id": {
       "kind": "youtube#video",
-      "videoId": "iNq4Odpy6qw"
+      "videoId": "nJ0DaRnqWV4"
     },
     "snippet": {
-      "publishedAt": "2020-10-22T17:00:11Z",
-      "channelId": "UCEjx8yNNgDlgPx9pCDbvz3A",
-      "title": "SEPEX em Casa: Painel Covid-19 - A rela\u00e7\u00e3o entre Covid-19 e diabetes",
-      "description": "SEPEX em Casa apresenta: Painel Covid-19 Cientistas da UFSC examinam a pandemia provocada pelo SARS-CoV-2. A rela\u00e7\u00e3o ...",
+      "publishedAt": "2020-09-16T23:33:20Z",
+      "channelId": "UCFAu5IdVz786ZCkXMrHbk8A",
+      "title": "Covid-19: mitos e verdades sobre sistemas de descontamina\u00e7\u00e3o",
+      "description": "com Professor Rub\u00e3o e Grupo Salutary Design Corona V\u00edrus & Covid-19 - sistemas de sanitiza\u00e7\u00e3o/desinfec\u00e7\u00e3o/esteriliza\u00e7\u00e3o: o ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iNq4Odpy6qw/default.jpg",
+          "url": "https://i.ytimg.com/vi/nJ0DaRnqWV4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iNq4Odpy6qw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nJ0DaRnqWV4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iNq4Odpy6qw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nJ0DaRnqWV4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UFSC",
+      "channelTitle": "T\u00e3o Longe T\u00e3o Perto",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-10-22T17:00:11Z"
+      "publishTime": "2020-09-16T23:33:20Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "c77VfmFxkq7umthtRDmP_ovRi88",
+    "etag": "-7Pjun4fXw71O8YBbeJ2pkd813s",
     "id": {
       "kind": "youtube#video",
-      "videoId": "A0PCVuVIiW4"
+      "videoId": "7wX7nghlM0o"
     },
     "snippet": {
-      "publishedAt": "2021-08-16T17:23:59Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Enfermeira abra\u00e7a jovem com medo de agulha durante vacina\u00e7\u00e3o contra covid",
-      "description": "Uma enfermeira fez sucesso nas redes sociais ao consolar uma jovem que estava com medo da agulha em mais um dia de ...",
+      "publishedAt": "2021-07-30T00:04:51Z",
+      "channelId": "UC4P7-kqyUd_2Uh9T4-94Udg",
+      "title": "Aul\u00e3o da Sa\u00fade | Imunologia e vacinas contra a COVID-19",
+      "description": "No aul\u00e3o de hoje, vamos falar sobre um assunto que muito vem sendo debatido e discutido nos tempos atuais. A imunologia e as ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/A0PCVuVIiW4/default.jpg",
+          "url": "https://i.ytimg.com/vi/7wX7nghlM0o/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/A0PCVuVIiW4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7wX7nghlM0o/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/A0PCVuVIiW4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7wX7nghlM0o/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UOL",
+      "channelTitle": "Sanar Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-08-16T17:23:59Z"
+      "publishTime": "2021-07-30T00:04:51Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "n4BH3R5rxqm3Z1zndbFCaDU3AE8",
+    "etag": "TElq4hGma9kCoWQf9HhxbLRvxtQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "jfsmqZs5IFE"
+      "videoId": "tE7CU68pQ5k"
     },
     "snippet": {
-      "publishedAt": "2020-05-03T03:00:40Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Criando mapa de casos de COVID19 no Brasil",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Arquivo JSON: ...",
+      "publishedAt": "2020-05-27T23:00:12Z",
+      "channelId": "UChXoI9AV0EA9UmHTVSEWw4g",
+      "title": "COMO O V\u00cdRUS COVID-19 AGE NO SISTEMA DIGEST\u00d3RIO com Samuel Cunha",
+      "description": "Samuel Cunha vai dar o start na nossa playlist 'Comentando Manchetes', onde vamos aprender meios novos de aprender ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jfsmqZs5IFE/default.jpg",
+          "url": "https://i.ytimg.com/vi/tE7CU68pQ5k/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jfsmqZs5IFE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tE7CU68pQ5k/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jfsmqZs5IFE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tE7CU68pQ5k/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "SudoControl",
+      "channelTitle": "Coach COC",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-03T03:00:40Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "duxwcOnBUSVSIJ86F6YXLby4Tjw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "qzGzMXL02gA"
-    },
-    "snippet": {
-      "publishedAt": "2020-05-01T23:03:05Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Dados para criar mapa de casos de COVID19 no Brasil",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Arquivo JSON: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qzGzMXL02gA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qzGzMXL02gA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qzGzMXL02gA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SudoControl",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-05-01T23:03:05Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "36HDYqX-ZoxyEcMVrGL6HsVDPEo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "VkjovUTjpvY"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-08T16:13:33Z",
-      "channelId": "UCFVLZWcWoAHJVfc6CsXzqbw",
-      "title": "Painel - Biomedicina e Covid-19",
-      "description": "A partir de suas pr\u00f3prias experi\u00eancias, profissionais discutem a import\u00e2ncia do Biom\u00e9dico durante a pandemia de COVID-19.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VkjovUTjpvY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VkjovUTjpvY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VkjovUTjpvY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Unifesp - Universidade Federal de S\u00e3o Paulo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-08T16:13:33Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "9QPjlqwMYRhxLD0_OxayFjWREow",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "dVPvZn9h4RI"
-    },
-    "snippet": {
-      "publishedAt": "2020-06-17T19:00:06Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Planilha com dados do COVID19 no Brasil - Painel do Coronavirus",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Facebook: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dVPvZn9h4RI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dVPvZn9h4RI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dVPvZn9h4RI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SudoControl",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-06-17T19:00:06Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fuCJjDrm5PN8I0xwmreMN3v6V7Y",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "DvPEDUXRlyc"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-01T00:37:47Z",
-      "channelId": "UCYPmSwzVhE5XUFBL2E_BXCg",
-      "title": "Educa\u00e7\u00e3o Permanente em Sa\u00fade do Sistema Prisional: COVID-19 e Planos de Conting\u00eancia",
-      "description": "A Universidade de Santa Cruz do Sul em parceria com a Secretaria Estadual de Sa\u00fade e Secretaria de Administra\u00e7\u00e3o ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DvPEDUXRlyc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DvPEDUXRlyc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DvPEDUXRlyc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Unisc Ao Vivo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-01T00:37:47Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Mzjhoh_LGGEP8H2rrqs1u26ZAXo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "pEdj_vIK-Ws"
-    },
-    "snippet": {
-      "publishedAt": "2022-02-04T19:30:03Z",
-      "channelId": "UCcoPc-BqFPkVkkwyS35J-ng",
-      "title": "BRASIL ACELERA NA APLICA\u00c7\u00c3O DE DOSES DE REFOR\u00c7O CONTRA A COVID-19 E CHEGA A 20 MILH\u00d5ES EM JANEIRO",
-      "description": "Assista gratuitamente a programa\u00e7\u00e3o ao vivo da TV Novo Tempo. Acesse: https://www.youtube.com/watch?v=wxdR5F7ySdM ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pEdj_vIK-Ws/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pEdj_vIK-Ws/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pEdj_vIK-Ws/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Revista Novo Tempo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-02-04T19:30:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "l4UKm7xLWgbGI5dzrMeWRUWVG7U",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "9arbSePMReI"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-28T01:00:01Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Fonte de dados do COVID19 no Brasil e no Mundo",
-      "description": "Veja mais em: http://www.sudocontrol.com.br https://covid.saude.gov.br/ https://covid19br.github.io/index.html ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9arbSePMReI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9arbSePMReI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9arbSePMReI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SudoControl",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-28T01:00:01Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "jXSwT2IYw4tOxTg3OuV798q3eOk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "5ngMnZw6bvk"
-    },
-    "snippet": {
-      "publishedAt": "2020-05-08T19:00:02Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Alterar cor e legenda do mapa de casos de COVID19",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Habitantes TCU: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5ngMnZw6bvk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5ngMnZw6bvk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5ngMnZw6bvk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SudoControl",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-05-08T19:00:02Z"
+      "publishTime": "2020-05-27T23:00:12Z"
     }
   },
   {
@@ -851,512 +1157,138 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "oIkgZhaKDpdw3FW7_V2u2xXQqjM",
+    "etag": "l0CExW6dZ2AlkLa2RHvtdI3nkyM",
     "id": {
       "kind": "youtube#video",
-      "videoId": "4l-N2daCHg4"
+      "videoId": "wOt69VkyiI4"
     },
     "snippet": {
-      "publishedAt": "2020-03-30T15:12:51Z",
-      "channelId": "UCmBNyXtvXUKPP21RB4Su6ew",
-      "title": "COVID-19",
-      "description": "V\u00eddeo informativo sobre o surto recente da COVID-19, analisando gr\u00e1ficos que mostram a efetividade da quarentena e do ...",
+      "publishedAt": "2020-02-26T16:56:13Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "O n\u00famero de casos de Coronav\u00edrus est\u00e1 aumentando?",
+      "description": "Instituto Butantan - A servi\u00e7o da Vida \u25b7 Inscreva-se, curta e compartilhe! #Instituto Butantan #Ci\u00eancia #Educa\u00e7\u00e3o.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4l-N2daCHg4/default.jpg",
+          "url": "https://i.ytimg.com/vi/wOt69VkyiI4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4l-N2daCHg4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wOt69VkyiI4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4l-N2daCHg4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wOt69VkyiI4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Conex\u00e3o SUS",
+      "channelTitle": "Canal Butantan",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-30T15:12:51Z"
+      "publishTime": "2020-02-26T16:56:13Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "pcJpUSPXardFtgJEOn1TnJrbx_o",
+    "etag": "st7ckBeoUrKeqayqQRT_Eu_-Ypo",
     "id": {
       "kind": "youtube#video",
-      "videoId": "8cOkvOxoXaY"
+      "videoId": "Trr0EBjONds"
     },
     "snippet": {
-      "publishedAt": "2021-09-06T19:46:10Z",
-      "channelId": "UCs4vly-jvKNuGKLmgmsxzMQ",
-      "title": "Arrume-se comigo para tomar a vacina da COVID-19 | Vacina do COVID-19",
-      "description": "Fala pessoal, hoje eu trouxe um v\u00eddeo me arrumando para tomar a vacina da COVID-19, espero que gostem. Hoje eu tava ...",
+      "publishedAt": "2022-05-09T20:16:25Z",
+      "channelId": "UCv_2kVDXuCkH4LbG2a3Pmpg",
+      "title": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias-11/05",
+      "description": "11 de maio 09h \u2013 Palestra: Mitos e verdades sobre a vacina\u00e7\u00e3o para Covid19: a atua\u00e7\u00e3o da enfermeira nesse cen\u00e1rio.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8cOkvOxoXaY/default.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/default_live.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8cOkvOxoXaY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/mqdefault_live.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8cOkvOxoXaY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/hqdefault_live.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Xandd",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-06T19:46:10Z"
+      "channelTitle": "UNIFASE",
+      "liveBroadcastContent": "upcoming",
+      "publishTime": "2022-05-09T20:16:25Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "vXJ-mbCPjX5YX62nRj3Y3Zj8ReI",
+    "etag": "JH2owAPlOmIYsRc_DLdiy3zqbB4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "b6VR9EV3K7o"
+      "videoId": "PuaV3Zj7pNE"
     },
     "snippet": {
-      "publishedAt": "2020-05-03T19:00:10Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Mapa de incid\u00eancia do COVID19 no Brasil",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Habitantes TCU: ...",
+      "publishedAt": "2021-09-17T11:39:50Z",
+      "channelId": "UCy-Y7_FVI7XE8Ck-CGMnxcA",
+      "title": "COVID 19: O que precisamos saber sobre as novas variantes?",
+      "description": "UPVacina e Ilha do Conhecimento apresentam a volta do Vacina Talks! Na estreia da nossa segunda temporada falaremos ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/b6VR9EV3K7o/default.jpg",
+          "url": "https://i.ytimg.com/vi/PuaV3Zj7pNE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/b6VR9EV3K7o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PuaV3Zj7pNE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/b6VR9EV3K7o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PuaV3Zj7pNE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "SudoControl",
+      "channelTitle": "Uni\u00e3o Pr\u00f3-Vacina",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-03T19:00:10Z"
+      "publishTime": "2021-09-17T11:39:50Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "oGIf5qDe_ssZMqCS7EXY81cWOu8",
+    "etag": "raXtnpfHME7votAQGv0JDLoSRxo",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Grn4tVNmQB4"
+      "videoId": "r43iq5JNfQU"
     },
     "snippet": {
-      "publishedAt": "2022-01-28T18:57:11Z",
-      "channelId": "UCY3Qng2neUukUoqEM-4Mn2g",
-      "title": "Emiss\u00e3o de Comunicado de Isolamento para positivados com Covid-19",
-      "description": "Sa\u00fade: Laborat\u00f3rios e farm\u00e1cias de S\u00e3o Louren\u00e7o do Oeste (SC) ter\u00e3o que emitir Comunicado de Isolamento para quem ...",
+      "publishedAt": "2021-01-22T21:00:10Z",
+      "channelId": "UC9sK1D5qmfzfV5cDjyLGFpA",
+      "title": "Como criamos grupo de pesquisa da COVID-19 na MEDICINA USP",
+      "description": "No video de hoje, eu conto como fizemos para estruturar o grupo de pesquisa sobre COVID-19 no Pronto Socorro do Hospital ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Grn4tVNmQB4/default.jpg",
+          "url": "https://i.ytimg.com/vi/r43iq5JNfQU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Grn4tVNmQB4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r43iq5JNfQU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Grn4tVNmQB4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r43iq5JNfQU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "TV Sudoeste",
+      "channelTitle": "Cau\u00ea Gasparotto",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-28T18:57:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "BvBKGuGPNUCcon-LdgB4jOTX6yQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "8_i5YSuQ-6g"
-    },
-    "snippet": {
-      "publishedAt": "2020-06-16T19:30:01Z",
-      "channelId": "UCYCcZpc8nK9kRA5zWOHJQEA",
-      "title": "Dados do COVID19 no Brasil - Painel do Coronav\u00edrus",
-      "description": "Veja mais em: http://www.sudocontrol.com.br Dados do Minist\u00e9rio da Sa\u00fade: https://covid.saude.gov.br/ Facebook: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8_i5YSuQ-6g/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8_i5YSuQ-6g/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8_i5YSuQ-6g/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SudoControl",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-06-16T19:30:01Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "n9HbCAbsaswQDaK7hJLh0z50awo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Xk0zHZBa7LM"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-19T15:03:16Z",
-      "channelId": "UCZ8gRCp3vixlGVAtplCDd5Q",
-      "title": "Visualizando Dados do Coronav\u00edrus (COVID19) com Python.",
-      "description": "Neste aula voc\u00ea vai aprender recursos interessantes da biblioteca Plotly aplicados a um dataset que cont\u00e9m dados sobre a ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Xk0zHZBa7LM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Xk0zHZBa7LM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Xk0zHZBa7LM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Stack",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-19T15:03:16Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "L9Bpa3CZeMzl70sclDYBw5-AywU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "sIOGmIrEmvo"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-09T15:39:54Z",
-      "channelId": "UCZ54jCybGbhyqIxt0dvuJXA",
-      "title": "Trabalhando com API e Looping no KNIME - Dados COVID-19",
-      "description": "V\u00eddeo longo, mas muito intuitivo que te ajudar\u00e1 a trabalhar com API e looping dentro do KNIME Analytics Plataform.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sIOGmIrEmvo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sIOGmIrEmvo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sIOGmIrEmvo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "KRJ Solu\u00e7\u00f5es",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-09T15:39:54Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "36e-rwag2a7x3fsuvtpHBLX6puE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "rrI5ibkDPk0"
-    },
-    "snippet": {
-      "publishedAt": "2020-08-07T11:56:09Z",
-      "channelId": "UC_DMmvzRQAvsmf4jdhlzM_g",
-      "title": "A Sa\u00fade p\u00f3s COVID-19",
-      "description": "Quais as perspectivas para a \u00e1rea da Sa\u00fade no mundo p\u00f3s-COVID 19? Debateremos juntos como cada \u00e1rea pode contribuir e o ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Unicbe Digital",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-08-07T11:56:09Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "t1qaTr14JGV-DEP5LgoNk1oKivE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "2oDv25yZaV4"
-    },
-    "snippet": {
-      "publishedAt": "2021-06-08T14:15:49Z",
-      "channelId": "UCxVTtILBomsswnrN8tJI5FQ",
-      "title": "#VacinaDF | Agendamento da vacina\u00e7\u00e3o contra a Covid- 19 - Comorbidades e Grupos Priorit\u00e1rios",
-      "description": "O v\u00eddeo tutorial, apresenta o passo a passo da realiza\u00e7\u00e3o do agendamento da vacina\u00e7\u00e3o contra a Covid-19 de pacientes do ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2oDv25yZaV4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2oDv25yZaV4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2oDv25yZaV4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "InfoSa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-06-08T14:15:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "WHj0M8DGnnFv0zi-6fztxYk40Yw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "0dxCNlemCy4"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-20T03:03:12Z",
-      "channelId": "UCVHPVtK38t2F2keckNuOHhg",
-      "title": "COVID 19 - \u00d4MICRON. INFLUENZA - H3N2. DIAGN\u00d3STICO DIFERENCIAL E CONDUTAS.",
-      "description": "Palestrantes COVID-19 E INFLUENZA E - O QUE ESPERAR E COMO CONDUZIR ESSE TSUNAMI EM 2022 Luan Victor de ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "COEPP COMNECTAR",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-20T03:03:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "RTnqvA-6LraR8SB3-1OGj4v3qwE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "rckzwVBe7gk"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-10T01:44:58Z",
-      "channelId": "UCIQne9yW4TvCCNYQLszfXCQ",
-      "title": "COVID-19 Mapa Epidmiol\u00f3gico com Python - Parte 1",
-      "description": "A utiliza\u00e7\u00e3o de mapas em epidemiologia tem crescido de forma marcante nos \u00faltimos anos. Essa ferramenta, no entanto, n\u00e3o \u00e9 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rckzwVBe7gk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rckzwVBe7gk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rckzwVBe7gk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CANAL SANDECO",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-10T01:44:58Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "GJCH82knJj0NKYmyXBnm_ubUGPI",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "TFWeUTD4Jsk"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-04T18:20:12Z",
-      "channelId": "UCO5eykNr9w8p5eoGQz3AFfg",
-      "title": "Novo sistema de testagem para Covid-19 \u00e9 implementado em Jundia\u00ed",
-      "description": "Novo sistema de testagem implementado nos Pronto Atendimentos de Jundia\u00ed detecta resultado para Covid-19 em 10 minutos.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TFWeUTD4Jsk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TFWeUTD4Jsk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TFWeUTD4Jsk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TVTEC Jundia\u00ed",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-04T18:20:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "DHCbrXyStUMzpKm3ySAmKPeAIoY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "zOo1944Bbkg"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-03T00:41:43Z",
-      "channelId": "UCIQne9yW4TvCCNYQLszfXCQ",
-      "title": "Detec\u00e7\u00e3o de COVID-19 e Pneumonia com Deep Learning parte 1/2",
-      "description": "Como uma rede neural convolucional pode diferenciar COVID-19 e Pneumonia bacteriana em imagens m\u00e9dicas, utilizando os ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zOo1944Bbkg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zOo1944Bbkg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zOo1944Bbkg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CANAL SANDECO",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-03T00:41:43Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "EEdEX2C4ZFag8dtzquw1aGqoFpw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "mrJRNjcshbA"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-07T20:33:28Z",
-      "channelId": "UCs4vly-jvKNuGKLmgmsxzMQ",
-      "title": "Tomando a vacina da COVID-19 | Vlog tomando a vacina",
-      "description": "Fala pessoal, \u00e9 com muito prazer que eu trago esse vlog pra voc\u00eas, um vlog tomando a vacina com minha amiga, gra\u00e7as a Deus ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mrJRNjcshbA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mrJRNjcshbA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mrJRNjcshbA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Xandd",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-07T20:33:28Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "F4Yygx_HfPi9UiEKMsTDGutBGkU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "4EACjRU7BVg"
-    },
-    "snippet": {
-      "publishedAt": "2020-06-01T16:22:43Z",
-      "channelId": "UCk38IbOdpuoalNU1XniK1rA",
-      "title": "Ind\u00fastria de confec\u00e7\u00f5es unidas contra a COVID-19",
-      "description": "Quando os desafios chamam, a ind\u00fastria se reinventa: v\u00e1rios setores est\u00e3o direcionando a produ\u00e7\u00e3o para entregar \u00e0 popula\u00e7\u00e3o ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4EACjRU7BVg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4EACjRU7BVg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4EACjRU7BVg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SistemaFIEB",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-06-01T16:22:43Z"
+      "publishTime": "2021-01-22T21:00:10Z"
     }
   },
   {
@@ -1395,206 +1327,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "elap2xaWtS15eHhwrf6hRzQYEjI",
+    "etag": "947BMeecoVXTKZRmC5l6q3Jw5ls",
     "id": {
       "kind": "youtube#video",
-      "videoId": "-mjXncCmRCo"
+      "videoId": "N89cXK_OFu8"
     },
     "snippet": {
-      "publishedAt": "2021-03-10T15:08:38Z",
-      "channelId": "UCJGnJFkpEuvfSaxCe8fLOtQ",
-      "title": "Solu\u00e7\u00f5es Covid-19, apresenta: P2AS",
-      "description": "A oitava live Solu\u00e7\u00f5es Covid-19 apresenta Frederico Celentano - presidente da ADE SAMPA, e Marcelo Carneiro da Cunha, para ...",
+      "publishedAt": "2021-05-19T02:11:13Z",
+      "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
+      "title": "Estados recebem doses da CoronaVac para normalizarem imuniza\u00e7\u00e3o contra a covid-19",
+      "description": "Nesta ter\u00e7a-feira (18), 11 estados receberam doses suficientes para zerar a fila de pessoas que aguardam a aplica\u00e7\u00e3o da ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-mjXncCmRCo/default.jpg",
+          "url": "https://i.ytimg.com/vi/N89cXK_OFu8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-mjXncCmRCo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N89cXK_OFu8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-mjXncCmRCo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N89cXK_OFu8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "ADE SAMPA",
+      "channelTitle": "Jornal da Record",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-03-10T15:08:38Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "eLUWOob3eG0Qo3KgKvvS6lKDglA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "JaRM5qzwlos"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-14T12:38:45Z",
-      "channelId": "UCCnqew7VffVWao3U5ms9f6w",
-      "title": "TESTAGEM COVID 19 NO CLUBE ANT\u00d4NIO FERREIRA PACHECO",
-      "description": "No \u00faltima dia 13/01/22, quinta-feira, o Sesi Clube Ant\u00f4nio Ferreira Pacheco sediou testagem para Covid 19 realizada pela ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JaRM5qzwlos/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JaRM5qzwlos/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JaRM5qzwlos/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SISTEMAFIEG",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-14T12:38:45Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "c3qP-PH4LA97O5D4tZdt1Vh_mnA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "JR8jEnZCfbs"
-    },
-    "snippet": {
-      "publishedAt": "2022-02-23T13:26:48Z",
-      "channelId": "UCCnqew7VffVWao3U5ms9f6w",
-      "title": "RADAR COVID nas Escolas SESI",
-      "description": "O Radar Covid do Senai, um procedimento que identifica o \u00edndice de contamina\u00e7\u00e3o dos ambientes com coleta de amostras nos ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SISTEMAFIEG",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-02-23T13:26:48Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "USi8hkz9P_R9sf0-IgWsdgNsC9E",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "f43r3buyads"
-    },
-    "snippet": {
-      "publishedAt": "2021-08-25T22:48:23Z",
-      "channelId": "UCi0ftpk_k9UhC2oNrnxatNA",
-      "title": "Aplicativo Conecte SUS para comprovar imuniza\u00e7\u00e3o contra Covid-19",
-      "description": "Acesse Band Amazonas Acesse: http://band.com.br/amazonas.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f43r3buyads/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f43r3buyads/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f43r3buyads/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Band Amazonas",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-08-25T22:48:23Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "JW3M78Y6DFD-DRCx12yVDEz_QLk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "_0J7AOkqpVI"
-    },
-    "snippet": {
-      "publishedAt": "2021-08-27T15:01:21Z",
-      "channelId": "UCI8qvn5uozF_ft7fQhYZC3w",
-      "title": "ARRUME-SE COMIGO PRA TOMAR A VACINA DO COVID!",
-      "description": "Oii, o v\u00eddeo de hoje \u00e9 ARRUME-SE COMIGO PRA TOMAR A VACINA DO COVID! \u2661 \u2661 \u2661 informa\u00e7\u00f5es \u2661 \u2661 \u2661 j\u00e1 se inscreve no ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_0J7AOkqpVI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_0J7AOkqpVI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_0J7AOkqpVI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Bela Almada",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-08-27T15:01:21Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Y-F249OEFjcU9bceBFdpdlZBSyc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "CVSd0WKy5cs"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-15T13:04:42Z",
-      "channelId": "UCIQne9yW4TvCCNYQLszfXCQ",
-      "title": "HeatMap COVID-19 com Python das cidades Brasileiras",
-      "description": "Heatmap (mapa de calor) \u00e9 uma t\u00e9cnica de visualiza\u00e7\u00e3o de dados que mostra a magnitude de um fen\u00f4meno como cor em duas ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CVSd0WKy5cs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CVSd0WKy5cs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CVSd0WKy5cs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CANAL SANDECO",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-15T13:04:42Z"
+      "publishTime": "2021-05-19T02:11:13Z"
     }
   },
   {
@@ -1633,70 +1395,308 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "h9d2ugvTqZ3jxZauLiwUCiLeys4",
+    "etag": "USLqhs7F76ZSfpy7yieWFfXjr2Q",
     "id": {
       "kind": "youtube#video",
-      "videoId": "E-7qGRkeq00"
+      "videoId": "CcmBwG8f5O0"
     },
     "snippet": {
-      "publishedAt": "2020-06-05T20:20:03Z",
-      "channelId": "UCC0pBW1brzQuJIMM6cHdjqQ",
-      "title": "Covid-19 e os ODS - ODS 6",
-      "description": "Guilherme Checco, do Instituto Democracia e Sustentabilidade (IDS), comenta sobre a rela\u00e7\u00e3o da pandemia da Covid-19 e o ...",
+      "publishedAt": "2021-08-30T19:50:06Z",
+      "channelId": "UC9GFu08xsidnYq_qiJlTcug",
+      "title": "Ci\u00eancia Contra a COVID-19 - Rafael Lu\u00eds Luporini",
+      "description": "Rafael Lu\u00eds Luporini, docente do Departamento de Medicina da Universidade Federal de S\u00e3o Carlos (DMed - UFSCar), fala do ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/E-7qGRkeq00/default.jpg",
+          "url": "https://i.ytimg.com/vi/CcmBwG8f5O0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/E-7qGRkeq00/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CcmBwG8f5O0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/E-7qGRkeq00/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CcmBwG8f5O0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "GT Agenda 2030",
+      "channelTitle": "ClickCi\u00eancia UFSCar",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-06-05T20:20:03Z"
+      "publishTime": "2021-08-30T19:50:06Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "slopmogClpYRoKJtgLxBzYkiraA",
+    "etag": "n1aluzmgg7wV5fjRafYSLXBIL8w",
     "id": {
       "kind": "youtube#video",
-      "videoId": "8NtosFxgfLw"
+      "videoId": "M1ViSseLSYc"
     },
     "snippet": {
-      "publishedAt": "2021-05-14T12:00:04Z",
-      "channelId": "UC0mr0jG9ZYb3ADbvNrXO5pQ",
-      "title": "Ci\u00eancia Contra a COVID-19",
-      "description": "Marilaine Colnago, pesquisadora do grupo VISER (parceiro da SBMAC) da Universidade Estadual Paulista (UNESP) campus ...",
+      "publishedAt": "2020-03-25T01:08:38Z",
+      "channelId": "UCUowWv92bJV4tCJpKLSQjZg",
+      "title": "Risco Sistem\u00e1tico e Diversifica\u00e7\u00e3o com o Corona Virus",
+      "description": "O Professor Lucas Silva fala sobre a pandemia do Corona V\u00edrus e como ela afeta seus investimentos. Diversifica\u00e7\u00e3o, tem como ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8NtosFxgfLw/default.jpg",
+          "url": "https://i.ytimg.com/vi/M1ViSseLSYc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8NtosFxgfLw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M1ViSseLSYc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8NtosFxgfLw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M1ViSseLSYc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "SBMAC",
+      "channelTitle": "Lucas Silva Certifica\u00e7\u00f5es",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-05-14T12:00:04Z"
+      "publishTime": "2020-03-25T01:08:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "beeqe_4oA_txAoaRPGT-VuXyOJ0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "sgV1hXIA1FY"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-10T00:29:26Z",
+      "channelId": "UC7jr8vjJXBAILDexKkruiWg",
+      "title": "Enaproc 2021 | Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid",
+      "description": "Palestra de abertura (online) 09/11/2021 das 19h30 \u00e0s 22h T\u00edtulo: Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Uniuv",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-10T00:29:26Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DrNkMBVYf0ZZBfSTuD3hDbgPTLQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ku5w7rwQ9dI"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-14T19:18:18Z",
+      "channelId": "UCGsh5I0NMEJWZ4x73WzxrXg",
+      "title": "Como reorganizar uma Unidade B\u00e1sica de Sa\u00fade (UBS) durante a pandemia de Covid-19?",
+      "description": "COVID-19 e APS - A m\u00e9dica e professora da UFRGS, Claunara Shilling Mendon\u00e7a, explica como a unidade docente assistencial, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ku5w7rwQ9dI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ku5w7rwQ9dI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ku5w7rwQ9dI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Portal da Inova\u00e7\u00e3o na Gest\u00e3o do SUS",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-14T19:18:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Qyxoh87KcDLMtr6SWhBM3D0NF24",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wC3r4Lcm1Sw"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-04T17:23:12Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "SARS-CoV-2 - como interage com a c\u00e9lula",
+      "description": "Os v\u00edrus n\u00e3o est\u00e3o s\u00f3s: fazem dupla com o hospedeiro! Os virologistas Renato Astray e Viviane Botosso voltam com mais um ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wC3r4Lcm1Sw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wC3r4Lcm1Sw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wC3r4Lcm1Sw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-04T17:23:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c3qP-PH4LA97O5D4tZdt1Vh_mnA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JR8jEnZCfbs"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-23T13:26:48Z",
+      "channelId": "UCCnqew7VffVWao3U5ms9f6w",
+      "title": "RADAR COVID nas Escolas SESI",
+      "description": "O Radar Covid do Senai, um procedimento que identifica o \u00edndice de contamina\u00e7\u00e3o dos ambientes com coleta de amostras nos ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JR8jEnZCfbs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SISTEMAFIEG",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-23T13:26:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WHj0M8DGnnFv0zi-6fztxYk40Yw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0dxCNlemCy4"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-20T03:03:12Z",
+      "channelId": "UCVHPVtK38t2F2keckNuOHhg",
+      "title": "COVID 19 - \u00d4MICRON. INFLUENZA - H3N2. DIAGN\u00d3STICO DIFERENCIAL E CONDUTAS.",
+      "description": "Palestrantes COVID-19 E INFLUENZA E - O QUE ESPERAR E COMO CONDUZIR ESSE TSUNAMI EM 2022 Luan Victor de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0dxCNlemCy4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "COEPP COMNECTAR",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-20T03:03:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "36e-rwag2a7x3fsuvtpHBLX6puE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rrI5ibkDPk0"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-07T11:56:09Z",
+      "channelId": "UC_DMmvzRQAvsmf4jdhlzM_g",
+      "title": "A Sa\u00fade p\u00f3s COVID-19",
+      "description": "Quais as perspectivas para a \u00e1rea da Sa\u00fade no mundo p\u00f3s-COVID 19? Debateremos juntos como cada \u00e1rea pode contribuir e o ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rrI5ibkDPk0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Unicbe Digital",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-07T11:56:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Q88Bxyqcx0u3daG8kqKxysFwOgE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TKWoHRot2ao"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-20T13:00:11Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "M\u00f4nica: \u201cSou a Prova Viva de que a Coronavac \u00e9 Eficaz",
+      "description": "A enfermeira M\u00f4nica Calazans disse que \u00e9 a prova viva da efic\u00e1cia da Coronavac, a vacina do Butantan contra a Covid-19.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-20T13:00:11Z"
     }
   }
 ]
