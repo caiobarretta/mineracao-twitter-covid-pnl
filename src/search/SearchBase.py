@@ -1,11 +1,16 @@
 import json
 import time
+from os.path import exists
 
 class SearchBase:
 
-    def save_json(self, file_name, content):
-        with open(file_name, "w") as f:
-            json.dump(content, f, indent=2)
+    def save_json(self, file_name, content, replace_existing_file = True):
+        file_exists = False
+        if not replace_existing_file:
+            file_exists = exists(file_name)
+        if not file_exists:
+            with open(file_name, "w") as f:
+                json.dump(content, f, indent=2)
 
     def get_lists_of_keys_to_search(self):
         hashtag_SUS_list = ['#SUS', '#SistemaUnicoDeSaude', '#SistemaUnicoSaude', '#SaúdePública', '#SaudePublica', '#SistemaDeSaudePublico',  '#SistemaSaudePublico', '#SistemaDeSaúdePúblico',  '#SistemaSaúdePúblico']
@@ -41,7 +46,7 @@ class SearchBase:
 
         print(f'Inicializando pesquisa na API {api.get_api_name()}')
         print(f'Quantidades de itens da pesquisa: {len(pesquisa)}')
-        for pesquisa in pesquisa[::-1]:
+        for pesquisa in pesquisa:
             query = pesquisa['q']
             lang = ''
             if 'lang' in pesquisa:

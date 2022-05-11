@@ -3,13 +3,31 @@ import tweepy as tw
 import yaml
 from yaml.loader import SafeLoader
 
+class LoadYamlCredentials:
+    def __init__(self, file_name_credentials):
+        self.file_name_credentials = file_name_credentials
+
+    def get_credentials(self, *argv):
+        with open(self.file_name_credentials) as f:
+            dict = {}
+            data = yaml.load(f, Loader=SafeLoader)
+            for arg in argv:
+                dict[arg] = data[arg]
+            return dict 
+
+    def get_list_of_params_yaml(self, list_params, index):
+        if isinstance(list_params, list):
+            return list_params[index]
+        else:
+            list_params
+
 class TweepyAPI:
     def __init__(self, file_name_credentials):
         self.file_name_credentials = file_name_credentials
 
     def get_credentials(self):
-        with open(self.file_name_credentials) as f:
-            data = yaml.load(f, Loader=SafeLoader)
+        cred = LoadYamlCredentials(self.file_name_credentials)
+        data = cred.get_credentials('consumer_key', 'consumer_secret', 'access_token', 'access_token_secret')
         return data['consumer_key'],data['consumer_secret'],data['access_token'], data['access_token_secret']
 
     def create_auth(self):

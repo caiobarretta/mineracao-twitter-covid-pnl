@@ -7,6 +7,8 @@ from SearchKeys import SearchKeys
 from api.TweepyAPI import TweepyAPI
 
 class SearchTweets(SearchBase):
+    def __init__(self, replace_existing_tweets = True):
+        self.replace_existing_tweets = replace_existing_tweets
 
     def save_tweets(self, tweets):
         try:
@@ -14,7 +16,7 @@ class SearchTweets(SearchBase):
                 print(f'salvando tweet: {tweet.id} para arquivo.')
                 file_name = f'data/raw/twitter/{tweet.id}.json'
                 content = tweet._json
-                self.save_json(file_name, content)
+                self.save_json(file_name, content, self.replace_existing_tweets)
                 time.sleep(1)
         except TooManyRequests:
                 print(f'Ocorreu um erro: {TooManyRequests}')
@@ -29,7 +31,7 @@ class SearchTweets(SearchBase):
         return TweepyAPI(file_credentials)
 
 def main():
-    search = SearchTweets()
+    search = SearchTweets(False)
     file_credentials = 'src/credentials.yaml'
 
     func_get_new_instance_api = search.get_new_instance_api
