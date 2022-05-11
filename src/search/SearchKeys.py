@@ -1,5 +1,6 @@
 import glob
 import json
+import uuid
 
 class SearchKeys:
 
@@ -43,7 +44,9 @@ class SearchKeys:
         for file in file_list:
             data = self.read_json(file)
             for content in data:
-                videoId = content['id']['videoId']
+                videoId = str(uuid.uuid4())
+                if 'videoId' in content['id']:
+                    videoId = content['id']['videoId']
                 query_dict_line = self.__build_string_idvideo_youtube(videoId)
                 query_list.append(query_dict_line)
         return query_list
