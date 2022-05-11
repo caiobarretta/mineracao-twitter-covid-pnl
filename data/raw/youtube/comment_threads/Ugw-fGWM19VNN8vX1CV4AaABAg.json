@@ -56,61 +56,6 @@
   },
   {
     "kind": "youtube#commentThread",
-    "etag": "ejrx3P1BWI6Dm88tEtQjopBBzDs",
-    "id": "UgwUpTLSbDIHpcb420J4AaABAg",
-    "snippet": {
-      "videoId": "OpllHFfPQ_s",
-      "topLevelComment": {
-        "kind": "youtube#comment",
-        "etag": "pGekDF0vSP3Z3bdZ4bU4jhgAyKU",
-        "id": "UgwUpTLSbDIHpcb420J4AaABAg",
-        "snippet": {
-          "videoId": "OpllHFfPQ_s",
-          "textDisplay": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
-          "textOriginal": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
-          "authorDisplayName": "Jurandir Gamer BR",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/1Fk4fZDBemkRg42fFCpWnBp9DAk5bpNpS_Q3v5XBBSpsE_Asaovgm7NLsYjAUrIAOOqL_i5COQ=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCrzhb9H6TtvKHTukgZGMA_g",
-          "authorChannelId": {
-            "value": "UCrzhb9H6TtvKHTukgZGMA_g"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 1,
-          "publishedAt": "2022-01-15T15:01:03Z",
-          "updatedAt": "2022-01-15T15:01:03Z"
-        }
-      },
-      "canReply": true,
-      "totalReplyCount": 1,
-      "isPublic": true
-    },
-    "comments": [
-      {
-        "kind": "youtube#comment",
-        "etag": "x3lYUUWGy3Wj0X22AlcHPsX8wU4",
-        "id": "UgwUpTLSbDIHpcb420J4AaABAg.9XDpIvF6U0N9XaNccmm3Mq",
-        "snippet": {
-          "textDisplay": "\ud83d\ude07\ud83d\ude07",
-          "textOriginal": "\ud83d\ude07\ud83d\ude07",
-          "parentId": "UgwUpTLSbDIHpcb420J4AaABAg",
-          "authorDisplayName": "Dona Martha",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/BK2jEmof2Omfohrth_5ctyK2MFIcfYvWNHNUsi596BiqwPqMR37mZYNBpyKM6xIeW36diQz5Qg=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCs3vdXL3YjhJ2u7VNZawyQA",
-          "authorChannelId": {
-            "value": "UCs3vdXL3YjhJ2u7VNZawyQA"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 1,
-          "publishedAt": "2022-01-24T18:32:15Z",
-          "updatedAt": "2022-01-24T18:32:15Z"
-        }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#commentThread",
     "etag": "puQVhvVWTHnbucrSno_jOaX3rJg",
     "id": "Ugz9UVbwg8W86jc9SBF4AaABAg",
     "snippet": {
@@ -160,6 +105,61 @@
           "likeCount": 0,
           "publishedAt": "2022-01-24T18:33:11Z",
           "updatedAt": "2022-01-24T18:33:11Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ejrx3P1BWI6Dm88tEtQjopBBzDs",
+    "id": "UgwUpTLSbDIHpcb420J4AaABAg",
+    "snippet": {
+      "videoId": "OpllHFfPQ_s",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "pGekDF0vSP3Z3bdZ4bU4jhgAyKU",
+        "id": "UgwUpTLSbDIHpcb420J4AaABAg",
+        "snippet": {
+          "videoId": "OpllHFfPQ_s",
+          "textDisplay": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
+          "textOriginal": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
+          "authorDisplayName": "Jurandir Gamer BR",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/1Fk4fZDBemkRg42fFCpWnBp9DAk5bpNpS_Q3v5XBBSpsE_Asaovgm7NLsYjAUrIAOOqL_i5COQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCrzhb9H6TtvKHTukgZGMA_g",
+          "authorChannelId": {
+            "value": "UCrzhb9H6TtvKHTukgZGMA_g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-01-15T15:01:03Z",
+          "updatedAt": "2022-01-15T15:01:03Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "x3lYUUWGy3Wj0X22AlcHPsX8wU4",
+        "id": "UgwUpTLSbDIHpcb420J4AaABAg.9XDpIvF6U0N9XaNccmm3Mq",
+        "snippet": {
+          "textDisplay": "\ud83d\ude07\ud83d\ude07",
+          "textOriginal": "\ud83d\ude07\ud83d\ude07",
+          "parentId": "UgwUpTLSbDIHpcb420J4AaABAg",
+          "authorDisplayName": "Dona Martha",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/BK2jEmof2Omfohrth_5ctyK2MFIcfYvWNHNUsi596BiqwPqMR37mZYNBpyKM6xIeW36diQz5Qg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCs3vdXL3YjhJ2u7VNZawyQA",
+          "authorChannelId": {
+            "value": "UCs3vdXL3YjhJ2u7VNZawyQA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-01-24T18:32:15Z",
+          "updatedAt": "2022-01-24T18:32:15Z"
         }
       }
     ]
@@ -297,61 +297,6 @@
   },
   {
     "kind": "youtube#commentThread",
-    "etag": "ejrx3P1BWI6Dm88tEtQjopBBzDs",
-    "id": "UgwUpTLSbDIHpcb420J4AaABAg",
-    "snippet": {
-      "videoId": "OpllHFfPQ_s",
-      "topLevelComment": {
-        "kind": "youtube#comment",
-        "etag": "pGekDF0vSP3Z3bdZ4bU4jhgAyKU",
-        "id": "UgwUpTLSbDIHpcb420J4AaABAg",
-        "snippet": {
-          "videoId": "OpllHFfPQ_s",
-          "textDisplay": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
-          "textOriginal": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
-          "authorDisplayName": "Jurandir Gamer BR",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/1Fk4fZDBemkRg42fFCpWnBp9DAk5bpNpS_Q3v5XBBSpsE_Asaovgm7NLsYjAUrIAOOqL_i5COQ=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCrzhb9H6TtvKHTukgZGMA_g",
-          "authorChannelId": {
-            "value": "UCrzhb9H6TtvKHTukgZGMA_g"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 1,
-          "publishedAt": "2022-01-15T15:01:03Z",
-          "updatedAt": "2022-01-15T15:01:03Z"
-        }
-      },
-      "canReply": true,
-      "totalReplyCount": 1,
-      "isPublic": true
-    },
-    "comments": [
-      {
-        "kind": "youtube#comment",
-        "etag": "x3lYUUWGy3Wj0X22AlcHPsX8wU4",
-        "id": "UgwUpTLSbDIHpcb420J4AaABAg.9XDpIvF6U0N9XaNccmm3Mq",
-        "snippet": {
-          "textDisplay": "\ud83d\ude07\ud83d\ude07",
-          "textOriginal": "\ud83d\ude07\ud83d\ude07",
-          "parentId": "UgwUpTLSbDIHpcb420J4AaABAg",
-          "authorDisplayName": "Dona Martha",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/BK2jEmof2Omfohrth_5ctyK2MFIcfYvWNHNUsi596BiqwPqMR37mZYNBpyKM6xIeW36diQz5Qg=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCs3vdXL3YjhJ2u7VNZawyQA",
-          "authorChannelId": {
-            "value": "UCs3vdXL3YjhJ2u7VNZawyQA"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 1,
-          "publishedAt": "2022-01-24T18:32:15Z",
-          "updatedAt": "2022-01-24T18:32:15Z"
-        }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#commentThread",
     "etag": "puQVhvVWTHnbucrSno_jOaX3rJg",
     "id": "Ugz9UVbwg8W86jc9SBF4AaABAg",
     "snippet": {
@@ -401,6 +346,61 @@
           "likeCount": 0,
           "publishedAt": "2022-01-24T18:33:11Z",
           "updatedAt": "2022-01-24T18:33:11Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ejrx3P1BWI6Dm88tEtQjopBBzDs",
+    "id": "UgwUpTLSbDIHpcb420J4AaABAg",
+    "snippet": {
+      "videoId": "OpllHFfPQ_s",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "pGekDF0vSP3Z3bdZ4bU4jhgAyKU",
+        "id": "UgwUpTLSbDIHpcb420J4AaABAg",
+        "snippet": {
+          "videoId": "OpllHFfPQ_s",
+          "textDisplay": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
+          "textOriginal": "Deus te aben\u00e7oe melhoras em nome de Jesus Cristo",
+          "authorDisplayName": "Jurandir Gamer BR",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/1Fk4fZDBemkRg42fFCpWnBp9DAk5bpNpS_Q3v5XBBSpsE_Asaovgm7NLsYjAUrIAOOqL_i5COQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCrzhb9H6TtvKHTukgZGMA_g",
+          "authorChannelId": {
+            "value": "UCrzhb9H6TtvKHTukgZGMA_g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-01-15T15:01:03Z",
+          "updatedAt": "2022-01-15T15:01:03Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "x3lYUUWGy3Wj0X22AlcHPsX8wU4",
+        "id": "UgwUpTLSbDIHpcb420J4AaABAg.9XDpIvF6U0N9XaNccmm3Mq",
+        "snippet": {
+          "textDisplay": "\ud83d\ude07\ud83d\ude07",
+          "textOriginal": "\ud83d\ude07\ud83d\ude07",
+          "parentId": "UgwUpTLSbDIHpcb420J4AaABAg",
+          "authorDisplayName": "Dona Martha",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/BK2jEmof2Omfohrth_5ctyK2MFIcfYvWNHNUsi596BiqwPqMR37mZYNBpyKM6xIeW36diQz5Qg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCs3vdXL3YjhJ2u7VNZawyQA",
+          "authorChannelId": {
+            "value": "UCs3vdXL3YjhJ2u7VNZawyQA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-01-24T18:32:15Z",
+          "updatedAt": "2022-01-24T18:32:15Z"
         }
       }
     ]
