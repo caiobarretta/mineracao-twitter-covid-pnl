@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rlxHBjPoMuQIsRCwkgEZEjFqeqY",
+  "id": "Ugw7Z0bO3syQAeQM53x4AaABAg",
+  "snippet": {
+    "videoId": "LpA_NlDz1zU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "W-MUZbu1TeJeXXFckamxUceBIHc",
+      "id": "Ugw7Z0bO3syQAeQM53x4AaABAg",
+      "snippet": {
+        "videoId": "LpA_NlDz1zU",
+        "textDisplay": "Eu nunca assisti boa noite sou janilda",
+        "textOriginal": "Eu nunca assisti boa noite sou janilda",
+        "authorDisplayName": "Janilda Fatima Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSyPTOBI5mo9AXRViKDmttKtODC3yimiPQS1FBll8o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRu_jWTj7z_dmEBczk5kJHg",
+        "authorChannelId": {
+          "value": "UCRu_jWTj7z_dmEBczk5kJHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-11T11:07:08Z",
+        "updatedAt": "2022-03-11T11:07:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WrxooY50SvRPtx92vlB8Cn1x-m0",
+      "id": "Ugw7Z0bO3syQAeQM53x4AaABAg.9ZR1FkJ7E1G9ZR1JW7bxUn",
+      "snippet": {
+        "textDisplay": "Contagem MG",
+        "textOriginal": "Contagem MG",
+        "parentId": "Ugw7Z0bO3syQAeQM53x4AaABAg",
+        "authorDisplayName": "Janilda Fatima Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSyPTOBI5mo9AXRViKDmttKtODC3yimiPQS1FBll8o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRu_jWTj7z_dmEBczk5kJHg",
+        "authorChannelId": {
+          "value": "UCRu_jWTj7z_dmEBczk5kJHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-11T11:07:38Z",
+        "updatedAt": "2022-03-11T11:07:38Z"
+      }
+    }
+  ]
+}

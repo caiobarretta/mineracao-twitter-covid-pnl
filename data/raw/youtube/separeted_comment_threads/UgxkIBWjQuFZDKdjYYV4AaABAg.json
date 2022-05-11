@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HfMHRSJcZ7uitiEbbdq1WHZM_tg",
+  "id": "UgxkIBWjQuFZDKdjYYV4AaABAg",
+  "snippet": {
+    "videoId": "I0TmBsHaGmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "l-gxpAHIaLVjKyorL-eNdULsUEQ",
+      "id": "UgxkIBWjQuFZDKdjYYV4AaABAg",
+      "snippet": {
+        "videoId": "I0TmBsHaGmI",
+        "textDisplay": "Muito explicativo! Obg.",
+        "textOriginal": "Muito explicativo! Obg.",
+        "authorDisplayName": "Gabriele Bordi\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/aOzaD-gONoQZaklcEfJixqN7N7jbWCX2feqqpirsWol-YsVJ8x5AscFbqkZlZY40t_okJfqcfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYlo23xdtx21b1Bcl0MyAug",
+        "authorChannelId": {
+          "value": "UCYlo23xdtx21b1Bcl0MyAug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-06-17T00:11:53Z",
+        "updatedAt": "2020-06-17T00:11:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HBdFqcJG3MTm-m86uARTrYau6-k",
+      "id": "UgxkIBWjQuFZDKdjYYV4AaABAg.99zVsc9c_539HoPXZCOf2W",
+      "snippet": {
+        "textDisplay": "Thanl you!",
+        "textOriginal": "Thanl you!",
+        "parentId": "UgxkIBWjQuFZDKdjYYV4AaABAg",
+        "authorDisplayName": "biolution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMsL3vD_cAOnQPhn1Q5YwLNkWt2ItQRsIxrI7LdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_k7-bRC0gQfKHXHW7fNQ7w",
+        "authorChannelId": {
+          "value": "UC_k7-bRC0gQfKHXHW7fNQ7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-28T12:55:57Z",
+        "updatedAt": "2020-12-28T12:55:57Z"
+      }
+    }
+  ]
+}

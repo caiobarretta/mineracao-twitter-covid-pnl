@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "30RRs4RNISiQ3beTNrKW921g_s4",
+  "id": "UgwXlFrP72r4KtflVFd4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vtGe0WvoCbu-eryx_nk6RcFgytc",
+      "id": "UgwXlFrP72r4KtflVFd4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Top demais",
+        "textOriginal": "Top demais",
+        "authorDisplayName": "Finaliza V\u00eddeos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8RsqgP3EfpXMwqF9v-Wc5MJgschGyqEzu5Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-FQTR3BSr4MeYVIK4h0Wnw",
+        "authorChannelId": {
+          "value": "UC-FQTR3BSr4MeYVIK4h0Wnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-26T14:33:25Z",
+        "updatedAt": "2020-03-26T14:33:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VFCsn4ov6VwgwNgwXA86TN-9pN0",
+      "id": "UgwXlFrP72r4KtflVFd4AaABAg.96fKUyixt1r9DyxGt096oz",
+      "snippet": {
+        "textDisplay": "top",
+        "textOriginal": "top",
+        "parentId": "UgwXlFrP72r4KtflVFd4AaABAg",
+        "authorDisplayName": "Guilherme Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6ehTDbBsDV3_UzyBGVmdFTSFoax7crcFz07q4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvIJc56zHySNOrNzyzyah7Q",
+        "authorChannelId": {
+          "value": "UCvIJc56zHySNOrNzyzyah7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-24T05:06:20Z",
+        "updatedAt": "2020-09-24T05:06:20Z"
+      }
+    }
+  ]
+}

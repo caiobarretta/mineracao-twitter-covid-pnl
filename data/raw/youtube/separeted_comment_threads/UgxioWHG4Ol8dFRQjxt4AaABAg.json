@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wzqZrUXGL_Eo0RfU_5ZQFOfcGHk",
+  "id": "UgxioWHG4Ol8dFRQjxt4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hxWFBadDvdPTbXxbZmYDBP-10J0",
+      "id": "UgxioWHG4Ol8dFRQjxt4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Vir pela escola e amei \ud83d\ude4f\u2728",
+        "textOriginal": "Vir pela escola e amei \ud83d\ude4f\u2728",
+        "authorDisplayName": "Evinha Passos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQk7joHUF6VlXqnWjO9DFe748iOmWDNONtle3zlGpc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFvEs3OrpZaVp8hvEVhr9WQ",
+        "authorChannelId": {
+          "value": "UCFvEs3OrpZaVp8hvEVhr9WQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-14T23:22:51Z",
+        "updatedAt": "2021-04-14T23:22:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6lb5QtS_bRI1Juo2Iqk9Z56Wqz8",
+      "id": "UgxioWHG4Ol8dFRQjxt4AaABAg.9M82KlEvE6T9M89scXL3_j",
+      "snippet": {
+        "textDisplay": "Que bom que gostou Evinha Passos, ficamos bem felizes :)",
+        "textOriginal": "Que bom que gostou Evinha Passos, ficamos bem felizes :)",
+        "parentId": "UgxioWHG4Ol8dFRQjxt4AaABAg",
+        "authorDisplayName": "Tecnofit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbzFTY7qJLDEDJTBdpGbbhZbyDNcF4fJf7-bjY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgs_GoDRixCcRXyqX47u7Tw",
+        "authorChannelId": {
+          "value": "UCgs_GoDRixCcRXyqX47u7Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T00:28:47Z",
+        "updatedAt": "2021-04-15T00:28:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6Pu8rROs_pAYyvpQMpYTS4Mx1pY",
+  "id": "UgwdQMaxZq-eFMJL5UV4AaABAg",
+  "snippet": {
+    "videoId": "__1wUcb6fss",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OR2A3z85Z89zxRZ641t_1er3jT4",
+      "id": "UgwdQMaxZq-eFMJL5UV4AaABAg",
+      "snippet": {
+        "videoId": "__1wUcb6fss",
+        "textDisplay": "Ok what if the c is very visible and the t is 40% visible??",
+        "textOriginal": "Ok what if the c is very visible and the t is 40% visible??",
+        "authorDisplayName": "Nena Sana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiB6NOr5enT8nKPfUf2i2uEpezNJVzJsXqmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnjulfD-op1Ez-XISAvF7Iw",
+        "authorChannelId": {
+          "value": "UCnjulfD-op1Ez-XISAvF7Iw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-01T20:15:00Z",
+        "updatedAt": "2022-02-01T20:15:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "r4aMUQmsUXuUrVSEw1BGQKRk8ZA",
+      "id": "UgwdQMaxZq-eFMJL5UV4AaABAg.9Xv9kB2T7ug9ab4iyT-Mre",
+      "snippet": {
+        "textDisplay": "breandaid",
+        "textOriginal": "breandaid",
+        "parentId": "UgwdQMaxZq-eFMJL5UV4AaABAg",
+        "authorDisplayName": "Niv Cent",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtK23GF3V_kXQGJBF4tTKmOX9bJ27yQLYRIw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmdWSOTR7PWl5h0uUUcI67w",
+        "authorChannelId": {
+          "value": "UCmdWSOTR7PWl5h0uUUcI67w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-04T11:11:54Z",
+        "updatedAt": "2022-05-04T11:11:54Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "rZoUn3JaELkhmELcK4SOgVmxcXo",
+      "id": "UgwdQMaxZq-eFMJL5UV4AaABAg.9Xv9kB2T7ug9Y9kQyT8TgL",
+      "snippet": {
+        "textDisplay": "If both are visible, it's positive.",
+        "textOriginal": "If both are visible, it's positive.",
+        "parentId": "UgwdQMaxZq-eFMJL5UV4AaABAg",
+        "authorDisplayName": "BarterIrving",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRR0L3IOwzV6N9EeYeI46d8nEfE2-92RYsCG3x_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjKxYZrOR0cM5mD1KZtvgPQ",
+        "authorChannelId": {
+          "value": "UCjKxYZrOR0cM5mD1KZtvgPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-07T21:32:53Z",
+        "updatedAt": "2022-02-07T21:32:53Z"
+      }
+    }
+  ]
+}

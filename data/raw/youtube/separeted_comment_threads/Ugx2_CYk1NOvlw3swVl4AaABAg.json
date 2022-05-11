@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GyHnWxx107Z479ZU4RepzxgCQOw",
+  "id": "Ugx2_CYk1NOvlw3swVl4AaABAg",
+  "snippet": {
+    "videoId": "l53vyC8Otlw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wsy55fLeKxinGniXPv9eAHKpIpE",
+      "id": "Ugx2_CYk1NOvlw3swVl4AaABAg",
+      "snippet": {
+        "videoId": "l53vyC8Otlw",
+        "textDisplay": "Is this available for bulk purchase in the US?",
+        "textOriginal": "Is this available for bulk purchase in the US?",
+        "authorDisplayName": "Mike Trieu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqIAU2LnMK8I_mVSMkYBVoWN_SidggNsj2UEF83w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuE4AGrjOzRPVwSCyTikrTg",
+        "authorChannelId": {
+          "value": "UCuE4AGrjOzRPVwSCyTikrTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-01T08:32:14Z",
+        "updatedAt": "2021-04-01T08:32:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "el0cp2gBlnKQCgmrwR0h5TBlzEY",
+      "id": "Ugx2_CYk1NOvlw3swVl4AaABAg.9L_z4EIPCDQ9Ltu9R4ovro",
+      "snippet": {
+        "textDisplay": "Thanks for your interest, sir.  Please leave your e-mail address, and our sales will send you details.",
+        "textOriginal": "Thanks for your interest, sir.  Please leave your e-mail address, and our sales will send you details.",
+        "parentId": "Ugx2_CYk1NOvlw3swVl4AaABAg",
+        "authorDisplayName": "Genrui Biotech Inc.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRiYxb1XlDdAYSJHs2bfIpAGYoBnQDOew3CWk8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQbDX8X8qEt2rVvEaP-_Zjg",
+        "authorChannelId": {
+          "value": "UCQbDX8X8qEt2rVvEaP-_Zjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-09T02:14:03Z",
+        "updatedAt": "2021-04-09T02:14:03Z"
+      }
+    }
+  ]
+}

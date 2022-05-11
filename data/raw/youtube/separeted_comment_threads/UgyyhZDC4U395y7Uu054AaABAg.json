@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qqiTrvM-NW2n_m0tyTGbK0PGKWo",
+  "id": "UgyyhZDC4U395y7Uu054AaABAg",
+  "snippet": {
+    "videoId": "p-y9d9FOlQE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vTS2eFYHkWnphd1Q4OAqvmP-2Ag",
+      "id": "UgyyhZDC4U395y7Uu054AaABAg",
+      "snippet": {
+        "videoId": "p-y9d9FOlQE",
+        "textDisplay": "Nunca tive tanta inveja de uma pessoa, esperando a minha ancioso \ud83d\ude02",
+        "textOriginal": "Nunca tive tanta inveja de uma pessoa, esperando a minha ancioso \ud83d\ude02",
+        "authorDisplayName": "marcelo silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTARn1j-p1_MYp3MfMsdwuaEvTZB0dflNwbn2bN8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvxn2OnQRaSGlJlWpVM-iDA",
+        "authorChannelId": {
+          "value": "UCvxn2OnQRaSGlJlWpVM-iDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 120,
+        "publishedAt": "2021-03-19T17:17:28Z",
+        "updatedAt": "2021-03-19T17:17:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MGQA1QAGE-r6YglGXoe94XqmTqg",
+      "id": "UgyyhZDC4U395y7Uu054AaABAg.9L4RqrZJb2b9UlL6CtSvqc",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0f",
+        "textOriginal": "\ud83d\ude0f",
+        "parentId": "UgyyhZDC4U395y7Uu054AaABAg",
+        "authorDisplayName": "Eliana Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOlWviCXByHaHu9_Qodq6O4MI8MX2GNmzHcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxZehL5RhIdRLEW-8icKeVw",
+        "authorChannelId": {
+          "value": "UCxZehL5RhIdRLEW-8icKeVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-15T11:07:40Z",
+        "updatedAt": "2021-11-15T11:07:40Z"
+      }
+    }
+  ]
+}

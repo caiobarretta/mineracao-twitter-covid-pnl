@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QxYBydwoVidkRgpbnFK1i31J4kQ",
+  "id": "UgxfPCAQOW0EdXX9B0N4AaABAg",
+  "snippet": {
+    "videoId": "EZjfbmtFk9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gsXDW3H9A64GkLkRdtdXvDjlDSQ",
+      "id": "UgxfPCAQOW0EdXX9B0N4AaABAg",
+      "snippet": {
+        "videoId": "EZjfbmtFk9M",
+        "textDisplay": "Participei de todo o curso, porque n\u00e3o estou encontrando o link? Como devo proceder. Obrigada.",
+        "textOriginal": "Participei de todo o curso, porque n\u00e3o estou encontrando o link? Como devo proceder. Obrigada.",
+        "authorDisplayName": "Aila Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFFS_lqUYXjT9bHyn8MahRNJAzr39m78-Ncg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq97mQZ3RxoqqxCZysYkLVw",
+        "authorChannelId": {
+          "value": "UCq97mQZ3RxoqqxCZysYkLVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:54:45Z",
+        "updatedAt": "2021-12-09T23:54:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7_vNJValoyypsp1X3C4EKciJSxk",
+      "id": "UgxfPCAQOW0EdXX9B0N4AaABAg.9VkVyVMk-yy9VkWQ82fEFP",
+      "snippet": {
+        "textDisplay": "Clica em cima do nome do curso",
+        "textOriginal": "Clica em cima do nome do curso",
+        "parentId": "UgxfPCAQOW0EdXX9B0N4AaABAg",
+        "authorDisplayName": "Nelma aparecida daniel de oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTk8f-MKrMFjEqZBdZ8rjtKe3DBRY3dtm9fPAGfNLI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCohwk9E_Nb2E8gaN5k5_SAA",
+        "authorChannelId": {
+          "value": "UCohwk9E_Nb2E8gaN5k5_SAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:58:40Z",
+        "updatedAt": "2021-12-09T23:58:40Z"
+      }
+    }
+  ]
+}

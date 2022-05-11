@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7wun6aI-kMIU5ANIWHVfqDNH-Os",
+  "id": "UgzcYLIWcjVIe37sDy54AaABAg",
+  "snippet": {
+    "videoId": "SvA1s5S9rQ0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "y8bzid_hqHoEKtfI0tfvNo0aynA",
+      "id": "UgzcYLIWcjVIe37sDy54AaABAg",
+      "snippet": {
+        "videoId": "SvA1s5S9rQ0",
+        "textDisplay": "Anyone have contact information for the authors of this animation. It seems hard to find.\nI would like to ask permission to show this in a University course.",
+        "textOriginal": "Anyone have contact information for the authors of this animation. It seems hard to find.\nI would like to ask permission to show this in a University course.",
+        "authorDisplayName": "Larry Fliegel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6UjbnA3dFCoGt7qfia_1LJExjIcv-BcZKYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNdU4fSxTrV321OokFOxncA",
+        "authorChannelId": {
+          "value": "UCNdU4fSxTrV321OokFOxncA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-16T17:10:56Z",
+        "updatedAt": "2021-08-16T17:10:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ICQUAHIOt_-fAuHd74ZIMjb4mv8",
+      "id": "UgzcYLIWcjVIe37sDy54AaABAg.9R6fLBQUrXu9RJmESvI0JB",
+      "snippet": {
+        "textDisplay": "@CanalDivulgaci\u00f3n Thank you very much greatly appreciated.",
+        "textOriginal": "@CanalDivulgaci\u00f3n Thank you very much greatly appreciated.",
+        "parentId": "UgzcYLIWcjVIe37sDy54AaABAg",
+        "authorDisplayName": "Larry Fliegel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6UjbnA3dFCoGt7qfia_1LJExjIcv-BcZKYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNdU4fSxTrV321OokFOxncA",
+        "authorChannelId": {
+          "value": "UCNdU4fSxTrV321OokFOxncA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-21T19:21:18Z",
+        "updatedAt": "2021-08-21T19:21:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "GnNF-varshxPIlLtwGNDE1buS44",
+      "id": "UgzcYLIWcjVIe37sDy54AaABAg.9R6fLBQUrXu9RJeKdVIpev",
+      "snippet": {
+        "textDisplay": "Thank you very much for your interest.\n My name is Guillermo Corrales, author of the video.\nAll the videos on the channel \"CanalDivulgaci\u00f3n\" can be used freely for scientific dissemination and education purposes.",
+        "textOriginal": "Thank you very much for your interest.\n My name is Guillermo Corrales, author of the video.\nAll the videos on the channel \"CanalDivulgaci\u00f3n\" can be used freely for scientific dissemination and education purposes.",
+        "parentId": "UgzcYLIWcjVIe37sDy54AaABAg",
+        "authorDisplayName": "CanalDivulgaci\u00f3n",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbZR_JeRc-vKkTHCk3Bp2RIhB-A_gXrch8SYjnPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAi08vpGsxeDRb20qu2EnRw",
+        "authorChannelId": {
+          "value": "UCAi08vpGsxeDRb20qu2EnRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-08-21T18:12:14Z",
+        "updatedAt": "2021-08-21T18:12:14Z"
+      }
+    }
+  ]
+}

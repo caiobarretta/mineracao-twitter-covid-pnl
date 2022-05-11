@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9q0YbKs7mbXbSaCOJo4g3FYIGvY",
+  "id": "UgyF_WM4AVPTnSRX0bZ4AaABAg",
+  "snippet": {
+    "videoId": "rqgc7va6hKU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "faa-lSo7ZQemWDa86QcFbg684k0",
+      "id": "UgyF_WM4AVPTnSRX0bZ4AaABAg",
+      "snippet": {
+        "videoId": "rqgc7va6hKU",
+        "textDisplay": "0:27 the plan that we needed the whole time",
+        "textOriginal": "0:27 the plan that we needed the whole time",
+        "authorDisplayName": "Bryon Torchia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAde0ytR6ZmGVU1No8qGVWsE3Ro6OlzzAvvtySpH4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC17hMphGcACGSEKczwvO9Tg",
+        "authorChannelId": {
+          "value": "UC17hMphGcACGSEKczwvO9Tg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 28,
+        "publishedAt": "2020-12-29T00:54:10Z",
+        "updatedAt": "2020-12-29T00:54:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "88Jsm-Y9xTu8Wa8D6NidowjEDgI",
+      "id": "UgyF_WM4AVPTnSRX0bZ4AaABAg.9Hpgiy9Ybdc9LPuKeHRUpH",
+      "snippet": {
+        "textDisplay": "He is the Eggman. He\u2019s got the master plan.",
+        "textOriginal": "He is the Eggman. He\u2019s got the master plan.",
+        "parentId": "UgyF_WM4AVPTnSRX0bZ4AaABAg",
+        "authorDisplayName": "TheDerpyDolphin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-wGEj2hTjmgF0d6kmUPmS4zXdNON9ZFZlnJKS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChXU9YxsD6NlxjXmkXtJoeA",
+        "authorChannelId": {
+          "value": "UChXU9YxsD6NlxjXmkXtJoeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-28T01:19:08Z",
+        "updatedAt": "2021-03-28T01:19:08Z"
+      }
+    }
+  ]
+}

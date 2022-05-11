@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZP7dCqbmzD6fv1cM8GAB39rHqcA",
+  "id": "UgzS6Vx0hB_CwyzpD7h4AaABAg",
+  "snippet": {
+    "videoId": "I0TmBsHaGmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yEapoJoMA5juz7pcd3Zn4BABT6s",
+      "id": "UgzS6Vx0hB_CwyzpD7h4AaABAg",
+      "snippet": {
+        "videoId": "I0TmBsHaGmI",
+        "textDisplay": "moin moin, geiles denglisch!",
+        "textOriginal": "moin moin, geiles denglisch!",
+        "authorDisplayName": "Jaques Francais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQocqKOv7NweSyfdsgXXBjHYdRnJRtiVCDBWNx2SQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCswFn8tolEyTto-UopccJ2g",
+        "authorChannelId": {
+          "value": "UCswFn8tolEyTto-UopccJ2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-06T21:07:13Z",
+        "updatedAt": "2020-06-06T21:07:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i0IcJz-Qtv6iqRSC3iuzFmEdH94",
+      "id": "UgzS6Vx0hB_CwyzpD7h4AaABAg.99_QnFI9iLw99bDXO7Tr8S",
+      "snippet": {
+        "textDisplay": "It gives it this scientific touch!",
+        "textOriginal": "It gives it this scientific touch!",
+        "parentId": "UgzS6Vx0hB_CwyzpD7h4AaABAg",
+        "authorDisplayName": "biolution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMsL3vD_cAOnQPhn1Q5YwLNkWt2ItQRsIxrI7LdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_k7-bRC0gQfKHXHW7fNQ7w",
+        "authorChannelId": {
+          "value": "UC_k7-bRC0gQfKHXHW7fNQ7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-07T13:49:47Z",
+        "updatedAt": "2020-06-07T13:49:47Z"
+      }
+    }
+  ]
+}

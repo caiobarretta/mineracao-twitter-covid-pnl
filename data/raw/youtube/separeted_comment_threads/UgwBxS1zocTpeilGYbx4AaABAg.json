@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MU7gwlVss_-JyX4vwQM09QvMi5Y",
+  "id": "UgwBxS1zocTpeilGYbx4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "N0YqUr_-lKqxg09tI5vVmclipHM",
+      "id": "UgwBxS1zocTpeilGYbx4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Tudo ficar\u00e1 bem! #VamosJuntos",
+        "textOriginal": "Tudo ficar\u00e1 bem! #VamosJuntos",
+        "authorDisplayName": "Carolina Tannouri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQO1H2w3tg5EtFQlSQxwD2S5cD7vdB4iDUUWQX9gQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqjRWrLjC0XA0G59UExL6nw",
+        "authorChannelId": {
+          "value": "UCqjRWrLjC0XA0G59UExL6nw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-26T14:13:18Z",
+        "updatedAt": "2020-03-26T14:13:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xDVplUYaLufomiYMDDvp5yCNrGw",
+      "id": "UgwBxS1zocTpeilGYbx4AaABAg.96fIBccLe2g9DyxIM9VgQC",
+      "snippet": {
+        "textDisplay": "sim",
+        "textOriginal": "sim",
+        "parentId": "UgwBxS1zocTpeilGYbx4AaABAg",
+        "authorDisplayName": "Guilherme Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6ehTDbBsDV3_UzyBGVmdFTSFoax7crcFz07q4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvIJc56zHySNOrNzyzyah7Q",
+        "authorChannelId": {
+          "value": "UCvIJc56zHySNOrNzyzyah7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-24T05:06:32Z",
+        "updatedAt": "2020-09-24T05:06:32Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8NTAjzifMLLpbSbVuFpjLPlXWNs",
+  "id": "UgwxB3c6WmFrle6-5u54AaABAg",
+  "snippet": {
+    "videoId": "DD_wdvwN9rg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G7aumxDVyI_FkVbYqqMFNcwS0t4",
+      "id": "UgwxB3c6WmFrle6-5u54AaABAg",
+      "snippet": {
+        "videoId": "DD_wdvwN9rg",
+        "textDisplay": "This is very well explained; detailed and timely. I am truly grateful for clarifying this dangerous virus !",
+        "textOriginal": "This is very well explained; detailed and timely. I am truly grateful for clarifying this dangerous virus !",
+        "authorDisplayName": "Leila Musa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1EPWmvDe-bmaJ4VazNMCV_8ngBPjWqEp9Yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCv7iPFECOzEPTiXNkt6Strw",
+        "authorChannelId": {
+          "value": "UCv7iPFECOzEPTiXNkt6Strw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2020-04-08T01:19:23Z",
+        "updatedAt": "2020-04-08T01:19:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "w5TG7T-mAxJj07foigy_iPwRCeQ",
+      "id": "UgwxB3c6WmFrle6-5u54AaABAg.97ANxlWNbYq9EqsB_9gxdh",
+      "snippet": {
+        "textDisplay": "@AIOU INFO I know that our immune system during COVID-19 can either stop the COVID-19 virus cells in the lungs - such as the macrophages - or it can damage the alveolar cells and make the disease worse  - like what happens with the immune cells like the interleukines and TNF-a, and lead to deadly ARDS, and this can happen when the number of viral cells outnumber any immune cells that are recruited to kill off the viruses, right?",
+        "textOriginal": "@AIOU INFO I know that our immune system during COVID-19 can either stop the COVID-19 virus cells in the lungs - such as the macrophages - or it can damage the alveolar cells and make the disease worse  - like what happens with the immune cells like the interleukines and TNF-a, and lead to deadly ARDS, and this can happen when the number of viral cells outnumber any immune cells that are recruited to kill off the viruses, right?",
+        "parentId": "UgwxB3c6WmFrle6-5u54AaABAg",
+        "authorDisplayName": "Charles Smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh2aFQkL0L7SH0gDslv0CTcBphTiFUkEKT4OsNvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ngvStTc4Hrq1WEVokzfsg",
+        "authorChannelId": {
+          "value": "UC9ngvStTc4Hrq1WEVokzfsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-15T22:19:24Z",
+        "updatedAt": "2020-10-15T22:19:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "RyNJWcBOMjIlAb8DJWjRRIHX8K4",
+      "id": "UgwxB3c6WmFrle6-5u54AaABAg.97ANxlWNbYq97rhwGw2gby",
+      "snippet": {
+        "textDisplay": "great :)",
+        "textOriginal": "great :)",
+        "parentId": "UgwxB3c6WmFrle6-5u54AaABAg",
+        "authorDisplayName": "AIOU INFO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqPzIhaBvqgBgiEYowXLrX8mEQRwgfjWJ2JAbv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYp8BEyy2I_lVyZB7e5_XNQ",
+        "authorChannelId": {
+          "value": "UCYp8BEyy2I_lVyZB7e5_XNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-25T06:29:16Z",
+        "updatedAt": "2020-04-25T06:29:16Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jDNFljdj5qpWrbqzwbcDULvPJ1Y",
+  "id": "Ugz-xkUBj-Rzox-WCUV4AaABAg",
+  "snippet": {
+    "videoId": "DD_wdvwN9rg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Eat-4v6E_i--iCW8a3fEvYCd6x8",
+      "id": "Ugz-xkUBj-Rzox-WCUV4AaABAg",
+      "snippet": {
+        "videoId": "DD_wdvwN9rg",
+        "textDisplay": "This is a video which has explained everything one needs to know. Right now, there are so many theories storming the internet but this seems to be very scientific and explanatory.",
+        "textOriginal": "This is a video which has explained everything one needs to know. Right now, there are so many theories storming the internet but this seems to be very scientific and explanatory.",
+        "authorDisplayName": "Amod Sharma",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDwpuEzfUJXC049NAw0JiaoFyE9QkOi4KbvmcHMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC54jEdmtyKfbQ3Qk5zV-bVQ",
+        "authorChannelId": {
+          "value": "UC54jEdmtyKfbQ3Qk5zV-bVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-03T12:53:37Z",
+        "updatedAt": "2020-07-03T12:53:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wx6eoSv-aSaBxBkTkK18-U5Vhec",
+      "id": "Ugz-xkUBj-Rzox-WCUV4AaABAg.9Ae3liz_Iho9Le4uT090hE",
+      "snippet": {
+        "textDisplay": "Social distance did not flat the curve.",
+        "textOriginal": "Social distance did not flat the curve.",
+        "parentId": "Ugz-xkUBj-Rzox-WCUV4AaABAg",
+        "authorDisplayName": "Diego Cardoso Baima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1wRaelTazBuqCyHlRlsQqxpSil8O-uPAg3HvCag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC95fsPPXT5PfDursO4YNctg",
+        "authorChannelId": {
+          "value": "UC95fsPPXT5PfDursO4YNctg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-02T22:48:53Z",
+        "updatedAt": "2021-04-02T22:48:53Z"
+      }
+    }
+  ]
+}

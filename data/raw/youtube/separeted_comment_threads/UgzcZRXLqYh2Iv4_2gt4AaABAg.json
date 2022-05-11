@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yPsx8Wczu7m8sY2owxjYEwTHOPs",
+  "id": "UgzcZRXLqYh2Iv4_2gt4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6zxB-KDsocTg2likWU1vzutDybY",
+      "id": "UgzcZRXLqYh2Iv4_2gt4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Vim pela escola, e gostei muito do v\u00eddeo",
+        "textOriginal": "Vim pela escola, e gostei muito do v\u00eddeo",
+        "authorDisplayName": "Mundo da Hadassa e Matheus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTxmqmYZ_z7hm-ZnzA2G93pz0mbtwngTGcrHA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfDCP0T8qnwSB94dbkp3dEg",
+        "authorChannelId": {
+          "value": "UCfDCP0T8qnwSB94dbkp3dEg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-03-25T22:57:19Z",
+        "updatedAt": "2021-03-25T22:57:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "II7y7NkbtX1ju9S-d6sm49Dx9FQ",
+      "id": "UgzcZRXLqYh2Iv4_2gt4AaABAg.9LKVWD6646V9M4egJNiE_q",
+      "snippet": {
+        "textDisplay": "Que bom que gostou  :)",
+        "textOriginal": "Que bom que gostou  :)",
+        "parentId": "UgzcZRXLqYh2Iv4_2gt4AaABAg",
+        "authorDisplayName": "Tecnofit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbzFTY7qJLDEDJTBdpGbbhZbyDNcF4fJf7-bjY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgs_GoDRixCcRXyqX47u7Tw",
+        "authorChannelId": {
+          "value": "UCgs_GoDRixCcRXyqX47u7Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-13T15:49:45Z",
+        "updatedAt": "2021-04-13T15:49:45Z"
+      }
+    }
+  ]
+}

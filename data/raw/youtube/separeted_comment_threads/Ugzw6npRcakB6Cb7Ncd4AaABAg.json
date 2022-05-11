@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xO8MXeljQ_mrbYGrrZ0Ga3C8dcU",
+  "id": "Ugzw6npRcakB6Cb7Ncd4AaABAg",
+  "snippet": {
+    "videoId": "l53vyC8Otlw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WeO-3-Lsa5yuTbnBfmmzOv9IdPk",
+      "id": "Ugzw6npRcakB6Cb7Ncd4AaABAg",
+      "snippet": {
+        "videoId": "l53vyC8Otlw",
+        "textDisplay": "Oi filhos bons testes",
+        "textOriginal": "Oi filhos bons testes",
+        "authorDisplayName": "LiliOnScreen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-PrgaE3njusj8fhJciLkMgAEJ9pSfjrv2OEbOmevfWf6MV_cOqUojqqHmGbuRTQqRVfZ5z-oR3E=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBBWoP_miGpAVSJ21q0GIyA",
+        "authorChannelId": {
+          "value": "UCBBWoP_miGpAVSJ21q0GIyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 28,
+        "publishedAt": "2021-08-21T17:00:41Z",
+        "updatedAt": "2021-08-21T17:00:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6cBciFeQcwoVIifIzJ6YZMM-Clo",
+      "id": "Ugzw6npRcakB6Cb7Ncd4AaABAg.9RJX8UiqZ5p9Xx5erhiQua",
+      "snippet": {
+        "textDisplay": "Obg",
+        "textOriginal": "Obg",
+        "parentId": "Ugzw6npRcakB6Cb7Ncd4AaABAg",
+        "authorDisplayName": "MaryStar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_hOdLXNi15EBCg1Lk73fgiWlsZNYRJL4NiSgjBvyN5iWsuF_KNCdC8OohKAnHuAr2qbBI6Ea=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu17l5TpV9jeK0wPggVZlcA",
+        "authorChannelId": {
+          "value": "UCu17l5TpV9jeK0wPggVZlcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-02T14:17:48Z",
+        "updatedAt": "2022-02-02T14:17:48Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lk_dPRwfP3iMF9mIb5YEqOQUieo",
+  "id": "Ugz2r0aQtUNqX35njTN4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Xl5oakWSpWAqaMqMV84fqG4R1Es",
+      "id": "Ugz2r0aQtUNqX35njTN4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Vim pela minha aula de PV e agora vou ver mais v\u00eddeos gostei muito",
+        "textOriginal": "Vim pela minha aula de PV e agora vou ver mais v\u00eddeos gostei muito",
+        "authorDisplayName": "Kau\u00ea Cerri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLAeU9ojI4AjBS8QKeRdr1dZA67jsfLSAQ8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSJ0ikEXZbeByROGmbO5VqQ",
+        "authorChannelId": {
+          "value": "UCSJ0ikEXZbeByROGmbO5VqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-06-29T18:00:44Z",
+        "updatedAt": "2020-06-29T18:00:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Owu9Kkpt3dmHL4r4wNoONIhew1s",
+      "id": "Ugz2r0aQtUNqX35njTN4AaABAg.9AVJjcGw2aZ9A_31bnmc8q",
+      "snippet": {
+        "textDisplay": "Oi, Kau\u00ea! Que bom que gostou do v\u00eddeo. Seja bem-vindo no canal! \ud83d\ude00",
+        "textOriginal": "Oi, Kau\u00ea! Que bom que gostou do v\u00eddeo. Seja bem-vindo no canal! \ud83d\ude00",
+        "parentId": "Ugz2r0aQtUNqX35njTN4AaABAg",
+        "authorDisplayName": "Tecnofit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbzFTY7qJLDEDJTBdpGbbhZbyDNcF4fJf7-bjY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgs_GoDRixCcRXyqX47u7Tw",
+        "authorChannelId": {
+          "value": "UCgs_GoDRixCcRXyqX47u7Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-01T14:10:59Z",
+        "updatedAt": "2020-07-01T14:10:59Z"
+      }
+    }
+  ]
+}

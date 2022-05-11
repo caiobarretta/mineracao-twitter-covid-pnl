@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2wI4maYBKcd_U9tgBhtCgp5kFgU",
+  "id": "Ugxw-8-Fc5Qikkv59Wl4AaABAg",
+  "snippet": {
+    "videoId": "I0TmBsHaGmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5-BRdUP85AJK5pYrlMVXEJp9UkQ",
+      "id": "Ugxw-8-Fc5Qikkv59Wl4AaABAg",
+      "snippet": {
+        "videoId": "I0TmBsHaGmI",
+        "textDisplay": "Thanks for the video, it helped me alot in my quest for its cure",
+        "textOriginal": "Thanks for the video, it helped me alot in my quest for its cure",
+        "authorDisplayName": "NagaHumanbeing ZooOfParticles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDopQ8j4I-Q7e4rKOS-Zv2vkvJOVxuckcCTuMxkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTQC2JbsBUMSCEGn77BoynQ",
+        "authorChannelId": {
+          "value": "UCTQC2JbsBUMSCEGn77BoynQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-24T17:28:18Z",
+        "updatedAt": "2020-03-24T17:28:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2QxoKdpKFCIEpvFVJtN-KQDTf8c",
+      "id": "Ugxw-8-Fc5Qikkv59Wl4AaABAg.96aUvDOh8AJ96jCsWofdaJ",
+      "snippet": {
+        "textDisplay": "You can\u2019t cure a virus. There\u2019s vaccines to prevent it.",
+        "textOriginal": "You can\u2019t cure a virus. There\u2019s vaccines to prevent it.",
+        "parentId": "Ugxw-8-Fc5Qikkv59Wl4AaABAg",
+        "authorDisplayName": "Karis Jackson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkQIYtwFl-XcjRkcidj2lHZdTYsd6uIUNosKTz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpQlRaHYD2TBzlZUVrwSisQ",
+        "authorChannelId": {
+          "value": "UCpQlRaHYD2TBzlZUVrwSisQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-28T02:43:49Z",
+        "updatedAt": "2020-03-28T02:43:49Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T-nbZLreEciTENEpzsTGpp7u3xQ",
+  "id": "UgzvWf1iynXPbXQDGUt4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fUHYiOCjAeFNyDKpyHWbmwa9N8Y",
+      "id": "UgzvWf1iynXPbXQDGUt4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "KKKK quem veio aqui pelo a aula online do professor q mandou nois ver skskks",
+        "textOriginal": "KKKK quem veio aqui pelo a aula online do professor q mandou nois ver skskks",
+        "authorDisplayName": "Gene Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ9D5XbHfhylk0a8Hf2kNyohj4fo-0s1ZaCTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5EU8CjzAep14xSN6EEKJQg",
+        "authorChannelId": {
+          "value": "UC5EU8CjzAep14xSN6EEKJQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2021-03-05T11:10:25Z",
+        "updatedAt": "2021-03-05T11:10:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d_lF9W7kRp9fgNxBa_ZrL0DZRtE",
+      "id": "UgzvWf1iynXPbXQDGUt4AaABAg.9KVjiEEgM7r9LM0QrIPvbX",
+      "snippet": {
+        "textDisplay": "O professor mandou vc fazer uma resenha desse v\u00eddeo ?",
+        "textOriginal": "O professor mandou vc fazer uma resenha desse v\u00eddeo ?",
+        "parentId": "UgzvWf1iynXPbXQDGUt4AaABAg",
+        "authorDisplayName": "Nicoli Auvares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVedE0WG9dVPf4XjwjyHndAia-TQOL1W0pWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTwwoRdgyDW5H8lZjCSfsLg",
+        "authorChannelId": {
+          "value": "UCTwwoRdgyDW5H8lZjCSfsLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-26T13:04:11Z",
+        "updatedAt": "2021-03-26T13:04:11Z"
+      }
+    }
+  ]
+}

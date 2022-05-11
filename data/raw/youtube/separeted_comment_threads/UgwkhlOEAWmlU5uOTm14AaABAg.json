@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xtHQiSHwcGTVdYSSapFEBr5NjZ0",
+  "id": "UgwkhlOEAWmlU5uOTm14AaABAg",
+  "snippet": {
+    "videoId": "OldauRg5wz8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QbDE2ydiG9XBy5IvCeoFHaVbhiQ",
+      "id": "UgwkhlOEAWmlU5uOTm14AaABAg",
+      "snippet": {
+        "videoId": "OldauRg5wz8",
+        "textDisplay": "Eu estou muito mau   eu tive avece",
+        "textOriginal": "Eu estou muito mau   eu tive avece",
+        "authorDisplayName": "Maria Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_1bJD7Nlw_rFm9z0HkJ8uS_Kk_M_tVwG3vg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSlLbuvCin5O_Qsj1EI43-g",
+        "authorChannelId": {
+          "value": "UCSlLbuvCin5O_Qsj1EI43-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-04T14:05:44Z",
+        "updatedAt": "2021-03-04T14:05:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xVxvwD-n8MMOdUdGmcv41ai0-jA",
+      "id": "UgwkhlOEAWmlU5uOTm14AaABAg.9KTTzOKtnj59KTnUty4kpw",
+      "snippet": {
+        "textDisplay": "Qual dos dois tipos",
+        "textOriginal": "Qual dos dois tipos",
+        "parentId": "UgwkhlOEAWmlU5uOTm14AaABAg",
+        "authorDisplayName": "Daniel Monteiro \u3010\u30c4\u3011",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGImB0sNfqKoznm2XVdbdjphH4Fl9MpElKh27hog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7aQiFSDm8D5WZofeqnx5WA",
+        "authorChannelId": {
+          "value": "UC7aQiFSDm8D5WZofeqnx5WA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-04T17:04:56Z",
+        "updatedAt": "2021-03-04T17:04:56Z"
+      }
+    }
+  ]
+}

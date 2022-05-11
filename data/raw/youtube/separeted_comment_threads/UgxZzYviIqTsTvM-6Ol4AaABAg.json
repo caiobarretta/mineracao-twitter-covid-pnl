@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IBAyBEwRw8mIE1qUcOIwaz3srvU",
+  "id": "UgxZzYviIqTsTvM-6Ol4AaABAg",
+  "snippet": {
+    "videoId": "_zda5TA5LoA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iP0wHRerQCxLX2VNuIA1fS14xBk",
+      "id": "UgxZzYviIqTsTvM-6Ol4AaABAg",
+      "snippet": {
+        "videoId": "_zda5TA5LoA",
+        "textDisplay": "Don't translate \"I love Gus\" to italian, you will instantly regret this big mistake",
+        "textOriginal": "Don't translate \"I love Gus\" to italian, you will instantly regret this big mistake",
+        "authorDisplayName": "Herobrine",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-NNOZZPSSpMeUQgr9sPT0bpGS-MtYO7sXmICL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb380WCCDNiR-CdscGCPskg",
+        "authorChannelId": {
+          "value": "UCb380WCCDNiR-CdscGCPskg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-07-06T19:00:58Z",
+        "updatedAt": "2021-07-06T19:04:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EFpDrTNwCk0PVD9IKrvnQSemHj8",
+      "id": "UgxZzYviIqTsTvM-6Ol4AaABAg.9PTILFsZY1a9SnyLcxj9Iu",
+      "snippet": {
+        "textDisplay": "Amo Gus",
+        "textOriginal": "Amo Gus",
+        "parentId": "UgxZzYviIqTsTvM-6Ol4AaABAg",
+        "authorDisplayName": "Connor Ashcroft Entertainment",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/m2R3AxwjapIYoKEsVZ3A_6ivpXJEod_J7OD3qXS6Si24MoB2xnG5Jw0pfRXwG_1JMXz-Y0Sx0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoXe2MpoQ9uB8MxPBiCZpRw",
+        "authorChannelId": {
+          "value": "UCoXe2MpoQ9uB8MxPBiCZpRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T18:34:59Z",
+        "updatedAt": "2021-09-27T18:34:59Z"
+      }
+    }
+  ]
+}

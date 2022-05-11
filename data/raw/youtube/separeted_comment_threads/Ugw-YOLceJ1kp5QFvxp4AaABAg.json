@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rWBhTSUXDCLpgudBClkBoHmGjEc",
+  "id": "Ugw-YOLceJ1kp5QFvxp4AaABAg",
+  "snippet": {
+    "videoId": "WnOV1gknZIA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EAxSaQ4GH1DwUYIPK3yXzrMNzbY",
+      "id": "Ugw-YOLceJ1kp5QFvxp4AaABAg",
+      "snippet": {
+        "videoId": "WnOV1gknZIA",
+        "textDisplay": "hmmmm, o core joga bem demais, SUS",
+        "textOriginal": "hmmmm, o core joga bem demais, SUS",
+        "authorDisplayName": "Sr T",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gT5JtBX_ahJXCf6r2tcQHQC4psDz_EfBPSvbqtuTs7vsGl_jXfnOLJPt6BerqUA--GY0-YHn=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn6irJTXziIa3WFVrQRu20w",
+        "authorChannelId": {
+          "value": "UCn6irJTXziIa3WFVrQRu20w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-15T14:37:30Z",
+        "updatedAt": "2021-06-15T14:37:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Gc_oHAwjjQuEtNrxPdqOX8Zuc0k",
+      "id": "Ugw-YOLceJ1kp5QFvxp4AaABAg.9ObkVBGmSZk9R8kVAA5Y8X",
+      "snippet": {
+        "textDisplay": "Core is SUS",
+        "textOriginal": "Core is SUS",
+        "parentId": "Ugw-YOLceJ1kp5QFvxp4AaABAg",
+        "authorDisplayName": "CARLOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gGtnBzu0dPsHVu9L7-syRP3gEB2nOUNTo3Aj-My7NsNgXXqDqc1wiHCs1XbEp1npeYyFoMwK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJftFF6NWMCXdZ2EKktIFKw",
+        "authorChannelId": {
+          "value": "UCJftFF6NWMCXdZ2EKktIFKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-17T12:34:27Z",
+        "updatedAt": "2021-08-17T12:34:27Z"
+      }
+    }
+  ]
+}

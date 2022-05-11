@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WAOg5FNQWI6tqdGVKO_SwYFJRYU",
+  "id": "UgxJBotYprNhSiUfwEl4AaABAg",
+  "snippet": {
+    "videoId": "EZjfbmtFk9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SsOvmvRAtQ44Yr7qzJsUshgtALA",
+      "id": "UgxJBotYprNhSiUfwEl4AaABAg",
+      "snippet": {
+        "videoId": "EZjfbmtFk9M",
+        "textDisplay": "Algu\u00e9m tem o link de presen\u00e7a?",
+        "textOriginal": "Algu\u00e9m tem o link de presen\u00e7a?",
+        "authorDisplayName": "Lucas Gabriel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSyDX9qPr-Tj3h0HmuGAzRMhOB_WVJVqI7QgPNio4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSpgsjQd7PcKVSWk8luN5HA",
+        "authorChannelId": {
+          "value": "UCSpgsjQd7PcKVSWk8luN5HA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:57:42Z",
+        "updatedAt": "2021-12-09T23:57:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FXXbFrIZcLy7mLl5laIGAASMq48",
+      "id": "UgxJBotYprNhSiUfwEl4AaABAg.9VkWJ3NsocR9VkX-JUpceU",
+      "snippet": {
+        "textDisplay": "Est\u00e1 na descri\u00e7\u00e3o do v\u00eddeo.  T\u00e1 aberto",
+        "textOriginal": "Est\u00e1 na descri\u00e7\u00e3o do v\u00eddeo.  T\u00e1 aberto",
+        "parentId": "UgxJBotYprNhSiUfwEl4AaABAg",
+        "authorDisplayName": "Luciane Zalamena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_TO7ofFgwzkbzKPdmFTbjwNYZxCH3uyEElbCJDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2JS4UQFZe1PEAkfA_BTO4w",
+        "authorChannelId": {
+          "value": "UC2JS4UQFZe1PEAkfA_BTO4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-10T00:03:44Z",
+        "updatedAt": "2021-12-10T00:03:44Z"
+      }
+    }
+  ]
+}

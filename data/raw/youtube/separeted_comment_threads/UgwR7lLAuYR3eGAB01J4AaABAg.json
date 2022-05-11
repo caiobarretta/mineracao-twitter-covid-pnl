@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WYiTz6l18c3W6KW3ClwK5pL2zlk",
+  "id": "UgwR7lLAuYR3eGAB01J4AaABAg",
+  "snippet": {
+    "videoId": "I0TmBsHaGmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OdjXT8mf72tOYcCRN2ZGWfsG0fc",
+      "id": "UgwR7lLAuYR3eGAB01J4AaABAg",
+      "snippet": {
+        "videoId": "I0TmBsHaGmI",
+        "textDisplay": "I hope you're working on another COVID-19 related video. Your detailed explanations coupled with the animation is inspiring to learn more from such content.",
+        "textOriginal": "I hope you're working on another COVID-19 related video. Your detailed explanations coupled with the animation is inspiring to learn more from such content.",
+        "authorDisplayName": "wexer82",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMUNyrbwE8VFKBwY0fbx85nnj6_eR7d5YK_iUj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJSHrEoZp8c6Oyw2X6IvSVg",
+        "authorChannelId": {
+          "value": "UCJSHrEoZp8c6Oyw2X6IvSVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-31T02:45:36Z",
+        "updatedAt": "2020-03-31T02:45:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qXM1vQldSzEQX84ZpDmKs6m9S5U",
+      "id": "UgwR7lLAuYR3eGAB01J4AaABAg.96qwTChyz9L96rvxQFYhZx",
+      "snippet": {
+        "textDisplay": "Thank you for your appreciation, we are currently working on a video summarising some of the treatments currently explored for COVID19. Will be online this week I hope.",
+        "textOriginal": "Thank you for your appreciation, we are currently working on a video summarising some of the treatments currently explored for COVID19. Will be online this week I hope.",
+        "parentId": "UgwR7lLAuYR3eGAB01J4AaABAg",
+        "authorDisplayName": "biolution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMsL3vD_cAOnQPhn1Q5YwLNkWt2ItQRsIxrI7LdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_k7-bRC0gQfKHXHW7fNQ7w",
+        "authorChannelId": {
+          "value": "UC_k7-bRC0gQfKHXHW7fNQ7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-31T12:00:22Z",
+        "updatedAt": "2020-03-31T12:00:22Z"
+      }
+    }
+  ]
+}

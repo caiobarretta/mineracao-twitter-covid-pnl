@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gV5iC-2wXPxUNJaRmO7YUOJB8qI",
+  "id": "UgwwYseJdOfxax6FPTR4AaABAg",
+  "snippet": {
+    "videoId": "EZjfbmtFk9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bSyZTSnh4kXKVHKUHY04TVlsPRU",
+      "id": "UgwwYseJdOfxax6FPTR4AaABAg",
+      "snippet": {
+        "videoId": "EZjfbmtFk9M",
+        "textDisplay": "eu n\u00e3o consegui assinar a lista de presen\u00e7a",
+        "textOriginal": "eu n\u00e3o consegui assinar a lista de presen\u00e7a",
+        "authorDisplayName": "PERPETUA SANTANA SANTOS DA ROCHA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PFPjIr_uXamYu8X1bzmwaEJKiEz-k7M1OkNrSRx_no_-LH6i14w9zPUAkpr7X2lxELLpAxe4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCliAUj5Zw0CZnLtE0gDG_VQ",
+        "authorChannelId": {
+          "value": "UCliAUj5Zw0CZnLtE0gDG_VQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:58:26Z",
+        "updatedAt": "2021-12-09T23:58:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pNjHT7iYWDGXEKBLrazwxKi1V5g",
+      "id": "UgwwYseJdOfxax6FPTR4AaABAg.9VkWORJwbfQ9VkX3FL3KBC",
+      "snippet": {
+        "textDisplay": "T\u00e1 na descri\u00e7\u00e3o do v\u00eddeo",
+        "textOriginal": "T\u00e1 na descri\u00e7\u00e3o do v\u00eddeo",
+        "parentId": "UgwwYseJdOfxax6FPTR4AaABAg",
+        "authorDisplayName": "Luciane Zalamena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_TO7ofFgwzkbzKPdmFTbjwNYZxCH3uyEElbCJDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2JS4UQFZe1PEAkfA_BTO4w",
+        "authorChannelId": {
+          "value": "UC2JS4UQFZe1PEAkfA_BTO4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-10T00:04:16Z",
+        "updatedAt": "2021-12-10T00:04:16Z"
+      }
+    }
+  ]
+}

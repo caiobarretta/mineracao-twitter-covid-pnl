@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kKDBHIs6k4kMi0a7kTgao5qSMhs",
+  "id": "UgyUpey3W_-CEaYHOB94AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HUX-KK0DFfhKC6wYU1h6HxNlJ-c",
+      "id": "UgyUpey3W_-CEaYHOB94AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Vim pela a aula tamb\u00e9m kkkk mais gostei muito",
+        "textOriginal": "Vim pela a aula tamb\u00e9m kkkk mais gostei muito",
+        "authorDisplayName": "Joice Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8UdqJkbivOUDEsWDR8n1D7ceNw45ujiJ9qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdT_cF_iWbGWcU3eg2GQxRw",
+        "authorChannelId": {
+          "value": "UCdT_cF_iWbGWcU3eg2GQxRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-08-06T22:58:02Z",
+        "updatedAt": "2020-08-06T22:58:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_zZkEFwgjLk-1tY_yRPU5BZUCyU",
+      "id": "UgyUpey3W_-CEaYHOB94AaABAg.9C1gyJTFICX9DyxEb1Ij-6",
+      "snippet": {
+        "textDisplay": "hahahaha",
+        "textOriginal": "hahahaha",
+        "parentId": "UgyUpey3W_-CEaYHOB94AaABAg",
+        "authorDisplayName": "Guilherme Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6ehTDbBsDV3_UzyBGVmdFTSFoax7crcFz07q4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvIJc56zHySNOrNzyzyah7Q",
+        "authorChannelId": {
+          "value": "UCvIJc56zHySNOrNzyzyah7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-24T05:06:02Z",
+        "updatedAt": "2020-09-24T05:06:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "NNNNx8lO-AigE63i41sW_Nzmv6I",
+      "id": "UgyUpey3W_-CEaYHOB94AaABAg.9C1gyJTFICX9CBaVuLuARk",
+      "snippet": {
+        "textDisplay": "Oi, Joice! Que bom que gostou, obrigado \ud83d\ude09",
+        "textOriginal": "Oi, Joice! Que bom que gostou, obrigado \ud83d\ude09",
+        "parentId": "UgyUpey3W_-CEaYHOB94AaABAg",
+        "authorDisplayName": "Tecnofit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbzFTY7qJLDEDJTBdpGbbhZbyDNcF4fJf7-bjY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgs_GoDRixCcRXyqX47u7Tw",
+        "authorChannelId": {
+          "value": "UCgs_GoDRixCcRXyqX47u7Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-10T19:13:59Z",
+        "updatedAt": "2020-08-10T19:13:59Z"
+      }
+    }
+  ]
+}

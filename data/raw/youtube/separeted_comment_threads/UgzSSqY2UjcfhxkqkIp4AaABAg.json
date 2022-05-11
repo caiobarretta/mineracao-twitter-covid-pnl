@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qyNfKfEw06lGEzTlfmOV1O8CgPo",
+  "id": "UgzSSqY2UjcfhxkqkIp4AaABAg",
+  "snippet": {
+    "videoId": "0bZ0hkiIKt0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-2jJ_mz-K-pUAVhGUlC4DNXX1gg",
+      "id": "UgzSSqY2UjcfhxkqkIp4AaABAg",
+      "snippet": {
+        "videoId": "0bZ0hkiIKt0",
+        "textDisplay": "IS NOBADY GONNA TALK ABOUT HOW THIS VIDEO IS AGE RESTRICTED?",
+        "textOriginal": "IS NOBADY GONNA TALK ABOUT HOW THIS VIDEO IS AGE RESTRICTED?",
+        "authorDisplayName": "EngiMANN00",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQom_9zo3ULv13B7llVRqrStR7--Tu7UJkJmYvMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx2c53UPwUILy9PWJ3wY3ZA",
+        "authorChannelId": {
+          "value": "UCx2c53UPwUILy9PWJ3wY3ZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2022-03-03T01:27:15Z",
+        "updatedAt": "2022-03-03T01:27:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qmFkQCTkxqm2z9Sg9dXu-sxCPv0",
+      "id": "UgzSSqY2UjcfhxkqkIp4AaABAg.9Z5OXYQ7f9r9aeaDVX4B-8",
+      "snippet": {
+        "textDisplay": "Lol",
+        "textOriginal": "Lol",
+        "parentId": "UgzSSqY2UjcfhxkqkIp4AaABAg",
+        "authorDisplayName": "gatodynho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_9XQVyIWRepUUFJH0KkAMv2KF7LUk9NH2tlnLzxnc-_SNuc6Xt2fDocNaTwW_k0BMvQPyWT1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIBrsk7JUhFzvvENdC6KKFg",
+        "authorChannelId": {
+          "value": "UCIBrsk7JUhFzvvENdC6KKFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-05T19:53:33Z",
+        "updatedAt": "2022-05-05T19:53:33Z"
+      }
+    }
+  ]
+}

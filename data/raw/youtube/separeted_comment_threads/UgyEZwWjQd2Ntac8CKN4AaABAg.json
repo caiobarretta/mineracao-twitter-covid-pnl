@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y0jy8Rrzc1Sxd6fQnrt8Zl7UBm0",
+  "id": "UgyEZwWjQd2Ntac8CKN4AaABAg",
+  "snippet": {
+    "videoId": "hjQVmMhmzQ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qnCTUobw1cPWEHO183OgBmb0I-o",
+      "id": "UgyEZwWjQd2Ntac8CKN4AaABAg",
+      "snippet": {
+        "videoId": "hjQVmMhmzQ4",
+        "textDisplay": "Nossa muito bem explicativo !  , meus parab\u00e9ns.",
+        "textOriginal": "Nossa muito bem explicativo !  , meus parab\u00e9ns.",
+        "authorDisplayName": "mariano \u611b",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnlMFQO-efAdadC5LsjvDgWKUVbHmI142u7JDxyg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaVMzyDXQqczzWhQ6UmxN_w",
+        "authorChannelId": {
+          "value": "UCaVMzyDXQqczzWhQ6UmxN_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-22T14:23:02Z",
+        "updatedAt": "2021-09-22T14:23:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eFmU9VZ7cVn09v0d9tAUoTqFKhk",
+      "id": "UgyEZwWjQd2Ntac8CKN4AaABAg.9SadXmxnIBd9Sbqcocj1XY",
+      "snippet": {
+        "textDisplay": "\ud83e\udd70\ud83e\udd70",
+        "textOriginal": "\ud83e\udd70\ud83e\udd70",
+        "parentId": "UgyEZwWjQd2Ntac8CKN4AaABAg",
+        "authorDisplayName": "S\u00f3 Enfermagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3JJXvbG8Vc1XGumpfkFMIVzTUqcUXUW9Y5MsT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCprMC_AxhvrTVePi2voblrw",
+        "authorChannelId": {
+          "value": "UCprMC_AxhvrTVePi2voblrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-23T01:36:41Z",
+        "updatedAt": "2021-09-23T01:36:41Z"
+      }
+    }
+  ]
+}

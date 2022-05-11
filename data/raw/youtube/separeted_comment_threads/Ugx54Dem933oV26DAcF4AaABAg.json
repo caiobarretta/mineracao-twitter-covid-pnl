@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zE56UEQlWJaPettuyZNwtDeLFTw",
+  "id": "Ugx54Dem933oV26DAcF4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BuQfBHWvTSxGFjvlnqWSgcOWV0w",
+      "id": "Ugx54Dem933oV26DAcF4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Muito legal o video parabens muito interesante",
+        "textOriginal": "Muito legal o video parabens muito interesante",
+        "authorDisplayName": "Sheila Cristina Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFfQEUTvJ1yQkTtaDsIIyMk9FlontItNa67klkoA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkQSw69JsHUIXFi2eaRcymw",
+        "authorChannelId": {
+          "value": "UCkQSw69JsHUIXFi2eaRcymw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-09T11:19:17Z",
+        "updatedAt": "2020-10-09T11:19:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KbbBwq9S7nhl24wW5yGsa4grs94",
+      "id": "Ugx54Dem933oV26DAcF4AaABAg.9EaEsVMAYNZ9EknxEu-c_p",
+      "snippet": {
+        "textDisplay": "Que bom que gostou, Sheila! \ud83d\udc99",
+        "textOriginal": "Que bom que gostou, Sheila! \ud83d\udc99",
+        "parentId": "Ugx54Dem933oV26DAcF4AaABAg",
+        "authorDisplayName": "Tecnofit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbzFTY7qJLDEDJTBdpGbbhZbyDNcF4fJf7-bjY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgs_GoDRixCcRXyqX47u7Tw",
+        "authorChannelId": {
+          "value": "UCgs_GoDRixCcRXyqX47u7Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-13T13:46:54Z",
+        "updatedAt": "2020-10-13T13:46:54Z"
+      }
+    }
+  ]
+}

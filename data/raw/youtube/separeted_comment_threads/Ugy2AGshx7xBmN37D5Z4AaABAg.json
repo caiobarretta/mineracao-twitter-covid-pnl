@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AvMFluTIv2G-LG6HA1lRxKY4uIU",
+  "id": "Ugy2AGshx7xBmN37D5Z4AaABAg",
+  "snippet": {
+    "videoId": "0kqqnHz4d3A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "X5LrjCwBmwo_tGZ7zRbAYZwSxBQ",
+      "id": "Ugy2AGshx7xBmN37D5Z4AaABAg",
+      "snippet": {
+        "videoId": "0kqqnHz4d3A",
+        "textDisplay": "QUAL GOVERNO?",
+        "textOriginal": "QUAL GOVERNO?",
+        "authorDisplayName": "Davi Caetano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwqZgVuIQHYRsfl0fjTxbWJ5_9ehxE-J4TTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtoVk0jYHoyEZQ38OCjh3xw",
+        "authorChannelId": {
+          "value": "UCtoVk0jYHoyEZQ38OCjh3xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-12-10T16:56:11Z",
+        "updatedAt": "2021-12-10T16:56:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j1A0Cf_Om30OES4zpn25CVPgJ3o",
+      "id": "Ugy2AGshx7xBmN37D5Z4AaABAg.9VmKrcUOP_O9VwAHEQHizo",
+      "snippet": {
+        "textDisplay": "Desculpe, o desgoverno.",
+        "textOriginal": "Desculpe, o desgoverno.",
+        "parentId": "Ugy2AGshx7xBmN37D5Z4AaABAg",
+        "authorDisplayName": "Emanuel Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6PQykk77jwxWl8oyxB0QnOcc7gpTm7IZMVdDKmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnDvYytmsvBmk_pytbbjJmw",
+        "authorChannelId": {
+          "value": "UCnDvYytmsvBmk_pytbbjJmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-14T12:36:06Z",
+        "updatedAt": "2021-12-14T12:36:06Z"
+      }
+    }
+  ]
+}

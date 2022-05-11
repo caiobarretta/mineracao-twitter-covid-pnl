@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZXHQYACBylhufGDSHThWplkV3f8",
+  "id": "UgxEwq49en_aok8WdG94AaABAg",
+  "snippet": {
+    "videoId": "_zda5TA5LoA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eJgxuAkCht517IDwnJEwjQfhWrY",
+      "id": "UgxEwq49en_aok8WdG94AaABAg",
+      "snippet": {
+        "videoId": "_zda5TA5LoA",
+        "textDisplay": "The rabbit hole keeps getting deeper. Where will it lead next?",
+        "textOriginal": "The rabbit hole keeps getting deeper. Where will it lead next?",
+        "authorDisplayName": "Jacob Corts",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSLakqGcw-yalO80IZ0GtY4T7s5qqbJsbHWuYm9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvEAWxw64dqUa1wtw9inZhA",
+        "authorChannelId": {
+          "value": "UCvEAWxw64dqUa1wtw9inZhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 23,
+        "publishedAt": "2021-06-30T21:34:15Z",
+        "updatedAt": "2021-06-30T21:34:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fFrc4R7PCTAnBUrygPJ3KrP80xI",
+      "id": "UgxEwq49en_aok8WdG94AaABAg.9PE76eGbsr99PEH-vh9ktl",
+      "snippet": {
+        "textDisplay": "@l My condolences.",
+        "textOriginal": "@l My condolences.",
+        "parentId": "UgxEwq49en_aok8WdG94AaABAg",
+        "authorDisplayName": "Jacob Corts",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSLakqGcw-yalO80IZ0GtY4T7s5qqbJsbHWuYm9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvEAWxw64dqUa1wtw9inZhA",
+        "authorChannelId": {
+          "value": "UCvEAWxw64dqUa1wtw9inZhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-30T23:00:42Z",
+        "updatedAt": "2021-06-30T23:00:42Z"
+      }
+    }
+  ]
+}

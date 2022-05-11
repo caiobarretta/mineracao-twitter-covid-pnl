@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "69aP4L5e0-SwmxV4qci20vVGMYk",
+  "id": "UgykESMOp3pfMfH2jGR4AaABAg",
+  "snippet": {
+    "videoId": "WnOV1gknZIA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tVN3V_IvYIP-FABQGh6I5JoLeXs",
+      "id": "UgykESMOp3pfMfH2jGR4AaABAg",
+      "snippet": {
+        "videoId": "WnOV1gknZIA",
+        "textDisplay": "Core: *posta v\u00eddeo*\nComent\u00e1rios: SUS",
+        "textOriginal": "Core: *posta v\u00eddeo*\nComent\u00e1rios: SUS",
+        "authorDisplayName": "Hey Xfox",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GZgVC1aF8oEhNaoG5maRGq3DhiCNr-s2gwuxKa1vDlpT_YGY7F6ovQBrMgbxc7pN8yuMFuKxGFo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCce_E1CZEU-BELcWrBNjsww",
+        "authorChannelId": {
+          "value": "UCce_E1CZEU-BELcWrBNjsww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2021-05-12T03:34:49Z",
+        "updatedAt": "2021-05-12T03:34:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "II5kokgDzVOoI4IaOrwHb5T1WsU",
+      "id": "UgykESMOp3pfMfH2jGR4AaABAg.9NE0clhghDH9TRZQuwSNO5",
+      "snippet": {
+        "textDisplay": "\u0d9e",
+        "textOriginal": "\u0d9e",
+        "parentId": "UgykESMOp3pfMfH2jGR4AaABAg",
+        "authorDisplayName": "Eu sou eu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Ep7ivOPIZE-syJQfaW5e6e2EUDV8q8KJa4SsfuiwhCSAuepLx59xZMwvpDnQBaFyVyG62DWJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC15yX8jmf-YH-CwP2nUyOzg",
+        "authorChannelId": {
+          "value": "UC15yX8jmf-YH-CwP2nUyOzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-13T12:57:23Z",
+        "updatedAt": "2021-10-13T12:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "-fjyral2uiJMW2UQHQMHJaZ7eOY",
+      "id": "UgykESMOp3pfMfH2jGR4AaABAg.9NE0clhghDH9Rakby_Wy94",
+      "snippet": {
+        "textDisplay": "Susssssssssss",
+        "textOriginal": "Susssssssssss",
+        "parentId": "UgykESMOp3pfMfH2jGR4AaABAg",
+        "authorDisplayName": "Iarley Barboza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaPGUvSlzn22YQr_MBrE9Moa5XJCWOmtV5Ae6_NXvuhvi5ePofQUDHdjkiKLYL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt68Znc1yG55HG8SdRrcIdQ",
+        "authorChannelId": {
+          "value": "UCt68Znc1yG55HG8SdRrcIdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T18:53:30Z",
+        "updatedAt": "2021-08-28T18:53:30Z"
+      }
+    }
+  ]
+}

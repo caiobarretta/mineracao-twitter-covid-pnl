@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ko24hy9rCDzuH1I1tfy3LiQz2t0",
+  "id": "UgxWwKamMf69tzL42bJ4AaABAg",
+  "snippet": {
+    "videoId": "JSkyAjopXlE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ee3BvK_n1jp8PlN0GiAVmwJX_OY",
+      "id": "UgxWwKamMf69tzL42bJ4AaABAg",
+      "snippet": {
+        "videoId": "JSkyAjopXlE",
+        "textDisplay": "Adorei a mensagem positiva do v\u00eddeo!! Tudo ficar\u00e1 bem!!!",
+        "textOriginal": "Adorei a mensagem positiva do v\u00eddeo!! Tudo ficar\u00e1 bem!!!",
+        "authorDisplayName": "Ligia Pimenta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzv0WTAWLRn38agOgjiEE6NBFnqoZJVeru0Jl_7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtLXnHvihO9YovqrQNPIg_w",
+        "authorChannelId": {
+          "value": "UCtLXnHvihO9YovqrQNPIg_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-26T14:06:56Z",
+        "updatedAt": "2020-03-26T14:06:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R9op7h9Fq9UOqikkyBE-b9Rmmos",
+      "id": "UgxWwKamMf69tzL42bJ4AaABAg.96fHT5SIJCc9DyxDgaOZ9q",
+      "snippet": {
+        "textDisplay": "tbm gostei",
+        "textOriginal": "tbm gostei",
+        "parentId": "UgxWwKamMf69tzL42bJ4AaABAg",
+        "authorDisplayName": "Guilherme Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6ehTDbBsDV3_UzyBGVmdFTSFoax7crcFz07q4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvIJc56zHySNOrNzyzyah7Q",
+        "authorChannelId": {
+          "value": "UCvIJc56zHySNOrNzyzyah7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-24T05:05:54Z",
+        "updatedAt": "2020-09-24T05:05:54Z"
+      }
+    }
+  ]
+}

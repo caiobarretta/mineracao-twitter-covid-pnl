@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zulH_p7Z3l-VigEKB949MSLZwMg",
+  "id": "Ugxo6t2TDW04jyGJbpd4AaABAg",
+  "snippet": {
+    "videoId": "EZjfbmtFk9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lCyUwV45DIO9ZNKvwqrKLED8bxI",
+      "id": "Ugxo6t2TDW04jyGJbpd4AaABAg",
+      "snippet": {
+        "videoId": "EZjfbmtFk9M",
+        "textDisplay": "Eu n\u00e3o consigo assinar a lista de ter\u00e7a",
+        "textOriginal": "Eu n\u00e3o consigo assinar a lista de ter\u00e7a",
+        "authorDisplayName": "Eduarda Cavalcanti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIE5rVSMconJ4aVXNmtIiCR9RMXcJSn5iSSz2zlU4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX084W5OsdqqwCWSIZmniow",
+        "authorChannelId": {
+          "value": "UCX084W5OsdqqwCWSIZmniow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:47:15Z",
+        "updatedAt": "2021-12-09T23:47:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pcsC9Bl3PY3FvDVRCiJokhto7k0",
+      "id": "Ugxo6t2TDW04jyGJbpd4AaABAg.9VkV6amMYzg9VkX8fKdNJc",
+      "snippet": {
+        "textDisplay": "Est\u00e1 na descri\u00e7\u00e3o do v\u00eddeo",
+        "textOriginal": "Est\u00e1 na descri\u00e7\u00e3o do v\u00eddeo",
+        "parentId": "Ugxo6t2TDW04jyGJbpd4AaABAg",
+        "authorDisplayName": "Luciane Zalamena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_TO7ofFgwzkbzKPdmFTbjwNYZxCH3uyEElbCJDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2JS4UQFZe1PEAkfA_BTO4w",
+        "authorChannelId": {
+          "value": "UC2JS4UQFZe1PEAkfA_BTO4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-10T00:05:01Z",
+        "updatedAt": "2021-12-10T00:05:01Z"
+      }
+    }
+  ]
+}

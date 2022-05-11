@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QwPI5mNboFSxiEg9i2MCSu6Vdqk",
+  "id": "UgzYzUPtjOAiwyb1iYl4AaABAg",
+  "snippet": {
+    "videoId": "EZjfbmtFk9M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rn5wlSBurMKBZkNDLqVMR3ltEnY",
+      "id": "UgzYzUPtjOAiwyb1iYl4AaABAg",
+      "snippet": {
+        "videoId": "EZjfbmtFk9M",
+        "textDisplay": "O formul\u00e1rio n\u00e3o est\u00e1 aberto",
+        "textOriginal": "O formul\u00e1rio n\u00e3o est\u00e1 aberto",
+        "authorDisplayName": "valderlanio oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSp3BJEn9iAfsnrKCPSxRfhZd44QBckI7G0Cb67UA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9d2y_OkHBIYvy9_ZEaR-UQ",
+        "authorChannelId": {
+          "value": "UC9d2y_OkHBIYvy9_ZEaR-UQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-09T23:48:10Z",
+        "updatedAt": "2021-12-09T23:48:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LCycrDNIqDCzYrO1KcfuWULz5Wc",
+      "id": "UgzYzUPtjOAiwyb1iYl4AaABAg.9VkVDHwdjP-9VkWD-T1wnj",
+      "snippet": {
+        "textDisplay": "@valderlanio oliveira , o formul\u00e1rio est\u00e1 aberto agora. Corre l\u00e1!",
+        "textOriginal": "@valderlanio oliveira , o formul\u00e1rio est\u00e1 aberto agora. Corre l\u00e1!",
+        "parentId": "UgzYzUPtjOAiwyb1iYl4AaABAg",
+        "authorDisplayName": "Aline Smaniotto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6iEgVyfx_Zsfyx8M-9bIEWEmJLj6-9R2ZUjC-0nWzulalbDmfZG_5UJquQCJL_j7tGFoN81h=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmnzqfbpxotfFqtRAyISXVg",
+        "authorChannelId": {
+          "value": "UCmnzqfbpxotfFqtRAyISXVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-09T23:56:52Z",
+        "updatedAt": "2021-12-09T23:56:52Z"
+      }
+    }
+  ]
+}

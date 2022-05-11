@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Gyl3XVWmrx79BB5rPNV3X1uNHFk",
+  "id": "UgxrIgwt0NdMSZp7jTZ4AaABAg",
+  "snippet": {
+    "videoId": "qRbti8cLYME",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Xko6LcMXTdUnG3h1UVGlaOYFJ6k",
+      "id": "UgxrIgwt0NdMSZp7jTZ4AaABAg",
+      "snippet": {
+        "videoId": "qRbti8cLYME",
+        "textDisplay": "2 eh? What was 1?",
+        "textOriginal": "2 eh? What was 1?",
+        "authorDisplayName": "Ricochete",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5GJbx7f_vfFkePJRPupe8tfpGfed6FNOznw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrmlYM6fyAWYPWUl9nrypcQ",
+        "authorChannelId": {
+          "value": "UCrmlYM6fyAWYPWUl9nrypcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-16T23:27:33Z",
+        "updatedAt": "2021-06-16T23:27:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1GmY-RYkGay8yi6a9uWH9MV_fK0",
+      "id": "UgxrIgwt0NdMSZp7jTZ4AaABAg.9OfGxG9-pbm9X5ZGTNREiV",
+      "snippet": {
+        "textDisplay": "I sars 2 now. Please tell me I can save my life or not??",
+        "textOriginal": "I sars 2 now. Please tell me I can save my life or not??",
+        "parentId": "UgxrIgwt0NdMSZp7jTZ4AaABAg",
+        "authorDisplayName": "Preetii Sharma",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIvQiiOWyhibkGts7SeTYqLDwmpTjrx2qLoQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOVFbzWtFcpqakYa6HE4PSg",
+        "authorChannelId": {
+          "value": "UCOVFbzWtFcpqakYa6HE4PSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-12T09:58:15Z",
+        "updatedAt": "2022-01-12T09:58:15Z"
+      }
+    }
+  ]
+}
