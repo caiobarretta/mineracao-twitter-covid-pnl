@@ -1,7 +1,41 @@
 [
   {
     "kind": "youtube#searchResult",
-    "etag": "PEGAszMVreSH32zv7h0WweHhIQ8",
+    "etag": "G6z6PeeqgJlNcQs6rW0IBRunphw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PpbJNX7ZPq8"
+    },
+    "snippet": {
+      "publishedAt": "2020-02-28T17:19:25Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "O que se sabe sobre o coronav\u00edrus 2019, o SARS-CoV-2?",
+      "description": "Coronav\u00edrus \u00e9 uma grande fam\u00edlia de v\u00edrus que causa infec\u00e7\u00f5es respirat\u00f3rias. Em dezembro de 2019, um novo tipo de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-02-28T17:19:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mMMhJFSk5yuxzqF7jjwj_9i7ZVM",
     "id": {
       "kind": "youtube#video",
       "videoId": "ywQXBGBj_2M"
@@ -35,7 +69,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "b3L24gPvSZ9JYEYEJYoi9NlytvI",
+    "etag": "oWBxftKNZ60OWoEaj6cWNcRP3TE",
     "id": {
       "kind": "youtube#video",
       "videoId": "_A3ge2S5aXY"
@@ -69,36 +103,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "G6z6PeeqgJlNcQs6rW0IBRunphw",
+    "etag": "pYxso6bzSHJeAHWbyEys034laGQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "PpbJNX7ZPq8"
+      "videoId": "64A47eSUbk8"
     },
     "snippet": {
-      "publishedAt": "2020-02-28T17:19:25Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "O que se sabe sobre o coronav\u00edrus 2019, o SARS-CoV-2?",
-      "description": "Coronav\u00edrus \u00e9 uma grande fam\u00edlia de v\u00edrus que causa infec\u00e7\u00f5es respirat\u00f3rias. Em dezembro de 2019, um novo tipo de ...",
+      "publishedAt": "2020-04-28T15:35:12Z",
+      "channelId": "UCtNAhi_4Lwy5aJlrjlqhUlQ",
+      "title": "ORIGEM DO SARS-COV-2 | Combate ao Coronav\u00edrus",
+      "description": "A #pandemia de #covid19 tamb\u00e9m \u00e9 alvo de fake news e teorias conspirat\u00f3rias. Uma delas trata da origem do Sars-Cov-2, ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/default.jpg",
+          "url": "https://i.ytimg.com/vi/64A47eSUbk8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/64A47eSUbk8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/PpbJNX7ZPq8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/64A47eSUbk8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Canal Butantan",
+      "channelTitle": "Faculdade de Ci\u00eancias M\u00e9dicas da Santa Casa de SP",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-02-28T17:19:25Z"
+      "publishTime": "2020-04-28T15:35:12Z"
     }
   },
   {
@@ -171,40 +205,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "pYxso6bzSHJeAHWbyEys034laGQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "64A47eSUbk8"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-28T15:35:12Z",
-      "channelId": "UCtNAhi_4Lwy5aJlrjlqhUlQ",
-      "title": "ORIGEM DO SARS-COV-2 | Combate ao Coronav\u00edrus",
-      "description": "A #pandemia de #covid19 tamb\u00e9m \u00e9 alvo de fake news e teorias conspirat\u00f3rias. Uma delas trata da origem do Sars-Cov-2, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/64A47eSUbk8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/64A47eSUbk8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/64A47eSUbk8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Faculdade de Ci\u00eancias M\u00e9dicas da Santa Casa de SP",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-28T15:35:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "hQ9xlxxsG9nYKs5TjIh00uVOBt4",
     "id": {
       "kind": "youtube#video",
@@ -273,104 +273,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "zbhaGqLbHi3bKZbPF---wCGMaAA",
+    "etag": "st7ckBeoUrKeqayqQRT_Eu_-Ypo",
     "id": {
       "kind": "youtube#video",
-      "videoId": "ZCYDgvEl5kk"
+      "videoId": "Trr0EBjONds"
     },
     "snippet": {
-      "publishedAt": "2022-05-09T19:34:59Z",
+      "publishedAt": "2022-05-09T20:16:25Z",
       "channelId": "UCv_2kVDXuCkH4LbG2a3Pmpg",
-      "title": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias",
-      "description": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias 10 de maio 09h Abertura ...",
+      "title": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias-11/05",
+      "description": "11 de maio 09h \u2013 Palestra: Mitos e verdades sobre a vacina\u00e7\u00e3o para Covid19: a atua\u00e7\u00e3o da enfermeira nesse cen\u00e1rio.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/default.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/default_live.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/mqdefault_live.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Trr0EBjONds/hqdefault_live.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "UNIFASE",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-09T19:34:59Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "bhDWXgKicEH9s-434mVGP1zcjHE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "jgXUKAnDJ00"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-13T17:30:03Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "NOVO SURTO DE COVID NA EUROPA E CHINA: O QUE EST\u00c1 ACONTECENDO",
-      "description": "Por que a Europa e a China vivem novo surto de COVID? Mesmo com as taxas de vacina\u00e7\u00e3o em alta, a Europa est\u00e1 sofrendo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-13T17:30:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "EElQMK8-6XpDLyO70qo_ttXS8f8",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "J-lBva5d934"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-20T15:00:25Z",
-      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
-      "title": "Mega Vacina\u00e7\u00e3o contra a #Covid19 | 20 a 26 de novembro de 2021",
-      "description": "Hoje \u00e9 dia de Mega Vacina\u00e7\u00e3o!!! E o resto da semana tamb\u00e9m Uma semana inteira para voc\u00ea atualizar o seu ciclo vacinal ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J-lBva5d934/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-20T15:00:25Z"
+      "liveBroadcastContent": "upcoming",
+      "publishTime": "2022-05-09T20:16:25Z"
     }
   },
   {
@@ -409,70 +341,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "wcjdZCm_M2kh-QplGbfbB-A3aaU",
+    "etag": "EElQMK8-6XpDLyO70qo_ttXS8f8",
     "id": {
       "kind": "youtube#video",
-      "videoId": "kq8A5mmApm8"
+      "videoId": "J-lBva5d934"
     },
     "snippet": {
-      "publishedAt": "2022-03-24T20:55:11Z",
-      "channelId": "UCcfVbI2V8GOOhXokGYYopbA",
-      "title": "Deltacron: saiba tudo da variante mista do Coronav\u00edrus! Entenda como essa mistura gen\u00e9tica surgiu",
-      "description": "Em meados de mar\u00e7o de 2022, diversas informa\u00e7\u00f5es a respeito de uma variante mista do SARS-CoV-2 come\u00e7aram a surgir.",
+      "publishedAt": "2021-11-20T15:00:25Z",
+      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
+      "title": "Mega Vacina\u00e7\u00e3o contra a #Covid19 | 20 a 26 de novembro de 2021",
+      "description": "Hoje \u00e9 dia de Mega Vacina\u00e7\u00e3o!!! E o resto da semana tamb\u00e9m Uma semana inteira para voc\u00ea atualizar o seu ciclo vacinal ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/default.jpg",
+          "url": "https://i.ytimg.com/vi/J-lBva5d934/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/J-lBva5d934/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/J-lBva5d934/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UniCi\u00eancia",
+      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-03-24T20:55:11Z"
+      "publishTime": "2021-11-20T15:00:25Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Pw4SRObC5WKCX9QGxdd9Oyaendg",
+    "etag": "bhDWXgKicEH9s-434mVGP1zcjHE",
     "id": {
       "kind": "youtube#video",
-      "videoId": "QQ7fYBwUWQ4"
+      "videoId": "jgXUKAnDJ00"
     },
     "snippet": {
-      "publishedAt": "2021-08-27T13:59:22Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "CoronaVac dobra anticorpos em quem j\u00e1 teve covid-19, revela pesquisa",
-      "description": "Um estudo feito por pesquisadores da Universidade M\u00e9dica de Chongqing, na China, mostrou que a CoronaVac, vacina da ...",
+      "publishedAt": "2021-11-13T17:30:03Z",
+      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
+      "title": "NOVO SURTO DE COVID NA EUROPA E CHINA: O QUE EST\u00c1 ACONTECENDO",
+      "description": "Por que a Europa e a China vivem novo surto de COVID? Mesmo com as taxas de vacina\u00e7\u00e3o em alta, a Europa est\u00e1 sofrendo ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/default.jpg",
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UOL",
+      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-08-27T13:59:22Z"
+      "publishTime": "2021-11-13T17:30:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mQabPyW4YWtg3NJ2YLKXSQ7mXyU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZCYDgvEl5kk"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-10T15:31:22Z",
+      "channelId": "UCv_2kVDXuCkH4LbG2a3Pmpg",
+      "title": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias",
+      "description": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias 10 de maio 09h Abertura ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZCYDgvEl5kk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UNIFASE",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-10T15:31:22Z"
     }
   },
   {
@@ -511,240 +477,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "lg38UIQ4FykDfIXLV_1CFI1JF0g",
+    "etag": "Pw4SRObC5WKCX9QGxdd9Oyaendg",
     "id": {
       "kind": "youtube#video",
-      "videoId": "8HI7WV8egb8"
+      "videoId": "QQ7fYBwUWQ4"
     },
     "snippet": {
-      "publishedAt": "2022-03-29T16:45:00Z",
-      "channelId": "UCcfVbI2V8GOOhXokGYYopbA",
-      "title": "Variante Deltacron: veja como o genoma do Coronav\u00edrus se misturou nesse mutante",
-      "description": "Saiba de modo simples como as informa\u00e7\u00f5es gen\u00e9ticas das variantes Delta e \u00d4micron se misturaram. Nos siga nas redes: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UniCi\u00eancia",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-29T16:45:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "st7ckBeoUrKeqayqQRT_Eu_-Ypo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Trr0EBjONds"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-09T20:16:25Z",
-      "channelId": "UCv_2kVDXuCkH4LbG2a3Pmpg",
-      "title": "Semana de Enfermagem | Enfermagem frente ao novo normal: cen\u00e1rio p\u00f3s Covid-19 e trag\u00e9dias-11/05",
-      "description": "11 de maio 09h \u2013 Palestra: Mitos e verdades sobre a vacina\u00e7\u00e3o para Covid19: a atua\u00e7\u00e3o da enfermeira nesse cen\u00e1rio.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Trr0EBjONds/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Trr0EBjONds/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Trr0EBjONds/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UNIFASE",
-      "liveBroadcastContent": "upcoming",
-      "publishTime": "2022-05-09T20:16:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "GqLnKJdxzOS9pMoWs2K8DF33_Ps",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "rpmZ5BbLm7U"
-    },
-    "snippet": {
-      "publishedAt": "2021-07-15T22:18:54Z",
-      "channelId": "UCYamjJAo9qHUIN1jLYEDN4w",
-      "title": "COVID 19 NA\u0303O FAC\u0327A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS",
-      "description": "COVID 19 N\u00c3O FA\u00c7A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS! Dr. Eduardo Corassa, nutricionista, escritor, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Dr. Corassa SaudeFrugal",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-07-15T22:18:54Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fmJWWceA2y9bRrOhyXBqrZ7kPVQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "qMaVohaAB9s"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-01T18:00:05Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "Contra a covid 19, anticorpos monoclonais",
-      "description": "Pesquisadores do Butantan iniciaram estudos para tentar desenvolver anticorpos monoclonais que possam combater a covid-19.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-01T18:00:05Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "HsHFBWUiknBnYHiVbyHfCI9Rk7s",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "JjPCyk56-ew"
-    },
-    "snippet": {
-      "publishedAt": "2021-05-14T12:50:19Z",
+      "publishedAt": "2021-08-27T13:59:22Z",
       "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Coronavac: &quot;Vamos complementar 2\u00aa dose e 1\u00aa ser\u00e1 com outras vacinas&quot;, diz secret\u00e1rio de sa\u00fade de SP",
-      "description": "O secret\u00e1rio de sa\u00fade do estado de S\u00e3o Paulo, Jean Gorinchteyn, afirmou hoje que a 2\u00aa dose da CoronaVac est\u00e1 garantida para ...",
+      "title": "CoronaVac dobra anticorpos em quem j\u00e1 teve covid-19, revela pesquisa",
+      "description": "Um estudo feito por pesquisadores da Universidade M\u00e9dica de Chongqing, na China, mostrou que a CoronaVac, vacina da ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/default.jpg",
+          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QQ7fYBwUWQ4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "UOL",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-05-14T12:50:19Z"
+      "publishTime": "2021-08-27T13:59:22Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TZjNGtu6pzKLmFrD8sS2bLCvqGI",
+    "etag": "wcjdZCm_M2kh-QplGbfbB-A3aaU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "grMFAdvZ6nM"
+      "videoId": "kq8A5mmApm8"
     },
     "snippet": {
-      "publishedAt": "2021-03-23T23:13:56Z",
-      "channelId": "UCUxggShDIfOkn4c97QV09ng",
-      "title": "Variantes do CORONAV\u00cdRUS e as implica\u00e7\u00f5es no controle da pandemia",
-      "description": "Conversa com o infectologista e professora da UNICID, Dr. Renato Grinbaum e o Prof. Dr. Romulo Oliveira. Estude Medicina na ...",
+      "publishedAt": "2022-03-24T20:55:11Z",
+      "channelId": "UCcfVbI2V8GOOhXokGYYopbA",
+      "title": "Deltacron: saiba tudo da variante mista do Coronav\u00edrus! Entenda como essa mistura gen\u00e9tica surgiu",
+      "description": "Em meados de mar\u00e7o de 2022, diversas informa\u00e7\u00f5es a respeito de uma variante mista do SARS-CoV-2 come\u00e7aram a surgir.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/default.jpg",
+          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kq8A5mmApm8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Unicid - Universidade Cidade de S\u00e3o Paulo",
+      "channelTitle": "UniCi\u00eancia",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-03-23T23:13:56Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "_6TRjQ5hQXFXm8hUTatddtoQZyA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "bXxPvupr6gE"
-    },
-    "snippet": {
-      "publishedAt": "2021-06-03T23:37:22Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "\ud83d\udd34 CORONAVAC REALMENTE FUNCIONOU EM SERRANA? | O que vem pela frente #7",
-      "description": "Os resultados da vacina\u00e7\u00e3o em massa com a Coronavac na cidade de Serrana foram anunciados pela equipe do Instituto ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-06-03T23:37:22Z"
+      "publishTime": "2022-03-24T20:55:11Z"
     }
   },
   {
@@ -783,6 +579,210 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "fmJWWceA2y9bRrOhyXBqrZ7kPVQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qMaVohaAB9s"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-01T18:00:05Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Contra a covid 19, anticorpos monoclonais",
+      "description": "Pesquisadores do Butantan iniciaram estudos para tentar desenvolver anticorpos monoclonais que possam combater a covid-19.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qMaVohaAB9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-01T18:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lg38UIQ4FykDfIXLV_1CFI1JF0g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8HI7WV8egb8"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-29T16:45:00Z",
+      "channelId": "UCcfVbI2V8GOOhXokGYYopbA",
+      "title": "Variante Deltacron: veja como o genoma do Coronav\u00edrus se misturou nesse mutante",
+      "description": "Saiba de modo simples como as informa\u00e7\u00f5es gen\u00e9ticas das variantes Delta e \u00d4micron se misturaram. Nos siga nas redes: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8HI7WV8egb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UniCi\u00eancia",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-29T16:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GqLnKJdxzOS9pMoWs2K8DF33_Ps",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rpmZ5BbLm7U"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-15T22:18:54Z",
+      "channelId": "UCYamjJAo9qHUIN1jLYEDN4w",
+      "title": "COVID 19 NA\u0303O FAC\u0327A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS",
+      "description": "COVID 19 N\u00c3O FA\u00c7A ISSO OS MAIORES ERROS A IMUNIDADE CORONAVIRUS! Dr. Eduardo Corassa, nutricionista, escritor, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rpmZ5BbLm7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dr. Corassa SaudeFrugal",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-15T22:18:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FFVvKrcPbTlaSZit3-qzdFA0ASY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "AENh3ADMZNg"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-11T11:01:05Z",
+      "channelId": "UC04bxzJ3IyLH-G_h0olHvHw",
+      "title": "CRT/DST/AIDS - 2\u00ba Webinar da Transmiss\u00e3o Vertical do HIV - Gestante HIV",
+      "description": "2\u00ba Webinar da Transmiss\u00e3o Vertical do HIV - Gestante HIV Link para registrar sua presen\u00e7a: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AENh3ADMZNg/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AENh3ADMZNg/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AENh3ADMZNg/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Coordenadoria de Controle de Doen\u00e7as ",
+      "liveBroadcastContent": "live",
+      "publishTime": "2022-05-11T11:01:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "HsHFBWUiknBnYHiVbyHfCI9Rk7s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JjPCyk56-ew"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-14T12:50:19Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "Coronavac: &quot;Vamos complementar 2\u00aa dose e 1\u00aa ser\u00e1 com outras vacinas&quot;, diz secret\u00e1rio de sa\u00fade de SP",
+      "description": "O secret\u00e1rio de sa\u00fade do estado de S\u00e3o Paulo, Jean Gorinchteyn, afirmou hoje que a 2\u00aa dose da CoronaVac est\u00e1 garantida para ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JjPCyk56-ew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UOL",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-14T12:50:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_6TRjQ5hQXFXm8hUTatddtoQZyA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "bXxPvupr6gE"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-03T23:37:22Z",
+      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
+      "title": "\ud83d\udd34 CORONAVAC REALMENTE FUNCIONOU EM SERRANA? | O que vem pela frente #7",
+      "description": "Os resultados da vacina\u00e7\u00e3o em massa com a Coronavac na cidade de Serrana foram anunciados pela equipe do Instituto ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bXxPvupr6gE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-03T23:37:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "PKnVxFb9M2e0ySiHOQncOalHgQY",
     "id": {
       "kind": "youtube#video",
@@ -817,6 +817,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "9B9mZVhpBJ9AGHcVIyxyyjT4VDs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "p9Y3EscbF98"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-17T17:52:58Z",
+      "channelId": "UCvNbTU5NSQ_K8cWfY9OmWsw",
+      "title": "O que s\u00e3o subvariantes do novo coronav\u00edrus",
+      "description": "O termo variante se popularizou nos \u00faltimos dois anos, ap\u00f3s a descoberta do novo coronav\u00edrus, o SARS-CoV-2, respons\u00e1vel ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TV UFMG",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-17T17:52:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "yEnCCx9aLK3h0VHQFhSjz3o-ol0",
     "id": {
       "kind": "youtube#video",
@@ -847,6 +881,40 @@
       "channelTitle": "ALEXANDRE LOUREN\u00c7O",
       "liveBroadcastContent": "none",
       "publishTime": "2021-11-08T04:40:50Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TZjNGtu6pzKLmFrD8sS2bLCvqGI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "grMFAdvZ6nM"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-23T23:13:56Z",
+      "channelId": "UCUxggShDIfOkn4c97QV09ng",
+      "title": "Variantes do CORONAV\u00cdRUS e as implica\u00e7\u00f5es no controle da pandemia",
+      "description": "Conversa com o infectologista e professora da UNICID, Dr. Renato Grinbaum e o Prof. Dr. Romulo Oliveira. Estude Medicina na ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/grMFAdvZ6nM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Unicid - Universidade Cidade de S\u00e3o Paulo",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-23T23:13:56Z"
     }
   },
   {
@@ -919,74 +987,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "beeqe_4oA_txAoaRPGT-VuXyOJ0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "sgV1hXIA1FY"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-10T00:29:26Z",
-      "channelId": "UC7jr8vjJXBAILDexKkruiWg",
-      "title": "Enaproc 2021 | Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid",
-      "description": "Palestra de abertura (online) 09/11/2021 das 19h30 \u00e0s 22h T\u00edtulo: Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Uniuv",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-10T00:29:26Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "9B9mZVhpBJ9AGHcVIyxyyjT4VDs",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "p9Y3EscbF98"
-    },
-    "snippet": {
-      "publishedAt": "2022-02-17T17:52:58Z",
-      "channelId": "UCvNbTU5NSQ_K8cWfY9OmWsw",
-      "title": "O que s\u00e3o subvariantes do novo coronav\u00edrus",
-      "description": "O termo variante se popularizou nos \u00faltimos dois anos, ap\u00f3s a descoberta do novo coronav\u00edrus, o SARS-CoV-2, respons\u00e1vel ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/p9Y3EscbF98/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TV UFMG",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-02-17T17:52:58Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "slopmogClpYRoKJtgLxBzYkiraA",
     "id": {
       "kind": "youtube#video",
@@ -1017,40 +1017,6 @@
       "channelTitle": "SBMAC",
       "liveBroadcastContent": "none",
       "publishTime": "2021-05-14T12:00:04Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ZUUB0PFnpWJuOuIZ2naFqoKV6WU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "95YKrqVNd8I"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-08T01:01:10Z",
-      "channelId": "UCb9qN-IMnT4ApURYwwClrpg",
-      "title": "UNICAMP 2022 - 1a Fase - Quest\u00e3o 69 - Teorias sobre como o novo coronav\u00edrus (SARS-CoV-2) que passou",
-      "description": "Teorias sobre como o novo coronav\u00edrus (SARS-CoV-2) que passou a infectar os humanos surgiram em 2019. Foi aventada a ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "QUIBIO com Vitor Considera",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-08T01:01:10Z"
     }
   },
   {
@@ -1089,36 +1055,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "4mUfLsMTLtXBHM0NDhhec7Niqi4",
+    "etag": "beeqe_4oA_txAoaRPGT-VuXyOJ0",
     "id": {
       "kind": "youtube#video",
-      "videoId": "L3O669H3O3w"
+      "videoId": "sgV1hXIA1FY"
     },
     "snippet": {
-      "publishedAt": "2020-05-31T07:36:06Z",
-      "channelId": "UCiMJ-i6sdyd-HKE8TeKqcxQ",
-      "title": "Os Impactos Do Corona V\u00edrus No Sistema Carcer\u00e1rio Brasileiro #SDUemCASA",
-      "description": "Semana Do Direito Unifor #SDUemCASA Os Impactos Do Corona V\u00edrus No Sistema Carcer\u00e1rio Brasileiro Paulo Meyer e F\u00e1bio ...",
+      "publishedAt": "2021-11-10T00:29:26Z",
+      "channelId": "UC7jr8vjJXBAILDexKkruiWg",
+      "title": "Enaproc 2021 | Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid",
+      "description": "Palestra de abertura (online) 09/11/2021 das 19h30 \u00e0s 22h T\u00edtulo: Ci\u00eancia brasileira: Da pesquisa universit\u00e1ria ao soro anti-covid ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/L3O669H3O3w/default.jpg",
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/L3O669H3O3w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/L3O669H3O3w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sgV1hXIA1FY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Centro Acad\u00eamico Arnaldo Vasconcelos",
+      "channelTitle": "Uniuv",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-31T07:36:06Z"
+      "publishTime": "2021-11-10T00:29:26Z"
     }
   },
   {
@@ -1157,36 +1123,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Qi4tJ_Rj3LZeDuSKVx8IwpODYT8",
+    "etag": "4mUfLsMTLtXBHM0NDhhec7Niqi4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "5mLWsONUbzU"
+      "videoId": "L3O669H3O3w"
     },
     "snippet": {
-      "publishedAt": "2021-12-03T13:10:16Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "A Coronavac \u00e9 segura?",
-      "description": "CORONAVAC \u00c9 SEGURA | \u2713 A diretora de Assuntos Regulat\u00f3rios e de Qualidade do Butantan, Patr\u00edcia Meneguello, costuma ...",
+      "publishedAt": "2020-05-31T07:36:06Z",
+      "channelId": "UCiMJ-i6sdyd-HKE8TeKqcxQ",
+      "title": "Os Impactos Do Corona V\u00edrus No Sistema Carcer\u00e1rio Brasileiro #SDUemCASA",
+      "description": "Semana Do Direito Unifor #SDUemCASA Os Impactos Do Corona V\u00edrus No Sistema Carcer\u00e1rio Brasileiro Paulo Meyer e F\u00e1bio ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/default.jpg",
+          "url": "https://i.ytimg.com/vi/L3O669H3O3w/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/L3O669H3O3w/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/L3O669H3O3w/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Canal Butantan",
+      "channelTitle": "Centro Acad\u00eamico Arnaldo Vasconcelos",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-12-03T13:10:16Z"
+      "publishTime": "2020-05-31T07:36:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZUUB0PFnpWJuOuIZ2naFqoKV6WU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "95YKrqVNd8I"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-08T01:01:10Z",
+      "channelId": "UCb9qN-IMnT4ApURYwwClrpg",
+      "title": "UNICAMP 2022 - 1a Fase - Quest\u00e3o 69 - Teorias sobre como o novo coronav\u00edrus (SARS-CoV-2) que passou",
+      "description": "Teorias sobre como o novo coronav\u00edrus (SARS-CoV-2) que passou a infectar os humanos surgiram em 2019. Foi aventada a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/95YKrqVNd8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "QUIBIO com Vitor Considera",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-08T01:01:10Z"
     }
   },
   {
@@ -1225,40 +1225,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Zn-7IS2SeEZAuY4VHXryqVsoyQ0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "BRrrvL4_BP8"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-14T19:04:49Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "Saiba como baixar o Dossi\u00ea CoronaVac",
-      "description": "Neste v\u00eddeo, um passo a passo mostra a melhor forma de acessar o documento \u201cCoronaVac - o que a ci\u00eancia comprova\u201d, com ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-14T19:04:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "cREGGRq1n40ArjMsuIXVmErnzUE",
     "id": {
       "kind": "youtube#video",
@@ -1289,108 +1255,6 @@
       "channelTitle": "Canal Butantan",
       "liveBroadcastContent": "none",
       "publishTime": "2022-02-18T18:05:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "T9OOCQCbJyuCaqzJDUEJmYoX8UQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "AXXlAJjAdHk"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-29T17:16:46Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "A efic\u00e1cia da CoronaVac t\u00e1 ON!",
-      "description": "A primeira vacina a chegar nos bra\u00e7os dos brasileiros e a mais aplicada no mundo completou um ano de efic\u00e1cia e seguran\u00e7a, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-29T17:16:46Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "VWlWYER0ilaNO1S70Cr1z0zY_E0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "1M0IvzBWH6U"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-06T13:07:53Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "Experi\u00eancia com a Coronavac no Chile mostra que o imunizante \u00e9 ainda mais eficaz em crian\u00e7as",
-      "description": "O recado vem de Alexis Kalergis, professor da Faculdade de Medicina da Pontif\u00edcia Universidade Cat\u00f3lica do Chile: usada em ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-06T13:07:53Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rNTfQBU30q51w39dMdEXpFap7Tg",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "VQyPjOBFjCY"
-    },
-    "snippet": {
-      "publishedAt": "2021-10-21T13:04:52Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "Pesquisador do Butantan explica nova fase de estudos da Coronavac em Serrana",
-      "description": "A nova fase do estudo pioneiro que o Butantan desenvolve em Serrana, para acompanhar a efetividade da Coronavac, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-10-21T13:04:52Z"
     }
   },
   {
@@ -1429,6 +1293,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "Zn-7IS2SeEZAuY4VHXryqVsoyQ0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BRrrvL4_BP8"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-14T19:04:49Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Saiba como baixar o Dossi\u00ea CoronaVac",
+      "description": "Neste v\u00eddeo, um passo a passo mostra a melhor forma de acessar o documento \u201cCoronaVac - o que a ci\u00eancia comprova\u201d, com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BRrrvL4_BP8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-14T19:04:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "_iOBpVXS6rXbgeuFZzd6qz1xqZ4",
     "id": {
       "kind": "youtube#video",
@@ -1463,104 +1361,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Q88Bxyqcx0u3daG8kqKxysFwOgE",
+    "etag": "T9OOCQCbJyuCaqzJDUEJmYoX8UQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "TKWoHRot2ao"
+      "videoId": "AXXlAJjAdHk"
     },
     "snippet": {
-      "publishedAt": "2021-07-20T13:00:11Z",
+      "publishedAt": "2022-01-29T17:16:46Z",
       "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "M\u00f4nica: \u201cSou a Prova Viva de que a Coronavac \u00e9 Eficaz",
-      "description": "A enfermeira M\u00f4nica Calazans disse que \u00e9 a prova viva da efic\u00e1cia da Coronavac, a vacina do Butantan contra a Covid-19.",
+      "title": "A efic\u00e1cia da CoronaVac t\u00e1 ON!",
+      "description": "A primeira vacina a chegar nos bra\u00e7os dos brasileiros e a mais aplicada no mundo completou um ano de efic\u00e1cia e seguran\u00e7a, ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/default.jpg",
+          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AXXlAJjAdHk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Canal Butantan",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-07-20T13:00:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "sLRhi1zUALQ45U70PV5fQucaM7I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "-ej-p6RfZVM"
-    },
-    "snippet": {
-      "publishedAt": "2021-12-07T14:06:32Z",
-      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
-      "title": "Simp\u00f3sio CoronaVac - Dia 1 \u2013 Efic\u00e1cia, efici\u00eancia e seguran\u00e7a da CoronaVac",
-      "description": "Instituto Butantan - A servi\u00e7o da Vida \u25b7 Inscreva-se, curta e compartilhe! #Instituto Butantan #Ci\u00eancia #Educa\u00e7\u00e3o.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Butantan",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-12-07T14:06:32Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "BA4JTlyWvpytlfYj5fFDStjXKSg",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "zdmnmRJj6SA"
-    },
-    "snippet": {
-      "publishedAt": "2021-10-19T21:17:17Z",
-      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "Coronavac: 99% dos volunt\u00e1rios t\u00eam anticorpos ap\u00f3s vacina\u00e7\u00e3o em massa em Serrana | CNN 360",
-      "description": "Mat\u00e9ria exibida no CNN 360 do dia 19 de outubro de 2021 #CNNBrasil Inscreva-se no canal da CNN Brasil no YouTube: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CNN Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-10-19T21:17:17Z"
+      "publishTime": "2022-01-29T17:16:46Z"
     }
   },
   {
@@ -1633,70 +1463,240 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "oPVvnK8J2-cNFOmVPyDRQ_4rZSs",
+    "etag": "sLRhi1zUALQ45U70PV5fQucaM7I",
     "id": {
       "kind": "youtube#video",
-      "videoId": "d4rPB6Kl6GU"
+      "videoId": "-ej-p6RfZVM"
     },
     "snippet": {
-      "publishedAt": "2021-09-03T20:16:38Z",
-      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "Anvisa e Butantan se re\u00fanem para discutir uso da Coronavac como dose de refor\u00e7o | CNN 360",
-      "description": "Mat\u00e9ria exibida no CNN 360 do dia 3 de setembro de 2021. #CNNBrasil Inscreva-se no canal da CNN Brasil no YouTube: ...",
+      "publishedAt": "2021-12-07T14:06:32Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Simp\u00f3sio CoronaVac - Dia 1 \u2013 Efic\u00e1cia, efici\u00eancia e seguran\u00e7a da CoronaVac",
+      "description": "Instituto Butantan - A servi\u00e7o da Vida \u25b7 Inscreva-se, curta e compartilhe! #Instituto Butantan #Ci\u00eancia #Educa\u00e7\u00e3o.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/d4rPB6Kl6GU/default.jpg",
+          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/d4rPB6Kl6GU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/d4rPB6Kl6GU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-ej-p6RfZVM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-07T14:06:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VWlWYER0ilaNO1S70Cr1z0zY_E0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1M0IvzBWH6U"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-06T13:07:53Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Experi\u00eancia com a Coronavac no Chile mostra que o imunizante \u00e9 ainda mais eficaz em crian\u00e7as",
+      "description": "O recado vem de Alexis Kalergis, professor da Faculdade de Medicina da Pontif\u00edcia Universidade Cat\u00f3lica do Chile: usada em ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1M0IvzBWH6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-06T13:07:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Qi4tJ_Rj3LZeDuSKVx8IwpODYT8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5mLWsONUbzU"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-03T13:10:16Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "A Coronavac \u00e9 segura?",
+      "description": "CORONAVAC \u00c9 SEGURA | \u2713 A diretora de Assuntos Regulat\u00f3rios e de Qualidade do Butantan, Patr\u00edcia Meneguello, costuma ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5mLWsONUbzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-12-03T13:10:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rNTfQBU30q51w39dMdEXpFap7Tg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VQyPjOBFjCY"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-21T13:04:52Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "Pesquisador do Butantan explica nova fase de estudos da Coronavac em Serrana",
+      "description": "A nova fase do estudo pioneiro que o Butantan desenvolve em Serrana, para acompanhar a efetividade da Coronavac, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VQyPjOBFjCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-21T13:04:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Q88Bxyqcx0u3daG8kqKxysFwOgE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TKWoHRot2ao"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-20T13:00:11Z",
+      "channelId": "UC5Bh3Ljo71O9uML6paQVAfQ",
+      "title": "M\u00f4nica: \u201cSou a Prova Viva de que a Coronavac \u00e9 Eficaz",
+      "description": "A enfermeira M\u00f4nica Calazans disse que \u00e9 a prova viva da efic\u00e1cia da Coronavac, a vacina do Butantan contra a Covid-19.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TKWoHRot2ao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Canal Butantan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-20T13:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BA4JTlyWvpytlfYj5fFDStjXKSg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zdmnmRJj6SA"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-19T21:17:17Z",
+      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+      "title": "Coronavac: 99% dos volunt\u00e1rios t\u00eam anticorpos ap\u00f3s vacina\u00e7\u00e3o em massa em Serrana | CNN 360",
+      "description": "Mat\u00e9ria exibida no CNN 360 do dia 19 de outubro de 2021 #CNNBrasil Inscreva-se no canal da CNN Brasil no YouTube: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zdmnmRJj6SA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "CNN Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-09-03T20:16:38Z"
+      "publishTime": "2021-10-19T21:17:17Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "UYAew8DpqmE3v0eJf-r6zmzS1ck",
+    "etag": "EYZc_OqixA7p7WyT8jur85-fQBY",
     "id": {
       "kind": "youtube#video",
-      "videoId": "kMEgDJr74IA"
+      "videoId": "CG02ZR6jwms"
     },
     "snippet": {
-      "publishedAt": "2021-01-18T21:40:16Z",
-      "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
-      "title": "Butantan pede \u00e0 Anvisa uso emergencial de toda produ\u00e7\u00e3o da CoronaVac",
-      "description": "O Instituto Butantan enviou \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria mais um pedido para o uso emergencial da CoronaVac.",
+      "publishedAt": "2021-09-15T16:27:54Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "CoronaVac: Butantan concluiu entrega das 100 milh\u00f5es de doses ao Minist\u00e9rio da Sa\u00fade, diz Doria",
+      "description": "O governador de S\u00e3o Paulo, Jo\u00e3o Doria (PSDB), informou hoje que o Instituto Butantan concluiu a entrega das 100 milh\u00f5es de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kMEgDJr74IA/default.jpg",
+          "url": "https://i.ytimg.com/vi/CG02ZR6jwms/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kMEgDJr74IA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CG02ZR6jwms/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kMEgDJr74IA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CG02ZR6jwms/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Jornal da Record",
+      "channelTitle": "UOL",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-01-18T21:40:16Z"
+      "publishTime": "2021-09-15T16:27:54Z"
     }
   }
 ]

@@ -1,6 +1,40 @@
 [
   {
     "kind": "youtube#searchResult",
+    "etag": "6g7Vp-Knt8I4XPruK2L7tcRIJLY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eneqjCVF2R4"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-03T17:45:00Z",
+      "channelId": "UC6ZImLwiIaVRYIGycqh5iLA",
+      "title": "COVID-19: app alerta se voc\u00ea esteve pr\u00f3ximo de algu\u00e9m",
+      "description": "iOS: https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382 Android: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eneqjCVF2R4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eneqjCVF2R4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eneqjCVF2R4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "MacMagazine",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-03T17:45:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "seHWEOY1C9RXT3e-RZQomvtgdKg",
     "id": {
       "kind": "youtube#video",
@@ -35,104 +69,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "cfnV8mUPttHXAYs-_SPi65bqXaE",
+    "etag": "2YfKRW8TfraXz2SycMe4kGh5WyY",
     "id": {
       "kind": "youtube#video",
-      "videoId": "OTycBm4N8to"
+      "videoId": "8PHWHuAv2hY"
     },
     "snippet": {
-      "publishedAt": "2020-05-20T18:30:27Z",
-      "channelId": "UCV6Ue4o5UIeKQ3IEkjnXRlg",
-      "title": "Amarga realidade: o colapso do SUS em Manaus na pandemia de coronav\u00edrus",
-      "description": "Descaso hist\u00f3rico com o sistema p\u00fablico de sa\u00fade escancarou as falhas em meio \u00e0 pandemia Desde o in\u00edcio da pandemia de ...",
+      "publishedAt": "2021-07-06T14:00:02Z",
+      "channelId": "UC1Nm7gQCcGvgLyVcGTXp-Ww",
+      "title": "QUAIS S\u00c3O OS TESTES PARA COVID? CONSIGO FAZER PELO SUS?",
+      "description": "Fizemos uma s\u00e9rie de v\u00eddeos para responder as principais d\u00favidas relacionadas a Coronav\u00edrus-(COVID 19). Abaixo voc\u00ea ver\u00e1 ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/OTycBm4N8to/default.jpg",
+          "url": "https://i.ytimg.com/vi/8PHWHuAv2hY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/OTycBm4N8to/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8PHWHuAv2hY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/OTycBm4N8to/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8PHWHuAv2hY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "vejapontocom",
+      "channelTitle": "DOUTOR AJUDA",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-20T18:30:27Z"
+      "publishTime": "2021-07-06T14:00:02Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "qyqqWIbb2i-3h8DqMphZIhe5Mgg",
+    "etag": "ACPaseGAfzUAK0JhlDjbEWtV3XM",
     "id": {
       "kind": "youtube#video",
-      "videoId": "ew2zOUzebbk"
+      "videoId": "PjG_imUHTSI"
     },
     "snippet": {
-      "publishedAt": "2020-06-13T01:08:11Z",
-      "channelId": "UCV6Ue4o5UIeKQ3IEkjnXRlg",
-      "title": "Coronav\u00edrus: M\u00e9dicos e equipes do SUS se mobilizam para um tratamento mais humanizado",
-      "description": "M\u00e9dicos mudam protocolos e criam gestos solid\u00e1rios para tratar de pacientes com Covid-19 que est\u00e3o sendo tratados no ...",
+      "publishedAt": "2020-07-31T18:15:08Z",
+      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
+      "title": "Aplicativo Coronav\u00edrus-SUS vai alertar contatos pr\u00f3ximos de pacientes com Covid-19",
+      "description": "Uma nova funcionalidade do aplicativo Coronav\u00edrus-SUS vai alertar, pelo celular, em at\u00e9 24 horas, sobre pessoas que testaram ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ew2zOUzebbk/default.jpg",
+          "url": "https://i.ytimg.com/vi/PjG_imUHTSI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ew2zOUzebbk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PjG_imUHTSI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ew2zOUzebbk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PjG_imUHTSI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "vejapontocom",
+      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-06-13T01:08:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "wlKa42wgep2j2rk1mZ776hGa59U",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "fz5xFui6A_M"
-    },
-    "snippet": {
-      "publishedAt": "2021-03-29T17:01:36Z",
-      "channelId": "UCYhTgGdeaBbbZ-h_LVJ_6bw",
-      "title": "O papel do SUS no combate \u00e0 pandemia",
-      "description": "Crucial no combate \u00e0 Covid-19, Sistema \u00danico de Sa\u00fade enfrenta problemas novos e antigos de financiamento e governan\u00e7a ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fz5xFui6A_M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Pesquisa Fapesp",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-03-29T17:01:36Z"
+      "publishTime": "2020-07-31T18:15:08Z"
     }
   },
   {
@@ -171,36 +171,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "gyAUdB9c6gSd2Hljn0oUbViDxk8",
+    "etag": "zfZ51oD0B_1bqVyMA9PHNpVEpQc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "fd48SJJG2W4"
+      "videoId": "ieX1ns4Y8c0"
     },
     "snippet": {
-      "publishedAt": "2020-05-06T11:00:23Z",
-      "channelId": "UCH_1KYAb6ksNnEZeZVsX21w",
-      "title": "Coronav\u00edrus: como seria a pandemia sem o SUS?",
-      "description": "SUS | Como o Brasil enfrentaria a pandemia de coronav\u00edrus sem o Sistema \u00danico de Sa\u00fade (SUS)? A m\u00e9dica sanitarista e ...",
+      "publishedAt": "2020-03-16T23:14:30Z",
+      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
+      "title": "Sem o SUS, Brasil n\u00e3o sobrevive ao coronav\u00edrus   \ud83d\udcf0",
+      "description": "O mundo vive uma pandemia do novo Coronav\u00edrus. Foram registrados mais de 142 mil casos em pelo menos 118 pa\u00edses, com ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/default.jpg",
+          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "SindM\u00e9dico DF",
+      "channelTitle": "Rede TVT",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-06T11:00:23Z"
+      "publishTime": "2020-03-16T23:14:30Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "I-7cwki3m6sMFMWD6q3adCPVs7M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-lspsHuNdxs"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-07T20:36:57Z",
+      "channelId": "UCfhxOWElbOLDkERStLYBNsg",
+      "title": "Um novo SUS: como a experi\u00eancia da covid-19 pode mudar a sa\u00fade p\u00fablica brasileira?",
+      "description": "Depois de mais de 5 meses de pandemia no Brasil, um fato ficou claro: a sa\u00fade privada e a sa\u00fade p\u00fablica no Brasil precisam se ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-lspsHuNdxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-lspsHuNdxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-lspsHuNdxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Iniciativa FIS",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-07T20:36:57Z"
     }
   },
   {
@@ -239,6 +273,74 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "vKrG7ZHQF5bDbUWctFHQ2k6_u2E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lbADq5gE4Bw"
+    },
+    "snippet": {
+      "publishedAt": "2021-06-05T14:00:12Z",
+      "channelId": "UCfFw6wqd0GfHOp0R2fv8U1Q",
+      "title": "COVID | A import\u00e2ncia do SUS e as falhas no combate \u00e0 pandemia",
+      "description": "Diversas falhas aconteceram no combate a pandemia. O SUS poderia ter tido um impacto muito maior no controle da doen\u00e7a se ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lbADq5gE4Bw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lbADq5gE4Bw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lbADq5gE4Bw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dr. Felipe Ades MD PhD",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-06-05T14:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GsLVwL1E4mpPAhDnBxi66HMyLqM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VzROMO1QwEY"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-17T11:56:59Z",
+      "channelId": "UCyqHJyftZwZ-JN982EYM32A",
+      "title": "Sintomas do Coronav\u00edrus = Minist\u00e9rio da Sa\u00fade (SUS)",
+      "description": "Coronav\u00edrus em tempo real: mapa interativo mostra regi\u00f5es mais afetadas do globo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VzROMO1QwEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VzROMO1QwEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VzROMO1QwEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TVC\u00e2maraJP",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-17T11:56:59Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "jT7owmgPu7auf5wtaRdzs1T2qJA",
     "id": {
       "kind": "youtube#video",
@@ -273,1056 +375,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ggxbG7kHFFOsL6RzrXND871nVEE",
+    "etag": "gyAUdB9c6gSd2Hljn0oUbViDxk8",
     "id": {
       "kind": "youtube#video",
-      "videoId": "mHWoUs--0Do"
+      "videoId": "fd48SJJG2W4"
     },
     "snippet": {
-      "publishedAt": "2020-04-27T11:18:28Z",
-      "channelId": "UC4MWeXk20bRyIGQsiZXPe6Q",
-      "title": "COVID 19 - CORONAVI\u0301RUS | S\u00c9RIE SA\u00daDE BRASIL",
-      "description": "O ano de 2020 n\u00e3o ser\u00e1 esquecido na hist\u00f3ria da humanidade. Tudo por causa do surgimento de um v\u00edrus que tem vitimado ...",
+      "publishedAt": "2020-05-06T11:00:23Z",
+      "channelId": "UCH_1KYAb6ksNnEZeZVsX21w",
+      "title": "Coronav\u00edrus: como seria a pandemia sem o SUS?",
+      "description": "SUS | Como o Brasil enfrentaria a pandemia de coronav\u00edrus sem o Sistema \u00danico de Sa\u00fade (SUS)? A m\u00e9dica sanitarista e ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/default.jpg",
+          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fd48SJJG2W4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Tv Sa\u00fade Brasil",
+      "channelTitle": "SindM\u00e9dico DF",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-04-27T11:18:28Z"
+      "publishTime": "2020-05-06T11:00:23Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "JWkS8CZyNtBC5z-qI66bdM4plfQ",
+    "etag": "x4wpFYBUaZLrhCGU2QrmpncYe9k",
     "id": {
       "kind": "youtube#video",
-      "videoId": "yb11I8TYYfI"
+      "videoId": "5ntg11JvW6U"
     },
     "snippet": {
-      "publishedAt": "2020-04-21T03:36:34Z",
-      "channelId": "UCP391YRAjSOdM_bwievgaZA",
-      "title": "Debate - Coronav\u00edrus: O papel do SUS no combate \u00e0 pandemia",
-      "description": "Em mais uma edi\u00e7\u00e3o do 'Debate - Coronav\u00edrus', os m\u00e9dicos Fernando Maluf, Roberto Kallil Filho e o ex-ministro da Sa\u00fade, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yb11I8TYYfI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yb11I8TYYfI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yb11I8TYYfI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jovem Pan News",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-21T03:36:34Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "gK2GMgQDo76a3fNUbV-GlN5bEfo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "5Ivy_ADtlsA"
-    },
-    "snippet": {
-      "publishedAt": "2020-10-23T01:18:34Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "Pesquisadores avaliam li\u00e7\u00f5es aprendidas com pandemia do coronav\u00edrus",
-      "description": "Depois de quase sete meses de pandemia, pesquisadores analisam os impactos do novo coronav\u00edrus no sistema de sa\u00fade e ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5Ivy_ADtlsA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5Ivy_ADtlsA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5Ivy_ADtlsA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-10-23T01:18:34Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "GpYgl8Zuf3BGCIh1KC5A8zlk61k",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "3nkRG8H74js"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-25T13:00:01Z",
-      "channelId": "UC0Q3GfF9amdyyjTA9DpTnyw",
-      "title": "Covid-19 e a Import\u00e2ncia do SUS \u2013 Boletim Corona",
-      "description": "Boletim Corona \u2013 Covid-19 e a Import\u00e2ncia do SUS: Esta edi\u00e7\u00e3o do Boletim Corona fala sobre a import\u00e2ncia do Sistema \u00danico ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3nkRG8H74js/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3nkRG8H74js/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3nkRG8H74js/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Sa\u00fade Oficial",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-25T13:00:01Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "72CpeAdINkK3hcoI8gnB3NTQd_I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "v3DUnDZFFC0"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-12T01:19:28Z",
-      "channelId": "UC-6xqzMBF2CXTImn_a4aCVg",
-      "title": "O novo coronav\u00edrus \u00e9 classificado como pandemia",
-      "description": "Em pronunciamento oficial, o diretor-geral da OMS, Tedros Ghebreyesus, elevou o status de dissemina\u00e7\u00e3o do novo Coronavirus ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/v3DUnDZFFC0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/v3DUnDZFFC0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/v3DUnDZFFC0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornal O Globo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-12T01:19:28Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "zfZ51oD0B_1bqVyMA9PHNpVEpQc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ieX1ns4Y8c0"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-16T23:14:30Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "Sem o SUS, Brasil n\u00e3o sobrevive ao coronav\u00edrus   \ud83d\udcf0",
-      "description": "O mundo vive uma pandemia do novo Coronav\u00edrus. Foram registrados mais de 142 mil casos em pelo menos 118 pa\u00edses, com ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ieX1ns4Y8c0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-16T23:14:30Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "H1jqtdDOlrbWhWUrrI0-8wzuwVc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ZEzVvj8X0J8"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-26T21:49:56Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Covid: por que variante detectada na \u00c1frica do Sul pode ser &#39;pior j\u00e1 existente&#39;",
-      "description": "Uma nova variante do coronav\u00edrus detectada na \u00c1frica do Sul foi classificada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) como ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BBC News Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-26T21:49:56Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "qKblQIBcJSK2s3NqsEHtuEmRmzw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "quO7Cbe9nNE"
-    },
-    "snippet": {
-      "publishedAt": "2020-10-17T01:13:33Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "SUS mostrou sua import\u00e2ncia durante a pandemia",
-      "description": "Criado h\u00e1 32 anos, pela Constitui\u00e7\u00e3o de 1988, o SUS \u00e9 t\u00e3o importante no Brasil que acolheu em Bras\u00edlia a primeira v\u00edtima da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/quO7Cbe9nNE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/quO7Cbe9nNE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/quO7Cbe9nNE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-10-17T01:13:33Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Hj7pzfNcA9I87WAAJ2kXPic8s5w",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "pDLsQT3xIjk"
-    },
-    "snippet": {
-      "publishedAt": "2022-03-11T12:18:33Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Covid: Fim da pandemia anunciado neste ano \u00e9 poss\u00edvel, mas variantes podem atrapalhar, diz m\u00e9dico",
-      "description": "Em entrevista ao UOL News, os m\u00e9dicos Gonzalo Vecina Neto, ex-presidente da Anvisa, e Marco Aur\u00e9lio S\u00e1fadi, infectologista, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pDLsQT3xIjk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pDLsQT3xIjk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pDLsQT3xIjk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-11T12:18:33Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ZPKbd5BgMtDs3al5jRHJb0SXSeo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "KJ4evTcrJSQ"
-    },
-    "snippet": {
-      "publishedAt": "2022-03-14T21:00:07Z",
-      "channelId": "UCOnuheHbS2DgZiAZFL0-Sbg",
-      "title": "China: surto de covid-19 mais grave desde o in\u00edcio da pandemia",
-      "description": "Na China, o aumento de casos de covid faz com que autoridades adotem medidas de confinamento e autorizem a venda de ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Brasil de Fato",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-14T21:00:07Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "AUWHbgeyMuZnymK6ZX8YB2R0nKc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "T2zAei4IPCQ"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-03T20:47:45Z",
-      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
-      "title": "China enfrenta novo surto de covid-19 e pede que popula\u00e7\u00e3o estoque comida",
-      "description": "Primeiro pa\u00eds a enfrentar o coronav\u00edrus, a China conseguiu controlar a pandemia amplamente desde o in\u00edcio de 2020, com ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "exame",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-03T20:47:45Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "8-EEVkjr0UZCUuJAHE9a2NDtHmc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "WnNENLMyqfA"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-08T20:35:14Z",
-      "channelId": "UC1776BaMxEfOYH19UhsQ5Vw",
-      "title": "A pandemia do coronav\u00edrus | UNICEF Brasil",
-      "description": "Todo mundo j\u00e1 ouviu falar do novo coronav\u00edrus, mas voc\u00ea sabe o que \u00e9 uma pandemia e como voc\u00ea pode contribuir ativamente ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UNICEF Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-08T20:35:14Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fJY-v8V1y2ArdwXWIeedRKMAhXo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "YwUu1aXWY7w"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-02T00:58:55Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "Diretora-Geral da OMS diz que pandemia da Covid-19 n\u00e3o ir\u00e1 acabar 2022",
-      "description": "Em entrevista exclusiva ao #JornaldaCultura, Mari\u00e2ngela Sim\u00e3o, diretora-geral assistente da OMS diz que a pandemia n\u00e3o ir\u00e1 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornalismo TV Cultura",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-02T00:58:55Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ZFs0C3oCWtoOjRUOefAENOSiSwA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "B50e1shPp8g"
-    },
-    "snippet": {
-      "publishedAt": "2022-04-17T00:50:08Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "China vive novo surto de Covid-19 e v\u00ea casos aumentando mesmo com medidas restritivas",
-      "description": "A cidade de Xangai, a mais populosa do pa\u00eds, registrou recorde de casos em um \u00fanico dia. Mesmo o governo adotando ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/B50e1shPp8g/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/B50e1shPp8g/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/B50e1shPp8g/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornalismo TV Cultura",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-04-17T00:50:08Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "NV2eyk9Tt3jXtIQ4qjjQJ9arluY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "YkjQQAHX3XY"
-    },
-    "snippet": {
-      "publishedAt": "2020-12-16T00:30:11Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "\ud83d\udd34 Capacidade do SUS no enfrentamento \u00e0 pandemia da Covid-19 \u2013 Le Monde Diplomatique Brasil",
-      "description": "O Le Monde Diplomatique debate a capacidade do SUS (Sistema \u00danico de Sa\u00fade) no enfrentamento da pandemia no Brasil.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YkjQQAHX3XY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YkjQQAHX3XY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YkjQQAHX3XY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-12-16T00:30:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "IxM9XkC-cW_vTk4VGat2eSOhaeo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "jiPDhhbm7lU"
-    },
-    "snippet": {
-      "publishedAt": "2020-02-26T10:35:51Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Coronav\u00edrus: entenda diferen\u00e7a entre covid-19 e pandemias como gripe espanhola",
-      "description": "Desde que surgiu, na cidade chinesa de Wuhan, a doen\u00e7a covid-19 j\u00e1 se espalhou por mais de 35 pa\u00edses. Com mais de 80 mil ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jiPDhhbm7lU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jiPDhhbm7lU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jiPDhhbm7lU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BBC News Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-02-26T10:35:51Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "AlzqhifIYuUQoG99O6j9ZNkVEMY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "BEI_VGpmaBE"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-11T16:03:35Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "Europa vive nova explos\u00e3o de casos e mortes por Covid-19",
-      "description": "Apesar de muitos acreditarem que a pandemia chegou ao fim, a Europa vive uma nova explos\u00e3o de casos e mortes pelo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BEI_VGpmaBE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BEI_VGpmaBE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BEI_VGpmaBE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornalismo TV Cultura",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-11T16:03:35Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rekxLaE8JtoRqcY20NxutA7Tk8I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "XB3cjZsuWkA"
-    },
-    "snippet": {
-      "publishedAt": "2021-03-22T19:16:31Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "Import\u00e2ncia do SUS na pandemia",
-      "description": "Helena Nader, biom\u00e9dica, em entrevista ao Brasil TVT, fala da pandemia no Brasil e da import\u00e2ncia no SUS no combate ao ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XB3cjZsuWkA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XB3cjZsuWkA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XB3cjZsuWkA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-03-22T19:16:31Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "svN7K1mc8xnuqyvHWb_cFgk9KDY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "vWePGmvuAx0"
-    },
-    "snippet": {
-      "publishedAt": "2020-09-29T12:38:34Z",
-      "channelId": "UCaJCbN2hGuwp-3o_5oTHFdA",
-      "title": "A pandemia da COVID 19: como tudo come\u00e7ou e porque o v\u00edrus se espalhou pelo mundo?",
-      "description": "Confer\u00eancia Magna do 1\u00ba Congresso Virtual da SBPC/ML A pandemia da COVID 19: como tudo come\u00e7ou e porque o v\u00edrus se ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vWePGmvuAx0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vWePGmvuAx0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vWePGmvuAx0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "SBPC/ML",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-09-29T12:38:34Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "KRSIBSS9dshoOQp0I6L21fVxmZA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "EPBhiUbGAc8"
-    },
-    "snippet": {
-      "publishedAt": "2022-01-11T16:23:56Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Covid: Brasil ter\u00e1 recorde de casos di\u00e1rios nas pr\u00f3ximas semanas por \u00f4micron, diz infectologista",
-      "description": "Em entrevista ao UOL News, o m\u00e9dico pediatra infectologista Renato Kfouri, da Sociedade Brasileira de Imuniza\u00e7\u00f5es (SBIm), ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EPBhiUbGAc8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EPBhiUbGAc8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EPBhiUbGAc8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-01-11T16:23:56Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "FENBsYF6e_aARAsMiFh5TPGv_9U",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "gzd_gFSBqkM"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-23T19:09:45Z",
-      "channelId": "UCj-RTZE-V3Q6jleatRR9k2A",
-      "title": "Os desafios do SUS na pandemia do novo coronav\u00edrus",
-      "description": "A pandemia do novo coronav\u00edrus tem mexido com as estruturas de sistemas de sa\u00fade em todo o mundo. Pa\u00edses de todos os ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gzd_gFSBqkM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gzd_gFSBqkM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gzd_gFSBqkM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "O POVO Online",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-23T19:09:45Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "TTK6aPHGkcqmwQM-WBzrwACaCaY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Jj4KXvTOtDs"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-15T20:11:44Z",
-      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-      "title": "OMS alerta para poss\u00edvel surto de novo v\u00edrus descoberto na China",
-      "description": "A OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) alertou nesta ter\u00e7a-feira (14) que pode ter havido uma transmiss\u00e3o humana limitada de ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Jj4KXvTOtDs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Jj4KXvTOtDs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Jj4KXvTOtDs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Record News",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-15T20:11:44Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rUV7XwHDZwNBNdjZ7z-QdzQ74MI",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "OANS0CrjuUg"
-    },
-    "snippet": {
-      "publishedAt": "2020-09-06T17:45:38Z",
-      "channelId": "UCipN5XljoGe8HiUXH6qWoVA",
-      "title": "A IMPORT\u00c2NCIA do SUS frente a pandemia.",
-      "description": "Em meio ao caos enfrentado nessa pandemia, o SUS (Sistema \u00danico de Sa\u00fade) fez e continua fazendo um trabalho incr\u00edvel para ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "NEHV",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-09-06T17:45:38Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "SQIFCbVp5wlIF4Gnwjf9MgwYmnk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "C41Q_kyYkQQ"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-19T01:04:05Z",
-      "channelId": "UCcgl8D1QAwAmZekgv1-BaQg",
-      "title": "Por que o corona se espalha t\u00e3o r\u00e1pido? | S\u00e9rie Sa\u00fade P\u00fablica, SUS, Epidemiologia e Corona",
-      "description": "Teremos UM V\u00cdDEO POR DIA PARA a mais nova playlist do canal. Ser\u00e1 sobre SUS, Sa\u00fade P\u00fablica, Epidemiologia e Corona ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/C41Q_kyYkQQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/C41Q_kyYkQQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/C41Q_kyYkQQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Doutora Drag - Dimitra Vulcana",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-19T01:04:05Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ebikARYPQQkcFH-eDxPDtMs3nBk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "tHu3fsQBEY8"
-    },
-    "snippet": {
-      "publishedAt": "2020-02-27T23:12:02Z",
-      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
-      "title": "\ud83d\udd34SUS pode ser decisivo para evitar epidemia de COVID-19 \u2013 Atos em defesa do INSS \u2013 Seu Jornal 27.02\ud83d\udcf0",
-      "description": "O Seu Jornal desta quinta-feira (27/02) come\u00e7a ao vivo com as principais not\u00edcias do dia. - Pode ser decisivo para evitar uma ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tHu3fsQBEY8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tHu3fsQBEY8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tHu3fsQBEY8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Rede TVT",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-02-27T23:12:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "vhbXSECkSBcMEFN4sUoFdvSKGoM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "fE2pNqyQ0ZM"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-12T01:07:06Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "M\u00e9dico Paulo Saldiva analisa a quarta onda de Covid-19 na Europa e o futuro da pandemia",
-      "description": "Convidado da bancada do Jornal da Cultura desta quinta-feira (11), o m\u00e9dico Paulo Saldiva explica as tend\u00eancias analisadas da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fE2pNqyQ0ZM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fE2pNqyQ0ZM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fE2pNqyQ0ZM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornalismo TV Cultura",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-12T01:07:06Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "SVNn6VV5EzuuA8PWwrezdGoGBYU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "w79rGif8Mis"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-17T20:37:23Z",
-      "channelId": "UCGsh5I0NMEJWZ4x73WzxrXg",
-      "title": "Covid-19 - O SUS e a resposta \u00e0 pandemia",
-      "description": "Tem pontos, nesta rede da resposta \u00e0 pandemia que s\u00f3 existem, s\u00f3 est\u00e3o conectados, em fun\u00e7\u00e3o do SUS\u201d",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/w79rGif8Mis/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/w79rGif8Mis/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/w79rGif8Mis/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Portal da Inova\u00e7\u00e3o na Gest\u00e3o do SUS",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-17T20:37:23Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "kJjT3g6QF36vPLHCKW73SNTrKOk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "yz03_Sk_XZ4"
-    },
-    "snippet": {
-      "publishedAt": "2022-03-17T21:54:43Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Covid: o que se sabe sobre nova variante deltacron",
-      "description": "O Minist\u00e9rio da Sa\u00fade do Brasil divulgou que est\u00e1 investigando os primeiros casos de covid-19 no pa\u00eds causados pela variante ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yz03_Sk_XZ4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yz03_Sk_XZ4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yz03_Sk_XZ4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BBC News Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-17T21:54:43Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "pNOcOsAR8Q-e-qHF0qCyLxeRfUc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ZvrpGrZ5DGk"
-    },
-    "snippet": {
-      "publishedAt": "2021-12-12T12:00:13Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Sempre surgir\u00e3o novas variantes do coronav\u00edrus? Dr. Gustavo responde! #coronav\u00edrus #pandemia",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-12-12T12:00:13Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ur0msTfoQUkpkX8w9c2huozbzto",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "FDd-Oaj3ZRE"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-03T11:29:49Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "China tem novo surto de covid e n\u00fameros da doen\u00e7a voltam a crescer na Europa e Am\u00e9rica",
-      "description": "No UOL News, o m\u00e9dico sanitarista Gonzalo Vecina comentou o aumento dos casos de covid-19 em pa\u00edses da Europa e Am\u00e9rica ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FDd-Oaj3ZRE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FDd-Oaj3ZRE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FDd-Oaj3ZRE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-03T11:29:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "TAcaOULJBrZow9nVgrdrhZ9ycvw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "lOl1GFQUJZQ"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-04T22:08:25Z",
+      "publishedAt": "2022-04-13T21:11:49Z",
       "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "Covid-19: Com aumento de casos na Europa, Fiocruz faz alerta para o Brasil | CNN PRIME TIME",
-      "description": "Mat\u00e9ria exibida no CNN Prime Time do dia 4de novembro de 2021 #CNNBrasil Inscreva-se no canal da CNN Brasil no YouTube: ...",
+      "title": "Sa\u00fade abrir\u00e1 consulta p\u00fablica para incorpora\u00e7\u00e3o de rem\u00e9dio contra Covid no SUS | CNN 360\u00b0",
+      "description": "O Minist\u00e9rio da Sa\u00fade deve abrir, nesta quarta-feira (13), uma consulta p\u00fablica para a sociedade civil e especialistas sobre a ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lOl1GFQUJZQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/5ntg11JvW6U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lOl1GFQUJZQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5ntg11JvW6U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lOl1GFQUJZQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5ntg11JvW6U/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "CNN Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-11-04T22:08:25Z"
+      "publishTime": "2022-04-13T21:11:49Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "q_TxciSgEuSW46dsv6gHdqbh-bk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6Vo_s7Qg-e0"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-27T20:20:37Z",
+      "channelId": "UC6KIt1IzDCy9tAfSmENBSlw",
+      "title": "A Import\u00e2ncia do SUS no Combate ao Coronav\u00edrus - Prof Alzira comenta",
+      "description": "A m\u00e9dica sanitarista Alzira de Oliveira Jorge, diretora do Hospital Risoleta Tolentino Neves (HRTN) e professora da Faculdade ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Vo_s7Qg-e0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Vo_s7Qg-e0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Vo_s7Qg-e0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Apubh",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-27T20:20:37Z"
     }
   },
   {
@@ -1361,342 +511,1192 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Y4rRoTgBaxmiB7aNMNASzE-tHbU",
+    "etag": "SVNn6VV5EzuuA8PWwrezdGoGBYU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "WRfZ9PsW6gY"
+      "videoId": "w79rGif8Mis"
     },
     "snippet": {
-      "publishedAt": "2020-05-30T19:00:09Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "DRAUZIO VARELLA: &quot;SE N\u00d3S N\u00c3O TIV\u00c9SSEMOS O SUS, SERIA BARB\u00c1RIE&quot; | SCHWARZA NA MOV",
-      "description": "Com a pandemia do coronav\u00edrus, estamos vendo o sistema de sa\u00fade brasileiro e ao redor do mundo ficar sobrecarregado.",
+      "publishedAt": "2020-04-17T20:37:23Z",
+      "channelId": "UCGsh5I0NMEJWZ4x73WzxrXg",
+      "title": "Covid-19 - O SUS e a resposta \u00e0 pandemia",
+      "description": "Tem pontos, nesta rede da resposta \u00e0 pandemia que s\u00f3 existem, s\u00f3 est\u00e3o conectados, em fun\u00e7\u00e3o do SUS\u201d",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/default.jpg",
+          "url": "https://i.ytimg.com/vi/w79rGif8Mis/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/w79rGif8Mis/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/w79rGif8Mis/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UOL",
+      "channelTitle": "Portal da Inova\u00e7\u00e3o na Gest\u00e3o do SUS",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-30T19:00:09Z"
+      "publishTime": "2020-04-17T20:37:23Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "bhDWXgKicEH9s-434mVGP1zcjHE",
+    "etag": "R-5lY4RSOJyMIyHCgpcDxuYqqaQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "jgXUKAnDJ00"
+      "videoId": "R3kGXpkAhp8"
     },
     "snippet": {
-      "publishedAt": "2021-11-13T17:30:03Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "NOVO SURTO DE COVID NA EUROPA E CHINA: O QUE EST\u00c1 ACONTECENDO",
-      "description": "Por que a Europa e a China vivem novo surto de COVID? Mesmo com as taxas de vacina\u00e7\u00e3o em alta, a Europa est\u00e1 sofrendo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-13T17:30:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "CKYVO2wxKb66nweyfUmQxjZY-wM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "SuU_kdmf1y4"
-    },
-    "snippet": {
-      "publishedAt": "2022-03-25T20:04:52Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "O que aconteceu nos pa\u00edses que acabaram com as restri\u00e7\u00f5es contra a covid",
-      "description": "Pa\u00edses como Alemanha, Reino Unido e China t\u00eam enfrentado um novo pico de casos de covid-19, depois de terem flexibilizado ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SuU_kdmf1y4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SuU_kdmf1y4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SuU_kdmf1y4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BBC News Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-25T20:04:52Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "tzcJnbWW2O-KK9P1DVGclW90otc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "mg2Q8V0qpd4"
-    },
-    "snippet": {
-      "publishedAt": "2021-07-06T23:37:09Z",
-      "channelId": "UCSv9d0kQegylHWpP83jWSQg",
-      "title": "Covid: veja os \u00faltimos dados da pandemia no Brasil",
-      "description": "No Brasil todo, segundo o conselho que re\u00fane os secret\u00e1rios estaduais de sa\u00fade, 526.892 pessoas morreram por causa da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mg2Q8V0qpd4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mg2Q8V0qpd4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mg2Q8V0qpd4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TV Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-07-06T23:37:09Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "TyYlmCOX2qBKjUR3ObRvS-JTfdk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "r55udsjMG8Q"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-22T13:51:49Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Nova onda de covid: Europa tem popula\u00e7\u00e3o mais suscet\u00edvel que o Brasil, explica m\u00e9dico",
-      "description": "O m\u00e9dico sanitarista e ex-presidente da Anvisa Gonzalo Vecina Neto analisou hoje, durante participa\u00e7\u00e3o no UOL News, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-22T13:51:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "uT48I1wXKNrH7YF50Bs_uI3JcvU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "-3TN7yMJc5s"
-    },
-    "snippet": {
-      "publishedAt": "2022-04-03T22:23:42Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Covid-19: Nova variante oriunda da \u00f4micron \u00e9 descoberta na China, diz Global Times",
-      "description": "Uma nova variante oriunda da \u00f4micron foi descoberta pelo sequenciamento do gene do coronav\u00edrus de um caso leve confirmado ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-3TN7yMJc5s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-3TN7yMJc5s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-3TN7yMJc5s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-04-03T22:23:42Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "k1YwdpymOj3p44ABmlX3iundYdg",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "hI456gvnUPQ"
-    },
-    "snippet": {
-      "publishedAt": "2020-02-21T18:27:51Z",
+      "publishedAt": "2022-03-16T16:50:47Z",
       "channelId": "UC12zKGLhMhDeDidoctM6BrA",
-      "title": "SUS est\u00e1 preparado para identificar casos de coronav\u00edrus",
-      "description": "Os profissionais do Sistema \u00danico de Sa\u00fade est\u00e3o preparados para identificar os casos suspeitos do novo coronav\u00edrus e dar ...",
+      "title": "Fala, SUS: Variantes",
+      "description": "Afinal, como surge uma variante do coronav\u00edrus? E por que existem tantas delas? Como elas se desenvolvem? Esses e ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hI456gvnUPQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/R3kGXpkAhp8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hI456gvnUPQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/R3kGXpkAhp8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hI456gvnUPQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/R3kGXpkAhp8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Minist\u00e9rio da Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-02-21T18:27:51Z"
+      "publishTime": "2022-03-16T16:50:47Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ZW6IahxZwhxnPslk0Sa7OG1hdPY",
+    "etag": "IDQOAqBMO2FwmduA_PBEuyP2Pmk",
     "id": {
       "kind": "youtube#video",
-      "videoId": "V15mqi3dWF4"
+      "videoId": "Bl0KaoSfO0A"
     },
     "snippet": {
-      "publishedAt": "2020-04-10T19:00:09Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "COVID-19: O QUE \u00c9 O CORONAV\u00cdRUS E COMO ELE SURGIU | SCHWARZA",
-      "description": "Schwarza explica como surgiu o novo coronav\u00edrus e de que forma ele age. Confira! #Coronav\u00edrus #Pandemia #Covid19 ...",
+      "publishedAt": "2022-05-08T21:30:00Z",
+      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "title": "SUS aprova medicamento oral contra a Covid-19",
+      "description": "O SUS deve disponibilizar ainda este ano as p\u00edlulas da Pfizer contra a Covid-19. A Comiss\u00e3o Nacional de Incorpora\u00e7\u00e3o de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/default.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bl0KaoSfO0A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Record News",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-08T21:30:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "o9BUuBqFzE3RXyPtfVhdhFikUM4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "C-ccaCCZgAY"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-08T15:30:01Z",
+      "channelId": "UCfN_USbKTYNL1_591XJ1J3g",
+      "title": "App Coronavirus - SUS - Proteja-se do COVID-19! - Dica Apps e Ajustes",
+      "description": "Conhe\u00e7a o Coronavirus - SUS, o aplicativo oficial do Minist\u00e9rio da Sa\u00fade nos combate do COVID-19! Visitem nossas redes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C-ccaCCZgAY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C-ccaCCZgAY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C-ccaCCZgAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Apps e Ajustes",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-08T15:30:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bmHvjfWB9lljUSnW0737LualAG8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L0gNOqKxnA8"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-17T13:20:39Z",
+      "channelId": "UCi-b0BsuLZ47jPAVXBDkkbA",
+      "title": "Libras - Coronav\u00edrus-SUS APLICATIVO",
+      "description": "App ajuda para voc\u00eas. local, sa\u00fade e conselho caminho Informa\u00e7\u00e3o: local, sa\u00fade e conselho caminho hospital isso importante.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L0gNOqKxnA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L0gNOqKxnA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L0gNOqKxnA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "F\u00e1bio de S\u00e1 - LIBRAS (DEAF)",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-17T13:20:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "DKI_AWTCzRh1_S5mA8Mie5xxtQo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eddOxMtwCeI"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-10T23:40:57Z",
+      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "title": "Cientistas descobrem m\u00e9todo que impede totalmente a infec\u00e7\u00e3o pelo coronav\u00edrus",
+      "description": "Um grupo de cientistas belgas conseguiu isolar um tipo de a\u00e7\u00facar presente nas c\u00e9lulas humanas e que o v\u00edrus da Covid-19 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eddOxMtwCeI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eddOxMtwCeI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eddOxMtwCeI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Record News",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-10T23:40:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "C7fLACHpmv0WFuYrHlu635RB964",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VIU3unKOgic"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-29T16:26:34Z",
+      "channelId": "UCYly0SWWudbCM1gSL5Qqa_w",
+      "title": "Bahia n\u00e3o possui caso suspeito de coronav\u00edrus",
+      "description": "Confira o depoimento oficial do Secret\u00e1rio da Sa\u00fade do Estado da Bahia, F\u00e1bio Vilas-Boas, sobre o novo coronav\u00edrus e a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VIU3unKOgic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VIU3unKOgic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VIU3unKOgic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Saude GovBa",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-29T16:26:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JCOXsnGYOEQyQxtjS1Av6pr9hdo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rfyQaPuMNwE"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-09T10:28:57Z",
+      "channelId": "UCP391YRAjSOdM_bwievgaZA",
+      "title": "Minist\u00e9rio da Sa\u00fade inclui rem\u00e9dio para casos leves de Covid-19",
+      "description": "O Minist\u00e9rio da Sa\u00fade anunciou na \u00faltima sexta-feira, 6, que o rem\u00e9dio Paxlovid ser\u00e1 inclu\u00eddo no rol de medicamentos do ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rfyQaPuMNwE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rfyQaPuMNwE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rfyQaPuMNwE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jovem Pan News",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-09T10:28:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "p5jaXqnMAv51rBDRE1XxB0fmL7w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Mu8O3V22okM"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-15T12:53:54Z",
+      "channelId": "UCvzZTtTDNd2YKJnMVAo75sg",
+      "title": "Como usar o aplicativo Coronav\u00edrus SUS (preven\u00e7\u00e3o contra o v\u00edrus covid-19)",
+      "description": "O aplicativo Coronav\u00edrus SUS, do Minist\u00e9rio da Sa\u00fade, tem como objetivo conscientizar a popula\u00e7\u00e3o sobre a doen\u00e7a por meio de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mu8O3V22okM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mu8O3V22okM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mu8O3V22okM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CHAOS YouTube",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-15T12:53:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SG-LygTKDvnIe16O_jYsRY7F0Ng",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cdcJ4dPAzDo"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-18T16:33:34Z",
+      "channelId": "UCWiwMQn0k84wn0952b5kcKw",
+      "title": "CORONAV\u00cdRUS: REDE P\u00daBLICA ESTADUAL DISPONIBILIZA RESULTADO ONLINE",
+      "description": "Resultados de exames para detec\u00e7\u00e3o de Covid-19, agora, podem ser consultados pela internet atrav\u00e9s da plataforma Sa\u00fade ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cdcJ4dPAzDo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cdcJ4dPAzDo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cdcJ4dPAzDo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TV Cear\u00e1",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-18T16:33:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "SOZrzghT5As1qPxbJLEYfYdwopU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nBOM8FGb9-8"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-19T19:20:48Z",
+      "channelId": "UCg9o3JF24EbI8IT3E4g_3rA",
+      "title": "Coronav\u00edrus, p\u00e2nico, controle social e SUS - #CaronaPSI - Viagem 2.02",
+      "description": "coronavirus #sus #caronapsi Vem com a gente falar um pouco sobre o p\u00e2nico em cima do coronav\u00edrus e a import\u00e2ncia do SUS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nBOM8FGb9-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nBOM8FGb9-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nBOM8FGb9-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "O psic\u00f3logo Bruno",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-19T19:20:48Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AQMPa_fd_KI4KZ3I3mGUyLlb4wc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "muVps2-rnYY"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-03T14:39:01Z",
+      "channelId": "UCJFzkeYbVM54cAuuNYF_ZRw",
+      "title": "Videoaula: COVID-19 e atendimento odontol\u00f3gico no SUS",
+      "description": "Professoras: Cl\u00e1udia Wanderlei (cirurgi\u00e3 dentista da ESPBA) e Liane Gomes (cirurgi\u00e3 dentista da ESPBA)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/muVps2-rnYY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/muVps2-rnYY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/muVps2-rnYY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Escola de Sa\u00fade P\u00fablica da Bahia",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-03T14:39:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rUV7XwHDZwNBNdjZ7z-QdzQ74MI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "OANS0CrjuUg"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-06T17:45:38Z",
+      "channelId": "UCipN5XljoGe8HiUXH6qWoVA",
+      "title": "A IMPORT\u00c2NCIA do SUS frente a pandemia.",
+      "description": "Em meio ao caos enfrentado nessa pandemia, o SUS (Sistema \u00danico de Sa\u00fade) fez e continua fazendo um trabalho incr\u00edvel para ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OANS0CrjuUg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "NEHV",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-06T17:45:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "msrXVDDtx32_pvwxEKEkRh--5P4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LwUjglzIUhc"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-11T23:49:06Z",
+      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
+      "title": "Coronav\u00edrus: como age? Por onde anda? Como evitar?",
+      "description": "Coronav\u00edrus: como age? Por onde anda? Como evitar? Tudo o que voc\u00ea precisa saber para se proteger do v\u00edrus que tem ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LwUjglzIUhc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LwUjglzIUhc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LwUjglzIUhc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-11T23:49:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tlQIBDnGPuTHIzY3Yvke7dJ_bcU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "g3sT2m8DllQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-09T20:08:38Z",
+      "channelId": "UChhbcTV_e36UihqfV2NG3oQ",
+      "title": "@ABRAF - Planos de Sa\u00fade, SUS e Coronav\u00edrus. Live no Instagram \ud83d\udc9a",
+      "description": "D\u00favidas sobre Planos de Sa\u00fade, SUS e COVID-19. #coronavirus #planosdesaude #SUS #COVID #ClaudiaNakano ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g3sT2m8DllQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g3sT2m8DllQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g3sT2m8DllQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Nakano Advogados",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-09T20:08:38Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AUWHbgeyMuZnymK6ZX8YB2R0nKc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T2zAei4IPCQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-11-03T20:47:45Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "China enfrenta novo surto de covid-19 e pede que popula\u00e7\u00e3o estoque comida",
+      "description": "Primeiro pa\u00eds a enfrentar o coronav\u00edrus, a China conseguiu controlar a pandemia amplamente desde o in\u00edcio de 2020, com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T2zAei4IPCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "exame",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-11-03T20:47:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "emyRBhh8jWSl6zoUWPVeKauK_IU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3553TAjLlIM"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-01T09:00:01Z",
+      "channelId": "UCQf8WxEeddFnMVdJN9gs8rg",
+      "title": "Reda\u00e7\u00e3o | SUS, quais os desafios frente \u00e0 COVID-19 | Professora Carla Kurz",
+      "description": "Em meio \u00e0 quarentena do Coronav\u00edrus, o tema de hoje aqui do M\u00e9todo 1000 abordar\u00e1 um eixo tem\u00e1tico muito em pauta: sa\u00fade.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3553TAjLlIM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3553TAjLlIM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3553TAjLlIM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Carla Kurz",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-01T09:00:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lLJdsgrowYlj1zYnXDzjRAPSO08",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "x2lTlWdZl3w"
+    },
+    "snippet": {
+      "publishedAt": "2020-02-27T23:28:56Z",
+      "channelId": "UCmQTY7b5w61WlmBbJ5a8XrQ",
+      "title": "Coronav\u00edrus n\u00e3o \u00e9 motivo para p\u00e2nico, afirmam especialistas   \ud83d\udcf0",
+      "description": "O primeiro caso de coronav\u00edrus foi confirmado no Brasil. O caso \u00e9 espec\u00edfico, trata-se de um homem que veio da It\u00e1lia, pa\u00eds com ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x2lTlWdZl3w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x2lTlWdZl3w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x2lTlWdZl3w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Rede TVT",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-02-27T23:28:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Twfz7KLtTSK1IH-W5pESOiNpU7c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gYReOiZQC4o"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-10T12:55:32Z",
+      "channelId": "UCP391YRAjSOdM_bwievgaZA",
+      "title": "M\u00e9dia m\u00f3vel de mortes por Covid-19 no Brasil caiu 17%",
+      "description": "O Brasil registrou 53 mortes provocadas pela Covid-19 nas \u00faltimas 24 horas. A m\u00e9dia m\u00f3vel de \u00f3bitos est\u00e1 em 84. O n\u00famero ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gYReOiZQC4o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gYReOiZQC4o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gYReOiZQC4o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jovem Pan News",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-10T12:55:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "zEi6Y8zwqurTyFmeaHeYOBlS_sw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Hc9a858jvUo"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-11T09:00:09Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Como \u00e9 viver nas &#39;jaulas&#39; de Hong Kong em meio ao avan\u00e7o da covid",
+      "description": "A pol\u00edtica de covid zero adotada pela China manteve, nos primeiros dois anos da pandemia, o novo coronav\u00edrus parcialmente ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hc9a858jvUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hc9a858jvUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hc9a858jvUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BBC News Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-11T09:00:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "wV9SkBOmoxOYsmv3q1tZwqtMlkk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LVVV_-eLqCQ"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-02T18:49:11Z",
+      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "title": "Governo lan\u00e7a app que auxilia na preven\u00e7\u00e3o contra o coronav\u00edrus",
+      "description": "O Minist\u00e9rio da Sa\u00fade lan\u00e7ou o aplicativo Coronav\u00edrus - SUS para ajudar a popula\u00e7\u00e3o no trabalho de informa\u00e7\u00e3o e preven\u00e7\u00e3o ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LVVV_-eLqCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LVVV_-eLqCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LVVV_-eLqCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Record News",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-02T18:49:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CodI80mq_ohR6vqwYda7opHQlEI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_rzCcWV-CBs"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-13T10:11:10Z",
+      "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+      "title": "Surto da Covid-19 na China obriga a novas restri\u00e7\u00f5es",
+      "description": "Pa\u00eds registou perto de 3.400 casos de covid-19 neste domingo. LEIA MAIS ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_rzCcWV-CBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_rzCcWV-CBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_rzCcWV-CBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "euronews (em portugu\u00eas)",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-13T10:11:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pNOcOsAR8Q-e-qHF0qCyLxeRfUc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ZvrpGrZ5DGk"
+    },
+    "snippet": {
+      "publishedAt": "2021-12-12T12:00:13Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "Sempre surgir\u00e3o novas variantes do coronav\u00edrus? Dr. Gustavo responde! #coronav\u00edrus #pandemia",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZvrpGrZ5DGk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "UOL",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-04-10T19:00:09Z"
+      "publishTime": "2021-12-12T12:00:13Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "VH9RmNX6w2iEYdCRnbvKajhke1Y",
+    "etag": "FactCy29vU-yx1URMmbiDeULQsw",
     "id": {
       "kind": "youtube#video",
-      "videoId": "KxBgKyntuHE"
+      "videoId": "H_vUvpuQL1M"
     },
     "snippet": {
-      "publishedAt": "2020-03-11T19:30:15Z",
-      "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
-      "title": "Coronav\u00edrus: OMS decreta pandemia de COVID-19",
-      "description": "O diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade declarou nesta quarta-feira que o surto de Covid-19 no mundo j\u00e1 \u00e9 ...",
+      "publishedAt": "2020-03-24T14:23:33Z",
+      "channelId": "UCnyFZr3wJBAJRjcqr_Q5Gug",
+      "title": "COVID-19 - Preparando o Atendimento na Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade/Estrat\u00e9gia de Sa\u00fade da Fam\u00edlia",
+      "description": "Centro de Telessa\u00fade HC-UFMG www.telessaude.hc.ufmg.br.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KxBgKyntuHE/default.jpg",
+          "url": "https://i.ytimg.com/vi/H_vUvpuQL1M/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KxBgKyntuHE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/H_vUvpuQL1M/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KxBgKyntuHE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/H_vUvpuQL1M/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Estad\u00e3o",
+      "channelTitle": "Centro de Telessa\u00fade HC-UFMG",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-11T19:30:15Z"
+      "publishTime": "2020-03-24T14:23:33Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "xEfEl7MtKSxmkeIc6Xw_xS2OIvA",
+    "etag": "f_dczIJTU_yb7uJeebYaUDJXa1Y",
     "id": {
       "kind": "youtube#video",
-      "videoId": "sxHOOhVP5v4"
+      "videoId": "Js6TZEg9y3I"
     },
     "snippet": {
-      "publishedAt": "2020-01-22T23:33:22Z",
-      "channelId": "UC-6xqzMBF2CXTImn_a4aCVg",
-      "title": "Novo coronav\u00edrus j\u00e1 matou dezenas de pessoas e pode chegar ao Brasil",
-      "description": "Uma pneumonia de causa desconhecida provocada por um coronav\u00edrus come\u00e7ou a se espalhar por uma cidade da China no fim ...",
+      "publishedAt": "2022-05-04T12:36:56Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "Covid: &#39;Aumento do n\u00famero de casos j\u00e1 era esperado e pode haver subnotifica\u00e7\u00e3o&#39;, diz m\u00e9dica",
+      "description": "Em entrevista ao UOL News, a m\u00e9dica infectologista Luana Ara\u00fajo fala sobre aumento de casos de covid e a possibilidade de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/default.jpg",
+          "url": "https://i.ytimg.com/vi/Js6TZEg9y3I/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Js6TZEg9y3I/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Js6TZEg9y3I/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Jornal O Globo",
+      "channelTitle": "UOL",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-01-22T23:33:22Z"
+      "publishTime": "2022-05-04T12:36:56Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bNry1gdnRat_b2XY3iXv7-V8zng",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "n0Y2zS-sz1E"
+    },
+    "snippet": {
+      "publishedAt": "2020-02-06T18:59:01Z",
+      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
+      "title": "Como se prevenir do novo coronav\u00edrus",
+      "description": "Assim como a maioria das doen\u00e7as respirat\u00f3rias, a\u00e7\u00f5es simples podem evitar a contamina\u00e7\u00e3o do novo coronav\u00edrus. Saiba que ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n0Y2zS-sz1E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n0Y2zS-sz1E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n0Y2zS-sz1E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-02-06T18:59:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hHZzZMOYUCYh1jL281wzU5qSxUY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JZVqWawtdyk"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-18T13:29:31Z",
+      "channelId": "UCxobEe8Smt2lTZVwA333NPg",
+      "title": "Aplicativo do Coronav\u00edrus SUS | Como utilizar ? | Link para download na descri\u00e7\u00e3o",
+      "description": "O OBJETIVO DESTE VIDEO \u00c9 APRESENTAR O FUNCIONAMENTO DO APLICATIVO MOBILE DO CORONAV\u00cdRUS DO SUS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JZVqWawtdyk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JZVqWawtdyk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JZVqWawtdyk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "aplicativoficial",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-18T13:29:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rZk6VS6GzoFV-pcnuYD_9NhgnSY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zsDhn9SzVDs"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-19T12:00:17Z",
+      "channelId": "UCjhEPI7VpQ6WN0xq9XXrn6g",
+      "title": "O DI\u00c1RIO DE MIKA | Como proteger as crian\u00e7as do coronav\u00edrus COVID-19?",
+      "description": "Oi, amiguinhos! Nesse v\u00eddeo a Mika e seus amigos ensinam as crian\u00e7as v\u00e1rias maneiras de combater o v\u00edrus da COVID-19 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zsDhn9SzVDs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zsDhn9SzVDs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zsDhn9SzVDs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "O Di\u00e1rio de Mika",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-19T12:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "StTUpQRnoKF9DR7POSb5INhdj0w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XgCf917aFMo"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-20T17:45:16Z",
+      "channelId": "UCVJMNheEBvJ4Mq6VmIFO_lg",
+      "title": "Atua\u00e7\u00e3o da equipe Nasf na pandemia do coronav\u00edrus",
+      "description": "Relato de como est\u00e1 sendo um pouco a atua\u00e7\u00e3o da equipe Nasf (N\u00facleo de apoio a sa\u00fade da fam\u00edlia) dentro das unidades de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XgCf917aFMo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XgCf917aFMo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XgCf917aFMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Fisioterapeuta Cibele Cunha",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-20T17:45:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iyrDC4qXg9Esrlnu3HgJ-3365rQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "y90VPlQKQns"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-30T15:02:40Z",
+      "channelId": "UCYly0SWWudbCM1gSL5Qqa_w",
+      "title": "Intuba\u00e7\u00e3o Orotraqueal - Coronav\u00edrus",
+      "description": "Quer saber como funciona uma rotina hospitalar? A equipe do Hospital Geral Ernesto Sim\u00f5es Filho realizou uma simula\u00e7\u00e3o de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y90VPlQKQns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y90VPlQKQns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y90VPlQKQns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Saude GovBa",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-30T15:02:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bLdtVkxX5uYaLoGSsZiHLWpic-U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FVzNfkTW7pA"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-08T13:27:54Z",
+      "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+      "title": "M\u00e9dico com covid-19 prestou atendimento pelo SUS",
+      "description": "Em Trememb\u00e9, no interior paulista, um m\u00e9dico continuou prestando atendimento pelo SUS, mesmo com diagnostico da covid-19.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FVzNfkTW7pA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FVzNfkTW7pA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FVzNfkTW7pA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Band Jornalismo",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-08T13:27:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "uKU4pAyzgDsClPyWRS-tMOh1ISc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Q9OLKcrHY1g"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-25T03:20:04Z",
+      "channelId": "UCt2QbwQTb3smCcfN0dtdEOA",
+      "title": "Maranh\u00e3o tem a menor taxa de mortalidade por coronav\u00edrus do Brasil",
+      "description": "O Maranh\u00e3o tem a menor taxa de mortalidade por #coronavirus do Brasil. A\u00e7\u00f5es do #GovernodoMaranh\u00e3o - que adota medidas ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q9OLKcrHY1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q9OLKcrHY1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q9OLKcrHY1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "GovernoMA",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-25T03:20:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OaeZBAqk_OFmGYfJM3VD02pBcUw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hfmK6u3XT64"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-21T01:59:32Z",
+      "channelId": "UC6oAXr5y7y-WQPksV1LUDjQ",
+      "title": "CORONA V\u00cdRUS - SUS - DICA DE APLICATIVO DO MINIST\u00c9RIO DE SA\u00daDE",
+      "description": "Link para baixar para iPhone: https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382 Link para baixar no ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hfmK6u3XT64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hfmK6u3XT64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hfmK6u3XT64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Acesso Cont\u00e1bil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-21T01:59:32Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hZqiax7z7FNMyPsWfG38ES8VHQA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Eh-ORojjpyw"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-22T15:31:29Z",
+      "channelId": "UCNyd_2dj07EJd9sub5SxGzg",
+      "title": "APLICATIVO CORONAV\u00cdRUS",
+      "description": "Coronav\u00edrus #Pandemia #AplicativoparaSmartphones A melhor forma de combater a pandemia do Coronav\u00edrus \u00e9 seguir as ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Eh-ORojjpyw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Eh-ORojjpyw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Eh-ORojjpyw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ENFERMEIRO MARCELO SANTOS",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-22T15:31:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TyJMkLcdCA1DMuJKn9-NCXmvl3c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nmZZVInMR28"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-06T17:22:28Z",
+      "channelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
+      "title": "Bahia tem caso confirmado de #coronavirus",
+      "description": "06.03.2020 - O Minist\u00e9rio da Sa\u00fade confirma mais um caso de COVID-19, agora na Bahia.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nmZZVInMR28/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nmZZVInMR28/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nmZZVInMR28/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "TV BrasilGov",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-06T17:22:28Z"
     }
   }
 ]
