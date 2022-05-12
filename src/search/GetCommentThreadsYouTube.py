@@ -5,8 +5,8 @@ from SearchKeys import SearchKeys
 
 
 class SearchListYouTube(SearchBase):
-    def __init__(self) -> None:
-        super().__init__()
+    def __init__(self, replace_existing_tweets = True):
+        self.replace_existing_tweets = replace_existing_tweets
 
     def save_search_list(self, search_list):
         for video in search_list:
@@ -14,7 +14,7 @@ class SearchListYouTube(SearchBase):
             print(f'salvando video pesquisa: {videoId} para arquivo.')
             file_name = f'data/raw/youtube/comment_threads/{videoId}.json'
             content = search_list
-            self.save_json(file_name, content, False)
+            self.save_json(file_name, content, self.replace_existing_tweets)
             time.sleep(1)
 
     def get_and_save_search_list(self, api, query, lang):
@@ -27,8 +27,8 @@ class SearchListYouTube(SearchBase):
         return YouTubeAPI(file_credentials)
     
 def main():
-    search = SearchListYouTube()
-    file_credentials = 'src/credentials.yaml'
+    search = SearchListYouTube(False)
+    file_credentials = 'src/search/credentials.yaml'
 
     search_keys = SearchKeys('pt')
 
