@@ -100,39 +100,6 @@
   },
   {
     "kind": "youtube#commentThread",
-    "etag": "x3r3KxKbFl7l6QQpEl4YuDA1L5M",
-    "id": "UgzVeW25TP2YQOFkuc14AaABAg",
-    "snippet": {
-      "videoId": "Z2C14einBmE",
-      "topLevelComment": {
-        "kind": "youtube#comment",
-        "etag": "mzXvFAOx9noWT652MicYDX78HGo",
-        "id": "UgzVeW25TP2YQOFkuc14AaABAg",
-        "snippet": {
-          "videoId": "Z2C14einBmE",
-          "textDisplay": "Que alegria voc\u00ea vacinada, Rai!! Mais e mais sa\u00fade para vc!!",
-          "textOriginal": "Que alegria voc\u00ea vacinada, Rai!! Mais e mais sa\u00fade para vc!!",
-          "authorDisplayName": "Zah Luz",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZ_ai6zJDaNiX9Fp38x5sGj19oyBpKjBFqKt5v=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCciTOGBSFkW66Yoht9l8mQQ",
-          "authorChannelId": {
-            "value": "UCciTOGBSFkW66Yoht9l8mQQ"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 1,
-          "publishedAt": "2021-06-07T11:46:14Z",
-          "updatedAt": "2021-06-07T11:46:14Z"
-        }
-      },
-      "canReply": true,
-      "totalReplyCount": 0,
-      "isPublic": true
-    },
-    "comments": []
-  },
-  {
-    "kind": "youtube#commentThread",
     "etag": "Vbxa8ow0YgXCYs-FSqoNfQcUi_g",
     "id": "UgwlwT9LEA6CPS7xyCN4AaABAg",
     "snippet": {
@@ -156,6 +123,39 @@
           "likeCount": 1,
           "publishedAt": "2021-06-02T23:32:10Z",
           "updatedAt": "2021-06-02T23:32:10Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "x3r3KxKbFl7l6QQpEl4YuDA1L5M",
+    "id": "UgzVeW25TP2YQOFkuc14AaABAg",
+    "snippet": {
+      "videoId": "Z2C14einBmE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "mzXvFAOx9noWT652MicYDX78HGo",
+        "id": "UgzVeW25TP2YQOFkuc14AaABAg",
+        "snippet": {
+          "videoId": "Z2C14einBmE",
+          "textDisplay": "Que alegria voc\u00ea vacinada, Rai!! Mais e mais sa\u00fade para vc!!",
+          "textOriginal": "Que alegria voc\u00ea vacinada, Rai!! Mais e mais sa\u00fade para vc!!",
+          "authorDisplayName": "Zah Luz",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZ_ai6zJDaNiX9Fp38x5sGj19oyBpKjBFqKt5v=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCciTOGBSFkW66Yoht9l8mQQ",
+          "authorChannelId": {
+            "value": "UCciTOGBSFkW66Yoht9l8mQQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-06-07T11:46:14Z",
+          "updatedAt": "2021-06-07T11:46:14Z"
         }
       },
       "canReply": true,

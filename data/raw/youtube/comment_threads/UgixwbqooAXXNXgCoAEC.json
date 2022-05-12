@@ -34,13 +34,13 @@
   },
   {
     "kind": "youtube#commentThread",
-    "etag": "6V4aoi_oDMp8v5tyokkx_AkZWww",
+    "etag": "EVuv3nV0vCP1RIs9LlGL15ZYvAw",
     "id": "Ugi4X5poGgZsbngCoAEC",
     "snippet": {
       "videoId": "_GKse_BCAWU",
       "topLevelComment": {
         "kind": "youtube#comment",
-        "etag": "fAhxtFvNj7kFNLuiqiVyGvR1xlo",
+        "etag": "9WHWl0z_FNYgfegWbzIfWaP_m1E",
         "id": "Ugi4X5poGgZsbngCoAEC",
         "snippet": {
           "videoId": "_GKse_BCAWU",
@@ -54,7 +54,7 @@
           },
           "canRate": true,
           "viewerRating": "none",
-          "likeCount": 20,
+          "likeCount": 21,
           "publishedAt": "2017-01-08T21:16:30Z",
           "updatedAt": "2017-01-08T21:16:30Z"
         }
@@ -517,39 +517,6 @@
   },
   {
     "kind": "youtube#commentThread",
-    "etag": "RUAynbkadwdSvLUP7fPvtMO374k",
-    "id": "UgzUa6dWDZNrLdww8Wx4AaABAg",
-    "snippet": {
-      "videoId": "_GKse_BCAWU",
-      "topLevelComment": {
-        "kind": "youtube#comment",
-        "etag": "suDmlsU19AmfSWkP2T1P7AGo2Sk",
-        "id": "UgzUa6dWDZNrLdww8Wx4AaABAg",
-        "snippet": {
-          "videoId": "_GKse_BCAWU",
-          "textDisplay": "Lindo trabalho!",
-          "textOriginal": "Lindo trabalho!",
-          "authorDisplayName": "S\u00f4nia Pinto",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZ41aep9S-tqsxus9MnR7sRHdBKVRwkOfQYQ=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCqkSqdeM59geqjqUjhRriIg",
-          "authorChannelId": {
-            "value": "UCqkSqdeM59geqjqUjhRriIg"
-          },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 2,
-          "publishedAt": "2021-07-06T17:07:59Z",
-          "updatedAt": "2021-07-06T17:07:59Z"
-        }
-      },
-      "canReply": true,
-      "totalReplyCount": 0,
-      "isPublic": true
-    },
-    "comments": []
-  },
-  {
-    "kind": "youtube#commentThread",
     "etag": "uvR4ji4t3WoO-m9pCh-4oyPWzhw",
     "id": "UgxCRnlHG2lROcbQnId4AaABAg",
     "snippet": {
@@ -573,6 +540,39 @@
           "likeCount": 2,
           "publishedAt": "2020-07-24T17:22:39Z",
           "updatedAt": "2020-07-24T17:22:39Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "RUAynbkadwdSvLUP7fPvtMO374k",
+    "id": "UgzUa6dWDZNrLdww8Wx4AaABAg",
+    "snippet": {
+      "videoId": "_GKse_BCAWU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "suDmlsU19AmfSWkP2T1P7AGo2Sk",
+        "id": "UgzUa6dWDZNrLdww8Wx4AaABAg",
+        "snippet": {
+          "videoId": "_GKse_BCAWU",
+          "textDisplay": "Lindo trabalho!",
+          "textOriginal": "Lindo trabalho!",
+          "authorDisplayName": "S\u00f4nia Pinto",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZ41aep9S-tqsxus9MnR7sRHdBKVRwkOfQYQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCqkSqdeM59geqjqUjhRriIg",
+          "authorChannelId": {
+            "value": "UCqkSqdeM59geqjqUjhRriIg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-07-06T17:07:59Z",
+          "updatedAt": "2021-07-06T17:07:59Z"
         }
       },
       "canReply": true,

@@ -14,7 +14,7 @@ class SearchListYouTube(SearchBase):
             print(f'salvando video pesquisa: {videoId} para arquivo.')
             file_name = f'data/raw/youtube/comment_threads/{videoId}.json'
             content = search_list
-            self.save_json(file_name, content)
+            self.save_json(file_name, content, False)
             time.sleep(1)
 
     def get_and_save_search_list(self, api, query, lang):
