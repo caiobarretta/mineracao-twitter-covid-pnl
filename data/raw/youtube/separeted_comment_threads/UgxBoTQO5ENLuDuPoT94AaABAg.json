@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y-H-j2_b3IA9vkGFt9cjWxPEKbw",
+  "id": "UgxBoTQO5ENLuDuPoT94AaABAg",
+  "snippet": {
+    "videoId": "YwUu1aXWY7w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GPI6MX2pDIuvZ73G1seFN6bnpvA",
+      "id": "UgxBoTQO5ENLuDuPoT94AaABAg",
+      "snippet": {
+        "videoId": "YwUu1aXWY7w",
+        "textDisplay": "Deus nos livre, a gente n\u00e3o aguenta mais\ud83d\ude4f",
+        "textOriginal": "Deus nos livre, a gente n\u00e3o aguenta mais\ud83d\ude4f",
+        "authorDisplayName": "Neyla Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbvyfze28nGikZc7WVScXk8EVT7l3wyqq17w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2drkz51Et0OcuAhRwdgRfw",
+        "authorChannelId": {
+          "value": "UC2drkz51Et0OcuAhRwdgRfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-01-13T18:43:48Z",
+        "updatedAt": "2022-01-13T18:43:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J06GLjE1RX36y4yWB41f1tIamrE",
+      "id": "UgxBoTQO5ENLuDuPoT94AaABAg.9X94CgJgzVZ9XoDk-GiYg4",
+      "snippet": {
+        "textDisplay": "O que n\u00e3o me diga kkkkkkkkkkkk",
+        "textOriginal": "O que n\u00e3o me diga kkkkkkkkkkkk",
+        "parentId": "UgxBoTQO5ENLuDuPoT94AaABAg",
+        "authorDisplayName": "Daniel Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7fd3csAkjFUBLTqrECZGOitzeNESr2d8hqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCilKNkQgWaqMGBNt7FCMx8g",
+        "authorChannelId": {
+          "value": "UCilKNkQgWaqMGBNt7FCMx8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-30T03:35:14Z",
+        "updatedAt": "2022-01-30T03:35:14Z"
+      }
+    }
+  ]
+}

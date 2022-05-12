@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cZ5N-JQl3qQ51crUPhju9sS0drU",
+  "id": "Ugx5QuXkT1Ir_xjtT7J4AaABAg",
+  "snippet": {
+    "videoId": "6BeBC8aGfWc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zri1VhqYbwdDWrICsxUVLpQ39B4",
+      "id": "Ugx5QuXkT1Ir_xjtT7J4AaABAg",
+      "snippet": {
+        "videoId": "6BeBC8aGfWc",
+        "textDisplay": "Parab\u00e9ns pelo reconhecimento!",
+        "textOriginal": "Parab\u00e9ns pelo reconhecimento!",
+        "authorDisplayName": "Roberto De S\u00e3o Pedro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhy6m03SZFBvf_DKGazZ9Cd8B-_0BZYN9xyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7-SP8n2HEqzs1K8J_L1FPQ",
+        "authorChannelId": {
+          "value": "UC7-SP8n2HEqzs1K8J_L1FPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-10-30T03:06:49Z",
+        "updatedAt": "2021-10-30T03:06:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ti9SNpW7OOnbOA2lbgA6dxvjZOs",
+      "id": "Ugx5QuXkT1Ir_xjtT7J4AaABAg.9U6HMMZ5j9B9U6J_gJCAHy",
+      "snippet": {
+        "textDisplay": "Valeu!",
+        "textOriginal": "Valeu!",
+        "parentId": "Ugx5QuXkT1Ir_xjtT7J4AaABAg",
+        "authorDisplayName": "Fora da Pol\u00edtica N\u00e3o h\u00e1 Salva\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QJje1COetlCaGgKGaY6II3cBm3O6ZF5v15vNNPaJrUhMeIDtqVCiz0B0B5nUi6vCJdN2BTIS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbSOn9WtyJubqodDk_nL1aw",
+        "authorChannelId": {
+          "value": "UCbSOn9WtyJubqodDk_nL1aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-30T03:26:15Z",
+        "updatedAt": "2021-10-30T03:26:15Z"
+      }
+    }
+  ]
+}

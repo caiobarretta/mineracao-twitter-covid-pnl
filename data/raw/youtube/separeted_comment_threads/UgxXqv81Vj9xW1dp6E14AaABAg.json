@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "U7ToxXv0L1r9fDwC8G9AjFxaT_I",
+  "id": "UgxXqv81Vj9xW1dp6E14AaABAg",
+  "snippet": {
+    "videoId": "skjfpOBb0LY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VqF5id94ciNHW0GGlbjLbxQcX2Y",
+      "id": "UgxXqv81Vj9xW1dp6E14AaABAg",
+      "snippet": {
+        "videoId": "skjfpOBb0LY",
+        "textDisplay": "Aula perfeita, querooo o Kit rsrs <3",
+        "textOriginal": "Aula perfeita, querooo o Kit rsrs <3",
+        "authorDisplayName": "Glenda Matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuxLd_CMVUjrk4rvcvJ4CDVaiquWtfcqtA8q-3Rg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCh96oY1xPcG483UtCFcSuaA",
+        "authorChannelId": {
+          "value": "UCh96oY1xPcG483UtCFcSuaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-16T01:47:47Z",
+        "updatedAt": "2021-06-16T01:47:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "g-_B8l5apYNILtddLvuNxjQZG5c",
+      "id": "UgxXqv81Vj9xW1dp6E14AaABAg.9OcxCSZVJjR9OeYV0Eq4uc",
+      "snippet": {
+        "textDisplay": "Conte sempre conosco. Bons estudos!",
+        "textOriginal": "Conte sempre conosco. Bons estudos!",
+        "parentId": "UgxXqv81Vj9xW1dp6E14AaABAg",
+        "authorDisplayName": "Prof. R\u00f4mulo Passos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWRB_O-O1QToh98wUmSAR4YHPaJHDNLqk3Bru9MA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH25QzGyR3c0i7krBlx4W-Q",
+        "authorChannelId": {
+          "value": "UCH25QzGyR3c0i7krBlx4W-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-16T16:41:36Z",
+        "updatedAt": "2021-06-16T16:41:36Z"
+      }
+    }
+  ]
+}

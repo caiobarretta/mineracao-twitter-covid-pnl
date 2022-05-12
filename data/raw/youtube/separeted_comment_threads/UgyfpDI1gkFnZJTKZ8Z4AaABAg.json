@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OFNR6tRdP8763ZnSJg3wUrMANSo",
+  "id": "UgyfpDI1gkFnZJTKZ8Z4AaABAg",
+  "snippet": {
+    "videoId": "v3DUnDZFFC0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dRcF6kGQ8skzN6fdQKg3HQ2zs6s",
+      "id": "UgyfpDI1gkFnZJTKZ8Z4AaABAg",
+      "snippet": {
+        "videoId": "v3DUnDZFFC0",
+        "textDisplay": "Olha isso, o come\u00e7o de tudo",
+        "textOriginal": "Olha isso, o come\u00e7o de tudo",
+        "authorDisplayName": "Samuel Calten",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PvT6l_V5AXlS5s9YOkbBMhlpVn32KZxkWDJXhUJjtLwEWGWQEaUCRikadir-ovpuZzm1pse_TJo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHShTrWHtTRRDXrStIsaMZA",
+        "authorChannelId": {
+          "value": "UCHShTrWHtTRRDXrStIsaMZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 58,
+        "publishedAt": "2020-08-17T01:51:12Z",
+        "updatedAt": "2020-08-17T01:51:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tqIwUo6CimvD3uCS3y3SeAPSXcI",
+      "id": "UgyfpDI1gkFnZJTKZ8Z4AaABAg.9CRkjQ5ve6F9OkcByOUF6S",
+      "snippet": {
+        "textDisplay": "O come\u00e7o foi em dezembro, a\u00ed nesse v\u00eddeo a merda j\u00e1 tava feita",
+        "textOriginal": "O come\u00e7o foi em dezembro, a\u00ed nesse v\u00eddeo a merda j\u00e1 tava feita",
+        "parentId": "UgyfpDI1gkFnZJTKZ8Z4AaABAg",
+        "authorDisplayName": "Thallys Pontual",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwdPjo1tZhvvjXLllgwxu4QxH1bhqDlUEuTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaW52SG1jKw0RwfOAqIxB4Q",
+        "authorChannelId": {
+          "value": "UCaW52SG1jKw0RwfOAqIxB4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-19T01:18:08Z",
+        "updatedAt": "2021-06-19T01:18:08Z"
+      }
+    }
+  ]
+}

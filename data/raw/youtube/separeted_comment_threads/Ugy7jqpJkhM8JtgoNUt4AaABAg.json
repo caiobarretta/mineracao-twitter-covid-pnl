@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3c_B3pwktaVxHmMhyO24qDiDTzg",
+  "id": "Ugy7jqpJkhM8JtgoNUt4AaABAg",
+  "snippet": {
+    "videoId": "B50e1shPp8g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jjo1TAbP6XCv7fEEtfpsqSqGPo4",
+      "id": "Ugy7jqpJkhM8JtgoNUt4AaABAg",
+      "snippet": {
+        "videoId": "B50e1shPp8g",
+        "textDisplay": "Aqui no Brasil os alegrinhos s\u00f3 pensam em carnaval.",
+        "textOriginal": "Aqui no Brasil os alegrinhos s\u00f3 pensam em carnaval.",
+        "authorDisplayName": "Katendekwa K.T",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCRH5jzWPqMwnjYy_XB_2KHzLzTCr9RP-mYGzTuWc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ4trnFuwUea4zSSdAziqMw",
+        "authorChannelId": {
+          "value": "UCZ4trnFuwUea4zSSdAziqMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-22T00:20:38Z",
+        "updatedAt": "2022-04-22T00:20:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1DlmgSyBSF66ptk_7SGNYlUrFPw",
+      "id": "Ugy7jqpJkhM8JtgoNUt4AaABAg.9a60eT-GOUQ9aHpKC7UNbK",
+      "snippet": {
+        "textDisplay": "sim pq nao?",
+        "textOriginal": "sim pq nao?",
+        "parentId": "Ugy7jqpJkhM8JtgoNUt4AaABAg",
+        "authorDisplayName": "Buqueir\u00e3o H\u00caA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr-jYLq1ozrK8aB7oNgZI8I60C6QvftN6ASL4q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV7rU-0b5lKU-_UDVv6_xuw",
+        "authorChannelId": {
+          "value": "UCV7rU-0b5lKU-_UDVv6_xuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-26T14:23:46Z",
+        "updatedAt": "2022-04-26T14:23:46Z"
+      }
+    }
+  ]
+}

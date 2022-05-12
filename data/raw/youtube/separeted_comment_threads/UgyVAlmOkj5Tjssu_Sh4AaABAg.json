@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PIED1mH2WM57Hd35hef-3CE0sIw",
+  "id": "UgyVAlmOkj5Tjssu_Sh4AaABAg",
+  "snippet": {
+    "videoId": "jiPDhhbm7lU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mvWuzn9fjXhz5G_KjeoX6atsQ6I",
+      "id": "UgyVAlmOkj5Tjssu_Sh4AaABAg",
+      "snippet": {
+        "videoId": "jiPDhhbm7lU",
+        "textDisplay": "\u00c9 s\u00f3 uma gripe",
+        "textOriginal": "\u00c9 s\u00f3 uma gripe",
+        "authorDisplayName": "Renato Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGxuYKXrN8gisDFWXxMGqYjkhOh8jBDDfvHohOVpw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIKtXF21PmOm6xhMrrvPlhA",
+        "authorChannelId": {
+          "value": "UCIKtXF21PmOm6xhMrrvPlhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-26T11:46:41Z",
+        "updatedAt": "2020-02-26T11:46:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p49uyroQgf43eqf5zRa3WV9y2G8",
+      "id": "UgyVAlmOkj5Tjssu_Sh4AaABAg.95VMMQ7vt-p960zDA3miZ5",
+      "snippet": {
+        "textDisplay": "A gripe espanhola de 1918 era so uma gripe tambem",
+        "textOriginal": "A gripe espanhola de 1918 era so uma gripe tambem",
+        "parentId": "UgyVAlmOkj5Tjssu_Sh4AaABAg",
+        "authorDisplayName": "lucio sales",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVaOGX-7K4x1na3cuNlhlveGtkGTK1IgOXxA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtxuXr9m_c3iwPVHsnmg1_Q",
+        "authorChannelId": {
+          "value": "UCtxuXr9m_c3iwPVHsnmg1_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-10T13:09:52Z",
+        "updatedAt": "2020-03-10T13:09:52Z"
+      }
+    }
+  ]
+}

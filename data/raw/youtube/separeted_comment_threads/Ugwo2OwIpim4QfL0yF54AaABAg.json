@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g6bu7vlEhpb1PBLY_X60Zq05_18",
+  "id": "Ugwo2OwIpim4QfL0yF54AaABAg",
+  "snippet": {
+    "videoId": "fc9E30vQGX0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fLPtKjCcgScMJkfTG5-hRZ0MuY0",
+      "id": "Ugwo2OwIpim4QfL0yF54AaABAg",
+      "snippet": {
+        "videoId": "fc9E30vQGX0",
+        "textDisplay": "Muito bom!",
+        "textOriginal": "Muito bom!",
+        "authorDisplayName": "Andreza Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1DalsGSN10gesg6hEh7dC0DVyZ7oljqooJRiu8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL69_tdTKbjHFwCN9zM-7cg",
+        "authorChannelId": {
+          "value": "UCL69_tdTKbjHFwCN9zM-7cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-24T02:20:22Z",
+        "updatedAt": "2021-11-24T02:20:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TtxRciGk-nMc6whyfLPOUpamgnY",
+      "id": "Ugwo2OwIpim4QfL0yF54AaABAg.9V6Zv2fHm3o9ZaIGZvKkSR",
+      "snippet": {
+        "textDisplay": "Obrigado pelo apoio!!!",
+        "textOriginal": "Obrigado pelo apoio!!!",
+        "parentId": "Ugwo2OwIpim4QfL0yF54AaABAg",
+        "authorDisplayName": "Biologia com o Prof. Gleidson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkfzKcFPxtM4MQqb5tRa82JJInD-CLU2n7g2q_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmB6l-75eCOz7jdei6CdxiA",
+        "authorChannelId": {
+          "value": "UCmB6l-75eCOz7jdei6CdxiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-15T10:48:12Z",
+        "updatedAt": "2022-03-15T10:48:12Z"
+      }
+    }
+  ]
+}

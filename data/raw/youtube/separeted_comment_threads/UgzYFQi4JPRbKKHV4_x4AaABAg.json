@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vhE478CNiVX-gjxEF8t9E0Tr3hk",
+  "id": "UgzYFQi4JPRbKKHV4_x4AaABAg",
+  "snippet": {
+    "videoId": "cN5ctqNDavI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iiL_WkaOSq3x7lx1_yUjOTzzXmA",
+      "id": "UgzYFQi4JPRbKKHV4_x4AaABAg",
+      "snippet": {
+        "videoId": "cN5ctqNDavI",
+        "textDisplay": "fala mais baixoo professor",
+        "textOriginal": "fala mais baixoo professor",
+        "authorDisplayName": "Kaliel Olive",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNcb7D06z2_lKkmBEx2edlie2RFt1nQPRYmg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChVWXUQCpYc5hYg5d21a5bw",
+        "authorChannelId": {
+          "value": "UChVWXUQCpYc5hYg5d21a5bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-24T19:16:44Z",
+        "updatedAt": "2020-03-24T19:16:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "255SNBIMBZBiNQSm-qdyDjeHqS0",
+      "id": "UgzYFQi4JPRbKKHV4_x4AaABAg.96agKHnFOlC96aiPsRWMpR",
+      "snippet": {
+        "textDisplay": "Olive acorda! Acorda que voc~e t\u00e1 morto e n\u00e3o sabe",
+        "textOriginal": "Olive acorda! Acorda que voc~e t\u00e1 morto e n\u00e3o sabe",
+        "parentId": "UgzYFQi4JPRbKKHV4_x4AaABAg",
+        "authorDisplayName": "Fil\u00f3sofo Paulo Ghiraldelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTozceRqpGnLXkrmpX3DMu2HeBwqC_K1v5NZ5pEPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBMKrkHv07GoYb5ITLt0sYQ",
+        "authorChannelId": {
+          "value": "UCBMKrkHv07GoYb5ITLt0sYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-24T19:34:58Z",
+        "updatedAt": "2020-03-24T19:34:58Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "L-7ZHHlX6Kwx3yhdma2RGth4r5g",
+      "id": "UgzYFQi4JPRbKKHV4_x4AaABAg.96agKHnFOlC96ah7sQqMls",
+      "snippet": {
+        "textDisplay": "....\u00e9 a indigna\u00e7\u00e3o diante da situa\u00e7\u00e3o, n\u00e3o tem como nem d\u00e1 mais pra ser comedido.",
+        "textOriginal": "....\u00e9 a indigna\u00e7\u00e3o diante da situa\u00e7\u00e3o, n\u00e3o tem como nem d\u00e1 mais pra ser comedido.",
+        "parentId": "UgzYFQi4JPRbKKHV4_x4AaABAg",
+        "authorDisplayName": "Wagner Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQncpR5NqTrAoYcWUkZEEkExZyqAowFJ-e_eDLl8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzS_XUowCDP8AKYwS41epPg",
+        "authorChannelId": {
+          "value": "UCzS_XUowCDP8AKYwS41epPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-24T19:23:46Z",
+        "updatedAt": "2020-03-24T19:23:46Z"
+      }
+    }
+  ]
+}

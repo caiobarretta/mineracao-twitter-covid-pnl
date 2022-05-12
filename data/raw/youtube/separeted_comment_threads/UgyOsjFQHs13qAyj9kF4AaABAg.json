@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cpoKxbCKHVPODIL-XEJR9K6Vo7Y",
+  "id": "UgyOsjFQHs13qAyj9kF4AaABAg",
+  "snippet": {
+    "videoId": "0R59erzBBTQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SifqLvhi0E7FQ4YuUkp6X10qNio",
+      "id": "UgyOsjFQHs13qAyj9kF4AaABAg",
+      "snippet": {
+        "videoId": "0R59erzBBTQ",
+        "textDisplay": "RUMO \u00e0 meio MILH\u00c3O",
+        "textOriginal": "RUMO \u00e0 meio MILH\u00c3O",
+        "authorDisplayName": "TAR\u00d4 e HOR\u00d3SCOPO Nayara Cristal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_Qim0tvFmZVfJMZ_-OwF4KjkR1Fs0_aeHdl6U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCVbYTFbRVOleLvCIshPBRg",
+        "authorChannelId": {
+          "value": "UCCVbYTFbRVOleLvCIshPBRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-21T22:07:46Z",
+        "updatedAt": "2021-04-21T22:07:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3epAKnPGkAmv_e2y9o-4pFQXa8U",
+      "id": "UgyOsjFQHs13qAyj9kF4AaABAg.9MPwItFOTMo9MSj8CLgt_9",
+      "snippet": {
+        "textDisplay": "O que quis dizer???",
+        "textOriginal": "O que quis dizer???",
+        "parentId": "UgyOsjFQHs13qAyj9kF4AaABAg",
+        "authorDisplayName": "Luiz Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-xSWI8yWtwMnXBkK285M-8WLOqOJH05ryeA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCercgSnrFwu-0GWBdrWn3Ag",
+        "authorChannelId": {
+          "value": "UCercgSnrFwu-0GWBdrWn3Ag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-23T00:10:26Z",
+        "updatedAt": "2021-04-23T00:10:26Z"
+      }
+    }
+  ]
+}

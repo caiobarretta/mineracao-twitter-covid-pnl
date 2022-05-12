@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RiSj0yq5bCYwHJBOVvBaWtUCxAE",
+  "id": "UgxvvoLUKhKN0Pl4KU94AaABAg",
+  "snippet": {
+    "videoId": "vPGf-eUyEf8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Nrn47G0m_cix_znhwjLO41xwEqA",
+      "id": "UgxvvoLUKhKN0Pl4KU94AaABAg",
+      "snippet": {
+        "videoId": "vPGf-eUyEf8",
+        "textDisplay": "Essa mat\u00e9ria teria que ser divulgada nos jornais da Globo.",
+        "textOriginal": "Essa mat\u00e9ria teria que ser divulgada nos jornais da Globo.",
+        "authorDisplayName": "Eugenio Pacelli Diniz Leite",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQa6HxP7oq5kFMUkBrF-bnLMdtayXyAoaWokA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQNjb8EG7gXLsskQ09kGsIw",
+        "authorChannelId": {
+          "value": "UCQNjb8EG7gXLsskQ09kGsIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 82,
+        "publishedAt": "2021-01-29T17:05:15Z",
+        "updatedAt": "2021-01-29T17:05:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oOi7dhEI28nkDgGMVpf1QHnaRQg",
+      "id": "UgxvvoLUKhKN0Pl4KU94AaABAg.9J6FVW_JDQh9J8rrLAhG3E",
+      "snippet": {
+        "textDisplay": "suas coloca\u00e7\u00f5es preocupam o mercado.",
+        "textOriginal": "suas coloca\u00e7\u00f5es preocupam o mercado.",
+        "parentId": "UgxvvoLUKhKN0Pl4KU94AaABAg",
+        "authorDisplayName": "Vladimir Ferraz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkZkHmQ460uzCE-fORwaD1EPiDOdbSDZSisy-c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCR6X1XpOD5UiUiAtM2kl8sA",
+        "authorChannelId": {
+          "value": "UCR6X1XpOD5UiUiAtM2kl8sA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-30T17:27:38Z",
+        "updatedAt": "2021-01-30T17:27:38Z"
+      }
+    }
+  ]
+}

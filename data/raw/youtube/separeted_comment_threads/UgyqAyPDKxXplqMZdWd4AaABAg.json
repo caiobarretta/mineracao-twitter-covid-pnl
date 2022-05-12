@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CoUzwT3WNqZNHQIgu4IFwYz0VA4",
+  "id": "UgyqAyPDKxXplqMZdWd4AaABAg",
+  "snippet": {
+    "videoId": "sxHOOhVP5v4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oIxnRQafnss2aYyXRxwPz1wCGJA",
+      "id": "UgyqAyPDKxXplqMZdWd4AaABAg",
+      "snippet": {
+        "videoId": "sxHOOhVP5v4",
+        "textDisplay": "Culpa do bolsonaro",
+        "textOriginal": "Culpa do bolsonaro",
+        "authorDisplayName": "Leonardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yjLjOR2XwF252cqzyso87gag0F3laDUbjug4KgFqgMPWCV6xw_lbHqqmhT5Xmzq_uGdqmZvo3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj3DIO7AtGieS5Eek2dGyTg",
+        "authorChannelId": {
+          "value": "UCj3DIO7AtGieS5Eek2dGyTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-25T19:51:21Z",
+        "updatedAt": "2020-01-25T19:51:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zU7sLLrbmRF5lCLLSuXWQKkMmSY",
+      "id": "UgyqAyPDKxXplqMZdWd4AaABAg.94DpOEhqVRo94FFC9oo8JZ",
+      "snippet": {
+        "textDisplay": "Isso ai \u00e9 coisa do PT",
+        "textOriginal": "Isso ai \u00e9 coisa do PT",
+        "parentId": "UgyqAyPDKxXplqMZdWd4AaABAg",
+        "authorDisplayName": "Jokinha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfPSW-uYCpO23pRJJScu5szEbitWWJ1jnim3dGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWRhX3U-kSlRQyQ7rxVW6_Q",
+        "authorChannelId": {
+          "value": "UCWRhX3U-kSlRQyQ7rxVW6_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-26T09:04:52Z",
+        "updatedAt": "2020-01-26T09:04:52Z"
+      }
+    }
+  ]
+}

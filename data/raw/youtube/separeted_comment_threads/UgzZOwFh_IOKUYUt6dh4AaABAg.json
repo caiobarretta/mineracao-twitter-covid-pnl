@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MRbUTsvOMGZAWpJPlqcuiVYJcjQ",
+  "id": "UgzZOwFh_IOKUYUt6dh4AaABAg",
+  "snippet": {
+    "videoId": "B50e1shPp8g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RMioKoWl_ZYUMS13SGmd6xair6Q",
+      "id": "UgzZOwFh_IOKUYUt6dh4AaABAg",
+      "snippet": {
+        "videoId": "B50e1shPp8g",
+        "textDisplay": "Eles v\u00e3o querer fazer isso nas elei\u00e7\u00f5es, no Brasil.",
+        "textOriginal": "Eles v\u00e3o querer fazer isso nas elei\u00e7\u00f5es, no Brasil.",
+        "authorDisplayName": "Givaldo Ferreira Correia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQC7lP2INaxNOD7b3LDwYjGovl3hoyUrqoKKStVyg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChlsMUTBL7zwvUdWik94dfg",
+        "authorChannelId": {
+          "value": "UChlsMUTBL7zwvUdWik94dfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-04-17T04:05:29Z",
+        "updatedAt": "2022-04-17T04:05:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xnpLQupAtLXwwbTLXAQU35uS2qw",
+      "id": "UgzZOwFh_IOKUYUt6dh4AaABAg.9_uYPx1bY-c9_vQEHvkccu",
+      "snippet": {
+        "textDisplay": "ataque biologico?",
+        "textOriginal": "ataque biologico?",
+        "parentId": "UgzZOwFh_IOKUYUt6dh4AaABAg",
+        "authorDisplayName": "Rafael Vilas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0KxIecGiTpo9e1iKSuCiR7pAL_zfl9Leb69bbQA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyOI4n09lRI3pINqZEtQgBA",
+        "authorChannelId": {
+          "value": "UCyOI4n09lRI3pINqZEtQgBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-17T12:13:14Z",
+        "updatedAt": "2022-04-17T12:13:14Z"
+      }
+    }
+  ]
+}

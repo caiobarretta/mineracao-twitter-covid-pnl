@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qWebMPYsPQPtVBMGFWtJda4SZ2Y",
+  "id": "UgzcmY7zBAyblcxcGO14AaABAg",
+  "snippet": {
+    "videoId": "lOl1GFQUJZQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "srXMetgP_lz-8ajLuw1cQVL0q0A",
+      "id": "UgzcmY7zBAyblcxcGO14AaABAg",
+      "snippet": {
+        "videoId": "lOl1GFQUJZQ",
+        "textDisplay": "Cad\u00ea a vacina milagrosa?",
+        "textOriginal": "Cad\u00ea a vacina milagrosa?",
+        "authorDisplayName": "Tiago Biel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXmmjNkzJ9H35oTpEtq7yRQC9rxVM0B4qkzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHNGBffABcIWohW4Ny2nJKw",
+        "authorChannelId": {
+          "value": "UCHNGBffABcIWohW4Ny2nJKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-11-06T05:25:20Z",
+        "updatedAt": "2021-11-06T05:25:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_dBm_ZtwVrIGErJlcf533TXX0os",
+      "id": "UgzcmY7zBAyblcxcGO14AaABAg.9UOYm2LMg1p9UP2xedmW-s",
+      "snippet": {
+        "textDisplay": "Mais acima o Silv\u00edcola explicou de forma bem simples se voc\u00ea estiver realmente interessado em saber.",
+        "textOriginal": "Mais acima o Silv\u00edcola explicou de forma bem simples se voc\u00ea estiver realmente interessado em saber.",
+        "parentId": "UgzcmY7zBAyblcxcGO14AaABAg",
+        "authorDisplayName": "Rafael Porto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcSmg17-Zm_a-3zFLsH0w2hrokqRCVYCG9l0Ro8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt68nTZDDJH8WKqSkYO5J2Q",
+        "authorChannelId": {
+          "value": "UCt68nTZDDJH8WKqSkYO5J2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-06T10:06:33Z",
+        "updatedAt": "2021-11-06T10:06:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "sfRMzRcPIzogZP0ihDwZ5N6Mg9A",
+      "id": "UgzcmY7zBAyblcxcGO14AaABAg.9UOYm2LMg1p9UP2bUc7BbM",
+      "snippet": {
+        "textDisplay": "Bem informado voc\u00ea hein?!",
+        "textOriginal": "Bem informado voc\u00ea hein?!",
+        "parentId": "UgzcmY7zBAyblcxcGO14AaABAg",
+        "authorDisplayName": "Rafael Porto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcSmg17-Zm_a-3zFLsH0w2hrokqRCVYCG9l0Ro8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt68nTZDDJH8WKqSkYO5J2Q",
+        "authorChannelId": {
+          "value": "UCt68nTZDDJH8WKqSkYO5J2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-06T10:03:31Z",
+        "updatedAt": "2021-11-06T10:03:31Z"
+      }
+    }
+  ]
+}

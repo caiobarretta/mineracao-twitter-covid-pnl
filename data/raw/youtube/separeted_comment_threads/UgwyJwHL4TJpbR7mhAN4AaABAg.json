@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Aw5MjSvnAl8KRNYqif5DXmZzon4",
+  "id": "UgwyJwHL4TJpbR7mhAN4AaABAg",
+  "snippet": {
+    "videoId": "jiPDhhbm7lU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GRCc6_u5HVs1-kTM953gITUQZvI",
+      "id": "UgwyJwHL4TJpbR7mhAN4AaABAg",
+      "snippet": {
+        "videoId": "jiPDhhbm7lU",
+        "textDisplay": "Pra mim. Bombas biol\u00f3gicas...",
+        "textOriginal": "Pra mim. Bombas biol\u00f3gicas...",
+        "authorDisplayName": "Oliney Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHK648p49XLggIozaljgUtZpWe4AWRuj9M79xCECg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChA_clZ8y7tY6VyLDg7mKLg",
+        "authorChannelId": {
+          "value": "UChA_clZ8y7tY6VyLDg7mKLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-26T10:57:11Z",
+        "updatedAt": "2020-02-26T10:57:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yo4L_RXc2qdhir5ivnIf9UI0nQU",
+      "id": "UgwyJwHL4TJpbR7mhAN4AaABAg.95VGgxFt83K962ZxcRLTKI",
+      "snippet": {
+        "textDisplay": "Leia sobre a gripe espanhola de 1918.",
+        "textOriginal": "Leia sobre a gripe espanhola de 1918.",
+        "parentId": "UgwyJwHL4TJpbR7mhAN4AaABAg",
+        "authorDisplayName": "Maria Tereza de Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1Zq5IfS-2GGZf_hCQgIovDXVJzkKAJTExEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmD3L6fqeiLW0Gx735v90Vg",
+        "authorChannelId": {
+          "value": "UCmD3L6fqeiLW0Gx735v90Vg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-11T03:58:54Z",
+        "updatedAt": "2020-03-11T03:58:54Z"
+      }
+    }
+  ]
+}

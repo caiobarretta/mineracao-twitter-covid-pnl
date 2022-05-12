@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DVqFWbeh-mYK7WizkEJ8M65E-dw",
+  "id": "UgytXBlJ5QjDNkb7Z0F4AaABAg",
+  "snippet": {
+    "videoId": "MdSTOal9dxA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ijE_2lmuNI_WsW3A6TN9h4-edp8",
+      "id": "UgytXBlJ5QjDNkb7Z0F4AaABAg",
+      "snippet": {
+        "videoId": "MdSTOal9dxA",
+        "textDisplay": "Eu assistindo por curiosidade e para passar o tempo al\u00e9m de ser legal \u00e9 informativo vou at\u00e9 me inscrever",
+        "textOriginal": "Eu assistindo por curiosidade e para passar o tempo al\u00e9m de ser legal \u00e9 informativo vou at\u00e9 me inscrever",
+        "authorDisplayName": "lulu Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/nFBjPp3tEK8ZTLgsNsXnqCe6grwMoKbhAlwWuElgeD7t_UHnHiMPRfVX_ZdXRvjhBGpmkPnf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnYip7ZRT09Sk0lwsUoayYA",
+        "authorChannelId": {
+          "value": "UCnYip7ZRT09Sk0lwsUoayYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 84,
+        "publishedAt": "2021-10-27T15:10:53Z",
+        "updatedAt": "2021-10-27T15:10:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DmtcVztmL0OuA3XlkY8mbAUf6rc",
+      "id": "UgytXBlJ5QjDNkb7Z0F4AaABAg.9U-qpzEpya69UsAjxPCCVB",
+      "snippet": {
+        "textDisplay": "Tbm",
+        "textOriginal": "Tbm",
+        "parentId": "UgytXBlJ5QjDNkb7Z0F4AaABAg",
+        "authorDisplayName": "Bia :)",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0FG8LApn3gmcG6RF24GOjL4EvX3vZiB4m-Dij8hoGwvLYWYsQ8UdKjvNZp_Ug2OrS35BLG89IQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcMW2Typbjo7p8kY-F-dM-Q",
+        "authorChannelId": {
+          "value": "UCcMW2Typbjo7p8kY-F-dM-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-18T02:51:48Z",
+        "updatedAt": "2021-11-18T02:51:48Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "TZFwnqapsFUR7JrKDOUIaRsAxXc",
+      "id": "UgytXBlJ5QjDNkb7Z0F4AaABAg.9U-qpzEpya69U8E2ejCtQ4",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgytXBlJ5QjDNkb7Z0F4AaABAg",
+        "authorDisplayName": "Eduardo & Pedro bhoppro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gZTmGMAxjaGFnVrPAQ3A-EAyOMTMeofgTxF2ZU4ChUUNCNgJb2NlzYRrII9S4JA-AV24BPt9ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbAr8tyUINBkkBGjvfeLl2w",
+        "authorChannelId": {
+          "value": "UCbAr8tyUINBkkBGjvfeLl2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-30T21:16:24Z",
+        "updatedAt": "2021-10-30T21:16:24Z"
+      }
+    }
+  ]
+}

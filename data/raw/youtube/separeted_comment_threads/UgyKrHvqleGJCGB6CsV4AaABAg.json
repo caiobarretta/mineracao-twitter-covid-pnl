@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cl8FlZJfHWadKWYw19rW0PxQBOE",
+  "id": "UgyKrHvqleGJCGB6CsV4AaABAg",
+  "snippet": {
+    "videoId": "y2DbeHV5RYo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QWYme4QZO0cI9fgqXMHZBfHygp0",
+      "id": "UgyKrHvqleGJCGB6CsV4AaABAg",
+      "snippet": {
+        "videoId": "y2DbeHV5RYo",
+        "textDisplay": "N qria chorar...mais fazer oq n\u00e9? T\u00f4 com muito medo\ud83d\ude1f\ud83d\ude1f",
+        "textOriginal": "N qria chorar...mais fazer oq n\u00e9? T\u00f4 com muito medo\ud83d\ude1f\ud83d\ude1f",
+        "authorDisplayName": "Maria Sampaio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2tU1Zjz8f2obHkfXiWVRSqN5ujQchaN9q7GCV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWbgkXtHYv4FPVSEPgiWe1w",
+        "authorChannelId": {
+          "value": "UCWbgkXtHYv4FPVSEPgiWe1w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-05-15T07:23:17Z",
+        "updatedAt": "2020-05-15T07:23:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ir8154pyRHBwhOmK-wC_hZ_fAUk",
+      "id": "UgyKrHvqleGJCGB6CsV4AaABAg.98fJ0OEFsAK99Cy3wpIvn1",
+      "snippet": {
+        "textDisplay": "Tudo passar\u00e1",
+        "textOriginal": "Tudo passar\u00e1",
+        "parentId": "UgyKrHvqleGJCGB6CsV4AaABAg",
+        "authorDisplayName": "Adriano Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zgmPRZJlgh-zbTHWOjNgwlPZodTRGsLKuoztHgH2iZx62Wuk3C7dYb63eC_rAVSQb7I6VMheuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2XGpjVYZkgbdGIkypMNnKQ",
+        "authorChannelId": {
+          "value": "UC2XGpjVYZkgbdGIkypMNnKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-05-28T18:24:57Z",
+        "updatedAt": "2020-05-28T18:24:57Z"
+      }
+    }
+  ]
+}

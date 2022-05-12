@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yvCoDWvcLngIUzKPcFyiu-1vR3Q",
+  "id": "UgzexsTw8AmO4LEiD794AaABAg",
+  "snippet": {
+    "videoId": "mHWoUs--0Do",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SwUyZOWM-39Sr0m8Rxhq4yFO9jk",
+      "id": "UgzexsTw8AmO4LEiD794AaABAg",
+      "snippet": {
+        "videoId": "mHWoUs--0Do",
+        "textDisplay": "Usem m\u00e1scara se cuidem!",
+        "textOriginal": "Usem m\u00e1scara se cuidem!",
+        "authorDisplayName": "Gabriel Molaia Novaes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vFWRo_Semi2RSBbOLBR7dXBH0j-uCD1gly_az8O1Aqfb1x1Qshll5bl1A-Hu1YcwzxsDhwYttg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu8qpq6_Tgr2iTleLWfctPA",
+        "authorChannelId": {
+          "value": "UCu8qpq6_Tgr2iTleLWfctPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-05-11T16:36:44Z",
+        "updatedAt": "2021-05-11T16:38:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FdnCXTk1VzaHkR2kYMnDzYtOQMw",
+      "id": "UgzexsTw8AmO4LEiD794AaABAg.9NCqJmmKGVQ9TmDWwkD6v5",
+      "snippet": {
+        "textDisplay": "Tnc",
+        "textOriginal": "Tnc",
+        "parentId": "UgzexsTw8AmO4LEiD794AaABAg",
+        "authorDisplayName": "Ticolirow",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvjuAK_XKr-D-iAg24O3_6y4yTc-zjGKCwodK3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0c8Tns5SyabykGC_oy0JdA",
+        "authorChannelId": {
+          "value": "UC0c8Tns5SyabykGC_oy0JdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-21T22:49:15Z",
+        "updatedAt": "2021-10-21T22:49:15Z"
+      }
+    }
+  ]
+}

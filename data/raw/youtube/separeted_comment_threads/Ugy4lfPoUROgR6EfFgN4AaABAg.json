@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jKrUIt8kFmBrJjkCPV66ykkbSno",
+  "id": "Ugy4lfPoUROgR6EfFgN4AaABAg",
+  "snippet": {
+    "videoId": "jiPDhhbm7lU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LTKx7tHxCX0x-lS5u1nPsisWm-Y",
+      "id": "Ugy4lfPoUROgR6EfFgN4AaABAg",
+      "snippet": {
+        "videoId": "jiPDhhbm7lU",
+        "textDisplay": "Que Deus nos guarde .. ;s",
+        "textOriginal": "Que Deus nos guarde .. ;s",
+        "authorDisplayName": "Brenda & J\u00falio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQl_iQO0bX8naupGRqgkGC_rBnkaiVACMkNN796Uw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqiaagPAwDXwymxhxGjmX8Q",
+        "authorChannelId": {
+          "value": "UCqiaagPAwDXwymxhxGjmX8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 32,
+        "publishedAt": "2020-02-26T10:46:57Z",
+        "updatedAt": "2020-02-26T10:46:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Hnczz35E8VmShFSSGNeq91BmUIc",
+      "id": "Ugy4lfPoUROgR6EfFgN4AaABAg.95VFWy-sPJm95ZIanyox3o",
+      "snippet": {
+        "textDisplay": "Ou aguarde.",
+        "textOriginal": "Ou aguarde.",
+        "parentId": "Ugy4lfPoUROgR6EfFgN4AaABAg",
+        "authorDisplayName": "samara bloxgames",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iGJEOkjPzz59NFfNNGaLlMqyohZ-ulb2kJUICd5-LT0_PjuoVE1SyMwbyWpeSU8MSPICrvTr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2hZb-EeY9r8WEMJxo8mPGA",
+        "authorChannelId": {
+          "value": "UC2hZb-EeY9r8WEMJxo8mPGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-02-28T00:30:47Z",
+        "updatedAt": "2020-02-28T00:30:47Z"
+      }
+    }
+  ]
+}

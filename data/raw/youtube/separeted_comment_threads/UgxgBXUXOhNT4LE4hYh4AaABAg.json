@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8Oxq5_TPoQgbr0DyoYasGjM8WtU",
+  "id": "UgxgBXUXOhNT4LE4hYh4AaABAg",
+  "snippet": {
+    "videoId": "KxBgKyntuHE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JTkKxajLCaOmkzOy8mKzji_yFpc",
+      "id": "UgxgBXUXOhNT4LE4hYh4AaABAg",
+      "snippet": {
+        "videoId": "KxBgKyntuHE",
+        "textDisplay": "Ai tavendo que n\u00e3o  e s\u00f3 uma gripe.",
+        "textOriginal": "Ai tavendo que n\u00e3o  e s\u00f3 uma gripe.",
+        "authorDisplayName": "Polyana Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJUmX79FQAVBAM-rDMnIOmvqK8aSs25uoVcy-rziA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCShOuWC1v4N4ESX-IaToQVQ",
+        "authorChannelId": {
+          "value": "UCShOuWC1v4N4ESX-IaToQVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-11T19:52:17Z",
+        "updatedAt": "2020-03-11T19:52:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EByaVa3gdvexVN80s-de2hhoN4E",
+      "id": "UgxgBXUXOhNT4LE4hYh4AaABAg.964H3J3jkR59G-bUx3jGkB",
+      "snippet": {
+        "textDisplay": "E agora e s\u00f3 uma gripe???",
+        "textOriginal": "E agora e s\u00f3 uma gripe???",
+        "parentId": "UgxgBXUXOhNT4LE4hYh4AaABAg",
+        "authorDisplayName": "fernando thiago",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCis3ksRvToBfGbi5q0CgdeEvoLPOhChDtDBfNpVk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLPezN18MsuNd9bgowjGDig",
+        "authorChannelId": {
+          "value": "UCLPezN18MsuNd9bgowjGDig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-13T13:37:17Z",
+        "updatedAt": "2020-11-13T13:37:17Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "sk1D0wrbSGsuYVU6vXm-TI2PoT8",
+      "id": "UgxgBXUXOhNT4LE4hYh4AaABAg.964H3J3jkR5964I70T7wfg",
+      "snippet": {
+        "textDisplay": "A gripe tamb\u00e9m eh uma pandemia",
+        "textOriginal": "A gripe tamb\u00e9m eh uma pandemia",
+        "parentId": "UgxgBXUXOhNT4LE4hYh4AaABAg",
+        "authorDisplayName": "Renan W. P.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BIvcPQcq63EuU7R8Z7RRZCbba63ExyCDtIAJrsr-XQ_YUmRAuJB1MDntK9pd-0MOenC7NXosRg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd0YsskLoaNEM-U36Q9lg9g",
+        "authorChannelId": {
+          "value": "UCd0YsskLoaNEM-U36Q9lg9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-11T20:01:31Z",
+        "updatedAt": "2020-03-11T20:01:31Z"
+      }
+    }
+  ]
+}

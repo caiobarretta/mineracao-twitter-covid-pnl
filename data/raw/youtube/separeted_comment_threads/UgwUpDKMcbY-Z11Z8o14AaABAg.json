@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oNMBZvlkfEqXycg-g8z7oEtLWdY",
+  "id": "UgwUpDKMcbY-Z11Z8o14AaABAg",
+  "snippet": {
+    "videoId": "llgH-Im7o-c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IV3pIV9AU6e0RH4iwOBpd0XXYVQ",
+      "id": "UgwUpDKMcbY-Z11Z8o14AaABAg",
+      "snippet": {
+        "videoId": "llgH-Im7o-c",
+        "textDisplay": "Pior que o v\u00edrus \u00e9 Bolsonaro, ta mais perdido que dalt\u00f4nico montando cubo m\u00e1gico...",
+        "textOriginal": "Pior que o v\u00edrus \u00e9 Bolsonaro, ta mais perdido que dalt\u00f4nico montando cubo m\u00e1gico...",
+        "authorDisplayName": "Alexandre Rufus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkGGR_7aKiyCNPRT4tqZOZE-C7jnkjHrLnKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmoa9B1v6JzPBGVUYk_ICwA",
+        "authorChannelId": {
+          "value": "UCmoa9B1v6JzPBGVUYk_ICwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-03-13T02:14:47Z",
+        "updatedAt": "2021-03-13T02:14:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o53IzONea4Li1wEqIU9vmX2D_yk",
+      "id": "UgwUpDKMcbY-Z11Z8o14AaABAg.9KoNm65em369KslcvMJaRn",
+      "snippet": {
+        "textDisplay": "Boa analogia.",
+        "textOriginal": "Boa analogia.",
+        "parentId": "UgwUpDKMcbY-Z11Z8o14AaABAg",
+        "authorDisplayName": "Matthew Saints",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFfkkZTXFR3N4utdY7GfUNwI-ewFUPqIORJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC52ne_Mta5NGyjaFQpCpq6Q",
+        "authorChannelId": {
+          "value": "UC52ne_Mta5NGyjaFQpCpq6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T19:08:56Z",
+        "updatedAt": "2021-03-14T19:08:56Z"
+      }
+    }
+  ]
+}

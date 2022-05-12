@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TaXL0MLQKqIOlqriJKqAyBURqm8",
+  "id": "Ugxs-pskHRWy1BWPLvh4AaABAg",
+  "snippet": {
+    "videoId": "jiPDhhbm7lU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "squZMWwuztd0jQWzsb0t6CrsAPo",
+      "id": "Ugxs-pskHRWy1BWPLvh4AaABAg",
+      "snippet": {
+        "videoId": "jiPDhhbm7lU",
+        "textDisplay": "Infelizmente j\u00e1 chegou ao nosso pa\u00eds.",
+        "textOriginal": "Infelizmente j\u00e1 chegou ao nosso pa\u00eds.",
+        "authorDisplayName": "Patr\u00edcia Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/DIky6-ZcRad0VHggFF2TgS0VrVQ38Q2Qxi6xCfsFhoNUX9iPW_w3ZUe4h9POEvCHzfQKXQ3ipQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQV0Wts4wkj3iVbWTK66IkQ",
+        "authorChannelId": {
+          "value": "UCQV0Wts4wkj3iVbWTK66IkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2020-02-26T13:02:10Z",
+        "updatedAt": "2020-02-26T13:02:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uucQiph_iXs16LIbmerH-UuaDoI",
+      "id": "Ugxs-pskHRWy1BWPLvh4AaABAg.95VV-I2dDc395WFQG-u8m7",
+      "snippet": {
+        "textDisplay": "Sem pessoas sem problemas.",
+        "textOriginal": "Sem pessoas sem problemas.",
+        "parentId": "Ugxs-pskHRWy1BWPLvh4AaABAg",
+        "authorDisplayName": "Denis Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSc5tFfawRF-RH6zi0ios7JMIIscuTesB8rNNTfwA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA6QCLJtZyfYXPq-Ma6Uokg",
+        "authorChannelId": {
+          "value": "UCA6QCLJtZyfYXPq-Ma6Uokg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-26T20:05:16Z",
+        "updatedAt": "2020-02-26T20:05:16Z"
+      }
+    }
+  ]
+}

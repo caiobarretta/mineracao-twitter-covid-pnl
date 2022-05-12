@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YuqHkU24cSmTuQBhheRR-RzYCSw",
+  "id": "UgzEN1MUjemKfcIN8L94AaABAg",
+  "snippet": {
+    "videoId": "vPGf-eUyEf8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b5_iZRKG9Kjs2-SSKriqOm5wHXU",
+      "id": "UgzEN1MUjemKfcIN8L94AaABAg",
+      "snippet": {
+        "videoId": "vPGf-eUyEf8",
+        "textDisplay": "Da like qm achou o Baby Yoda! Rsrs \ud83d\ude00\u2764",
+        "textOriginal": "Da like qm achou o Baby Yoda! Rsrs \ud83d\ude00\u2764",
+        "authorDisplayName": "Samir Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJwNpBfh6UvKrgYEqxcd1jn1arj8WNQwE5oLAn=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgcS2o8PhIF48bQsoz2btkw",
+        "authorChannelId": {
+          "value": "UCgcS2o8PhIF48bQsoz2btkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-30T16:41:33Z",
+        "updatedAt": "2021-01-30T16:41:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XPxH1kEsfqqV0TvxhpwWohJC6S8",
+      "id": "UgzEN1MUjemKfcIN8L94AaABAg.9J8m_iEBMIn9JByYIcOv5A",
+      "snippet": {
+        "textDisplay": "Grogu atento ouvindo a mestra!",
+        "textOriginal": "Grogu atento ouvindo a mestra!",
+        "parentId": "UgzEN1MUjemKfcIN8L94AaABAg",
+        "authorDisplayName": "Adriele Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTsefNyn2RYFiZAmZd41NWWfOkJMe9Bkv5nnEv1K1M=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFBJ7scb6mXiC6WI7ewadiw",
+        "authorChannelId": {
+          "value": "UCFBJ7scb6mXiC6WI7ewadiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-31T22:23:47Z",
+        "updatedAt": "2021-01-31T22:23:47Z"
+      }
+    }
+  ]
+}

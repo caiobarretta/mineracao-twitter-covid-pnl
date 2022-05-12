@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kX-ZwNO9imIWJhnyj5RWP7vv2jM",
+  "id": "UgxSB2KfnUqQpQx80MN4AaABAg",
+  "snippet": {
+    "videoId": "V15mqi3dWF4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jF9PwEeOvUIZXQJ02mJEaDLmJ_o",
+      "id": "UgxSB2KfnUqQpQx80MN4AaABAg",
+      "snippet": {
+        "videoId": "V15mqi3dWF4",
+        "textDisplay": "Gostei\ud83d\ude0a\ud83d\udd90\ud83c\udffb\u2764",
+        "textOriginal": "Gostei\ud83d\ude0a\ud83d\udd90\ud83c\udffb\u2764",
+        "authorDisplayName": "Dora Moura",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDRZbYbJimNwg5Z4-qMVt4_LBozsOxO6iASw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCY6UaUDh4Ysu95DLKlgWMig",
+        "authorChannelId": {
+          "value": "UCY6UaUDh4Ysu95DLKlgWMig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-04T17:26:23Z",
+        "updatedAt": "2020-09-04T17:26:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ocXyWFBMQnrJV_tGU9JlWcZCVPk",
+      "id": "UgxSB2KfnUqQpQx80MN4AaABAg.9DBm3ea7KEL9Xs9hDlaNuE",
+      "snippet": {
+        "textDisplay": "Eu nao gostei nao kkkk",
+        "textOriginal": "Eu nao gostei nao kkkk",
+        "parentId": "UgxSB2KfnUqQpQx80MN4AaABAg",
+        "authorDisplayName": "Snakker_ZCS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BujzGOf81-zj4QTowJ9phr_aBsEOvrWNEi14e1TV4qUep04BRPksM-7KJ5cXmcz_9e-T-K70=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7JCAoSy0wE9ttZGN9dU6oA",
+        "authorChannelId": {
+          "value": "UC7JCAoSy0wE9ttZGN9dU6oA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-31T16:16:52Z",
+        "updatedAt": "2022-01-31T16:16:52Z"
+      }
+    }
+  ]
+}

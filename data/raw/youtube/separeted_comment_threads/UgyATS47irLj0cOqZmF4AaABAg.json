@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jHRw_On_m1aej6mW6UI6zutYYaQ",
+  "id": "UgyATS47irLj0cOqZmF4AaABAg",
+  "snippet": {
+    "videoId": "fc9E30vQGX0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "edwgnYvTha6E7CcByReN0m4o-EE",
+      "id": "UgyATS47irLj0cOqZmF4AaABAg",
+      "snippet": {
+        "videoId": "fc9E30vQGX0",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Ione Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/4dlMf7pX_SgQBK8LnCpEYGdn3Kb8_RYyeDQRIo7bsLVtTKupAls4cyKLDZwashC4FO4CMKeclA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpVZWUvJtieUXDAC0Zk35dQ",
+        "authorChannelId": {
+          "value": "UCpVZWUvJtieUXDAC0Zk35dQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-18T01:18:39Z",
+        "updatedAt": "2020-12-18T01:18:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_eFnEttT_rktkY9QNfWjMglqc0w",
+      "id": "UgyATS47irLj0cOqZmF4AaABAg.9HOPmZ30MyH9HOe5G4GfnX",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "parentId": "UgyATS47irLj0cOqZmF4AaABAg",
+        "authorDisplayName": "Biologia com o Prof. Gleidson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkfzKcFPxtM4MQqb5tRa82JJInD-CLU2n7g2q_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmB6l-75eCOz7jdei6CdxiA",
+        "authorChannelId": {
+          "value": "UCmB6l-75eCOz7jdei6CdxiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-18T03:32:24Z",
+        "updatedAt": "2020-12-18T03:32:24Z"
+      }
+    }
+  ]
+}

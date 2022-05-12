@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A1pdnbaa5yTEPV5yFpy7XQ9qicc",
+  "id": "UgyqmrUYPE17M6hyJFB4AaABAg",
+  "snippet": {
+    "videoId": "y2DbeHV5RYo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "__7F7vxe6mKlKcch1vlp-g2jaA4",
+      "id": "UgyqmrUYPE17M6hyJFB4AaABAg",
+      "snippet": {
+        "videoId": "y2DbeHV5RYo",
+        "textDisplay": "E esse video ja vai fazer 1 ano ....",
+        "textOriginal": "E esse video ja vai fazer 1 ano ....",
+        "authorDisplayName": "Amanda Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRiRmz6A8eDjoMNsAc7bvCV68pHBq5quxDPsD_bzik=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZO2h5SEU-gO8nSwq0s9bdA",
+        "authorChannelId": {
+          "value": "UCZO2h5SEU-gO8nSwq0s9bdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-26T23:39:23Z",
+        "updatedAt": "2021-03-26T23:39:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uOXpbvBnQZls_pGShFJhVDZe26k",
+      "id": "UgyqmrUYPE17M6hyJFB4AaABAg.9LN97BpHdAP9LP8T0L2Wmc",
+      "snippet": {
+        "textDisplay": "Pois \u00e9 \ud83d\ude44",
+        "textOriginal": "Pois \u00e9 \ud83d\ude44",
+        "parentId": "UgyqmrUYPE17M6hyJFB4AaABAg",
+        "authorDisplayName": "Adriano Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zgmPRZJlgh-zbTHWOjNgwlPZodTRGsLKuoztHgH2iZx62Wuk3C7dYb63eC_rAVSQb7I6VMheuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2XGpjVYZkgbdGIkypMNnKQ",
+        "authorChannelId": {
+          "value": "UC2XGpjVYZkgbdGIkypMNnKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-27T18:12:06Z",
+        "updatedAt": "2021-03-27T18:12:06Z"
+      }
+    }
+  ]
+}

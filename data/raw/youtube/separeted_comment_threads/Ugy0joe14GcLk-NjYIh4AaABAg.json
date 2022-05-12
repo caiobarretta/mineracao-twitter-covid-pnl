@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NljFaCFkhw79X7mbohbT3rnF1s0",
+  "id": "Ugy0joe14GcLk-NjYIh4AaABAg",
+  "snippet": {
+    "videoId": "skjfpOBb0LY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gv_Z6Gsnweoqfv9_ab3ODBSI-Yc",
+      "id": "Ugy0joe14GcLk-NjYIh4AaABAg",
+      "snippet": {
+        "videoId": "skjfpOBb0LY",
+        "textDisplay": "Aula maravilhosa \ud83d\udc97",
+        "textOriginal": "Aula maravilhosa \ud83d\udc97",
+        "authorDisplayName": "Nisiane Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSobZPad7wAh5ETVe0vuuDUAcCT-CbMgWZTmT3fdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa0tFXeRs8EeU58A-OrHPiw",
+        "authorChannelId": {
+          "value": "UCa0tFXeRs8EeU58A-OrHPiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-15T23:18:55Z",
+        "updatedAt": "2021-06-15T23:18:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MFgo8XXWYfuMUWbF9PxiWbKhkXE",
+      "id": "Ugy0joe14GcLk-NjYIh4AaABAg.9OcgA8TtDm89QJC9pUFXh3",
+      "snippet": {
+        "textDisplay": "Bons estudos!",
+        "textOriginal": "Bons estudos!",
+        "parentId": "Ugy0joe14GcLk-NjYIh4AaABAg",
+        "authorDisplayName": "Prof. R\u00f4mulo Passos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWRB_O-O1QToh98wUmSAR4YHPaJHDNLqk3Bru9MA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH25QzGyR3c0i7krBlx4W-Q",
+        "authorChannelId": {
+          "value": "UCH25QzGyR3c0i7krBlx4W-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-27T17:25:58Z",
+        "updatedAt": "2021-07-27T17:25:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Qb0oJGiZn1vrd5ZA619yAxebiZw",
+  "id": "UgyVf54AKGD1qWExF9x4AaABAg",
+  "snippet": {
+    "videoId": "gYReOiZQC4o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QJ09kJOnHgNtW4tRfZ6eo7WgYbM",
+      "id": "UgyVf54AKGD1qWExF9x4AaABAg",
+      "snippet": {
+        "videoId": "gYReOiZQC4o",
+        "textDisplay": "caiu ou subiu?",
+        "textOriginal": "caiu ou subiu?",
+        "authorDisplayName": "Alex luthor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEVcc-EFvEF_HEnq6NUGwoZOvIZMbmQZmkfCUnUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu3XOztang25CoxK5yJlM0w",
+        "authorChannelId": {
+          "value": "UCu3XOztang25CoxK5yJlM0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T13:10:49Z",
+        "updatedAt": "2022-05-10T13:10:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VqlsklWMfw03kIi6CiuuJKQSDXg",
+      "id": "UgyVf54AKGD1qWExF9x4AaABAg.9aqk67CqgPe9aqtjXUgSWd",
+      "snippet": {
+        "textDisplay": "Ou nunca .... Existiu ??? \ud83e\udd37\ud83e\udd14",
+        "textOriginal": "Ou nunca .... Existiu ??? \ud83e\udd37\ud83e\udd14",
+        "parentId": "UgyVf54AKGD1qWExF9x4AaABAg",
+        "authorDisplayName": "Carlos Wilhelm Deutsch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQngCVdTTOvX0rg0FEc0RGCDP70-qiCKikEJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5EwkwTVjSmwPo7VpB0Sh6w",
+        "authorChannelId": {
+          "value": "UC5EwkwTVjSmwPo7VpB0Sh6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-10T14:34:58Z",
+        "updatedAt": "2022-05-10T14:34:58Z"
+      }
+    }
+  ]
+}

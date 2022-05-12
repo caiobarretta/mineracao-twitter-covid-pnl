@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-ug9KBJghXhTcEjgvlpPTnQUgFg",
+  "id": "UgysjoLaS2UKy0EdX-R4AaABAg",
+  "snippet": {
+    "videoId": "jiPDhhbm7lU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FUDmARkhd4dTFS7Mcdb8igp5XkU",
+      "id": "UgysjoLaS2UKy0EdX-R4AaABAg",
+      "snippet": {
+        "videoId": "jiPDhhbm7lU",
+        "textDisplay": "Depois de um ano, ainda estamos nessa luta contra covid-19. Que Deus nos guarde!",
+        "textOriginal": "Depois de um ano, ainda estamos nessa luta contra covid-19. Que Deus nos guarde!",
+        "authorDisplayName": "Guilherme",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNypAX_tT3Zl0Q9BIRp-owt_4jlNk0g35ljf204Jg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI8YyhTguTDqmLl4n_eNsTg",
+        "authorChannelId": {
+          "value": "UCI8YyhTguTDqmLl4n_eNsTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-14T02:25:02Z",
+        "updatedAt": "2021-03-14T02:25:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6EWxtIkrHidQW4Ne58sA0ntfe60",
+      "id": "UgysjoLaS2UKy0EdX-R4AaABAg.9Kqyk0KJVTx9LjpDIKcYaX",
+      "snippet": {
+        "textDisplay": "E daqui um ano ainda vamos estar nessa luta",
+        "textOriginal": "E daqui um ano ainda vamos estar nessa luta",
+        "parentId": "UgysjoLaS2UKy0EdX-R4AaABAg",
+        "authorDisplayName": "Alessandro Guedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL83Is-VGaPBqtep61nuc9vDXCPpHIDm6DXVx4gg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLmBITmMUFfZfeQ4p6mDg1Q",
+        "authorChannelId": {
+          "value": "UCLmBITmMUFfZfeQ4p6mDg1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-05T04:18:29Z",
+        "updatedAt": "2021-04-05T04:18:29Z"
+      }
+    }
+  ]
+}

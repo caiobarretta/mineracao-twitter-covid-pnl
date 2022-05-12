@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2830S53saIP2aDNw4H2pkeY0bhg",
+  "id": "UgwEayvuzwIm8DgVAk94AaABAg",
+  "snippet": {
+    "videoId": "FDd-Oaj3ZRE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XPHrAAAINQECUF0DbhhKbi_Xzjs",
+      "id": "UgwEayvuzwIm8DgVAk94AaABAg",
+      "snippet": {
+        "videoId": "FDd-Oaj3ZRE",
+        "textDisplay": "Culpa do bolsonaro",
+        "textOriginal": "Culpa do bolsonaro",
+        "authorDisplayName": "m.s.s",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dmTf2m81qjVHEn16izcNTqNLN1AmsztsUy9HKRYJeF4z3Z-XPoauj86m_OCNXE5XNiBwrX3M0g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqAuAYFb6A6jIqnbs6PJIsA",
+        "authorChannelId": {
+          "value": "UCqAuAYFb6A6jIqnbs6PJIsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-03T11:59:41Z",
+        "updatedAt": "2021-11-03T11:59:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZDA7-flJyfG3hYGM85BjsmuCC78",
+      "id": "UgwEayvuzwIm8DgVAk94AaABAg.9UHXWiPCcpI9UHZdV0o2MB",
+      "snippet": {
+        "textDisplay": "@Vitor SS A\u00ed ele diz: A culpa n \u00e9 minha, eu n\u00e3o fiz nada. kkkkkkk",
+        "textOriginal": "@Vitor SS A\u00ed ele diz: A culpa n \u00e9 minha, eu n\u00e3o fiz nada. kkkkkkk",
+        "parentId": "UgwEayvuzwIm8DgVAk94AaABAg",
+        "authorDisplayName": "Gato Pintado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSpaDmtt6_k_wHaqVjt3aLeMrla2i0t0UTAs6smQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm3wejiZlC60McEfaVIGclA",
+        "authorChannelId": {
+          "value": "UCm3wejiZlC60McEfaVIGclA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-03T12:18:13Z",
+        "updatedAt": "2021-11-03T12:18:13Z"
+      }
+    }
+  ]
+}

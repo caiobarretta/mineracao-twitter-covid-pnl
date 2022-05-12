@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2nyyhLjSE7pypJ5uRwPPdSJGsOA",
+  "id": "UgzjPQzlUwVz7kw44-54AaABAg",
+  "snippet": {
+    "videoId": "2-go2iWhT18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1yOb7VGfFdYOk-90KwxGv0s3ZoE",
+      "id": "UgzjPQzlUwVz7kw44-54AaABAg",
+      "snippet": {
+        "videoId": "2-go2iWhT18",
+        "textDisplay": "La Pandemia no va a desaparecer nunca.",
+        "textOriginal": "La Pandemia no va a desaparecer nunca.",
+        "authorDisplayName": "Fausto Villanueva Romero",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQyxvWHZO5Zm-A4Fm7UHKCglH2d1qwjJRRWhRSFBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrrHjPy-cB4w2urCGYIr5Sw",
+        "authorChannelId": {
+          "value": "UCrrHjPy-cB4w2urCGYIr5Sw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T20:53:51Z",
+        "updatedAt": "2022-05-09T20:53:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5h3N4K5Gm7_w4l39UMiyKO2yMeY",
+      "id": "UgzjPQzlUwVz7kw44-54AaABAg.9ap-IgXWFvZ9aue9nmHgP2",
+      "snippet": {
+        "textDisplay": "Hay no que terrible, lo que nos ha tocado vivir.",
+        "textOriginal": "Hay no que terrible, lo que nos ha tocado vivir.",
+        "parentId": "UgzjPQzlUwVz7kw44-54AaABAg",
+        "authorDisplayName": "A. Janeth Sanchez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSatGyk2Lx6QF5Id8yi49xy9HUJlcSAjnYaZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClthjQ8blp2eQU6MHP_D4hg",
+        "authorChannelId": {
+          "value": "UClthjQ8blp2eQU6MHP_D4hg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T01:35:51Z",
+        "updatedAt": "2022-05-12T01:35:51Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Wdc-iRj2eb-82A1_yhpDy_niWzE",
+  "id": "UgwDmQWG44BsilWSanp4AaABAg",
+  "snippet": {
+    "videoId": "fE2pNqyQ0ZM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xBdV2ydkueq3ueNxMoBQsb-FU5Y",
+      "id": "UgwDmQWG44BsilWSanp4AaABAg",
+      "snippet": {
+        "videoId": "fE2pNqyQ0ZM",
+        "textDisplay": "Obrigado pelas explica\u00e7\u00f5es Dr.",
+        "textOriginal": "Obrigado pelas explica\u00e7\u00f5es Dr.",
+        "authorDisplayName": "Lelek Portugal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCElp-Yb4zEDhKfUF9C3CIgLv1LUvksZZW5A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAdEsRQ0PU79z75aqUMglFQ",
+        "authorChannelId": {
+          "value": "UCAdEsRQ0PU79z75aqUMglFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2021-11-12T04:01:06Z",
+        "updatedAt": "2021-11-12T04:01:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i-pkNu7Iu7CQO2i_mgVZZ6Ht3Wk",
+      "id": "UgwDmQWG44BsilWSanp4AaABAg.9UcquKIyZJ99UmE7BcryFV",
+      "snippet": {
+        "textDisplay": "Eles cortam para n\u00e3o deixar falar mesmo",
+        "textOriginal": "Eles cortam para n\u00e3o deixar falar mesmo",
+        "parentId": "UgwDmQWG44BsilWSanp4AaABAg",
+        "authorDisplayName": "Silvana Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iqQxSTCeBHYYp-Z2uoA0GEQK2kTvrikRtXerX5k6w4DEXH7XC67e6Hx29XeU_54HmycjcRCL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe0_ErmNQAJhPnRXgvEC8Ew",
+        "authorChannelId": {
+          "value": "UCe0_ErmNQAJhPnRXgvEC8Ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-15T19:25:53Z",
+        "updatedAt": "2021-11-15T19:25:53Z"
+      }
+    }
+  ]
+}

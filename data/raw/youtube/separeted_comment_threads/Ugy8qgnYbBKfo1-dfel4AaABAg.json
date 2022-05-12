@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MhzGQXVoQvV16TFffsV9ZDsEiK0",
+  "id": "Ugy8qgnYbBKfo1-dfel4AaABAg",
+  "snippet": {
+    "videoId": "fc9E30vQGX0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rfdYCXQpHijP7dme--KDf-FiMKc",
+      "id": "Ugy8qgnYbBKfo1-dfel4AaABAg",
+      "snippet": {
+        "videoId": "fc9E30vQGX0",
+        "textDisplay": "Dale!! \ud83d\udc4a\ud83e\udd18",
+        "textOriginal": "Dale!! \ud83d\udc4a\ud83e\udd18",
+        "authorDisplayName": "Igor Freitas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxtuwqh68OHQ2qwoPL7TS2ghJnvpSWAO3aGePCCg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI-BlJTE3b5UurmYJcul9_Q",
+        "authorChannelId": {
+          "value": "UCI-BlJTE3b5UurmYJcul9_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-18T01:30:07Z",
+        "updatedAt": "2020-12-18T01:30:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5yDh70aXpDO08Jnh1T0aL-i6zxw",
+      "id": "Ugy8qgnYbBKfo1-dfel4AaABAg.9HOR5XqxYG99HOe3L4X1Uc",
+      "snippet": {
+        "textDisplay": "Daleee\u270c\ufe0f",
+        "textOriginal": "Daleee\u270c\ufe0f",
+        "parentId": "Ugy8qgnYbBKfo1-dfel4AaABAg",
+        "authorDisplayName": "Biologia com o Prof. Gleidson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkfzKcFPxtM4MQqb5tRa82JJInD-CLU2n7g2q_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmB6l-75eCOz7jdei6CdxiA",
+        "authorChannelId": {
+          "value": "UCmB6l-75eCOz7jdei6CdxiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-18T03:32:08Z",
+        "updatedAt": "2020-12-18T03:32:08Z"
+      }
+    }
+  ]
+}

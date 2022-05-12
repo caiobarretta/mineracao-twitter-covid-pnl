@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zTcG0EQCBgzV7vNR5M5zaq8mnZ0",
+  "id": "Ugwt5TegQKA_dcN4stB4AaABAg",
+  "snippet": {
+    "videoId": "Jj4KXvTOtDs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7RB3HmSky7mNHpO_JIaIexxvhno",
+      "id": "Ugwt5TegQKA_dcN4stB4AaABAg",
+      "snippet": {
+        "videoId": "Jj4KXvTOtDs",
+        "textDisplay": "Maio 2020",
+        "textOriginal": "Maio 2020",
+        "authorDisplayName": "Luan Leme",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLT4vTCkX7kniv8Ma8r1M84pJQ9OY02h3IltzPKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXsYu3IrfdWCHT-WlSLVdoQ",
+        "authorChannelId": {
+          "value": "UCXsYu3IrfdWCHT-WlSLVdoQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-20T09:43:36Z",
+        "updatedAt": "2020-05-20T09:43:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hL14B6Z3FPtqsZSenIdqthmZAG4",
+      "id": "Ugwt5TegQKA_dcN4stB4AaABAg.98sR2VHersj9KMB6VWcMRg",
+      "snippet": {
+        "textDisplay": "Mar\u00e7o 2021",
+        "textOriginal": "Mar\u00e7o 2021",
+        "parentId": "Ugwt5TegQKA_dcN4stB4AaABAg",
+        "authorDisplayName": "Giulia Pedroso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIcaIhhrlTyYeeiNvlEriVu7pGoM8e0d6q3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvFoVh3TJ2iwckXjkxGUGMw",
+        "authorChannelId": {
+          "value": "UCvFoVh3TJ2iwckXjkxGUGMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-01T18:06:08Z",
+        "updatedAt": "2021-03-01T18:06:08Z"
+      }
+    }
+  ]
+}

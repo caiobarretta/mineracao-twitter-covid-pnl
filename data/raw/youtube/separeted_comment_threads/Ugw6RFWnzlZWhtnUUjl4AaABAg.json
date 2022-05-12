@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Wov0KHa9UEBNS4RWDG5PmgnRH1E",
+  "id": "Ugw6RFWnzlZWhtnUUjl4AaABAg",
+  "snippet": {
+    "videoId": "v3DUnDZFFC0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ii7ktXwn2KrOJkLoyIc83SCJtZU",
+      "id": "Ugw6RFWnzlZWhtnUUjl4AaABAg",
+      "snippet": {
+        "videoId": "v3DUnDZFFC0",
+        "textDisplay": "Vcs s\u00e3o tem isto para fala",
+        "textOriginal": "Vcs s\u00e3o tem isto para fala",
+        "authorDisplayName": "Maria Caetano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSr5f4zjpXdTd1qE9o2jamLxLmP3Q80E6Z3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCacPL-yA-NMAzdeGdnJpv2g",
+        "authorChannelId": {
+          "value": "UCacPL-yA-NMAzdeGdnJpv2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-16T17:32:44Z",
+        "updatedAt": "2020-03-16T17:32:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rjG77ttUYqP59lxxSn9dbF3CWHI",
+      "id": "Ugw6RFWnzlZWhtnUUjl4AaABAg.96Gu3fM_UxQ9A4kUQVNoFy",
+      "snippet": {
+        "textDisplay": "Nossa todo mundo falando da PANDEMIA afffff falem de outra coisa \ud83e\udd2a\ud83e\udd2a\ud83e\udd2a",
+        "textOriginal": "Nossa todo mundo falando da PANDEMIA afffff falem de outra coisa \ud83e\udd2a\ud83e\udd2a\ud83e\udd2a",
+        "parentId": "Ugw6RFWnzlZWhtnUUjl4AaABAg",
+        "authorDisplayName": "Nathan Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LpgfXXvcUpAn8a3caWNdXNjDhPfkxJS48Ey4beKPsF_uDd59hSUllM2hNckiDvogANj2X0ubJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAxHW2K04pBu82bGeWIJ5Pg",
+        "authorChannelId": {
+          "value": "UCAxHW2K04pBu82bGeWIJ5Pg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-19T10:23:42Z",
+        "updatedAt": "2020-06-19T10:23:42Z"
+      }
+    }
+  ]
+}

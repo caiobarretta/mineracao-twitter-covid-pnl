@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eSmwi6zz95JfnPp_1JBfbrhix0U",
+  "id": "UgxnC05aXhbM47ytBO14AaABAg",
+  "snippet": {
+    "videoId": "AZmpvWT5UqQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3CmYY53KjtTOUPB0nnW2SziUpOo",
+      "id": "UgxnC05aXhbM47ytBO14AaABAg",
+      "snippet": {
+        "videoId": "AZmpvWT5UqQ",
+        "textDisplay": "Eu vou tomar amanh\u00e3 de tarde e depois vou brincar \u2764\ufe0f",
+        "textOriginal": "Eu vou tomar amanh\u00e3 de tarde e depois vou brincar \u2764\ufe0f",
+        "authorDisplayName": "Rosa Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEca556R8xrtpdp5LVYcUdAIBdEBJaFxmn9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzqr7dsS1p3C1Zg0_5BVReQ",
+        "authorChannelId": {
+          "value": "UCzqr7dsS1p3C1Zg0_5BVReQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-02-10T23:00:20Z",
+        "updatedAt": "2022-02-10T23:00:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EzUYqXW3vq7SyZvwBaE89bFIxO8",
+      "id": "UgxnC05aXhbM47ytBO14AaABAg.9YHcp4h6cdj9YqBa5C8x-H",
+      "snippet": {
+        "textDisplay": "Wsas2s",
+        "textOriginal": "Wsas2s",
+        "parentId": "UgxnC05aXhbM47ytBO14AaABAg",
+        "authorDisplayName": "Augusto Cesar Barroso Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzbU1ku6hp9d3q7EcPescbaVI8ajjuaW7p1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnLHKNjTOceLYc8A1iqv03w",
+        "authorChannelId": {
+          "value": "UCnLHKNjTOceLYc8A1iqv03w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-24T18:26:17Z",
+        "updatedAt": "2022-02-24T18:26:17Z"
+      }
+    }
+  ]
+}

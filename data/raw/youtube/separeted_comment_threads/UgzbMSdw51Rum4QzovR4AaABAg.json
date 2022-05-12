@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZExetDEPwRWrtZnXTKd9H51LQAU",
+  "id": "UgzbMSdw51Rum4QzovR4AaABAg",
+  "snippet": {
+    "videoId": "fc9E30vQGX0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_gtGI3qW_8xbhk_fF3yQ4tPumlM",
+      "id": "UgzbMSdw51Rum4QzovR4AaABAg",
+      "snippet": {
+        "videoId": "fc9E30vQGX0",
+        "textDisplay": "\ud83d\ude4c\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\ude4c\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Jessica lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPk2oOwfFR4m-LNc-L8bW4emLAyno2ZL2QDg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSv42z3tfZSrNcb7DLUHcWA",
+        "authorChannelId": {
+          "value": "UCSv42z3tfZSrNcb7DLUHcWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-18T00:54:47Z",
+        "updatedAt": "2020-12-18T00:54:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Uw6XaQDGuOpe2dw8SKk2Ky_ZdvM",
+      "id": "UgzbMSdw51Rum4QzovR4AaABAg.9HON2orB4vl9HOe7R_RTEQ",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "parentId": "UgzbMSdw51Rum4QzovR4AaABAg",
+        "authorDisplayName": "Biologia com o Prof. Gleidson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkfzKcFPxtM4MQqb5tRa82JJInD-CLU2n7g2q_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmB6l-75eCOz7jdei6CdxiA",
+        "authorChannelId": {
+          "value": "UCmB6l-75eCOz7jdei6CdxiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-18T03:32:42Z",
+        "updatedAt": "2020-12-18T03:32:42Z"
+      }
+    }
+  ]
+}

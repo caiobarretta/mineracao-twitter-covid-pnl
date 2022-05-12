@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rxsaxIUrnkmjbgl4q1hDUhPMhqU",
+  "id": "UgxIRl9qXyesBAdPjCR4AaABAg",
+  "snippet": {
+    "videoId": "pDLsQT3xIjk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-FCMammQg2vT20jUhiZJtdOMbVs",
+      "id": "UgxIRl9qXyesBAdPjCR4AaABAg",
+      "snippet": {
+        "videoId": "pDLsQT3xIjk",
+        "textDisplay": "Supera o covid galera, a fila anda",
+        "textOriginal": "Supera o covid galera, a fila anda",
+        "authorDisplayName": "Lucio Lemos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlo7iZhyn6aUFprwrL-7bMJQHYKZPTayEtOCXMCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYNJVR_ZcFtM5Sl-XrN22QQ",
+        "authorChannelId": {
+          "value": "UCYNJVR_ZcFtM5Sl-XrN22QQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 30,
+        "publishedAt": "2022-03-13T10:53:44Z",
+        "updatedAt": "2022-03-13T10:53:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wQGwgG2SicEa6Z64CdssaqG3y_U",
+      "id": "UgxIRl9qXyesBAdPjCR4AaABAg.9ZW9JQiO5hG9ZWZthGEhru",
+      "snippet": {
+        "textDisplay": "Segue o jogo, pelo amor de Deus ..",
+        "textOriginal": "Segue o jogo, pelo amor de Deus ..",
+        "parentId": "UgxIRl9qXyesBAdPjCR4AaABAg",
+        "authorDisplayName": "Thiago Dos Santos Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTG0TiVTsVazRG2y3bAJC11E3H8W1XIIAyVQILM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzJDKPFgiZmvBBc4akNYYvg",
+        "authorChannelId": {
+          "value": "UCzJDKPFgiZmvBBc4akNYYvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-13T14:46:01Z",
+        "updatedAt": "2022-03-13T14:46:01Z"
+      }
+    }
+  ]
+}

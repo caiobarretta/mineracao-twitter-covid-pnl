@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MABAcOYfOvJyLKB-zlCMLe1VpcM",
+  "id": "Ugz3UGmhK0hspXXRcWh4AaABAg",
+  "snippet": {
+    "videoId": "Jj4KXvTOtDs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KaFR_HaN2zkYlV68MQkSivCv4VI",
+      "id": "Ugz3UGmhK0hspXXRcWh4AaABAg",
+      "snippet": {
+        "videoId": "Jj4KXvTOtDs",
+        "textDisplay": "E foi a\u00ed que a minha vida, que j\u00e1 n\u00e3o era boa, praticamente acabou",
+        "textOriginal": "E foi a\u00ed que a minha vida, que j\u00e1 n\u00e3o era boa, praticamente acabou",
+        "authorDisplayName": "Daniel JrDias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSugR_GWTK5mdPXkJpiLWn5uL1LI1RjVZOGh412=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEaQmMUnjMmpjd7WYmK9ZLg",
+        "authorChannelId": {
+          "value": "UCEaQmMUnjMmpjd7WYmK9ZLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 48,
+        "publishedAt": "2020-07-08T05:02:16Z",
+        "updatedAt": "2020-07-08T05:02:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gBVYKYvP1EcLp2E5peXheyXhrVg",
+      "id": "Ugz3UGmhK0hspXXRcWh4AaABAg.9Aq5nlzS5fz9Y8fiIPJDa9",
+      "snippet": {
+        "textDisplay": "idem",
+        "textOriginal": "idem",
+        "parentId": "Ugz3UGmhK0hspXXRcWh4AaABAg",
+        "authorDisplayName": "Ren Kiyowara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QqMvlL5ESoLbm5WL_ylY8TQCTGfYcsh486hKt14GB0IuNj7rH0sRn-_aIoljvr70N9SNbMgsjg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3nfPEezKQrPqzHn-Dsc7PQ",
+        "authorChannelId": {
+          "value": "UC3nfPEezKQrPqzHn-Dsc7PQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-07T11:32:28Z",
+        "updatedAt": "2022-02-07T11:32:28Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "FiHvdJJLxtuUdnTjHDVM8l24XEw",
+      "id": "Ugz3UGmhK0hspXXRcWh4AaABAg.9Aq5nlzS5fz9TzCkfjZk5k",
+      "snippet": {
+        "textDisplay": "A minha tava melhorando, mas...",
+        "textOriginal": "A minha tava melhorando, mas...",
+        "parentId": "Ugz3UGmhK0hspXXRcWh4AaABAg",
+        "authorDisplayName": "KlausBrazilian666",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/CoQJPdD1hFay3s8RIvX4PdRGwOTLvGw0Vi6nLRabIWFFptocnO4dahWQF2Q2zm0K-7yoCJWmDg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC24EWA14tdFOLlBNrCiqBTA",
+        "authorChannelId": {
+          "value": "UC24EWA14tdFOLlBNrCiqBTA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-26T23:52:39Z",
+        "updatedAt": "2021-10-26T23:52:39Z"
+      }
+    }
+  ]
+}

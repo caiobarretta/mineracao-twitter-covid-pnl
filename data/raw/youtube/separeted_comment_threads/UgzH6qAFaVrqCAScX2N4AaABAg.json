@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4k90D0GXykuneq5EiG0r_IYGyhc",
+  "id": "UgzH6qAFaVrqCAScX2N4AaABAg",
+  "snippet": {
+    "videoId": "KJ4evTcrJSQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qJ0srCk1clCVlhX3h9Rb-KkvzSM",
+      "id": "UgzH6qAFaVrqCAScX2N4AaABAg",
+      "snippet": {
+        "videoId": "KJ4evTcrJSQ",
+        "textDisplay": "Meu Deus!!!!!!!! \ud83d\ude2d\ud83d\ude2d",
+        "textOriginal": "Meu Deus!!!!!!!! \ud83d\ude2d\ud83d\ude2d",
+        "authorDisplayName": "Stela Maris da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSoxV2zt-HzDMsW_Xtu4W_7veaz6uvtA30DcVkyg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1zRb8VJWOCwW6d-RJAgw9w",
+        "authorChannelId": {
+          "value": "UC1zRb8VJWOCwW6d-RJAgw9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-03-21T13:30:55Z",
+        "updatedAt": "2022-03-21T13:30:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XvXmOJeq74T0_56x2QcrRyybiYE",
+      "id": "UgzH6qAFaVrqCAScX2N4AaABAg.9Zq1edCJynL9_cH8UHXbjU",
+      "snippet": {
+        "textDisplay": "NOSSO compadre",
+        "textOriginal": "NOSSO compadre",
+        "parentId": "UgzH6qAFaVrqCAScX2N4AaABAg",
+        "authorDisplayName": "Duda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Bol1-7cARzRPHRf3zL8kXG5z3e1Igbdao0BVeP2G8fmubgtKaiQkbrAoh1PlF80zuRhVwTHF6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTpoSLuRw5hE-5KZf3CtPWg",
+        "authorChannelId": {
+          "value": "UCTpoSLuRw5hE-5KZf3CtPWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-10T01:48:13Z",
+        "updatedAt": "2022-04-10T01:48:13Z"
+      }
+    }
+  ]
+}

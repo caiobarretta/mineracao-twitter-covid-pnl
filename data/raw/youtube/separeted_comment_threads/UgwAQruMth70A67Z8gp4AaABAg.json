@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CqMVK3nNHWHanlnn1y1g-4VHJHs",
+  "id": "UgwAQruMth70A67Z8gp4AaABAg",
+  "snippet": {
+    "videoId": "WAk9iWGZC54",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VuD9-Qm-Pl_lV6CS8fcRj_c5AQ4",
+      "id": "UgwAQruMth70A67Z8gp4AaABAg",
+      "snippet": {
+        "videoId": "WAk9iWGZC54",
+        "textDisplay": "2 meses em casa. Comendo e bebendo.",
+        "textOriginal": "2 meses em casa. Comendo e bebendo.",
+        "authorDisplayName": "J\u00falio C\u00e9sar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBAm9RxNPy5H-tq-k4AriNuAOxtQ4PRKvBaTIGGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_eHZo8-_h7fm25qu_luPUA",
+        "authorChannelId": {
+          "value": "UC_eHZo8-_h7fm25qu_luPUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T00:28:00Z",
+        "updatedAt": "2022-05-10T00:28:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1opmvdo89c8UhfWM2NxRZVycKvQ",
+      "id": "UgwAQruMth70A67Z8gp4AaABAg.9apNo6Shj-49arlaM0Hh3B",
+      "snippet": {
+        "textDisplay": "Vc \u00e9 servidor ?",
+        "textOriginal": "Vc \u00e9 servidor ?",
+        "parentId": "UgwAQruMth70A67Z8gp4AaABAg",
+        "authorDisplayName": "Quest J",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTbd-11dEbNOQ-UJ2hQJuKYE5P_phGB-ypyc8dE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-O3D8WrhUQS_IRSAjiqJig",
+        "authorChannelId": {
+          "value": "UC-O3D8WrhUQS_IRSAjiqJig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T22:43:03Z",
+        "updatedAt": "2022-05-10T22:43:03Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "I2Gql3xitCjAvlZczQ8e3uwea2s",
+  "id": "UgzZP-Ek3UvfOowkEIx4AaABAg",
+  "snippet": {
+    "videoId": "-3TN7yMJc5s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "p3LJUcmspAQTo0244VscdodQ8VI",
+      "id": "UgzZP-Ek3UvfOowkEIx4AaABAg",
+      "snippet": {
+        "videoId": "-3TN7yMJc5s",
+        "textDisplay": "Isto mintira dece canal petista",
+        "textOriginal": "Isto mintira dece canal petista",
+        "authorDisplayName": "ana zanetti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDAY_-0m0sH5bJLxe89qX35zpgbTDXMBOmxQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5c92xDl4XBUyomm4FYq_4w",
+        "authorChannelId": {
+          "value": "UC5c92xDl4XBUyomm4FYq_4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-04-03T23:14:46Z",
+        "updatedAt": "2022-04-03T23:14:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZlFgmg_hdWk8_tihdCO8NrhJScw",
+      "id": "UgzZP-Ek3UvfOowkEIx4AaABAg.9_NYoDxpam-9_N_VUBy9ey",
+      "snippet": {
+        "textDisplay": "Tem vez que acho tbm amiga!!!",
+        "textOriginal": "Tem vez que acho tbm amiga!!!",
+        "parentId": "UgzZP-Ek3UvfOowkEIx4AaABAg",
+        "authorDisplayName": "Pl\u00ednio Leite Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBBPmjrhpgdi0-W9RxQv3G6d4HnKRdEqznNIcIq0oARtuQJqlPf3r_hi0lnHsv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxCaurA7L1bjnm8WdJr1tTw",
+        "authorChannelId": {
+          "value": "UCxCaurA7L1bjnm8WdJr1tTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-03T23:29:32Z",
+        "updatedAt": "2022-04-03T23:29:32Z"
+      }
+    }
+  ]
+}
