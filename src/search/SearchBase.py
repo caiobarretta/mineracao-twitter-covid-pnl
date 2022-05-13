@@ -3,6 +3,14 @@ import time
 from os.path import exists
 
 class SearchBase:
+    def __init__(self, time_sleep_load_search = 20):
+        self.time_sleep_load_search = time_sleep_load_search
+
+    def read_json(self, file_path):
+        content = None
+        with open(file_path) as f:
+            content = json.load(f)
+        return content
 
     def save_json(self, file_name, content, replace_existing_file = True):
         file_exists = False
@@ -46,7 +54,7 @@ class SearchBase:
 
         print(f'Inicializando pesquisa na API {api.get_api_name()}')
         print(f'Quantidades de itens da pesquisa: {len(pesquisa)}')
-        for pesquisa in pesquisa[::-1]:
+        for pesquisa in pesquisa:
             query = pesquisa['q']
             lang = ''
             if 'lang' in pesquisa:
@@ -59,7 +67,7 @@ class SearchBase:
                     print(f'Pesquisa: {query}|{lang} query_counter: {query_counter}')
                     func_get_and_save_data(api, query, lang)
                     query_counter = query_counter + 1
-                    time.sleep(20)
+                    time.sleep(self.time_sleep_load_search)
                 except NameError:
                     print(f'Ocorreu um erro: {NameError} na query: {query} lang: {lang} query_counter: {query_counter}')
                     tentativas = tentativas + 1
@@ -67,7 +75,7 @@ class SearchBase:
                 finally:
                     if error:
                         print(f'Retomando pesquisa na query: {query} lang: {lang} query_counter: {query_counter}')
-                        time.sleep(20)
+                        time.sleep(self.time_sleep_load_search)
                         api = func_get_new_instance_api(file_credentials)
                         if tentativas > quantidade_maxima_de_tentativas:
                             continuar = False
