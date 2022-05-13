@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2DuyZuX-OIHZ5V1f4WJeL2TgSw0",
+  "id": "UgyAJmZfalxOhkNv2PB4AaABAg",
+  "snippet": {
+    "videoId": "WpQHMxT-9y4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sgZjiortYd0QH_7QKxWEBLaW_EE",
+      "id": "UgyAJmZfalxOhkNv2PB4AaABAg",
+      "snippet": {
+        "videoId": "WpQHMxT-9y4",
+        "textDisplay": "Ok",
+        "textOriginal": "Ok",
+        "authorDisplayName": "JPZINN Off",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrDmAvjyTLxqKKR2gEjOMNEKwjEp7m_kJMG2mW=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV9Jjwa_l3HxcMH-t-DslOg",
+        "authorChannelId": {
+          "value": "UCV9Jjwa_l3HxcMH-t-DslOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-05-17T18:57:48Z",
+        "updatedAt": "2021-05-17T18:57:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Kjom2dHMEFXbzG53lpOU69cSUXI",
+      "id": "UgyAJmZfalxOhkNv2PB4AaABAg.9NSYELNxcDN9VDIMTNuzBU",
+      "snippet": {
+        "textDisplay": "L",
+        "textOriginal": "L",
+        "parentId": "UgyAJmZfalxOhkNv2PB4AaABAg",
+        "authorDisplayName": "Monica Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSx1P6T2srsSIYVE3e0Z_P12zsT_Q2xvvO0ig3H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6hZ8JO8_AOi1wrjudyeUSA",
+        "authorChannelId": {
+          "value": "UC6hZ8JO8_AOi1wrjudyeUSA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-26T17:01:39Z",
+        "updatedAt": "2021-11-26T17:01:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "CpLR7cgBqaH5p3IhMN9bU7JRUCU",
+      "id": "UgyAJmZfalxOhkNv2PB4AaABAg.9NSYELNxcDN9VD9Ib_CO4m",
+      "snippet": {
+        "textDisplay": "Esse",
+        "textOriginal": "Esse",
+        "parentId": "UgyAJmZfalxOhkNv2PB4AaABAg",
+        "authorDisplayName": "Monica Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSx1P6T2srsSIYVE3e0Z_P12zsT_Q2xvvO0ig3H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6hZ8JO8_AOi1wrjudyeUSA",
+        "authorChannelId": {
+          "value": "UC6hZ8JO8_AOi1wrjudyeUSA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-26T15:42:29Z",
+        "updatedAt": "2021-11-26T15:42:29Z"
+      }
+    }
+  ]
+}

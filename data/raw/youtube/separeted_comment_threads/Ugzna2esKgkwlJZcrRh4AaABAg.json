@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JmbbSlVKAXBAGBHRxzSx2Md1ZsA",
+  "id": "Ugzna2esKgkwlJZcrRh4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OWkt52SEVxZWA-L7F3HRWx784pM",
+      "id": "Ugzna2esKgkwlJZcrRh4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "\u00c9 tenso, tio. Tem uma galera que nem desenhando entendem.",
+        "textOriginal": "\u00c9 tenso, tio. Tem uma galera que nem desenhando entendem.",
+        "authorDisplayName": "D Salazar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEN-LJpuOWawQYS99bwfh3rsgUcn0hyTr4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0xBJk1zMPeMd4_U-P6L_0w",
+        "authorChannelId": {
+          "value": "UC0xBJk1zMPeMd4_U-P6L_0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T16:12:38Z",
+        "updatedAt": "2020-03-18T16:12:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4-OSyHtm4MZieeFa_Kq0EuuReBA",
+      "id": "Ugzna2esKgkwlJZcrRh4AaABAg.96LuUkN_s6b96Lvz35ET7c",
+      "snippet": {
+        "textDisplay": "@De Leve boa",
+        "textOriginal": "@De Leve boa",
+        "parentId": "Ugzna2esKgkwlJZcrRh4AaABAg",
+        "authorDisplayName": "H\u00e9lio Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTx_i7n0uiY9uZ_r2qPb6bekvlma-l8VB8aREiOEsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU0pxpw374RLYuUhHDd74JA",
+        "authorChannelId": {
+          "value": "UCU0pxpw374RLYuUhHDd74JA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T16:25:39Z",
+        "updatedAt": "2020-03-18T16:25:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "EDeEjcM8RdRqt4kjQ7wEfcoYLi0",
+      "id": "Ugzna2esKgkwlJZcrRh4AaABAg.96LuUkN_s6b96LusEB-2IR",
+      "snippet": {
+        "textDisplay": "Por isso eu cantei, vai que...",
+        "textOriginal": "Por isso eu cantei, vai que...",
+        "parentId": "Ugzna2esKgkwlJZcrRh4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-18T16:15:59Z",
+        "updatedAt": "2020-03-18T16:15:59Z"
+      }
+    }
+  ]
+}

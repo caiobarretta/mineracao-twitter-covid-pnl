@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "78MUcpRH3E_v4HXqCE0hItR4fxw",
+  "id": "UgxCDPbEoHX7qt8wG3x4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-5Q8_sXQgKjpU1SYjaDar4cPtLo",
+      "id": "UgxCDPbEoHX7qt8wG3x4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "Louvor",
+        "textOriginal": "Louvor",
+        "authorDisplayName": "ana clara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4uVU3kGhiV7qA0_sBlOn06h4OwcrcsxokrA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCogVxQxCdvdoh5XR3KaSkfg",
+        "authorChannelId": {
+          "value": "UCogVxQxCdvdoh5XR3KaSkfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-01-30T14:51:14Z",
+        "updatedAt": "2019-01-30T14:51:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "v-H-3_0p17MaPHyREztNNEsp388",
+      "id": "UgxCDPbEoHX7qt8wG3x4AaABAg.8qjJs55eI618vyqY-T6H2R",
+      "snippet": {
+        "textDisplay": "Louvor Divino companheiro",
+        "textOriginal": "Louvor Divino companheiro",
+        "parentId": "UgxCDPbEoHX7qt8wG3x4AaABAg",
+        "authorDisplayName": "Nilza Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6YM4w_G6VEvcBrhk6wBrS4X3otj2JgYoZSg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCStPiA_V255wU3yUAFbJU7w",
+        "authorChannelId": {
+          "value": "UCStPiA_V255wU3yUAFbJU7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-06-09T22:11:01Z",
+        "updatedAt": "2019-06-09T22:11:01Z"
+      }
+    }
+  ]
+}

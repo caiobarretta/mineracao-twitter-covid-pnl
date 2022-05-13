@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9Dw4Zm5cX1JK2ph9ELjffvwVk5w",
+  "id": "UgwS4FIJpOiKDkLG52Z4AaABAg",
+  "snippet": {
+    "videoId": "yyyXzILsBBg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "89JjlPmE6LX-oPjpQaO2wSFq4dw",
+      "id": "UgwS4FIJpOiKDkLG52Z4AaABAg",
+      "snippet": {
+        "videoId": "yyyXzILsBBg",
+        "textDisplay": "Am\u00e9m \ud83d\ude4c\ud83d\ude4f",
+        "textOriginal": "Am\u00e9m \ud83d\ude4c\ud83d\ude4f",
+        "authorDisplayName": "Cris Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzPEAGw3RY3dCtUDWDUicvRx173wyVShPy6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQAhEPgGlQ2Vk4_DNJlUWNw",
+        "authorChannelId": {
+          "value": "UCQAhEPgGlQ2Vk4_DNJlUWNw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-07-15T17:38:50Z",
+        "updatedAt": "2021-07-15T17:38:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KKvNa-Dpc5-BGOFE5X0Iq0RiwP8",
+      "id": "UgwS4FIJpOiKDkLG52Z4AaABAg.9PpK5bnfRLt9PpT2SynAHM",
+      "snippet": {
+        "textDisplay": "Gl\u00f3ria \u00e0 Deus por tudo.",
+        "textOriginal": "Gl\u00f3ria \u00e0 Deus por tudo.",
+        "parentId": "UgwS4FIJpOiKDkLG52Z4AaABAg",
+        "authorDisplayName": "Antonio carlos Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvmOQfdb_bdWT3uNQWWxr0ifAwmfIMfdhZJchrJg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbngAZ5wOeN2oxuoOecQdzQ",
+        "authorChannelId": {
+          "value": "UCbngAZ5wOeN2oxuoOecQdzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-15T18:57:03Z",
+        "updatedAt": "2021-07-15T18:57:03Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "IdsoXP_QKlFSiMV1urxqoro-mIc",
+      "id": "UgwS4FIJpOiKDkLG52Z4AaABAg.9PpK5bnfRLt9PpOr0WzfsT",
+      "snippet": {
+        "textDisplay": "Am\u00e9m \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "textOriginal": "Am\u00e9m \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "parentId": "UgwS4FIJpOiKDkLG52Z4AaABAg",
+        "authorDisplayName": "Luzilmar Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-Do4mlaY1VsnFcfTjCTEF_df4Cd2YGhMqvufE8e4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY77wvag1KVPw_H4FLSf4g",
+        "authorChannelId": {
+          "value": "UCCY77wvag1KVPw_H4FLSf4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-15T18:20:24Z",
+        "updatedAt": "2021-07-15T18:20:24Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FwV52n5BMPakeuub1gtJd4cVchc",
+  "id": "Ugw-m61nui4wScGQijh4AaABAg",
+  "snippet": {
+    "videoId": "OeL04Su0nw4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "I-cYG1d7BWVD6GP1hZ0G7o3sNzE",
+      "id": "Ugw-m61nui4wScGQijh4AaABAg",
+      "snippet": {
+        "videoId": "OeL04Su0nw4",
+        "textDisplay": "Obrigada pelo v\u00eddeo! Com certeza, ir\u00e1 nos ajudar muito! \u2764\ufe0f",
+        "textOriginal": "Obrigada pelo v\u00eddeo! Com certeza, ir\u00e1 nos ajudar muito! \u2764\ufe0f",
+        "authorDisplayName": "Camiila Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ840vdSVOMQ4Uvb7t1u1bQCN455BW6mnVqSw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyIOypDc5GoNbXzUZtaDWIw",
+        "authorChannelId": {
+          "value": "UCyIOypDc5GoNbXzUZtaDWIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-04-30T19:02:27Z",
+        "updatedAt": "2020-04-30T19:02:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dR5VzZy-Qk0LnMaBWkcr2Aj5mYE",
+      "id": "Ugw-m61nui4wScGQijh4AaABAg.984w63tTNYx984we51rDOI",
+      "snippet": {
+        "textDisplay": "Nem assistiu todo ainda oxoxo",
+        "textOriginal": "Nem assistiu todo ainda oxoxo",
+        "parentId": "Ugw-m61nui4wScGQijh4AaABAg",
+        "authorDisplayName": "Deivid Teles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzORwBkRHP7ozIr3soYa3ChYiRSXzf16CyJ_J7Eg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUOCXFBpdS6MQImkky4PLWQ",
+        "authorChannelId": {
+          "value": "UCUOCXFBpdS6MQImkky4PLWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-30T19:07:13Z",
+        "updatedAt": "2020-04-30T19:07:13Z"
+      }
+    }
+  ]
+}

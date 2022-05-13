@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VjETxp6nx2lmECTLNXakf3i3pEs",
+  "id": "UgwxXavGhBkbS-dDEf54AaABAg",
+  "snippet": {
+    "videoId": "Y3FFIYH7O5Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L1FUauwJOGGXBTQMBQ_Hh6SOPMw",
+      "id": "UgwxXavGhBkbS-dDEf54AaABAg",
+      "snippet": {
+        "videoId": "Y3FFIYH7O5Q",
+        "textDisplay": "Show guria!!! Excelente explica\u00e7\u00e3o!!!!",
+        "textOriginal": "Show guria!!! Excelente explica\u00e7\u00e3o!!!!",
+        "authorDisplayName": "Joel Schultz Felberg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeid4G6j66VWZprt98elTWKqJSg0jDzD1mjYR9Xg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJWjeIZTWIFY9f5Bsf9hmQQ",
+        "authorChannelId": {
+          "value": "UCJWjeIZTWIFY9f5Bsf9hmQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-23T15:03:22Z",
+        "updatedAt": "2021-03-23T15:03:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fJnpJAo4dPiV5B109MRRhEUQjnA",
+      "id": "UgwxXavGhBkbS-dDEf54AaABAg.9LEVg4w8zd-9LGpTob6h5D",
+      "snippet": {
+        "textDisplay": "Obrigada \ud83d\ude03",
+        "textOriginal": "Obrigada \ud83d\ude03",
+        "parentId": "UgwxXavGhBkbS-dDEf54AaABAg",
+        "authorDisplayName": "Quack - Reda\u00e7\u00e3o, Vestibular e Enem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rk4wBCIVuuJDjuDdgfIGaHsM2Xv6JIRJoifThMiAvqc3BFuPMUbX1uuDVYfYF3clUDJNS8ix=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY3w07Vj19j-D5Qv99nUJw",
+        "authorChannelId": {
+          "value": "UCCY3w07Vj19j-D5Qv99nUJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T12:43:32Z",
+        "updatedAt": "2021-03-24T12:43:32Z"
+      }
+    }
+  ]
+}

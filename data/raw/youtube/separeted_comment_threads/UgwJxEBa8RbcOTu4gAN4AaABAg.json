@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qga31LMontl2rPZC64FaHmdjUwY",
+  "id": "UgwJxEBa8RbcOTu4gAN4AaABAg",
+  "snippet": {
+    "videoId": "1AlEJClA3rQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cMK8bTTsSg774ctyGnYYNfpenn0",
+      "id": "UgwJxEBa8RbcOTu4gAN4AaABAg",
+      "snippet": {
+        "videoId": "1AlEJClA3rQ",
+        "textDisplay": "TOP, tem aula 2?",
+        "textOriginal": "TOP, tem aula 2?",
+        "authorDisplayName": "Brunno Segantini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQriO62oi1BUP5-9ogsV8-BvdPUfakr5G00G_n6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFHQxz037mDxSZRJyLWw5aw",
+        "authorChannelId": {
+          "value": "UCFHQxz037mDxSZRJyLWw5aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-28T16:47:12Z",
+        "updatedAt": "2021-08-28T16:47:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4mGjyKB9FDdy-ou5g-0ZM9FvU8g",
+      "id": "UgwJxEBa8RbcOTu4gAN4AaABAg.9RaX9t4nwci9RjG2NJO_a3",
+      "snippet": {
+        "textDisplay": "Tem sim, d\u00e1 uma olhada na playlist de sa\u00fade p\u00fablica",
+        "textOriginal": "Tem sim, d\u00e1 uma olhada na playlist de sa\u00fade p\u00fablica",
+        "parentId": "UgwJxEBa8RbcOTu4gAN4AaABAg",
+        "authorDisplayName": "C\u00f3digo da Vida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvfpX3s_Gx1ZPPPiRAUn8EB37dC1Marf4Gl35U1YQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvZ0I3zZ9meE-bGlNhreF-A",
+        "authorChannelId": {
+          "value": "UCvZ0I3zZ9meE-bGlNhreF-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-01T02:10:47Z",
+        "updatedAt": "2021-09-01T02:10:47Z"
+      }
+    }
+  ]
+}

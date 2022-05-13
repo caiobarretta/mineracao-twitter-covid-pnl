@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KnEVwwXcFUOKQ9mMUWTPonedOb4",
+  "id": "UgwmNe4cgIuLCjlOI0l4AaABAg",
+  "snippet": {
+    "videoId": "5OZLDcQmvyU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oDCHlwUwjnDfl__t_SdZ8pG7KKU",
+      "id": "UgwmNe4cgIuLCjlOI0l4AaABAg",
+      "snippet": {
+        "videoId": "5OZLDcQmvyU",
+        "textDisplay": "A gente toma a terceira e la vem eles com a quarta dose af",
+        "textOriginal": "A gente toma a terceira e la vem eles com a quarta dose af",
+        "authorDisplayName": "Elieni de Oliveira Marchioro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNEowX-Z6y8TL40PXT7ltDiWjtICDMROAC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9fpLmk8lFSukmBwGgnkCKw",
+        "authorChannelId": {
+          "value": "UC9fpLmk8lFSukmBwGgnkCKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2022-02-14T17:29:19Z",
+        "updatedAt": "2022-02-14T17:29:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZsJ-1deQnsfArfxtmwTdkS4f2pU",
+      "id": "UgwmNe4cgIuLCjlOI0l4AaABAg.9YRL78sgMml9YSC9_z-w1F",
+      "snippet": {
+        "textDisplay": "Essa palha\u00e7ada n\u00e3o vai acabar nunca \ud83d\ude14\ud83d\ude14",
+        "textOriginal": "Essa palha\u00e7ada n\u00e3o vai acabar nunca \ud83d\ude14\ud83d\ude14",
+        "parentId": "UgwmNe4cgIuLCjlOI0l4AaABAg",
+        "authorDisplayName": "Ana C.W da rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtkqgE_dNDiMk929Oia7RFufSRqhHgPI6di0kG5Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVp5z_IMzDu3PP22uJuU2QQ",
+        "authorChannelId": {
+          "value": "UCVp5z_IMzDu3PP22uJuU2QQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-02-15T01:30:15Z",
+        "updatedAt": "2022-02-15T01:30:15Z"
+      }
+    }
+  ]
+}

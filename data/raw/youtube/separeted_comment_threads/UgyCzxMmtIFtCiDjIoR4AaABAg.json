@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2I9SvGl5EpxTAt-K2icpHXWXGfk",
+  "id": "UgyCzxMmtIFtCiDjIoR4AaABAg",
+  "snippet": {
+    "videoId": "m4zEBSS7sBQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GLAgWpXPt7sPxecvNPV-i5IYupY",
+      "id": "UgyCzxMmtIFtCiDjIoR4AaABAg",
+      "snippet": {
+        "videoId": "m4zEBSS7sBQ",
+        "textDisplay": "Muito bom, Rafa!!",
+        "textOriginal": "Muito bom, Rafa!!",
+        "authorDisplayName": "Tata Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSH_g7csrmKft_mGoJ-bccN4eY0aRMDD0ASw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrScDQyCSVRKtee5ZxfKAIw",
+        "authorChannelId": {
+          "value": "UCrScDQyCSVRKtee5ZxfKAIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-15T21:49:08Z",
+        "updatedAt": "2020-06-15T21:52:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Tf9t3U0htAa0a9GXBUKYzZzyMSM",
+      "id": "UgyCzxMmtIFtCiDjIoR4AaABAg.99wfk7vAqJ699wmD_G0dxV",
+      "snippet": {
+        "textDisplay": "Obrigado.",
+        "textOriginal": "Obrigado.",
+        "parentId": "UgyCzxMmtIFtCiDjIoR4AaABAg",
+        "authorDisplayName": "Rafael Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcP0KVcf9yD1kI_5W8IrUH0qiAPy2j5P8GHPeem3s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM0Nzn84v9F3HaP1yHiNWTg",
+        "authorChannelId": {
+          "value": "UCM0Nzn84v9F3HaP1yHiNWTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-15T22:45:43Z",
+        "updatedAt": "2020-06-15T22:45:43Z"
+      }
+    }
+  ]
+}

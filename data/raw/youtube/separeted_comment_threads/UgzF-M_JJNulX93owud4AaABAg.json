@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EpB4dQeb0sCrxzpNdpwQ3gwVAyc",
+  "id": "UgzF-M_JJNulX93owud4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Z4CZJ_ESMk2ghq-0cHgOENhGBjo",
+      "id": "UgzF-M_JJNulX93owud4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "ARRASOU!",
+        "textOriginal": "ARRASOU!",
+        "authorDisplayName": "Rodrigo S. Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiTko2AK2g7ScBBuaUV0AGxEwr0vJi1d4glU4r-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfX5B7AwQEcH_T3rdOCafUA",
+        "authorChannelId": {
+          "value": "UCfX5B7AwQEcH_T3rdOCafUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2018-09-26T22:31:06Z",
+        "updatedAt": "2018-09-26T22:31:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P5rFRziTcDbrmBU6SJ02664x3LY",
+      "id": "UgzF-M_JJNulX93owud4AaABAg.8lfhL3-j23o8qkXPj4UX1c",
+      "snippet": {
+        "textDisplay": "Rodrigo S. Ara\u00fajo",
+        "textOriginal": "Rodrigo S. Ara\u00fajo",
+        "parentId": "UgzF-M_JJNulX93owud4AaABAg",
+        "authorDisplayName": "Natiele Berneira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-zwRB4e2TaEMXBgNgU8HFdQeZaFZL71UMovZg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8oFPqNczlh7gF9fED0DcKQ",
+        "authorChannelId": {
+          "value": "UC8oFPqNczlh7gF9fED0DcKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-01-31T02:08:47Z",
+        "updatedAt": "2019-01-31T02:08:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iql2AL-bpYI3EcKqaPZzk0ECmZs",
+  "id": "UgzvPqQynCMRq4lyLPx4AaABAg",
+  "snippet": {
+    "videoId": "EuDQqUGUmm0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "88SsfoUJL4GCJAvfM5x77oBCuE0",
+      "id": "UgzvPqQynCMRq4lyLPx4AaABAg",
+      "snippet": {
+        "videoId": "EuDQqUGUmm0",
+        "textDisplay": "Show esse assunto!",
+        "textOriginal": "Show esse assunto!",
+        "authorDisplayName": "Ricardo Pinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVWBHF3JsV5wpkXOomV0twEzIY4mN5EGHryH2erA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC27Cq82g_lXuwsXWkqPubug",
+        "authorChannelId": {
+          "value": "UC27Cq82g_lXuwsXWkqPubug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-04T00:34:40Z",
+        "updatedAt": "2020-08-04T00:34:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xdhleaoznivA3ANm9OSNRVT4ATg",
+      "id": "UgzvPqQynCMRq4lyLPx4AaABAg.9Bv8dUoMEOQ9BxcS8nfuj4",
+      "snippet": {
+        "textDisplay": "Voc\u00ea tem raz\u00e3o, Ricardo Pinho. Muito obrigado por sua participa\u00e7\u00e3o.",
+        "textOriginal": "Voc\u00ea tem raz\u00e3o, Ricardo Pinho. Muito obrigado por sua participa\u00e7\u00e3o.",
+        "parentId": "UgzvPqQynCMRq4lyLPx4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-04T23:42:21Z",
+        "updatedAt": "2020-08-04T23:42:21Z"
+      }
+    }
+  ]
+}

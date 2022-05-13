@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sbWr-nTflf-VOw4we4ohlps9M2o",
+  "id": "UgwbQCRobUKyi2y9iKZ4AaABAg",
+  "snippet": {
+    "videoId": "SpndMesW-0I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IA4LSZRl0HrvZgHR0_hLpsk0a9g",
+      "id": "UgwbQCRobUKyi2y9iKZ4AaABAg",
+      "snippet": {
+        "videoId": "SpndMesW-0I",
+        "textDisplay": "Boa tarde Dr. Ser\u00e1 que temos not\u00edcias s\u00e9rias est\u00e1  semana o que pode dizer?",
+        "textOriginal": "Boa tarde Dr. Ser\u00e1 que temos not\u00edcias s\u00e9rias est\u00e1  semana o que pode dizer?",
+        "authorDisplayName": "Amivaldo Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrAesuhjc2cEKphAFEA2jfT9IDwrBKp3QXX1NE9SSbRG8HSy6xM38qX9ISygKE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeaEmm3e0SPpvh435T-NWMQ",
+        "authorChannelId": {
+          "value": "UCeaEmm3e0SPpvh435T-NWMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T19:01:13Z",
+        "updatedAt": "2022-05-10T19:01:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PzM_dGbb1VdIiy_RQTrlgGR2VRQ",
+      "id": "UgwbQCRobUKyi2y9iKZ4AaABAg.9arNCbHV1yT9arTQDLnefM",
+      "snippet": {
+        "textDisplay": "farei um video esta semana",
+        "textOriginal": "farei um video esta semana",
+        "parentId": "UgwbQCRobUKyi2y9iKZ4AaABAg",
+        "authorDisplayName": "Dr. Admar Almeida -Dr. Kavary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfocQXk1LmoyF0e47G-BWVDZX60g5TVkrZwt0-dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvStFI7DzNbDGajNvNgmCjg",
+        "authorChannelId": {
+          "value": "UCvStFI7DzNbDGajNvNgmCjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T19:55:30Z",
+        "updatedAt": "2022-05-10T19:55:30Z"
+      }
+    }
+  ]
+}

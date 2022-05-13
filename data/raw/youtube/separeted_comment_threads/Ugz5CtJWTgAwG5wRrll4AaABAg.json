@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "u1zsK7OAcYqxsH2dm1epZfspYNQ",
+  "id": "Ugz5CtJWTgAwG5wRrll4AaABAg",
+  "snippet": {
+    "videoId": "6uSpitisl14",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Uvm4dNMrwp2j_ef_Vmb4auv3yy8",
+      "id": "Ugz5CtJWTgAwG5wRrll4AaABAg",
+      "snippet": {
+        "videoId": "6uSpitisl14",
+        "textDisplay": "Suspeita-se que o reservat\u00f3rio seja o pangolim",
+        "textOriginal": "Suspeita-se que o reservat\u00f3rio seja o pangolim",
+        "authorDisplayName": "Alexandre Canelo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/JB2C06Q5XngHr_0haYxIobCvWMWYAWE2KF1WhxpkxOn2B0kmBVfFXwk_zb9lF1Hgopb4xL06Uw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyy1dBKjIrRlDwFWFD9IObQ",
+        "authorChannelId": {
+          "value": "UCyy1dBKjIrRlDwFWFD9IObQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-31T18:17:53Z",
+        "updatedAt": "2020-03-31T18:17:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "a8O890nXFxMP7DiD1FDaFuGLv4w",
+      "id": "Ugz5CtJWTgAwG5wRrll4AaABAg.96sb9U6GEuK96t-WIFTd-A",
+      "snippet": {
+        "textDisplay": "Pelos estudos gen\u00e9ticos atuais, sugere-se que n\u00e3o houve hospedeiro intermedi\u00e1rio e o reservat\u00f3rio seria o morcego (https://doi.org/10.1016/j.meegid.2020.104212).",
+        "textOriginal": "Pelos estudos gen\u00e9ticos atuais, sugere-se que n\u00e3o houve hospedeiro intermedi\u00e1rio e o reservat\u00f3rio seria o morcego (https://doi.org/10.1016/j.meegid.2020.104212).",
+        "parentId": "Ugz5CtJWTgAwG5wRrll4AaABAg",
+        "authorDisplayName": "Simone",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFJQ2wXMVdx4SBSicOfI7WUrlEbB_BB7bhAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXfKzJXck1ZlO9EcZmTzqcA",
+        "authorChannelId": {
+          "value": "UCXfKzJXck1ZlO9EcZmTzqcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-31T21:59:27Z",
+        "updatedAt": "2020-03-31T21:59:27Z"
+      }
+    }
+  ]
+}

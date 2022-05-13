@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MD09r4F5V0VdfXTY6WVl4wTJygg",
+  "id": "UgwaaEJuovo_9AeBJAJ4AaABAg",
+  "snippet": {
+    "videoId": "uDU8Sdt4NxM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_CZVAWI9O_FF3liMyEgAe2zIsUQ",
+      "id": "UgwaaEJuovo_9AeBJAJ4AaABAg",
+      "snippet": {
+        "videoId": "uDU8Sdt4NxM",
+        "textDisplay": "Hioh",
+        "textOriginal": "Hioh",
+        "authorDisplayName": "Roza Sarsenova",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnjamMVH7SWXvhNDINt9CgvQsIj_aABy4Lzw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLTcsLsVw7SQ7DN5pBkMRZg",
+        "authorChannelId": {
+          "value": "UCLTcsLsVw7SQ7DN5pBkMRZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-10T10:25:29Z",
+        "updatedAt": "2021-01-10T10:25:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "f07117duS4n4qxsJwqKnAM1AUYQ",
+      "id": "UgwaaEJuovo_9AeBJAJ4AaABAg.9IKbdtmADAb9IL1mXotI9G",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o e obrigado",
+        "textOriginal": "Um abra\u00e7o e obrigado",
+        "parentId": "UgwaaEJuovo_9AeBJAJ4AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-10T14:22:36Z",
+        "updatedAt": "2021-01-10T14:22:36Z"
+      }
+    }
+  ]
+}

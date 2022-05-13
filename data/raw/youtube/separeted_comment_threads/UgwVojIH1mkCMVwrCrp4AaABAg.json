@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "E8R7wSoBeZiXKC_ObpII6wu6m6c",
+  "id": "UgwVojIH1mkCMVwrCrp4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "p7iugXKpL3TzmdokzSGSjEbhr-M",
+      "id": "UgwVojIH1mkCMVwrCrp4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "me envia os slides por favor , tem como?",
+        "textOriginal": "me envia os slides por favor , tem como?",
+        "authorDisplayName": "Darilia peres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvnmBPc4xOjXNGhuDgNcjxrWRt5cSn_MzlixyW=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUrpK7tIynP6T-YVVJU8M3g",
+        "authorChannelId": {
+          "value": "UCUrpK7tIynP6T-YVVJU8M3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-07T17:57:31Z",
+        "updatedAt": "2021-10-07T17:57:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "b5eJ5Gw3O3k3JoNKbYlJWzCuteY",
+      "id": "UgwVojIH1mkCMVwrCrp4AaABAg.9TCe-wLMwRI9XdMSLZK_WU",
+      "snippet": {
+        "textDisplay": "Tira print e depois junta no Power point.",
+        "textOriginal": "Tira print e depois junta no Power point.",
+        "parentId": "UgwVojIH1mkCMVwrCrp4AaABAg",
+        "authorDisplayName": "Shaw Michaell",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYE_IvML0EiL9EGwzSnWCjA2mlVgCvsj9mhjFNKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrPkKoZw1IkA-zoAfoJqGxQ",
+        "authorChannelId": {
+          "value": "UCrPkKoZw1IkA-zoAfoJqGxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-25T22:19:41Z",
+        "updatedAt": "2022-01-25T22:19:41Z"
+      }
+    }
+  ]
+}

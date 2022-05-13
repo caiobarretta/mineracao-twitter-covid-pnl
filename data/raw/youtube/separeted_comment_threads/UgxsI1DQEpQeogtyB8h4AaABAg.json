@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pwZkglWooJp_GKhVNkouPEXeR2A",
+  "id": "UgxsI1DQEpQeogtyB8h4AaABAg",
+  "snippet": {
+    "videoId": "JbWuxV2FxLQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kkJ1s2UvQ7xqVApqMN0k3C95dZM",
+      "id": "UgxsI1DQEpQeogtyB8h4AaABAg",
+      "snippet": {
+        "videoId": "JbWuxV2FxLQ",
+        "textDisplay": "Muito dif\u00edcil cair esse tema.. \ud83e\udd14",
+        "textOriginal": "Muito dif\u00edcil cair esse tema.. \ud83e\udd14",
+        "authorDisplayName": "Karla Vik",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxYtxkwVdtuWvjlZRysBUgFl1JsrfaJghDAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdAaFsJcYYRihPwjemr0t4g",
+        "authorChannelId": {
+          "value": "UCdAaFsJcYYRihPwjemr0t4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-10-02T05:06:54Z",
+        "updatedAt": "2018-10-02T05:06:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jEGfLik0FqKJGQoj5YqOXdlFYP4",
+      "id": "UgxsI1DQEpQeogtyB8h4AaABAg.8ltHbJksh3B8vWhtXSL1g5",
+      "snippet": {
+        "textDisplay": "S\u00e9rio? Pq eu acho bem prov\u00e1vel",
+        "textOriginal": "S\u00e9rio? Pq eu acho bem prov\u00e1vel",
+        "parentId": "UgxsI1DQEpQeogtyB8h4AaABAg",
+        "authorDisplayName": "Igor Felipe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSz6F6pzi542Y2GNRQT5vsY81h9x7l0Yo0mMQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEfs252Y2e7AfPoRjmenpOQ",
+        "authorChannelId": {
+          "value": "UCEfs252Y2e7AfPoRjmenpOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-05-29T14:37:29Z",
+        "updatedAt": "2019-05-29T14:37:29Z"
+      }
+    }
+  ]
+}

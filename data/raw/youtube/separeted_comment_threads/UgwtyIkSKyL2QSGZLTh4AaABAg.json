@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a2rGRse0DLOxkUZ7l026QX1E-uA",
+  "id": "UgwtyIkSKyL2QSGZLTh4AaABAg",
+  "snippet": {
+    "videoId": "uQ2S5tyYN7A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lwXW2c6ig5akYZvjgQWuraHsy84",
+      "id": "UgwtyIkSKyL2QSGZLTh4AaABAg",
+      "snippet": {
+        "videoId": "uQ2S5tyYN7A",
+        "textDisplay": "resumindo,phudeu",
+        "textOriginal": "resumindo,phudeu",
+        "authorDisplayName": "Pietro Bertolini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6OSMAmCLb3ZWYXCf0F_QvGQNONDkYjWs1fm8oCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3PCXe9Vr3BoL4MzBqHhT7A",
+        "authorChannelId": {
+          "value": "UC3PCXe9Vr3BoL4MzBqHhT7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-23T14:50:58Z",
+        "updatedAt": "2020-03-23T14:50:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qB4dQgh_Pp9UUJl9X_U1e_rO3zU",
+      "id": "UgwtyIkSKyL2QSGZLTh4AaABAg.96Yd6x7FaYU98B0FNrUkAL",
+      "snippet": {
+        "textDisplay": "Kkk",
+        "textOriginal": "Kkk",
+        "parentId": "UgwtyIkSKyL2QSGZLTh4AaABAg",
+        "authorDisplayName": "Josadac Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyFZx0y_2ffBwJztfwYDmRBPt5y2NkOFCPDJvkwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpjkYSyFl9hChemH9YoH2aw",
+        "authorChannelId": {
+          "value": "UCpjkYSyFl9hChemH9YoH2aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-03T03:42:51Z",
+        "updatedAt": "2020-05-03T03:42:51Z"
+      }
+    }
+  ]
+}

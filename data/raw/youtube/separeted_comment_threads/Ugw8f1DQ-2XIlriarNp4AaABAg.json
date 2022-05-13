@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BWJS-Svn4_zlo5ep5KY6k8MGj7M",
+  "id": "Ugw8f1DQ-2XIlriarNp4AaABAg",
+  "snippet": {
+    "videoId": "PAr16HOePnY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BHXdTOb3h2pJJu8rSVWQnhKOzow",
+      "id": "Ugw8f1DQ-2XIlriarNp4AaABAg",
+      "snippet": {
+        "videoId": "PAr16HOePnY",
+        "textDisplay": "Vc foi internada por plano ou pelo SUS?",
+        "textOriginal": "Vc foi internada por plano ou pelo SUS?",
+        "authorDisplayName": "Sibele Braga",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrP7yJJ69IeSIk9gnM_vaAYQ3zWxH1gX87r8rT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZn2sUF3rWfrjsbVFT7a0Bw",
+        "authorChannelId": {
+          "value": "UCZn2sUF3rWfrjsbVFT7a0Bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T22:57:06Z",
+        "updatedAt": "2022-05-09T22:57:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gEOAXxkIQ7OjW8uyEeyGF5LySrw",
+      "id": "Ugw8f1DQ-2XIlriarNp4AaABAg.9apDPJadiem9apDdJF0qkp",
+      "snippet": {
+        "textDisplay": "Hospital militar",
+        "textOriginal": "Hospital militar",
+        "parentId": "Ugw8f1DQ-2XIlriarNp4AaABAg",
+        "authorDisplayName": "Qu\u00e9zia Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/n3xknmIl9yR9QLMR3SMLMCP9tFTKt12_7LoOpHBWME9u_o4MH9rqDBfG0LuC5hcFB5ZqoW_o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmG0L2wz8oBU1DelQF-BmLQ",
+        "authorChannelId": {
+          "value": "UCmG0L2wz8oBU1DelQF-BmLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T22:59:08Z",
+        "updatedAt": "2022-05-09T22:59:08Z"
+      }
+    }
+  ]
+}

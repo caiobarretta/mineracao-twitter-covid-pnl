@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tbN7jd0Bzk3kOFNWgI1nvZ4fPew",
+  "id": "Ugx1qYpryiBf4yM0ZcV4AaABAg",
+  "snippet": {
+    "videoId": "GNSh4EWzaqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rr4QxyNzi_-_j73q1LMJxVCyURo",
+      "id": "Ugx1qYpryiBf4yM0ZcV4AaABAg",
+      "snippet": {
+        "videoId": "GNSh4EWzaqI",
+        "textDisplay": "Ya la consegu\u00ed, mi meta es llegar a las 10 victorias con corona.",
+        "textOriginal": "Ya la consegu\u00ed, mi meta es llegar a las 10 victorias con corona.",
+        "authorDisplayName": "ED Rodriguez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRltR4iZZNPQI1BEdEbmhyHD90OBXIWVZL3e05o-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBx7fkIhLtWCssvz3Azwiug",
+        "authorChannelId": {
+          "value": "UCBx7fkIhLtWCssvz3Azwiug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-08T03:20:15Z",
+        "updatedAt": "2021-12-08T03:20:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pyzXd1Jr6mL6XglYKMzBDT-pz1U",
+      "id": "Ugx1qYpryiBf4yM0ZcV4AaABAg.9Vfitq4YV6F9Vunh6DkxxT",
+      "snippet": {
+        "textDisplay": "deja que ganen otros, vale madre tus 10 victorias con corona",
+        "textOriginal": "deja que ganen otros, vale madre tus 10 victorias con corona",
+        "parentId": "Ugx1qYpryiBf4yM0ZcV4AaABAg",
+        "authorDisplayName": "Dipper",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8n1DDR51G6G-bUIZS7wrTzhPrpVyREN7XFZLFhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj0yOVB76_DgqNg-m-Phk8A",
+        "authorChannelId": {
+          "value": "UCj0yOVB76_DgqNg-m-Phk8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-13T23:50:48Z",
+        "updatedAt": "2021-12-13T23:50:48Z"
+      }
+    }
+  ]
+}

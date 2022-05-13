@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vtcbtrgJP82tqHBawDXNqKAXtc8",
+  "id": "UgyxbroCarTaiOmvAn94AaABAg",
+  "snippet": {
+    "videoId": "zUIkhvdHHYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "t0QylTM_Ag6EEzxYjaTH1-JYqiI",
+      "id": "UgyxbroCarTaiOmvAn94AaABAg",
+      "snippet": {
+        "videoId": "zUIkhvdHHYE",
+        "textDisplay": "\u00e9 em S\u00e3o Paulo?",
+        "textOriginal": "\u00e9 em S\u00e3o Paulo?",
+        "authorDisplayName": "F\u00e1brica Da Ju",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQW3G35bzIRomnUd0sVCCgXpqK2kIidz3HcY1pG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrEe3YDKhhDxNmJSD6Gu2zA",
+        "authorChannelId": {
+          "value": "UCrEe3YDKhhDxNmJSD6Gu2zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-24T20:08:11Z",
+        "updatedAt": "2020-07-24T20:08:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bd_pfEQHX1UtlgWVcpp4PMek8Eo",
+      "id": "UgyxbroCarTaiOmvAn94AaABAg.9BVvButMhEB9BW1BJm0jQi",
+      "snippet": {
+        "textDisplay": "Rio de Janeiro",
+        "textOriginal": "Rio de Janeiro",
+        "parentId": "UgyxbroCarTaiOmvAn94AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-24T21:09:16Z",
+        "updatedAt": "2020-07-24T21:09:16Z"
+      }
+    }
+  ]
+}

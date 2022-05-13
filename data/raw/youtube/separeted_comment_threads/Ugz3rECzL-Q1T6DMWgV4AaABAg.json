@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8E_UHgzXtCNodlxqmk7xHeOpby4",
+  "id": "Ugz3rECzL-Q1T6DMWgV4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jyZCU4vscVK_OtmzhG8G-xSBIok",
+      "id": "Ugz3rECzL-Q1T6DMWgV4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "Nossa vc t\u00e1 levando muita coisa kkkkk",
+        "textOriginal": "Nossa vc t\u00e1 levando muita coisa kkkkk",
+        "authorDisplayName": "daniele lima soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkzVUvNN2mmvUIpbiIq9T2aGHUbxK7LpIumIBPjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ScTS_cW6Xg1kGksb2xBtw",
+        "authorChannelId": {
+          "value": "UC9ScTS_cW6Xg1kGksb2xBtw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-16T14:55:10Z",
+        "updatedAt": "2021-09-16T14:55:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cuBLUYR3_Gy9kGbhylOyOBJotak",
+      "id": "Ugz3rECzL-Q1T6DMWgV4AaABAg.9SMFRxztjEW9SMFitIMTnO",
+      "snippet": {
+        "textDisplay": "Usei bastante kkk",
+        "textOriginal": "Usei bastante kkk",
+        "parentId": "Ugz3rECzL-Q1T6DMWgV4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-16T14:57:37Z",
+        "updatedAt": "2021-09-16T14:57:37Z"
+      }
+    }
+  ]
+}

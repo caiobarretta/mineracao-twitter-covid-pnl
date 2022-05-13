@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QBMF0sUmvTqdSAc1DnGCMNtUlqo",
+  "id": "UgyKS6GaGuWmHt-NF6N4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Rhh-U_VewJPk4DrXcnax6hXODHc",
+      "id": "UgyKS6GaGuWmHt-NF6N4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Muito bem explicado!!!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764",
+        "textOriginal": "Muito bem explicado!!!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764",
+        "authorDisplayName": "KMarya",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/oDQN1tyURAITQ4AxsQPXf1YU4XOMgoc6cVWa3ac0h76WFixHFL8nRcxX_4iRMmRW5GtaAuIuow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0ff1Rn2aO48FBdUTZhdeUA",
+        "authorChannelId": {
+          "value": "UC0ff1Rn2aO48FBdUTZhdeUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-29T19:29:08Z",
+        "updatedAt": "2020-06-29T19:29:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "owbPN0b_vv-lW7hNa0K4qfe2wMA",
+      "id": "UgyKS6GaGuWmHt-NF6N4AaABAg.9AVTr2-9Hq_9Ae3uPSpZ-H",
+      "snippet": {
+        "textDisplay": "muito obrigado!!",
+        "textOriginal": "muito obrigado!!",
+        "parentId": "UgyKS6GaGuWmHt-NF6N4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-03T12:54:48Z",
+        "updatedAt": "2020-07-03T12:54:48Z"
+      }
+    }
+  ]
+}

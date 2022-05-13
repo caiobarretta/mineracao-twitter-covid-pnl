@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yVNKYt-f3OwXtRGVY2NTq6zUI6g",
+  "id": "UgyYgS5MGFGarz1XMF14AaABAg",
+  "snippet": {
+    "videoId": "JbWuxV2FxLQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZtfJ0O0da1VS4lkzkMPEU6FrGrc",
+      "id": "UgyYgS5MGFGarz1XMF14AaABAg",
+      "snippet": {
+        "videoId": "JbWuxV2FxLQ",
+        "textDisplay": "N\u00e3o precisar\u00e1 mais cobrar seus direitos??? Essa frase foi mal formulada.",
+        "textOriginal": "N\u00e3o precisar\u00e1 mais cobrar seus direitos??? Essa frase foi mal formulada.",
+        "authorDisplayName": "Cold Beer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvOKy6j0paeAZJ7S0dY73ctWCspbTtkY5vxUe9lw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCby2zkVuV04r8im05gXl7KA",
+        "authorChannelId": {
+          "value": "UCby2zkVuV04r8im05gXl7KA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-09-28T00:31:15Z",
+        "updatedAt": "2018-09-28T00:31:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-ndum92BSTlra6FaeneapUeTFig",
+      "id": "UgyYgS5MGFGarz1XMF14AaABAg.8liUsxaGb7S9-pzguXjh6P",
+      "snippet": {
+        "textDisplay": "N\u00e3o precisar\u00e1 cobrar, logo ter\u00e1 todos os direitos sem precisar cobrar",
+        "textOriginal": "N\u00e3o precisar\u00e1 cobrar, logo ter\u00e1 todos os direitos sem precisar cobrar",
+        "parentId": "UgyYgS5MGFGarz1XMF14AaABAg",
+        "authorDisplayName": "Gabriel Aguiar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8ti9EVa_6Tu_QmnyP7p5N7SyLVRY322SYvm-Kgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM5EqDy7WlJ7TX8o9JwWe0A",
+        "authorChannelId": {
+          "value": "UCM5EqDy7WlJ7TX8o9JwWe0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-10-08T18:14:49Z",
+        "updatedAt": "2019-10-08T18:14:49Z"
+      }
+    }
+  ]
+}

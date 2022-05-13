@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i3qQr0DCdyM_jtBUhC5IVD4Y3HQ",
+  "id": "Ugz9IK9s3Rc5fNsS9S54AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "f98UIt9g1tEWm2az5QcSCxW45Xo",
+      "id": "Ugz9IK9s3Rc5fNsS9S54AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Grande mestre Saldiva, sempre implac\u00e1vel nas analises.",
+        "textOriginal": "Grande mestre Saldiva, sempre implac\u00e1vel nas analises.",
+        "authorDisplayName": "Leonardo Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQq0a06QQNq0KPdrRhA3wNoP-RDh4OAfvuv4GvZjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkCtyDCSP9LzEqYGb8vvN7w",
+        "authorChannelId": {
+          "value": "UCkCtyDCSP9LzEqYGb8vvN7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T16:22:25Z",
+        "updatedAt": "2020-04-11T16:22:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NayHKxoZvjT91aud5yELPQBcLbo",
+      "id": "Ugz9IK9s3Rc5fNsS9S54AaABAg.97JigQArY0797JvhCdtVcl",
+      "snippet": {
+        "textDisplay": "Valeu Leonardo. Muito obrigado!",
+        "textOriginal": "Valeu Leonardo. Muito obrigado!",
+        "parentId": "Ugz9IK9s3Rc5fNsS9S54AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T18:16:07Z",
+        "updatedAt": "2020-04-11T18:16:07Z"
+      }
+    }
+  ]
+}

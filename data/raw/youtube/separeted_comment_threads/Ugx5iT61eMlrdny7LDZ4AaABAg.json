@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0XSEBI5Zn_uQQwCKCoAO-RYLXn8",
+  "id": "Ugx5iT61eMlrdny7LDZ4AaABAg",
+  "snippet": {
+    "videoId": "LwUjglzIUhc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uYlCFUUJY5FZUuVpN9W8HA4syf0",
+      "id": "Ugx5iT61eMlrdny7LDZ4AaABAg",
+      "snippet": {
+        "videoId": "LwUjglzIUhc",
+        "textDisplay": "#Vim pela li\u00e7\u00e3o\u2764\ud83c\udf3b",
+        "textOriginal": "#Vim pela li\u00e7\u00e3o\u2764\ud83c\udf3b",
+        "authorDisplayName": "Luara Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHxila62d2TaP4sv9TqZttR0yz4Hy4pX6mBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvpdi9CjUTfXH0eY-vN_mgQ",
+        "authorChannelId": {
+          "value": "UCvpdi9CjUTfXH0eY-vN_mgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2021-03-22T23:19:41Z",
+        "updatedAt": "2021-03-22T23:19:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EkkCeSm7q-Rf0dZhVv_2Np1DiDA",
+      "id": "Ugx5iT61eMlrdny7LDZ4AaABAg.9LCogRr8Z5J9NmaE7EoP9C",
+      "snippet": {
+        "textDisplay": "Tbbm",
+        "textOriginal": "Tbbm",
+        "parentId": "Ugx5iT61eMlrdny7LDZ4AaABAg",
+        "authorDisplayName": "Samuel Ara\u00fajo mo paz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSf4bRQah953NAOijd5hACWJOJoeg76NN5lEZiL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-TD2e2BeqJoFp-MJegq6Ag",
+        "authorChannelId": {
+          "value": "UC-TD2e2BeqJoFp-MJegq6Ag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-25T23:08:02Z",
+        "updatedAt": "2021-05-25T23:08:02Z"
+      }
+    }
+  ]
+}

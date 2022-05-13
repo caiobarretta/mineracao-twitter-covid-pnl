@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8kN28E3aQA_U71U3VWbaV_Yj954",
+  "id": "Ugz2_6-TTIna97GsTFl4AaABAg",
+  "snippet": {
+    "videoId": "kCbbjHaMDco",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xrcbuWrCEDdgFdAZnCnwrdgh9_c",
+      "id": "Ugz2_6-TTIna97GsTFl4AaABAg",
+      "snippet": {
+        "videoId": "kCbbjHaMDco",
+        "textDisplay": "No te creo",
+        "textOriginal": "No te creo",
+        "authorDisplayName": "Benita Soriano Mercedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQevWjn9n0JIlLB5SyHee-NrMIEjZBWV9rArA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS7z_jx3Up3uQz_1imPUjig",
+        "authorChannelId": {
+          "value": "UCS7z_jx3Up3uQz_1imPUjig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-29T14:46:58Z",
+        "updatedAt": "2020-07-29T14:46:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dfL3njfEtPKxwyGp5JGebY76UvY",
+      "id": "Ugz2_6-TTIna97GsTFl4AaABAg.9BhDPh4sfTq9Bmd-BlBJfN",
+      "snippet": {
+        "textDisplay": "S\u00ed amigo, tremendo m\u00fasico, en su \u00e9poca dicen que estaba entre los mejores m\u00fasico... Paz a su alma",
+        "textOriginal": "S\u00ed amigo, tremendo m\u00fasico, en su \u00e9poca dicen que estaba entre los mejores m\u00fasico... Paz a su alma",
+        "parentId": "Ugz2_6-TTIna97GsTFl4AaABAg",
+        "authorDisplayName": "Casos Sin Resolver",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSv2eKQ0-LgI3mD4Cr2vxj_fCr5HmE7tk9JmrhVtA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC75TSkDYzYtIcnhgQV1cVvQ",
+        "authorChannelId": {
+          "value": "UC75TSkDYzYtIcnhgQV1cVvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-31T17:15:29Z",
+        "updatedAt": "2020-07-31T17:15:29Z"
+      }
+    }
+  ]
+}

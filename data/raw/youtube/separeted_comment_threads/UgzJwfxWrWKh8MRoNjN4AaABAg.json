@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3BGXlQ9okDGXyFRnivQf4aOdhXY",
+  "id": "UgzJwfxWrWKh8MRoNjN4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WI7mp1aQp9I78q19_z-61Gs96Rw",
+      "id": "UgzJwfxWrWKh8MRoNjN4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "Alinquear quer dizer o que",
+        "textOriginal": "Alinquear quer dizer o que",
+        "authorDisplayName": "Maura mota dos santos Mary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQ-5dCYDkfTX_kLprAg2QGn11uPcYeKzWOBp2zcKcxbXJyIEDDMA6tA_3n9iR3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwCS_2jD2N7xyTk5MkvOv5w",
+        "authorChannelId": {
+          "value": "UCwCS_2jD2N7xyTk5MkvOv5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-24T18:46:50Z",
+        "updatedAt": "2021-09-24T18:46:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GvDBsgWH_jcfVMS-h1XGEvjIPjY",
+      "id": "UgzJwfxWrWKh8MRoNjN4AaABAg.9SgGJgQvjoo9U20MxVAaau",
+      "snippet": {
+        "textDisplay": "\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f",
+        "textOriginal": "\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f",
+        "parentId": "UgzJwfxWrWKh8MRoNjN4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-28T11:21:23Z",
+        "updatedAt": "2021-10-28T11:21:23Z"
+      }
+    }
+  ]
+}

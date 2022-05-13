@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pAcppA2OxUgLeAFRwUGGF5v3WNQ",
+  "id": "UgxI5f-dYs5XBrUsQCp4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-CMXiUWccBceZCX44ToUSXubXd8",
+      "id": "UgxI5f-dYs5XBrUsQCp4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "Vc sabe me dizer se Portugal est\u00e1 aceitando",
+        "textOriginal": "Vc sabe me dizer se Portugal est\u00e1 aceitando",
+        "authorDisplayName": "Suzana Teofilo toledo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvHhdneygGLW8gAcXxhni9CUiqO2sqv-3HUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUWhTpLelte5VHIqsGqjMpg",
+        "authorChannelId": {
+          "value": "UCUWhTpLelte5VHIqsGqjMpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-10T20:42:30Z",
+        "updatedAt": "2022-02-10T20:42:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bPUQgOm488WLHnG86GjLZO4_-D4",
+      "id": "UgxI5f-dYs5XBrUsQCp4AaABAg.9YHO2WLryNR9YK7-z4Q36h",
+      "snippet": {
+        "textDisplay": "Esta sim!",
+        "textOriginal": "Esta sim!",
+        "parentId": "UgxI5f-dYs5XBrUsQCp4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-11T22:11:19Z",
+        "updatedAt": "2022-02-11T22:11:19Z"
+      }
+    }
+  ]
+}

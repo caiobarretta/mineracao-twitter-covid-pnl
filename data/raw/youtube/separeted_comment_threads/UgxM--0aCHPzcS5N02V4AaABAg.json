@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HRrhS435Rk0BHbgXhfHm0nqrj1k",
+  "id": "UgxM--0aCHPzcS5N02V4AaABAg",
+  "snippet": {
+    "videoId": "QgFkQJpxIuQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qIihNb59UR8az4UlRaR2ygj5MqA",
+      "id": "UgxM--0aCHPzcS5N02V4AaABAg",
+      "snippet": {
+        "videoId": "QgFkQJpxIuQ",
+        "textDisplay": "\ud83e\udd22\ud83e\udd2e",
+        "textOriginal": "\ud83e\udd22\ud83e\udd2e",
+        "authorDisplayName": "Jerusa Guerreiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgM81JX_AL4I1LVHS_Pc8ogfptjKpfQ7L2hw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN7WwKyfgwvuSMGqUauVpSA",
+        "authorChannelId": {
+          "value": "UCN7WwKyfgwvuSMGqUauVpSA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-04T17:49:50Z",
+        "updatedAt": "2021-11-04T17:49:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LHXhWyZEcXvjv-KgoTF1TpHRqvE",
+      "id": "UgxM--0aCHPzcS5N02V4AaABAg.9UKjO9lMMky9UMkwWoCMFn",
+      "snippet": {
+        "textDisplay": "\ud83d\udc34",
+        "textOriginal": "\ud83d\udc34",
+        "parentId": "UgxM--0aCHPzcS5N02V4AaABAg",
+        "authorDisplayName": "sem nome \ud83c\uddfa\ud83c\udde6",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rdX8ymG1uX3PTF0K_c3K1G06JMrqlqlP0iAtOgcBIlBfVShBrkp4M1QxV2VTCL75ARH7Y7dUig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvD73hpU8n2hzH1xYxAM2Xw",
+        "authorChannelId": {
+          "value": "UCvD73hpU8n2hzH1xYxAM2Xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-05T12:41:53Z",
+        "updatedAt": "2021-11-05T12:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "-nqjj0qkehMHIPy_T-txAsJ9mZA",
+      "id": "UgxM--0aCHPzcS5N02V4AaABAg.9UKjO9lMMky9UMkqTV_KdB",
+      "snippet": {
+        "textDisplay": "\ud83d\udc34",
+        "textOriginal": "\ud83d\udc34",
+        "parentId": "UgxM--0aCHPzcS5N02V4AaABAg",
+        "authorDisplayName": "sem nome \ud83c\uddfa\ud83c\udde6",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rdX8ymG1uX3PTF0K_c3K1G06JMrqlqlP0iAtOgcBIlBfVShBrkp4M1QxV2VTCL75ARH7Y7dUig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvD73hpU8n2hzH1xYxAM2Xw",
+        "authorChannelId": {
+          "value": "UCvD73hpU8n2hzH1xYxAM2Xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-05T12:41:03Z",
+        "updatedAt": "2021-11-05T12:41:03Z"
+      }
+    }
+  ]
+}

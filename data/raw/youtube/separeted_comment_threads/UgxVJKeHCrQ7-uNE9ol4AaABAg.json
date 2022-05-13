@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pnThKH-4AR_c9XsDhwccndnvdhU",
+  "id": "UgxVJKeHCrQ7-uNE9ol4AaABAg",
+  "snippet": {
+    "videoId": "CsrHHHPHKwE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HqwGmQMeOUoF0ONIl8Y4N0kFYs4",
+      "id": "UgxVJKeHCrQ7-uNE9ol4AaABAg",
+      "snippet": {
+        "videoId": "CsrHHHPHKwE",
+        "textDisplay": "duvida, diferenca entre monolitico e MVC, agradeco",
+        "textOriginal": "duvida, diferenca entre monolitico e MVC, agradeco",
+        "authorDisplayName": "guilherme luis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeoymnZ0B2Eo_8bKHmwM3_R_NfdwG22WhYW-l_9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKF6vq2iTVYQHJTCBiJ8z6w",
+        "authorChannelId": {
+          "value": "UCKF6vq2iTVYQHJTCBiJ8z6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T15:02:23Z",
+        "updatedAt": "2022-05-10T15:02:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xLqIxPAHw8Is5cOQYtcP7tKxiXA",
+      "id": "UgxVJKeHCrQ7-uNE9ol4AaABAg.9aqwsILuk_49atgcOGoABi",
+      "snippet": {
+        "textDisplay": "@filipe cemim valeu meu rei",
+        "textOriginal": "@filipe cemim valeu meu rei",
+        "parentId": "UgxVJKeHCrQ7-uNE9ol4AaABAg",
+        "authorDisplayName": "guilherme luis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeoymnZ0B2Eo_8bKHmwM3_R_NfdwG22WhYW-l_9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKF6vq2iTVYQHJTCBiJ8z6w",
+        "authorChannelId": {
+          "value": "UCKF6vq2iTVYQHJTCBiJ8z6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-11T16:38:07Z",
+        "updatedAt": "2022-05-11T16:38:07Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZbrKVCxaOIwsO5hXaFwnvVSjdhs",
+      "id": "UgxVJKeHCrQ7-uNE9ol4AaABAg.9aqwsILuk_49atF3JDvQfI",
+      "snippet": {
+        "textDisplay": "Monol\u00edtico \u00e9 uma arquitetura de sistema e MVC \u00e9 um padr\u00e3o de projeto que pode ser aplicado tanto em sistemas monol\u00edticos, quanto em micro servi\u00e7os.",
+        "textOriginal": "Monol\u00edtico \u00e9 uma arquitetura de sistema e MVC \u00e9 um padr\u00e3o de projeto que pode ser aplicado tanto em sistemas monol\u00edticos, quanto em micro servi\u00e7os.",
+        "parentId": "UgxVJKeHCrQ7-uNE9ol4AaABAg",
+        "authorDisplayName": "filipe cemim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzu1o24-ehKCJtKa8RjxY7O48RqlXBn6-CurOo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClaAn2hcf03dYkJ6At2Fp8w",
+        "authorChannelId": {
+          "value": "UClaAn2hcf03dYkJ6At2Fp8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-11T12:28:31Z",
+        "updatedAt": "2022-05-11T12:28:31Z"
+      }
+    }
+  ]
+}

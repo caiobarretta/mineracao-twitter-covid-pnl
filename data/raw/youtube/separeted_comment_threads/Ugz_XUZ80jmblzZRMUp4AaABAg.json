@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aDHd5Ghpz9YgX6QheQn3buEafEk",
+  "id": "Ugz_XUZ80jmblzZRMUp4AaABAg",
+  "snippet": {
+    "videoId": "CMmUM1A803E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KsDVUbiKPUJa-6cdvxL5QCTJJVk",
+      "id": "Ugz_XUZ80jmblzZRMUp4AaABAg",
+      "snippet": {
+        "videoId": "CMmUM1A803E",
+        "textDisplay": "Est\u00e1 ot",
+        "textOriginal": "Est\u00e1 ot",
+        "authorDisplayName": "Maria Alice Soares Laranjeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBuGzTQfAr_G-d437BBMbzAFYgBACrYByxd_Grrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7FrIuJ7Ub_K9GYrueCVetg",
+        "authorChannelId": {
+          "value": "UC7FrIuJ7Ub_K9GYrueCVetg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-22T00:49:29Z",
+        "updatedAt": "2022-04-22T00:49:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "n1FdLHb9_Co1bzyErIK9WFm-bS4",
+      "id": "Ugz_XUZ80jmblzZRMUp4AaABAg.9a63xfkymTh9a6FVzVr6uF",
+      "snippet": {
+        "textDisplay": "Voc\u00ea acha q essa \"dengue\" \u00e9 a Nova flurona?",
+        "textOriginal": "Voc\u00ea acha q essa \"dengue\" \u00e9 a Nova flurona?",
+        "parentId": "Ugz_XUZ80jmblzZRMUp4AaABAg",
+        "authorDisplayName": "Giu Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTl7YgzBWh2B8GD-tAdRdPG__cGH7O-LSCO7mi3sQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl6vWTkmXucYTQ39ZL9lgUA",
+        "authorChannelId": {
+          "value": "UCl6vWTkmXucYTQ39ZL9lgUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-22T02:30:25Z",
+        "updatedAt": "2022-04-22T02:30:25Z"
+      }
+    }
+  ]
+}

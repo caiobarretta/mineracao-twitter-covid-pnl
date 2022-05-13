@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ScWyCjDDikBXZXKxwk8LH5n_wvw",
+  "id": "UgxcL4a6vdLxl2b_0hJ4AaABAg",
+  "snippet": {
+    "videoId": "cTkea71C5vA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "X2Q-_xxiqPh2U5dnCO36hUg520o",
+      "id": "UgxcL4a6vdLxl2b_0hJ4AaABAg",
+      "snippet": {
+        "videoId": "cTkea71C5vA",
+        "textDisplay": "ta parecendo plague inc no modo brutal",
+        "textOriginal": "ta parecendo plague inc no modo brutal",
+        "authorDisplayName": "\u13b7\u04bd\u027e\u0188\u03c5\u027e\u10e7\u5b64\u72ec\u306a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwPvqSB43dL0nT7NqdJn76vcr5aWyGZxSKG7PB-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZw_wWSLG03fL_wWh1eRPLw",
+        "authorChannelId": {
+          "value": "UCZw_wWSLG03fL_wWh1eRPLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-01-31T14:13:36Z",
+        "updatedAt": "2020-01-31T14:13:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hLjWjk4H9IQONPlxP-5aiiJIAow",
+      "id": "UgxcL4a6vdLxl2b_0hJ4AaABAg.94SfVldaQ0y94TXBvZ9rPg",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgxcL4a6vdLxl2b_0hJ4AaABAg",
+        "authorDisplayName": "Never gonna give you up",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpajrMgEvmCN2Fpp-WBGuZrsXPqzoacg4iT1fuEl8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj6p9DxkiHlyLKo8yvjbkdg",
+        "authorChannelId": {
+          "value": "UCj6p9DxkiHlyLKo8yvjbkdg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-01-31T22:11:29Z",
+        "updatedAt": "2020-01-31T22:11:29Z"
+      }
+    }
+  ]
+}

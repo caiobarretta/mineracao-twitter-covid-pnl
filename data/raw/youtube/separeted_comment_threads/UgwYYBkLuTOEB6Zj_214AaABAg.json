@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gWY9H7ZRKetxhqfoapkJWZXWD3s",
+  "id": "UgwYYBkLuTOEB6Zj_214AaABAg",
+  "snippet": {
+    "videoId": "uDU8Sdt4NxM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cKVbYU3Kc26v6lYAFvxxjEeSeaA",
+      "id": "UgwYYBkLuTOEB6Zj_214AaABAg",
+      "snippet": {
+        "videoId": "uDU8Sdt4NxM",
+        "textDisplay": "Cheguei  tayo",
+        "textOriginal": "Cheguei  tayo",
+        "authorDisplayName": "emanuelle lopes de Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTozzbgGuXpIEmEhaBwvSxxb0Q_BSDPjlyBeA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7t2wgQwRnGp1WzDquVzYUQ",
+        "authorChannelId": {
+          "value": "UC7t2wgQwRnGp1WzDquVzYUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-10T14:41:41Z",
+        "updatedAt": "2021-01-10T14:41:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hI6i54gztlrFGu8ObDx5aynpuZ8",
+      "id": "UgwYYBkLuTOEB6Zj_214AaABAg.9IL3yK2kNrF9ILxW5NDBN4",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o e sempre bem vinda",
+        "textOriginal": "Um abra\u00e7o e sempre bem vinda",
+        "parentId": "UgwYYBkLuTOEB6Zj_214AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-10T22:55:46Z",
+        "updatedAt": "2021-01-10T22:55:46Z"
+      }
+    }
+  ]
+}

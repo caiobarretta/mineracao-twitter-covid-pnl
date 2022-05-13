@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z9kTMml-IeKfv8DzRqarizqfOb8",
+  "id": "Ugzb948eoj_vvBophz14AaABAg",
+  "snippet": {
+    "videoId": "zUIkhvdHHYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9nUd56iNy74xX_NKUKl4Hzih1cg",
+      "id": "Ugzb948eoj_vvBophz14AaABAg",
+      "snippet": {
+        "videoId": "zUIkhvdHHYE",
+        "textDisplay": "Oi",
+        "textOriginal": "Oi",
+        "authorDisplayName": "Dudu Carmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZKCaD0Vds3PY8PlkiBVRBu59IkuMCZg1o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClYDeklQPcW1KuNRXWi-nOg",
+        "authorChannelId": {
+          "value": "UClYDeklQPcW1KuNRXWi-nOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-23T19:41:33Z",
+        "updatedAt": "2020-07-23T19:41:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TQXiJq3Jdjq9tXNY2gvnPJXmepo",
+      "id": "Ugzb948eoj_vvBophz14AaABAg.9BTIM28NeHG9BUjOM4DNqv",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o Obrigado por nos acompanhar",
+        "textOriginal": "Um abra\u00e7o Obrigado por nos acompanhar",
+        "parentId": "Ugzb948eoj_vvBophz14AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-24T09:05:47Z",
+        "updatedAt": "2020-07-24T09:05:47Z"
+      }
+    }
+  ]
+}

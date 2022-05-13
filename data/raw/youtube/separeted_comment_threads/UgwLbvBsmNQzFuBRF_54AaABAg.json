@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Aec_-OGpDBxPNHcsciNYtPDy1ME",
+  "id": "UgwLbvBsmNQzFuBRF_54AaABAg",
+  "snippet": {
+    "videoId": "EuDQqUGUmm0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "X9-15ZbcG8cL4hBwR5maoiDeET0",
+      "id": "UgwLbvBsmNQzFuBRF_54AaABAg",
+      "snippet": {
+        "videoId": "EuDQqUGUmm0",
+        "textDisplay": "Super 10 adorei",
+        "textOriginal": "Super 10 adorei",
+        "authorDisplayName": "Maria Amelia Gomes Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLciTbi1wgIncu90eeycXM2d_D2DNjSOsxag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi8g6bEe2IO4cdrLip6qnQA",
+        "authorChannelId": {
+          "value": "UCi8g6bEe2IO4cdrLip6qnQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-04T02:34:44Z",
+        "updatedAt": "2020-08-04T02:34:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HsAblgaFSbtctc1Oe-QRxAMPYjg",
+      "id": "UgwLbvBsmNQzFuBRF_54AaABAg.9BvMNpEAGtL9BxciCV0AIe",
+      "snippet": {
+        "textDisplay": "Obrigado por ter gostado, Maria Am\u00e9lia. Precisamos diivulgar e compartilhar.",
+        "textOriginal": "Obrigado por ter gostado, Maria Am\u00e9lia. Precisamos diivulgar e compartilhar.",
+        "parentId": "UgwLbvBsmNQzFuBRF_54AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-04T23:44:40Z",
+        "updatedAt": "2020-08-04T23:44:40Z"
+      }
+    }
+  ]
+}

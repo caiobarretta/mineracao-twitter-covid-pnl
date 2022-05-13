@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Dmqrgir5vZljO4j7z2OwLxknPR4",
+  "id": "UgzxKEOEb4WI6KdsWc54AaABAg",
+  "snippet": {
+    "videoId": "hPkldAk5Y0Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TEz2dmMjvHu4uQ2eDSV9R9SgX-g",
+      "id": "UgzxKEOEb4WI6KdsWc54AaABAg",
+      "snippet": {
+        "videoId": "hPkldAk5Y0Y",
+        "textDisplay": "Centenas?? Vi\u00e9s no olhar tamb\u00e9m!",
+        "textOriginal": "Centenas?? Vi\u00e9s no olhar tamb\u00e9m!",
+        "authorDisplayName": "Felipe Campello G",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNTjlAnxJQaPJtZrOmjd8uwuoJ-SJr5QgMAqBBZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8zRZZw4nM7OQzWRpsrT8VA",
+        "authorChannelId": {
+          "value": "UC8zRZZw4nM7OQzWRpsrT8VA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2022-05-08T15:40:37Z",
+        "updatedAt": "2022-05-08T15:40:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dxne6gVSfQqMzUPc81xq-mId7gk",
+      "id": "UgzxKEOEb4WI6KdsWc54AaABAg.9alred2F9379am4WxYC613",
+      "snippet": {
+        "textDisplay": "Kkkkkkk meia d\u00fazia",
+        "textOriginal": "Kkkkkkk meia d\u00fazia",
+        "parentId": "UgzxKEOEb4WI6KdsWc54AaABAg",
+        "authorDisplayName": "Aceita que d\u00f3i menos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/H9XEmYcIh4fI3EN7fHqcBFM1ZGVSU07pX7RBFjEbgVUxN5xP_UkNq9ppP8dq5ABVdrEtn5sNQNE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1b6Num2-DkHn79OhzXejwg",
+        "authorChannelId": {
+          "value": "UC1b6Num2-DkHn79OhzXejwg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-08T17:41:46Z",
+        "updatedAt": "2022-05-08T17:41:46Z"
+      }
+    }
+  ]
+}

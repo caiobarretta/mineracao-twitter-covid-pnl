@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ax3s8GQjyxa3LxLtLXcPLnSVnAg",
+  "id": "Ugx1uVFdhHpmjvH6Or94AaABAg",
+  "snippet": {
+    "videoId": "D7rzL4879WA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qsz_dHqjEhpAztoIIeI04CsMy2o",
+      "id": "Ugx1uVFdhHpmjvH6Or94AaABAg",
+      "snippet": {
+        "videoId": "D7rzL4879WA",
+        "textDisplay": "Voc\u00ea est\u00e1 aqui pelo mesmo motivo que eu >:(",
+        "textOriginal": "Voc\u00ea est\u00e1 aqui pelo mesmo motivo que eu >:(",
+        "authorDisplayName": "Davi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHWSgN-J9-IHJ0hNyyFkN6DpvXs5N-SnIFH--huA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnmFT-WndCmPgH3YA9C429w",
+        "authorChannelId": {
+          "value": "UCnmFT-WndCmPgH3YA9C429w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-11T17:54:19Z",
+        "updatedAt": "2021-03-11T17:54:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zUzOdzfqPs-Wx6bf2E1vr1mLBkE",
+      "id": "Ugx1uVFdhHpmjvH6Or94AaABAg.9KkuhiF9W699Kl9cUZkZyB",
+      "snippet": {
+        "textDisplay": "sim >:(",
+        "textOriginal": "sim >:(",
+        "parentId": "Ugx1uVFdhHpmjvH6Or94AaABAg",
+        "authorDisplayName": "Emi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQIMwzNW8GNwtnLq0kHLDF5BykW7UvaA9ysMngTLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpcn44oK0XcuS4xSGiQVluA",
+        "authorChannelId": {
+          "value": "UCpcn44oK0XcuS4xSGiQVluA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-11T20:13:25Z",
+        "updatedAt": "2021-03-11T20:13:25Z"
+      }
+    }
+  ]
+}

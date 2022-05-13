@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "295Iyjde_t68YxsFf-wCnwOw1AU",
+  "id": "UgxcZFkEPdwLEKu0LrF4AaABAg",
+  "snippet": {
+    "videoId": "7wbjJhrZOPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b01lg_m74w6PZjSVF-JdWmaVObs",
+      "id": "UgxcZFkEPdwLEKu0LrF4AaABAg",
+      "snippet": {
+        "videoId": "7wbjJhrZOPo",
+        "textDisplay": "Sempre os melhores conselhos!",
+        "textOriginal": "Sempre os melhores conselhos!",
+        "authorDisplayName": "Paula Rita Koster",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiVnCvvd8p2VeU3iGFrWK7qf7dDRrpnoeVfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5Zw3z1wa-mw1YKkJxOvXlA",
+        "authorChannelId": {
+          "value": "UC5Zw3z1wa-mw1YKkJxOvXlA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2020-08-18T21:08:44Z",
+        "updatedAt": "2020-08-18T21:08:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "A4Zhmsr03aXC-o_F6Vq8G4N45IA",
+      "id": "UgxcZFkEPdwLEKu0LrF4AaABAg.9CWP-ELo7wY9CY39SqxXvw",
+      "snippet": {
+        "textDisplay": "Principalmente aquele comercial solicitando mes\u00e1rios para as elei\u00e7\u00f5es . Lindo!",
+        "textOriginal": "Principalmente aquele comercial solicitando mes\u00e1rios para as elei\u00e7\u00f5es . Lindo!",
+        "parentId": "UgxcZFkEPdwLEKu0LrF4AaABAg",
+        "authorDisplayName": "Fabio Veloso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQEb81VZ6rxqDSp7BNdzHBVb1LQ6YZxEKaTJW8aA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtc6VPtQ8l8b4kncE4j7ppw",
+        "authorChannelId": {
+          "value": "UCtc6VPtQ8l8b4kncE4j7ppw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-19T12:36:22Z",
+        "updatedAt": "2020-08-19T12:36:22Z"
+      }
+    }
+  ]
+}

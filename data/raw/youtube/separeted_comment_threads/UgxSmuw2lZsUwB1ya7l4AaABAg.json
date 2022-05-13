@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "du6Z9Ma4UT44-qa02m5BPjuVf9k",
+  "id": "UgxSmuw2lZsUwB1ya7l4AaABAg",
+  "snippet": {
+    "videoId": "2MQFNLSsSdw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zaED7bXMA9QstGr_nOll8pbxtGE",
+      "id": "UgxSmuw2lZsUwB1ya7l4AaABAg",
+      "snippet": {
+        "videoId": "2MQFNLSsSdw",
+        "textDisplay": "Que maravilha de live,parabens a vces",
+        "textOriginal": "Que maravilha de live,parabens a vces",
+        "authorDisplayName": "Maria Amelia Gomes Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLciTbi1wgIncu90eeycXM2d_D2DNjSOsxag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi8g6bEe2IO4cdrLip6qnQA",
+        "authorChannelId": {
+          "value": "UCi8g6bEe2IO4cdrLip6qnQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-15T23:49:09Z",
+        "updatedAt": "2020-09-15T23:49:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4W5nhP3OrvnSsWGnvHjq2VCT5R0",
+      "id": "UgxSmuw2lZsUwB1ya7l4AaABAg.9Ddmbfu9LiA9Dw00MXudtj",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Maria Am\u00e9lia.",
+        "textOriginal": "Muito obrigado, Maria Am\u00e9lia.",
+        "parentId": "UgxSmuw2lZsUwB1ya7l4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-23T01:41:19Z",
+        "updatedAt": "2020-09-23T01:41:19Z"
+      }
+    }
+  ]
+}

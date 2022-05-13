@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FHIPsEMzVnVHX-kDEqtzbuKPwC8",
+  "id": "Ugyjwsl2mZPwSH6HdJR4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qLablpki7rFbKAVY5Mn3WOPCQC0",
+      "id": "Ugyjwsl2mZPwSH6HdJR4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Eu tomei a 1 dose, mas n\u00e3o parece nada.",
+        "textOriginal": "Eu tomei a 1 dose, mas n\u00e3o parece nada.",
+        "authorDisplayName": "Carla Vitoria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZnLC3EphcDbzJciXS2mKmxNMXo_lubfZvM2pwBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjl-vWiXpM7X00uIgivicEw",
+        "authorChannelId": {
+          "value": "UCjl-vWiXpM7X00uIgivicEw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-03T21:35:47Z",
+        "updatedAt": "2021-10-03T21:35:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aRSIroDvIPE4uDofCk6kfK966ks",
+      "id": "Ugyjwsl2mZPwSH6HdJR4AaABAg.9T2jo1l3KlG9T2p4aOwnNj",
+      "snippet": {
+        "textDisplay": "se j\u00e1 passou o prazo que falo no v\u00eddeo, entra em contato com a unidade de sa\u00fade que tu te vacinou pra entender pq n\u00e3o entrou no sistema.",
+        "textOriginal": "se j\u00e1 passou o prazo que falo no v\u00eddeo, entra em contato com a unidade de sa\u00fade que tu te vacinou pra entender pq n\u00e3o entrou no sistema.",
+        "parentId": "Ugyjwsl2mZPwSH6HdJR4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-03T22:21:52Z",
+        "updatedAt": "2021-10-03T22:21:52Z"
+      }
+    }
+  ]
+}

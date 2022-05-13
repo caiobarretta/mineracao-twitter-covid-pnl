@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5oV6TzGOlMUd8c66oxWmgCnQOgM",
+  "id": "UgxpP5wyuGIQqnXYsqB4AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TsY6v7tKNcHIgBmYOXDKVSLCl-Y",
+      "id": "UgxpP5wyuGIQqnXYsqB4AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Obrigada!!!!",
+        "textOriginal": "Obrigada!!!!",
+        "authorDisplayName": "Elide Menezes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRaXPCxcTgZWwvhp0yShMArZsN9pz1sRPCt1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtYEAE4ZUNVoJjyddqLhfHA",
+        "authorChannelId": {
+          "value": "UCtYEAE4ZUNVoJjyddqLhfHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T16:37:05Z",
+        "updatedAt": "2020-04-11T16:37:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9axa9pCH2mG_gYG_6UkpOIAJfRk",
+      "id": "UgxpP5wyuGIQqnXYsqB4AaABAg.97JkMklgSwC97JwClfpU3f",
+      "snippet": {
+        "textDisplay": "Elide, sou eu quem deve agradecer!!",
+        "textOriginal": "Elide, sou eu quem deve agradecer!!",
+        "parentId": "UgxpP5wyuGIQqnXYsqB4AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T18:20:34Z",
+        "updatedAt": "2020-04-11T18:20:34Z"
+      }
+    }
+  ]
+}

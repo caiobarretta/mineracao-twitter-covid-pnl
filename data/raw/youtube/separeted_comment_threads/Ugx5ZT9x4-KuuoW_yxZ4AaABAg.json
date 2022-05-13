@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_QydnPYp_BpylXj2oMH7kiwUEgM",
+  "id": "Ugx5ZT9x4-KuuoW_yxZ4AaABAg",
+  "snippet": {
+    "videoId": "Y3FFIYH7O5Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AJ8go21CPYNmhOpxzvQc3UQA5D0",
+      "id": "Ugx5ZT9x4-KuuoW_yxZ4AaABAg",
+      "snippet": {
+        "videoId": "Y3FFIYH7O5Q",
+        "textDisplay": "valeuz\u00e3o vc mora no meu cora\u00e7\u00e3o, quack",
+        "textOriginal": "valeuz\u00e3o vc mora no meu cora\u00e7\u00e3o, quack",
+        "authorDisplayName": "Joseph Bratler",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRj1ru-6-nJW4KfyYjLfU00CJ4d2iXQhCD5rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN-H7K1aGHypwJgk4REKbOA",
+        "authorChannelId": {
+          "value": "UCN-H7K1aGHypwJgk4REKbOA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-08T10:21:55Z",
+        "updatedAt": "2022-03-08T10:21:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bufSmTE3ci3lAGEXtx1ncsMWq64",
+      "id": "Ugx5ZT9x4-KuuoW_yxZ4AaABAg.9ZJDh-eeNM89ZMj3LQ7wdT",
+      "snippet": {
+        "textDisplay": "\ud83d\udc23\ud83d\udc9b\ud83d\udc23 Voc\u00ea tamb\u00e9m mora no cora\u00e7\u00e3o do Quack.",
+        "textOriginal": "\ud83d\udc23\ud83d\udc9b\ud83d\udc23 Voc\u00ea tamb\u00e9m mora no cora\u00e7\u00e3o do Quack.",
+        "parentId": "Ugx5ZT9x4-KuuoW_yxZ4AaABAg",
+        "authorDisplayName": "Quack - Reda\u00e7\u00e3o, Vestibular e Enem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rk4wBCIVuuJDjuDdgfIGaHsM2Xv6JIRJoifThMiAvqc3BFuPMUbX1uuDVYfYF3clUDJNS8ix=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY3w07Vj19j-D5Qv99nUJw",
+        "authorChannelId": {
+          "value": "UCCY3w07Vj19j-D5Qv99nUJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-09T19:02:27Z",
+        "updatedAt": "2022-03-09T19:02:27Z"
+      }
+    }
+  ]
+}

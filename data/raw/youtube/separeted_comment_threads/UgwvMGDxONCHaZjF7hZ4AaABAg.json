@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wC0ujho08P4doUWSVshC-zBUrvI",
+  "id": "UgwvMGDxONCHaZjF7hZ4AaABAg",
+  "snippet": {
+    "videoId": "xPEJH7yscHA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VnwZCBf4TI5qLgjvrHTVPYik9UQ",
+      "id": "UgwvMGDxONCHaZjF7hZ4AaABAg",
+      "snippet": {
+        "videoId": "xPEJH7yscHA",
+        "textDisplay": "BOA NOITE!!! DEUS O ABEN\u00c7OE MAIS E MAIS!!!",
+        "textOriginal": "BOA NOITE!!! DEUS O ABEN\u00c7OE MAIS E MAIS!!!",
+        "authorDisplayName": "Milvam Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTIP_0_lqv3oTutMN945-79hK7PWeS9xggs5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIBt7KYzZnkaq5BSZD_2Weg",
+        "authorChannelId": {
+          "value": "UCIBt7KYzZnkaq5BSZD_2Weg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-19T22:07:09Z",
+        "updatedAt": "2020-03-19T22:07:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Xz373gF-kfYakDhX9AchMhDrJRE",
+      "id": "UgwvMGDxONCHaZjF7hZ4AaABAg.96P6rCELPjw96Zkwb_5eA_",
+      "snippet": {
+        "textDisplay": "Fora ruim costa",
+        "textOriginal": "Fora ruim costa",
+        "parentId": "UgwvMGDxONCHaZjF7hZ4AaABAg",
+        "authorDisplayName": "Arnaldo De Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRChCId8YoS7kiL7vhgpR_stS-fStQ5--UVvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEnxKCQhVZxFMvqNQ0S_atw",
+        "authorChannelId": {
+          "value": "UCEnxKCQhVZxFMvqNQ0S_atw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-24T01:18:34Z",
+        "updatedAt": "2020-03-24T01:18:34Z"
+      }
+    }
+  ]
+}

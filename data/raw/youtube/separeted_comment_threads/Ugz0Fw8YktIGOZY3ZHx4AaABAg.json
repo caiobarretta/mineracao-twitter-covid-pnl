@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UG36c__PITeTjZH4uwgIiK6vYHA",
+  "id": "Ugz0Fw8YktIGOZY3ZHx4AaABAg",
+  "snippet": {
+    "videoId": "L77aeJw78g0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_H4RiQVDIvG9J1h_JgXkM4oKHbU",
+      "id": "Ugz0Fw8YktIGOZY3ZHx4AaABAg",
+      "snippet": {
+        "videoId": "L77aeJw78g0",
+        "textDisplay": "Hola! Muy buena explicaci\u00f3n, podr\u00edan colocar el link sobre el documento del cual se basan? el que est\u00e1 en ingl\u00e9s.- Me parece que es super interesante",
+        "textOriginal": "Hola! Muy buena explicaci\u00f3n, podr\u00edan colocar el link sobre el documento del cual se basan? el que est\u00e1 en ingl\u00e9s.- Me parece que es super interesante",
+        "authorDisplayName": "Gustavo Carrasquero Aldam\u00e1h",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5Fj9khSYyN9bX2ONRkTVZ8T9WyWH6JfqNJuSQknY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCod2HTEL9lHEzimdQHprzyg",
+        "authorChannelId": {
+          "value": "UCod2HTEL9lHEzimdQHprzyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-03-30T01:33:06Z",
+        "updatedAt": "2020-03-30T01:33:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rSA_w9FfEAZiAf1drPfQWUQmvdY",
+      "id": "Ugz0Fw8YktIGOZY3ZHx4AaABAg.96oENJLqGau977b0IdUMCD",
+      "snippet": {
+        "textDisplay": "envieme mail solicitando referencia",
+        "textOriginal": "envieme mail solicitando referencia",
+        "parentId": "Ugz0Fw8YktIGOZY3ZHx4AaABAg",
+        "authorDisplayName": "Flor Pujol",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQD5MKDDnGGM3AvBxd9h5HuE1rOPhu0Gy6-ZFxl_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdsF0wKJaVFR5a9a2fUw3ZA",
+        "authorChannelId": {
+          "value": "UCdsF0wKJaVFR5a9a2fUw3ZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-06T23:24:29Z",
+        "updatedAt": "2020-04-06T23:24:29Z"
+      }
+    }
+  ]
+}

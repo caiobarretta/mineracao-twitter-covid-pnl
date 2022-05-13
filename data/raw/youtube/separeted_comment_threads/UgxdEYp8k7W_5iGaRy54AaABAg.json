@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "POSn_8A9vl2X9BmVPYY-eRgt8yA",
+  "id": "UgxdEYp8k7W_5iGaRy54AaABAg",
+  "snippet": {
+    "videoId": "WpQHMxT-9y4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "y_asTC_KoZDa4WAqkl0ONbKHGtI",
+      "id": "UgxdEYp8k7W_5iGaRy54AaABAg",
+      "snippet": {
+        "videoId": "WpQHMxT-9y4",
+        "textDisplay": "Tenho um reda\u00e7\u00e3o com esse tema",
+        "textOriginal": "Tenho um reda\u00e7\u00e3o com esse tema",
+        "authorDisplayName": "Rafaela Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNvoU0EP2ma3PGQj7BIYRhCSKNjRey7KAjUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX_NaMl-6UecovF6IUmuTdw",
+        "authorChannelId": {
+          "value": "UCX_NaMl-6UecovF6IUmuTdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-10T16:53:40Z",
+        "updatedAt": "2022-02-10T16:53:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KEo0xNX4gqT60vNGinD3G6CZ-Ew",
+      "id": "UgxdEYp8k7W_5iGaRy54AaABAg.9YGyrWvUqBm9YK97t7BBoA",
+      "snippet": {
+        "textDisplay": "Boa sorte na reda\u00e7\u00e3o",
+        "textOriginal": "Boa sorte na reda\u00e7\u00e3o",
+        "parentId": "UgxdEYp8k7W_5iGaRy54AaABAg",
+        "authorDisplayName": "Prof. Lucas Freitas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/IcjAkCZLb0VxqoHvH06vOhRH6jH1q4bmMY1J5NwqGo32kggb7HtAG-jmiK4TsmxVI4pjFoe8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqE0EPWZBmRJlUpkeq6q9PA",
+        "authorChannelId": {
+          "value": "UCqE0EPWZBmRJlUpkeq6q9PA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-11T22:29:53Z",
+        "updatedAt": "2022-02-11T22:29:53Z"
+      }
+    }
+  ]
+}

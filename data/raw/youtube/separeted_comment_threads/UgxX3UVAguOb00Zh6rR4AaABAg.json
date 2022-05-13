@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "q1rPHuCz86hjcUJzVmHhRrv6180",
+  "id": "UgxX3UVAguOb00Zh6rR4AaABAg",
+  "snippet": {
+    "videoId": "EuDQqUGUmm0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9NTEdcuUhLxfVq4Y6VfNoT6jXjg",
+      "id": "UgxX3UVAguOb00Zh6rR4AaABAg",
+      "snippet": {
+        "videoId": "EuDQqUGUmm0",
+        "textDisplay": "Sempre muito bom !",
+        "textOriginal": "Sempre muito bom !",
+        "authorDisplayName": "Refferson Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQArW6K28wCQ0P5sP4-FXGFmiJ_15zsvj2chNCBqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg6MhOohR9F0yEPwUvS2YYg",
+        "authorChannelId": {
+          "value": "UCg6MhOohR9F0yEPwUvS2YYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-03T23:25:48Z",
+        "updatedAt": "2020-08-03T23:25:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_44Oqqupfqs3t97PqKnEy8yLKFs",
+      "id": "UgxX3UVAguOb00Zh6rR4AaABAg.9Bv0l3cIVFw9BxcbPCv5VA",
+      "snippet": {
+        "textDisplay": "Com certeza, Refferson.",
+        "textOriginal": "Com certeza, Refferson.",
+        "parentId": "UgxX3UVAguOb00Zh6rR4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-04T23:43:45Z",
+        "updatedAt": "2020-08-04T23:43:45Z"
+      }
+    }
+  ]
+}

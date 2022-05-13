@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "90qy7_2Z5JZ2crDKVMFFnN7zdYE",
+  "id": "UgwOTdRejigdxGWAMGF4AaABAg",
+  "snippet": {
+    "videoId": "imr16yBFrMg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZTy1cA2PnjOTLXw9gtw_1EtJ-Ic",
+      "id": "UgwOTdRejigdxGWAMGF4AaABAg",
+      "snippet": {
+        "videoId": "imr16yBFrMg",
+        "textDisplay": "Te prenderam numa caixa, Cl\u00e1udio!!",
+        "textOriginal": "Te prenderam numa caixa, Cl\u00e1udio!!",
+        "authorDisplayName": "Lincoln Noronha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbcyYEIee8OtVzK5v712FTxjN8HfbF0iLmfvarKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb8OFXnuF6DTHOrqNLevUBg",
+        "authorChannelId": {
+          "value": "UCb8OFXnuF6DTHOrqNLevUBg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-24T23:53:31Z",
+        "updatedAt": "2021-01-24T23:53:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4f8yjzFpxu7LnZtrG7eY3ylr3as",
+      "id": "UgwOTdRejigdxGWAMGF4AaABAg.9Iv6FLe6XcD9Iv8-ViRezU",
+      "snippet": {
+        "textDisplay": "Hahahaha! Quase isso!",
+        "textOriginal": "Hahahaha! Quase isso!",
+        "parentId": "UgwOTdRejigdxGWAMGF4AaABAg",
+        "authorDisplayName": "Fora da Pol\u00edtica N\u00e3o h\u00e1 Salva\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QJje1COetlCaGgKGaY6II3cBm3O6ZF5v15vNNPaJrUhMeIDtqVCiz0B0B5nUi6vCJdN2BTIS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbSOn9WtyJubqodDk_nL1aw",
+        "authorChannelId": {
+          "value": "UCbSOn9WtyJubqodDk_nL1aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-25T00:08:50Z",
+        "updatedAt": "2021-01-25T00:08:50Z"
+      }
+    }
+  ]
+}

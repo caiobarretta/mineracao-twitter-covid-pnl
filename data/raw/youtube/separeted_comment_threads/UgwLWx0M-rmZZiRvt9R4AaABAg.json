@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3KGQK1osqhGiPSxRuXD-7DXzVZA",
+  "id": "UgwLWx0M-rmZZiRvt9R4AaABAg",
+  "snippet": {
+    "videoId": "CsrHHHPHKwE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q0QcIPgdlsaQAFfz-fUzbVpQGhI",
+      "id": "UgwLWx0M-rmZZiRvt9R4AaABAg",
+      "snippet": {
+        "videoId": "CsrHHHPHKwE",
+        "textDisplay": "Agora vem a pergunta:\nQuem \u00e9 a bazuca? O Monolito ou os novos servi\u00e7os?",
+        "textOriginal": "Agora vem a pergunta:\nQuem \u00e9 a bazuca? O Monolito ou os novos servi\u00e7os?",
+        "authorDisplayName": "Alex Costa Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/cmzwg33UFlK1QMvUJWvaGQsClE9QULUKuHJux1t8hDtbAdXpRL1FSEGah6dKkSkv3AaNArvMZg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1qrwS9QzfZUnAesq7xcbGA",
+        "authorChannelId": {
+          "value": "UC1qrwS9QzfZUnAesq7xcbGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T16:42:40Z",
+        "updatedAt": "2022-05-10T16:43:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CJZSDdtNi8UbCo5HAT5VUrhKRk8",
+      "id": "UgwLWx0M-rmZZiRvt9R4AaABAg.9ar7Llhhfhp9ar8TS_AQ2v",
+      "snippet": {
+        "textDisplay": "Os micro servi\u00e7os. O monolito \u00e9 mais r\u00e1pido e simples de desenvolver, nisso vem as desvantagens citadas.",
+        "textOriginal": "Os micro servi\u00e7os. O monolito \u00e9 mais r\u00e1pido e simples de desenvolver, nisso vem as desvantagens citadas.",
+        "parentId": "UgwLWx0M-rmZZiRvt9R4AaABAg",
+        "authorDisplayName": "emanuel martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDxd2cpf70F0oyW1rptmuOgT-040HTZLkNC-bEUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ7jBpofIwv0MSd1E4ScBpQ",
+        "authorChannelId": {
+          "value": "UCJ7jBpofIwv0MSd1E4ScBpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T16:52:27Z",
+        "updatedAt": "2022-05-10T16:52:27Z"
+      }
+    }
+  ]
+}

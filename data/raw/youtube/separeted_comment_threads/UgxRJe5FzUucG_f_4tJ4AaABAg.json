@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ovjpBo7ay5vYDdsNXa8hjAJ0pkA",
+  "id": "UgxRJe5FzUucG_f_4tJ4AaABAg",
+  "snippet": {
+    "videoId": "LwUjglzIUhc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "e0ZSb1KoaMoeRUNmuscMHGZCS2g",
+      "id": "UgxRJe5FzUucG_f_4tJ4AaABAg",
+      "snippet": {
+        "videoId": "LwUjglzIUhc",
+        "textDisplay": "escola, quem?",
+        "textOriginal": "escola, quem?",
+        "authorDisplayName": "Vinii15",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dueUrPNRDG7IgEjPcgUlMjzoSVfjZizJhIGgQFGV5uVZJvwchu7-tBl3X8AKhCeleT9TkNxvSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_sIA0vw5yyjq0oUP1GKtvw",
+        "authorChannelId": {
+          "value": "UC_sIA0vw5yyjq0oUP1GKtvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-09-22T13:21:29Z",
+        "updatedAt": "2020-09-22T13:21:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YvTzZLI_aPsOwxbf_mwbJoOrrjQ",
+      "id": "UgxRJe5FzUucG_f_4tJ4AaABAg.9DugLespACf9G7PEKR8ao5",
+      "snippet": {
+        "textDisplay": "Anita Garibaldi mano?",
+        "textOriginal": "Anita Garibaldi mano?",
+        "parentId": "UgxRJe5FzUucG_f_4tJ4AaABAg",
+        "authorDisplayName": "Gustavo Balardim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/VF1Gw20niOIO__nn9CqF-1Fu4zAqxbMTLcV1Fc8jXRdtpJX5JuhuK9eMrNxaQRmFRq65RXtUTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrxtn9o3EGhaqK9V2qPYb8Q",
+        "authorChannelId": {
+          "value": "UCrxtn9o3EGhaqK9V2qPYb8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-16T14:15:21Z",
+        "updatedAt": "2020-11-16T14:15:21Z"
+      }
+    }
+  ]
+}

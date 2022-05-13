@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g169FenmjFUzi0h7_1nD8dcXFZc",
+  "id": "UgxmC1YCfBKGpbf5sEJ4AaABAg",
+  "snippet": {
+    "videoId": "SpndMesW-0I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vfjwQofutycmhQwE_rbOiF_QBTc",
+      "id": "UgxmC1YCfBKGpbf5sEJ4AaABAg",
+      "snippet": {
+        "videoId": "SpndMesW-0I",
+        "textDisplay": "Alguma not\u00edcia das \u00d3peracoes?",
+        "textOriginal": "Alguma not\u00edcia das \u00d3peracoes?",
+        "authorDisplayName": "darcineia schmeguil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQciOl7vQBbRTtTFC4JfIAMk1cqHSe8W0ZOaUBytg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3LdKA9W6uCKefpkUEqJz2g",
+        "authorChannelId": {
+          "value": "UC3LdKA9W6uCKefpkUEqJz2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2022-05-10T16:23:30Z",
+        "updatedAt": "2022-05-10T16:23:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Umli7HquIZIub-2VgsLd3Cy-xI0",
+      "id": "UgxmC1YCfBKGpbf5sEJ4AaABAg.9ar59Q-rV4g9ar8PZLaI6Y",
+      "snippet": {
+        "textDisplay": "@Dr. Admar Almeida -Dr. Kavary Obrigado \ud83d\ude18\ud83d\ude4f",
+        "textOriginal": "@Dr. Admar Almeida -Dr. Kavary Obrigado \ud83d\ude18\ud83d\ude4f",
+        "parentId": "UgxmC1YCfBKGpbf5sEJ4AaABAg",
+        "authorDisplayName": "darcineia schmeguil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQciOl7vQBbRTtTFC4JfIAMk1cqHSe8W0ZOaUBytg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3LdKA9W6uCKefpkUEqJz2g",
+        "authorChannelId": {
+          "value": "UC3LdKA9W6uCKefpkUEqJz2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T16:51:55Z",
+        "updatedAt": "2022-05-10T16:51:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "2clwhJ8p2yLSbo79IRrlgdU79NQ",
+      "id": "UgxmC1YCfBKGpbf5sEJ4AaABAg.9ar59Q-rV4g9ar7Bb-BvIl",
+      "snippet": {
+        "textDisplay": "EM BREVE ESTA SEMANA",
+        "textOriginal": "EM BREVE ESTA SEMANA",
+        "parentId": "UgxmC1YCfBKGpbf5sEJ4AaABAg",
+        "authorDisplayName": "Dr. Admar Almeida -Dr. Kavary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfocQXk1LmoyF0e47G-BWVDZX60g5TVkrZwt0-dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvStFI7DzNbDGajNvNgmCjg",
+        "authorChannelId": {
+          "value": "UCvStFI7DzNbDGajNvNgmCjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-05-10T16:41:16Z",
+        "updatedAt": "2022-05-10T16:41:16Z"
+      }
+    }
+  ]
+}

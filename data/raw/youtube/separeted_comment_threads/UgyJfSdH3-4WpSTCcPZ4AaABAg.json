@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CzeTsvheuQjGnbRV45iojwF2OxE",
+  "id": "UgyJfSdH3-4WpSTCcPZ4AaABAg",
+  "snippet": {
+    "videoId": "Y3FFIYH7O5Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-yYWoaikvxip_IweM1JZ92WL0Us",
+      "id": "UgyJfSdH3-4WpSTCcPZ4AaABAg",
+      "snippet": {
+        "videoId": "Y3FFIYH7O5Q",
+        "textDisplay": "muito boa a explica\u00e7\u00e3o , parab\u00e9ns",
+        "textOriginal": "muito boa a explica\u00e7\u00e3o , parab\u00e9ns",
+        "authorDisplayName": "Allanzinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/WQXO4jh28PCDWwr0kII4NLsS2aEQbkCBjWN-jSBodiTtquxVdmAwCI9veb3AI5CZsHkZS4av3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyAs6KbDq7DsiZAFwlWO-dA",
+        "authorChannelId": {
+          "value": "UCyAs6KbDq7DsiZAFwlWO-dA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-08T15:38:42Z",
+        "updatedAt": "2022-02-08T15:38:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hNTbYQCF2azrpiQV31CyKhExSZw",
+      "id": "UgyJfSdH3-4WpSTCcPZ4AaABAg.9YBggd4ZtK19YDuqOksufD",
+      "snippet": {
+        "textDisplay": "Muito obrigada!! :D",
+        "textOriginal": "Muito obrigada!! :D",
+        "parentId": "UgyJfSdH3-4WpSTCcPZ4AaABAg",
+        "authorDisplayName": "Quack - Reda\u00e7\u00e3o, Vestibular e Enem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rk4wBCIVuuJDjuDdgfIGaHsM2Xv6JIRJoifThMiAvqc3BFuPMUbX1uuDVYfYF3clUDJNS8ix=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY3w07Vj19j-D5Qv99nUJw",
+        "authorChannelId": {
+          "value": "UCCY3w07Vj19j-D5Qv99nUJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-09T12:20:50Z",
+        "updatedAt": "2022-02-09T12:20:50Z"
+      }
+    }
+  ]
+}

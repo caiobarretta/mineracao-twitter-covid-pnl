@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HVO84hJrl5Rvii_MWhA5Rl3sWU0",
+  "id": "UgyNTh-om912C1e32IN4AaABAg",
+  "snippet": {
+    "videoId": "_s4PVPbO3rU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XcJk8w5k3b78xnrejC6m-_gkTWA",
+      "id": "UgyNTh-om912C1e32IN4AaABAg",
+      "snippet": {
+        "videoId": "_s4PVPbO3rU",
+        "textDisplay": "Viva o SUS!",
+        "textOriginal": "Viva o SUS!",
+        "authorDisplayName": "Emily Saldanha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHzJiWu1fUGfHP0ckBJxMHTdl6masIYouN-m3xOhM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZayPIfa_MMgX7Kfch2VLuQ",
+        "authorChannelId": {
+          "value": "UCZayPIfa_MMgX7Kfch2VLuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-22T18:20:34Z",
+        "updatedAt": "2022-03-22T18:20:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4VzcqWxmyogNPdSfEheMLaid-BA",
+      "id": "UgyNTh-om912C1e32IN4AaABAg.9Zt7aynoaRx9ahXigLJHFh",
+      "snippet": {
+        "textDisplay": "parab\u00e9ns Guilherme assisti agora teu belo trabalho",
+        "textOriginal": "parab\u00e9ns Guilherme assisti agora teu belo trabalho",
+        "parentId": "UgyNTh-om912C1e32IN4AaABAg",
+        "authorDisplayName": "maria dinair A G gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1duG2iltViYMR8MPeqJT22PhEheVw1m77az9s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBZNoKaR9owMOaucuFeSf5Q",
+        "authorChannelId": {
+          "value": "UCBZNoKaR9owMOaucuFeSf5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-06T23:20:43Z",
+        "updatedAt": "2022-05-06T23:20:43Z"
+      }
+    }
+  ]
+}

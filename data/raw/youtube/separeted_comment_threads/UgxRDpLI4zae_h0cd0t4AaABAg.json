@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wWLG_hr5vfUf97o-xak6udmcf1k",
+  "id": "UgxRDpLI4zae_h0cd0t4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "y1MGldLEe_CIzrk69v6SFEZjAnM",
+      "id": "UgxRDpLI4zae_h0cd0t4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "Perfeito",
+        "textOriginal": "Perfeito",
+        "authorDisplayName": "monica carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTH7qtK5r_NGqiiM7tiWFXyCzYzkcIuGxP823rxXTIfuPf8j5KQBwBMbCFRX8fo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXJQvr2zRLxgBICy0hm2yuw",
+        "authorChannelId": {
+          "value": "UCXJQvr2zRLxgBICy0hm2yuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-17T22:07:10Z",
+        "updatedAt": "2022-03-17T22:07:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "f2N0Kdm8Kms3y9ohbKAp0Dgi-BE",
+      "id": "UgxRDpLI4zae_h0cd0t4AaABAg.9ZgeZEwzjlo9ZwQvb9oYar",
+      "snippet": {
+        "textDisplay": "\ud83e\udd70",
+        "textOriginal": "\ud83e\udd70",
+        "parentId": "UgxRDpLI4zae_h0cd0t4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-24T01:07:08Z",
+        "updatedAt": "2022-03-24T01:07:08Z"
+      }
+    }
+  ]
+}

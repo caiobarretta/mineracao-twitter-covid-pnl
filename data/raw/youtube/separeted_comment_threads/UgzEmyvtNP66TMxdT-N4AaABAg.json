@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jH_karhpHGAleNjHL_i3Kdz67CY",
+  "id": "UgzEmyvtNP66TMxdT-N4AaABAg",
+  "snippet": {
+    "videoId": "BGbcYokYPzc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CVRqMuWAPf1Vbwlj_7jcrKF3CZE",
+      "id": "UgzEmyvtNP66TMxdT-N4AaABAg",
+      "snippet": {
+        "videoId": "BGbcYokYPzc",
+        "textDisplay": "Boa Tarde",
+        "textOriginal": "Boa Tarde",
+        "authorDisplayName": "Quit\u00e9ria Marculino da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSr9EwFGBKJmrHC8b8VOE1kvHnDARDNTLw6D1Wk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPQfiWNNobqacExl9HHq4Cg",
+        "authorChannelId": {
+          "value": "UCPQfiWNNobqacExl9HHq4Cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-07T19:36:38Z",
+        "updatedAt": "2022-01-07T19:36:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NkHeYCekF9NkvPR_Qqit2rcoJ5Q",
+      "id": "UgzEmyvtNP66TMxdT-N4AaABAg.9WuiULibHhl9WulKqTTzbX",
+      "snippet": {
+        "textDisplay": "Boa tarde a todos",
+        "textOriginal": "Boa tarde a todos",
+        "parentId": "UgzEmyvtNP66TMxdT-N4AaABAg",
+        "authorDisplayName": "Pedro Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNH-10ZYQyEFfgiAwjLUHxutuJdJy9Kax9SA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqLrL1ChkDnVbgZrneo0kgw",
+        "authorChannelId": {
+          "value": "UCqLrL1ChkDnVbgZrneo0kgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-07T20:01:33Z",
+        "updatedAt": "2022-01-07T20:01:33Z"
+      }
+    }
+  ]
+}

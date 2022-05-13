@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YzBV1wvdYcPFxY9ikNqk-XUGgHw",
+  "id": "UgzgjFnfYGfwXVzOmaJ4AaABAg",
+  "snippet": {
+    "videoId": "ESjZMWAGrog",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QikaKjHQET312oDD4J-OEsJ2oS8",
+      "id": "UgzgjFnfYGfwXVzOmaJ4AaABAg",
+      "snippet": {
+        "videoId": "ESjZMWAGrog",
+        "textDisplay": "N\u00e3o vejo a hora, nunca mais vou colocar uma m\u00e1scara na minha cara e vou queimar todas as outras que eu tiver.",
+        "textOriginal": "N\u00e3o vejo a hora, nunca mais vou colocar uma m\u00e1scara na minha cara e vou queimar todas as outras que eu tiver.",
+        "authorDisplayName": "When we were young",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TRZp_U2NB9bP3PylPfmBCOTi9i4bPo4rXdqvRLYkhR5PPavV5P5-Oqf98IG59yxRPCd2gypnug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdlpzWp2SpGyKRHB6GuMvtg",
+        "authorChannelId": {
+          "value": "UCdlpzWp2SpGyKRHB6GuMvtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-02-23T14:00:59Z",
+        "updatedAt": "2022-02-23T14:00:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-jAaH44E23tzbCkHMSUMvv4upDM",
+      "id": "UgzgjFnfYGfwXVzOmaJ4AaABAg.9Yn8R9Ajewo9YnIfGRyhB5",
+      "snippet": {
+        "textDisplay": "Em v\u00e1rios lugares do Brasil e do mundo as pessoas j\u00e1 deixaram de usar isso h\u00e1 muito tempo.",
+        "textOriginal": "Em v\u00e1rios lugares do Brasil e do mundo as pessoas j\u00e1 deixaram de usar isso h\u00e1 muito tempo.",
+        "parentId": "UgzgjFnfYGfwXVzOmaJ4AaABAg",
+        "authorDisplayName": "New",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mg4ETGo-QuS6VJ6-RaQoHGlEwO0hZR8mjYGIMKMs5flxgOH7UkEk8XLLmb-CAs-ooV92MceVtA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_Z2hBPvvJn8jnpTcpK9CGA",
+        "authorChannelId": {
+          "value": "UC_Z2hBPvvJn8jnpTcpK9CGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-23T15:30:26Z",
+        "updatedAt": "2022-02-23T15:30:26Z"
+      }
+    }
+  ]
+}

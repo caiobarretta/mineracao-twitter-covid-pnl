@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rgL2J8cLYj-nECUbLUzwNxEj9zg",
+  "id": "UgxWrULSKTvQAtJCQKd4AaABAg",
+  "snippet": {
+    "videoId": "8upAVl2p_ss",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b1t3TfkGRkrkNA1o5RyVBMwIuFA",
+      "id": "UgxWrULSKTvQAtJCQKd4AaABAg",
+      "snippet": {
+        "videoId": "8upAVl2p_ss",
+        "textDisplay": "Jesus \ud83d\ude4f eu peguei essa merda e \u00e9 de gritar que Deus ajude a humanidade!!",
+        "textOriginal": "Jesus \ud83d\ude4f eu peguei essa merda e \u00e9 de gritar que Deus ajude a humanidade!!",
+        "authorDisplayName": "Margarete Izidoro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTn3NM5arJv0a3ARbIJEAJWaQIOtWhOaGmA0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCckfwK7id0fkxh3Fyykezug",
+        "authorChannelId": {
+          "value": "UCckfwK7id0fkxh3Fyykezug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-24T01:44:12Z",
+        "updatedAt": "2022-01-24T01:44:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_c4A4qTzVZEFWWlYiFrRKwt4WSI",
+      "id": "UgxWrULSKTvQAtJCQKd4AaABAg.9XZ_GU7LB7o9XaTiUFv4yy",
+      "snippet": {
+        "textDisplay": "vc n\u00e3o sabe",
+        "textOriginal": "vc n\u00e3o sabe",
+        "parentId": "UgxWrULSKTvQAtJCQKd4AaABAg",
+        "authorDisplayName": "Cauan Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVtOZxiUD1cHJpt3teIXAt0q6FrA1AL6JNF9C7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt-_Qg2i2u-6CMDxXi5GFxg",
+        "authorChannelId": {
+          "value": "UCt-_Qg2i2u-6CMDxXi5GFxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-24T19:25:28Z",
+        "updatedAt": "2022-01-24T19:25:28Z"
+      }
+    }
+  ]
+}

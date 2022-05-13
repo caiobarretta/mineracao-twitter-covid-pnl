@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BVw2mrbWVLpznGDKsY90AExEcBE",
+  "id": "UgwW4MblkJ_zlZWHKn14AaABAg",
+  "snippet": {
+    "videoId": "OJdZK1NDP5E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jAi7GMaJedc6cRRhwXl0c7WDVTE",
+      "id": "UgwW4MblkJ_zlZWHKn14AaABAg",
+      "snippet": {
+        "videoId": "OJdZK1NDP5E",
+        "textDisplay": "O tratamento precoce salva vidas",
+        "textOriginal": "O tratamento precoce salva vidas",
+        "authorDisplayName": "Cristiane Eloah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/raOtYPieTrGPcUIGCDpcVwffCWJ_G-nTPPpRZf3mI97RsuEak8YaKkh5NFBeB8nbBlsjAVtla3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ-4YpYKanZ2EEGzeVLSPMA",
+        "authorChannelId": {
+          "value": "UCQ-4YpYKanZ2EEGzeVLSPMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2021-07-23T08:00:47Z",
+        "updatedAt": "2021-07-23T08:00:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_ZshUXNH_hb9_vAEH9j9NWtt2xY",
+      "id": "UgwW4MblkJ_zlZWHKn14AaABAg.9Q7tIpuUcz19Q8U7I427j-",
+      "snippet": {
+        "textDisplay": "Sim  o presidente bolsonaro sempre falou a verdade",
+        "textOriginal": "Sim  o presidente bolsonaro sempre falou a verdade",
+        "parentId": "UgwW4MblkJ_zlZWHKn14AaABAg",
+        "authorDisplayName": "adinalva pinheiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTOXtjpchRcDI6_RbRnWPJbHpGYWMWeb1Rh4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCz6eWOCHgQy9E0IE375sNIQ",
+        "authorChannelId": {
+          "value": "UCz6eWOCHgQy9E0IE375sNIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-07-23T13:31:16Z",
+        "updatedAt": "2021-07-23T13:31:16Z"
+      }
+    }
+  ]
+}

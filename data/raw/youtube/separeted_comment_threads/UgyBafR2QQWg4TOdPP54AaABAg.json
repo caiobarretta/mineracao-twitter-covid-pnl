@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_0lP2fjCjvYRNUpkcZra1OsNg34",
+  "id": "UgyBafR2QQWg4TOdPP54AaABAg",
+  "snippet": {
+    "videoId": "UF-KnN6h_Ak",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qWN5O4eH7Jb0udgEv6YPMjFpPzE",
+      "id": "UgyBafR2QQWg4TOdPP54AaABAg",
+      "snippet": {
+        "videoId": "UF-KnN6h_Ak",
+        "textDisplay": "Parab\u00e9ns.",
+        "textOriginal": "Parab\u00e9ns.",
+        "authorDisplayName": "Elione Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTx6mCcrHFs7y3iaCU5o3LZtmbhHGa4oC_rKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvJmVpWYbCWY2_GIu3incOQ",
+        "authorChannelId": {
+          "value": "UCvJmVpWYbCWY2_GIu3incOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-31T17:16:01Z",
+        "updatedAt": "2021-05-31T17:16:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o3LGl9zyvTw3TE0xeO5p3lWJML0",
+      "id": "UgyBafR2QQWg4TOdPP54AaABAg.9O0Pi0C-1ar9O3AlgRGpRo",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Elione",
+        "textOriginal": "Muito obrigado, Elione",
+        "parentId": "UgyBafR2QQWg4TOdPP54AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-01T19:03:09Z",
+        "updatedAt": "2021-06-01T19:03:09Z"
+      }
+    }
+  ]
+}

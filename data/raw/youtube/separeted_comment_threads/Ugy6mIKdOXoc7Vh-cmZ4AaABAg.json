@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "h5GT89HbstlbQGFECqOUgnoBUF8",
+  "id": "Ugy6mIKdOXoc7Vh-cmZ4AaABAg",
+  "snippet": {
+    "videoId": "u5KkyBu_iU4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "g3hucRQsaGoow370bHpjv2pKLkY",
+      "id": "Ugy6mIKdOXoc7Vh-cmZ4AaABAg",
+      "snippet": {
+        "videoId": "u5KkyBu_iU4",
+        "textDisplay": "Vim pela professora de hist\u00f3ria \u270c\ud83c\udffb",
+        "textOriginal": "Vim pela professora de hist\u00f3ria \u270c\ud83c\udffb",
+        "authorDisplayName": "Fatima Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeH0r_e9nE3P1RzWV32O6Nffi-_fvqIdIm-2VF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHhkLhO7TTdnDMi7awhszaw",
+        "authorChannelId": {
+          "value": "UCHhkLhO7TTdnDMi7awhszaw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-11T12:57:32Z",
+        "updatedAt": "2021-08-11T12:57:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "19OxZ4xnsuU3uPAyFtWAFAVMKLc",
+      "id": "Ugy6mIKdOXoc7Vh-cmZ4AaABAg.9QuLMrKbYD49REUENT-E2C",
+      "snippet": {
+        "textDisplay": "eu tbm akakakak",
+        "textOriginal": "eu tbm akakakak",
+        "parentId": "Ugy6mIKdOXoc7Vh-cmZ4AaABAg",
+        "authorDisplayName": "Nucleo de chamas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AZS9U3BYDePovnpZYm4J35LGuPpK7jq0yodJo7ZrVr1li0w6-Q4IN7GYhU36HCHIB4Kd0_sk4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKKFNxPfIzEY35Fyem1lqRA",
+        "authorChannelId": {
+          "value": "UCKKFNxPfIzEY35Fyem1lqRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-19T17:59:04Z",
+        "updatedAt": "2021-08-19T17:59:04Z"
+      }
+    }
+  ]
+}

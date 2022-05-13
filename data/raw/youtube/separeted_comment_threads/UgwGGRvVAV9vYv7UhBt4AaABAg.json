@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nwB67-4FberIU71YEEN6IAl6i8I",
+  "id": "UgwGGRvVAV9vYv7UhBt4AaABAg",
+  "snippet": {
+    "videoId": "DOz7HCwX-Cs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PwBBloHJTyxcPBjqM2n6kwzq9p0",
+      "id": "UgwGGRvVAV9vYv7UhBt4AaABAg",
+      "snippet": {
+        "videoId": "DOz7HCwX-Cs",
+        "textDisplay": "Muito bom!!",
+        "textOriginal": "Muito bom!!",
+        "authorDisplayName": "luicarsou",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRe-yLoDl9UX7AXPT_pYrYseYTMneKxKa5Lh1V5iQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_uLT2vcGDztDGzrpdEIanA",
+        "authorChannelId": {
+          "value": "UC_uLT2vcGDztDGzrpdEIanA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-15T02:14:34Z",
+        "updatedAt": "2020-03-15T02:14:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iCbS6B5AHB3D1b-IoLfNQEc5pmM",
+      "id": "UgwGGRvVAV9vYv7UhBt4AaABAg.96CgBu0Nsi096CjfNH1Um9",
+      "snippet": {
+        "textDisplay": "Muito obrigado, luicarsou. Vamos divulgar.",
+        "textOriginal": "Muito obrigado, luicarsou. Vamos divulgar.",
+        "parentId": "UgwGGRvVAV9vYv7UhBt4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-15T02:44:56Z",
+        "updatedAt": "2020-03-15T02:44:56Z"
+      }
+    }
+  ]
+}

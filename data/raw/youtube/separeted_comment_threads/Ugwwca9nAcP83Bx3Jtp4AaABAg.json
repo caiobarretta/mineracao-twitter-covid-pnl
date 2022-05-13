@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lCGwASIb0dItRCx6PVvXd9uKifs",
+  "id": "Ugwwca9nAcP83Bx3Jtp4AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NKC8IjLMLuvxj17IGLdsCqIriWM",
+      "id": "Ugwwca9nAcP83Bx3Jtp4AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Bela aula mestre,  parab\u00e9ns e obrigado pelos esclarecimentos!",
+        "textOriginal": "Bela aula mestre,  parab\u00e9ns e obrigado pelos esclarecimentos!",
+        "authorDisplayName": "janison caetano da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSL275zbdTuPEh4Zas-KfsymCV0TiRDLb4i7IH-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0K8RJwPkEDoKhgqtwlCUrA",
+        "authorChannelId": {
+          "value": "UC0K8RJwPkEDoKhgqtwlCUrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T22:46:42Z",
+        "updatedAt": "2020-04-11T22:46:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nayyA2VlI25hKkr84VBsItPUGFY",
+      "id": "Ugwwca9nAcP83Bx3Jtp4AaABAg.97KPeyt2o2O97Kp7qgh_zf",
+      "snippet": {
+        "textDisplay": "Obrigad\u00edssimo !",
+        "textOriginal": "Obrigad\u00edssimo !",
+        "parentId": "Ugwwca9nAcP83Bx3Jtp4AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-12T02:37:58Z",
+        "updatedAt": "2020-04-12T02:37:58Z"
+      }
+    }
+  ]
+}

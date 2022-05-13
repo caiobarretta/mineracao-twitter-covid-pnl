@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aOUDUdU3z_-atuuHISokUU0xESc",
+  "id": "UgzzG1BkRTFLVZuCLjp4AaABAg",
+  "snippet": {
+    "videoId": "NDRyJt5G-Ow",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mIpfA6x7mPm7f7bOnIFXMc2OaSA",
+      "id": "UgzzG1BkRTFLVZuCLjp4AaABAg",
+      "snippet": {
+        "videoId": "NDRyJt5G-Ow",
+        "textDisplay": "Cad\u00ea o Payao?",
+        "textOriginal": "Cad\u00ea o Payao?",
+        "authorDisplayName": "Guilherme Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6Bpp1UfCwQ7LnR0XYcouznLtVc-lQwuB5tvuvPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgN81wiMk3Db1Lme2v3jQWw",
+        "authorChannelId": {
+          "value": "UCgN81wiMk3Db1Lme2v3jQWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-11-20T01:25:09Z",
+        "updatedAt": "2020-11-20T01:25:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wHUn-Xw7jD5QLRB_bU7gURYp67Y",
+      "id": "UgzzG1BkRTFLVZuCLjp4AaABAg.9GGKGhjaDsO9GGYqNsiypx",
+      "snippet": {
+        "textDisplay": "t\u00f4 tocando umas reportagens em texto",
+        "textOriginal": "t\u00f4 tocando umas reportagens em texto",
+        "parentId": "UgzzG1BkRTFLVZuCLjp4AaABAg",
+        "authorDisplayName": "Felipe Pay\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKEBt4M_K347efmItRpnRUsclNAZhqhQDmPzKxXQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtMQAfLq2af35CWbY7BVU2w",
+        "authorChannelId": {
+          "value": "UCtMQAfLq2af35CWbY7BVU2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-20T03:32:29Z",
+        "updatedAt": "2020-11-20T03:32:29Z"
+      }
+    }
+  ]
+}

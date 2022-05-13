@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7p29gpBYyboivPNKLFhiSj0IR_4",
+  "id": "Ugxs_5gAPxfSxcvp23B4AaABAg",
+  "snippet": {
+    "videoId": "uDU8Sdt4NxM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PyBJ0WnJoIQkoR4gbil7whxszdY",
+      "id": "Ugxs_5gAPxfSxcvp23B4AaABAg",
+      "snippet": {
+        "videoId": "uDU8Sdt4NxM",
+        "textDisplay": "Eu gostei\ud83d\ude00!!!!! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "textOriginal": "Eu gostei\ud83d\ude00!!!!! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "authorDisplayName": "Fred Rafael",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToAr1q2VJZ5o-na7wJoAEfjhoHiBvgJo6aJ7yk5A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFSX6ucNgf4yunEd91pruVA",
+        "authorChannelId": {
+          "value": "UCFSX6ucNgf4yunEd91pruVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-10T14:28:31Z",
+        "updatedAt": "2021-01-10T14:28:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZwpVjOpkeGm7_ZgIOhbgvBcE7e0",
+      "id": "Ugxs_5gAPxfSxcvp23B4AaABAg.9IL2SqsYkNA9ILxOE0uiEX",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o meu amigo \ud83d\udc66",
+        "textOriginal": "Um abra\u00e7o meu amigo \ud83d\udc66",
+        "parentId": "Ugxs_5gAPxfSxcvp23B4AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-10T22:54:41Z",
+        "updatedAt": "2021-01-10T22:54:41Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j-hXV7xCRS2ryJorEEA3OrFX4G0",
+  "id": "UgywOltn0yNkbeJDO654AaABAg",
+  "snippet": {
+    "videoId": "AQygXlfKA1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YBQXXZQ3f73I6D3Ocd_krLd1IKo",
+      "id": "UgywOltn0yNkbeJDO654AaABAg",
+      "snippet": {
+        "videoId": "AQygXlfKA1E",
+        "textDisplay": "Tem pessoas que conhe\u00e7o achando que est\u00e1 acabando, fazendo planos para o futuro",
+        "textOriginal": "Tem pessoas que conhe\u00e7o achando que est\u00e1 acabando, fazendo planos para o futuro",
+        "authorDisplayName": "Neyla Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbvyfze28nGikZc7WVScXk8EVT7l3wyqq17w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2drkz51Et0OcuAhRwdgRfw",
+        "authorChannelId": {
+          "value": "UC2drkz51Et0OcuAhRwdgRfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-07-25T19:09:22Z",
+        "updatedAt": "2021-07-25T19:09:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bx_KPfA0gbMq1niIi6aevbMb6Zc",
+      "id": "UgywOltn0yNkbeJDO654AaABAg.9QEEPP9PvOx9QFrFhYHRfP",
+      "snippet": {
+        "textDisplay": "Pode at\u00e9 fazer ...",
+        "textOriginal": "Pode at\u00e9 fazer ...",
+        "parentId": "UgywOltn0yNkbeJDO654AaABAg",
+        "authorDisplayName": "Shirley Da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8m-QvjTmyH7vc3kyAz0yKcICHo1nlN80IQA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgYwL1wYILQ_4x5tQ22_9Pw",
+        "authorChannelId": {
+          "value": "UCgYwL1wYILQ_4x5tQ22_9Pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-26T10:16:48Z",
+        "updatedAt": "2021-07-26T10:16:48Z"
+      }
+    }
+  ]
+}

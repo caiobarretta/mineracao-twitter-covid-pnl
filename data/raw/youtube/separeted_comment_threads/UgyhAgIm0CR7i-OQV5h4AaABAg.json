@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Cp0qeWM5Y0g3v49XQd61scB1YKs",
+  "id": "UgyhAgIm0CR7i-OQV5h4AaABAg",
+  "snippet": {
+    "videoId": "Jj4KXvTOtDs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jCv75pHi9b85s5EBud6q1z1jlaA",
+      "id": "UgyhAgIm0CR7i-OQV5h4AaABAg",
+      "snippet": {
+        "videoId": "Jj4KXvTOtDs",
+        "textDisplay": "Tomare que seje o virus zumbir",
+        "textOriginal": "Tomare que seje o virus zumbir",
+        "authorDisplayName": "Leandro Juvenal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRCdRC36k1BeukHE5wTubIs41wU6Xxq-S80nAf3iA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCk7Ira_N1SxHOJynfHydYiA",
+        "authorChannelId": {
+          "value": "UCk7Ira_N1SxHOJynfHydYiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-24T20:58:42Z",
+        "updatedAt": "2020-01-24T20:58:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P7G3dDzSB8EurQndxXFJpddMt_k",
+      "id": "UgyhAgIm0CR7i-OQV5h4AaABAg.94BNIeTgzVV94GgQPd9J2w",
+      "snippet": {
+        "textDisplay": "\u00d1",
+        "textOriginal": "\u00d1",
+        "parentId": "UgyhAgIm0CR7i-OQV5h4AaABAg",
+        "authorDisplayName": "Nelson Macedo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwWgQAg3mZmrfxDnNvITcqQMjIEXpOwQUTLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa96w9c4F0AL7oJWxNoPAsg",
+        "authorChannelId": {
+          "value": "UCa96w9c4F0AL7oJWxNoPAsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-01-26T22:30:43Z",
+        "updatedAt": "2020-01-26T22:30:43Z"
+      }
+    }
+  ]
+}

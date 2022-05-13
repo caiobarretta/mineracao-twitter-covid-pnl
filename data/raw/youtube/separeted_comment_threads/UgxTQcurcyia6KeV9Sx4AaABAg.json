@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Zu5xsywd0ZaRubXUpKNjGfhPlRo",
+  "id": "UgxTQcurcyia6KeV9Sx4AaABAg",
+  "snippet": {
+    "videoId": "KJ4evTcrJSQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Y72EwOx2ntALOCCl-PFGAlIrqEo",
+      "id": "UgxTQcurcyia6KeV9Sx4AaABAg",
+      "snippet": {
+        "videoId": "KJ4evTcrJSQ",
+        "textDisplay": "O show n\u00e3o pode parar",
+        "textOriginal": "O show n\u00e3o pode parar",
+        "authorDisplayName": "Carlos Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuCdN-lMDy5kqWSWUegcMacM4gYMM53UhGIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2r04szwl-pDl2JAfif3niw",
+        "authorChannelId": {
+          "value": "UC2r04szwl-pDl2JAfif3niw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-03-18T08:52:22Z",
+        "updatedAt": "2022-03-18T08:52:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7hAoDV0xEC0giwWChb6hXUAn1gY",
+      "id": "UgxTQcurcyia6KeV9Sx4AaABAg.9ZhoOp3AWHk9ZvkX8XNtrJ",
+      "snippet": {
+        "textDisplay": "Vdd",
+        "textOriginal": "Vdd",
+        "parentId": "UgxTQcurcyia6KeV9Sx4AaABAg",
+        "authorDisplayName": "Moreno Moreno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaqEcO8YwOAq8VE8OY1Axs8xfAeRJVz6HyhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCja50RTdsYA7W_omkEgbSBA",
+        "authorChannelId": {
+          "value": "UCja50RTdsYA7W_omkEgbSBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-23T18:47:55Z",
+        "updatedAt": "2022-03-23T18:47:55Z"
+      }
+    }
+  ]
+}

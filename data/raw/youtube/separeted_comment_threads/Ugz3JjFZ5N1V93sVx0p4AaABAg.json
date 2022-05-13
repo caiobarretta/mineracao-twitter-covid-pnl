@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pRc14ZwnMAtBloDmQw8USoxrYpA",
+  "id": "Ugz3JjFZ5N1V93sVx0p4AaABAg",
+  "snippet": {
+    "videoId": "NI2yFITGL44",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qxcn4VKyWxY08BpVABpQepAwDCM",
+      "id": "Ugz3JjFZ5N1V93sVx0p4AaABAg",
+      "snippet": {
+        "videoId": "NI2yFITGL44",
+        "textDisplay": "Boa tarde! \nMaravilhoso encontro!",
+        "textOriginal": "Boa tarde! \nMaravilhoso encontro!",
+        "authorDisplayName": "Zil2013 Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5MgzD_UoeGBV8tBJ17EFSl3_dy5w_99mcfzdRVc0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtaikUkfgVr_2uwBZb8sRHQ",
+        "authorChannelId": {
+          "value": "UCtaikUkfgVr_2uwBZb8sRHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-23T16:03:24Z",
+        "updatedAt": "2021-06-23T16:03:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_BABM_uIe6EIJHqt4uHePiyh6aQ",
+      "id": "Ugz3JjFZ5N1V93sVx0p4AaABAg.9OwVgGzDrwK9Owo0v34oKw",
+      "snippet": {
+        "textDisplay": "Concordo, Zil. Muitas informa\u00e7\u00f5es fundamentais.",
+        "textOriginal": "Concordo, Zil. Muitas informa\u00e7\u00f5es fundamentais.",
+        "parentId": "Ugz3JjFZ5N1V93sVx0p4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-23T18:52:22Z",
+        "updatedAt": "2021-06-23T18:52:22Z"
+      }
+    }
+  ]
+}

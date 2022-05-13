@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9F7F4qo7iXUL2i2rewKzv4DQ0YY",
+  "id": "UgwlqS5lonPAd2nJqf94AaABAg",
+  "snippet": {
+    "videoId": "Js6TZEg9y3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LDhpzdmZRMsnQsq8x6ldMqaIHXM",
+      "id": "UgwlqS5lonPAd2nJqf94AaABAg",
+      "snippet": {
+        "videoId": "Js6TZEg9y3I",
+        "textDisplay": "O COVID misturou junto com os foli\u00f5es, pulou o carnaval e agora o resultado est\u00e1 a\u00ed.",
+        "textOriginal": "O COVID misturou junto com os foli\u00f5es, pulou o carnaval e agora o resultado est\u00e1 a\u00ed.",
+        "authorDisplayName": "Silma Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7cto6fG7ucdPoI88byc4nifye4WxPppBg7X4k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO_jru00qhnewejNqT_rsmA",
+        "authorChannelId": {
+          "value": "UCO_jru00qhnewejNqT_rsmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 34,
+        "publishedAt": "2022-05-04T12:52:43Z",
+        "updatedAt": "2022-05-04T12:52:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oiZR0XI4pszRt3o4nSkOqaOQeJ0",
+      "id": "UgwlqS5lonPAd2nJqf94AaABAg.9abGGK1k2RX9atUca6x7sL",
+      "snippet": {
+        "textDisplay": "fez motociata",
+        "textOriginal": "fez motociata",
+        "parentId": "UgwlqS5lonPAd2nJqf94AaABAg",
+        "authorDisplayName": "Margarida Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlEV3ecWeoz2RPgrHebvLELMoD1iShpBSVoA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_QLyU91LWt515xdg-R2dbw",
+        "authorChannelId": {
+          "value": "UC_QLyU91LWt515xdg-R2dbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T14:44:33Z",
+        "updatedAt": "2022-05-11T14:44:33Z"
+      }
+    }
+  ]
+}

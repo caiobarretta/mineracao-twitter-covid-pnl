@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pMTkmp-FxzupM2bcJIMGq69Rtes",
+  "id": "UgxZIHLPWFwvygD4j554AaABAg",
+  "snippet": {
+    "videoId": "NDRyJt5G-Ow",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "umoPMtwheMnZgQ6xumBCTosyBrk",
+      "id": "UgxZIHLPWFwvygD4j554AaABAg",
+      "snippet": {
+        "videoId": "NDRyJt5G-Ow",
+        "textDisplay": "Um absurdo terem demitido o fica ligado que \u00e9 hora de fica atualizado",
+        "textOriginal": "Um absurdo terem demitido o fica ligado que \u00e9 hora de fica atualizado",
+        "authorDisplayName": "Lucas Davi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLST96Jj-6eq4hP8F8TrKlArlOJnwG2e3Loxtar71Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8q7oBcnwxqwcUhziVKRsVA",
+        "authorChannelId": {
+          "value": "UC8q7oBcnwxqwcUhziVKRsVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-20T20:22:45Z",
+        "updatedAt": "2020-11-20T20:22:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ewHcCQ_VbrdKDlw2tnFviA2Rsr8",
+      "id": "UgxZIHLPWFwvygD4j554AaABAg.9GIMSlbXZH09GN8lOEPufL",
+      "snippet": {
+        "textDisplay": "Poise ;^; ele tem um canal, mas n \u00e9 a mesma coisa",
+        "textOriginal": "Poise ;^; ele tem um canal, mas n \u00e9 a mesma coisa",
+        "parentId": "UgxZIHLPWFwvygD4j554AaABAg",
+        "authorDisplayName": "Marcaquinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mF-hvca1GbzzpeDeshpDeVVhMu1JYMbCfJG88sanLzlquYNnMyVBJu1y9QWKNy2vQhWQt0Q6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqEflBXBtQRXQZXM_n3OMdQ",
+        "authorChannelId": {
+          "value": "UCqEflBXBtQRXQZXM_n3OMdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-22T16:59:18Z",
+        "updatedAt": "2020-11-22T16:59:18Z"
+      }
+    }
+  ]
+}

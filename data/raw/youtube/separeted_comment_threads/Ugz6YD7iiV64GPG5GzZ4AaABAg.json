@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kl5tsxQr9rjuLvUaeNLBeOGRMB8",
+  "id": "Ugz6YD7iiV64GPG5GzZ4AaABAg",
+  "snippet": {
+    "videoId": "tE7CU68pQ5k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-95MhLxNiJnNw2c-rmU_ZL79ysI",
+      "id": "Ugz6YD7iiV64GPG5GzZ4AaABAg",
+      "snippet": {
+        "videoId": "tE7CU68pQ5k",
+        "textDisplay": "Adorei o v\u00eddeo !!!",
+        "textOriginal": "Adorei o v\u00eddeo !!!",
+        "authorDisplayName": "Ana Carolina Paradeda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRLMTwLPnnUiJTMuZ8S35lO43EnI7q2usVZl9nNZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC17jqia3qm4LHvQC1XvthNw",
+        "authorChannelId": {
+          "value": "UC17jqia3qm4LHvQC1XvthNw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-28T00:08:17Z",
+        "updatedAt": "2020-05-28T00:08:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FpoicBkaafWW1D2AoZ6OE4R5t9k",
+      "id": "Ugz6YD7iiV64GPG5GzZ4AaABAg.99B-Zilww_I99B-rp_qMIs",
+      "snippet": {
+        "textDisplay": "deixa o teu like!!!",
+        "textOriginal": "deixa o teu like!!!",
+        "parentId": "Ugz6YD7iiV64GPG5GzZ4AaABAg",
+        "authorDisplayName": "Gabriel Xavier Brayer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0gKewnRlm8qDOw4UFVm7qSxObgd2c_1iz9GD2kd8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPsjoR80T_lfMH8LZB8lpQw",
+        "authorChannelId": {
+          "value": "UCPsjoR80T_lfMH8LZB8lpQw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-28T00:10:53Z",
+        "updatedAt": "2020-05-28T00:10:53Z"
+      }
+    }
+  ]
+}

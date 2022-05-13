@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XX16zX0IYyOm8JM57eSYEsFzUD0",
+  "id": "UgzT3nJ10Su-2PLsd094AaABAg",
+  "snippet": {
+    "videoId": "W-dsFOsfo_E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "M9OdZxS8k_InbBMGDfJ9UVKVMrY",
+      "id": "UgzT3nJ10Su-2PLsd094AaABAg",
+      "snippet": {
+        "videoId": "W-dsFOsfo_E",
+        "textDisplay": "Ta pega seis e traia em",
+        "textOriginal": "Ta pega seis e traia em",
+        "authorDisplayName": "Angelica Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnN5YxHntV7nRzJsTeUnj88hSYzXhwKocEAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvaFx1UumRfoNYP-8DEdrBA",
+        "authorChannelId": {
+          "value": "UCvaFx1UumRfoNYP-8DEdrBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-13T13:14:11Z",
+        "updatedAt": "2020-08-13T13:14:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lr-_vimw6CeoBx1GODLQ_eJzkUg",
+      "id": "UgzT3nJ10Su-2PLsd094AaABAg.9CIfiAQVqcR9SkXgCIt-0D",
+      "snippet": {
+        "textDisplay": "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "textOriginal": "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "parentId": "UgzT3nJ10Su-2PLsd094AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-26T10:35:33Z",
+        "updatedAt": "2021-09-26T10:35:33Z"
+      }
+    }
+  ]
+}

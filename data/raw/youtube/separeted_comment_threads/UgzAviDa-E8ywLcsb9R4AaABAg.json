@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YGI2OFaP9J3_7CoYp-8yDEANZFk",
+  "id": "UgzAviDa-E8ywLcsb9R4AaABAg",
+  "snippet": {
+    "videoId": "b-HbPJbeWbs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PHmmxqXb_Z36qW2QCAh1hnf9uqY",
+      "id": "UgzAviDa-E8ywLcsb9R4AaABAg",
+      "snippet": {
+        "videoId": "b-HbPJbeWbs",
+        "textDisplay": "Muita queda s\u00f3 ontem morreu 198 pessoas e 20 mil casos",
+        "textOriginal": "Muita queda s\u00f3 ontem morreu 198 pessoas e 20 mil casos",
+        "authorDisplayName": "Guuh FF",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vU_xDPqj8TiJ4ckUcdYYh4XX2FZjIVKqDn1Ob8LjmjGI0wNKuQmdeyTdWr4pE7nw1G_NAb6KkZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgUN_o8dzvXGW0u9qMjwh8Q",
+        "authorChannelId": {
+          "value": "UCgUN_o8dzvXGW0u9qMjwh8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-11T10:29:17Z",
+        "updatedAt": "2022-05-11T10:29:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0VGHhgZih1Mkh7XZWZc7Zlo0nkg",
+      "id": "UgzAviDa-E8ywLcsb9R4AaABAg.9at1PwxdkDv9auM8cfyGEd",
+      "snippet": {
+        "textDisplay": "S\u00e9rio ? \ud83d\ude31",
+        "textOriginal": "S\u00e9rio ? \ud83d\ude31",
+        "parentId": "UgzAviDa-E8ywLcsb9R4AaABAg",
+        "authorDisplayName": "Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/DmZZSHbpqnE8PlwFuKGmGjkbHQmp8iuFzGwuxohLMtB_gLURwfwG07eet72M0noZKMkbvdB3HQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkhNQ6T3MTQBA_icwqcNbJg",
+        "authorChannelId": {
+          "value": "UCkhNQ6T3MTQBA_icwqcNbJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T22:49:40Z",
+        "updatedAt": "2022-05-11T22:49:40Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5SzU5LqQIGqwn4PTlmrwf6USbWM",
+  "id": "UgwX7aFE6XtsU4ZGjMd4AaABAg",
+  "snippet": {
+    "videoId": "Inn8O5Sskcg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GdQV6pMxAmJUwFTT8InT1B8mgWA",
+      "id": "UgwX7aFE6XtsU4ZGjMd4AaABAg",
+      "snippet": {
+        "videoId": "Inn8O5Sskcg",
+        "textDisplay": "O mundo tem quer ser anarcocapitalista r\u00e1pido.",
+        "textOriginal": "O mundo tem quer ser anarcocapitalista r\u00e1pido.",
+        "authorDisplayName": "Andr\u00e9 Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhlDDSB6tHka7Ez3f110-cOSimeDGQ16nxdibXmw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgjz-jdBNvspUYi_gQ5Q2Ug",
+        "authorChannelId": {
+          "value": "UCgjz-jdBNvspUYi_gQ5Q2Ug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-08-11T19:07:55Z",
+        "updatedAt": "2020-08-11T19:07:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7MRPKZEwbhxxLI37gkDWGzcpqbU",
+      "id": "UgwX7aFE6XtsU4ZGjMd4AaABAg.9CE9bEQ5igT9MmLJBGmO76",
+      "snippet": {
+        "textDisplay": "Concordo",
+        "textOriginal": "Concordo",
+        "parentId": "UgwX7aFE6XtsU4ZGjMd4AaABAg",
+        "authorDisplayName": "Sower Economics",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/x2xMUpNNk0GCI6VA2aY6U9HvkqiJukKdcbyRDEFgHIrNPl8uvujtttYRpBCRqm66nQk10Qx_XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOjiSKxzboIx4stV_9h4hDA",
+        "authorChannelId": {
+          "value": "UCOjiSKxzboIx4stV_9h4hDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-01T00:17:31Z",
+        "updatedAt": "2021-05-01T00:17:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KB9WSsaaBf2VSyIuAD7V6P0D2ts",
+  "id": "UgwsSnJBx-kgQbqLZMx4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pDKv3cQF7kDbtefH8v7GOo6dnN8",
+      "id": "UgwsSnJBx-kgQbqLZMx4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Muito obrigado \ud83d\ude4f\ud83c\udfff",
+        "textOriginal": "Muito obrigado \ud83d\ude4f\ud83c\udfff",
+        "authorDisplayName": "coragem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIzBOZM0aPW61Pxa43yehLyA0vfilUZq86NI59ZDGYRuli3T916m5D_5tFifHh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVTT7rDjrAeJoDqsPRWYPMQ",
+        "authorChannelId": {
+          "value": "UCVTT7rDjrAeJoDqsPRWYPMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-24T10:22:58Z",
+        "updatedAt": "2022-03-24T10:22:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FdORJXffDJUfQvvg8YCkXBXTI38",
+      "id": "UgwsSnJBx-kgQbqLZMx4AaABAg.9ZxQXd66_go9Zy8IJwt5v1",
+      "snippet": {
+        "textDisplay": "\ud83e\udd17\ud83e\udd17",
+        "textOriginal": "\ud83e\udd17\ud83e\udd17",
+        "parentId": "UgwsSnJBx-kgQbqLZMx4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-24T17:02:49Z",
+        "updatedAt": "2022-03-24T17:02:49Z"
+      }
+    }
+  ]
+}

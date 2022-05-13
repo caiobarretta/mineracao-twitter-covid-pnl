@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KYzT5RwnCtlQwIhuZ0Qz1ew0TN0",
+  "id": "UgzQSjVAK1ySAZzlZJh4AaABAg",
+  "snippet": {
+    "videoId": "78q0Z5MO278",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Cq_0Crp_cw-EXVGSVtlGajxk4KI",
+      "id": "UgzQSjVAK1ySAZzlZJh4AaABAg",
+      "snippet": {
+        "videoId": "78q0Z5MO278",
+        "textDisplay": "Parab\u00e9ns pelo v\u00eddeo! Achei muito esclarecedor!",
+        "textOriginal": "Parab\u00e9ns pelo v\u00eddeo! Achei muito esclarecedor!",
+        "authorDisplayName": "arnaldo miguel silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVtxm5CyB3_nsggOBoiW4r771hnXlCi2Tt9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd5hQQfcCgioFujqQZCKbYQ",
+        "authorChannelId": {
+          "value": "UCd5hQQfcCgioFujqQZCKbYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-30T00:44:30Z",
+        "updatedAt": "2021-03-30T00:44:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eRTFcSiqRXLe8ioI8kLPRwEeV8w",
+      "id": "UgzQSjVAK1ySAZzlZJh4AaABAg.9LUzxlW74GQ9LXHphndaNb",
+      "snippet": {
+        "textDisplay": "Obrigado Arnaldo. Feliz por ter esclarecido alguns pontos.",
+        "textOriginal": "Obrigado Arnaldo. Feliz por ter esclarecido alguns pontos.",
+        "parentId": "UgzQSjVAK1ySAZzlZJh4AaABAg",
+        "authorDisplayName": "Prof. Danilo Stipp",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShHTlAqUvXxEDDz34Mj0Wir_lwJuM_NVdrYEIDkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFEHn1m5yb2kLAdhT8dn3fA",
+        "authorChannelId": {
+          "value": "UCFEHn1m5yb2kLAdhT8dn3fA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-30T22:07:54Z",
+        "updatedAt": "2021-03-30T22:07:54Z"
+      }
+    }
+  ]
+}

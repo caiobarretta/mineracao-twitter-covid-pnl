@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a-tJ1InrSyD-PLVLmnDyQnCsVOE",
+  "id": "UgztRmYBFi_FexVidLt4AaABAg",
+  "snippet": {
+    "videoId": "JloOHKblzL0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U1LW-YWZCCcAIXVLJOHWAK-DcPM",
+      "id": "UgztRmYBFi_FexVidLt4AaABAg",
+      "snippet": {
+        "videoId": "JloOHKblzL0",
+        "textDisplay": "Amei o v\u00eddeo",
+        "textOriginal": "Amei o v\u00eddeo",
+        "authorDisplayName": "Helena Roseti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwLGpo5bcuNGFLx32G0ox58VUODpUyZUmS1wfh1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMErSO_XDX0ryLMPRfZW7Yw",
+        "authorChannelId": {
+          "value": "UCMErSO_XDX0ryLMPRfZW7Yw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-20T18:14:40Z",
+        "updatedAt": "2020-07-20T18:14:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iWfXhye27x8N3aoSNVb9yaqD9es",
+      "id": "UgztRmYBFi_FexVidLt4AaABAg.9BLQ1-YoEgW9FqfR1nMf7i",
+      "snippet": {
+        "textDisplay": "Eu tamb\u00e9m",
+        "textOriginal": "Eu tamb\u00e9m",
+        "parentId": "UgztRmYBFi_FexVidLt4AaABAg",
+        "authorDisplayName": "Kkr_BaKa \ud83e\udd40",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/521796SOeyBkNxVgteId3j1UKraOaZKFON_zP1PVinIdNw5ptEN4EM-1vwyRBhIFNMREoP7w9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVSkWrBDd2FIurYpYgP26IA",
+        "authorChannelId": {
+          "value": "UCVSkWrBDd2FIurYpYgP26IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-11-09T16:59:18Z",
+        "updatedAt": "2020-11-09T16:59:18Z"
+      }
+    }
+  ]
+}

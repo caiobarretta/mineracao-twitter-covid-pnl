@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yEp5OBdBHXrCanRZB1QWXtoY8uM",
+  "id": "UgzqhYg43S_-X8MSMA94AaABAg",
+  "snippet": {
+    "videoId": "69bVYOOIjVQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uhFlhMPvmkfwX4tJDoYD6qghFmE",
+      "id": "UgzqhYg43S_-X8MSMA94AaABAg",
+      "snippet": {
+        "videoId": "69bVYOOIjVQ",
+        "textDisplay": "En serio usted es doctor? Jajaja",
+        "textOriginal": "En serio usted es doctor? Jajaja",
+        "authorDisplayName": "ble$$ed",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROrHfUdJDjsXRi7rHA5Vsh1R8G9lLzpgLBU0lS9A-MBsB-uKz9mazF6HuNR1Fe=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eX2fS-J3cYgl32mTIzaIQ",
+        "authorChannelId": {
+          "value": "UC2eX2fS-J3cYgl32mTIzaIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-13T06:30:54Z",
+        "updatedAt": "2022-05-13T06:30:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "q72Qrr0beUdFACs7jsMZWlDFT3E",
+      "id": "UgzqhYg43S_-X8MSMA94AaABAg.9axkii3lrY09axqF79AJaS",
+      "snippet": {
+        "textDisplay": "Y cu\u00e1les son sus calificaciones, ble$$ed?",
+        "textOriginal": "Y cu\u00e1les son sus calificaciones, ble$$ed?",
+        "parentId": "UgzqhYg43S_-X8MSMA94AaABAg",
+        "authorDisplayName": "Youth",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zvS0xM3nbSKW7PqnYi-1-f0HaC7344WT8bXJgdvSJgEu8I7jm2f2qqv5ER53I749jOf7vAkyBg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIzbUdHH8Gt5BsSxpvjiHQA",
+        "authorChannelId": {
+          "value": "UCIzbUdHH8Gt5BsSxpvjiHQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-13T07:19:09Z",
+        "updatedAt": "2022-05-13T07:19:09Z"
+      }
+    }
+  ]
+}

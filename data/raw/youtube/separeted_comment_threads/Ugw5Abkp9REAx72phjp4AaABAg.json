@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kHiHzZoqh855eN_OG0GiM37Ch9E",
+  "id": "Ugw5Abkp9REAx72phjp4AaABAg",
+  "snippet": {
+    "videoId": "ZiGW8BZzv5Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "to33Gz2FB-NBXOm56sRfH10v92U",
+      "id": "Ugw5Abkp9REAx72phjp4AaABAg",
+      "snippet": {
+        "videoId": "ZiGW8BZzv5Y",
+        "textDisplay": "Teria como enviar a avaliacao",
+        "textOriginal": "Teria como enviar a avaliacao",
+        "authorDisplayName": "Joizelaine Rebussi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFCRF5z7vSYKHd5_5v3AcZBiIkRHF_VDQwxg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtmzeFlD1c92uXlDOsJJKDw",
+        "authorChannelId": {
+          "value": "UCtmzeFlD1c92uXlDOsJJKDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-17T08:36:30Z",
+        "updatedAt": "2021-07-17T08:36:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0vEoYuARbZjtu8HbrzNZ2Fcudbk",
+      "id": "Ugw5Abkp9REAx72phjp4AaABAg.9PtVc7CS8m99QQc5sHH3dm",
+      "snippet": {
+        "textDisplay": "Desculpe Joizelaine, Qual avalia\u00e7\u00e3o?",
+        "textOriginal": "Desculpe Joizelaine, Qual avalia\u00e7\u00e3o?",
+        "parentId": "Ugw5Abkp9REAx72phjp4AaABAg",
+        "authorDisplayName": "Esppr Virtual",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGke3JvyFN2KRGGsj593gf4nHXNVTZtVQy-cUx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSquwAA936IWIEyy7-r1ccQ",
+        "authorChannelId": {
+          "value": "UCSquwAA936IWIEyy7-r1ccQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-30T14:36:02Z",
+        "updatedAt": "2021-07-30T14:36:02Z"
+      }
+    }
+  ]
+}

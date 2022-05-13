@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WLotYQThdS8kpHRBi62Ne8TyBa8",
+  "id": "UgzvO3FAWOXNwOHfSph4AaABAg",
+  "snippet": {
+    "videoId": "Dn3_SmAkITE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "465EY643k7Cr3UD_8IoSHpfZPoI",
+      "id": "UgzvO3FAWOXNwOHfSph4AaABAg",
+      "snippet": {
+        "videoId": "Dn3_SmAkITE",
+        "textDisplay": "\u00d3timo tema. OBRIGADA!Eu preciso ajudar e ser ajudada.",
+        "textOriginal": "\u00d3timo tema. OBRIGADA!Eu preciso ajudar e ser ajudada.",
+        "authorDisplayName": "Ideneia Silveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa9abYupqlTwD5hLYicM3mcnyTw8g78hwORA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgxa-5L5ngVfBy5rgvOxdoA",
+        "authorChannelId": {
+          "value": "UCgxa-5L5ngVfBy5rgvOxdoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-24T01:37:41Z",
+        "updatedAt": "2020-11-24T01:37:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vpUAlQsrNvj1QPPjpQP3gnb9ZmM",
+      "id": "UgzvO3FAWOXNwOHfSph4AaABAg.9GQdt2U3ydm9GQh8dHNiJI",
+      "snippet": {
+        "textDisplay": "N\u00f3s \u00e9 que agradecemos, Ideneia. Todos precisamos de ajuda.",
+        "textOriginal": "N\u00f3s \u00e9 que agradecemos, Ideneia. Todos precisamos de ajuda.",
+        "parentId": "UgzvO3FAWOXNwOHfSph4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-24T02:06:10Z",
+        "updatedAt": "2020-11-24T02:06:10Z"
+      }
+    }
+  ]
+}

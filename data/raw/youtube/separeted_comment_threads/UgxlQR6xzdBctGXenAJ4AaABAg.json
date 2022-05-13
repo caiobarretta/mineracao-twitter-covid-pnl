@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NLWOj2Z2WrRLUMdKdbsJkeY74qs",
+  "id": "UgxlQR6xzdBctGXenAJ4AaABAg",
+  "snippet": {
+    "videoId": "EMi6zf64mSA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Kh9EZ4q3C3RZhtYMYrPx3zl4qcQ",
+      "id": "UgxlQR6xzdBctGXenAJ4AaABAg",
+      "snippet": {
+        "videoId": "EMi6zf64mSA",
+        "textDisplay": "Bla bla",
+        "textOriginal": "Bla bla",
+        "authorDisplayName": "Hermes Alves Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8o9ldEhqkIGsLyf30bmGErAtFyUOtTlDlHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCquyv0evW59lWn2fylxvBbA",
+        "authorChannelId": {
+          "value": "UCquyv0evW59lWn2fylxvBbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-02T11:35:55Z",
+        "updatedAt": "2020-04-02T11:35:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

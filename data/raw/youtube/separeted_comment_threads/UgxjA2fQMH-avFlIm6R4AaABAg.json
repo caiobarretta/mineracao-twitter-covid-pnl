@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Uh8duYUcNbb4_jiaMt-t7QyO5tw",
+  "id": "UgxjA2fQMH-avFlIm6R4AaABAg",
+  "snippet": {
+    "videoId": "n0Y2zS-sz1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b7hHdGwXr55bM_5eHt2TKImlqgw",
+      "id": "UgxjA2fQMH-avFlIm6R4AaABAg",
+      "snippet": {
+        "videoId": "n0Y2zS-sz1E",
+        "textDisplay": "Esse canal me ajudou muito na li\u00e7\u00e3o de casa",
+        "textOriginal": "Esse canal me ajudou muito na li\u00e7\u00e3o de casa",
+        "authorDisplayName": "Joyce Docha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrhEUxlDzARHxK0DUaTDACjdZbFaNYVIQwNQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEmA4ziz1cTp_OBlR3ZINZQ",
+        "authorChannelId": {
+          "value": "UCEmA4ziz1cTp_OBlR3ZINZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-28T00:44:13Z",
+        "updatedAt": "2020-05-28T00:44:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bDlWU_dAiiZ3Im5pSRHSc_mVhEk",
+      "id": "UgxjA2fQMH-avFlIm6R4AaABAg.99B3fuO0nwt9A2jFcmDJ5H",
+      "snippet": {
+        "textDisplay": "Entao po ajuda dms slk",
+        "textOriginal": "Entao po ajuda dms slk",
+        "parentId": "UgxjA2fQMH-avFlIm6R4AaABAg",
+        "authorDisplayName": "Megumi Fushiguro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT98AwbNBUd-4Bz6ILMIi0I9pSfgxTUIR_HFq03cQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDv6yspu4wiWmr-LQm-fBsw",
+        "authorChannelId": {
+          "value": "UCDv6yspu4wiWmr-LQm-fBsw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-18T15:34:27Z",
+        "updatedAt": "2020-06-18T15:34:27Z"
+      }
+    }
+  ]
+}

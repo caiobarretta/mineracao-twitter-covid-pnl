@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "v0iCBz3Jizhsnt1QUeBIMkpZzvo",
+  "id": "Ugx6HaBzvS3XCX_fnmF4AaABAg",
+  "snippet": {
+    "videoId": "oCJ9XkC_j5g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "P89EkN1CuQoDy_jx_QgItbz58w8",
+      "id": "Ugx6HaBzvS3XCX_fnmF4AaABAg",
+      "snippet": {
+        "videoId": "oCJ9XkC_j5g",
+        "textDisplay": "Maravilha\nLike e muitos likes",
+        "textOriginal": "Maravilha\nLike e muitos likes",
+        "authorDisplayName": "Sueli Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS97o580DPldRShFNN1ciQgImMn8hr7aqK6Bw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYhqvHaA7l4ilz9g1j-uz0w",
+        "authorChannelId": {
+          "value": "UCYhqvHaA7l4ilz9g1j-uz0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-06-11T16:12:17Z",
+        "updatedAt": "2019-06-11T16:12:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LerKrH7CV3vlNPCkgM73zHyw0gQ",
+      "id": "Ugx6HaBzvS3XCX_fnmF4AaABAg.8w2M4HG7EnD8w2TpYJbzMh",
+      "snippet": {
+        "textDisplay": "Voc\u00ea \u00e9 dez, obrigado por comentar like like like e like valeu pelo coment\u00e1rio",
+        "textOriginal": "Voc\u00ea \u00e9 dez, obrigado por comentar like like like e like valeu pelo coment\u00e1rio",
+        "parentId": "Ugx6HaBzvS3XCX_fnmF4AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-06-11T17:20:02Z",
+        "updatedAt": "2019-06-11T17:20:02Z"
+      }
+    }
+  ]
+}

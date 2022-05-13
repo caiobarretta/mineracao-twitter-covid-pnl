@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jbVHUpjYStp-E_ALGvOyRP_1TkE",
+  "id": "UgzKcGZ3onHfVWDOWv14AaABAg",
+  "snippet": {
+    "videoId": "og0rnnHeZuQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h2x8KwQrt0VlZ1jFZ60bdmBbXTg",
+      "id": "UgzKcGZ3onHfVWDOWv14AaABAg",
+      "snippet": {
+        "videoId": "og0rnnHeZuQ",
+        "textDisplay": "J\u00e1 t\u00f4 cansada desse assunto!!",
+        "textOriginal": "J\u00e1 t\u00f4 cansada desse assunto!!",
+        "authorDisplayName": "jocelia silva mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaa4k8182xGXeMYMp2b9rKLY4Ua0ie-pLQNw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3hrTpzmYhlgPlU3yMCorCg",
+        "authorChannelId": {
+          "value": "UC3hrTpzmYhlgPlU3yMCorCg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-06T12:48:52Z",
+        "updatedAt": "2022-01-06T12:48:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M0Nwlj4I1OWxkeX1DZrRNNyA9-Q",
+      "id": "UgzKcGZ3onHfVWDOWv14AaABAg.9WrQ0vpikZu9WxzxnGbFpf",
+      "snippet": {
+        "textDisplay": "Idem",
+        "textOriginal": "Idem",
+        "parentId": "UgzKcGZ3onHfVWDOWv14AaABAg",
+        "authorDisplayName": "Jos\u00e9 Carlos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrYRfeHVSRlBp70ZCSdUDdL8Op_nAPCpKMDP1ixAj_89IYH4hSvTasMfoi3Gkm=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZyX_lJbn8_ON1cNZpkSE0Q",
+        "authorChannelId": {
+          "value": "UCZyX_lJbn8_ON1cNZpkSE0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T02:07:03Z",
+        "updatedAt": "2022-01-09T02:07:03Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZUncLmi8TpiQFZmC-rgbWZ1nrTc",
+      "id": "UgzKcGZ3onHfVWDOWv14AaABAg.9WrQ0vpikZu9WrZVop7RbC",
+      "snippet": {
+        "textDisplay": "T\u00f4 cansada dessa situa\u00e7\u00e3o. O assunto \u00e9 consequ\u00eancia.",
+        "textOriginal": "T\u00f4 cansada dessa situa\u00e7\u00e3o. O assunto \u00e9 consequ\u00eancia.",
+        "parentId": "UgzKcGZ3onHfVWDOWv14AaABAg",
+        "authorDisplayName": "Teresinha de Fatima Ribeiro Rezende",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR28FlsbJ5YYIwfaNhiOfKw5QLQpa6MRjXFyibheQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCobtwF42UVAclOXYrgtvZHQ",
+        "authorChannelId": {
+          "value": "UCobtwF42UVAclOXYrgtvZHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T14:11:44Z",
+        "updatedAt": "2022-01-06T14:11:44Z"
+      }
+    }
+  ]
+}

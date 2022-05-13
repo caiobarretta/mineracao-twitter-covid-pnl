@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zbgDOE9-rBasMZuYW7Qh04-7kjU",
+  "id": "UgzWMjPm-Njo-GSGCyJ4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1O-j8odkxgPNhMQUTmsn9veV7lQ",
+      "id": "UgzWMjPm-Njo-GSGCyJ4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "Um coroninha pro flavyli wonka cairia bem... kkkkk",
+        "textOriginal": "Um coroninha pro flavyli wonka cairia bem... kkkkk",
+        "authorDisplayName": "Davi Pires Dex88",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOo2sq0TdMiosjrf5JUUNua_mQZmMDg1Wo0VWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ar0xznOMOtbTN5JZr5QGQ",
+        "authorChannelId": {
+          "value": "UC-ar0xznOMOtbTN5JZr5QGQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T19:20:50Z",
+        "updatedAt": "2020-03-18T19:20:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zjzwmhywxDoIhgYRSyLfEFv9U8c",
+      "id": "UgzWMjPm-Njo-GSGCyJ4AaABAg.96MF1BCE4Iz96MH1jM0sGR",
+      "snippet": {
+        "textDisplay": "bem demais",
+        "textOriginal": "bem demais",
+        "parentId": "UgzWMjPm-Njo-GSGCyJ4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-18T19:38:23Z",
+        "updatedAt": "2020-03-18T19:38:23Z"
+      }
+    }
+  ]
+}

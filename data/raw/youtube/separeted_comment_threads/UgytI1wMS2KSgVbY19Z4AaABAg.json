@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "53ZuIQclqnPwXB2YHkfjRoqXxg0",
+  "id": "UgytI1wMS2KSgVbY19Z4AaABAg",
+  "snippet": {
+    "videoId": "s1KwbPWABcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gwDAUF7mULO8r4bAWSLyHplgRU4",
+      "id": "UgytI1wMS2KSgVbY19Z4AaABAg",
+      "snippet": {
+        "videoId": "s1KwbPWABcw",
+        "textDisplay": "Pare de falar besteira !!!",
+        "textOriginal": "Pare de falar besteira !!!",
+        "authorDisplayName": "Ed de Paulo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnFesxkKjxk9QzZ5YfB7s79nRjDxBBOeeuLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrPMe2spTnE7DwHXOlT8ZKQ",
+        "authorChannelId": {
+          "value": "UCrPMe2spTnE7DwHXOlT8ZKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-14T12:24:38Z",
+        "updatedAt": "2020-05-14T12:24:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "USCPzvc12BTrHo6IHiXxqw-Et-4",
+      "id": "UgytI1wMS2KSgVbY19Z4AaABAg.98dGhejnFR198dGyUwqsJa",
+      "snippet": {
+        "textDisplay": "Esse jornaleco sugere comprar teste em que lugar ?",
+        "textOriginal": "Esse jornaleco sugere comprar teste em que lugar ?",
+        "parentId": "UgytI1wMS2KSgVbY19Z4AaABAg",
+        "authorDisplayName": "Ed de Paulo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnFesxkKjxk9QzZ5YfB7s79nRjDxBBOeeuLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrPMe2spTnE7DwHXOlT8ZKQ",
+        "authorChannelId": {
+          "value": "UCrPMe2spTnE7DwHXOlT8ZKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-14T12:26:56Z",
+        "updatedAt": "2020-05-14T12:26:56Z"
+      }
+    }
+  ]
+}

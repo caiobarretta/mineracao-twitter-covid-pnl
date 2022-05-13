@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w3jdt3pR9VhzCMabxRzIliHuJys",
+  "id": "UgyvzvJJV_tT3b0OkR54AaABAg",
+  "snippet": {
+    "videoId": "n2y18MKoRz0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0QMbAFhmwby7qUls7SGlcw4YKXM",
+      "id": "UgyvzvJJV_tT3b0OkR54AaABAg",
+      "snippet": {
+        "videoId": "n2y18MKoRz0",
+        "textDisplay": "Mais uma live importante para a sociedade! Parab\u00e9ns!",
+        "textOriginal": "Mais uma live importante para a sociedade! Parab\u00e9ns!",
+        "authorDisplayName": "Thais Paulo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6ehjWRjGQ1ZYe03vEEiYjBF-pkdLsqRu-dxxEOD0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8bF2Q-gMWNb2A2_Pph87CA",
+        "authorChannelId": {
+          "value": "UC8bF2Q-gMWNb2A2_Pph87CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-01T22:40:33Z",
+        "updatedAt": "2020-12-01T22:40:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CKZZp1I_Vju_PJdJJq-GprzRtrU",
+      "id": "UgyvzvJJV_tT3b0OkR54AaABAg.9GjvyhLPPyU9GpQ7Cz578J",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Tha\u00eds, por sua opini\u00e3o.",
+        "textOriginal": "Muito obrigado, Tha\u00eds, por sua opini\u00e3o.",
+        "parentId": "UgyvzvJJV_tT3b0OkR54AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-04T01:48:56Z",
+        "updatedAt": "2020-12-04T01:48:56Z"
+      }
+    }
+  ]
+}

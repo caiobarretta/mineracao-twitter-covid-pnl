@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NU6iM_W6JmmIuHaRoIptydVQCjU",
+  "id": "UgyItPQnbEpGcBNt0xJ4AaABAg",
+  "snippet": {
+    "videoId": "JhLi8exbbNA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bf6E0c1m-4POa6lLMl-9IS6bgpA",
+      "id": "UgyItPQnbEpGcBNt0xJ4AaABAg",
+      "snippet": {
+        "videoId": "JhLi8exbbNA",
+        "textDisplay": "Petista : Bolsonaro \u00e9 culpado",
+        "textOriginal": "Petista : Bolsonaro \u00e9 culpado",
+        "authorDisplayName": "jose bruno americo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmQ0tMzPqbxKzowQKOjXwK3nxvXLV56t_Unw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6-lpLqLB7bFb0pxzoP3syA",
+        "authorChannelId": {
+          "value": "UC6-lpLqLB7bFb0pxzoP3syA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-11T16:35:13Z",
+        "updatedAt": "2021-11-11T16:35:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R4DTBQ9kJmN6bYpV84_pAlu7jMM",
+      "id": "UgyItPQnbEpGcBNt0xJ4AaABAg.9UbcPn6m4mG9UevPoW3eja",
+      "snippet": {
+        "textDisplay": "Eu j\u00e1 sabia disso.",
+        "textOriginal": "Eu j\u00e1 sabia disso.",
+        "parentId": "UgyItPQnbEpGcBNt0xJ4AaABAg",
+        "authorDisplayName": "Jorge Teixeira Carneiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0rkqHRt12BZ9cQUoBzp4EWSt9bOjqSm6lcIqs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9Whiw0OeLE53vPET5eST9A",
+        "authorChannelId": {
+          "value": "UC9Whiw0OeLE53vPET5eST9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-12T23:18:58Z",
+        "updatedAt": "2021-11-12T23:18:58Z"
+      }
+    }
+  ]
+}

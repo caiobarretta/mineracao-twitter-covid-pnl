@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZV3cKc4OQE_EPJ_ymoM1N7Ncm1Y",
+  "id": "UgyRXm3G2YXEmM80UL94AaABAg",
+  "snippet": {
+    "videoId": "DOz7HCwX-Cs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "71HJOLu1el9WSrwtRzZvrncKhf0",
+      "id": "UgyRXm3G2YXEmM80UL94AaABAg",
+      "snippet": {
+        "videoId": "DOz7HCwX-Cs",
+        "textDisplay": "\u261d\ufe0f\ud83d\udc4d\ud83d\ude4f",
+        "textOriginal": "\u261d\ufe0f\ud83d\udc4d\ud83d\ude4f",
+        "authorDisplayName": "Nilza Fc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpYacokOsQkLPJu-L6b10xScw9V0VU0y_jttSJbrk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvURjEZKbNPoNzDt9Nh7BOQ",
+        "authorChannelId": {
+          "value": "UCvURjEZKbNPoNzDt9Nh7BOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T01:04:24Z",
+        "updatedAt": "2020-06-03T01:06:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W1RxhShj2ME561ljzZZ-j-yBdAA",
+      "id": "UgyRXm3G2YXEmM80UL94AaABAg.99QYl-7QpZV99QZ4tMDyrK",
+      "snippet": {
+        "textDisplay": "Estou amado este v\u00eddeo. MUITO BEM EXPLICADO \ud83d\ude4f",
+        "textOriginal": "Estou amado este v\u00eddeo. MUITO BEM EXPLICADO \ud83d\ude4f",
+        "parentId": "UgyRXm3G2YXEmM80UL94AaABAg",
+        "authorDisplayName": "Nilza Fc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpYacokOsQkLPJu-L6b10xScw9V0VU0y_jttSJbrk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvURjEZKbNPoNzDt9Nh7BOQ",
+        "authorChannelId": {
+          "value": "UCvURjEZKbNPoNzDt9Nh7BOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-03T01:07:15Z",
+        "updatedAt": "2020-06-03T01:07:15Z"
+      }
+    }
+  ]
+}

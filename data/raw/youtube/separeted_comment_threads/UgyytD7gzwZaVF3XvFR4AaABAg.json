@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Yj2GF4ErrZPAVnvjCrJD_yI7xSc",
+  "id": "UgyytD7gzwZaVF3XvFR4AaABAg",
+  "snippet": {
+    "videoId": "TDvRSqxkxVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hIEDiarM_ap6XAox9ZqcLmY8_uY",
+      "id": "UgyytD7gzwZaVF3XvFR4AaABAg",
+      "snippet": {
+        "videoId": "TDvRSqxkxVI",
+        "textDisplay": "Preciso entrance en contato",
+        "textOriginal": "Preciso entrance en contato",
+        "authorDisplayName": "Nadja Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSV9zQYBLNHXKQZknWo0pazTR7WWYvk_igv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPkSq5xGuldSBBE8OUL0zjg",
+        "authorChannelId": {
+          "value": "UCPkSq5xGuldSBBE8OUL0zjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-13T09:13:08Z",
+        "updatedAt": "2021-11-13T09:13:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NRYSTnycSmYL-1dNYSuk-QqDe_k",
+      "id": "UgyytD7gzwZaVF3XvFR4AaABAg.9UfzP_f9xSD9UfzVlIndUQ",
+      "snippet": {
+        "textDisplay": "Eu quero o telefone da saude publica",
+        "textOriginal": "Eu quero o telefone da saude publica",
+        "parentId": "UgyytD7gzwZaVF3XvFR4AaABAg",
+        "authorDisplayName": "Nadja Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSV9zQYBLNHXKQZknWo0pazTR7WWYvk_igv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPkSq5xGuldSBBE8OUL0zjg",
+        "authorChannelId": {
+          "value": "UCPkSq5xGuldSBBE8OUL0zjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-13T09:13:59Z",
+        "updatedAt": "2021-11-13T09:13:59Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kkPo1b5gzFnkY8vRXbpGDtNVf8A",
+  "id": "UgzDAspctj55eYlz-6x4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cNpg7Owp5n-wwblxV78bo30Y9fQ",
+      "id": "UgzDAspctj55eYlz-6x4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Me ajudou obrigada \u263a\ufe0f",
+        "textOriginal": "Me ajudou obrigada \u263a\ufe0f",
+        "authorDisplayName": "fabiana mota",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMrsfisSTDZWR0uC1stea7s-1PqOanbBzkXQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZzFTOCzK5IDafz3STCvlPg",
+        "authorChannelId": {
+          "value": "UCZzFTOCzK5IDafz3STCvlPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-11T11:55:38Z",
+        "updatedAt": "2022-01-11T11:55:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NcwgB6hXK-OgJ0aPH9sp_R5LUo8",
+      "id": "UgzDAspctj55eYlz-6x4AaABAg.9X3BuQmFNWp9X4GGoEBFD3",
+      "snippet": {
+        "textDisplay": "que bom que ajudou \ud83e\udd70\ud83e\udd70",
+        "textOriginal": "que bom que ajudou \ud83e\udd70\ud83e\udd70",
+        "parentId": "UgzDAspctj55eYlz-6x4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-11T21:53:01Z",
+        "updatedAt": "2022-01-11T21:53:01Z"
+      }
+    }
+  ]
+}

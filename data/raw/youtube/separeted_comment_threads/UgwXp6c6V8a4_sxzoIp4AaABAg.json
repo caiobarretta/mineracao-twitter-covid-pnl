@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2kimsD7Uepr1ZssHsQARqmZv_oQ",
+  "id": "UgwXp6c6V8a4_sxzoIp4AaABAg",
+  "snippet": {
+    "videoId": "rdgWewV54Wc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J_ZTIfbNGTeYWPU9nXJWkBrlq68",
+      "id": "UgwXp6c6V8a4_sxzoIp4AaABAg",
+      "snippet": {
+        "videoId": "rdgWewV54Wc",
+        "textDisplay": "S\u00f3 Deus na causa.",
+        "textOriginal": "S\u00f3 Deus na causa.",
+        "authorDisplayName": "Marcio Gon\u00e7alves Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaEW_RRntQFoWRw0L_mee84Nroqi0meWk8Nw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0-bhZxHE_rdsHqMqZIT3Tw",
+        "authorChannelId": {
+          "value": "UC0-bhZxHE_rdsHqMqZIT3Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 22,
+        "publishedAt": "2020-11-03T16:11:55Z",
+        "updatedAt": "2020-11-03T16:11:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-JapOsKWY1dGVCNAMS1fufi3y_A",
+      "id": "UgwXp6c6V8a4_sxzoIp4AaABAg.9Fb8EgFcTk29LFarSOja8F",
+      "snippet": {
+        "textDisplay": "S\u00f3 viu",
+        "textOriginal": "S\u00f3 viu",
+        "parentId": "UgwXp6c6V8a4_sxzoIp4AaABAg",
+        "authorDisplayName": "Josiane Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8PfMPl-KdtIwVeW0idna4IcS-nCAhuvcXk2juoA2Ym5XJmpidr1ZPEnDV8Q6Fdi97cTSJBG1EZ8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi8on7brRx2hgIYJOmVIO6A",
+        "authorChannelId": {
+          "value": "UCi8on7brRx2hgIYJOmVIO6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T01:16:35Z",
+        "updatedAt": "2021-03-24T01:16:35Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "BcRRDH28-lMgk0EpiTGQDx497Uc",
+      "id": "UgwXp6c6V8a4_sxzoIp4AaABAg.9Fb8EgFcTk29L2sFGsa-zH",
+      "snippet": {
+        "textDisplay": "A t\u00e1",
+        "textOriginal": "A t\u00e1",
+        "parentId": "UgwXp6c6V8a4_sxzoIp4AaABAg",
+        "authorDisplayName": "roger delgado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkkZyMFZKt5s0LFFfZModiBreqbaB4N_adoLyUcDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCk3fegSLTjWPViSRL8zdIyg",
+        "authorChannelId": {
+          "value": "UCk3fegSLTjWPViSRL8zdIyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-19T02:38:23Z",
+        "updatedAt": "2021-03-19T02:38:23Z"
+      }
+    }
+  ]
+}

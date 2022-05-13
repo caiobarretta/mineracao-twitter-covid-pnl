@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-6AsWc6wKIrN_zT3vz53oYGPXPI",
+  "id": "Ugz6m5A4K7AaOMGmHEN4AaABAg",
+  "snippet": {
+    "videoId": "v9NukTROozc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "x82EpryL9Y1oz-0X9_gEQi_6V14",
+      "id": "Ugz6m5A4K7AaOMGmHEN4AaABAg",
+      "snippet": {
+        "videoId": "v9NukTROozc",
+        "textDisplay": "Sugiro que nos pr\u00f3ximos v\u00eddeos voc\u00ea aumenta o volume. Muito baixo",
+        "textOriginal": "Sugiro que nos pr\u00f3ximos v\u00eddeos voc\u00ea aumenta o volume. Muito baixo",
+        "authorDisplayName": "Sandro Ferreira Rabelo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ9RJY2QtuZ8o_qc6tT3YCYuq3KmrYg52Z4-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCysdhRMAsQn9hOidwocu4xA",
+        "authorChannelId": {
+          "value": "UCysdhRMAsQn9hOidwocu4xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-14T16:38:55Z",
+        "updatedAt": "2020-05-14T16:38:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Tkv5-7XNbWUEaCjN_otmVJ_uj_s",
+      "id": "Ugz6m5A4K7AaOMGmHEN4AaABAg.98dio4-G0ic98dlIqAxy7O",
+      "snippet": {
+        "textDisplay": "Sandro, obrigado pelo dica. Abra\u00e7o.",
+        "textOriginal": "Sandro, obrigado pelo dica. Abra\u00e7o.",
+        "parentId": "Ugz6m5A4K7AaOMGmHEN4AaABAg",
+        "authorDisplayName": "Prof. Anderson Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDbssvaQ2c25Jnxbvj0q9ALNtKUbVZMBMjUT24uQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsnIIi2zYpvSiB98tts5rcg",
+        "authorChannelId": {
+          "value": "UCsnIIi2zYpvSiB98tts5rcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-14T17:00:43Z",
+        "updatedAt": "2020-05-14T17:00:43Z"
+      }
+    }
+  ]
+}

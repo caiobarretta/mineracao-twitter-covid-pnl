@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0xcw8tEFroG-aSm7WQLEmXc5db4",
+  "id": "Ugz_fPQ0Kz3FaJUUSOR4AaABAg",
+  "snippet": {
+    "videoId": "Rq-shbyfeN8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CkC4_zSUlaW0htwUBYW9bGd1d34",
+      "id": "Ugz_fPQ0Kz3FaJUUSOR4AaABAg",
+      "snippet": {
+        "videoId": "Rq-shbyfeN8",
+        "textDisplay": "Facam tratamento precoce",
+        "textOriginal": "Facam tratamento precoce",
+        "authorDisplayName": "Liege Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSRpteQGK9PfQi6K-N7pu-dg4OxT_dPmgRGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa9lI5X_8G9mSFMz1Bfj05Q",
+        "authorChannelId": {
+          "value": "UCa9lI5X_8G9mSFMz1Bfj05Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-31T01:54:08Z",
+        "updatedAt": "2021-03-31T01:54:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vTpSubFS2to3K5b7zbBIRV026PE",
+      "id": "Ugz_fPQ0Kz3FaJUUSOR4AaABAg.9LXgi_Gx9ds9LY1YgFEtC9",
+      "snippet": {
+        "textDisplay": "Qual?",
+        "textOriginal": "Qual?",
+        "parentId": "Ugz_fPQ0Kz3FaJUUSOR4AaABAg",
+        "authorDisplayName": "Mathias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGUIABwZIbhJatZArjIoG8Fxz0U5LCHcFErKKncQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIGf-hNUKywy2hlROELb5EQ",
+        "authorChannelId": {
+          "value": "UCIGf-hNUKywy2hlROELb5EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-31T05:04:53Z",
+        "updatedAt": "2021-03-31T05:04:53Z"
+      }
+    }
+  ]
+}

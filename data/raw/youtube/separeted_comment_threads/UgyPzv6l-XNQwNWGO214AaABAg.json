@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-A7I4klW6GNRuG72pSB2C65tZ-E",
+  "id": "UgyPzv6l-XNQwNWGO214AaABAg",
+  "snippet": {
+    "videoId": "Ums4dmjBAWE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jk8M5rDAeCxNjQQxsz6nA7mlBzc",
+      "id": "UgyPzv6l-XNQwNWGO214AaABAg",
+      "snippet": {
+        "videoId": "Ums4dmjBAWE",
+        "textDisplay": "A origem foi na minha casa.. na mistura de cuecas com meias na m\u00e1quina de lavar...",
+        "textOriginal": "A origem foi na minha casa.. na mistura de cuecas com meias na m\u00e1quina de lavar...",
+        "authorDisplayName": "Osto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1FW6_I1C6lOXZc7db5Dk8oIsHcrb2LEsjMQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChoN4sRarB94Npsvm63ohZg",
+        "authorChannelId": {
+          "value": "UChoN4sRarB94Npsvm63ohZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-30T11:20:46Z",
+        "updatedAt": "2021-03-30T11:20:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XcrvV1PcFCkurVH4VvbBkzaoEcA",
+      "id": "UgyPzv6l-XNQwNWGO214AaABAg.9LW7lt9hVJY9LWNBVnw9CQ",
+      "snippet": {
+        "textDisplay": "\ud83d\ude01",
+        "textOriginal": "\ud83d\ude01",
+        "parentId": "UgyPzv6l-XNQwNWGO214AaABAg",
+        "authorDisplayName": "Hamida Acub",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTga5mEOnyahfaKH_yj__1F7N5rO_b1l6rYhA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLnBOkUrMM61xIUCJOYF7mQ",
+        "authorChannelId": {
+          "value": "UCLnBOkUrMM61xIUCJOYF7mQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-30T13:35:28Z",
+        "updatedAt": "2021-03-30T13:35:28Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GsPt41KddqUkhnGy2SdCvy6vbgU",
+  "id": "UgyVt-yvNzvkwYtG83x4AaABAg",
+  "snippet": {
+    "videoId": "T_kl-EMGkOw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ac95aXStO4NTN2qcBJ5iQCpxqyM",
+      "id": "UgyVt-yvNzvkwYtG83x4AaABAg",
+      "snippet": {
+        "videoId": "T_kl-EMGkOw",
+        "textDisplay": "A Gripizinha matou meu meu amigo.\ud83d\ude14",
+        "textOriginal": "A Gripizinha matou meu meu amigo.\ud83d\ude14",
+        "authorDisplayName": "Anacleto Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRHRhBznI9XciW2c_HsEQoy5zuHmUDofG0irOcB0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCREv1pF5UC4MDPVTO2wJStg",
+        "authorChannelId": {
+          "value": "UCREv1pF5UC4MDPVTO2wJStg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-04-08T14:39:09Z",
+        "updatedAt": "2021-04-08T14:39:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BPrhXng35LylnnSv6pJSF_e9ESo",
+      "id": "UgyVt-yvNzvkwYtG83x4AaABAg.9LseclsYz9q9PZRGfJaixQ",
+      "snippet": {
+        "textDisplay": "meus p\u00easames \ud83d\udda4",
+        "textOriginal": "meus p\u00easames \ud83d\udda4",
+        "parentId": "UgyVt-yvNzvkwYtG83x4AaABAg",
+        "authorDisplayName": "J\u00falia Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRORunutTmC0jR12kqN1DJrKuxIGdRwe9HAKSbg0w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN9RTjpwJrnZMnGA8iJ0zBg",
+        "authorChannelId": {
+          "value": "UCN9RTjpwJrnZMnGA8iJ0zBg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-09T04:14:26Z",
+        "updatedAt": "2021-07-09T04:14:26Z"
+      }
+    }
+  ]
+}

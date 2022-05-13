@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BoZEPLkclJUPsL9jBtTjP45E-C4",
+  "id": "Ugx_BSAiXJh_ClI7Q4N4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9caTmrK1gYjuDGqce8-KP_CQD44",
+      "id": "Ugx_BSAiXJh_ClI7Q4N4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "Tem como emitir esse certificado em ingl\u00eas?",
+        "textOriginal": "Tem como emitir esse certificado em ingl\u00eas?",
+        "authorDisplayName": "Cristiane Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCVAjNiKExvwwkuBC81EPPGhvN2nb1TQB8-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3UUZOnBECuepARXCleRcgw",
+        "authorChannelId": {
+          "value": "UC3UUZOnBECuepARXCleRcgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-06T13:17:35Z",
+        "updatedAt": "2022-02-06T13:17:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JUpVsXr39NZarB3ZoKJQy-AZock",
+      "id": "Ugx_BSAiXJh_ClI7Q4N4AaABAg.9Y6HxLvRyjf9Y6ZCoP8x7i",
+      "snippet": {
+        "textDisplay": "Sim. No app, na hora de salvar em pdf, vc escolhe o idioma.",
+        "textOriginal": "Sim. No app, na hora de salvar em pdf, vc escolhe o idioma.",
+        "parentId": "Ugx_BSAiXJh_ClI7Q4N4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-06T15:48:23Z",
+        "updatedAt": "2022-02-06T15:48:23Z"
+      }
+    }
+  ]
+}

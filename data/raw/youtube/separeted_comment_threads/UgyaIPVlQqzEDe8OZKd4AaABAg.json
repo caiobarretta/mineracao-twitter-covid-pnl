@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sMSTmMy0niK0ll0dRz06LPI04bA",
+  "id": "UgyaIPVlQqzEDe8OZKd4AaABAg",
+  "snippet": {
+    "videoId": "CMmUM1A803E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FyLQFujkcsVMs2cxCv_lD2mj3BM",
+      "id": "UgyaIPVlQqzEDe8OZKd4AaABAg",
+      "snippet": {
+        "videoId": "CMmUM1A803E",
+        "textDisplay": "#ciencianews 2 Pfizer e refor\u00e7o Jassen est\u00e1 de acordo?",
+        "textOriginal": "#ciencianews 2 Pfizer e refor\u00e7o Jassen est\u00e1 de acordo?",
+        "authorDisplayName": "Fernanda Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQBN50OrzR1Q-X2JyGXAV_qrRlYD8OChknsd5__sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDYsFqbQ1d9Jzkl8gRTQ_5w",
+        "authorChannelId": {
+          "value": "UCDYsFqbQ1d9Jzkl8gRTQ_5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-22T03:32:14Z",
+        "updatedAt": "2022-04-22T03:32:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lRqWcY7V1LMeZnk4RpD817hH7EY",
+      "id": "UgyaIPVlQqzEDe8OZKd4AaABAg.9a6M_j3IUW_9agNuf44aAB",
+      "snippet": {
+        "textDisplay": "Sim!",
+        "textOriginal": "Sim!",
+        "parentId": "UgyaIPVlQqzEDe8OZKd4AaABAg",
+        "authorDisplayName": "Ol\u00e1, Ci\u00eancia!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDvAWrYntyJUMYQT6I25hX4DfrtXNiWeP7L22zvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrSM1UV_KLAdTzgxyxl3POw",
+        "authorChannelId": {
+          "value": "UCrSM1UV_KLAdTzgxyxl3POw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-06T12:35:43Z",
+        "updatedAt": "2022-05-06T12:35:43Z"
+      }
+    }
+  ]
+}

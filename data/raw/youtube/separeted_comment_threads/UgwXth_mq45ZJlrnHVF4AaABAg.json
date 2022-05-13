@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EL6YNtv7ArChzYUNSW8720FwNgM",
+  "id": "UgwXth_mq45ZJlrnHVF4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yFwT_Lo0mjmY6lJnGGinOWhuLXs",
+      "id": "UgwXth_mq45ZJlrnHVF4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "SHow de bola.",
+        "textOriginal": "SHow de bola.",
+        "authorDisplayName": "Vitoria Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtm8IM1mHyCsDp2Np9IsV8KOyqihc2AW6m91Q9Geg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxjGEDQkmA_243ypiMVO0_A",
+        "authorChannelId": {
+          "value": "UCxjGEDQkmA_243ypiMVO0_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2018-10-23T18:36:54Z",
+        "updatedAt": "2018-10-23T18:36:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WaTLN05gwynSldhv3FTm3fkX6BY",
+      "id": "UgwXth_mq45ZJlrnHVF4AaABAg.8mko-P8aEwX8qi1dKB5Ekp",
+      "snippet": {
+        "textDisplay": "Vitoria Simmel",
+        "textOriginal": "Vitoria Simmel",
+        "parentId": "UgwXth_mq45ZJlrnHVF4AaABAg",
+        "authorDisplayName": "Helena Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVSsO6JHqV4CzsMquBm5xsjVmsRrz4O4hpBg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN3t_3U7BFC943mXmtIwRag",
+        "authorChannelId": {
+          "value": "UCN3t_3U7BFC943mXmtIwRag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-01-30T02:52:41Z",
+        "updatedAt": "2019-01-30T02:52:41Z"
+      }
+    }
+  ]
+}

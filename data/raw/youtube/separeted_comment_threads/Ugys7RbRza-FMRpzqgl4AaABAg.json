@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Qzf2RMfBFu7KokrCWhWeDpYtuQg",
+  "id": "Ugys7RbRza-FMRpzqgl4AaABAg",
+  "snippet": {
+    "videoId": "2dr_lvA79pI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nB1VADJBkjhUxdhUSIMnC5YsCgo",
+      "id": "Ugys7RbRza-FMRpzqgl4AaABAg",
+      "snippet": {
+        "videoId": "2dr_lvA79pI",
+        "textDisplay": "Excelente! Profa. Leida sempre arrasando em tudo que faz!",
+        "textOriginal": "Excelente! Profa. Leida sempre arrasando em tudo que faz!",
+        "authorDisplayName": "Renata Aline de Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRy4SfOhIQYCrGXCHslDOJoye6wbTUJmPwvOlSe6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqtZO2A6ijc_87zDcJnZdYg",
+        "authorChannelId": {
+          "value": "UCqtZO2A6ijc_87zDcJnZdYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-13T20:25:45Z",
+        "updatedAt": "2020-07-13T20:25:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aRLOgtdDtKRvXgOiVNKF38DkbrU",
+      "id": "Ugys7RbRza-FMRpzqgl4AaABAg.9B3cSuvzN-49B5iiNbAiPX",
+      "snippet": {
+        "textDisplay": "Muito obrigada, profa. Renata. Fico orgulhosa com seu elogio!",
+        "textOriginal": "Muito obrigada, profa. Renata. Fico orgulhosa com seu elogio!",
+        "parentId": "Ugys7RbRza-FMRpzqgl4AaABAg",
+        "authorDisplayName": "LinfoTube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8pXPzNLoKBcfdNMHh9RgEHszPTkq261vG7oU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eNzDPotkyhbk8jmqEDqEA",
+        "authorChannelId": {
+          "value": "UC2eNzDPotkyhbk8jmqEDqEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-14T15:58:54Z",
+        "updatedAt": "2020-07-14T15:58:54Z"
+      }
+    }
+  ]
+}

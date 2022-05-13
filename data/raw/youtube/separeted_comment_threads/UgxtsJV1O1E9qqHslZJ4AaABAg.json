@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FpPuvseQ7inyqbdFwg_LIdb489Q",
+  "id": "UgxtsJV1O1E9qqHslZJ4AaABAg",
+  "snippet": {
+    "videoId": "_0J7AOkqpVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jAW3AG46YXfRDXzrZ7SNcgY0t_8",
+      "id": "UgxtsJV1O1E9qqHslZJ4AaABAg",
+      "snippet": {
+        "videoId": "_0J7AOkqpVI",
+        "textDisplay": "Bela eu te amo, amo seus v\u00eddeos!",
+        "textOriginal": "Bela eu te amo, amo seus v\u00eddeos!",
+        "authorDisplayName": "jennieesty",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7KycNgVfwPJexXC-qufN6wxOI3wyo94NfyF941jpDyp9Pu3aMhifIQWpgZbhBNHBdslneyJk3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU2KV_I-hi_xDaMGiy2LPjg",
+        "authorChannelId": {
+          "value": "UCU2KV_I-hi_xDaMGiy2LPjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-27T16:18:37Z",
+        "updatedAt": "2021-08-27T16:18:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Cw-CYZ98N4zIZ7BaUK27o69_uRs",
+      "id": "UgxtsJV1O1E9qqHslZJ4AaABAg.9RYu5eMjrOW9RYzevUPIoZ",
+      "snippet": {
+        "textDisplay": "Bela eu estou pirando que vc curtiu mdsss",
+        "textOriginal": "Bela eu estou pirando que vc curtiu mdsss",
+        "parentId": "UgxtsJV1O1E9qqHslZJ4AaABAg",
+        "authorDisplayName": "jennieesty",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7KycNgVfwPJexXC-qufN6wxOI3wyo94NfyF941jpDyp9Pu3aMhifIQWpgZbhBNHBdslneyJk3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU2KV_I-hi_xDaMGiy2LPjg",
+        "authorChannelId": {
+          "value": "UCU2KV_I-hi_xDaMGiy2LPjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-27T17:07:15Z",
+        "updatedAt": "2021-08-27T17:07:15Z"
+      }
+    }
+  ]
+}

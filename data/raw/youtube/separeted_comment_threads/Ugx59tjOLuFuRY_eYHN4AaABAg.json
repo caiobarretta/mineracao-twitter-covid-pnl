@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wCgxng013A782wQV745_2pbwVr0",
+  "id": "Ugx59tjOLuFuRY_eYHN4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lcQEk3MtFiNUCqA7PX6PUOC9BCQ",
+      "id": "Ugx59tjOLuFuRY_eYHN4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "Obrigada \ud83d\ude4f",
+        "textOriginal": "Obrigada \ud83d\ude4f",
+        "authorDisplayName": "Realiza\u00e7\u00f5es",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hRPLpPuGKZ8CtQzAXJTDdnlrGFb8S3JM5YykjFE8v_lcbi2kDK9cMlS0SrEBgrSC6gSwnj0jLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCha4VMLbzJF_qm9Uah7AcjQ",
+        "authorChannelId": {
+          "value": "UCha4VMLbzJF_qm9Uah7AcjQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-08T14:53:30Z",
+        "updatedAt": "2022-01-08T14:53:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7I0xGhJtRlydq5gduMmrzxtDtMk",
+      "id": "Ugx59tjOLuFuRY_eYHN4AaABAg.9WwmsSvFrZv9XE_OuuFvNx",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d",
+        "textOriginal": "\ud83d\udc4d",
+        "parentId": "Ugx59tjOLuFuRY_eYHN4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-15T22:01:18Z",
+        "updatedAt": "2022-01-15T22:01:18Z"
+      }
+    }
+  ]
+}

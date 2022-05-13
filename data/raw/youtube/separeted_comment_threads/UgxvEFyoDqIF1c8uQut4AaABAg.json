@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NZnREswnpmw9sa6Hroahxi4MDqk",
+  "id": "UgxvEFyoDqIF1c8uQut4AaABAg",
+  "snippet": {
+    "videoId": "bSFxM7g5yfY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aCauYvzgVl_xPYXVw-KPnabfqWM",
+      "id": "UgxvEFyoDqIF1c8uQut4AaABAg",
+      "snippet": {
+        "videoId": "bSFxM7g5yfY",
+        "textDisplay": "Se observa j\u00e1 uma queda....bom.",
+        "textOriginal": "Se observa j\u00e1 uma queda....bom.",
+        "authorDisplayName": "Carmen Prado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzd5PgIFDRJ4tF92JjE0gQSBOCMwLr61JH4jdHbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6NIN5T3b5aFJXe5Bl2wMOQ",
+        "authorChannelId": {
+          "value": "UC6NIN5T3b5aFJXe5Bl2wMOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-06T09:58:48Z",
+        "updatedAt": "2021-04-06T09:58:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X1kQVjq8BGj3ysE6sd3fA7a8YHg",
+      "id": "UgxvEFyoDqIF1c8uQut4AaABAg.9Ln-xbsT0sV9Ln4HdbM9Um",
+      "snippet": {
+        "textDisplay": "N\u00e3o.",
+        "textOriginal": "N\u00e3o.",
+        "parentId": "UgxvEFyoDqIF1c8uQut4AaABAg",
+        "authorDisplayName": "tmascaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsW2YbN2wQwDzj4tlvuklHkrPI23PTI6K1qw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCY3cKEwAg6Jd8Qx01B6I5lg",
+        "authorChannelId": {
+          "value": "UCY3cKEwAg6Jd8Qx01B6I5lg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-06T10:36:37Z",
+        "updatedAt": "2021-04-06T10:36:37Z"
+      }
+    }
+  ]
+}

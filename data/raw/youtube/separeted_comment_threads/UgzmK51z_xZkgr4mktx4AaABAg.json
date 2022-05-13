@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Vx-mF40dAWubkcwlCMYjGz0hFiY",
+  "id": "UgzmK51z_xZkgr4mktx4AaABAg",
+  "snippet": {
+    "videoId": "78q0Z5MO278",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1prKKfKl_ipMdMuYRLhcPfCbWIQ",
+      "id": "UgzmK51z_xZkgr4mktx4AaABAg",
+      "snippet": {
+        "videoId": "78q0Z5MO278",
+        "textDisplay": "Esse v\u00edrus realiza a transcripitase reversa?",
+        "textOriginal": "Esse v\u00edrus realiza a transcripitase reversa?",
+        "authorDisplayName": "Marcelo Peres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSM5aH58YrL0FAOb8oAuKjFcbKSbcexVsqCT7Kvqhk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEzCuQFiVQQfW-mXd_NWmcA",
+        "authorChannelId": {
+          "value": "UCEzCuQFiVQQfW-mXd_NWmcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-12T19:20:13Z",
+        "updatedAt": "2021-03-12T19:20:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vR2ijDQn4QckIsDpm10y-spXk3s",
+      "id": "UgzmK51z_xZkgr4mktx4AaABAg.9KndKmZxQRa9Ks5MWi611g",
+      "snippet": {
+        "textDisplay": "Os v\u00edrus da fam\u00edlia Coronaviridae como o SARS n\u00e3o consegue sintetizar a TR, somente os v\u00edrus da fam\u00edlia Retroviridae.",
+        "textOriginal": "Os v\u00edrus da fam\u00edlia Coronaviridae como o SARS n\u00e3o consegue sintetizar a TR, somente os v\u00edrus da fam\u00edlia Retroviridae.",
+        "parentId": "UgzmK51z_xZkgr4mktx4AaABAg",
+        "authorDisplayName": "Prof. Danilo Stipp",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShHTlAqUvXxEDDz34Mj0Wir_lwJuM_NVdrYEIDkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFEHn1m5yb2kLAdhT8dn3fA",
+        "authorChannelId": {
+          "value": "UCFEHn1m5yb2kLAdhT8dn3fA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T12:50:49Z",
+        "updatedAt": "2021-03-14T12:50:49Z"
+      }
+    }
+  ]
+}

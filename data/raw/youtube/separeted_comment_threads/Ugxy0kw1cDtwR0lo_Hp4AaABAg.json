@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UxlBlvUgZtq0BW4rq7fRq7EbaZc",
+  "id": "Ugxy0kw1cDtwR0lo_Hp4AaABAg",
+  "snippet": {
+    "videoId": "V15mqi3dWF4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XtinFaudqQTPogbfy-PyG4mHXg8",
+      "id": "Ugxy0kw1cDtwR0lo_Hp4AaABAg",
+      "snippet": {
+        "videoId": "V15mqi3dWF4",
+        "textDisplay": "Essa doen\u00e7a n\u00e3o existe",
+        "textOriginal": "Essa doen\u00e7a n\u00e3o existe",
+        "authorDisplayName": "Thiago Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqoV4ugss4zgWxiWA6-MStBEhzj_x3jzy4Xw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChI2Vvf6lzQ0u0j_TegWZmw",
+        "authorChannelId": {
+          "value": "UChI2Vvf6lzQ0u0j_TegWZmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-12T07:57:21Z",
+        "updatedAt": "2020-12-12T07:57:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zs-M3NVVnJPfEV65fQSFMAJjeZw",
+      "id": "Ugxy0kw1cDtwR0lo_Hp4AaABAg.9H9fdTXKqTW9QoRU0yyzlW",
+      "snippet": {
+        "textDisplay": "Nao ? Quer um video de 2015 sobre a doen\u00e7a ou vai ficar acreditando em fake news ???",
+        "textOriginal": "Nao ? Quer um video de 2015 sobre a doen\u00e7a ou vai ficar acreditando em fake news ???",
+        "parentId": "Ugxy0kw1cDtwR0lo_Hp4AaABAg",
+        "authorDisplayName": "Danyell Gomez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyp1R0P2MnlSvBqQy_hrlp4jDt3lU72sOD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVtLR_p7x69sauhdUsfTbDw",
+        "authorChannelId": {
+          "value": "UCVtLR_p7x69sauhdUsfTbDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-09T05:55:29Z",
+        "updatedAt": "2021-08-09T05:55:29Z"
+      }
+    }
+  ]
+}

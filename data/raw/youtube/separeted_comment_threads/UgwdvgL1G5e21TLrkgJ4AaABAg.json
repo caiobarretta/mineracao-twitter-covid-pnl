@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NLpMqlCa7lWT4a8LGIkBmsDAGts",
+  "id": "UgwdvgL1G5e21TLrkgJ4AaABAg",
+  "snippet": {
+    "videoId": "ESjZMWAGrog",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EOPuQ8MlYzzgoft4LoNJsqbGUg0",
+      "id": "UgwdvgL1G5e21TLrkgJ4AaABAg",
+      "snippet": {
+        "videoId": "ESjZMWAGrog",
+        "textDisplay": "Esse muda de discurso toda semana. N\u00e3o faria nenhuma consulta com ele.",
+        "textOriginal": "Esse muda de discurso toda semana. N\u00e3o faria nenhuma consulta com ele.",
+        "authorDisplayName": "Luiz Claudio Luiz Claudio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQn1iKdbVD3mav63FSg26zZerkAlnTKxF-Sjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsllHekn_OAmLwk9EtCa3tA",
+        "authorChannelId": {
+          "value": "UCsllHekn_OAmLwk9EtCa3tA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-23T12:49:29Z",
+        "updatedAt": "2022-02-23T12:49:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PocZhvY8S8KFAF9m7FXju4jaZmM",
+      "id": "UgwdvgL1G5e21TLrkgJ4AaABAg.9Yn0FNhKnOh9Yn0najyuLX",
+      "snippet": {
+        "textDisplay": "Os quadros de Covid mudam toda semana, voc\u00ea n\u00e3o acha ?!",
+        "textOriginal": "Os quadros de Covid mudam toda semana, voc\u00ea n\u00e3o acha ?!",
+        "parentId": "UgwdvgL1G5e21TLrkgJ4AaABAg",
+        "authorDisplayName": "Breendon Madson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQxgTi4nf3_iwzHL1h03NGuRcJ0zV6GR0E5SQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAq6E7q8rJg2Wz36JnEQDoA",
+        "authorChannelId": {
+          "value": "UCAq6E7q8rJg2Wz36JnEQDoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-23T12:54:17Z",
+        "updatedAt": "2022-02-23T12:54:17Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cNicJ7RYIzq3uUYVO1mlBYJBX3s",
+  "id": "UgwNLIEasxd3v40WnvB4AaABAg",
+  "snippet": {
+    "videoId": "WrAKg-NMagk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hn1uDQ1yuuiPfPAxUnty_ngoZq8",
+      "id": "UgwNLIEasxd3v40WnvB4AaABAg",
+      "snippet": {
+        "videoId": "WrAKg-NMagk",
+        "textDisplay": "\"Os Estados n\u00e3o fazem parcerias, eles apenas se toleram\" - autor que n\u00e3o lembro o nome",
+        "textOriginal": "\"Os Estados n\u00e3o fazem parcerias, eles apenas se toleram\" - autor que n\u00e3o lembro o nome",
+        "authorDisplayName": "MLT - Music, Languages & Tea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlUIgfoqXI0KlbbNqSpVeUdZioHYOFNW9DQzxRyjI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyd-9VtyugUjze9ChvbEYDQ",
+        "authorChannelId": {
+          "value": "UCyd-9VtyugUjze9ChvbEYDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 94,
+        "publishedAt": "2020-04-14T21:10:19Z",
+        "updatedAt": "2020-04-14T21:10:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J872SVW-UTVfn_naUHd4fdFcsyI",
+      "id": "UgwNLIEasxd3v40WnvB4AaABAg.97Ry0fjQvJc97fquWOvEe1",
+      "snippet": {
+        "textDisplay": "Roy pennys !",
+        "textOriginal": "Roy pennys !",
+        "parentId": "UgwNLIEasxd3v40WnvB4AaABAg",
+        "authorDisplayName": "Jo\u00e3o da Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLThkqx5kingsm0g2MlMeh1Ww_LGnipFA9q_dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWPTq4Go87GkYIcSTYkfJJA",
+        "authorChannelId": {
+          "value": "UCWPTq4Go87GkYIcSTYkfJJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-20T15:56:47Z",
+        "updatedAt": "2020-04-20T15:56:47Z"
+      }
+    }
+  ]
+}

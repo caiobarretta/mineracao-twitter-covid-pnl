@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k1i1ygcSEzHabuL2pCFFgbXEb5k",
+  "id": "UgxWVSF2sd1_JAYR92d4AaABAg",
+  "snippet": {
+    "videoId": "BmrbIdLRveQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qcAlnMYHdUQFRUbYua_q10-gDM4",
+      "id": "UgxWVSF2sd1_JAYR92d4AaABAg",
+      "snippet": {
+        "videoId": "BmrbIdLRveQ",
+        "textDisplay": "Muito bom, parab\u00e9ns!!!",
+        "textOriginal": "Muito bom, parab\u00e9ns!!!",
+        "authorDisplayName": "Priscila Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcnunqNV38PKEnts-s7uvP7hadFDBcbuvLjVkA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxf9v-DZwFY4ohP7vsH9hfA",
+        "authorChannelId": {
+          "value": "UCxf9v-DZwFY4ohP7vsH9hfA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-16T22:05:21Z",
+        "updatedAt": "2020-06-16T22:05:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "29IExXI00m3mDG5SrCoN8vBcTEQ",
+      "id": "UgxWVSF2sd1_JAYR92d4AaABAg.99zHOo2qc-59BkSlbNzfcw",
+      "snippet": {
+        "textDisplay": "Obrigada  professor.",
+        "textOriginal": "Obrigada  professor.",
+        "parentId": "UgxWVSF2sd1_JAYR92d4AaABAg",
+        "authorDisplayName": "Luciana Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPWP-dQfJwEgmM2kajrq7jbYBOYciWyJJf0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4cSrlzolqFo0cq9ECffkPg",
+        "authorChannelId": {
+          "value": "UC4cSrlzolqFo0cq9ECffkPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-30T20:58:53Z",
+        "updatedAt": "2020-07-30T20:58:53Z"
+      }
+    }
+  ]
+}

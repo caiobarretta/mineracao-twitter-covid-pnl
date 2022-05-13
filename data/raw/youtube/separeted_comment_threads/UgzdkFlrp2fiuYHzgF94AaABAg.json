@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "erdUC56ZBZCf5X5mjs-HU_52A6c",
+  "id": "UgzdkFlrp2fiuYHzgF94AaABAg",
+  "snippet": {
+    "videoId": "BmrbIdLRveQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HBaStoO39oIAJrWI8ygXixMYLWg",
+      "id": "UgzdkFlrp2fiuYHzgF94AaABAg",
+      "snippet": {
+        "videoId": "BmrbIdLRveQ",
+        "textDisplay": "Qual a Origem da sa\u00fade p\u00fablica?",
+        "textOriginal": "Qual a Origem da sa\u00fade p\u00fablica?",
+        "authorDisplayName": "Suyane Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwxqXl9-dydpu9Q_U1bAZh0-sfnDsu72ZRwiCWFg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwR1Ag5UnbwGo7KY3ELjIkg",
+        "authorChannelId": {
+          "value": "UCwR1Ag5UnbwGo7KY3ELjIkg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-17T01:08:04Z",
+        "updatedAt": "2021-05-17T01:08:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BXyiKosCSgQ51jV7XTn4FdC0G6A",
+      "id": "UgzdkFlrp2fiuYHzgF94AaABAg.9NQcoLBtU-q9Tw2E21cGwT",
+      "snippet": {
+        "textDisplay": "Veja sobre Ethel Pasions",
+        "textOriginal": "Veja sobre Ethel Pasions",
+        "parentId": "UgzdkFlrp2fiuYHzgF94AaABAg",
+        "authorDisplayName": "Paty F\u00e9lix",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeDGjd8nqAxVi1naMdUb42XdJ6dKRjuqRdYw-37CE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB7fc9YBDAENxTGOp1yoTtw",
+        "authorChannelId": {
+          "value": "UCB7fc9YBDAENxTGOp1yoTtw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-25T18:22:58Z",
+        "updatedAt": "2021-10-25T18:22:58Z"
+      }
+    }
+  ]
+}

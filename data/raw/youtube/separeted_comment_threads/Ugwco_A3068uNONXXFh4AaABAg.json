@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jaaPoaavx65ylgHjLBTyeGqQZjA",
+  "id": "Ugwco_A3068uNONXXFh4AaABAg",
+  "snippet": {
+    "videoId": "QEkZE3oZfgQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "90vfUIiBdV55MgyOe6YcxkP8C3E",
+      "id": "Ugwco_A3068uNONXXFh4AaABAg",
+      "snippet": {
+        "videoId": "QEkZE3oZfgQ",
+        "textDisplay": "Muito boa",
+        "textOriginal": "Muito boa",
+        "authorDisplayName": "Felipe Lucas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCqzN-To75xiY-1f-AS7LwDjGagGIrMgT1qhq7FA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRgh6YjGwA5qP_BnqDyRfcQ",
+        "authorChannelId": {
+          "value": "UCRgh6YjGwA5qP_BnqDyRfcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-04-15T13:19:49Z",
+        "updatedAt": "2020-04-15T13:19:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vdNmD5tqskDVV5VfbFYIhFI46gs",
+      "id": "Ugwco_A3068uNONXXFh4AaABAg.97TgyPWk3lb97XPOqbNttL",
+      "snippet": {
+        "textDisplay": "Menino estudioso!",
+        "textOriginal": "Menino estudioso!",
+        "parentId": "Ugwco_A3068uNONXXFh4AaABAg",
+        "authorDisplayName": "Gabriel Carmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFzBjlZBPZqTuB5wuPHW19xxbz2ENRmJahY6tdOQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2gW6T6v2wdseh8T5u95wjg",
+        "authorChannelId": {
+          "value": "UC2gW6T6v2wdseh8T5u95wjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-16T23:54:29Z",
+        "updatedAt": "2020-04-16T23:54:29Z"
+      }
+    }
+  ]
+}

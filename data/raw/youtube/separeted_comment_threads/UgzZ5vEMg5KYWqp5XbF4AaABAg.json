@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "d-P2al5ls_HV7lJC6lcMy5q6XLE",
+  "id": "UgzZ5vEMg5KYWqp5XbF4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J25FS8mbaz_EFxUgyBXnwAcUva4",
+      "id": "UgzZ5vEMg5KYWqp5XbF4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Se eu perdi a senha o que fa\u00e7o",
+        "textOriginal": "Se eu perdi a senha o que fa\u00e7o",
+        "authorDisplayName": "Sandra Barauna",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQmxzyYgHbO_8pdBuvKfvlCehHoYQobWw9fZQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcEJFc6tEO1bREKySIlxjHw",
+        "authorChannelId": {
+          "value": "UCcEJFc6tEO1bREKySIlxjHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-05T18:01:58Z",
+        "updatedAt": "2022-03-05T18:01:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XsmXAW34TOrqcRz6dW3BV8MlBYw",
+      "id": "UgzZ5vEMg5KYWqp5XbF4AaABAg.9ZCJxs1WyuS9ZF33X4zWIs",
+      "snippet": {
+        "textDisplay": "voc\u00ea vai precisar criar uma nova",
+        "textOriginal": "voc\u00ea vai precisar criar uma nova",
+        "parentId": "UgzZ5vEMg5KYWqp5XbF4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-06T19:32:03Z",
+        "updatedAt": "2022-03-06T19:32:03Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DluPKLDhRE8MyZbJMQG_HkIkfxE",
+  "id": "UgxVaw9rhJ5fjWUcWtZ4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pv4Wd35FodaL_Dohvg3_exmFmuI",
+      "id": "UgxVaw9rhJ5fjWUcWtZ4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Muito bom!!",
+        "textOriginal": "Muito bom!!",
+        "authorDisplayName": "Andrielle Viana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQaBCfeAk1nCyZe-V-nG3gO2EgR4Ky4i1i99AvDOQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkHbjZiL3kSAhrX0xDORlTQ",
+        "authorChannelId": {
+          "value": "UCkHbjZiL3kSAhrX0xDORlTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-10T00:41:17Z",
+        "updatedAt": "2021-06-10T00:41:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yUzcNrUzgOe5rUoI7uC0Gk3xxh8",
+      "id": "UgxVaw9rhJ5fjWUcWtZ4AaABAg.9OONpBxZ3wJ9O_Jo0pboYQ",
+      "snippet": {
+        "textDisplay": "Valeuu drii",
+        "textOriginal": "Valeuu drii",
+        "parentId": "UgxVaw9rhJ5fjWUcWtZ4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-14T15:57:03Z",
+        "updatedAt": "2021-06-14T15:57:03Z"
+      }
+    }
+  ]
+}

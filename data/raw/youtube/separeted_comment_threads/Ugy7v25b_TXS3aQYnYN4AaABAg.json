@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BCsoE9wR5L9hAZpKYw0jlxWZX34",
+  "id": "Ugy7v25b_TXS3aQYnYN4AaABAg",
+  "snippet": {
+    "videoId": "IFfw66VUDCk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8gFRc5L5XpMzyR30H5PKUTDR09w",
+      "id": "Ugy7v25b_TXS3aQYnYN4AaABAg",
+      "snippet": {
+        "videoId": "IFfw66VUDCk",
+        "textDisplay": "para quem n\u00e3o conseguiu assistir no dia 04, onde encontrar o doc?",
+        "textOriginal": "para quem n\u00e3o conseguiu assistir no dia 04, onde encontrar o doc?",
+        "authorDisplayName": "Greciely Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr-KdpH22_c8qDwD3SZ0uex8sGmn-lJt9z4PT0QW8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFYTsiXv1ZgLHX6MS2hz7Mg",
+        "authorChannelId": {
+          "value": "UCFYTsiXv1ZgLHX6MS2hz7Mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-08-19T00:28:35Z",
+        "updatedAt": "2020-08-19T00:28:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0-noM6TwLjoh_Gtio-_jOjbwWoM",
+      "id": "Ugy7v25b_TXS3aQYnYN4AaABAg.9CWks2apxTR9FD6-mrQTOd",
+      "snippet": {
+        "textDisplay": "Eu tamb\u00e9m gostaria de saber.",
+        "textOriginal": "Eu tamb\u00e9m gostaria de saber.",
+        "parentId": "Ugy7v25b_TXS3aQYnYN4AaABAg",
+        "authorDisplayName": "Marcia Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQvwi-sRZp8XIHgK6t_8MlUws-1poRbJbCmb5g6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC29hjAs2_NwaBKuZVMAYc6Q",
+        "authorChannelId": {
+          "value": "UC29hjAs2_NwaBKuZVMAYc6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-24T22:51:23Z",
+        "updatedAt": "2020-10-24T22:51:23Z"
+      }
+    }
+  ]
+}

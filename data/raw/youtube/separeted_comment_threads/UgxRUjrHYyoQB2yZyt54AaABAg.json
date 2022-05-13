@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TodzuXcXy37w5qrzgKoxgyqW_cQ",
+  "id": "UgxRUjrHYyoQB2yZyt54AaABAg",
+  "snippet": {
+    "videoId": "-FZsBAVZoVs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vFlykK3fRyJmFICw-N1DpGSOIRE",
+      "id": "UgxRUjrHYyoQB2yZyt54AaABAg",
+      "snippet": {
+        "videoId": "-FZsBAVZoVs",
+        "textDisplay": "Otima explica\u00e7\u00e3o, ajudou pra caramba!!!!",
+        "textOriginal": "Otima explica\u00e7\u00e3o, ajudou pra caramba!!!!",
+        "authorDisplayName": "Rafaela G. Z.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBni96lcg7k_zrsAI3vQanhsUopWcMUOcveDHv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtP2vwmtPp7c6QqsyKl0x_A",
+        "authorChannelId": {
+          "value": "UCtP2vwmtPp7c6QqsyKl0x_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-27T15:34:58Z",
+        "updatedAt": "2022-01-27T15:34:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4uY-QXwlqauP2MSFwmC0KpPFP50",
+      "id": "UgxRUjrHYyoQB2yZyt54AaABAg.9Xhmis40T4g9Zffm8qpERE",
+      "snippet": {
+        "textDisplay": "Que bom que ajudei!",
+        "textOriginal": "Que bom que ajudei!",
+        "parentId": "UgxRUjrHYyoQB2yZyt54AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-17T12:58:33Z",
+        "updatedAt": "2022-03-17T12:58:33Z"
+      }
+    }
+  ]
+}

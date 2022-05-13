@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5HMS6b4A4QfwJenpq8l4FGaXdlM",
+  "id": "UgxFWVkqYWBUly8WYbB4AaABAg",
+  "snippet": {
+    "videoId": "uvI2T_ybGJE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "guVowMom4rVyeQ8UZdxRKROnZAI",
+      "id": "UgxFWVkqYWBUly8WYbB4AaABAg",
+      "snippet": {
+        "videoId": "uvI2T_ybGJE",
+        "textDisplay": "OMS n\u00e3o manda no Brasil",
+        "textOriginal": "OMS n\u00e3o manda no Brasil",
+        "authorDisplayName": "Marcia Bacan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bnv5EC7iOke597_AJ6EkyDYWyeg510CVKlcON8CTZ7i-eoHX1ND-FA0itfCqlWgI2aIu8Mzk-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU0XosPdGIuLVOKnt-JmgXQ",
+        "authorChannelId": {
+          "value": "UCU0XosPdGIuLVOKnt-JmgXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-04-18T21:18:45Z",
+        "updatedAt": "2022-04-18T21:18:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eVXPWgADaasokMXsKWlcRsehkpw",
+      "id": "UgxFWVkqYWBUly8WYbB4AaABAg.9_yySbBbQNc9aWCpPLVctA",
+      "snippet": {
+        "textDisplay": "Quem manda aqui \u00e9 o dono do Brasil\nBolsonaro e Fl\u00e1vio",
+        "textOriginal": "Quem manda aqui \u00e9 o dono do Brasil\nBolsonaro e Fl\u00e1vio",
+        "parentId": "UgxFWVkqYWBUly8WYbB4AaABAg",
+        "authorDisplayName": "Den\u00edlson Aires",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/y97fATGdyYv8O3eQbU96rWtGV2QcJtVCEfDJXVhWUNB63ehPr7gCzJ7QD3zCy2Bwr3DTPzoY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0aV9Fn88JE6h6pTvCZfy7g",
+        "authorChannelId": {
+          "value": "UC0aV9Fn88JE6h6pTvCZfy7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-02T04:27:14Z",
+        "updatedAt": "2022-05-02T04:27:14Z"
+      }
+    }
+  ]
+}

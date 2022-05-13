@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CcfZMSPOYEVOwTywkF2yFzoibHU",
+  "id": "UgwUe2l5276dpd5nmst4AaABAg",
+  "snippet": {
+    "videoId": "NDRyJt5G-Ow",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "11PPxIDb3fZED_s-AabQ7XjNZT0",
+      "id": "UgwUe2l5276dpd5nmst4AaABAg",
+      "snippet": {
+        "videoId": "NDRyJt5G-Ow",
+        "textDisplay": "Cad\u00ea o Felipe payao tecmundo?.",
+        "textOriginal": "Cad\u00ea o Felipe payao tecmundo?.",
+        "authorDisplayName": "Matheus Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4FiyMK2b9S7NSRga3irXV4_gx6nu4w8qPXZTeVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd7iGl_zmA1GpiozNL5uc2g",
+        "authorChannelId": {
+          "value": "UCd7iGl_zmA1GpiozNL5uc2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-11-20T01:01:45Z",
+        "updatedAt": "2020-11-20T01:01:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m3VBHUfey2BvY5nAKSPANZb9dW8",
+      "id": "UgwUe2l5276dpd5nmst4AaABAg.9GGHaKgiBAi9GGIoBU8TGA",
+      "snippet": {
+        "textDisplay": "@japa li qiu eu gosto mais do L\u00e9o",
+        "textOriginal": "@japa li qiu eu gosto mais do L\u00e9o",
+        "parentId": "UgwUe2l5276dpd5nmst4AaABAg",
+        "authorDisplayName": "Matheus Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4FiyMK2b9S7NSRga3irXV4_gx6nu4w8qPXZTeVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd7iGl_zmA1GpiozNL5uc2g",
+        "authorChannelId": {
+          "value": "UCd7iGl_zmA1GpiozNL5uc2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-11-20T01:12:23Z",
+        "updatedAt": "2020-11-20T01:12:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "IQutede-fXLqJbk9fGHHqD7lkXk",
+      "id": "UgwUe2l5276dpd5nmst4AaABAg.9GGHaKgiBAi9GGIceMcBrz",
+      "snippet": {
+        "textDisplay": "acabou de dizer q vc prefere o l\u00e9o q o felipe kkkk",
+        "textOriginal": "acabou de dizer q vc prefere o l\u00e9o q o felipe kkkk",
+        "parentId": "UgwUe2l5276dpd5nmst4AaABAg",
+        "authorDisplayName": "japa li qiu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHbnrmB4VGXygmqbgYSSKMUhqtKVbTGY_zxb8I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF4qeQMM-mWvuFPvnOKpa4w",
+        "authorChannelId": {
+          "value": "UCF4qeQMM-mWvuFPvnOKpa4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-11-20T01:10:48Z",
+        "updatedAt": "2020-11-20T01:10:48Z"
+      }
+    }
+  ]
+}

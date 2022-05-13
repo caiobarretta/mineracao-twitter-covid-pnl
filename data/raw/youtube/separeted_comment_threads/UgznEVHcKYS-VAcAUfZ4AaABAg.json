@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3IMi6npMoLC4GYk5w36TTfPSf2Y",
+  "id": "UgznEVHcKYS-VAcAUfZ4AaABAg",
+  "snippet": {
+    "videoId": "XBObzS9NiyQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ncIRzPyIuVrcPWZD5DORqZDLqPw",
+      "id": "UgznEVHcKYS-VAcAUfZ4AaABAg",
+      "snippet": {
+        "videoId": "XBObzS9NiyQ",
+        "textDisplay": "unopar",
+        "textOriginal": "unopar",
+        "authorDisplayName": "Joao Vinicius Rodrigues Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiRsqM6Edvpp8RwMa9FEkzQVHExyCzTXSiEw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxAoqD8_My8me3w90MRO2xA",
+        "authorChannelId": {
+          "value": "UCxAoqD8_My8me3w90MRO2xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-30T18:43:38Z",
+        "updatedAt": "2020-09-30T18:43:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qd7Vjs6rhS-cGBwaGjTof_Z3VZ4",
+      "id": "UgznEVHcKYS-VAcAUfZ4AaABAg.9EEr_Al2wzP9EErrvP4qND",
+      "snippet": {
+        "textDisplay": "ok",
+        "textOriginal": "ok",
+        "parentId": "UgznEVHcKYS-VAcAUfZ4AaABAg",
+        "authorDisplayName": "J.A dicas para cursos & concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-TMsn0S5Ux-2sEbYqWKjri4WLJjQEjahya-SdRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTBbET8WDw24H9ICyuc9WCA",
+        "authorChannelId": {
+          "value": "UCTBbET8WDw24H9ICyuc9WCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-30T18:46:11Z",
+        "updatedAt": "2020-09-30T18:46:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DHV5_-urksI1_CQEl8gmGIkPYgg",
+  "id": "Ugz1_N0tjcaHPXyWU3h4AaABAg",
+  "snippet": {
+    "videoId": "6uSpitisl14",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NstkZ8V_2Z1vXqDIsh7cuKyrqRY",
+      "id": "Ugz1_N0tjcaHPXyWU3h4AaABAg",
+      "snippet": {
+        "videoId": "6uSpitisl14",
+        "textDisplay": "Se \u00e9 um v\u00edrus novo ele \u00e9 prim\u00e1rio ou secund\u00e1rio?",
+        "textOriginal": "Se \u00e9 um v\u00edrus novo ele \u00e9 prim\u00e1rio ou secund\u00e1rio?",
+        "authorDisplayName": "Danielli Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsCgSx0YK00MHwOVBU4vfyUFraaXTYJKOE-CXWQ8s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX6YVQ_ixFFpYOMJZFqQYxg",
+        "authorChannelId": {
+          "value": "UCX6YVQ_ixFFpYOMJZFqQYxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-29T01:15:18Z",
+        "updatedAt": "2020-04-29T01:15:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YjaswbXjCEor6fFl4JGkZ8cotKY",
+      "id": "Ugz1_N0tjcaHPXyWU3h4AaABAg.980SB8kHXeN9A-fqTPGNNY",
+      "snippet": {
+        "textDisplay": "Prim\u00e1rio",
+        "textOriginal": "Prim\u00e1rio",
+        "parentId": "Ugz1_N0tjcaHPXyWU3h4AaABAg",
+        "authorDisplayName": "SP3CTER",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFhru_w_G-X12USSEkZDlZSqRvgNiEaRBvCF-PUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoj7PxG2JRU_xn3y_qoUVVg",
+        "authorChannelId": {
+          "value": "UCoj7PxG2JRU_xn3y_qoUVVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-17T11:06:57Z",
+        "updatedAt": "2020-06-17T11:06:57Z"
+      }
+    }
+  ]
+}

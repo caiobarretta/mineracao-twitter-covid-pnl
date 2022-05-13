@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5yEfs8eZKywF8X6YFSFNkC8eSTs",
+  "id": "UgyBotRWSXYr2l7X5Op4AaABAg",
+  "snippet": {
+    "videoId": "woJOZjjCgW0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JLkHFlHvdS3bejkIDjY8xkW4eng",
+      "id": "UgyBotRWSXYr2l7X5Op4AaABAg",
+      "snippet": {
+        "videoId": "woJOZjjCgW0",
+        "textDisplay": "Nosso prof \u00e9 incr\u00edvel! Aprendo demais. Te adoro, mestre\ud83d\ude04\ud83d\udc99",
+        "textOriginal": "Nosso prof \u00e9 incr\u00edvel! Aprendo demais. Te adoro, mestre\ud83d\ude04\ud83d\udc99",
+        "authorDisplayName": "Inna Machadim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTolNTw-mwUG5FLhqgvKP_AJ877Q8jt5KldC0EL2ek=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7TrUxQugPX8y3yGJF_HYMQ",
+        "authorChannelId": {
+          "value": "UC7TrUxQugPX8y3yGJF_HYMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-09T09:59:17Z",
+        "updatedAt": "2021-10-09T09:59:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z3Lhj4d4jqKaW78RArA9sqaljJQ",
+      "id": "UgyBotRWSXYr2l7X5Op4AaABAg.9TGwrwpZr1a9TH7P-9kchz",
+      "snippet": {
+        "textDisplay": "Muito obrigado, viu? \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "textOriginal": "Muito obrigado, viu? \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "parentId": "UgyBotRWSXYr2l7X5Op4AaABAg",
+        "authorDisplayName": "Aprendi com o Papai",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/UHQd3K3L9jAXyjlsE_E7qn43BWUrb0sRF0RV4MfjYccq6r6uB5VEF2JIQfvnw5XB_Y_zuUsJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCK6QegB9LU1tIsslcT6KVAA",
+        "authorChannelId": {
+          "value": "UCK6QegB9LU1tIsslcT6KVAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-09T11:40:03Z",
+        "updatedAt": "2021-10-09T11:40:03Z"
+      }
+    }
+  ]
+}

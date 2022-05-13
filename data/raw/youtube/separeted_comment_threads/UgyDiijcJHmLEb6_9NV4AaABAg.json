@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OTIlqNZqVqTfdSvFWeeKLHXDQhk",
+  "id": "UgyDiijcJHmLEb6_9NV4AaABAg",
+  "snippet": {
+    "videoId": "lOl1GFQUJZQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BbRLxD5ZSjq5tkyeNMR9z4K4_JQ",
+      "id": "UgyDiijcJHmLEb6_9NV4AaABAg",
+      "snippet": {
+        "videoId": "lOl1GFQUJZQ",
+        "textDisplay": "Ainda querem fazer carnaval!\nAcorda povo!!!",
+        "textOriginal": "Ainda querem fazer carnaval!\nAcorda povo!!!",
+        "authorDisplayName": "Elias De Souza Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsIhhaO6ABt38y6n3Mgi28_wtSoXSKtlpISA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6kLJbtkfvWw019U-ZA9Iog",
+        "authorChannelId": {
+          "value": "UC6kLJbtkfvWw019U-ZA9Iog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 34,
+        "publishedAt": "2021-11-05T23:49:03Z",
+        "updatedAt": "2021-11-05T23:49:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ds2Xk0I59DA_F1rFEgLg9BtqiRw",
+      "id": "UgyDiijcJHmLEb6_9NV4AaABAg.9UNxI-BN_Ge9URE9xB8Fmv",
+      "snippet": {
+        "textDisplay": "N\u00e9?\nQuem liberou isso? Socorro!!!",
+        "textOriginal": "N\u00e9?\nQuem liberou isso? Socorro!!!",
+        "parentId": "UgyDiijcJHmLEb6_9NV4AaABAg",
+        "authorDisplayName": "Evelyne",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkuXmSxz9BcT76cZQzifDKLNCvGoF3y6uGbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYDpC_mA1rNDbCkMGVLQamA",
+        "authorChannelId": {
+          "value": "UCYDpC_mA1rNDbCkMGVLQamA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-07T06:22:58Z",
+        "updatedAt": "2021-11-07T06:22:58Z"
+      }
+    }
+  ]
+}

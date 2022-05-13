@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cm4NzTu2-UZ49HoGHKm1eHecKpw",
+  "id": "Ugw17HUTUZyFpATbsfx4AaABAg",
+  "snippet": {
+    "videoId": "0Fn4vWL0mio",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YRciTeFI282K-Hmd7O6LjhMZ_8g",
+      "id": "Ugw17HUTUZyFpATbsfx4AaABAg",
+      "snippet": {
+        "videoId": "0Fn4vWL0mio",
+        "textDisplay": "Show!",
+        "textOriginal": "Show!",
+        "authorDisplayName": "Raphael Lacerda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvU1ipH1o1UGd_VviAzd4-ykVq3xySb7IUow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF8UKzOcd-Uz9hsFb7GeWCg",
+        "authorChannelId": {
+          "value": "UCF8UKzOcd-Uz9hsFb7GeWCg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-28T23:21:03Z",
+        "updatedAt": "2020-10-28T23:21:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dis1dwgrP00IefWZCBLRRq5XdU8",
+      "id": "Ugw17HUTUZyFpATbsfx4AaABAg.9FNS_Wl5qSq9F_RORCa7kz",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Rapha!\nObrigada pelo coment\u00e1rio.",
+        "textOriginal": "Ol\u00e1 Rapha!\nObrigada pelo coment\u00e1rio.",
+        "parentId": "Ugw17HUTUZyFpATbsfx4AaABAg",
+        "authorDisplayName": "Grupo Share - Solu\u00e7\u00e3o em SMS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9mspFuTdJiddQcv96uC3u1WiZZOW2TJE52gPa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeDw3zRbBOOSfgNFO7oc3EQ",
+        "authorChannelId": {
+          "value": "UCeDw3zRbBOOSfgNFO7oc3EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-03T00:20:47Z",
+        "updatedAt": "2020-11-03T00:20:47Z"
+      }
+    }
+  ]
+}

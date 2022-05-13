@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GHmf0ZIy8POOsYrXbz0uqh7yHpk",
+  "id": "Ugy1ffO8zeG6KEZ9RdB4AaABAg",
+  "snippet": {
+    "videoId": "yyyXzILsBBg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XQGcinDbl5_s4rjhB7lFk6VQ9bg",
+      "id": "Ugy1ffO8zeG6KEZ9RdB4AaABAg",
+      "snippet": {
+        "videoId": "yyyXzILsBBg",
+        "textDisplay": "O apresentador  est\u00e1  de batom   vermelho! Adorei!",
+        "textOriginal": "O apresentador  est\u00e1  de batom   vermelho! Adorei!",
+        "authorDisplayName": "Rosana Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCpyt2T562nTesri0V_t_Ua7QxZZmMs1wP7tOwaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7GTKYinD7nqD9wue_4aNkw",
+        "authorChannelId": {
+          "value": "UC7GTKYinD7nqD9wue_4aNkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-15T20:55:52Z",
+        "updatedAt": "2021-07-15T20:55:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Be8Wq9Ijx5LMXyCkjqHF8pE9aYA",
+      "id": "Ugy1ffO8zeG6KEZ9RdB4AaABAg.9PpfdgV25Ko9PqWqw61wJD",
+      "snippet": {
+        "textDisplay": "Kkkkk Pois Eh",
+        "textOriginal": "Kkkkk Pois Eh",
+        "parentId": "Ugy1ffO8zeG6KEZ9RdB4AaABAg",
+        "authorDisplayName": "Cristian Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsiymA0B5ynRXr7dxDV2Yw6UC2frV-Id5iuQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVTps6DkbSSLdfzPd-PAa8g",
+        "authorChannelId": {
+          "value": "UCVTps6DkbSSLdfzPd-PAa8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-16T04:49:32Z",
+        "updatedAt": "2021-07-16T04:49:32Z"
+      }
+    }
+  ]
+}

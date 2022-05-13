@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vI2n9Fw0yITReF3QartMqQHAt84",
+  "id": "UgyDyO9JiH2ktxyoPDh4AaABAg",
+  "snippet": {
+    "videoId": "OeL04Su0nw4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jT_DqMFwEZ09CPqsCvMkp2J6N2g",
+      "id": "UgyDyO9JiH2ktxyoPDh4AaABAg",
+      "snippet": {
+        "videoId": "OeL04Su0nw4",
+        "textDisplay": "Oi",
+        "textOriginal": "Oi",
+        "authorDisplayName": "Gabriel Dias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRdUJkmSKQ2C58p9UWaFZYi5tqZJW_XJLjLvFn1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEYCFGyKzVsYahQGxB7FrxA",
+        "authorChannelId": {
+          "value": "UCEYCFGyKzVsYahQGxB7FrxA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-04-30T19:01:46Z",
+        "updatedAt": "2020-04-30T19:01:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "37V7mzGU7DDKuLRyeT579DVnDG4",
+      "id": "UgyDyO9JiH2ktxyoPDh4AaABAg.984w19F3hzP9871Z-BOR1i",
+      "snippet": {
+        "textDisplay": "Tu e de Alta Floresta Ro",
+        "textOriginal": "Tu e de Alta Floresta Ro",
+        "parentId": "UgyDyO9JiH2ktxyoPDh4AaABAg",
+        "authorDisplayName": "matheus amorim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRdyvvLdfngiBqSbdBOE5yYeiD6earA7eoEhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfW6ezL-h19DKwxftNjaMnA",
+        "authorChannelId": {
+          "value": "UCfW6ezL-h19DKwxftNjaMnA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-01T14:37:18Z",
+        "updatedAt": "2020-05-01T14:37:18Z"
+      }
+    }
+  ]
+}

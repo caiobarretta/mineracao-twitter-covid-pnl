@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7zy6Dgvic5Ct-M3akjfiPtQ8wJ0",
+  "id": "UgyTU-SaDvE8aqfbR6Z4AaABAg",
+  "snippet": {
+    "videoId": "Y3FFIYH7O5Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ac08BPMCaSiRtQ5ik2CmdJf3imQ",
+      "id": "UgyTU-SaDvE8aqfbR6Z4AaABAg",
+      "snippet": {
+        "videoId": "Y3FFIYH7O5Q",
+        "textDisplay": "Maraaa...\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Maraaa...\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Valderlita Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AhcAts0zMrZQLXW3EkAqkZSWYZ9jxjRJDJRcirThkvMz4oa0uvB5CciMRVBaY60E6rcBEtllCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgwBw1Dmw9DS6lrPgUGbGkQ",
+        "authorChannelId": {
+          "value": "UCgwBw1Dmw9DS6lrPgUGbGkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-17T20:19:18Z",
+        "updatedAt": "2020-05-17T20:19:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IE6CJyoVgeDOyZy5IkfRxJUHWA4",
+      "id": "UgyTU-SaDvE8aqfbR6Z4AaABAg.98lqPpx6n5l98p-3gT4Q5F",
+      "snippet": {
+        "textDisplay": ":D Fico feliz que tenha gostado!",
+        "textOriginal": ":D Fico feliz que tenha gostado!",
+        "parentId": "UgyTU-SaDvE8aqfbR6Z4AaABAg",
+        "authorDisplayName": "Quack - Reda\u00e7\u00e3o, Vestibular e Enem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rk4wBCIVuuJDjuDdgfIGaHsM2Xv6JIRJoifThMiAvqc3BFuPMUbX1uuDVYfYF3clUDJNS8ix=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY3w07Vj19j-D5Qv99nUJw",
+        "authorChannelId": {
+          "value": "UCCY3w07Vj19j-D5Qv99nUJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-19T01:41:22Z",
+        "updatedAt": "2020-05-19T01:41:22Z"
+      }
+    }
+  ]
+}

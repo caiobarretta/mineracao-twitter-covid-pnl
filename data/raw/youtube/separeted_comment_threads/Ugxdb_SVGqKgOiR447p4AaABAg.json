@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "K6awo5jsTY11l-v8fax1bzkw3zA",
+  "id": "Ugxdb_SVGqKgOiR447p4AaABAg",
+  "snippet": {
+    "videoId": "XBObzS9NiyQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "S37uNEndjlEz-J8hQu-5KStg_Vs",
+      "id": "Ugxdb_SVGqKgOiR447p4AaABAg",
+      "snippet": {
+        "videoId": "XBObzS9NiyQ",
+        "textDisplay": "unopar",
+        "textOriginal": "unopar",
+        "authorDisplayName": "Nilda Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8dje4l4ZIDrMRGRtrDeiSaDIWMJV4KNmc9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCflRuD_o_4OWk8oy4wSToNA",
+        "authorChannelId": {
+          "value": "UCflRuD_o_4OWk8oy4wSToNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-04T13:54:43Z",
+        "updatedAt": "2020-11-04T13:54:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "keCPDipcNv-oRV09i7RepoETyN0",
+      "id": "Ugxdb_SVGqKgOiR447p4AaABAg.9FdTKeSU7am9FdnBunX3Qy",
+      "snippet": {
+        "textDisplay": "ok",
+        "textOriginal": "ok",
+        "parentId": "Ugxdb_SVGqKgOiR447p4AaABAg",
+        "authorDisplayName": "J.A dicas para cursos & concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-TMsn0S5Ux-2sEbYqWKjri4WLJjQEjahya-SdRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTBbET8WDw24H9ICyuc9WCA",
+        "authorChannelId": {
+          "value": "UCTBbET8WDw24H9ICyuc9WCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-04T16:57:01Z",
+        "updatedAt": "2020-11-04T16:57:01Z"
+      }
+    }
+  ]
+}

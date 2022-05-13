@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xRz8jVe64nxetwdRjAzujWb2o60",
+  "id": "UgwVWyvcaT0ry4xGcup4AaABAg",
+  "snippet": {
+    "videoId": "ZpYeE2caJrU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Q1mi6kTDHkHGI4CP7LQrfc4J6y8",
+      "id": "UgwVWyvcaT0ry4xGcup4AaABAg",
+      "snippet": {
+        "videoId": "ZpYeE2caJrU",
+        "textDisplay": "A melhor explica\u00e7\u00e3o de todas, parab\u00e9ns.",
+        "textOriginal": "A melhor explica\u00e7\u00e3o de todas, parab\u00e9ns.",
+        "authorDisplayName": "Jarbas Bezerra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/OphU5cWOLs7AXyVn2fFIF9jBpRc-TOEDysFAUuh1zUcPoQsTWSLZPxhIQgCBNr8MO3mFG9FdYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVWqFlXQUpIujo1dcFogTfg",
+        "authorChannelId": {
+          "value": "UCVWqFlXQUpIujo1dcFogTfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-21T16:19:44Z",
+        "updatedAt": "2021-11-21T16:19:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Qt3TOzgNDRYbtAmMgmkiuHJ7TvU",
+      "id": "UgwVWyvcaT0ry4xGcup4AaABAg.9V0La74VvT59VG-UVYevJI",
+      "snippet": {
+        "textDisplay": "Obrigada",
+        "textOriginal": "Obrigada",
+        "parentId": "UgwVWyvcaT0ry4xGcup4AaABAg",
+        "authorDisplayName": "Vai com Elas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXvjJlLe6yytu1-e3jNS3RJm8kDZLOPGcFcL7knw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrplrmSPNcSC8O_wgb8MWHA",
+        "authorChannelId": {
+          "value": "UCrplrmSPNcSC8O_wgb8MWHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-27T18:14:27Z",
+        "updatedAt": "2021-11-27T18:14:27Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mBiBWA3T-czdV4yykr9b5lYp474",
+  "id": "UgyBTaGoGbTrpjAhIpN4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Br3uDQLVlPfi67qkdgj-W_XZ7K0",
+      "id": "UgyBTaGoGbTrpjAhIpN4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "Grande trabalho feito em pouco tempo, parab\u00e9ns cara.",
+        "textOriginal": "Grande trabalho feito em pouco tempo, parab\u00e9ns cara.",
+        "authorDisplayName": "L\u00facio Bernardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQW_UCl8V4CSujdmXBewcsL_tE5vq9YOgl9GN5X=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrThm1-uIsSITiLdfTU1cGA",
+        "authorChannelId": {
+          "value": "UCrThm1-uIsSITiLdfTU1cGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T16:21:42Z",
+        "updatedAt": "2020-03-18T16:21:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "b-41baxwznT3_G_tBqC2CTSn1sY",
+      "id": "UgyBTaGoGbTrpjAhIpN4AaABAg.96LvX9ZqE-L96LwFI8Mro5",
+      "snippet": {
+        "textDisplay": "Obrigado",
+        "textOriginal": "Obrigado",
+        "parentId": "UgyBTaGoGbTrpjAhIpN4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-18T16:28:00Z",
+        "updatedAt": "2020-03-18T16:28:00Z"
+      }
+    }
+  ]
+}

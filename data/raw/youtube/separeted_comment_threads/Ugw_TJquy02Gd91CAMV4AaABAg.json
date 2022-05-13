@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lKDD5wj3qIcdtfpU4-pBsEaEgak",
+  "id": "Ugw_TJquy02Gd91CAMV4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2JmJrqvoa4eG4jWR_ZTG_LBZels",
+      "id": "Ugw_TJquy02Gd91CAMV4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Obrigada pela aula",
+        "textOriginal": "Obrigada pela aula",
+        "authorDisplayName": "Roseni Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTj1-5BX1oJOqUc6qyCE8aN8986jkRyxUqh1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1E7h_yx3lONVSwndYHHTng",
+        "authorChannelId": {
+          "value": "UC1E7h_yx3lONVSwndYHHTng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-19T21:13:19Z",
+        "updatedAt": "2021-11-19T21:13:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Qo22rlDPO5eXE7udlLTTPx9oZpM",
+      "id": "Ugw_TJquy02Gd91CAMV4AaABAg.9UwiacCH9W39V2UUjrWkCC",
+      "snippet": {
+        "textDisplay": "Eu que agrade\u00e7o o carinho!",
+        "textOriginal": "Eu que agrade\u00e7o o carinho!",
+        "parentId": "Ugw_TJquy02Gd91CAMV4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-22T12:15:59Z",
+        "updatedAt": "2021-11-22T12:15:59Z"
+      }
+    }
+  ]
+}

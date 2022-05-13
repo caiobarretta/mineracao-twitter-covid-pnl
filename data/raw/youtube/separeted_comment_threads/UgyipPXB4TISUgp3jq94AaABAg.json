@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bvjUF_ayBz07GrG7Vo52qET939Q",
+  "id": "UgyipPXB4TISUgp3jq94AaABAg",
+  "snippet": {
+    "videoId": "ynnulo2IekQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PUAxE1AOp-_HvC2Q-suxNdxL6K4",
+      "id": "UgyipPXB4TISUgp3jq94AaABAg",
+      "snippet": {
+        "videoId": "ynnulo2IekQ",
+        "textDisplay": "Vou assistir todos os videos do Dr Cicero Comimbra. J\u00e1 me escrevi no Canal Obrigada.",
+        "textOriginal": "Vou assistir todos os videos do Dr Cicero Comimbra. J\u00e1 me escrevi no Canal Obrigada.",
+        "authorDisplayName": "Maria Meirelles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRMhu9gjJmBA0_sWNHy57TVkFhosBHP98Y1i5j=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-N8ru-i0E25yFVT1L8HhHQ",
+        "authorChannelId": {
+          "value": "UC-N8ru-i0E25yFVT1L8HhHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-02-26T17:57:38Z",
+        "updatedAt": "2020-02-26T17:57:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o2RqfAMziHcUeOh1dRBaPVP-d4c",
+      "id": "UgyipPXB4TISUgp3jq94AaABAg.95W0oQEvRyv95fUTaPBlzQ",
+      "snippet": {
+        "textDisplay": "Obrigada\ud83d\ude0d\ud83d\udc9b",
+        "textOriginal": "Obrigada\ud83d\ude0d\ud83d\udc9b",
+        "parentId": "UgyipPXB4TISUgp3jq94AaABAg",
+        "authorDisplayName": "Protocolo Coimbra Vitamina D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCeQEdYTq8lZLBww439LLjVGxhDIOCeJ9fScUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5tZxiog6NTmEdk4wKLrPmg",
+        "authorChannelId": {
+          "value": "UC5tZxiog6NTmEdk4wKLrPmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-01T19:29:12Z",
+        "updatedAt": "2020-03-01T19:29:12Z"
+      }
+    }
+  ]
+}

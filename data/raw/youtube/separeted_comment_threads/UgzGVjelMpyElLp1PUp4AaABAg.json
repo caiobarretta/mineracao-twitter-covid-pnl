@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UzRCNVJgtsGS-ImGwpi89nb2DP4",
+  "id": "UgzGVjelMpyElLp1PUp4AaABAg",
+  "snippet": {
+    "videoId": "7CjBOajCSD4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cgFhOIGNBizdbAv-OfNI8lJOxh4",
+      "id": "UgzGVjelMpyElLp1PUp4AaABAg",
+      "snippet": {
+        "videoId": "7CjBOajCSD4",
+        "textDisplay": "Cad\u00ea os Harry Potter na prateleira?! T_T",
+        "textOriginal": "Cad\u00ea os Harry Potter na prateleira?! T_T",
+        "authorDisplayName": "Aline Carbonaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmUVjp4WiY8a15ob-LIPd5aq5IgxHEoW2zFdzdMM4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_JA6MjmW0Nqk7RDvIrQevQ",
+        "authorChannelId": {
+          "value": "UC_JA6MjmW0Nqk7RDvIrQevQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-24T21:22:27Z",
+        "updatedAt": "2021-11-24T21:22:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OH2OFtb_ct69Lx2Xmd0eEvHTVC8",
+      "id": "UgzGVjelMpyElLp1PUp4AaABAg.9V8bbtY9QIs9V8k6Ya65NH",
+      "snippet": {
+        "textDisplay": "Pra qu\u00ea, s\u00f3 pra ocupar espa\u00e7o?",
+        "textOriginal": "Pra qu\u00ea, s\u00f3 pra ocupar espa\u00e7o?",
+        "parentId": "UgzGVjelMpyElLp1PUp4AaABAg",
+        "authorDisplayName": "Lidiana Theodora",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR71LRyRfOGpYKja62HoNmBsr-hSTwo6meMWwX6iUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAifvxWviNw8baYJYFn32tw",
+        "authorChannelId": {
+          "value": "UCAifvxWviNw8baYJYFn32tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-24T22:36:41Z",
+        "updatedAt": "2021-11-24T22:36:41Z"
+      }
+    }
+  ]
+}

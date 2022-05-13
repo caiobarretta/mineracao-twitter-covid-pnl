@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5Tpi_-sYxx6jAEm-r5gUQ46M-pA",
+  "id": "Ugxc5t-i0wssxV__3Sd4AaABAg",
+  "snippet": {
+    "videoId": "4QvXLQtNu2E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ty6cWszLst7iLvMYLEX6ba-YlV0",
+      "id": "Ugxc5t-i0wssxV__3Sd4AaABAg",
+      "snippet": {
+        "videoId": "4QvXLQtNu2E",
+        "textDisplay": "Linguagem muito rebuscada e mon\u00f3tona devido a leitura. H\u00e1 formas mais interessantes e mais simples de passar uma mensagem.",
+        "textOriginal": "Linguagem muito rebuscada e mon\u00f3tona devido a leitura. H\u00e1 formas mais interessantes e mais simples de passar uma mensagem.",
+        "authorDisplayName": "Bruno Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwOY2R2kvwzXkdBZUpX2w8T1WldP3HN2fDi5L6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN1tjYAjt2iWXeoX6iWoQ1Q",
+        "authorChannelId": {
+          "value": "UCN1tjYAjt2iWXeoX6iWoQ1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-04-05T13:47:46Z",
+        "updatedAt": "2020-04-05T13:47:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i1Hw8aM8XVUuq-UnS4lZQu-7ong",
+      "id": "Ugxc5t-i0wssxV__3Sd4AaABAg.974-DTQ_Eem9ED2yae-Wm7",
+      "snippet": {
+        "textDisplay": "Concordo !",
+        "textOriginal": "Concordo !",
+        "parentId": "Ugxc5t-i0wssxV__3Sd4AaABAg",
+        "authorDisplayName": "David Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScegxfNs7pRw4bn8nTOzIXB0LWLSic0JWB6r8D=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyaucdhcpAB21EaZb1olJiQ",
+        "authorChannelId": {
+          "value": "UCyaucdhcpAB21EaZb1olJiQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-30T01:53:29Z",
+        "updatedAt": "2020-09-30T01:53:29Z"
+      }
+    }
+  ]
+}

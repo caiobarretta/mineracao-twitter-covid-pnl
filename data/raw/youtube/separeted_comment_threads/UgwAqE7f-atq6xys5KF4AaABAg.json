@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mOoDZxAz_KUdz0OC24EqMZimcEI",
+  "id": "UgwAqE7f-atq6xys5KF4AaABAg",
+  "snippet": {
+    "videoId": "Dn3_SmAkITE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SdWigpCN_to6EiB2Hez6m21F244",
+      "id": "UgwAqE7f-atq6xys5KF4AaABAg",
+      "snippet": {
+        "videoId": "Dn3_SmAkITE",
+        "textDisplay": "Super interessante e nos ajuda a entender o nosso comportamento e atitudes...",
+        "textOriginal": "Super interessante e nos ajuda a entender o nosso comportamento e atitudes...",
+        "authorDisplayName": "Maria Amelia Gomes Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLciTbi1wgIncu90eeycXM2d_D2DNjSOsxag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi8g6bEe2IO4cdrLip6qnQA",
+        "authorChannelId": {
+          "value": "UCi8g6bEe2IO4cdrLip6qnQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-24T23:53:57Z",
+        "updatedAt": "2020-11-24T23:53:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-1AUmqVFSLikgKB7uz-2xQ00-g0",
+      "id": "UgwAqE7f-atq6xys5KF4AaABAg.9GT1oA7Ug2B9GUcHCn1jLz",
+      "snippet": {
+        "textDisplay": "Muito obrigado por sua opini\u00e3o, Maria Am\u00e9lia.",
+        "textOriginal": "Muito obrigado por sua opini\u00e3o, Maria Am\u00e9lia.",
+        "parentId": "UgwAqE7f-atq6xys5KF4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-25T14:40:36Z",
+        "updatedAt": "2020-11-25T14:40:36Z"
+      }
+    }
+  ]
+}

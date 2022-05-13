@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DfXGDn1wNc-MTNQYhU_0rd99sl0",
+  "id": "UgzttJt-wyyvqB4ORIx4AaABAg",
+  "snippet": {
+    "videoId": "6uSpitisl14",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "r9ADxzkKUSf9nu2hp53K3PV2GOo",
+      "id": "UgzttJt-wyyvqB4ORIx4AaABAg",
+      "snippet": {
+        "videoId": "6uSpitisl14",
+        "textDisplay": "Aula de hist\u00f3ria \ud83d\udcdd",
+        "textOriginal": "Aula de hist\u00f3ria \ud83d\udcdd",
+        "authorDisplayName": "Kerryson FF",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR170-7tQ2WU-viMskOhX69tL9IbqJEWNrgbrXANQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0lvpZftI2kOxXhLzccQ_qw",
+        "authorChannelId": {
+          "value": "UC0lvpZftI2kOxXhLzccQ_qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-22T12:16:39Z",
+        "updatedAt": "2021-04-22T12:16:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Dp77UHHohc0UnYcI0mjXFNlhRVw",
+      "id": "UgzttJt-wyyvqB4ORIx4AaABAg.9MRSSLxML6o9MRYkOFjBrK",
+      "snippet": {
+        "textDisplay": "2 kkkk",
+        "textOriginal": "2 kkkk",
+        "parentId": "UgzttJt-wyyvqB4ORIx4AaABAg",
+        "authorDisplayName": "Hey Beca",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPuldv3sLEPR02wE72MP2pgUDXVJDSjfOGmH86=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnED5C_rW-EqhPlIbnYPEOQ",
+        "authorChannelId": {
+          "value": "UCnED5C_rW-EqhPlIbnYPEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-22T13:11:41Z",
+        "updatedAt": "2021-04-22T13:11:41Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i9brgBFTduhFzQ3SSB_K9oeYyEQ",
+  "id": "UgymFIKYXeydOTaPy1J4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kIk7f8VNduGLoszd8hb2CRH513U",
+      "id": "UgymFIKYXeydOTaPy1J4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Tem video sobre o assunto?",
+        "textOriginal": "Tem video sobre o assunto?",
+        "authorDisplayName": "Leonardo Lanes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4P6BLIN2lVXL_988o1cqEJzlWTsqPT33NIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRv2hvBI8jFXpZKxmks01mg",
+        "authorChannelId": {
+          "value": "UCRv2hvBI8jFXpZKxmks01mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-17T12:20:46Z",
+        "updatedAt": "2020-08-17T12:20:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "V39mUVeWs3MrxSM_avIau6hz26o",
+      "id": "UgymFIKYXeydOTaPy1J4AaABAg.9CSsmRWUdFp9CdQ-W3sVuM",
+      "snippet": {
+        "textDisplay": "@Gustavo Almeida Camargo  ficou otimo esse playlist do ACS \ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17",
+        "textOriginal": "@Gustavo Almeida Camargo  ficou otimo esse playlist do ACS \ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83e\udd17",
+        "parentId": "UgymFIKYXeydOTaPy1J4AaABAg",
+        "authorDisplayName": "Leonardo Lanes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4P6BLIN2lVXL_988o1cqEJzlWTsqPT33NIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRv2hvBI8jFXpZKxmks01mg",
+        "authorChannelId": {
+          "value": "UCRv2hvBI8jFXpZKxmks01mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-21T23:51:25Z",
+        "updatedAt": "2020-08-21T23:51:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "X7uxuenepdt-Bw4Pno-CQEZa0Io",
+      "id": "UgymFIKYXeydOTaPy1J4AaABAg.9CSsmRWUdFp9CcPLWKP2H9",
+      "snippet": {
+        "textDisplay": "qual assunto?",
+        "textOriginal": "qual assunto?",
+        "parentId": "UgymFIKYXeydOTaPy1J4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-21T14:26:27Z",
+        "updatedAt": "2020-08-21T14:26:27Z"
+      }
+    }
+  ]
+}

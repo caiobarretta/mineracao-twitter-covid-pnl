@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4mTDfOiCSQ8iiL2OiB9HmUYMuY4",
+  "id": "UgxBGlOgDCavvuEcgSh4AaABAg",
+  "snippet": {
+    "videoId": "BmrbIdLRveQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nb0AHSGSIbu_3s314uXQRma0ITM",
+      "id": "UgxBGlOgDCavvuEcgSh4AaABAg",
+      "snippet": {
+        "videoId": "BmrbIdLRveQ",
+        "textDisplay": "Muito bom professor, adorei",
+        "textOriginal": "Muito bom professor, adorei",
+        "authorDisplayName": "Jaci Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5SRREROjoAbgCU-vyCWrHAj38G-THDmCFiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0ARxlVjQZ3nmMXsAsZn7xw",
+        "authorChannelId": {
+          "value": "UC0ARxlVjQZ3nmMXsAsZn7xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-04T16:14:33Z",
+        "updatedAt": "2021-05-04T16:14:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2k02Irz3IKWMcEJk3G7F0Bs-X-k",
+      "id": "UgxBGlOgDCavvuEcgSh4AaABAg.9MvmDGydG7o9MxqU4SNDmG",
+      "snippet": {
+        "textDisplay": "Que \u00f3timo!",
+        "textOriginal": "Que \u00f3timo!",
+        "parentId": "UgxBGlOgDCavvuEcgSh4AaABAg",
+        "authorDisplayName": "Prof. Carlos Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQEXzYsIgOzGkgqlFLdVHS2FkGlj9XPdz3LXba=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZqxBgpqzl82M6pRuiTexSQ",
+        "authorChannelId": {
+          "value": "UCZqxBgpqzl82M6pRuiTexSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-05T11:30:17Z",
+        "updatedAt": "2021-05-05T11:30:17Z"
+      }
+    }
+  ]
+}

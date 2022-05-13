@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AmMz38dmOJM8atE06ES6bDVfgtY",
+  "id": "UgzM3sDFIP7LVU16jWB4AaABAg",
+  "snippet": {
+    "videoId": "7TQLqCTn5Zw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "c1o8wNxsZK8Tk8rk-HCeudvSYVo",
+      "id": "UgzM3sDFIP7LVU16jWB4AaABAg",
+      "snippet": {
+        "videoId": "7TQLqCTn5Zw",
+        "textDisplay": "Como e a escala todo dia????",
+        "textOriginal": "Como e a escala todo dia????",
+        "authorDisplayName": "Gerusa Vieira Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGZY3sz3ORcV_h8DmOZkFALxFpdP6eu_fK5kjs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEbgd8b_Y5l4HOYQM3bDGVg",
+        "authorChannelId": {
+          "value": "UCEbgd8b_Y5l4HOYQM3bDGVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T12:28:08Z",
+        "updatedAt": "2022-01-06T12:28:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0lgg_adjDue388lfJaWMKbDk5Eo",
+      "id": "UgzM3sDFIP7LVU16jWB4AaABAg.9WrNe-7p-Rk9X7ItHZ3Upx",
+      "snippet": {
+        "textDisplay": "@Professora Fernanda Barboza OBRIGADA\ud83d\ude0d\ud83e\udd1d",
+        "textOriginal": "@Professora Fernanda Barboza OBRIGADA\ud83d\ude0d\ud83e\udd1d",
+        "parentId": "UgzM3sDFIP7LVU16jWB4AaABAg",
+        "authorDisplayName": "Gerusa Vieira Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGZY3sz3ORcV_h8DmOZkFALxFpdP6eu_fK5kjs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEbgd8b_Y5l4HOYQM3bDGVg",
+        "authorChannelId": {
+          "value": "UCEbgd8b_Y5l4HOYQM3bDGVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T02:13:37Z",
+        "updatedAt": "2022-01-13T02:13:37Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "H_jRLeNcVk-bhupeeSfFsHA7LbU",
+      "id": "UgzM3sDFIP7LVU16jWB4AaABAg.9WrNe-7p-Rk9X73URioq3x",
+      "snippet": {
+        "textDisplay": "A escala \u00e9 mista, normalmente 6 meses M 6 meses T e 6 meses SN.",
+        "textOriginal": "A escala \u00e9 mista, normalmente 6 meses M 6 meses T e 6 meses SN.",
+        "parentId": "UgzM3sDFIP7LVU16jWB4AaABAg",
+        "authorDisplayName": "Professora Fernanda Barboza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQnw3wsTlyIFQ4z3b7CD3p6HyvumVepPSHWGP_lJg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqQJE74K4qt3q5wmmzrqxCw",
+        "authorChannelId": {
+          "value": "UCqQJE74K4qt3q5wmmzrqxCw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-12T23:59:01Z",
+        "updatedAt": "2022-01-12T23:59:01Z"
+      }
+    }
+  ]
+}

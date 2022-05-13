@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HGX-hxNru0z4HJ9cTDrdndF8mqQ",
+  "id": "UgyhRlwsAJPwgCb1eVt4AaABAg",
+  "snippet": {
+    "videoId": "Y3FFIYH7O5Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tEcYaiTgYM-PS8L3_4zQbZs9VHE",
+      "id": "UgyhRlwsAJPwgCb1eVt4AaABAg",
+      "snippet": {
+        "videoId": "Y3FFIYH7O5Q",
+        "textDisplay": "Gostei muito do v\u00eddeo",
+        "textOriginal": "Gostei muito do v\u00eddeo",
+        "authorDisplayName": "alexbruno oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcL6aCoj4VojSpxdWoy-NocKaQNc9rEIBJ6-tuFA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzjzagGwLllo8LLgYICPqeQ",
+        "authorChannelId": {
+          "value": "UCzjzagGwLllo8LLgYICPqeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-12T01:10:19Z",
+        "updatedAt": "2021-07-12T01:10:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WAWpUDIdwSMGBBN7LAznUF2NT4A",
+      "id": "UgyhRlwsAJPwgCb1eVt4AaABAg.9Pfp_lL977r9PzA6j-fME6",
+      "snippet": {
+        "textDisplay": "Oba!! Fico muito feliz; ^-^",
+        "textOriginal": "Oba!! Fico muito feliz; ^-^",
+        "parentId": "UgyhRlwsAJPwgCb1eVt4AaABAg",
+        "authorDisplayName": "Quack - Reda\u00e7\u00e3o, Vestibular e Enem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rk4wBCIVuuJDjuDdgfIGaHsM2Xv6JIRJoifThMiAvqc3BFuPMUbX1uuDVYfYF3clUDJNS8ix=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCY3w07Vj19j-D5Qv99nUJw",
+        "authorChannelId": {
+          "value": "UCCY3w07Vj19j-D5Qv99nUJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-19T13:24:01Z",
+        "updatedAt": "2021-07-19T13:24:01Z"
+      }
+    }
+  ]
+}

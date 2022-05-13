@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oTbHKDse_9K_sDyZSmtdKW4RNfM",
+  "id": "UgxfMNfuGYBrNLV61lx4AaABAg",
+  "snippet": {
+    "videoId": "AFWFtbr3r08",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9w8yaf-0Y-I324GFfVIn8HkfThY",
+      "id": "UgxfMNfuGYBrNLV61lx4AaABAg",
+      "snippet": {
+        "videoId": "AFWFtbr3r08",
+        "textDisplay": "Parab\u00e9ns R\u00ea! Obrigada pelas informa\u00e7\u00f5es voc\u00ea \u00e9 demais!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83e\udd70\ud83d\ude18",
+        "textOriginal": "Parab\u00e9ns R\u00ea! Obrigada pelas informa\u00e7\u00f5es voc\u00ea \u00e9 demais!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83e\udd70\ud83d\ude18",
+        "authorDisplayName": "Roberta Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-vtynAyTztoZCl7mojkJdeh8DdMytbtRi8cnvRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ROduRs2Nw8nUrdNfOTRSQ",
+        "authorChannelId": {
+          "value": "UC-ROduRs2Nw8nUrdNfOTRSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-19T23:17:36Z",
+        "updatedAt": "2020-03-19T23:17:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nDXIwfBFczNdygGyBEYLU3MazP4",
+      "id": "UgxfMNfuGYBrNLV61lx4AaABAg.96PEvAfr0QM96PFyr71dV3",
+      "snippet": {
+        "textDisplay": "Obrigada, Ro. Bjs",
+        "textOriginal": "Obrigada, Ro. Bjs",
+        "parentId": "UgxfMNfuGYBrNLV61lx4AaABAg",
+        "authorDisplayName": "Eu Adoro Ci\u00eancia!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TRfL2s65fCRxp35dY_iIXq_GP4aoKzzumqRH8VNACcWNFysEz0sEy6Igf12GE_MDx_5wvc2o3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7DL9qIVhfIyz_XtIksz89A",
+        "authorChannelId": {
+          "value": "UC7DL9qIVhfIyz_XtIksz89A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-19T23:26:51Z",
+        "updatedAt": "2020-03-19T23:26:51Z"
+      }
+    }
+  ]
+}

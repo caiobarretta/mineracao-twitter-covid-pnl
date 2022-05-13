@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a98JtJkXwPuyGnFkyK0LtLVIGI0",
+  "id": "Ugyl2Pv_RzX3vcMG_3V4AaABAg",
+  "snippet": {
+    "videoId": "94K8i49P-1g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iWz17kIyPr1xF2kbjltDl3c0-_k",
+      "id": "Ugyl2Pv_RzX3vcMG_3V4AaABAg",
+      "snippet": {
+        "videoId": "94K8i49P-1g",
+        "textDisplay": "Show  amei",
+        "textOriginal": "Show  amei",
+        "authorDisplayName": "Girlene Dias Monteiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWxTQOYVVAmLJ3ifv1Yy4kRS_0YH1VQhjLnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuGnK-yZbl2o8pfKMycAH0g",
+        "authorChannelId": {
+          "value": "UCuGnK-yZbl2o8pfKMycAH0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-08T03:29:42Z",
+        "updatedAt": "2021-07-08T03:29:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OB9yz9FZ3DmBCMTWfidioMuNWik",
+      "id": "Ugyl2Pv_RzX3vcMG_3V4AaABAg.9PWmMB5mSTA9Pabro8vCTI",
+      "snippet": {
+        "textDisplay": "Te amo \u2764\ufe0f",
+        "textOriginal": "Te amo \u2764\ufe0f",
+        "parentId": "Ugyl2Pv_RzX3vcMG_3V4AaABAg",
+        "authorDisplayName": "PROFESSOR WESLLEY",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EJrB0CzlCjvX4lxgpH40WrcWyS47BfRf3xLe3ZJ86bmDT4ox9EQXm7KTVBcRrpkMW0HVX-7gdg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8SdY4x4VfEwdTiaV7mJ4uw",
+        "authorChannelId": {
+          "value": "UC8SdY4x4VfEwdTiaV7mJ4uw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-10T00:34:14Z",
+        "updatedAt": "2021-07-10T00:34:14Z"
+      }
+    }
+  ]
+}

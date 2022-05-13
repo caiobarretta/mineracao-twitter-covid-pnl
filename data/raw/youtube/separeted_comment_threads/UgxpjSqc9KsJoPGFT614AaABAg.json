@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2I0YSOFfbC4878pJpsmN7dhxAi4",
+  "id": "UgxpjSqc9KsJoPGFT614AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "r_MBEenOqYBXp8fcmpukGOsZQuc",
+      "id": "UgxpjSqc9KsJoPGFT614AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Como sempre, excelente conte\u00fado com did\u00e1tica muito boa.",
+        "textOriginal": "Como sempre, excelente conte\u00fado com did\u00e1tica muito boa.",
+        "authorDisplayName": "Noemy Ueno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYONUKMwmv0W8RNDLQ7TPyj8OHdyxqNDeKGw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-CrITNkv7uFSXcfnPzAyLw",
+        "authorChannelId": {
+          "value": "UC-CrITNkv7uFSXcfnPzAyLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-11T19:44:59Z",
+        "updatedAt": "2020-04-11T19:44:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "G1d775amLyAWC256FBtXfPTSLhA",
+      "id": "UgxpjSqc9KsJoPGFT614AaABAg.97K4rzIEe3S97KpZCcL8B6",
+      "snippet": {
+        "textDisplay": "Abra\u00e7\u00e3o Noemy!",
+        "textOriginal": "Abra\u00e7\u00e3o Noemy!",
+        "parentId": "UgxpjSqc9KsJoPGFT614AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-12T02:41:42Z",
+        "updatedAt": "2020-04-12T02:41:42Z"
+      }
+    }
+  ]
+}

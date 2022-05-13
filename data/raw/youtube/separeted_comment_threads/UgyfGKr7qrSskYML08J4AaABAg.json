@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "e46E_gNFmmnx_dezMqzILOjLiMo",
+  "id": "UgyfGKr7qrSskYML08J4AaABAg",
+  "snippet": {
+    "videoId": "jPjIg4bJazQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4Wvp8ZE0oPsxcBwbr5Y3bKq8sd4",
+      "id": "UgyfGKr7qrSskYML08J4AaABAg",
+      "snippet": {
+        "videoId": "jPjIg4bJazQ",
+        "textDisplay": "Que mulherrrrrrrrrrrrrr..",
+        "textOriginal": "Que mulherrrrrrrrrrrrrr..",
+        "authorDisplayName": "MONICA ANTAR GAMBA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqsUH6N04Ud62su0CY2dxP4Tjb_F9pgA3M-nr2H_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClg-p5rpL8cgWhNXFOfHnQg",
+        "authorChannelId": {
+          "value": "UClg-p5rpL8cgWhNXFOfHnQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-29T20:54:43Z",
+        "updatedAt": "2020-09-29T20:54:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qdtLHmwUp8dGMHOQYZO4B6Hkel8",
+      "id": "UgyfGKr7qrSskYML08J4AaABAg.9ECWmK3Awjr9ED452KJOPR",
+      "snippet": {
+        "textDisplay": "Exemplo de vida para todos n\u00f3s, Monica.",
+        "textOriginal": "Exemplo de vida para todos n\u00f3s, Monica.",
+        "parentId": "UgyfGKr7qrSskYML08J4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-30T02:03:14Z",
+        "updatedAt": "2020-09-30T02:03:14Z"
+      }
+    }
+  ]
+}

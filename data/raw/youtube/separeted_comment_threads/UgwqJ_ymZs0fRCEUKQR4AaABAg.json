@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ufzI9lVcoRBFjbFVF2tHJBi-zHs",
+  "id": "UgwqJ_ymZs0fRCEUKQR4AaABAg",
+  "snippet": {
+    "videoId": "xVE5Q4ofKBo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "o2kRbN71H6V5oumrQ36V7nnzF1c",
+      "id": "UgwqJ_ymZs0fRCEUKQR4AaABAg",
+      "snippet": {
+        "videoId": "xVE5Q4ofKBo",
+        "textDisplay": "Ol\u00e1 \u2667 saudade de voc\u00eas. # VELHICEN\u00c3O\u00c9DOEN\u00c7A.",
+        "textOriginal": "Ol\u00e1 \u2667 saudade de voc\u00eas. # VELHICEN\u00c3O\u00c9DOEN\u00c7A.",
+        "authorDisplayName": "Elione Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTx6mCcrHFs7y3iaCU5o3LZtmbhHGa4oC_rKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvJmVpWYbCWY2_GIu3incOQ",
+        "authorChannelId": {
+          "value": "UCvJmVpWYbCWY2_GIu3incOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-07-06T10:01:27Z",
+        "updatedAt": "2021-07-06T10:01:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KDL0E5VK76SNCzu4pP7nNhU7DPw",
+      "id": "UgwqJ_ymZs0fRCEUKQR4AaABAg.9PSKafOTwnD9PSogSufCEV",
+      "snippet": {
+        "textDisplay": "Elione, que bom saber! #velhicen\u00e3o\u00e9doen\u00e7a",
+        "textOriginal": "Elione, que bom saber! #velhicen\u00e3o\u00e9doen\u00e7a",
+        "parentId": "UgwqJ_ymZs0fRCEUKQR4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-06T14:33:07Z",
+        "updatedAt": "2021-07-06T14:33:07Z"
+      }
+    }
+  ]
+}

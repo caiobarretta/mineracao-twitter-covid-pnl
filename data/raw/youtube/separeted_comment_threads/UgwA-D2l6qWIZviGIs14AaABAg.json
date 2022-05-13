@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KfWn72nSxpaQY_A-PFYDtG47_BQ",
+  "id": "UgwA-D2l6qWIZviGIs14AaABAg",
+  "snippet": {
+    "videoId": "AQygXlfKA1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rbQe76pTVnm-USYtzwCIdk3SHh4",
+      "id": "UgwA-D2l6qWIZviGIs14AaABAg",
+      "snippet": {
+        "videoId": "AQygXlfKA1E",
+        "textDisplay": "Aqui na minha cidade j\u00e1 tem festas, isso \u00e9 um absurdo, um crime!",
+        "textOriginal": "Aqui na minha cidade j\u00e1 tem festas, isso \u00e9 um absurdo, um crime!",
+        "authorDisplayName": "Jo\u00e3o Batista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KbEuwcmSPHa0BuUttRcA7Fpv0thPsLyTGvYtrbTsqCb0AODhz9LC5GHrHEL3AOGrnfyUVHSB=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMCZnVU9I5VQhHYkSyFc8ow",
+        "authorChannelId": {
+          "value": "UCMCZnVU9I5VQhHYkSyFc8ow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-07-28T11:59:49Z",
+        "updatedAt": "2021-07-28T11:59:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ippfZZ_4o9kDvWjv2okJi_kV33U",
+      "id": "UgwA-D2l6qWIZviGIs14AaABAg.9QLBcsdgeUQ9QNbtcerD_3",
+      "snippet": {
+        "textDisplay": "O ser humano est\u00e1 se esfor\u00e7ando para ser extinto...",
+        "textOriginal": "O ser humano est\u00e1 se esfor\u00e7ando para ser extinto...",
+        "parentId": "UgwA-D2l6qWIZviGIs14AaABAg",
+        "authorDisplayName": "Ray Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpVlwky-8ZgusAWkyig5IfAs2T4lf05PfthPT_ovwxNNKsIe7wbQMQnB0TOycI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcqBsCmuNjCUt8GoJOtMedA",
+        "authorChannelId": {
+          "value": "UCcqBsCmuNjCUt8GoJOtMedA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-07-29T10:36:31Z",
+        "updatedAt": "2021-07-29T10:36:31Z"
+      }
+    }
+  ]
+}

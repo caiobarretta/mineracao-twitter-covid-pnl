@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bzJtFLHrVZaEmkhJn2XXGCVdHfk",
+  "id": "UgywBQGjVqOmgoC0VnR4AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yYEtvP_p989hZPQZhlXBFlpgwZc",
+      "id": "UgywBQGjVqOmgoC0VnR4AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Agradecemos Dr. Saldiva. Somos F\u00e3s de seu Trabalho indispens\u00e1vel.",
+        "textOriginal": "Agradecemos Dr. Saldiva. Somos F\u00e3s de seu Trabalho indispens\u00e1vel.",
+        "authorDisplayName": "mozart artur da costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTidxVW4Nce8T9A9INErmpby4J9fujFtM_8wtWd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQY2bmsde2hJFvVJug87Yaw",
+        "authorChannelId": {
+          "value": "UCQY2bmsde2hJFvVJug87Yaw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T17:10:18Z",
+        "updatedAt": "2020-04-11T17:10:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7DFYSaq08UqyWddeAqRdnqIIIUY",
+      "id": "UgywBQGjVqOmgoC0VnR4AaABAg.97JoA0QAU2C97JvnAYRkXs",
+      "snippet": {
+        "textDisplay": "Sou eu quem deve agradecer Mozart!",
+        "textOriginal": "Sou eu quem deve agradecer Mozart!",
+        "parentId": "UgywBQGjVqOmgoC0VnR4AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T18:16:56Z",
+        "updatedAt": "2020-04-11T18:16:56Z"
+      }
+    }
+  ]
+}

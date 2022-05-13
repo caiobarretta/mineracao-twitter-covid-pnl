@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sZRSyYP9u3FN_xOfZVGFoFrnj6g",
+  "id": "UgyameKY3hAh_kHAHyB4AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RDeFtfmZBzVOOdsEfG3LjvMyAmk",
+      "id": "UgyameKY3hAh_kHAHyB4AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "\u00d3tima explica\u00e7\u00e3o sem vi\u00e9s pol\u00edtico-ideol\u00f3gico, obrigado!",
+        "textOriginal": "\u00d3tima explica\u00e7\u00e3o sem vi\u00e9s pol\u00edtico-ideol\u00f3gico, obrigado!",
+        "authorDisplayName": "Leonardo Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnS2u1UlCQrhuns9BHRLChla-IxAH7XBzzfmaO6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNhrmFVFKK2D1ivl7BPkN-Q",
+        "authorChannelId": {
+          "value": "UCNhrmFVFKK2D1ivl7BPkN-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-12T03:16:51Z",
+        "updatedAt": "2020-04-12T03:16:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p5nk7xKjJryoLfHqH6OqbWnYITo",
+      "id": "UgyameKY3hAh_kHAHyB4AaABAg.97Kt_XJU8e097Ku8Pvofdr",
+      "snippet": {
+        "textDisplay": "Obrigado Leonardo!",
+        "textOriginal": "Obrigado Leonardo!",
+        "parentId": "UgyameKY3hAh_kHAHyB4AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-12T03:21:44Z",
+        "updatedAt": "2020-04-12T03:21:44Z"
+      }
+    }
+  ]
+}

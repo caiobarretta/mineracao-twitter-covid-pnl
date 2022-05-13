@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "u3I0W5d5u-MhKw9mjwMgIX5Yd_M",
+  "id": "Ugz4YliSeXVyb6a_E494AaABAg",
+  "snippet": {
+    "videoId": "GuHIc_NfpMw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8YAGHpiA0xNh8czjPGXxK0dOGC4",
+      "id": "Ugz4YliSeXVyb6a_E494AaABAg",
+      "snippet": {
+        "videoId": "GuHIc_NfpMw",
+        "textDisplay": "Bommm dia corajosa ela em \ud83d\udc95",
+        "textOriginal": "Bommm dia corajosa ela em \ud83d\udc95",
+        "authorDisplayName": "Maria jose",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F29yiKyULVmaNXPJS2q3Iz9YxgAP1B-KyUlhdCWGEPZ1wBNKjPAyf88bU73vXYGTy5IjyuWZow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCACZ5rcoLC_icRwlH4qY3zA",
+        "authorChannelId": {
+          "value": "UCACZ5rcoLC_icRwlH4qY3zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-19T14:25:17Z",
+        "updatedAt": "2021-02-19T14:25:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ne9akreWVnli1z3adPRTWmB209c",
+      "id": "Ugz4YliSeXVyb6a_E494AaABAg.9Jx1t9Ahupk9QcJDSIsdnI",
+      "snippet": {
+        "textDisplay": "Ill",
+        "textOriginal": "Ill",
+        "parentId": "Ugz4YliSeXVyb6a_E494AaABAg",
+        "authorDisplayName": "huda Hassan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSI8Bb0up4UYV4pY7tKJ_D4EWTViU6pKQ5p=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMJBP5OKlpBK-VsFuc5_yTg",
+        "authorChannelId": {
+          "value": "UCMJBP5OKlpBK-VsFuc5_yTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-04T12:52:26Z",
+        "updatedAt": "2021-08-04T12:52:26Z"
+      }
+    }
+  ]
+}

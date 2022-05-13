@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WgLsC3LqmetTg1TueVzTQnOUIJ0",
+  "id": "UgzuKWkNV5HEfj3WP9F4AaABAg",
+  "snippet": {
+    "videoId": "od-ORw3gO5g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FVnK4A2YJzYf009i7Li9L_2RXxs",
+      "id": "UgzuKWkNV5HEfj3WP9F4AaABAg",
+      "snippet": {
+        "videoId": "od-ORw3gO5g",
+        "textDisplay": "Programa \u00e9 bom, mas a antrop\u00f3loga n\u00e3o.",
+        "textOriginal": "Programa \u00e9 bom, mas a antrop\u00f3loga n\u00e3o.",
+        "authorDisplayName": "Marco Antonio Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQrLcKGA7iq1b46U0colnXhGGqXufifsivSE9bZXw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIUoraq9UStgNoFO52oIaUw",
+        "authorChannelId": {
+          "value": "UCIUoraq9UStgNoFO52oIaUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-02T11:10:13Z",
+        "updatedAt": "2020-04-02T11:10:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lfkc4qxsO2rAlFzMU_jxzUFEQcA",
+      "id": "UgzuKWkNV5HEfj3WP9F4AaABAg.96wznuUUKyI96xJr2EzP6I",
+      "snippet": {
+        "textDisplay": "Eu achei q ela tava nervosa, pq a andresa soube completar e direcionar as falas dela de forma mais did\u00e1tica",
+        "textOriginal": "Eu achei q ela tava nervosa, pq a andresa soube completar e direcionar as falas dela de forma mais did\u00e1tica",
+        "parentId": "UgzuKWkNV5HEfj3WP9F4AaABAg",
+        "authorDisplayName": "Mateus Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQc16NGu9TmOBoowZttcMsZXRGWTzj8R9i1auOK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKFC3J8BpbXVWLjojAFgItA",
+        "authorChannelId": {
+          "value": "UCKFC3J8BpbXVWLjojAFgItA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-02T14:14:09Z",
+        "updatedAt": "2020-04-02T14:14:09Z"
+      }
+    }
+  ]
+}

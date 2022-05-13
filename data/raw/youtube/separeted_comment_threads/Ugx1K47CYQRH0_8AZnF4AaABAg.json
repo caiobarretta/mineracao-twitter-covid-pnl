@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_VzRaerbYO8woK2rfrfFzya-FOk",
+  "id": "Ugx1K47CYQRH0_8AZnF4AaABAg",
+  "snippet": {
+    "videoId": "3u8SytIC1JA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "drNyx0ZCrGT-WFhtmKkjyzFE1zU",
+      "id": "Ugx1K47CYQRH0_8AZnF4AaABAg",
+      "snippet": {
+        "videoId": "3u8SytIC1JA",
+        "textDisplay": "Bungas",
+        "textOriginal": "Bungas",
+        "authorDisplayName": "P\u014dwehi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Y-kU9IMHJheRagDR_yzSRKxVOQih-4M592i3RJjKwviq3BVXtlMYSbnYTxJe-XRuxqLdppp3dYY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRjS7ssHBPf1VSPI2zFMNhg",
+        "authorChannelId": {
+          "value": "UCRjS7ssHBPf1VSPI2zFMNhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T21:45:22Z",
+        "updatedAt": "2022-05-10T21:45:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_Q-ZDUqwxA0IIqqTKu295Af6DrU",
+      "id": "Ugx1K47CYQRH0_8AZnF4AaABAg.9arezoSUZB59arf9U-DHAu",
+      "snippet": {
+        "textDisplay": "Bungas",
+        "textOriginal": "Bungas",
+        "parentId": "Ugx1K47CYQRH0_8AZnF4AaABAg",
+        "authorDisplayName": "Marcos vinicius Amario da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-Ly7yyd0OzJB0DB-xuEZ7bVlsgIgTVpfiOfU8Zw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2yWVXIy4D4xbIkvu5yIG-g",
+        "authorChannelId": {
+          "value": "UC2yWVXIy4D4xbIkvu5yIG-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T21:46:49Z",
+        "updatedAt": "2022-05-10T21:46:49Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "3UtWriIsHw5RDl6Kd2I-QsBKt3E",
+      "id": "Ugx1K47CYQRH0_8AZnF4AaABAg.9arezoSUZB59arf1sre3L0",
+      "snippet": {
+        "textDisplay": "Lalaus",
+        "textOriginal": "Lalaus",
+        "parentId": "Ugx1K47CYQRH0_8AZnF4AaABAg",
+        "authorDisplayName": "Arthur xd777",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSg0tvLH-lQlbmTBiM6VwVrJU8D4K02WrIVYKfrtA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFOClZrov5pWYJX9dcRZO0w",
+        "authorChannelId": {
+          "value": "UCFOClZrov5pWYJX9dcRZO0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T21:45:47Z",
+        "updatedAt": "2022-05-10T21:45:47Z"
+      }
+    }
+  ]
+}

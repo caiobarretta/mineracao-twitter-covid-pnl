@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PLaKb_Hkt_99gHWKc1x0oqas77s",
+  "id": "UgzTCcbNAbb-Lb9Lgf94AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_whmyBbIGjnDwzzO1trvQ-IkS-w",
+      "id": "UgzTCcbNAbb-Lb9Lgf94AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Bom",
+        "textOriginal": "Bom",
+        "authorDisplayName": "Marry Lucia Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYCyFrbTJPOeGXeqY_PkkHR6GNHisY9oGVYg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGg-ePuTcjSR_vbGyJiAhzw",
+        "authorChannelId": {
+          "value": "UCGg-ePuTcjSR_vbGyJiAhzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T04:10:19Z",
+        "updatedAt": "2021-09-03T04:10:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OnjI8M2vwnrqSppC--I1coTZUHM",
+      "id": "UgzTCcbNAbb-Lb9Lgf94AaABAg.9RocJYmHct_9RpCueL0Q2H",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0a",
+        "textOriginal": "\ud83d\ude0a",
+        "parentId": "UgzTCcbNAbb-Lb9Lgf94AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T09:38:50Z",
+        "updatedAt": "2021-09-03T09:38:50Z"
+      }
+    }
+  ]
+}

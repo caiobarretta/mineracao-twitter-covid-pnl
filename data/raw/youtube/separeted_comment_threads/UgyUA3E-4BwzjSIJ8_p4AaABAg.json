@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LX9G0Zt4u7geeJRiJR2mzClCkJ0",
+  "id": "UgyUA3E-4BwzjSIJ8_p4AaABAg",
+  "snippet": {
+    "videoId": "TDvRSqxkxVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EzpzQoO3Q8a9V8WuiwGQVZwLu9w",
+      "id": "UgyUA3E-4BwzjSIJ8_p4AaABAg",
+      "snippet": {
+        "videoId": "TDvRSqxkxVI",
+        "textDisplay": "Quais s\u00e3o os tipos de pol\u00edticas p\u00fablicas voltada a sa\u00fade da popula\u00e7\u00e3o?",
+        "textOriginal": "Quais s\u00e3o os tipos de pol\u00edticas p\u00fablicas voltada a sa\u00fade da popula\u00e7\u00e3o?",
+        "authorDisplayName": "Caua Donizeti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTAzQynPkuA7GM7K8y7_uOKTMFvwL01HZg2lhrPHJrq0ExPf6iMzOSOeFVCPoF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRAi3bimdNh2BERmI7eQ-zA",
+        "authorChannelId": {
+          "value": "UCRAi3bimdNh2BERmI7eQ-zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2021-08-16T22:01:17Z",
+        "updatedAt": "2021-08-16T22:01:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "quyIDfwkuc-n0CpKH-XJmPAk6Y8",
+      "id": "UgyUA3E-4BwzjSIJ8_p4AaABAg.9R7BZq2Ue0r9ZtbK_BlCV-",
+      "snippet": {
+        "textDisplay": "O v\u00eddeo todo \u00e9 falando sobre elas",
+        "textOriginal": "O v\u00eddeo todo \u00e9 falando sobre elas",
+        "parentId": "UgyUA3E-4BwzjSIJ8_p4AaABAg",
+        "authorDisplayName": "Aline Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Y321xDpE1pENJW-XLz8Vs_tnoJIOSqTe5zmYT53hfal3SZGZiKeA8VYT2bb5l4S-q2SyUBKgMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPVt2SjNmBbo8n1IzCPZQ_A",
+        "authorChannelId": {
+          "value": "UCPVt2SjNmBbo8n1IzCPZQ_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-03-22T22:49:04Z",
+        "updatedAt": "2022-03-22T22:49:04Z"
+      }
+    }
+  ]
+}

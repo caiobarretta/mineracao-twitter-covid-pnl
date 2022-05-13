@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4G2vv2ADD7DujX1tpqKtTX4TO7g",
+  "id": "Ugwka0UMDgq_Ok1JkYN4AaABAg",
+  "snippet": {
+    "videoId": "o3JzGrfK97g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Q_3wFOvXEtl4fgluCoAd9KK1s1E",
+      "id": "Ugwka0UMDgq_Ok1JkYN4AaABAg",
+      "snippet": {
+        "videoId": "o3JzGrfK97g",
+        "textDisplay": "Como eu fa\u00e7o para assinar com vcs para ter as aulas ao vivo ?",
+        "textOriginal": "Como eu fa\u00e7o para assinar com vcs para ter as aulas ao vivo ?",
+        "authorDisplayName": "Pamela Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9Aweb616sZm63ev1H4JER3QaA0Bn4qhnaVUItXw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7Iu_JMJtgfLyX29RUKZEuA",
+        "authorChannelId": {
+          "value": "UC7Iu_JMJtgfLyX29RUKZEuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-05T01:54:58Z",
+        "updatedAt": "2020-03-05T01:54:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dqHBezPyY97VHtSea9aBuT6tWRM",
+      "id": "Ugwka0UMDgq_Ok1JkYN4AaABAg.95nu-cqgsVz95pKkw021z3",
+      "snippet": {
+        "textDisplay": "Vai no site oficial e assina o plano q vc quer.",
+        "textOriginal": "Vai no site oficial e assina o plano q vc quer.",
+        "parentId": "Ugwka0UMDgq_Ok1JkYN4AaABAg",
+        "authorDisplayName": "Funny But i don't care",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSy-jaqVj2XqzdW5sGUPHSFdG4ZFyKKgi1xpZqwig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg_8-pWUgsRKEvdPi6t1Drw",
+        "authorChannelId": {
+          "value": "UCg_8-pWUgsRKEvdPi6t1Drw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-05T15:16:44Z",
+        "updatedAt": "2020-03-05T15:16:44Z"
+      }
+    }
+  ]
+}

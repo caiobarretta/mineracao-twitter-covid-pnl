@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ULmPQLZ_dQTwUWZFnnjkGJx7nKU",
+  "id": "UgxdHQgx6hArm5ZCg4l4AaABAg",
+  "snippet": {
+    "videoId": "aR_BMpoPtVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "npRFEZFRWXGC0FP7yDaAJNEEcIQ",
+      "id": "UgxdHQgx6hArm5ZCg4l4AaABAg",
+      "snippet": {
+        "videoId": "aR_BMpoPtVI",
+        "textDisplay": "O Gold \u00e9 um pouco mais velho mesmo.",
+        "textOriginal": "O Gold \u00e9 um pouco mais velho mesmo.",
+        "authorDisplayName": "Daniel Gadelha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8WUWJYuCaMjfvByYqjFq2EMMY9sMcezvAsFCG6koWE3hrAYipkE-rjlTzDsGyNxIFPodK_XI1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBIlHU7C1hwxvfit_2ybSLQ",
+        "authorChannelId": {
+          "value": "UCBIlHU7C1hwxvfit_2ybSLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-25T23:42:46Z",
+        "updatedAt": "2021-08-25T23:42:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7sYynAGViU5fN-MLh6NzfMAJM2I",
+      "id": "UgxdHQgx6hArm5ZCg4l4AaABAg.9RUYKz9bSY69RUf9Nk0cp5",
+      "snippet": {
+        "textDisplay": "\ud83d\ude05",
+        "textOriginal": "\ud83d\ude05",
+        "parentId": "UgxdHQgx6hArm5ZCg4l4AaABAg",
+        "authorDisplayName": "Melhores Destinos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/jq-ccX4x35VN6HlJDq3s-4aMoyNrL91zbGAFPlnsyg76BUzKl4NJxVbHJxBkKqsU7_Momm_XfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWN45XZWIlZoUeohfqiyURA",
+        "authorChannelId": {
+          "value": "UCWN45XZWIlZoUeohfqiyURA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-26T00:51:05Z",
+        "updatedAt": "2021-08-26T00:51:05Z"
+      }
+    }
+  ]
+}

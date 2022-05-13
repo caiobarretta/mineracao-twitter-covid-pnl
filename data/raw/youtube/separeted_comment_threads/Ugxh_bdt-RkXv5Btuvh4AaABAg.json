@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vYvgfdJaPmDDrq2eDd5AuZsfjkg",
+  "id": "Ugxh_bdt-RkXv5Btuvh4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VzfukHPEJ8Ea0o7_HYEiD4eYMVI",
+      "id": "Ugxh_bdt-RkXv5Btuvh4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "Essa m\u00fasica diz tudo o que rola no Brasil",
+        "textOriginal": "Essa m\u00fasica diz tudo o que rola no Brasil",
+        "authorDisplayName": "Henry de Campos Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBMDDQ2J5XhkM6aPG-YSo3PuMioU64azivPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2hI0dleJEOnk_NrSXmIVmQ",
+        "authorChannelId": {
+          "value": "UC2hI0dleJEOnk_NrSXmIVmQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-20T21:22:44Z",
+        "updatedAt": "2020-03-20T21:22:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JpDsj-L0zSLFX544Pn_idGTi3Fc",
+      "id": "Ugxh_bdt-RkXv5Btuvh4AaABAg.96RbZgR1QSb96RdeOrJlFd",
+      "snippet": {
+        "textDisplay": "Espalhe a mensagem \ud83e\udd1c\ud83d\udca5\ud83e\udd1b",
+        "textOriginal": "Espalhe a mensagem \ud83e\udd1c\ud83d\udca5\ud83e\udd1b",
+        "parentId": "Ugxh_bdt-RkXv5Btuvh4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-20T21:40:59Z",
+        "updatedAt": "2020-03-20T21:40:59Z"
+      }
+    }
+  ]
+}

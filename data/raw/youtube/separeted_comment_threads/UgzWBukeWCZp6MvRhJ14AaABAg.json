@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dOD3IuDbWbQquX7J3EzttKNHGBs",
+  "id": "UgzWBukeWCZp6MvRhJ14AaABAg",
+  "snippet": {
+    "videoId": "1AlEJClA3rQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Iqhesr4cqc_3TXAPVIVmc_HjfhI",
+      "id": "UgzWBukeWCZp6MvRhJ14AaABAg",
+      "snippet": {
+        "videoId": "1AlEJClA3rQ",
+        "textDisplay": "Excelente aula,muito completa\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "Excelente aula,muito completa\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "authorDisplayName": "Ellen Shelda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnlZ4_1k93kKxUwBaTdIZV0r4UhmBXcYLzwJVJzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8KYihAvMdA4aynokAYhCxg",
+        "authorChannelId": {
+          "value": "UC8KYihAvMdA4aynokAYhCxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-11T00:35:47Z",
+        "updatedAt": "2022-04-11T00:35:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-NtZu23dm_mmJMWMGVLPxqLttt8",
+      "id": "UgzWBukeWCZp6MvRhJ14AaABAg.9_eidj_OVcO9aN7m05AHKR",
+      "snippet": {
+        "textDisplay": "Muito obrigado! \ud83d\ude0a",
+        "textOriginal": "Muito obrigado! \ud83d\ude0a",
+        "parentId": "UgzWBukeWCZp6MvRhJ14AaABAg",
+        "authorDisplayName": "C\u00f3digo da Vida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvfpX3s_Gx1ZPPPiRAUn8EB37dC1Marf4Gl35U1YQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvZ0I3zZ9meE-bGlNhreF-A",
+        "authorChannelId": {
+          "value": "UCvZ0I3zZ9meE-bGlNhreF-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-28T15:49:55Z",
+        "updatedAt": "2022-04-28T15:49:55Z"
+      }
+    }
+  ]
+}

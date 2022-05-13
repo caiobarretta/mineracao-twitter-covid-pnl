@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bK_ZnZuS5gJfMNtnjCOYcRSVMjE",
+  "id": "Ugx4Fx29ZC9e5BjZhi94AaABAg",
+  "snippet": {
+    "videoId": "gF0BopSNGjE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qJjD_sKp3kH4DtyD8k3DeYPFhcs",
+      "id": "Ugx4Fx29ZC9e5BjZhi94AaABAg",
+      "snippet": {
+        "videoId": "gF0BopSNGjE",
+        "textDisplay": "gostei do som de fundo da TV",
+        "textOriginal": "gostei do som de fundo da TV",
+        "authorDisplayName": "blackuzz997",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5Tbd9YKRw417r8EqiE9lCLnXVDSv8ZD4Td5NA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-WCDYNDPW3V888i0LY_Gxg",
+        "authorChannelId": {
+          "value": "UC-WCDYNDPW3V888i0LY_Gxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-11-25T14:24:35Z",
+        "updatedAt": "2020-11-25T14:24:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YTp_VCWoNgnhAKrd9YFtK0Croiw",
+      "id": "Ugx4Fx29ZC9e5BjZhi94AaABAg.9GUaRm5pXBa9aLFZdSJ4R7",
+      "snippet": {
+        "textDisplay": "Tbm kkk",
+        "textOriginal": "Tbm kkk",
+        "parentId": "Ugx4Fx29ZC9e5BjZhi94AaABAg",
+        "authorDisplayName": "Docinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/L2lCLdHDin5IrJAwFU0WSnlm0y-_Sz77Y7VZZVO2skiibY-I_RnzO_-WjxXk6N0iAxqugoTj7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCooQ6ngyzfxgI1-Is06W_qg",
+        "authorChannelId": {
+          "value": "UCooQ6ngyzfxgI1-Is06W_qg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-27T22:19:31Z",
+        "updatedAt": "2022-04-27T22:19:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gGWXyvotiMqW7yBzUTmE2vI7bBE",
+  "id": "UgwHqzRphIlv2kogyMh4AaABAg",
+  "snippet": {
+    "videoId": "_GKse_BCAWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3cx8fqmWSKHKE30r7gJxWNVDaKo",
+      "id": "UgwHqzRphIlv2kogyMh4AaABAg",
+      "snippet": {
+        "videoId": "_GKse_BCAWU",
+        "textDisplay": "Meu nome \u00e9 Angelikka Moon-Light!",
+        "textOriginal": "Meu nome \u00e9 Angelikka Moon-Light!",
+        "authorDisplayName": "Talita Kharys",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMKo3-ap6Ug_cPQtG62KWAyS7yw9bLV0LySQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcpGr5vdRa79cAZG5LH93sA",
+        "authorChannelId": {
+          "value": "UCcpGr5vdRa79cAZG5LH93sA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-08T18:29:42Z",
+        "updatedAt": "2020-09-08T18:29:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CnrcLp8n6nfS-AG-23vNOQvIwZQ",
+      "id": "UgwHqzRphIlv2kogyMh4AaABAg.9DMBUsl8ykM9QMx7auuOJ0",
+      "snippet": {
+        "textDisplay": "SUS",
+        "textOriginal": "SUS",
+        "parentId": "UgwHqzRphIlv2kogyMh4AaABAg",
+        "authorDisplayName": "seven apenas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/JEQ9LjqR97jrkxf220AkLmPwm903e7Ec21wSiN9u7sQWD1z7lIq_zottyOx7P0hYJPwbtB2k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMHVf6TUiBnpxm77Q7KkMzQ",
+        "authorChannelId": {
+          "value": "UCMHVf6TUiBnpxm77Q7KkMzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-29T04:22:49Z",
+        "updatedAt": "2021-07-29T04:22:49Z"
+      }
+    }
+  ]
+}

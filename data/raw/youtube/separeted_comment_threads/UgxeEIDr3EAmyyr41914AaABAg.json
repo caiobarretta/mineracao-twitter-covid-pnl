@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AbmT7tfz84FyJahTqVGGJ_LFKAg",
+  "id": "UgxeEIDr3EAmyyr41914AaABAg",
+  "snippet": {
+    "videoId": "xVE5Q4ofKBo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OfLplECPEqMTk9mU79zQT0oiTUA",
+      "id": "UgxeEIDr3EAmyyr41914AaABAg",
+      "snippet": {
+        "videoId": "xVE5Q4ofKBo",
+        "textDisplay": "Cada gera\u00e7\u00e3o tem suas responsabilidades.",
+        "textOriginal": "Cada gera\u00e7\u00e3o tem suas responsabilidades.",
+        "authorDisplayName": "Everardo Aguiar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgTtp9YdJ3SfbsWZ46v5uMcWlIfkatfEvpgCyCCQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNhuHzySfFn4WTJGC5523SA",
+        "authorChannelId": {
+          "value": "UCNhuHzySfFn4WTJGC5523SA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-07-06T20:20:40Z",
+        "updatedAt": "2021-07-06T20:20:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pXLk7POuSr99ji9kBxphgLoSnMM",
+      "id": "UgxeEIDr3EAmyyr41914AaABAg.9PTRT0TWDg39PTzH_1KcU-",
+      "snippet": {
+        "textDisplay": "Com certeza, Everardo",
+        "textOriginal": "Com certeza, Everardo",
+        "parentId": "UgxeEIDr3EAmyyr41914AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-07T01:24:56Z",
+        "updatedAt": "2021-07-07T01:24:56Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kR-EAdN2WCaPhzv-FloWo8URWkw",
+  "id": "UgwXYk5PUTsNwj3O-tV4AaABAg",
+  "snippet": {
+    "videoId": "zUIkhvdHHYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UXEgOX6N5e4y2hJhKLV5yA1zlE4",
+      "id": "UgwXYk5PUTsNwj3O-tV4AaABAg",
+      "snippet": {
+        "videoId": "zUIkhvdHHYE",
+        "textDisplay": "Oiiiiii",
+        "textOriginal": "Oiiiiii",
+        "authorDisplayName": "eduarda Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2NwzSNfvtyco3qcWz0dfjoMySD3R8nT-VRxSa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCP9LCsOIHEeUv4BDIb49Tow",
+        "authorChannelId": {
+          "value": "UCP9LCsOIHEeUv4BDIb49Tow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-23T23:57:49Z",
+        "updatedAt": "2020-07-23T23:57:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "c0H8Qgf9o8L0oq7mXBGiF0Db5Fo",
+      "id": "UgwXYk5PUTsNwj3O-tV4AaABAg.9BTkfzDk2dB9BUjJyBA0F0",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o obrigado por nos acompanhar estamos te aguardando",
+        "textOriginal": "Um abra\u00e7o obrigado por nos acompanhar estamos te aguardando",
+        "parentId": "UgwXYk5PUTsNwj3O-tV4AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-24T09:05:11Z",
+        "updatedAt": "2020-07-24T09:05:11Z"
+      }
+    }
+  ]
+}

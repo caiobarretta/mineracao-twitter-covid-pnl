@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "v4jzRwu5jVhYvfnZjDJDEQKkQAU",
+  "id": "UgwiwdK-_oi4WSvslXl4AaABAg",
+  "snippet": {
+    "videoId": "QgK8MD_4a8M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q4rsqZuIdqGMi2uF2hvvw4Kp2F0",
+      "id": "UgwiwdK-_oi4WSvslXl4AaABAg",
+      "snippet": {
+        "videoId": "QgK8MD_4a8M",
+        "textDisplay": "Companheiro M\u00e1rcio \u00e9 s\u00f3 coment\u00e1rios pertinentes.",
+        "textOriginal": "Companheiro M\u00e1rcio \u00e9 s\u00f3 coment\u00e1rios pertinentes.",
+        "authorDisplayName": "Jesus era hum_mano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMf6eF0EPtuN5IBsk6kFigyiULn5s3xzwrJlmtX9c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjs2hC8lYj0dBBJEHhjIspA",
+        "authorChannelId": {
+          "value": "UCjs2hC8lYj0dBBJEHhjIspA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T14:03:16Z",
+        "updatedAt": "2022-05-11T14:03:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bUyBqJ_UniTxrvsVtq2nfwCrtmE",
+      "id": "UgwiwdK-_oi4WSvslXl4AaABAg.9atPuETMBK99ataYVv7u_z",
+      "snippet": {
+        "textDisplay": "acho que ele interrompe muito",
+        "textOriginal": "acho que ele interrompe muito",
+        "parentId": "UgwiwdK-_oi4WSvslXl4AaABAg",
+        "authorDisplayName": "Ao Vivo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMMf11zmGC_1LTbg7mEgzm04sckvnzvsvuiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCes5x-svEamIXuFeQhH31xg",
+        "authorChannelId": {
+          "value": "UCes5x-svEamIXuFeQhH31xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T15:45:01Z",
+        "updatedAt": "2022-05-11T15:45:01Z"
+      }
+    }
+  ]
+}

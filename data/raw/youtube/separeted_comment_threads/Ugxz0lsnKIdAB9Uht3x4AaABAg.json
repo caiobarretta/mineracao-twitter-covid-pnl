@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "J44EVTweirhA_-enL1Dg-y_REoY",
+  "id": "Ugxz0lsnKIdAB9Uht3x4AaABAg",
+  "snippet": {
+    "videoId": "XBObzS9NiyQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RKSQ1AclNp13HcrfBM1rYS1VvBw",
+      "id": "Ugxz0lsnKIdAB9Uht3x4AaABAg",
+      "snippet": {
+        "videoId": "XBObzS9NiyQ",
+        "textDisplay": "Muito obrigado pela ajuda, que voc\u00ea seja sempre aben\u00e7oado, parab\u00e9ns pela iniciativa.",
+        "textOriginal": "Muito obrigado pela ajuda, que voc\u00ea seja sempre aben\u00e7oado, parab\u00e9ns pela iniciativa.",
+        "authorDisplayName": "Rodrigo Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBlGBiBirPdUrdzbzzfr80JBybzS2JayAoVBDfKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGdkupCCNh04is-cUXWlt_w",
+        "authorChannelId": {
+          "value": "UCGdkupCCNh04is-cUXWlt_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-10-19T00:55:06Z",
+        "updatedAt": "2020-10-19T00:55:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PcgXja1bOLEBFFLvhFjpG9LfHdM",
+      "id": "Ugxz0lsnKIdAB9Uht3x4AaABAg.9EysOb5km9A9EysU-mZrfx",
+      "snippet": {
+        "textDisplay": "valeu! estamos juntos.",
+        "textOriginal": "valeu! estamos juntos.",
+        "parentId": "Ugxz0lsnKIdAB9Uht3x4AaABAg",
+        "authorDisplayName": "J.A dicas para cursos & concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-TMsn0S5Ux-2sEbYqWKjri4WLJjQEjahya-SdRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTBbET8WDw24H9ICyuc9WCA",
+        "authorChannelId": {
+          "value": "UCTBbET8WDw24H9ICyuc9WCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-19T00:55:50Z",
+        "updatedAt": "2020-10-19T00:55:50Z"
+      }
+    }
+  ]
+}

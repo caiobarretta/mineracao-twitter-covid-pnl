@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_XYYvT8o2u6aB0dgFN_7ZiZ-eTE",
+  "id": "Ugxw6mlc_B9YFIwsvPZ4AaABAg",
+  "snippet": {
+    "videoId": "Eh-ORojjpyw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "frbq5Gxz77OiCtZcdJTGp47fvII",
+      "id": "Ugxw6mlc_B9YFIwsvPZ4AaABAg",
+      "snippet": {
+        "videoId": "Eh-ORojjpyw",
+        "textDisplay": "Parab\u00e9ns professor, \u00f3timo v\u00eddeo mais uma vez",
+        "textOriginal": "Parab\u00e9ns professor, \u00f3timo v\u00eddeo mais uma vez",
+        "authorDisplayName": "Sara Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlHPwe8AelWWXVFr80t_Zm-Zl4HBgvuhk1HSFRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTSxAiTD7SON0ntcGehx9Fw",
+        "authorChannelId": {
+          "value": "UCTSxAiTD7SON0ntcGehx9Fw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-22T15:55:29Z",
+        "updatedAt": "2020-03-22T15:55:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yasLp0Guwr8WQIgY8M1uT_aVVJ0",
+      "id": "Ugxw6mlc_B9YFIwsvPZ4AaABAg.96WAhbrcgft96Ws2or9Aut",
+      "snippet": {
+        "textDisplay": "Gostei",
+        "textOriginal": "Gostei",
+        "parentId": "Ugxw6mlc_B9YFIwsvPZ4AaABAg",
+        "authorDisplayName": "Adineuza Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/qdBzEbvy9uICesZBnKTxapcmFBvz22hF6H1FUFXBHlgsn8GnCdCqGzP5ZItW3xM0IbB8rKetIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8yUVOLL6bD65fGJeICVpbw",
+        "authorChannelId": {
+          "value": "UC8yUVOLL6bD65fGJeICVpbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-22T22:22:59Z",
+        "updatedAt": "2020-03-22T22:22:59Z"
+      }
+    }
+  ]
+}

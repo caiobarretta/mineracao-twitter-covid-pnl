@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NiFzRG_GUeYxXeE8g5yxQad8Dpo",
+  "id": "UgzuAaMSCU6oJOmrnQJ4AaABAg",
+  "snippet": {
+    "videoId": "FXXQZ74JlW8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "acJ24x2L9JBFapE3Z5zls6Zl-No",
+      "id": "UgzuAaMSCU6oJOmrnQJ4AaABAg",
+      "snippet": {
+        "videoId": "FXXQZ74JlW8",
+        "textDisplay": "Cad\u00ea o link para avalia\u00e7\u00e3o? Para  conseguir o certificado",
+        "textOriginal": "Cad\u00ea o link para avalia\u00e7\u00e3o? Para  conseguir o certificado",
+        "authorDisplayName": "Diele Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT19a-zSh-ShYdLJklr1aptHeIuH__pLlBbJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiJ9lAvo-HiIzg9LBehuXOw",
+        "authorChannelId": {
+          "value": "UCiJ9lAvo-HiIzg9LBehuXOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-31T01:28:03Z",
+        "updatedAt": "2020-07-31T01:28:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s-ntzsO-te-5iSfKRG2GFtLci24",
+      "id": "UgzuAaMSCU6oJOmrnQJ4AaABAg.9Bkw_0BdwCT9BmNGB7gEml",
+      "snippet": {
+        "textDisplay": "Brevemente estaremos postando.",
+        "textOriginal": "Brevemente estaremos postando.",
+        "parentId": "UgzuAaMSCU6oJOmrnQJ4AaABAg",
+        "authorDisplayName": "Higiene Consultoria e Treinamento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR12Rj-_O106S2QBpeaJxep3llVDKavCIxg-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ2AbbTgvUNdYM23Qjht-bQ",
+        "authorChannelId": {
+          "value": "UCJ2AbbTgvUNdYM23Qjht-bQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-31T14:49:15Z",
+        "updatedAt": "2020-07-31T14:49:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BAmBXotiXLXOR0C6DLAPRS4krZA",
+  "id": "UgxHpgP95KDSITvFpCF4AaABAg",
+  "snippet": {
+    "videoId": "6avdJ2bW9UE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mSWG5zP8Dh8iv9bzZVD3kI5JV88",
+      "id": "UgxHpgP95KDSITvFpCF4AaABAg",
+      "snippet": {
+        "videoId": "6avdJ2bW9UE",
+        "textDisplay": "\u00d3tima aula!",
+        "textOriginal": "\u00d3tima aula!",
+        "authorDisplayName": "Carla Regina Farias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRoZweFGXU3IZaQwMbBzJi6SM3f70wcILQ4qiPewA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2pjs2hC2Ms7bYoln3jZVmg",
+        "authorChannelId": {
+          "value": "UC2pjs2hC2Ms7bYoln3jZVmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-09-01T14:17:16Z",
+        "updatedAt": "2020-09-01T14:17:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zY0w91XnM4lzMRlDbkPr8XsOZ8g",
+      "id": "UgxHpgP95KDSITvFpCF4AaABAg.9D3i1sPhmTp9D6Iu3TiG9F",
+      "snippet": {
+        "textDisplay": "Obrigada. Que bom que gostou",
+        "textOriginal": "Obrigada. Que bom que gostou",
+        "parentId": "UgxHpgP95KDSITvFpCF4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-02T14:26:35Z",
+        "updatedAt": "2020-09-02T14:26:35Z"
+      }
+    }
+  ]
+}

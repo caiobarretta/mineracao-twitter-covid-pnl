@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Lv8Qc34zn96o5jEMklk5t4u-H64",
+  "id": "UgxMuk2b0agt4K4BuhN4AaABAg",
+  "snippet": {
+    "videoId": "cdMn61RlWjE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Z3o3LMo-jqMYYKG1bydRoDKI5X0",
+      "id": "UgxMuk2b0agt4K4BuhN4AaABAg",
+      "snippet": {
+        "videoId": "cdMn61RlWjE",
+        "textDisplay": "Show! Top! Top! Top! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Show! Top! Top! Top! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Bernad Fraga",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9k59-I9IrQ9P6kypcWxWceLckjVF9WX_ezq03Pg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMiZXzSzQ07nj_WlrIHQbFQ",
+        "authorChannelId": {
+          "value": "UCMiZXzSzQ07nj_WlrIHQbFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-07T23:02:51Z",
+        "updatedAt": "2020-08-07T23:02:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Sqd53t6oqjxjF20vrVT55haBIEU",
+      "id": "UgxMuk2b0agt4K4BuhN4AaABAg.9C4HJVKkoHb9C4Z8Ie_lvI",
+      "snippet": {
+        "textDisplay": "Obrigada!!!!",
+        "textOriginal": "Obrigada!!!!",
+        "parentId": "UgxMuk2b0agt4K4BuhN4AaABAg",
+        "authorDisplayName": "Biologia com a prof.\u00aa Jobeane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/fL8kcAZIAdvpbVLB2duXcxcPDpNeUAyjoBR71-ybjYrgAZ-brrfg6-B0isF_2BE_VfWf0JTj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkBDS56zqLnSw823Udz4cMg",
+        "authorChannelId": {
+          "value": "UCkBDS56zqLnSw823Udz4cMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-08T01:38:36Z",
+        "updatedAt": "2020-08-08T01:38:36Z"
+      }
+    }
+  ]
+}

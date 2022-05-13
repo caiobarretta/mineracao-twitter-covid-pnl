@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7bsAbRQ4wA8xyX-l9YcCKAR3jcI",
+  "id": "UgzSYS_yOWkMlx9vCw54AaABAg",
+  "snippet": {
+    "videoId": "LHQb2UpnJC0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TpyvwBlOa45OW8V2zAJXEzsa99U",
+      "id": "UgzSYS_yOWkMlx9vCw54AaABAg",
+      "snippet": {
+        "videoId": "LHQb2UpnJC0",
+        "textDisplay": "*UOL \u00c9 A GLOBO NO YOUTUBE, POR\u00c9M AQUI \u00c9 MAIS DIF\u00cdCIL DE MANIPULAR A SITUA\u00c7\u00c3O VIU!*",
+        "textOriginal": "*UOL \u00c9 A GLOBO NO YOUTUBE, POR\u00c9M AQUI \u00c9 MAIS DIF\u00cdCIL DE MANIPULAR A SITUA\u00c7\u00c3O VIU!*",
+        "authorDisplayName": "Jhonata Rezende",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t2r1i6OUhZcDt9jANDlmJYsb_eARNTHKlWwFpLUYNnqsvSK5BLg_fUV8iRFAC2IkuIO_MkGCkg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy5EQdxQ3ybnPb0J0gxNwfg",
+        "authorChannelId": {
+          "value": "UCy5EQdxQ3ybnPb0J0gxNwfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-19T01:07:28Z",
+        "updatedAt": "2021-03-19T01:07:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hdyQJhSsMwVjpEpHdPbvGOfCZIU",
+      "id": "UgzSYS_yOWkMlx9vCw54AaABAg.9L2hqJldtz_9L3Pnf7qcYp",
+      "snippet": {
+        "textDisplay": "Gado",
+        "textOriginal": "Gado",
+        "parentId": "UgzSYS_yOWkMlx9vCw54AaABAg",
+        "authorDisplayName": "Lucas Vieira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xf88o83CFY2epkyRq6O94HxbEZiyqalGgdmRulueVuoPb4ivs7xleJTBeXYT65Gg58Pa1x317g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQwRywPa0nGCQR1_kP2imtA",
+        "authorChannelId": {
+          "value": "UCQwRywPa0nGCQR1_kP2imtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-19T07:40:19Z",
+        "updatedAt": "2021-03-19T07:40:19Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "VSgzAPpURmyFZBiXvt0yaGiw2SY",
+      "id": "UgzSYS_yOWkMlx9vCw54AaABAg.9L2hqJldtz_9L39aGUDRAw",
+      "snippet": {
+        "textDisplay": "Gado",
+        "textOriginal": "Gado",
+        "parentId": "UgzSYS_yOWkMlx9vCw54AaABAg",
+        "authorDisplayName": "Outro Cara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PmDjKJIfk566C3WFhg8cfJLnpS7drr0IZpe3BIEuys7I2B5BO1gl992KlX6U0w3-CknpskAmlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeo16feBM4nPie0QVJR8Qnw",
+        "authorChannelId": {
+          "value": "UCeo16feBM4nPie0QVJR8Qnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-19T05:18:41Z",
+        "updatedAt": "2021-03-19T05:18:41Z"
+      }
+    }
+  ]
+}

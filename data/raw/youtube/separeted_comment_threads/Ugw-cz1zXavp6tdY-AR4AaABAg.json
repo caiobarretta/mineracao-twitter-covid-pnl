@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M7KQ6Zww02HxlZRcQlV_CnA0MzU",
+  "id": "Ugw-cz1zXavp6tdY-AR4AaABAg",
+  "snippet": {
+    "videoId": "RGsWYU7TIFw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "01CnYzIZRjdhaMl4Et0lnWqjjlM",
+      "id": "Ugw-cz1zXavp6tdY-AR4AaABAg",
+      "snippet": {
+        "videoId": "RGsWYU7TIFw",
+        "textDisplay": "Comente PR subir nos v\u00eddeos em alta",
+        "textOriginal": "Comente PR subir nos v\u00eddeos em alta",
+        "authorDisplayName": "Diego BOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRP7YkeH7rchzSWqAa89iUGgeGIK4s75jywNlB47w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCHkRRj5kUPHEwK_Ru5M1RA",
+        "authorChannelId": {
+          "value": "UCCHkRRj5kUPHEwK_Ru5M1RA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-11T14:58:46Z",
+        "updatedAt": "2022-05-11T14:58:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TwEKPlhQZQ0f4W4P5KOx7Isybkk",
+      "id": "Ugw-cz1zXavp6tdY-AR4AaABAg.9atWFfvDg279auwyIopCkz",
+      "snippet": {
+        "textDisplay": "O que significa PR?",
+        "textOriginal": "O que significa PR?",
+        "parentId": "Ugw-cz1zXavp6tdY-AR4AaABAg",
+        "authorDisplayName": "\u00c9rica Enf.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/SOtRWpIfdA70Ukg3VZcH6ybZWtFHQH3y8NZd27awvP_Lp-adpd9ybFil0ekAbiZeeR8rIBzI9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsJjA9q58YdyMIlVUjv2FkA",
+        "authorChannelId": {
+          "value": "UCsJjA9q58YdyMIlVUjv2FkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T04:20:10Z",
+        "updatedAt": "2022-05-12T04:20:10Z"
+      }
+    }
+  ]
+}

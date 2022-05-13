@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1uCE5oxKw3Z4LwvU9McYO17HCP4",
+  "id": "UgyHjwKn1H7tutIkhQt4AaABAg",
+  "snippet": {
+    "videoId": "-FZsBAVZoVs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6Eag9eyh0klW9kcMYjR7XCCY0CI",
+      "id": "UgyHjwKn1H7tutIkhQt4AaABAg",
+      "snippet": {
+        "videoId": "-FZsBAVZoVs",
+        "textDisplay": "Muito bomm!!",
+        "textOriginal": "Muito bomm!!",
+        "authorDisplayName": "gigliane joice",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSJwQJBXcyDbP4d-VKqI22lqzVxm8G96lcS7Ww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAm7Z-EqJa1joaG8GT7o47A",
+        "authorChannelId": {
+          "value": "UCAm7Z-EqJa1joaG8GT7o47A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-23T16:30:17Z",
+        "updatedAt": "2020-07-23T16:30:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tc2B3uOh5DcLM5N839DygwrzIZw",
+      "id": "UgyHjwKn1H7tutIkhQt4AaABAg.9BSxT5Gor1H9BZ6gDmDTyw",
+      "snippet": {
+        "textDisplay": "Que bom que gostou! Obrigada",
+        "textOriginal": "Que bom que gostou! Obrigada",
+        "parentId": "UgyHjwKn1H7tutIkhQt4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-26T01:55:02Z",
+        "updatedAt": "2020-07-26T01:55:02Z"
+      }
+    }
+  ]
+}

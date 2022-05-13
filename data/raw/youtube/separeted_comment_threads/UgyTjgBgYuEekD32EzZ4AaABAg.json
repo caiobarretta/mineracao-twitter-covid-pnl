@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IbFv1sxTOMMIoN-TciHjbxQKxuo",
+  "id": "UgyTjgBgYuEekD32EzZ4AaABAg",
+  "snippet": {
+    "videoId": "MfYZcYpp3sQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YYUI85TRfYLhqGffjIe93_kIJRk",
+      "id": "UgyTjgBgYuEekD32EzZ4AaABAg",
+      "snippet": {
+        "videoId": "MfYZcYpp3sQ",
+        "textDisplay": "Esse povo s\u00e3o uns pisicopata como voc\u00eas sabem que eles tem uma forma de coroa",
+        "textOriginal": "Esse povo s\u00e3o uns pisicopata como voc\u00eas sabem que eles tem uma forma de coroa",
+        "authorDisplayName": "Maria Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ6qy1L-L9cERvlS1ysp1Wd_rgFLXNzLeocQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdcMsXnacpr0aD-jBXy6-Vg",
+        "authorChannelId": {
+          "value": "UCdcMsXnacpr0aD-jBXy6-Vg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-17T01:32:32Z",
+        "updatedAt": "2020-03-17T01:32:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QYGT1SUBvrhbTpHLjMA4U0fOnMk",
+      "id": "UgyTjgBgYuEekD32EzZ4AaABAg.96HkymF74_Q96IpSf7cQEe",
+      "snippet": {
+        "textDisplay": "J\u00e1 ouviu falar em microsc\u00f3pio ?",
+        "textOriginal": "J\u00e1 ouviu falar em microsc\u00f3pio ?",
+        "parentId": "UgyTjgBgYuEekD32EzZ4AaABAg",
+        "authorDisplayName": "Empire of Brazil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6MA2B0AfSqjaTAsB-h10fHPLOS6UeuNYRdCCBsA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXdJNoslWbN_iK7fzaxWReA",
+        "authorChannelId": {
+          "value": "UCXdJNoslWbN_iK7fzaxWReA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-17T11:30:56Z",
+        "updatedAt": "2020-03-17T11:30:56Z"
+      }
+    }
+  ]
+}

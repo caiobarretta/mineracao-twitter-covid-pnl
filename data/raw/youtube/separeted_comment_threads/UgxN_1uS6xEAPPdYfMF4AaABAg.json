@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yyl1g564oV0t8uECvIlEhcPINk8",
+  "id": "UgxN_1uS6xEAPPdYfMF4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U7bAP0DJj3TnUc9tnCTwSuYg3sE",
+      "id": "UgxN_1uS6xEAPPdYfMF4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "\u00d3tima ideia para aplicativo \ud83d\udc4f",
+        "textOriginal": "\u00d3tima ideia para aplicativo \ud83d\udc4f",
+        "authorDisplayName": "MrSplube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiUurRBC5f3IX5RIIqrcDy0G-6LpJXXo7JJEAYcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4eOtT-Bg_MLO5o9ZjJ8mjw",
+        "authorChannelId": {
+          "value": "UC4eOtT-Bg_MLO5o9ZjJ8mjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2018-08-29T20:35:10Z",
+        "updatedAt": "2018-08-29T20:35:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "36Q_AWgegHxusSOtJAupuWKX_TI",
+      "id": "UgxN_1uS6xEAPPdYfMF4AaABAg.8kYOoUzab_d8kZ-MNpqzqx",
+      "snippet": {
+        "textDisplay": "Lauro moreno",
+        "textOriginal": "Lauro moreno",
+        "parentId": "UgxN_1uS6xEAPPdYfMF4AaABAg",
+        "authorDisplayName": "Vanda Franco",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_wpzpxSypJ6B2IkEx6y4a-o-oujo0ZqLzTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeVP9GrzBIqVkd4U_p5lQwA",
+        "authorChannelId": {
+          "value": "UCeVP9GrzBIqVkd4U_p5lQwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-08-30T02:11:59Z",
+        "updatedAt": "2018-08-30T02:11:59Z"
+      }
+    }
+  ]
+}

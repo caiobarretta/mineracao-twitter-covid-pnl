@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C2q8bCJzidmDJlOolUzjaJUoV1s",
+  "id": "Ugza8rE3XtUjGiQgq994AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "S5t7t9UqoGgLZQ8sNO0VNErrPqc",
+      "id": "Ugza8rE3XtUjGiQgq994AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Parab\u00e9ns pelo conte\u00fado, muito did\u00e1tico. Obrigado",
+        "textOriginal": "Parab\u00e9ns pelo conte\u00fado, muito did\u00e1tico. Obrigado",
+        "authorDisplayName": "Alvaro Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbe33sTiD9VZ_xZBXjYTRyAOFt4yWQ5Tim_wo2bg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjaReCZ8qdgIBlbO_NHylLA",
+        "authorChannelId": {
+          "value": "UCjaReCZ8qdgIBlbO_NHylLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T16:12:55Z",
+        "updatedAt": "2020-04-11T16:12:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hQZE88JKP82KtVgajXWRFUIJPSg",
+      "id": "Ugza8rE3XtUjGiQgq994AaABAg.97JhakLpNzQ97Jw0vb_pGH",
+      "snippet": {
+        "textDisplay": "Valeu Alvaro. Agrade\u00e7o sua aten\u00e7\u00e3o",
+        "textOriginal": "Valeu Alvaro. Agrade\u00e7o sua aten\u00e7\u00e3o",
+        "parentId": "Ugza8rE3XtUjGiQgq994AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T18:18:57Z",
+        "updatedAt": "2020-04-11T18:18:57Z"
+      }
+    }
+  ]
+}

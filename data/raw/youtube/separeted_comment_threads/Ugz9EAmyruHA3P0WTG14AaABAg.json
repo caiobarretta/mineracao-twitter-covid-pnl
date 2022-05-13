@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "77B6Xi9jjkYYXBdwovxPsZTY-v0",
+  "id": "Ugz9EAmyruHA3P0WTG14AaABAg",
+  "snippet": {
+    "videoId": "iTuUxplg3ik",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qqq1HacwTS6u8X-JAOM5bNhYkhk",
+      "id": "Ugz9EAmyruHA3P0WTG14AaABAg",
+      "snippet": {
+        "videoId": "iTuUxplg3ik",
+        "textDisplay": "Gostei muito",
+        "textOriginal": "Gostei muito",
+        "authorDisplayName": "Otako",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TOdt-wXXTC-_XwGyZccXLgJtCyQB_TTxB_Lz-y_4HB-QIIdwLXGikpRnP9hgWH8K2b62EOI65g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQueWMknt4XR2NiiRfu0swA",
+        "authorChannelId": {
+          "value": "UCQueWMknt4XR2NiiRfu0swA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-08T17:12:15Z",
+        "updatedAt": "2021-06-08T17:12:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "60mdLZHSr86rLPoYKjHakIox7_A",
+      "id": "Ugz9EAmyruHA3P0WTG14AaABAg.9OL-dSxt-RJ9OShxpTkJOj",
+      "snippet": {
+        "textDisplay": "Obrigado!",
+        "textOriginal": "Obrigado!",
+        "parentId": "Ugz9EAmyruHA3P0WTG14AaABAg",
+        "authorDisplayName": "Economia & Neg\u00f3cios",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpFbOdh9YG4N9yXivhMV3gAsDM8AaZsKt3VnQY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNtQyzQQVYnJo6nFM7shTqQ",
+        "authorChannelId": {
+          "value": "UCNtQyzQQVYnJo6nFM7shTqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-11T17:02:55Z",
+        "updatedAt": "2021-06-11T17:02:55Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qisZlT-8j3GRw4l8PAE2_ugu438",
+  "id": "Ugxw22ZE0a8ZN1kJ7214AaABAg",
+  "snippet": {
+    "videoId": "2dr_lvA79pI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TuXNmIaRXonkiwj7m0KrbzF7l_4",
+      "id": "Ugxw22ZE0a8ZN1kJ7214AaABAg",
+      "snippet": {
+        "videoId": "2dr_lvA79pI",
+        "textDisplay": "Muito bem explicado.",
+        "textOriginal": "Muito bem explicado.",
+        "authorDisplayName": "M.R. Dupim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZQpFrXcq1-cuZMowsP5riefy8KHLeCwafTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOEYggzu6tqG0I4ni2LYRLQ",
+        "authorChannelId": {
+          "value": "UCOEYggzu6tqG0I4ni2LYRLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-16T12:55:49Z",
+        "updatedAt": "2020-07-16T12:55:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HGBCjulq9caFP6dQrdaXGvVdTy8",
+      "id": "Ugxw22ZE0a8ZN1kJ7214AaABAg.9BAYMBTaSdu9BBUoOx5TA6",
+      "snippet": {
+        "textDisplay": "Muito obrigada. \u00c9 importante ir popularizando a ci\u00eancia, mas sem deixar de aprofundar no tema. Fico feliz com seu coment\u00e1rio!!!",
+        "textOriginal": "Muito obrigada. \u00c9 importante ir popularizando a ci\u00eancia, mas sem deixar de aprofundar no tema. Fico feliz com seu coment\u00e1rio!!!",
+        "parentId": "Ugxw22ZE0a8ZN1kJ7214AaABAg",
+        "authorDisplayName": "LinfoTube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8pXPzNLoKBcfdNMHh9RgEHszPTkq261vG7oU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eNzDPotkyhbk8jmqEDqEA",
+        "authorChannelId": {
+          "value": "UC2eNzDPotkyhbk8jmqEDqEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-16T21:44:05Z",
+        "updatedAt": "2020-07-16T21:44:05Z"
+      }
+    }
+  ]
+}

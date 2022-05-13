@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vMFrCm2calDerIlwdklQJtOMhqw",
+  "id": "UgxOiRavcQ8vXDqF22Z4AaABAg",
+  "snippet": {
+    "videoId": "B6d-r2kOGTU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q7k8dKzq9GjA8jEfe99na3GhbCk",
+      "id": "UgxOiRavcQ8vXDqF22Z4AaABAg",
+      "snippet": {
+        "videoId": "B6d-r2kOGTU",
+        "textDisplay": "Interessante para reflexao, nesse periodo de pandemia .",
+        "textOriginal": "Interessante para reflexao, nesse periodo de pandemia .",
+        "authorDisplayName": "Maria Amelia Gomes Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLciTbi1wgIncu90eeycXM2d_D2DNjSOsxag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi8g6bEe2IO4cdrLip6qnQA",
+        "authorChannelId": {
+          "value": "UCi8g6bEe2IO4cdrLip6qnQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-01T23:07:04Z",
+        "updatedAt": "2020-08-01T23:07:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EEA6PWqfD0BKuUtBFwVquJPx358",
+      "id": "UgxOiRavcQ8vXDqF22Z4AaABAg.9Bpq18DvMhL9Bq3kRcHvv3",
+      "snippet": {
+        "textDisplay": "SEm d\u00favida, Maria Am\u00e9lia. Obrigado.",
+        "textOriginal": "SEm d\u00favida, Maria Am\u00e9lia. Obrigado.",
+        "parentId": "UgxOiRavcQ8vXDqF22Z4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-02T01:15:43Z",
+        "updatedAt": "2020-08-02T01:15:43Z"
+      }
+    }
+  ]
+}

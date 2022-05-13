@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Pq-4qIGSfYVA0AF8U7T26CrehWQ",
+  "id": "UgxnNezyeYvt4h71SoJ4AaABAg",
+  "snippet": {
+    "videoId": "gIh6Agx0e90",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "C0rp-2EnbxNyKB4v4I2ngKeKOxA",
+      "id": "UgxnNezyeYvt4h71SoJ4AaABAg",
+      "snippet": {
+        "videoId": "gIh6Agx0e90",
+        "textDisplay": "Leida brilhando - como sempre!",
+        "textOriginal": "Leida brilhando - como sempre!",
+        "authorDisplayName": "Lorena Chaves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7aXRIAJepKadzovjxin4Epp37oGa8xWCl-4yKTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVZsMAL1W3seBzNwg--a_Tw",
+        "authorChannelId": {
+          "value": "UCVZsMAL1W3seBzNwg--a_Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-16T00:53:43Z",
+        "updatedAt": "2020-07-16T00:53:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jMgNZnUtN8rNXf4Q7sOOG0pGh60",
+      "id": "UgxnNezyeYvt4h71SoJ4AaABAg.9B9FiL-TpFC9BBUsvSxHCP",
+      "snippet": {
+        "textDisplay": "Que fofa! Muito obrigada. Fiquei muit\u00edssimo feliz com seu coment\u00e1rio. Beijo.",
+        "textOriginal": "Que fofa! Muito obrigada. Fiquei muit\u00edssimo feliz com seu coment\u00e1rio. Beijo.",
+        "parentId": "UgxnNezyeYvt4h71SoJ4AaABAg",
+        "authorDisplayName": "LinfoTube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8pXPzNLoKBcfdNMHh9RgEHszPTkq261vG7oU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eNzDPotkyhbk8jmqEDqEA",
+        "authorChannelId": {
+          "value": "UC2eNzDPotkyhbk8jmqEDqEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-16T21:44:42Z",
+        "updatedAt": "2020-07-16T21:44:42Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ST60SmDJHyIDeqInsgnSBzurV9Q",
+  "id": "UgyqElIpioJgMADmJ454AaABAg",
+  "snippet": {
+    "videoId": "nmZZVInMR28",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "x_f4ql3zOnLSOBFjgA5sT6Gqjv8",
+      "id": "UgyqElIpioJgMADmJ454AaABAg",
+      "snippet": {
+        "videoId": "nmZZVInMR28",
+        "textDisplay": "N\u00e3o precisa ter p\u00e2nico pois carnaval acabou agorinha, ja ja v\u00e3o ser milhares de infectados.",
+        "textOriginal": "N\u00e3o precisa ter p\u00e2nico pois carnaval acabou agorinha, ja ja v\u00e3o ser milhares de infectados.",
+        "authorDisplayName": "Fabio Vioti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbQ7O8vatgvjHVG1y49cB5_MSLY_CrJxKlSBvh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9vAn40D7gcqfqJ_MkJozQQ",
+        "authorChannelId": {
+          "value": "UC9vAn40D7gcqfqJ_MkJozQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-03-06T17:32:00Z",
+        "updatedAt": "2020-03-06T17:32:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "98gGNWVhfPaH8WJBxispftKOMLE",
+      "id": "UgyqElIpioJgMADmJ454AaABAg.95s91X3BzEN95sLdY_Fgmz",
+      "snippet": {
+        "textDisplay": "Assim seja!",
+        "textOriginal": "Assim seja!",
+        "parentId": "UgyqElIpioJgMADmJ454AaABAg",
+        "authorDisplayName": "Gil Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStcMhYjT9xx7nGdUpMShvECt6a7obGYFVjpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCP-o1z1Sp23vl4EdYgVqDhg",
+        "authorChannelId": {
+          "value": "UCP-o1z1Sp23vl4EdYgVqDhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-06T19:22:11Z",
+        "updatedAt": "2020-03-06T19:22:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nEXTQCTUBExElcT1auUF-q7M3Oo",
+  "id": "UgxXCFrIyWAkEHWOe994AaABAg",
+  "snippet": {
+    "videoId": "n0Y2zS-sz1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NonMUtLRw4a5XzMfeBL48KTmOqY",
+      "id": "UgxXCFrIyWAkEHWOe994AaABAg",
+      "snippet": {
+        "videoId": "n0Y2zS-sz1E",
+        "textDisplay": "#somos70%\n\ud83d\udc95AMOR e LUZ\ud83d\udc95",
+        "textOriginal": "#somos70%\n\ud83d\udc95AMOR e LUZ\ud83d\udc95",
+        "authorDisplayName": "Eduarda Farinha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRdQxShUJhRztxgX3DPMMQzLMxyji_b5Br6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSdP1X5ANiB2fT6Yz7oFN3A",
+        "authorChannelId": {
+          "value": "UCSdP1X5ANiB2fT6Yz7oFN3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-10-19T16:39:04Z",
+        "updatedAt": "2020-10-19T16:39:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "41KMQsAWYDIX0zW8smMx-nHo5Ng",
+      "id": "UgxXCFrIyWAkEHWOe994AaABAg.9F-ZQQIY30m9F843Kova2B",
+      "snippet": {
+        "textDisplay": "V4CHIN4 TAMBEM",
+        "textOriginal": "V4CHIN4 TAMBEM",
+        "parentId": "UgxXCFrIyWAkEHWOe994AaABAg",
+        "authorDisplayName": "Paulo Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMtnj-wYgqYI3Ln1DjVnwhWnCkl5yKO1yzktn7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbO7NPBRDlqcQBSQtDey9Cg",
+        "authorChannelId": {
+          "value": "UCbO7NPBRDlqcQBSQtDey9Cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-22T23:58:11Z",
+        "updatedAt": "2020-10-22T23:58:11Z"
+      }
+    }
+  ]
+}

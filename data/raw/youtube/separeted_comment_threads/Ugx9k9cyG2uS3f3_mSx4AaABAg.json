@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "viL1TgGMaJXxtCFxQlQLQESbTXE",
+  "id": "Ugx9k9cyG2uS3f3_mSx4AaABAg",
+  "snippet": {
+    "videoId": "n0Y2zS-sz1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LqC-XgGjHNU3qjgPhlDMZpwROnI",
+      "id": "Ugx9k9cyG2uS3f3_mSx4AaABAg",
+      "snippet": {
+        "videoId": "n0Y2zS-sz1E",
+        "textDisplay": "n\u00e3o adianta.",
+        "textOriginal": "n\u00e3o adianta.",
+        "authorDisplayName": "Abi Medsen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8wJDCsLM3UolsQnsqH3nv6La0pEjdjM5uTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJUndNuTZqCmKXl_nZ6cCtg",
+        "authorChannelId": {
+          "value": "UCJUndNuTZqCmKXl_nZ6cCtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-12T16:20:52Z",
+        "updatedAt": "2020-03-12T16:20:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wFoOf7grKWwKh54Z7A3r1EQLV78",
+      "id": "Ugx9k9cyG2uS3f3_mSx4AaABAg.966TelY03kK96V7IJSiCos",
+      "snippet": {
+        "textDisplay": "Abi realmente \u00f1 adianta",
+        "textOriginal": "Abi realmente \u00f1 adianta",
+        "parentId": "Ugx9k9cyG2uS3f3_mSx4AaABAg",
+        "authorDisplayName": "Mila santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQP5mTR96mUWappnGtEu934SCSnLvhDniVpAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFbdIP5dtlMb4d3Q4QaGVqg",
+        "authorChannelId": {
+          "value": "UCFbdIP5dtlMb4d3Q4QaGVqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-22T06:06:26Z",
+        "updatedAt": "2020-03-22T06:06:26Z"
+      }
+    }
+  ]
+}

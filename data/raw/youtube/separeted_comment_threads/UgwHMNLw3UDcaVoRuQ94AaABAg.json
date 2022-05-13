@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nWbZVulJ4jHJklBGI7RQgHgccMo",
+  "id": "UgwHMNLw3UDcaVoRuQ94AaABAg",
+  "snippet": {
+    "videoId": "-dhVhlzSBN4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FmdUolayK7kH1DQjv_Jcwn348eM",
+      "id": "UgwHMNLw3UDcaVoRuQ94AaABAg",
+      "snippet": {
+        "videoId": "-dhVhlzSBN4",
+        "textDisplay": "\u0645\u0639\u0631\u0641 \u0627\u0646\u062c\u0644\u064a\u0632 \ud83d\ude23\ud83d\ude23\ud83d\ude23\ud83d\ude23",
+        "textOriginal": "\u0645\u0639\u0631\u0641 \u0627\u0646\u062c\u0644\u064a\u0632 \ud83d\ude23\ud83d\ude23\ud83d\ude23\ud83d\ude23",
+        "authorDisplayName": "Queen Reff",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9yOQoUJ-YlhO7yzqwVj5nX0NQe-V5BSf-TQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcgd9IQRyD-ZzK8hRGsDMSQ",
+        "authorChannelId": {
+          "value": "UCcgd9IQRyD-ZzK8hRGsDMSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-09-26T22:07:25Z",
+        "updatedAt": "2020-09-26T22:07:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SzFOzL-BcLu2AhQFHePIxNDa-y8",
+      "id": "UgwHMNLw3UDcaVoRuQ94AaABAg.9E4viG_4sCz9E59KS8k8bz",
+      "snippet": {
+        "textDisplay": "\u0634\u0643\u0631\u0627 \u062c\u0632\u064a\u0644\u0627",
+        "textOriginal": "\u0634\u0643\u0631\u0627 \u062c\u0632\u064a\u0644\u0627",
+        "parentId": "UgwHMNLw3UDcaVoRuQ94AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-27T00:15:06Z",
+        "updatedAt": "2020-09-27T00:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "XN_G4aHuCvNuv8GCN-nToOJFzPs",
+      "id": "UgwHMNLw3UDcaVoRuQ94AaABAg.9E4viG_4sCz9E59IKmMT-o",
+      "snippet": {
+        "textDisplay": "Thank you very good",
+        "textOriginal": "Thank you very good",
+        "parentId": "UgwHMNLw3UDcaVoRuQ94AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-27T00:14:49Z",
+        "updatedAt": "2020-09-27T00:14:49Z"
+      }
+    }
+  ]
+}

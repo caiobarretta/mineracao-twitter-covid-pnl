@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RRWtUTFWsoib_vQekyZyBu-AQMQ",
+  "id": "UgyF8ljDmZPe0VtM0ZJ4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rISkQ-5JbEYfaFLXEj_gojIHYpU",
+      "id": "UgyF8ljDmZPe0VtM0ZJ4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "N\u00e3o consigo abrir o box para pedir a certifica\u00e7\u00e3o.",
+        "textOriginal": "N\u00e3o consigo abrir o box para pedir a certifica\u00e7\u00e3o.",
+        "authorDisplayName": "Ana Teixeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqV8mcMbpIgoiu9ovwO71LyxyhEkygSzXLnTwVVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdrC_ynC1adMXiuR47bo3Dg",
+        "authorChannelId": {
+          "value": "UCdrC_ynC1adMXiuR47bo3Dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-05T07:27:31Z",
+        "updatedAt": "2021-09-05T07:27:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kDdGnonh-zgStYYTUHom2Lwk6rc",
+      "id": "UgyF8ljDmZPe0VtM0ZJ4AaABAg.9Ru7Tc6UFwQ9Ruxk5XX1h9",
+      "snippet": {
+        "textDisplay": "oi, Ana. precisaria de mais informa\u00e7\u00f5es pra tentar te ajudar. mas isso pode ser instabilidade do aplicativo (muitas pessoas j\u00e1 relataram). sendo isso, recomendo tentar novamente depois.",
+        "textOriginal": "oi, Ana. precisaria de mais informa\u00e7\u00f5es pra tentar te ajudar. mas isso pode ser instabilidade do aplicativo (muitas pessoas j\u00e1 relataram). sendo isso, recomendo tentar novamente depois.",
+        "parentId": "UgyF8ljDmZPe0VtM0ZJ4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-05T15:13:01Z",
+        "updatedAt": "2021-09-05T15:13:01Z"
+      }
+    }
+  ]
+}

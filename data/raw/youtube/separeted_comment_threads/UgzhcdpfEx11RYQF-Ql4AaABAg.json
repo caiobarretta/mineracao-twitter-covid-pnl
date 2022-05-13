@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Rj_esDmjvn62tfrLWL4P32nh-XE",
+  "id": "UgzhcdpfEx11RYQF-Ql4AaABAg",
+  "snippet": {
+    "videoId": "UF-KnN6h_Ak",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GsoP2nFprL4sHwuJumO1svA__sE",
+      "id": "UgzhcdpfEx11RYQF-Ql4AaABAg",
+      "snippet": {
+        "videoId": "UF-KnN6h_Ak",
+        "textDisplay": "Conte\u00fado nota 1000 gratid\u00e3o",
+        "textOriginal": "Conte\u00fado nota 1000 gratid\u00e3o",
+        "authorDisplayName": "Rosa Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSp1Cq94cpx5pdOdAHOfXxeu-pxDxeX1UzMjQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCt-nY-_lumVvys0gw8jXUg",
+        "authorChannelId": {
+          "value": "UCCt-nY-_lumVvys0gw8jXUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-25T05:48:09Z",
+        "updatedAt": "2021-05-25T05:48:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1FQwgZw3m2SMOdgC--r_0HRRU54",
+      "id": "UgzhcdpfEx11RYQF-Ql4AaABAg.9NkjDfpwOu39NlkHO88VrY",
+      "snippet": {
+        "textDisplay": "N\u00f3s \u00e9 que agradecemos, Rosa Maria, por sua avalia\u00e7\u00e3o.",
+        "textOriginal": "N\u00f3s \u00e9 que agradecemos, Rosa Maria, por sua avalia\u00e7\u00e3o.",
+        "parentId": "UgzhcdpfEx11RYQF-Ql4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-25T15:16:37Z",
+        "updatedAt": "2021-05-25T15:16:37Z"
+      }
+    }
+  ]
+}

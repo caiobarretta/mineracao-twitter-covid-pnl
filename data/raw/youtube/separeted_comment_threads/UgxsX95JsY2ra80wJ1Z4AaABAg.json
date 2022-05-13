@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "brnOWE9vWIMoo5nxi7xXVdt4Grg",
+  "id": "UgxsX95JsY2ra80wJ1Z4AaABAg",
+  "snippet": {
+    "videoId": "unzy7PiRMZM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CEajm21q6V5hv8yksrNIzW63b9E",
+      "id": "UgxsX95JsY2ra80wJ1Z4AaABAg",
+      "snippet": {
+        "videoId": "unzy7PiRMZM",
+        "textDisplay": "Parab\u00e9ns!\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\u2698",
+        "textOriginal": "Parab\u00e9ns!\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\u2698",
+        "authorDisplayName": "Ideneia Silveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa9abYupqlTwD5hLYicM3mcnyTw8g78hwORA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgxa-5L5ngVfBy5rgvOxdoA",
+        "authorChannelId": {
+          "value": "UCgxa-5L5ngVfBy5rgvOxdoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-13T21:46:19Z",
+        "updatedAt": "2021-01-13T21:46:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8RsZNhMT8_cWkEfNe7cI0YeICfc",
+      "id": "UgxsX95JsY2ra80wJ1Z4AaABAg.9ITYx-ER-AC9ITs3bzpGJA",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Ideneia.",
+        "textOriginal": "Muito obrigado, Ideneia.",
+        "parentId": "UgxsX95JsY2ra80wJ1Z4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-14T00:42:07Z",
+        "updatedAt": "2021-01-14T00:42:07Z"
+      }
+    }
+  ]
+}

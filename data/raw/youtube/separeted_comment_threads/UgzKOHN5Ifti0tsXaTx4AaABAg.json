@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rz6haA0fbp90ORN7QyWqOlpIU6c",
+  "id": "UgzKOHN5Ifti0tsXaTx4AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WHqTpzDL2wAUQ1mZ-cinFTdhYQM",
+      "id": "UgzKOHN5Ifti0tsXaTx4AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Tem quest\u00f5es aqui no canal com esse assunto?",
+        "textOriginal": "Tem quest\u00f5es aqui no canal com esse assunto?",
+        "authorDisplayName": "Patricia Peniche",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsCVAAjxbi2pKaGf3ls0h9o5jujze6JT6OTwQx7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIkUXqLRNnHdS3b8qFtjPrA",
+        "authorChannelId": {
+          "value": "UCIkUXqLRNnHdS3b8qFtjPrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-01T15:27:18Z",
+        "updatedAt": "2020-04-01T15:27:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4VMF_hS7aVAyecPIHJNtLADMwuU",
+      "id": "UgzKOHN5Ifti0tsXaTx4AaABAg.96usQvD7uT_979WJ3_20rv",
+      "snippet": {
+        "textDisplay": "Eu quero",
+        "textOriginal": "Eu quero",
+        "parentId": "UgzKOHN5Ifti0tsXaTx4AaABAg",
+        "authorDisplayName": "Ana Paula Farias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxH7c99bMUw-8e63i9tRPo9bxD2e6MVIPj5gQGNQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSgyXQb4Cgz3ZDBONat5vMw",
+        "authorChannelId": {
+          "value": "UCSgyXQb4Cgz3ZDBONat5vMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-07T17:13:06Z",
+        "updatedAt": "2020-04-07T17:13:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "eqVxXHMc2YLKYdzhsrnuo_2j-2k",
+      "id": "UgzKOHN5Ifti0tsXaTx4AaABAg.96usQvD7uT_974Z7Q_KCqS",
+      "snippet": {
+        "textDisplay": "@Gustavo Almeida Camargo No aguardo \ud83d\ude0a",
+        "textOriginal": "@Gustavo Almeida Camargo No aguardo \ud83d\ude0a",
+        "parentId": "UgzKOHN5Ifti0tsXaTx4AaABAg",
+        "authorDisplayName": "Patricia Peniche",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsCVAAjxbi2pKaGf3ls0h9o5jujze6JT6OTwQx7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIkUXqLRNnHdS3b8qFtjPrA",
+        "authorChannelId": {
+          "value": "UCIkUXqLRNnHdS3b8qFtjPrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-05T19:01:31Z",
+        "updatedAt": "2020-04-05T19:01:31Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "iLU5mDwvKFQ7MiunszeJVkQxi7Q",
+      "id": "UgzKOHN5Ifti0tsXaTx4AaABAg.96usQvD7uT_974P5M0vL9b",
+      "snippet": {
+        "textDisplay": "farei uma bateria de quest\u00f5es espec\u00edficas relacionadas!",
+        "textOriginal": "farei uma bateria de quest\u00f5es espec\u00edficas relacionadas!",
+        "parentId": "UgzKOHN5Ifti0tsXaTx4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-05T17:33:51Z",
+        "updatedAt": "2020-04-05T17:33:51Z"
+      }
+    }
+  ]
+}

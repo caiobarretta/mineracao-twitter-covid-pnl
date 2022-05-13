@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aSPrZLNrmGwsC5_dBjrbMZ5clNY",
+  "id": "UgxwetOflr0_F-cipaZ4AaABAg",
+  "snippet": {
+    "videoId": "5OZLDcQmvyU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Yg5CMmT6po0mLp2te43oO9B0Qww",
+      "id": "UgxwetOflr0_F-cipaZ4AaABAg",
+      "snippet": {
+        "videoId": "5OZLDcQmvyU",
+        "textDisplay": "Sempre A f\u00e9 \ud83d\ude4f\ud83d\ude4c",
+        "textOriginal": "Sempre A f\u00e9 \ud83d\ude4f\ud83d\ude4c",
+        "authorDisplayName": "Hugo Moureira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwsSF27Iqdl78cq1mGAjXbz14hWSE_fv0CixueW2_2WuivdocERM59chaBn7r2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMayYOWbpxqNdmuAW45bZSg",
+        "authorChannelId": {
+          "value": "UCMayYOWbpxqNdmuAW45bZSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-02-14T14:19:43Z",
+        "updatedAt": "2022-02-14T14:19:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ygv10kqrk5pbVwimWNmdm4bbsbA",
+      "id": "UgxwetOflr0_F-cipaZ4AaABAg.9YR-QOG2VJ39YR1LUxvjqp",
+      "snippet": {
+        "textDisplay": "\ud83d\ude4f",
+        "textOriginal": "\ud83d\ude4f",
+        "parentId": "UgxwetOflr0_F-cipaZ4AaABAg",
+        "authorDisplayName": "Ana Pinto\ud83d\udee1\ufe0f",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/MM1eTgNN-kJrbLclFtY2lR60STnQ8vcCwKgjJwo59BSufKDLi5iziXXf1jp4G8Xsjkoq6ySZOjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoFvoPZkfifGjistlQvFsWQ",
+        "authorChannelId": {
+          "value": "UCoFvoPZkfifGjistlQvFsWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-14T14:36:31Z",
+        "updatedAt": "2022-02-14T14:36:31Z"
+      }
+    }
+  ]
+}

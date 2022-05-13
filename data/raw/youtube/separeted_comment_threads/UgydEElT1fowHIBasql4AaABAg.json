@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aF9XROeXd-ql51HynYdhUxp4ha0",
+  "id": "UgydEElT1fowHIBasql4AaABAg",
+  "snippet": {
+    "videoId": "jATYbmGBBYc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "29e_iRyCCQd5k6KSguK7sJU9IfI",
+      "id": "UgydEElT1fowHIBasql4AaABAg",
+      "snippet": {
+        "videoId": "jATYbmGBBYc",
+        "textDisplay": ". . .Yes I've also noticed that many many people that I know are getting mild colds. Thanks for the info. . .",
+        "textOriginal": ". . .Yes I've also noticed that many many people that I know are getting mild colds. Thanks for the info. . .",
+        "authorDisplayName": "Mike Roy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3lV_PlShxFnvOY8BfvD_KUbwUvM1sRCiofw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0v75T4Xhn44IvDZVV0SOzw",
+        "authorChannelId": {
+          "value": "UC0v75T4Xhn44IvDZVV0SOzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-09T03:07:59Z",
+        "updatedAt": "2022-05-09T03:07:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BrFtreK59X2MkTJuELm7bCEcFZ0",
+      "id": "UgydEElT1fowHIBasql4AaABAg.9an5K1t8cPv9an9GJqpm82",
+      "snippet": {
+        "textDisplay": "Lol",
+        "textOriginal": "Lol",
+        "parentId": "UgydEElT1fowHIBasql4AaABAg",
+        "authorDisplayName": "Hi, I'm Larry!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QXfoDyolLma2vJzz4_NtnUQcEajClhtgYMN-XFd6pkKB3MQWUIRH2nkQGmNxiLJXRGG7lloh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGSA2urffsAO_Usxx_sDw0g",
+        "authorChannelId": {
+          "value": "UCGSA2urffsAO_Usxx_sDw0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T03:42:26Z",
+        "updatedAt": "2022-05-09T03:42:26Z"
+      }
+    }
+  ]
+}

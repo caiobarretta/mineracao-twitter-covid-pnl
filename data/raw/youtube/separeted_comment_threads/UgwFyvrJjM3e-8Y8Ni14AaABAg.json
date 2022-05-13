@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3yPp_d9d5HY3--TI5abegfpYK20",
+  "id": "UgwFyvrJjM3e-8Y8Ni14AaABAg",
+  "snippet": {
+    "videoId": "m4zEBSS7sBQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DDiLgKTwpfyPoKkOqWd1yM-U_K0",
+      "id": "UgwFyvrJjM3e-8Y8Ni14AaABAg",
+      "snippet": {
+        "videoId": "m4zEBSS7sBQ",
+        "textDisplay": "Muito bom, Rafa. Clareza na explica\u00e7\u00e3o!",
+        "textOriginal": "Muito bom, Rafa. Clareza na explica\u00e7\u00e3o!",
+        "authorDisplayName": "Maur\u00edcio do Nascimento de Quadro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjVgTzswPiGClogOS9404mzWMrmR6Uy_oYYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClbSfxIkVw8G1fUNzMEz2hw",
+        "authorChannelId": {
+          "value": "UClbSfxIkVw8G1fUNzMEz2hw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-16T00:13:20Z",
+        "updatedAt": "2020-06-16T00:13:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RWdKTXG0YlM43zf_tHomd-wODOk",
+      "id": "UgwFyvrJjM3e-8Y8Ni14AaABAg.99wwFHZxz6g99wwoqImJsK",
+      "snippet": {
+        "textDisplay": "Valeu Maur\u00edcio. \ud83d\udc4d",
+        "textOriginal": "Valeu Maur\u00edcio. \ud83d\udc4d",
+        "parentId": "UgwFyvrJjM3e-8Y8Ni14AaABAg",
+        "authorDisplayName": "Rafael Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcP0KVcf9yD1kI_5W8IrUH0qiAPy2j5P8GHPeem3s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM0Nzn84v9F3HaP1yHiNWTg",
+        "authorChannelId": {
+          "value": "UCM0Nzn84v9F3HaP1yHiNWTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-16T00:18:19Z",
+        "updatedAt": "2020-06-16T00:18:19Z"
+      }
+    }
+  ]
+}

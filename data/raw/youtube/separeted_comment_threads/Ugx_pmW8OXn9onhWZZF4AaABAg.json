@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2-NoA4nGqX55u7G5CmJJWZ_lp54",
+  "id": "Ugx_pmW8OXn9onhWZZF4AaABAg",
+  "snippet": {
+    "videoId": "-hGtaCuZPP8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Js6yDxSxT6-CkExhb1ww0ktxV1E",
+      "id": "Ugx_pmW8OXn9onhWZZF4AaABAg",
+      "snippet": {
+        "videoId": "-hGtaCuZPP8",
+        "textDisplay": "Onde fica seu consult\u00f3rio?",
+        "textOriginal": "Onde fica seu consult\u00f3rio?",
+        "authorDisplayName": "Tamara Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqXGmUox5Bv9aKsMT1fGfrw4z6KS3txara1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCweWTMn-J4WZ1YgxRi0pbFw",
+        "authorChannelId": {
+          "value": "UCweWTMn-J4WZ1YgxRi0pbFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-10T12:11:05Z",
+        "updatedAt": "2020-08-10T12:11:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i2v6UV5CaqMvYbEOYGzKqtCBpdc",
+      "id": "Ugx_pmW8OXn9onhWZZF4AaABAg.9CAq6NtTkC_9CDC4B01-8d",
+      "snippet": {
+        "textDisplay": "Tamara Soares em Santos/S.P",
+        "textOriginal": "Tamara Soares em Santos/S.P",
+        "parentId": "Ugx_pmW8OXn9onhWZZF4AaABAg",
+        "authorDisplayName": "Adornare Odontologia Est\u00e9tica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiUqOFY3yffKREYB7RaGTbv_vt9FVoCfqL0YKJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRwMRTPXdt8GjhvDWC0YwXw",
+        "authorChannelId": {
+          "value": "UCRwMRTPXdt8GjhvDWC0YwXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-11T10:10:14Z",
+        "updatedAt": "2020-08-11T10:10:14Z"
+      }
+    }
+  ]
+}

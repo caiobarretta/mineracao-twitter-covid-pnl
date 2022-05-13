@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mABnL7ms64EB9g-4lCCABtY8hGs",
+  "id": "Ugxxb0iQgCXM22hoqZh4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vMRjGMrAyZsvaNEdmUYrfGO0nSY",
+      "id": "Ugxxb0iQgCXM22hoqZh4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "caraio flowzao",
+        "textOriginal": "caraio flowzao",
+        "authorDisplayName": "WARLLOCK",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/69ziQ4_Vagcds1FCPxGxaqms9IZArF4goclY0SFj7c7keuZu8zhZphMAYljbVU0lzBYXbqdRIw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJEZYbJkNzSnHiYMWEq5JAA",
+        "authorChannelId": {
+          "value": "UCJEZYbJkNzSnHiYMWEq5JAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T23:05:34Z",
+        "updatedAt": "2020-03-18T23:05:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ieRYfXzXg5C3mZC2SPdVAZLsi2c",
+      "id": "Ugxxb0iQgCXM22hoqZh4AaABAg.96Mdk4LlYu596MfYi8G6eK",
+      "snippet": {
+        "textDisplay": "Amanh\u00e3 rola, mal a demora",
+        "textOriginal": "Amanh\u00e3 rola, mal a demora",
+        "parentId": "Ugxxb0iQgCXM22hoqZh4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T23:21:21Z",
+        "updatedAt": "2020-03-18T23:21:21Z"
+      }
+    }
+  ]
+}

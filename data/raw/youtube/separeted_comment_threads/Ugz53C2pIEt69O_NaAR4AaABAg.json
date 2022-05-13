@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Wb9xOYWJoi445PGtN3u_S5jsbVM",
+  "id": "Ugz53C2pIEt69O_NaAR4AaABAg",
+  "snippet": {
+    "videoId": "bSFxM7g5yfY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zVZpUbkGkUpxirm1HfRX78oxHQM",
+      "id": "Ugz53C2pIEt69O_NaAR4AaABAg",
+      "snippet": {
+        "videoId": "bSFxM7g5yfY",
+        "textDisplay": "QUE BOM!\nEST\u00c1 DIMINUINDO O N\u00daMERO DE MORTOS!",
+        "textOriginal": "QUE BOM!\nEST\u00c1 DIMINUINDO O N\u00daMERO DE MORTOS!",
+        "authorDisplayName": "Em\u00edlio Rizzo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBjUVl-dfovdTVKgylLcWXVvn_l7j35TWtiIt-Ag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYnClNQr-vsjeXzLAKgKKKQ",
+        "authorChannelId": {
+          "value": "UCYnClNQr-vsjeXzLAKgKKKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-04-06T06:21:59Z",
+        "updatedAt": "2021-04-06T06:21:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fAqey0BzqGR7AI67hYQHgDOsRdo",
+      "id": "Ugz53C2pIEt69O_NaAR4AaABAg.9Lmc8enAH6s9LnITKpgwQK",
+      "snippet": {
+        "textDisplay": "\u00c9 pq tao colocando o cpf agora",
+        "textOriginal": "\u00c9 pq tao colocando o cpf agora",
+        "parentId": "Ugz53C2pIEt69O_NaAR4AaABAg",
+        "authorDisplayName": "Dagda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-CAM6-k--xf36F5ZF7GueF8j8PavpaC-wPAhgjqKOPk6iw2JCsVoVrzi6NeQCGW4r2jInft9xvs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLa8JT7EKmubcPrIaa325CA",
+        "authorChannelId": {
+          "value": "UCLa8JT7EKmubcPrIaa325CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-06T12:40:33Z",
+        "updatedAt": "2021-04-06T12:40:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "UxpT7X3fhqT8wNKgz1JlQen_jJA",
+      "id": "Ugz53C2pIEt69O_NaAR4AaABAg.9Lmc8enAH6s9Ln4JkecBJ0",
+      "snippet": {
+        "textDisplay": "N\u00e3o.",
+        "textOriginal": "N\u00e3o.",
+        "parentId": "Ugz53C2pIEt69O_NaAR4AaABAg",
+        "authorDisplayName": "tmascaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsW2YbN2wQwDzj4tlvuklHkrPI23PTI6K1qw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCY3cKEwAg6Jd8Qx01B6I5lg",
+        "authorChannelId": {
+          "value": "UCY3cKEwAg6Jd8Qx01B6I5lg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-06T10:36:54Z",
+        "updatedAt": "2021-04-06T10:36:54Z"
+      }
+    }
+  ]
+}

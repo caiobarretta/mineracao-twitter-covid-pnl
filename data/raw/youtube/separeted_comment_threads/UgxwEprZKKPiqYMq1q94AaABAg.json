@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3gD54ydCM5o90OJ74itG6DjW0jM",
+  "id": "UgxwEprZKKPiqYMq1q94AaABAg",
+  "snippet": {
+    "videoId": "AFWFtbr3r08",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hbpSmiziHutnjoG1R_sAPzZdNdo",
+      "id": "UgxwEprZKKPiqYMq1q94AaABAg",
+      "snippet": {
+        "videoId": "AFWFtbr3r08",
+        "textDisplay": "HAPPY OWL VIDEO TIME! I REALLY LIKED IT :DDDDDDD",
+        "textOriginal": "HAPPY OWL VIDEO TIME! I REALLY LIKED IT :DDDDDDD",
+        "authorDisplayName": "M\u00e1ntou Team",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSm7uOJ2R5sy9PwOcqtppN0nkG72ks_ONz5n1XTew=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2tX6dvKU5JOF6JIScGyOLg",
+        "authorChannelId": {
+          "value": "UC2tX6dvKU5JOF6JIScGyOLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-19T22:50:36Z",
+        "updatedAt": "2020-03-19T22:50:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LNX0bAMY-9McNQfhjmPFDq5BGrs",
+      "id": "UgxwEprZKKPiqYMq1q94AaABAg.96PBpK2bA7c96PG-uq_mF-",
+      "snippet": {
+        "textDisplay": "Thanks my dear. xoxo",
+        "textOriginal": "Thanks my dear. xoxo",
+        "parentId": "UgxwEprZKKPiqYMq1q94AaABAg",
+        "authorDisplayName": "Eu Adoro Ci\u00eancia!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TRfL2s65fCRxp35dY_iIXq_GP4aoKzzumqRH8VNACcWNFysEz0sEy6Igf12GE_MDx_5wvc2o3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7DL9qIVhfIyz_XtIksz89A",
+        "authorChannelId": {
+          "value": "UC7DL9qIVhfIyz_XtIksz89A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-19T23:27:07Z",
+        "updatedAt": "2020-03-19T23:27:07Z"
+      }
+    }
+  ]
+}

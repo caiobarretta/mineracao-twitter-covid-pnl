@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DYh6-pxOS3EoZUkSQ32eTxlkcNY",
+  "id": "Ugy77Lh1qyLo0lbijPN4AaABAg",
+  "snippet": {
+    "videoId": "LHQb2UpnJC0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AZmE42coxu8SaRAT15-WD-BCyPg",
+      "id": "Ugy77Lh1qyLo0lbijPN4AaABAg",
+      "snippet": {
+        "videoId": "LHQb2UpnJC0",
+        "textDisplay": "*Onde o Brasil vai chegar* \ud83d\ude22",
+        "textOriginal": "*Onde o Brasil vai chegar* \ud83d\ude22",
+        "authorDisplayName": "Fred Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcmrpDmaNty56c1_d_P1c8R5nxxEvncrtOTfAv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqNFKPWp1VVkMCq6PWcPvrg",
+        "authorChannelId": {
+          "value": "UCqNFKPWp1VVkMCq6PWcPvrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 27,
+        "publishedAt": "2021-03-19T01:06:53Z",
+        "updatedAt": "2021-03-19T01:06:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jZ3ASeBMfuNMHyunByGnXUapZkI",
+      "id": "Ugy77Lh1qyLo0lbijPN4AaABAg.9L2hm0XgzW-9L39B7VA_Xz",
+      "snippet": {
+        "textDisplay": "Partil 3mi de \u00f3bitos, \"fechados com bolsonaro,\" \nGado 21",
+        "textOriginal": "Partil 3mi de \u00f3bitos, \"fechados com bolsonaro,\" \nGado 21",
+        "parentId": "Ugy77Lh1qyLo0lbijPN4AaABAg",
+        "authorDisplayName": "Outro Cara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PmDjKJIfk566C3WFhg8cfJLnpS7drr0IZpe3BIEuys7I2B5BO1gl992KlX6U0w3-CknpskAmlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeo16feBM4nPie0QVJR8Qnw",
+        "authorChannelId": {
+          "value": "UCeo16feBM4nPie0QVJR8Qnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-03-19T05:15:07Z",
+        "updatedAt": "2021-03-19T05:15:07Z"
+      }
+    }
+  ]
+}

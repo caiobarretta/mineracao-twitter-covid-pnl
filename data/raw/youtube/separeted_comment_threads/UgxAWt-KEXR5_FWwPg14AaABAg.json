@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bwUwAvGjkNJOVhbh6GZb87nsdro",
+  "id": "UgxAWt-KEXR5_FWwPg14AaABAg",
+  "snippet": {
+    "videoId": "uDU8Sdt4NxM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EBB4QPSvBIJ6e226mwtDw6hQ-d8",
+      "id": "UgxAWt-KEXR5_FWwPg14AaABAg",
+      "snippet": {
+        "videoId": "uDU8Sdt4NxM",
+        "textDisplay": "Gostei like like like",
+        "textOriginal": "Gostei like like like",
+        "authorDisplayName": "Regiane Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/UsWRd36ZP732Q4Z4cDLHYfEEXN1b8seFPwnRMTfT5FONF7qkiievvCP7ypJ4CtmG-9jw4I-ypA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4ovpP84Q_3ijSrm_jmchBQ",
+        "authorChannelId": {
+          "value": "UC4ovpP84Q_3ijSrm_jmchBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-10T10:31:41Z",
+        "updatedAt": "2021-01-10T10:31:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hX_44dZn6bOYrCOjgkZQOIeLmIw",
+      "id": "UgxAWt-KEXR5_FWwPg14AaABAg.9IKcMKM9Mig9IL1kb-10pq",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o e obrigado",
+        "textOriginal": "Um abra\u00e7o e obrigado",
+        "parentId": "UgxAWt-KEXR5_FWwPg14AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-10T14:22:20Z",
+        "updatedAt": "2021-01-10T14:22:20Z"
+      }
+    }
+  ]
+}

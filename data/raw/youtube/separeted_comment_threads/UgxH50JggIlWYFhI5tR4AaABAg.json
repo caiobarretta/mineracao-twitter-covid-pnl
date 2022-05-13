@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bmSD6XeibFg5EhuRniU80zc2pWA",
+  "id": "UgxH50JggIlWYFhI5tR4AaABAg",
+  "snippet": {
+    "videoId": "NI2yFITGL44",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qHrpVOUBP1ujY2222C6TnGZg9Ps",
+      "id": "UgxH50JggIlWYFhI5tR4AaABAg",
+      "snippet": {
+        "videoId": "NI2yFITGL44",
+        "textDisplay": "Boa tarde!",
+        "textOriginal": "Boa tarde!",
+        "authorDisplayName": "Rita Dabarian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTefbaBs3LUqbISCD1Wdm37dBU8yCKITNrWMw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkRApqCnS8hFsb2NLb0G-Yw",
+        "authorChannelId": {
+          "value": "UCkRApqCnS8hFsb2NLb0G-Yw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-23T21:04:21Z",
+        "updatedAt": "2021-06-23T21:04:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "psAA4fFFWMaRt1r3eCQIJrfuBVM",
+      "id": "UgxH50JggIlWYFhI5tR4AaABAg.9Ox27aYbByo9OxXO3JkdQW",
+      "snippet": {
+        "textDisplay": "Boa tarde. Seja benvinda.",
+        "textOriginal": "Boa tarde. Seja benvinda.",
+        "parentId": "UgxH50JggIlWYFhI5tR4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-24T01:37:29Z",
+        "updatedAt": "2021-06-24T01:37:29Z"
+      }
+    }
+  ]
+}

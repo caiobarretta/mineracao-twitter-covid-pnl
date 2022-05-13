@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "v7OlQ9yizvuTjT1lMT0pbX9k8_Y",
+  "id": "UgyyYsBtrlHoXW-t0RR4AaABAg",
+  "snippet": {
+    "videoId": "UOkA2sBugf8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HLvnuB6UimHlhorBru0vzQDzec0",
+      "id": "UgyyYsBtrlHoXW-t0RR4AaABAg",
+      "snippet": {
+        "videoId": "UOkA2sBugf8",
+        "textDisplay": "Bom, mas algumas informa\u00e7\u00f5es conflitantes.",
+        "textOriginal": "Bom, mas algumas informa\u00e7\u00f5es conflitantes.",
+        "authorDisplayName": "Marcos Raystron",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzY5cmsbFyVEM_tlZ6xoqscmKSCWjjnLEG3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-42el6IZ3VWg00uc2eVYdA",
+        "authorChannelId": {
+          "value": "UC-42el6IZ3VWg00uc2eVYdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 39,
+        "publishedAt": "2020-04-12T16:17:48Z",
+        "updatedAt": "2020-04-12T16:17:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MuHDHYbg3Fe3Gajvu3ZSt0Lw-xM",
+      "id": "UgyyYsBtrlHoXW-t0RR4AaABAg.97MHxTTIVja97R1yM5QrqY",
+      "snippet": {
+        "textDisplay": "90% das informa\u00e7\u00f5es s\u00e3o conflitantes kkkkkkkkkkk",
+        "textOriginal": "90% das informa\u00e7\u00f5es s\u00e3o conflitantes kkkkkkkkkkk",
+        "parentId": "UgyyYsBtrlHoXW-t0RR4AaABAg",
+        "authorDisplayName": "Johan Marcos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBxvNF7fs1K1FqLYR0H22D0GcqctCbAb4eAVY13w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJRgscMiLT1PmO8a0ceoxOg",
+        "authorChannelId": {
+          "value": "UCJRgscMiLT1PmO8a0ceoxOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-14T12:34:19Z",
+        "updatedAt": "2020-04-14T12:34:19Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "AK_3Mv9GO1DUUg_U3Hc7B4q4flg",
+      "id": "UgyyYsBtrlHoXW-t0RR4AaABAg.97MHxTTIVja97MKiCF34-K",
+      "snippet": {
+        "textDisplay": "Marcos Raystron vdd",
+        "textOriginal": "Marcos Raystron vdd",
+        "parentId": "UgyyYsBtrlHoXW-t0RR4AaABAg",
+        "authorDisplayName": "Paulo Roberto Almeida Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFgmwMZMk2HxwIjktZjm1Wg2MUPD4F55Jx0w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA-Z9vraw5hu852WQ-u5jnw",
+        "authorChannelId": {
+          "value": "UCA-Z9vraw5hu852WQ-u5jnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-12T16:41:56Z",
+        "updatedAt": "2020-04-12T16:41:56Z"
+      }
+    }
+  ]
+}

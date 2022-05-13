@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "p17EMJOgm5DLqv2DKGNjmc9y3e4",
+  "id": "UgwHGvTl4g9aaq0vDvF4AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k9i8wfYBXOd5lTe28zxhKxMdK68",
+      "id": "UgwHGvTl4g9aaq0vDvF4AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Boa tarde Dr. Paulo, assistindo sua live.",
+        "textOriginal": "Boa tarde Dr. Paulo, assistindo sua live.",
+        "authorDisplayName": "Thusnelda Michelin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjr_BRYghzIPRTZXkA9U2OZgvzKll6aBoG-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNn0h8Y9rUyHDJrZIcUQZZg",
+        "authorChannelId": {
+          "value": "UCNn0h8Y9rUyHDJrZIcUQZZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T16:29:19Z",
+        "updatedAt": "2020-04-11T16:29:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1UkDm1aDGIzkU0wlH2XQ8D5FkLU",
+      "id": "UgwHGvTl4g9aaq0vDvF4AaABAg.97JjTvFhgOt97JvjPs-o3X",
+      "snippet": {
+        "textDisplay": "Abra\u00e7\u00e3o minha amiga!",
+        "textOriginal": "Abra\u00e7\u00e3o minha amiga!",
+        "parentId": "UgwHGvTl4g9aaq0vDvF4AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-11T18:16:26Z",
+        "updatedAt": "2020-04-11T18:16:26Z"
+      }
+    }
+  ]
+}

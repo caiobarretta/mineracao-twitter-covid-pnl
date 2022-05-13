@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7bNksy1hC6t1Dc_OaWUd86u6RyQ",
+  "id": "UgwCAQ8_pDx3jmhbbf54AaABAg",
+  "snippet": {
+    "videoId": "n-igub50CUU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZOoqfcBc5_aK2YSpC2P_Gg5KI-M",
+      "id": "UgwCAQ8_pDx3jmhbbf54AaABAg",
+      "snippet": {
+        "videoId": "n-igub50CUU",
+        "textDisplay": "O aumento das doses de vitamina D ou D3 ?",
+        "textOriginal": "O aumento das doses de vitamina D ou D3 ?",
+        "authorDisplayName": "Cau Vogt",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTblaVfg2q6QvWY8dv5bqXbgYdQuJKZcmfxQftcpg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwuHdJ5YUFdKxlnDJioeG5g",
+        "authorChannelId": {
+          "value": "UCwuHdJ5YUFdKxlnDJioeG5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-22T08:45:42Z",
+        "updatedAt": "2020-03-22T08:45:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "a9QQZyJevkLJe-cPjXN8jN6E02c",
+      "id": "UgwCAQ8_pDx3jmhbbf54AaABAg.96VPWj-9eXb96WqnApSWSK",
+      "snippet": {
+        "textDisplay": "D3 Colecalciferol",
+        "textOriginal": "D3 Colecalciferol",
+        "parentId": "UgwCAQ8_pDx3jmhbbf54AaABAg",
+        "authorDisplayName": "Protocolo Coimbra Vitamina D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCeQEdYTq8lZLBww439LLjVGxhDIOCeJ9fScUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5tZxiog6NTmEdk4wKLrPmg",
+        "authorChannelId": {
+          "value": "UC5tZxiog6NTmEdk4wKLrPmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-22T22:11:59Z",
+        "updatedAt": "2020-03-22T22:11:59Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IcCz9I4F72xZ7DqvgMNYXkRxu-U",
+  "id": "UgxONjry45eeOIdFV-R4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IyIphrn3Y29Dn4k2OzLjxj1UWSA",
+      "id": "UgxONjry45eeOIdFV-R4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "Parab\u00e9ns, a Bahia tem um potencial criativo bem elevado, estou muito feliz por morar em Salvador! Abracao do \"seu velho\" (Yao da Silva, facebook)!",
+        "textOriginal": "Parab\u00e9ns, a Bahia tem um potencial criativo bem elevado, estou muito feliz por morar em Salvador! Abracao do \"seu velho\" (Yao da Silva, facebook)!",
+        "authorDisplayName": "Daniel da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTH7j_eKICcHqqsjjOE3g1gCEn3--bMzTdgocFk9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI829faUon8d1SEVdC34VuQ",
+        "authorChannelId": {
+          "value": "UCI829faUon8d1SEVdC34VuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-10-29T05:40:09Z",
+        "updatedAt": "2018-10-29T05:40:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fSws9s_eJlx4kY9sESxVo9IlM1w",
+      "id": "UgxONjry45eeOIdFV-R4AaABAg.8myrsTyh4hw8qiq7-W6MlT",
+      "snippet": {
+        "textDisplay": "Loyo",
+        "textOriginal": "Loyo",
+        "parentId": "UgxONjry45eeOIdFV-R4AaABAg",
+        "authorDisplayName": "Marcio Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVf_g-M0AocZw1loBlukD9jIotgzQKQ0qHVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM9ew4Tc9JLN0oGq2UC575A",
+        "authorChannelId": {
+          "value": "UCM9ew4Tc9JLN0oGq2UC575A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-01-30T10:22:30Z",
+        "updatedAt": "2019-01-30T10:22:30Z"
+      }
+    }
+  ]
+}

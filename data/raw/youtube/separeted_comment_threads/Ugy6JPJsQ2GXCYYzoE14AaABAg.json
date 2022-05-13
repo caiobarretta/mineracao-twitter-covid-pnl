@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g-uUlNC2WWInQBm5NHqx9B70U84",
+  "id": "Ugy6JPJsQ2GXCYYzoE14AaABAg",
+  "snippet": {
+    "videoId": "LwUjglzIUhc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jrfLU0bMaW5gXyBEU4ol_SFEGy4",
+      "id": "Ugy6JPJsQ2GXCYYzoE14AaABAg",
+      "snippet": {
+        "videoId": "LwUjglzIUhc",
+        "textDisplay": "odeio minha escola",
+        "textOriginal": "odeio minha escola",
+        "authorDisplayName": "henrique mezadre da silvz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReCpeJqlotAfE69jlEmv8W7jnIL5eA92baBley=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7lVGaQCxiErbJEJnDi2MNg",
+        "authorChannelId": {
+          "value": "UC7lVGaQCxiErbJEJnDi2MNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-08-01T19:18:33Z",
+        "updatedAt": "2020-08-01T19:18:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_aAdf9YPVfEsZPEXH8vsoKJcRLs",
+      "id": "Ugy6JPJsQ2GXCYYzoE14AaABAg.9BpQsPJrToA9GXUszRrq9R",
+      "snippet": {
+        "textDisplay": "Olha oq eu tenho que assistir pra ganhar nota",
+        "textOriginal": "Olha oq eu tenho que assistir pra ganhar nota",
+        "parentId": "Ugy6JPJsQ2GXCYYzoE14AaABAg",
+        "authorDisplayName": "Eliza Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwdSGmchbcifm8LaHUC0BEXs_H-kzv-zE3kUqSZ8I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx5Ruxvsfvbd-T2FFkX5JqQ",
+        "authorChannelId": {
+          "value": "UCx5Ruxvsfvbd-T2FFkX5JqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-26T17:24:59Z",
+        "updatedAt": "2020-11-26T17:24:59Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "VCb0RKQPurZmi9LaHnLDlXOFj6w",
+      "id": "Ugy6JPJsQ2GXCYYzoE14AaABAg.9BpQsPJrToA9GXUpNgmNsW",
+      "snippet": {
+        "textDisplay": "Mn que raiva",
+        "textOriginal": "Mn que raiva",
+        "parentId": "Ugy6JPJsQ2GXCYYzoE14AaABAg",
+        "authorDisplayName": "Eliza Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwdSGmchbcifm8LaHUC0BEXs_H-kzv-zE3kUqSZ8I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx5Ruxvsfvbd-T2FFkX5JqQ",
+        "authorChannelId": {
+          "value": "UCx5Ruxvsfvbd-T2FFkX5JqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-26T17:24:29Z",
+        "updatedAt": "2020-11-26T17:24:29Z"
+      }
+    }
+  ]
+}

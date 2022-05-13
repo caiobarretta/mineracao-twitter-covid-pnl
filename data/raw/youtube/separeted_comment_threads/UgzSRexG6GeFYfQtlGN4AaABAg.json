@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LfuGvjEk20K8_4saZ2HsoxQ7Hxg",
+  "id": "UgzSRexG6GeFYfQtlGN4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8aan4upN9m91mK8IG2OQthEQo9c",
+      "id": "UgzSRexG6GeFYfQtlGN4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "Coronavac e agua tonica e a mesma coisa kkkkk",
+        "textOriginal": "Coronavac e agua tonica e a mesma coisa kkkkk",
+        "authorDisplayName": "Gustavo Rickmann",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfpUOxqDY4y85dPvFVzFe9U3aa5wnjww1qM9vJbQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdHDJqwSIpktK7Q40NssRtg",
+        "authorChannelId": {
+          "value": "UCdHDJqwSIpktK7Q40NssRtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-12T23:45:36Z",
+        "updatedAt": "2021-09-12T23:45:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yI15_KnV_iNpwPNQ_wXxZxK0ecg",
+      "id": "UgzSRexG6GeFYfQtlGN4AaABAg.9SCtyQauP729Um_suwv5m7",
+      "snippet": {
+        "textDisplay": "Preciso da segunda via da minha carteira de vacina corona.",
+        "textOriginal": "Preciso da segunda via da minha carteira de vacina corona.",
+        "parentId": "UgzSRexG6GeFYfQtlGN4AaABAg",
+        "authorDisplayName": "Cezarina Gaioso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRKGkfDv2saOp9851QmvqblFwkIYM7WiUUedw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZB_ZjBc6nQ_VZUxttCkSgA",
+        "authorChannelId": {
+          "value": "UCZB_ZjBc6nQ_VZUxttCkSgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-15T22:44:46Z",
+        "updatedAt": "2021-11-15T22:44:46Z"
+      }
+    }
+  ]
+}

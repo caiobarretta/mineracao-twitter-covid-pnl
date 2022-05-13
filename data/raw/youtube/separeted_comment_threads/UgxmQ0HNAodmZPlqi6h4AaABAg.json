@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7C1ygV55sOmWJ5s4vfk699uCNWU",
+  "id": "UgxmQ0HNAodmZPlqi6h4AaABAg",
+  "snippet": {
+    "videoId": "u5KkyBu_iU4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ange2iZgwJpbnBZAFHD6miOxCzE",
+      "id": "UgxmQ0HNAodmZPlqi6h4AaABAg",
+      "snippet": {
+        "videoId": "u5KkyBu_iU4",
+        "textDisplay": "Vim pelo mec",
+        "textOriginal": "Vim pelo mec",
+        "authorDisplayName": "Raquel Silva Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTr6O-EQlc82dCu_4BSlZPbt-Dtxw2zRlWBssDDFYQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzPmyFYZ2S5r_SWCOiM0E8Q",
+        "authorChannelId": {
+          "value": "UCzPmyFYZ2S5r_SWCOiM0E8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-10T23:52:34Z",
+        "updatedAt": "2021-09-10T23:52:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bZMURQWNtvIW192byWVtuK50kMI",
+      "id": "UgxmQ0HNAodmZPlqi6h4AaABAg.9S7lAhrnkTK9U3M4gXcyZa",
+      "snippet": {
+        "textDisplay": "Eu tbm",
+        "textOriginal": "Eu tbm",
+        "parentId": "UgxmQ0HNAodmZPlqi6h4AaABAg",
+        "authorDisplayName": "Nayara Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgJ8olL8CAPW0EboNQDFe6LLIT7q38t3W8y2EN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1BQjYye4mS68OqEwTpiaGQ",
+        "authorChannelId": {
+          "value": "UC1BQjYye4mS68OqEwTpiaGQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-28T23:50:22Z",
+        "updatedAt": "2021-10-28T23:50:22Z"
+      }
+    }
+  ]
+}

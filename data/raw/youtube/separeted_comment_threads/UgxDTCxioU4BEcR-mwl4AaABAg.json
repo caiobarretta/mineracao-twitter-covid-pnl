@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UoLy1bruqvGjuL2iKhd_gMhRK84",
+  "id": "UgxDTCxioU4BEcR-mwl4AaABAg",
+  "snippet": {
+    "videoId": "Inn8O5Sskcg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iPpsBq-boqM5eV-dCRqHTZVaPI8",
+      "id": "UgxDTCxioU4BEcR-mwl4AaABAg",
+      "snippet": {
+        "videoId": "Inn8O5Sskcg",
+        "textDisplay": "Muito bom. Estava com saudade desses videos! Fa\u00e7am mais.",
+        "textOriginal": "Muito bom. Estava com saudade desses videos! Fa\u00e7am mais.",
+        "authorDisplayName": "Felipe Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSs_eInvSpCtfv8B-LxShwhouJLm3LKrdljwvYpnWM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEbh0iePOuZPrhBJfKQ4DNg",
+        "authorChannelId": {
+          "value": "UCEbh0iePOuZPrhBJfKQ4DNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 39,
+        "publishedAt": "2020-08-11T18:33:13Z",
+        "updatedAt": "2020-08-11T18:33:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EH-m59sac-A1Wmqtr2oHGud37FU",
+      "id": "UgxDTCxioU4BEcR-mwl4AaABAg.9CE5d4mQ2Ns9CnBwj4Lq8j",
+      "snippet": {
+        "textDisplay": "N\u00f3s tamb\u00e9m! Est\u00e1 cada vez mais dif\u00edcil conseguir produzir, mas vamos em frente!",
+        "textOriginal": "N\u00f3s tamb\u00e9m! Est\u00e1 cada vez mais dif\u00edcil conseguir produzir, mas vamos em frente!",
+        "parentId": "UgxDTCxioU4BEcR-mwl4AaABAg",
+        "authorDisplayName": "Le Monde Diplomatique Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR82fY4fKwACYsbn3gLAjrPcHGaYmd14LR8xA7Uhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO0Wd2SV2Wp_661FEFkN08A",
+        "authorChannelId": {
+          "value": "UCO0Wd2SV2Wp_661FEFkN08A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-08-25T19:00:59Z",
+        "updatedAt": "2020-08-25T19:00:59Z"
+      }
+    }
+  ]
+}

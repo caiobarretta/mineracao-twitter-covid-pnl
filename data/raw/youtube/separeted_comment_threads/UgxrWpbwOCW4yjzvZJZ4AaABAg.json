@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-0QnMj9CH1KIzgYIfWuPJkbYyrk",
+  "id": "UgxrWpbwOCW4yjzvZJZ4AaABAg",
+  "snippet": {
+    "videoId": "iTuUxplg3ik",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L9nbJVwaVJKEACWB6QU88cLIrSs",
+      "id": "UgxrWpbwOCW4yjzvZJZ4AaABAg",
+      "snippet": {
+        "videoId": "iTuUxplg3ik",
+        "textDisplay": "Amei, \u00f3timo v\u00eddeo \ud83d\ude0d",
+        "textOriginal": "Amei, \u00f3timo v\u00eddeo \ud83d\ude0d",
+        "authorDisplayName": "Jearine Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1RII0hf1cmpfGWvw6X7p43ps0sbtcsgiurzE6azk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnRDfmCnNnX_JNtVvccggEA",
+        "authorChannelId": {
+          "value": "UCnRDfmCnNnX_JNtVvccggEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-22T21:34:39Z",
+        "updatedAt": "2021-09-22T21:34:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yEj0jC8Mhcyv-yg_A5VUrHWSrFY",
+      "id": "UgxrWpbwOCW4yjzvZJZ4AaABAg.9SbPw720W0W9Sk3egWYNSU",
+      "snippet": {
+        "textDisplay": "Muito obrigado ppelo feedback!",
+        "textOriginal": "Muito obrigado ppelo feedback!",
+        "parentId": "UgxrWpbwOCW4yjzvZJZ4AaABAg",
+        "authorDisplayName": "Economia & Neg\u00f3cios",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpFbOdh9YG4N9yXivhMV3gAsDM8AaZsKt3VnQY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNtQyzQQVYnJo6nFM7shTqQ",
+        "authorChannelId": {
+          "value": "UCNtQyzQQVYnJo6nFM7shTqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-26T06:13:12Z",
+        "updatedAt": "2021-09-26T06:13:12Z"
+      }
+    }
+  ]
+}

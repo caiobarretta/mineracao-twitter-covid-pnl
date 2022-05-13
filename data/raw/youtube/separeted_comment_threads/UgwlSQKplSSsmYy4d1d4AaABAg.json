@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OcS_Z3A1DIarssbNibUMY-bbUCA",
+  "id": "UgwlSQKplSSsmYy4d1d4AaABAg",
+  "snippet": {
+    "videoId": "odtUNR-C15E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PIwEEzgxuZ6_ALlaq-5ZB9gwhWw",
+      "id": "UgwlSQKplSSsmYy4d1d4AaABAg",
+      "snippet": {
+        "videoId": "odtUNR-C15E",
+        "textDisplay": "Con base en*",
+        "textOriginal": "Con base en*",
+        "authorDisplayName": "Gabriela Casanova",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiZeCjL0yrR6IiCJJv7YU3SmjnWYRJgxbLxUK8og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgNgW78PaRpPcKUk3ogyCsQ",
+        "authorChannelId": {
+          "value": "UCgNgW78PaRpPcKUk3ogyCsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-12T13:35:20Z",
+        "updatedAt": "2020-03-12T13:35:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WX6nr3iVG5CVfQys4UNgb1E2pgw",
+      "id": "UgwlSQKplSSsmYy4d1d4AaABAg.966AiLcTyDn966IMtGgXAe",
+      "snippet": {
+        "textDisplay": "Joder pareces escribante, espero que hayas entendido el mensaje m\u00e1s que centrarte en como hablan.",
+        "textOriginal": "Joder pareces escribante, espero que hayas entendido el mensaje m\u00e1s que centrarte en como hablan.",
+        "parentId": "UgwlSQKplSSsmYy4d1d4AaABAg",
+        "authorDisplayName": "Sergio Roman Granada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJ0hhoU53KpAdNFzqP44G2K9qGLAS8Oo46bQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxO7qJNJ8ezOpee514sF7Dg",
+        "authorChannelId": {
+          "value": "UCxO7qJNJ8ezOpee514sF7Dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-12T14:42:10Z",
+        "updatedAt": "2020-03-12T14:42:10Z"
+      }
+    }
+  ]
+}

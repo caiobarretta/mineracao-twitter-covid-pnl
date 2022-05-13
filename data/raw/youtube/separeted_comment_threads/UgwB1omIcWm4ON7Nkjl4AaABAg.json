@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gwUOokDEgXQXrsIKzMWgSsKWLPU",
+  "id": "UgwB1omIcWm4ON7Nkjl4AaABAg",
+  "snippet": {
+    "videoId": "OeL04Su0nw4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RemiEc4VFLaxu6qQriuslCm6zhs",
+      "id": "UgwB1omIcWm4ON7Nkjl4AaABAg",
+      "snippet": {
+        "videoId": "OeL04Su0nw4",
+        "textDisplay": "9:36: conhe\u00e7o esse cara.",
+        "textOriginal": "9:36: conhe\u00e7o esse cara.",
+        "authorDisplayName": "Enzo Madeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGLXDd6T4x0toiBei1V5kAk4CMZXY5ARxpyRZnlA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDWUGtY5nhzsKX2Cb6FPMFw",
+        "authorChannelId": {
+          "value": "UCDWUGtY5nhzsKX2Cb6FPMFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-04-30T19:15:01Z",
+        "updatedAt": "2020-04-30T19:15:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W4cAxiim3-bCZ77YRfm6m6bjQEU",
+      "id": "UgwB1omIcWm4ON7Nkjl4AaABAg.984xYBcrENH984xhCvG3Nl",
+      "snippet": {
+        "textDisplay": "O cara que est\u00e1 explicando.",
+        "textOriginal": "O cara que est\u00e1 explicando.",
+        "parentId": "UgwB1omIcWm4ON7Nkjl4AaABAg",
+        "authorDisplayName": "Enzo Madeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGLXDd6T4x0toiBei1V5kAk4CMZXY5ARxpyRZnlA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDWUGtY5nhzsKX2Cb6FPMFw",
+        "authorChannelId": {
+          "value": "UCDWUGtY5nhzsKX2Cb6FPMFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-30T19:16:23Z",
+        "updatedAt": "2020-04-30T19:16:23Z"
+      }
+    }
+  ]
+}

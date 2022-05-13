@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "huNf34J2cWdZiPde0HAGQVTUb5M",
+  "id": "UgzYMwPC9aFTuGi51HF4AaABAg",
+  "snippet": {
+    "videoId": "SpndMesW-0I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Eu8oaOZKqOdNQswcTUq-a5723m4",
+      "id": "UgzYMwPC9aFTuGi51HF4AaABAg",
+      "snippet": {
+        "videoId": "SpndMesW-0I",
+        "textDisplay": "so faltava essa",
+        "textOriginal": "so faltava essa",
+        "authorDisplayName": "Juarez Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCnWMaxB9Zl-GKfvADqirXRQjGW2a9ERviQA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCGHTuTqNQiyPTHpzu4mv8g",
+        "authorChannelId": {
+          "value": "UCCGHTuTqNQiyPTHpzu4mv8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-10T17:12:28Z",
+        "updatedAt": "2022-05-10T17:12:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pORiMYJ-j9Hj5BKSgpLdcpMKqJU",
+      "id": "UgzYMwPC9aFTuGi51HF4AaABAg.9arAl0mnZw29arUEiUCpUB",
+      "snippet": {
+        "textDisplay": "ESSA O QUE SUJEITO ??????",
+        "textOriginal": "ESSA O QUE SUJEITO ??????",
+        "parentId": "UgzYMwPC9aFTuGi51HF4AaABAg",
+        "authorDisplayName": "Dr. Admar Almeida -Dr. Kavary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfocQXk1LmoyF0e47G-BWVDZX60g5TVkrZwt0-dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvStFI7DzNbDGajNvNgmCjg",
+        "authorChannelId": {
+          "value": "UCvStFI7DzNbDGajNvNgmCjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T20:02:40Z",
+        "updatedAt": "2022-05-10T20:02:40Z"
+      }
+    }
+  ]
+}

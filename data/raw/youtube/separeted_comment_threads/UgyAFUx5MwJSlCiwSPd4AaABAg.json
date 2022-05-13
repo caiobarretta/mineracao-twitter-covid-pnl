@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "U7gnrBj5iJSye2UrCIhpRNL7jDI",
+  "id": "UgyAFUx5MwJSlCiwSPd4AaABAg",
+  "snippet": {
+    "videoId": "vZgfibCYJDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hZQdmL_YGpvn9i4ZQhk87dp7v6Y",
+      "id": "UgyAFUx5MwJSlCiwSPd4AaABAg",
+      "snippet": {
+        "videoId": "vZgfibCYJDI",
+        "textDisplay": "ITABUNA, BAHIA",
+        "textOriginal": "ITABUNA, BAHIA",
+        "authorDisplayName": "Miqu\u00e9ias Dantas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQoW3nE_Ywpq7RlAf1o4pzAE0jYXBfkXPAMaeWIn0o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSLcQeHMat0HcmN2G8IDHGA",
+        "authorChannelId": {
+          "value": "UCSLcQeHMat0HcmN2G8IDHGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2018-10-18T04:44:48Z",
+        "updatedAt": "2018-10-18T04:45:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fydBr9J8gKG-qgpO05kGQKZO04Q",
+      "id": "UgyAFUx5MwJSlCiwSPd4AaABAg.8mXRnW3w9o38vKrvUzd5m4",
+      "snippet": {
+        "textDisplay": "Lutadikarat\n\n\n\nBoa\nLutadikarat",
+        "textOriginal": "Lutadikarat\n\n\n\nBoa\nLutadikarat",
+        "parentId": "UgyAFUx5MwJSlCiwSPd4AaABAg",
+        "authorDisplayName": "Jair Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQy2TIGSqOdrbObvVNHhuwm6HxpLCqlbdtnig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQtOTqsA5ahWZfJDmta6HfQ",
+        "authorChannelId": {
+          "value": "UCQtOTqsA5ahWZfJDmta6HfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-05-25T00:14:14Z",
+        "updatedAt": "2019-05-25T00:14:14Z"
+      }
+    }
+  ]
+}

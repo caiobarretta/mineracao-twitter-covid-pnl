@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "euJvJ21ktfbQGbyau-397A18la0",
+  "id": "UgwOsXU4xdoMWMxvp7F4AaABAg",
+  "snippet": {
+    "videoId": "b0NxVWTIxjQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-I_f9Q-iqxMrM53epN9EkRGWxik",
+      "id": "UgwOsXU4xdoMWMxvp7F4AaABAg",
+      "snippet": {
+        "videoId": "b0NxVWTIxjQ",
+        "textDisplay": "N\u00e3o se corta unha de rec\u00e9m nascida",
+        "textOriginal": "N\u00e3o se corta unha de rec\u00e9m nascida",
+        "authorDisplayName": "Thalita Braga",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiw9i2v3uFVVO9vzzM93elOuhYu-ctRdUVtTpLskc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiaUG3rVxoOVeLk_SfcFkOQ",
+        "authorChannelId": {
+          "value": "UCiaUG3rVxoOVeLk_SfcFkOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-08T01:38:46Z",
+        "updatedAt": "2021-09-08T01:38:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YJJmEmRWawwzC9iWhMt4W3UryIY",
+      "id": "UgwOsXU4xdoMWMxvp7F4AaABAg.9S0Dwzkp5aq9SoWLdvAukY",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgwOsXU4xdoMWMxvp7F4AaABAg",
+        "authorDisplayName": "Emily Rhis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lmhrJz6kBv8l_3muPcWnmAC5cufoMEr36B0d66SoWEZYhzp_V_K0CXDYsLwEcbLTs77NOP8cdqo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTKhCLQFVL_RWcKlLYF2Mw",
+        "authorChannelId": {
+          "value": "UCnTKhCLQFVL_RWcKlLYF2Mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T23:40:50Z",
+        "updatedAt": "2021-09-27T23:40:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k2UGnoNwQlZkUS0FDh3rJNuoovQ",
+  "id": "UgwjAT8t7HGG14rH9BJ4AaABAg",
+  "snippet": {
+    "videoId": "hVGkaKmCK10",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Vn1MkBJauhHdXasU9F6HAEoqhhM",
+      "id": "UgwjAT8t7HGG14rH9BJ4AaABAg",
+      "snippet": {
+        "videoId": "hVGkaKmCK10",
+        "textDisplay": "Parab\u00e9ns!!",
+        "textOriginal": "Parab\u00e9ns!!",
+        "authorDisplayName": "Magelacaldas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8bl1tOjKwazqg4BYiDLusMbUzPQceycY2Hg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6ZCZudkS2nCnBZ0WWA7dMw",
+        "authorChannelId": {
+          "value": "UC6ZCZudkS2nCnBZ0WWA7dMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-17T19:43:55Z",
+        "updatedAt": "2021-02-17T19:43:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "C-vo1JXh4XB9A2ob4V34bOwvcQU",
+      "id": "UgwjAT8t7HGG14rH9BJ4AaABAg.9JsSl8zTMxa9JuOpLgdKXd",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Magela.",
+        "textOriginal": "Muito obrigado, Magela.",
+        "parentId": "UgwjAT8t7HGG14rH9BJ4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-18T13:48:01Z",
+        "updatedAt": "2021-02-18T13:48:01Z"
+      }
+    }
+  ]
+}

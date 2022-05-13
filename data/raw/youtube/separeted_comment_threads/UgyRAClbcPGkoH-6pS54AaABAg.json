@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0TVR8UpLvYZom04rx1VnXZBDl3A",
+  "id": "UgyRAClbcPGkoH-6pS54AaABAg",
+  "snippet": {
+    "videoId": "RWEFtjvlHIE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gvU-7RScFCIvKan2Tf3hV3VdV-8",
+      "id": "UgyRAClbcPGkoH-6pS54AaABAg",
+      "snippet": {
+        "videoId": "RWEFtjvlHIE",
+        "textDisplay": "Eu odeio jornal meu marido fica o tempo todo vendo jn",
+        "textOriginal": "Eu odeio jornal meu marido fica o tempo todo vendo jn",
+        "authorDisplayName": "Marli Anselmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCOZtIyeoFSiO0IxEYH_WKAYCw9Ns1qyiIVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7_jy_AjBBvJM3SHZJrVzQg",
+        "authorChannelId": {
+          "value": "UC7_jy_AjBBvJM3SHZJrVzQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-15T15:13:56Z",
+        "updatedAt": "2020-05-15T15:13:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fTxaZXhnGRu_89rQHRp0cK7JiUU",
+      "id": "UgyRAClbcPGkoH-6pS54AaABAg.98g8sX_UGSC9AaMUKaElBt",
+      "snippet": {
+        "textDisplay": "Oi o meu tamb\u00e9m aff!",
+        "textOriginal": "Oi o meu tamb\u00e9m aff!",
+        "parentId": "UgyRAClbcPGkoH-6pS54AaABAg",
+        "authorDisplayName": "Luciene Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7M9TIzy_ksd91ppkYppQmEiD86YZyx7Cupw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRv4oLqwv2xHloSEC6qZVyA",
+        "authorChannelId": {
+          "value": "UCRv4oLqwv2xHloSEC6qZVyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-02T02:20:10Z",
+        "updatedAt": "2020-07-02T02:20:10Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w8zBwmFigbzZa_FYlHMQPSq2Qtw",
+  "id": "UgyLeM8glWaJ-E93x5V4AaABAg",
+  "snippet": {
+    "videoId": "KOXNBA9b86I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VGfCUa8GiE5x9wgFwPVVl3ZnRb8",
+      "id": "UgyLeM8glWaJ-E93x5V4AaABAg",
+      "snippet": {
+        "videoId": "KOXNBA9b86I",
+        "textDisplay": "Muito bom. Vou colocar esse no meu plano de aula da EJA. Obrigada, Atila. Sou f\u00e3.",
+        "textOriginal": "Muito bom. Vou colocar esse no meu plano de aula da EJA. Obrigada, Atila. Sou f\u00e3.",
+        "authorDisplayName": "Camila Bandeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSO_Wi2ETpyrz4yNm6wLKZR6A5H9PHMv1UsAVte1Ao=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDbqHr2T4d0wxIxV7yHDgJA",
+        "authorChannelId": {
+          "value": "UCDbqHr2T4d0wxIxV7yHDgJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 29,
+        "publishedAt": "2020-05-01T18:06:12Z",
+        "updatedAt": "2020-05-01T18:06:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pEbYcfW1eVrFFZYLFm9c0NtByDU",
+      "id": "UgyLeM8glWaJ-E93x5V4AaABAg.987PT-Q2nGp987bVaHLBCZ",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m estou utilizando.",
+        "textOriginal": "Tamb\u00e9m estou utilizando.",
+        "parentId": "UgyLeM8glWaJ-E93x5V4AaABAg",
+        "authorDisplayName": "Juliane Siqueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsnz2ijvKWDgOfFa1GqhBBGEksA3_KmGmKNjoBaAU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWTFZTg8K-2oo3ZL6IJfqHQ",
+        "authorChannelId": {
+          "value": "UCWTFZTg8K-2oo3ZL6IJfqHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-01T20:00:09Z",
+        "updatedAt": "2020-05-01T20:00:09Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ubEf0J4zR-YxXSqMj-I6kO6nHEk",
+  "id": "Ugw97NxpBDX2sz_kQh14AaABAg",
+  "snippet": {
+    "videoId": "2dr_lvA79pI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DMw3YEQH0iockw6ySac3wNjQAys",
+      "id": "Ugw97NxpBDX2sz_kQh14AaABAg",
+      "snippet": {
+        "videoId": "2dr_lvA79pI",
+        "textDisplay": "Muito bom !!! Parab\u00e9ns pela did\u00e1tica e clareza",
+        "textOriginal": "Muito bom !!! Parab\u00e9ns pela did\u00e1tica e clareza",
+        "authorDisplayName": "marcofabri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVriUtoN1gmn_d-ieC-8itaxqUkWDKJhWlAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJhnydioMc_4fg82WlG2b7g",
+        "authorChannelId": {
+          "value": "UCJhnydioMc_4fg82WlG2b7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-08T23:02:51Z",
+        "updatedAt": "2020-06-08T23:02:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ijsgMv48pVpZPtO6b1loXD2vHHw",
+      "id": "Ugw97NxpBDX2sz_kQh14AaABAg.99emc-r11wO99gjDsj0fAr",
+      "snippet": {
+        "textDisplay": "Ah, que bacana! Muito obrigada.",
+        "textOriginal": "Ah, que bacana! Muito obrigada.",
+        "parentId": "Ugw97NxpBDX2sz_kQh14AaABAg",
+        "authorDisplayName": "LinfoTube",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8pXPzNLoKBcfdNMHh9RgEHszPTkq261vG7oU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eNzDPotkyhbk8jmqEDqEA",
+        "authorChannelId": {
+          "value": "UC2eNzDPotkyhbk8jmqEDqEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-09T17:11:41Z",
+        "updatedAt": "2020-06-09T17:11:41Z"
+      }
+    }
+  ]
+}

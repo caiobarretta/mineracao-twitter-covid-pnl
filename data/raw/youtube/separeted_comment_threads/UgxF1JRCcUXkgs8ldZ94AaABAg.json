@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RQJM5BAfZNZIR2JnJ9vevyIuedw",
+  "id": "UgxF1JRCcUXkgs8ldZ94AaABAg",
+  "snippet": {
+    "videoId": "Le7jNJXSMlY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U4yDcMpvohKcdXp7M4FrpFQbKgY",
+      "id": "UgxF1JRCcUXkgs8ldZ94AaABAg",
+      "snippet": {
+        "videoId": "Le7jNJXSMlY",
+        "textDisplay": "Miseric\u00f3rdia meu Deus \ud83d\ude2d",
+        "textOriginal": "Miseric\u00f3rdia meu Deus \ud83d\ude2d",
+        "authorDisplayName": "Aline",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6tmMUgOSxlMx9VyozZHU8z_aB1fBi64Gt_l5jTjwRpsrLTrx0q62qYkYdrUlA7fa8xgfVqcY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXHU5r3A_GSUGCOYvyyMkkw",
+        "authorChannelId": {
+          "value": "UCXHU5r3A_GSUGCOYvyyMkkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2021-08-22T01:52:33Z",
+        "updatedAt": "2021-08-22T01:52:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2da8W3Tl-2UW3gJQt6OHQGqm51M",
+      "id": "UgxF1JRCcUXkgs8ldZ94AaABAg.9RKU03nKPiN9RLYDcrZ3fw",
+      "snippet": {
+        "textDisplay": "Am\u00e9m.",
+        "textOriginal": "Am\u00e9m.",
+        "parentId": "UgxF1JRCcUXkgs8ldZ94AaABAg",
+        "authorDisplayName": "Antonio carlos Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvmOQfdb_bdWT3uNQWWxr0ifAwmfIMfdhZJchrJg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbngAZ5wOeN2oxuoOecQdzQ",
+        "authorChannelId": {
+          "value": "UCbngAZ5wOeN2oxuoOecQdzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-22T11:48:36Z",
+        "updatedAt": "2021-08-22T11:48:36Z"
+      }
+    }
+  ]
+}

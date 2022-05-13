@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oEq_5zH774wBML4wo5HC5oJSnhY",
+  "id": "UgwgdnruLbcV-hxt5aF4AaABAg",
+  "snippet": {
+    "videoId": "7TQLqCTn5Zw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dO9vYdB7H5E5UGW-99j1HytfGhQ",
+      "id": "UgwgdnruLbcV-hxt5aF4AaABAg",
+      "snippet": {
+        "videoId": "7TQLqCTn5Zw",
+        "textDisplay": "Boa Tarde, algu\u00e9m pode me informar se as provas te\u00f3ricas (20/02) v\u00e3o ser realizadas no per\u00edodo da manh\u00e3 ou da tarde?",
+        "textOriginal": "Boa Tarde, algu\u00e9m pode me informar se as provas te\u00f3ricas (20/02) v\u00e3o ser realizadas no per\u00edodo da manh\u00e3 ou da tarde?",
+        "authorDisplayName": "Regis Calixto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8RGlI8X84_kO5U7N2LUGkabw7pFUaQGuRAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu8rfls72S5S7Zu1QkGfC9g",
+        "authorChannelId": {
+          "value": "UCu8rfls72S5S7Zu1QkGfC9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-02T15:41:35Z",
+        "updatedAt": "2022-01-02T15:42:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EmduSb1-j3XUphR0lhMcIWG6OR8",
+      "id": "UgwgdnruLbcV-hxt5aF4AaABAg.9WhQbRO38x_9X1X9UVq9tk",
+      "snippet": {
+        "textDisplay": "Manh\u00e3",
+        "textOriginal": "Manh\u00e3",
+        "parentId": "UgwgdnruLbcV-hxt5aF4AaABAg",
+        "authorDisplayName": "Mayra Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRS2_kLJcJsr672VdTDHWGL_2AxTQlgxBUNzB5EgQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB23EXaMy4u3EnuuUdFwKLA",
+        "authorChannelId": {
+          "value": "UCB23EXaMy4u3EnuuUdFwKLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-10T20:22:51Z",
+        "updatedAt": "2022-01-10T20:22:51Z"
+      }
+    }
+  ]
+}

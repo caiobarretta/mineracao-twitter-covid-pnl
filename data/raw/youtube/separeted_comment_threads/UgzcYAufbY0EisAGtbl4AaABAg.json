@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ucTSOR6S7JwNkAu_fxH56tAklOs",
+  "id": "UgzcYAufbY0EisAGtbl4AaABAg",
+  "snippet": {
+    "videoId": "_ksyBak3YBw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "i5PRdpNSyx0cpQer2hXa_naA1oU",
+      "id": "UgzcYAufbY0EisAGtbl4AaABAg",
+      "snippet": {
+        "videoId": "_ksyBak3YBw",
+        "textDisplay": "TE AMO",
+        "textOriginal": "TE AMO",
+        "authorDisplayName": "Alexandre Lorenzzon Lazaron",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2oYWiYBmQU23qmzSOQC7fw-ZfxqXctHFjG_pNeA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_fDShzdYm6kaWOXd5tPdtw",
+        "authorChannelId": {
+          "value": "UC_fDShzdYm6kaWOXd5tPdtw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-28T13:03:26Z",
+        "updatedAt": "2021-10-28T13:03:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aBMkBK2oZDzk9wdh5QBXwukeu-4",
+      "id": "UgzcYAufbY0EisAGtbl4AaABAg.9U2C2HR5f2K9U5fQtdtVsb",
+      "snippet": {
+        "textDisplay": "haha \ud83d\ude05\ud83d\ude05",
+        "textOriginal": "haha \ud83d\ude05\ud83d\ude05",
+        "parentId": "UgzcYAufbY0EisAGtbl4AaABAg",
+        "authorDisplayName": "Arruma Essa Mala",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkx1bv_iHoxaU_f9HpDZGnNYwQrHi-9WRiovrR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe6GYBGcsSPncTUDtHgVAuw",
+        "authorChannelId": {
+          "value": "UCe6GYBGcsSPncTUDtHgVAuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-29T21:26:39Z",
+        "updatedAt": "2021-10-29T21:26:39Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z6qaoHnxs7Pdz_O6pq5oMzr1w_I",
+  "id": "UgxZr6dtcT4WayXZMVx4AaABAg",
+  "snippet": {
+    "videoId": "Ugpl5BPSjcA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IQ3yz2W1xALfglcMcSrMpUlfc5s",
+      "id": "UgxZr6dtcT4WayXZMVx4AaABAg",
+      "snippet": {
+        "videoId": "Ugpl5BPSjcA",
+        "textDisplay": "Est\u00e3o tentando empurrar essa porcaria de qualquer jeito.",
+        "textOriginal": "Est\u00e3o tentando empurrar essa porcaria de qualquer jeito.",
+        "authorDisplayName": "Gatinho Miador da Madrugada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcPvfeUeLgRcVhum6RVti127wWxUpdsg7IqJwMVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA4LZaX4vrFui5cWIpFMlMA",
+        "authorChannelId": {
+          "value": "UCA4LZaX4vrFui5cWIpFMlMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-21T12:18:19Z",
+        "updatedAt": "2021-10-21T12:18:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wXFWQoDYPaj23FJH5sBqQBesh90",
+      "id": "UgxZr6dtcT4WayXZMVx4AaABAg.9Tl5JpHiN9F9TmY40dNd7t",
+      "snippet": {
+        "textDisplay": "infelizmente",
+        "textOriginal": "infelizmente",
+        "parentId": "UgxZr6dtcT4WayXZMVx4AaABAg",
+        "authorDisplayName": "Reginaldo geronimo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQby036OhfnnKluC-HgAxY6RuM4C_74pRGT3-_mww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgvScZiCy8kw4yccVWPsG3g",
+        "authorChannelId": {
+          "value": "UCgvScZiCy8kw4yccVWPsG3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-22T01:48:49Z",
+        "updatedAt": "2021-10-22T01:48:49Z"
+      }
+    }
+  ]
+}

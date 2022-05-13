@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MmK68zhnXML2Ejh08dDLU92zHA4",
+  "id": "UgyOe6oVnuFVFdyDfaJ4AaABAg",
+  "snippet": {
+    "videoId": "_rzCcWV-CBs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "idy52q-uhc76rrIYkl9kijv-5Cs",
+      "id": "UgyOe6oVnuFVFdyDfaJ4AaABAg",
+      "snippet": {
+        "videoId": "_rzCcWV-CBs",
+        "textDisplay": "E o surto de c\u00e2ncer, taquicardia",
+        "textOriginal": "E o surto de c\u00e2ncer, taquicardia",
+        "authorDisplayName": "Edgar Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNa53XYIrqNA3OpQ57HmouJD-1TSF2bcmXjEP7Zdo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX0um9KuFvUr0_mt51Y9cYQ",
+        "authorChannelId": {
+          "value": "UCX0um9KuFvUr0_mt51Y9cYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-03-13T11:35:08Z",
+        "updatedAt": "2022-03-13T11:35:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZeWoL1leINF5nUCqLmd6PKVfwis",
+      "id": "UgyOe6oVnuFVFdyDfaJ4AaABAg.9ZWE2dRNV8c9ZWuc56k5ZS",
+      "snippet": {
+        "textDisplay": "E o negacionista nega",
+        "textOriginal": "E o negacionista nega",
+        "parentId": "UgyOe6oVnuFVFdyDfaJ4AaABAg",
+        "authorDisplayName": "Clarice de Assis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mbGf1-1I8FgijipiamJF0ZB6cvc_60OMp_H_rlMLGLWUoY7ERsfHfws9OO0Edep_2HHGIHlS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCENf1WQUqt0sjo8OPTA1y-Q",
+        "authorChannelId": {
+          "value": "UCENf1WQUqt0sjo8OPTA1y-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-13T17:55:51Z",
+        "updatedAt": "2022-03-13T17:55:51Z"
+      }
+    }
+  ]
+}

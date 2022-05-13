@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YCPxi0dh9lNfGk6-w2tHEOuzdUg",
+  "id": "Ugxk3lWAl-jKXH4BIqd4AaABAg",
+  "snippet": {
+    "videoId": "zUIkhvdHHYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oQsHlcv0XAYKY3tVrSHEZ3N-PaE",
+      "id": "Ugxk3lWAl-jKXH4BIqd4AaABAg",
+      "snippet": {
+        "videoId": "zUIkhvdHHYE",
+        "textDisplay": "Te amo tayo manda salve",
+        "textOriginal": "Te amo tayo manda salve",
+        "authorDisplayName": "Diana OLIVEIRA BATISTA GONDIM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6B1q63FN60LT7BIXqPq5ZzMOoUNTU0HE5HA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCud4fzgC1yU1mGJGyGCxgMA",
+        "authorChannelId": {
+          "value": "UCud4fzgC1yU1mGJGyGCxgMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-24T14:36:15Z",
+        "updatedAt": "2020-07-24T14:36:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QTbIj7pHNd2lM9Iwi3A8PNmjJC0",
+      "id": "Ugxk3lWAl-jKXH4BIqd4AaABAg.9BVKCk46ZFp9BVhyqrm9Wc",
+      "snippet": {
+        "textDisplay": "T\u00e1 bom Diana pode deixar vou mandar um salve para voc\u00ea",
+        "textOriginal": "T\u00e1 bom Diana pode deixar vou mandar um salve para voc\u00ea",
+        "parentId": "Ugxk3lWAl-jKXH4BIqd4AaABAg",
+        "authorDisplayName": "TAYO KAYE COLETA DE SANGUE ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vyMesZQicP_ZfDg79KariN1Iks_Ko0OAvXcdlYYaqdu3RBYMsroD2VfXvKzi0RPivq1sPXxWTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWDPNea9g9A83XfcglCvcYw",
+        "authorChannelId": {
+          "value": "UCWDPNea9g9A83XfcglCvcYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-24T18:12:40Z",
+        "updatedAt": "2020-07-24T18:12:40Z"
+      }
+    }
+  ]
+}

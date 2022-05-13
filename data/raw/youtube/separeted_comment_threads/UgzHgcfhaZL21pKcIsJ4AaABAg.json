@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TPus6_wFB49q3oOZ2NJ5YftSCGk",
+  "id": "UgzHgcfhaZL21pKcIsJ4AaABAg",
+  "snippet": {
+    "videoId": "WrAKg-NMagk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xpbGARPy5hp5Fz0ukM5JHaEOa1s",
+      "id": "UgzHgcfhaZL21pKcIsJ4AaABAg",
+      "snippet": {
+        "videoId": "WrAKg-NMagk",
+        "textDisplay": "\u00d3tima mat\u00e9ria, parab\u00e9ns Demi Moore \u2764\ufe0f",
+        "textOriginal": "\u00d3tima mat\u00e9ria, parab\u00e9ns Demi Moore \u2764\ufe0f",
+        "authorDisplayName": "Diego Brag\u00e0",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8eGMQctNA0-vCuxeNeVTo18hVv4Kjo2cFUchR4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfwdqjuzKlEMw8aatw4Clhw",
+        "authorChannelId": {
+          "value": "UCfwdqjuzKlEMw8aatw4Clhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-04-14T15:33:24Z",
+        "updatedAt": "2020-04-14T15:33:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iJ746Pvar5dIWQyUT6srzQ-FygY",
+      "id": "UgzHgcfhaZL21pKcIsJ4AaABAg.97RMT-YjyLu97W803mZ8PO",
+      "snippet": {
+        "textDisplay": "Bem lembrado",
+        "textOriginal": "Bem lembrado",
+        "parentId": "UgzHgcfhaZL21pKcIsJ4AaABAg",
+        "authorDisplayName": "Sergio Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdNu9u-mOAoGc4ri2GqsyvB4rqMHPJJsEdKXvi3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeUNPzdmdbyqHlkCM_RHT7Q",
+        "authorChannelId": {
+          "value": "UCeUNPzdmdbyqHlkCM_RHT7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-16T12:03:19Z",
+        "updatedAt": "2020-04-16T12:03:19Z"
+      }
+    }
+  ]
+}

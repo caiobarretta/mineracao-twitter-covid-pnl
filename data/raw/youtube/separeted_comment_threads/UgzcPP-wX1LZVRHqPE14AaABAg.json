@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HfJkp4B3lLwn60LkkMghvc4l3ho",
+  "id": "UgzcPP-wX1LZVRHqPE14AaABAg",
+  "snippet": {
+    "videoId": "jG5Vid4nibg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "u1q9nUZ9Ur0wrslOI_WWUbN-Py0",
+      "id": "UgzcPP-wX1LZVRHqPE14AaABAg",
+      "snippet": {
+        "videoId": "jG5Vid4nibg",
+        "textDisplay": "Incr\u00edvel aula. Muito obrigado novamente, Prof. Saldiva! Se cuide muito bem, por favor.",
+        "textOriginal": "Incr\u00edvel aula. Muito obrigado novamente, Prof. Saldiva! Se cuide muito bem, por favor.",
+        "authorDisplayName": "Guilherme Samel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDeuY7sZyBpCjoN3_xTUS-V5kfx8oE85nAABTqzt8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClDXI5tEAvl6ss317GbXQiA",
+        "authorChannelId": {
+          "value": "UClDXI5tEAvl6ss317GbXQiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-11T17:15:39Z",
+        "updatedAt": "2020-04-11T17:15:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "L8vWY2E9o_c_rpP38Owdb_Vu2z4",
+      "id": "UgzcPP-wX1LZVRHqPE14AaABAg.97JomDMkt9y97Jvx40jNs4",
+      "snippet": {
+        "textDisplay": "Caro Guilherme. Inicialmente, obrigado pelas palavras de aten\u00e7\u00e3o. Gosto de dar aulas e dou vaz\u00e3o por aqui. Abra\u00e7o",
+        "textOriginal": "Caro Guilherme. Inicialmente, obrigado pelas palavras de aten\u00e7\u00e3o. Gosto de dar aulas e dou vaz\u00e3o por aqui. Abra\u00e7o",
+        "parentId": "UgzcPP-wX1LZVRHqPE14AaABAg",
+        "authorDisplayName": "Paulo Saldiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzWHhz04j9GLRHiPC6A8EJ3kW3_JEkTbOvO6D0yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3wfBEKKDKHjLbk1FX7oRKQ",
+        "authorChannelId": {
+          "value": "UC3wfBEKKDKHjLbk1FX7oRKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-11T18:18:17Z",
+        "updatedAt": "2020-04-11T18:18:17Z"
+      }
+    }
+  ]
+}

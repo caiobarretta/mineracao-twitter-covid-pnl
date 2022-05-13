@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xq8pBQru5YBKZUOg81g5Fj_g3Rc",
+  "id": "UgwNLkQUJeDPE8ozZ2B4AaABAg",
+  "snippet": {
+    "videoId": "Js6TZEg9y3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "M-YFMuQzDk6TMrwHf2a9AKDEWpo",
+      "id": "UgwNLkQUJeDPE8ozZ2B4AaABAg",
+      "snippet": {
+        "videoId": "Js6TZEg9y3I",
+        "textDisplay": "Precisamos que todo mundo volta usar a m\u00e1scara pelo amor de Deus",
+        "textOriginal": "Precisamos que todo mundo volta usar a m\u00e1scara pelo amor de Deus",
+        "authorDisplayName": "Mariene Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmsEjP5SzZoIFXc_pjhbsAqX-gNZBDXFeHhw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqLQIELowPd1JcJC_UC__DA",
+        "authorChannelId": {
+          "value": "UCqLQIELowPd1JcJC_UC__DA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-12T14:05:30Z",
+        "updatedAt": "2022-05-12T14:05:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i3tppqKVMQjm1OaxmQoyoVoAocI",
+      "id": "UgwNLkQUJeDPE8ozZ2B4AaABAg.9avzxRUMmKG9awlRuJgfpC",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgwNLkQUJeDPE8ozZ2B4AaABAg",
+        "authorDisplayName": "nathy gamer YT\u2661",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/4IOkiBQrBkeKrQ1uIFLBUSNAVYFVjMKBOn15DlimfK9_aTUOXBKKb__b1S4lccU0344WVBwKdcw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaGHLjwRESSUl46W52amCOw",
+        "authorChannelId": {
+          "value": "UCaGHLjwRESSUl46W52amCOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T21:17:58Z",
+        "updatedAt": "2022-05-12T21:17:58Z"
+      }
+    }
+  ]
+}

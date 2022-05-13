@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ImAhtQSN3HqVO1GRh4EJXL-BLYs",
+  "id": "Ugx4oT6j-4yVZHLhqt54AaABAg",
+  "snippet": {
+    "videoId": "LwUjglzIUhc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "M7z3PdWZlqa6lnI2qEFSrDXARbc",
+      "id": "Ugx4oT6j-4yVZHLhqt54AaABAg",
+      "snippet": {
+        "videoId": "LwUjglzIUhc",
+        "textDisplay": "Obgd amigo vc \u00e9 um amg \ud83e\udd1d consegui terminar minha li\u00e7\u00e3o",
+        "textOriginal": "Obgd amigo vc \u00e9 um amg \ud83e\udd1d consegui terminar minha li\u00e7\u00e3o",
+        "authorDisplayName": "ISABELA Freitas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYEaLalCJi0IJmqxyBFjQBkTEUMhS0wNBXfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ7n1-xwlTDzSWeefNqi_aA",
+        "authorChannelId": {
+          "value": "UCJ7n1-xwlTDzSWeefNqi_aA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-02-26T15:54:39Z",
+        "updatedAt": "2021-02-26T15:54:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6KBNm9_SIIPnDAJOJsup82hN00g",
+      "id": "Ugx4oT6j-4yVZHLhqt54AaABAg.9KEDfsqOeOG9KfiwSGC_TV",
+      "snippet": {
+        "textDisplay": "Vai",
+        "textOriginal": "Vai",
+        "parentId": "Ugx4oT6j-4yVZHLhqt54AaABAg",
+        "authorDisplayName": "Bianca Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgsKmXOa9KlefGZZdSzLbazGX3bO4tQQUFMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5RdYn6UzRR_sLU5SjC34wA",
+        "authorChannelId": {
+          "value": "UC5RdYn6UzRR_sLU5SjC34wA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-09T17:35:16Z",
+        "updatedAt": "2021-03-09T17:35:16Z"
+      }
+    }
+  ]
+}

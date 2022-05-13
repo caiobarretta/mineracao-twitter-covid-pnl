@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "imWqqiu6XVwE0vIT8kM52hDMcIM",
+  "id": "UgyaZdCmKIsWxc3JOqN4AaABAg",
+  "snippet": {
+    "videoId": "Elle1BwIM4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zm11M2zRMVAz0jSFSW_AIN0Rm9k",
+      "id": "UgyaZdCmKIsWxc3JOqN4AaABAg",
+      "snippet": {
+        "videoId": "Elle1BwIM4E",
+        "textDisplay": "fala mestre posso esse som no meu prox\u00edmo v\u00eddeo ?",
+        "textOriginal": "fala mestre posso esse som no meu prox\u00edmo v\u00eddeo ?",
+        "authorDisplayName": "Lixo Comum",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t5p_V4sd5gTWXIJh9mDSXsLLAJqN8RwZxLDLfCStomQLDHR5LEzoR7Yia03IYmokrf0yvmtytLk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7wcFgGdQF20z9BftbgbtvA",
+        "authorChannelId": {
+          "value": "UC7wcFgGdQF20z9BftbgbtvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T20:22:55Z",
+        "updatedAt": "2020-03-18T20:22:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HTldnFsW6tmEV2hvXvs9ZhhCEg8",
+      "id": "UgyaZdCmKIsWxc3JOqN4AaABAg.96MM7qP2cgw96MMVbjsbX8",
+      "snippet": {
+        "textDisplay": "S\u00f3 pode. Agrade\u00e7o o interesse",
+        "textOriginal": "S\u00f3 pode. Agrade\u00e7o o interesse",
+        "parentId": "UgyaZdCmKIsWxc3JOqN4AaABAg",
+        "authorDisplayName": "De Leve",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdZIA0pOQmoYcCuxdCEooeGWSiFpGxgXwI-1go9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWUW07RCXIkrBHPmypX9ikQ",
+        "authorChannelId": {
+          "value": "UCWUW07RCXIkrBHPmypX9ikQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T20:26:10Z",
+        "updatedAt": "2020-03-18T20:26:10Z"
+      }
+    }
+  ]
+}

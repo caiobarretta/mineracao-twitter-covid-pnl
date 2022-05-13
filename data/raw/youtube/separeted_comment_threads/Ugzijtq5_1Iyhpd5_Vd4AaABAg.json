@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DHCY3iC0ZICUa3GcL0Q4ERPCK40",
+  "id": "Ugzijtq5_1Iyhpd5_Vd4AaABAg",
+  "snippet": {
+    "videoId": "CsrHHHPHKwE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CNEP1RmOOnKkDhp5thdApU8-WoM",
+      "id": "Ugzijtq5_1Iyhpd5_Vd4AaABAg",
+      "snippet": {
+        "videoId": "CsrHHHPHKwE",
+        "textDisplay": "Gostei do V\u00eddeo casal CDF, estou come\u00e7ando a minha carreira como Dev Js, j\u00e1 tenho usado PHP com Laravel, podem a\u00ed dar um framework Js monol\u00edtico tipo Laravel?",
+        "textOriginal": "Gostei do V\u00eddeo casal CDF, estou come\u00e7ando a minha carreira como Dev Js, j\u00e1 tenho usado PHP com Laravel, podem a\u00ed dar um framework Js monol\u00edtico tipo Laravel?",
+        "authorDisplayName": "Aldmiro Passagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyJOcZtbSr5yEEho_NqwdnD1AHt036TJIhk-sAYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7yANqCqfYKbcCQyr9B4ySA",
+        "authorChannelId": {
+          "value": "UC7yANqCqfYKbcCQyr9B4ySA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T14:24:55Z",
+        "updatedAt": "2022-05-10T14:26:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Mbj9f5BpzB8ieXxUtYJsqs7hpFs",
+      "id": "Ugzijtq5_1Iyhpd5_Vd4AaABAg.9aqs_uwyk3A9asxk7KZd4K",
+      "snippet": {
+        "textDisplay": "@Aldmiro Passagem AdonisJS e segue os mesmos conceitos de arquitetura do laravel da uma olhada. Ele \u00e9 pra Nodejs",
+        "textOriginal": "@Aldmiro Passagem AdonisJS e segue os mesmos conceitos de arquitetura do laravel da uma olhada. Ele \u00e9 pra Nodejs",
+        "parentId": "Ugzijtq5_1Iyhpd5_Vd4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Gabriel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQv_8d_NnydRP_O9KrxL6loNRVS9EkQXKQDndRP8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx-eJdKpSl152wb8CCfYKlQ",
+        "authorChannelId": {
+          "value": "UCx-eJdKpSl152wb8CCfYKlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T09:48:29Z",
+        "updatedAt": "2022-05-11T09:48:29Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "x577FXxVAZEbgHtnagqDnAKWiU8",
+      "id": "Ugzijtq5_1Iyhpd5_Vd4AaABAg.9aqs_uwyk3A9ass-bImhGa",
+      "snippet": {
+        "textDisplay": "@Jos\u00e9 Gabriel Gostaria mesmo de saber qual",
+        "textOriginal": "@Jos\u00e9 Gabriel Gostaria mesmo de saber qual",
+        "parentId": "Ugzijtq5_1Iyhpd5_Vd4AaABAg",
+        "authorDisplayName": "Aldmiro Passagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyJOcZtbSr5yEEho_NqwdnD1AHt036TJIhk-sAYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7yANqCqfYKbcCQyr9B4ySA",
+        "authorChannelId": {
+          "value": "UC7yANqCqfYKbcCQyr9B4ySA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T08:58:18Z",
+        "updatedAt": "2022-05-11T08:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MRtAXQl3P8eB6K3Non7sAYj-szg",
+      "id": "Ugzijtq5_1Iyhpd5_Vd4AaABAg.9aqs_uwyk3A9ar5D1Js9cw",
+      "snippet": {
+        "textDisplay": "Tem um framework Js que imita o laravel. Esqueci o nome. Espero ter ajudado de alguma forma",
+        "textOriginal": "Tem um framework Js que imita o laravel. Esqueci o nome. Espero ter ajudado de alguma forma",
+        "parentId": "Ugzijtq5_1Iyhpd5_Vd4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Gabriel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQv_8d_NnydRP_O9KrxL6loNRVS9EkQXKQDndRP8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx-eJdKpSl152wb8CCfYKlQ",
+        "authorChannelId": {
+          "value": "UCx-eJdKpSl152wb8CCfYKlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T16:23:59Z",
+        "updatedAt": "2022-05-10T16:23:59Z"
+      }
+    }
+  ]
+}

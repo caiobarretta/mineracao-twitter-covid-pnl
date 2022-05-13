@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rOWHGkxsRwVfHKS_-azZNHn8S5A",
+  "id": "UgwzY2q_LuMehYiAo7V4AaABAg",
+  "snippet": {
+    "videoId": "_OMLFJEqnnU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zG028B1rEH-q7MbsljntPuWWvWs",
+      "id": "UgwzY2q_LuMehYiAo7V4AaABAg",
+      "snippet": {
+        "videoId": "_OMLFJEqnnU",
+        "textDisplay": "Quero v\u00ea hahaha",
+        "textOriginal": "Quero v\u00ea hahaha",
+        "authorDisplayName": "Brayan Mainardes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMzniMnmSMNh1789aFa4BMKvbSNvDgG-FaUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1FUJ7qFuSsPGyizNNUwhkg",
+        "authorChannelId": {
+          "value": "UC1FUJ7qFuSsPGyizNNUwhkg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-07-19T21:34:10Z",
+        "updatedAt": "2021-07-19T21:34:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CdEKe4NI-xFi2oPY5gJSEN_vt0M",
+      "id": "UgwzY2q_LuMehYiAo7V4AaABAg.9Q-2CgAAugu9Q1QFdUjMr2",
+      "snippet": {
+        "textDisplay": "12y\u00fdn",
+        "textOriginal": "12y\u00fdn",
+        "parentId": "UgwzY2q_LuMehYiAo7V4AaABAg",
+        "authorDisplayName": "Iara Amorim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeoJR1cOqPcUEdO8VeEAKQje1lelNnLoPD0A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq2Dnvtn84rNtP0RHP8wYbg",
+        "authorChannelId": {
+          "value": "UCq2Dnvtn84rNtP0RHP8wYbg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-20T19:42:46Z",
+        "updatedAt": "2021-07-20T19:42:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "xYm6l6HiVGtBZc1a5axuTXoYdzo",
+      "id": "UgwzY2q_LuMehYiAo7V4AaABAg.9Q-2CgAAugu9Q0gUH8tfmy",
+      "snippet": {
+        "textDisplay": "\u0438\u043a\u043a\u043a",
+        "textOriginal": "\u0438\u043a\u043a\u043a",
+        "parentId": "UgwzY2q_LuMehYiAo7V4AaABAg",
+        "authorDisplayName": "\u0645\u0635\u0637\u0648 \u0645\u0635\u0637\u0648 \u0634\u064a\u062e",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAguApxodTbix3yHTkt0nCxNROsJ36ytQJuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0JHW3vI2JRGth2oEO17ieg",
+        "authorChannelId": {
+          "value": "UC0JHW3vI2JRGth2oEO17ieg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-20T12:54:04Z",
+        "updatedAt": "2021-07-20T12:54:04Z"
+      }
+    }
+  ]
+}

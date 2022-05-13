@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HqPTtFU9I_z7l8wzCwbiSIQ6Lfg",
+  "id": "UgzTcFLDIF3l2_X13PF4AaABAg",
+  "snippet": {
+    "videoId": "hErwxUG_WI8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mEPSXaR-VwEFr2xXOtHCeVusjew",
+      "id": "UgzTcFLDIF3l2_X13PF4AaABAg",
+      "snippet": {
+        "videoId": "hErwxUG_WI8",
+        "textDisplay": "Tudo foi excelente o material produzido. \nAssisti e divulguei.\nFeliz 2021. Venha vacina",
+        "textOriginal": "Tudo foi excelente o material produzido. \nAssisti e divulguei.\nFeliz 2021. Venha vacina",
+        "authorDisplayName": "angela fernandez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHrU1TSfJ1ZEu7dmRGzGfwFHy30tphzvsdfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLN7FVkHq-AaD7NQaa156zQ",
+        "authorChannelId": {
+          "value": "UCLN7FVkHq-AaD7NQaa156zQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-30T22:58:16Z",
+        "updatedAt": "2020-12-30T22:58:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eRa7CKvksXbkQpKcE-p6z71PVFY",
+      "id": "UgzTcFLDIF3l2_X13PF4AaABAg.9Hud2mRA-tu9IBJJFgYBbZ",
+      "snippet": {
+        "textDisplay": "Agradecemos, Angela.",
+        "textOriginal": "Agradecemos, Angela.",
+        "parentId": "UgzTcFLDIF3l2_X13PF4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-06T19:43:20Z",
+        "updatedAt": "2021-01-06T19:43:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QDbPtCdHVu9FsghMW1uZ1vO5e1o",
+  "id": "UgzCq-zsjx4IMm0f6sR4AaABAg",
+  "snippet": {
+    "videoId": "yuDpa-nU3t8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "z58dFFLYFW9sl2H_s1Gzn3QSdxM",
+      "id": "UgzCq-zsjx4IMm0f6sR4AaABAg",
+      "snippet": {
+        "videoId": "yuDpa-nU3t8",
+        "textDisplay": "Que Deus te aben\u00e7oe muito voc\u00ea faz um \u00f3timo trabalho.",
+        "textOriginal": "Que Deus te aben\u00e7oe muito voc\u00ea faz um \u00f3timo trabalho.",
+        "authorDisplayName": "Daniel ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTybKiVDZGT1hQmSD1BvCcZRpKwjowKH9AGDhwc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbzQtfGVs7jonf7L4knSctg",
+        "authorChannelId": {
+          "value": "UCbzQtfGVs7jonf7L4knSctg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 33,
+        "publishedAt": "2018-08-11T18:50:52Z",
+        "updatedAt": "2018-08-11T18:50:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nHUExyl05AFxpFLhUbLXq9NBshA",
+      "id": "UgzCq-zsjx4IMm0f6sR4AaABAg.8jorZnlo62m8mHUrFCczic",
+      "snippet": {
+        "textDisplay": "O Politize \u00e9 um grande canal!",
+        "textOriginal": "O Politize \u00e9 um grande canal!",
+        "parentId": "UgzCq-zsjx4IMm0f6sR4AaABAg",
+        "authorDisplayName": "Paulo Sergio Cardoso da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRl_jfaYm1DzXM-qwFOtlKA2P9y1fPhD7ymyN5z1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgWU1EKDVhHFkTsBBX027og",
+        "authorChannelId": {
+          "value": "UCgWU1EKDVhHFkTsBBX027og"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-10-12T00:03:40Z",
+        "updatedAt": "2018-10-12T00:04:04Z"
+      }
+    }
+  ]
+}

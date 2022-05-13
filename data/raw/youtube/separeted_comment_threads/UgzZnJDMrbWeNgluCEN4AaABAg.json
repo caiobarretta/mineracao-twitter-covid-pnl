@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6H27s3BJiLMBzgm1ZSkiVEZB_0c",
+  "id": "UgzZnJDMrbWeNgluCEN4AaABAg",
+  "snippet": {
+    "videoId": "LoVJCx6XXMM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IlGvKCOpdgXKuYWLRPD4mK5R0P0",
+      "id": "UgzZnJDMrbWeNgluCEN4AaABAg",
+      "snippet": {
+        "videoId": "LoVJCx6XXMM",
+        "textDisplay": "Amazing resource. Thank you!",
+        "textOriginal": "Amazing resource. Thank you!",
+        "authorDisplayName": "Carrie Fioramonti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmlcOG8Ze9ic1vzc8aUD5VM7eBDhM9trH5jYqbuY0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpiCPLR4o4uNXnElw9DzuQQ",
+        "authorChannelId": {
+          "value": "UCpiCPLR4o4uNXnElw9DzuQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-29T15:43:13Z",
+        "updatedAt": "2020-08-29T15:43:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vb8P34PEN8o2DFbO-R9ddynBIo0",
+      "id": "UgzZnJDMrbWeNgluCEN4AaABAg.9Cx8UhgvaPX9D1Ao8kGvtg",
+      "snippet": {
+        "textDisplay": "Glad you enjoyed it!",
+        "textOriginal": "Glad you enjoyed it!",
+        "parentId": "UgzZnJDMrbWeNgluCEN4AaABAg",
+        "authorDisplayName": "biointeractive",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYm4lXs9L72qG45_W9KOL4i9NjL6FQIDuuVd0Kkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdofq4hHbT3ZDzgYUqsDd1A",
+        "authorChannelId": {
+          "value": "UCdofq4hHbT3ZDzgYUqsDd1A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-31T14:39:41Z",
+        "updatedAt": "2020-08-31T14:39:41Z"
+      }
+    }
+  ]
+}

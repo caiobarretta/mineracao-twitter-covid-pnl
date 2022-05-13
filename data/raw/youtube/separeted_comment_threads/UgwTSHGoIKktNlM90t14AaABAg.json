@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "S0C7LOvxL27HSnlyPVZ8v5y7qFw",
+  "id": "UgwTSHGoIKktNlM90t14AaABAg",
+  "snippet": {
+    "videoId": "L6Y3A3nO2qI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RHaGO4vMIGb6eNbj72xNLDQrrG0",
+      "id": "UgwTSHGoIKktNlM90t14AaABAg",
+      "snippet": {
+        "videoId": "L6Y3A3nO2qI",
+        "textDisplay": "Um missil destruiu um Museu ou um paiol de muni\u00e7\u00f5es escondido no Museu?",
+        "textOriginal": "Um missil destruiu um Museu ou um paiol de muni\u00e7\u00f5es escondido no Museu?",
+        "authorDisplayName": "Osvaldo Menezes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5DYo0MBFmvDVBL30hN9KZXGvGZ90XzWEprOi4hg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvPeh5RTQ1W-uoXEvr-plzg",
+        "authorChannelId": {
+          "value": "UCvPeh5RTQ1W-uoXEvr-plzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2022-05-08T13:51:39Z",
+        "updatedAt": "2022-05-08T13:52:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IGjniP5EO0laY9MIi3HqDOxdJXs",
+      "id": "UgwTSHGoIKktNlM90t14AaABAg.9alfBWQqQul9am7FRjop47",
+      "snippet": {
+        "textDisplay": "Pensei nisso",
+        "textOriginal": "Pensei nisso",
+        "parentId": "UgwTSHGoIKktNlM90t14AaABAg",
+        "authorDisplayName": "roger fonttinelly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRluZzfuuFCOFwRfGS129R1vpfVBY_cS69K5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTyWsMRWrgG1NcA9jLyJSpA",
+        "authorChannelId": {
+          "value": "UCTyWsMRWrgG1NcA9jLyJSpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-08T18:05:36Z",
+        "updatedAt": "2022-05-08T18:05:36Z"
+      }
+    }
+  ]
+}

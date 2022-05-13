@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Bbc3TZ-raOUUzy-ho0U0I9Ygo90",
+  "id": "UgyT2EHZ_DUwWlqgy6J4AaABAg",
+  "snippet": {
+    "videoId": "m4zEBSS7sBQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jir5Wv_F_zL8d3UJbwb9UPZvDmw",
+      "id": "UgyT2EHZ_DUwWlqgy6J4AaABAg",
+      "snippet": {
+        "videoId": "m4zEBSS7sBQ",
+        "textDisplay": "\u00d3tima explica\u00e7\u00e3o, Rafa! Sucesso",
+        "textOriginal": "\u00d3tima explica\u00e7\u00e3o, Rafa! Sucesso",
+        "authorDisplayName": "Laura Correa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmui2rTLEU-WdazzBBeH2gd3z_bF4WZJK-nNWNRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9p5KA9lKUREQqeTcb4K3XA",
+        "authorChannelId": {
+          "value": "UC9p5KA9lKUREQqeTcb4K3XA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-16T16:16:26Z",
+        "updatedAt": "2020-06-16T16:16:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QffZjjis66FtQioB8CgRnFHd16o",
+      "id": "UgyT2EHZ_DUwWlqgy6J4AaABAg.99yeTKrPXt699yx-ifA8dS",
+      "snippet": {
+        "textDisplay": "Obrigado!!",
+        "textOriginal": "Obrigado!!",
+        "parentId": "UgyT2EHZ_DUwWlqgy6J4AaABAg",
+        "authorDisplayName": "Rafael Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcP0KVcf9yD1kI_5W8IrUH0qiAPy2j5P8GHPeem3s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM0Nzn84v9F3HaP1yHiNWTg",
+        "authorChannelId": {
+          "value": "UCM0Nzn84v9F3HaP1yHiNWTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-16T18:58:25Z",
+        "updatedAt": "2020-06-16T18:58:25Z"
+      }
+    }
+  ]
+}

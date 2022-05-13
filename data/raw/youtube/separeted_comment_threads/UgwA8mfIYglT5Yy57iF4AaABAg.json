@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AZL_zJGQmm2QOyq61eGz6kQuavI",
+  "id": "UgwA8mfIYglT5Yy57iF4AaABAg",
+  "snippet": {
+    "videoId": "XBObzS9NiyQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cXOlLWUVJEC-x9vqq6JwKp_KKFU",
+      "id": "UgwA8mfIYglT5Yy57iF4AaABAg",
+      "snippet": {
+        "videoId": "XBObzS9NiyQ",
+        "textDisplay": "Oi vc me mandou mais n\u00e3o abre",
+        "textOriginal": "Oi vc me mandou mais n\u00e3o abre",
+        "authorDisplayName": "Sarah Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQx7em-SFyfp8WYGN_On6jsBcvNk_8Nwh9YAC2f78=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAG1jEigbrVuu9RaBKKdr6w",
+        "authorChannelId": {
+          "value": "UCAG1jEigbrVuu9RaBKKdr6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-07T18:53:45Z",
+        "updatedAt": "2020-10-07T18:53:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sLEDl-mfSoPHEn-woL3eCEbVHjM",
+      "id": "UgwA8mfIYglT5Yy57iF4AaABAg.9EWuIR2Zgdt9EWyhiNHg17",
+      "snippet": {
+        "textDisplay": "Estou vendo vou me lascar kkkk",
+        "textOriginal": "Estou vendo vou me lascar kkkk",
+        "parentId": "UgwA8mfIYglT5Yy57iF4AaABAg",
+        "authorDisplayName": "Sarah Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQx7em-SFyfp8WYGN_On6jsBcvNk_8Nwh9YAC2f78=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAG1jEigbrVuu9RaBKKdr6w",
+        "authorChannelId": {
+          "value": "UCAG1jEigbrVuu9RaBKKdr6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-07T19:32:18Z",
+        "updatedAt": "2020-10-07T19:32:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "dxtQIniigEvNflYy1AgASUsI4A4",
+      "id": "UgwA8mfIYglT5Yy57iF4AaABAg.9EWuIR2Zgdt9EWyBrzunH9",
+      "snippet": {
+        "textDisplay": "mais est\u00e1 tudo certo para abrir.  s\u00f3 se vc n\u00e3o tem o programa",
+        "textOriginal": "mais est\u00e1 tudo certo para abrir.  s\u00f3 se vc n\u00e3o tem o programa",
+        "parentId": "UgwA8mfIYglT5Yy57iF4AaABAg",
+        "authorDisplayName": "J.A dicas para cursos & concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-TMsn0S5Ux-2sEbYqWKjri4WLJjQEjahya-SdRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTBbET8WDw24H9ICyuc9WCA",
+        "authorChannelId": {
+          "value": "UCTBbET8WDw24H9ICyuc9WCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-07T19:27:49Z",
+        "updatedAt": "2020-10-07T19:27:49Z"
+      }
+    }
+  ]
+}

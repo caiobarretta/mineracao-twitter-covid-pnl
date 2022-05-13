@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "77hB5C9AUurIbExmcJJHNt_HXak",
+  "id": "UgyrYrl6rhbdp8G5Koh4AaABAg",
+  "snippet": {
+    "videoId": "Ums4dmjBAWE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "276AgG4wXXCXbc5O7fwqVzESVcU",
+      "id": "UgyrYrl6rhbdp8G5Koh4AaABAg",
+      "snippet": {
+        "videoId": "Ums4dmjBAWE",
+        "textDisplay": "Meu Deus, j\u00e1 est\u00e3o mudando a narrativa.",
+        "textOriginal": "Meu Deus, j\u00e1 est\u00e3o mudando a narrativa.",
+        "authorDisplayName": "Douglas Farias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwzmXgaa6x9wEccgVlTAzNW9zDrxYEFdl1z4E-Ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWS78Qjgzhywhj2NYfNXRzg",
+        "authorChannelId": {
+          "value": "UCWS78Qjgzhywhj2NYfNXRzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-03-30T09:11:44Z",
+        "updatedAt": "2021-03-30T09:11:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dmL0YY7iPvsYGoskOWphbvdgE2k",
+      "id": "UgyrYrl6rhbdp8G5Koh4AaABAg.9LVu-l1CgbP9LW3mjDNTip",
+      "snippet": {
+        "textDisplay": "O minist\u00e9rio da VERDADE sempre a reescrever fatos.",
+        "textOriginal": "O minist\u00e9rio da VERDADE sempre a reescrever fatos.",
+        "parentId": "UgyrYrl6rhbdp8G5Koh4AaABAg",
+        "authorDisplayName": "fabricia ferraz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQU1Y_8MKtrhcIpe8dH8rkK22vnTwehuRbqPC7b2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyKd-ezfiRYh5_sjjIJJ9sw",
+        "authorChannelId": {
+          "value": "UCyKd-ezfiRYh5_sjjIJJ9sw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-30T10:45:56Z",
+        "updatedAt": "2021-03-30T10:45:56Z"
+      }
+    }
+  ]
+}

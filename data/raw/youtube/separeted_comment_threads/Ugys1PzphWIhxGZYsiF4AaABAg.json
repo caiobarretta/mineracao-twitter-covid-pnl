@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "B9yZC2OMNYippvbdvt3QWs7dnDs",
+  "id": "Ugys1PzphWIhxGZYsiF4AaABAg",
+  "snippet": {
+    "videoId": "2MQFNLSsSdw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ooU1VYRvOkr1J1wW8sT_I50bwXo",
+      "id": "Ugys1PzphWIhxGZYsiF4AaABAg",
+      "snippet": {
+        "videoId": "2MQFNLSsSdw",
+        "textDisplay": "Um luxo!! Santa Indignaci\u00f3n",
+        "textOriginal": "Um luxo!! Santa Indignaci\u00f3n",
+        "authorDisplayName": "Oriana Jara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSPGSMvxKcj-FUsiKgmT3JUlKs_Gu_p1nXqYqKzw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPLN8qsUvQLwLiwpxA8_byg",
+        "authorChannelId": {
+          "value": "UCPLN8qsUvQLwLiwpxA8_byg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-09-15T19:58:24Z",
+        "updatedAt": "2020-09-15T19:58:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lCX9R94XJLKn-kGY950cbeUYu_w",
+      "id": "Ugys1PzphWIhxGZYsiF4AaABAg.9DdNCczNhun9DgVN8Gi49S",
+      "snippet": {
+        "textDisplay": "Sem d\u00favida, Oriana. Sant\u00edssima!!! Coragem c\u00edvica.",
+        "textOriginal": "Sem d\u00favida, Oriana. Sant\u00edssima!!! Coragem c\u00edvica.",
+        "parentId": "Ugys1PzphWIhxGZYsiF4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-17T01:07:27Z",
+        "updatedAt": "2020-09-17T01:07:27Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a3GImjB4162piL-Y6hwk-4VMnbE",
+  "id": "Ugwv_IAvhWum7ZFtjZR4AaABAg",
+  "snippet": {
+    "videoId": "WdQ-GoDVyWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "it7L4shZK3rLutbTvK0U59CHVIE",
+      "id": "Ugwv_IAvhWum7ZFtjZR4AaABAg",
+      "snippet": {
+        "videoId": "WdQ-GoDVyWo",
+        "textDisplay": "2:41 eu?",
+        "textOriginal": "2:41 eu?",
+        "authorDisplayName": "Gustavo Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LXMea-IOpi56BEsmY1TglSlk_hjNxJh0hWLdfOEU58mD58YsIpYaUowoy9eTgV1K7jSdUbtR1mQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvrw6rqk11xoPHQekk4SDeg",
+        "authorChannelId": {
+          "value": "UCvrw6rqk11xoPHQekk4SDeg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-01-26T03:34:38Z",
+        "updatedAt": "2020-01-26T03:34:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d0v5bopdjBgtY_nwdpKrGvCXrQ8",
+      "id": "Ugwv_IAvhWum7ZFtjZR4AaABAg.94EePVEBrXQ94ErYmzCuEX",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02\ud83d\ude02",
+        "parentId": "Ugwv_IAvhWum7ZFtjZR4AaABAg",
+        "authorDisplayName": "Wilton Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSjEkBSOK4t9xmGJZYUFlOeg8XWlLa7333pCTs_0w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp58tFJvo-KRYLFc5XqSFnQ",
+        "authorChannelId": {
+          "value": "UCp58tFJvo-KRYLFc5XqSFnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-26T05:29:30Z",
+        "updatedAt": "2020-01-26T05:29:30Z"
+      }
+    }
+  ]
+}

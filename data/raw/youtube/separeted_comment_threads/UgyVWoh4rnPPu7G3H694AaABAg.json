@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "F2wEqiBbD1n85yFPnFDWryFMV84",
+  "id": "UgyVWoh4rnPPu7G3H694AaABAg",
+  "snippet": {
+    "videoId": "KOXNBA9b86I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6bjH20-gT9Ka1FSxxm0gEvw07KA",
+      "id": "UgyVWoh4rnPPu7G3H694AaABAg",
+      "snippet": {
+        "videoId": "KOXNBA9b86I",
+        "textDisplay": "Obrigado por fazer mais uma vez o trabalho do Ministerio da Saude.",
+        "textOriginal": "Obrigado por fazer mais uma vez o trabalho do Ministerio da Saude.",
+        "authorDisplayName": "Giacomo Carlomagno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGOTpJpJg23mprcrEw0k12lf3pUBDw5wq33hIXLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXJo7XdIwf3qN1hJ3_O5v_Q",
+        "authorChannelId": {
+          "value": "UCXJo7XdIwf3qN1hJ3_O5v_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 218,
+        "publishedAt": "2020-05-01T20:54:03Z",
+        "updatedAt": "2020-05-01T20:54:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ne8cSJkask2wgv-rt0rrb-JpZiI",
+      "id": "UgyVWoh4rnPPu7G3H694AaABAg.987hfLM_Rp5989hrwQS3GF",
+      "snippet": {
+        "textDisplay": "E do presidente",
+        "textOriginal": "E do presidente",
+        "parentId": "UgyVWoh4rnPPu7G3H694AaABAg",
+        "authorDisplayName": "Camila Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/RwtR98oSs7uv1E2wWjbHvKKT8y0jsBFbE5Hn9wFDtNW6fMjNmhzXWM2LOdm6scqZzX4ox_xeCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCld-g1GiasmwlbOeKOJPlhw",
+        "authorChannelId": {
+          "value": "UCld-g1GiasmwlbOeKOJPlhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2020-05-02T15:34:15Z",
+        "updatedAt": "2020-05-02T15:34:15Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "echNv8LgY2D-HcSZ_QjPUPCjqGk",
+      "id": "UgyVWoh4rnPPu7G3H694AaABAg.987hfLM_Rp5988TxMTzZ-0",
+      "snippet": {
+        "textDisplay": "Giacomo\nDisse tudo!",
+        "textOriginal": "Giacomo\nDisse tudo!",
+        "parentId": "UgyVWoh4rnPPu7G3H694AaABAg",
+        "authorDisplayName": "Fatima Abreu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK4dGna6OO_mfLnHnG6CFnkMrx2hOJDnA4mA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmrWgY3t2pajBV_stPyR-Vw",
+        "authorChannelId": {
+          "value": "UCmrWgY3t2pajBV_stPyR-Vw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2020-05-02T04:04:40Z",
+        "updatedAt": "2020-05-02T04:04:40Z"
+      }
+    }
+  ]
+}

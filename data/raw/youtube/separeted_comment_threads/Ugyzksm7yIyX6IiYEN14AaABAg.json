@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VDCx63MlDecZb1q6A3NeekBsSlA",
+  "id": "Ugyzksm7yIyX6IiYEN14AaABAg",
+  "snippet": {
+    "videoId": "g4_NA78p90E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vZ-_hDv4avdbWC1gvr_xuZl8Pr4",
+      "id": "Ugyzksm7yIyX6IiYEN14AaABAg",
+      "snippet": {
+        "videoId": "g4_NA78p90E",
+        "textDisplay": "quantas mortes foram necessarias para conseguir este n\u00famero de salvamentos .",
+        "textOriginal": "quantas mortes foram necessarias para conseguir este n\u00famero de salvamentos .",
+        "authorDisplayName": "Antonio oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUC5m2PedczngcQNSqd09feRGXJqjEJbZ2fJqFsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzgagS7Hb6LHIbYYpiJ6FTQ",
+        "authorChannelId": {
+          "value": "UCzgagS7Hb6LHIbYYpiJ6FTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-10T12:18:32Z",
+        "updatedAt": "2020-07-10T12:18:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "S1bBCWu4YYivpWe4LPLKMw4tCUw",
+      "id": "Ugyzksm7yIyX6IiYEN14AaABAg.9Aw1JvFxmuV9Aw26Inkaz9",
+      "snippet": {
+        "textDisplay": "\ud83d\ude1e",
+        "textOriginal": "\ud83d\ude1e",
+        "parentId": "Ugyzksm7yIyX6IiYEN14AaABAg",
+        "authorDisplayName": "Mickey do grau",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/h31mFf2TYOvLpH6RHUmkt4rOxFD1bMXfAIjjPZsvywhAp_6Ucr9ns5AxYCQLleIpuDi-s2vAzg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5AjoGVl1dqbbF39Bp3z-TQ",
+        "authorChannelId": {
+          "value": "UC5AjoGVl1dqbbF39Bp3z-TQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-10T12:25:25Z",
+        "updatedAt": "2020-07-10T12:25:25Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FSUoO2qaPZ39amNz3s7uZzo2-2M",
+  "id": "Ugynw-oeeY2w748k0XJ4AaABAg",
+  "snippet": {
+    "videoId": "NI2yFITGL44",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uwd_ng6psYHFUUXEfS6eUpwIpZg",
+      "id": "Ugynw-oeeY2w748k0XJ4AaABAg",
+      "snippet": {
+        "videoId": "NI2yFITGL44",
+        "textDisplay": "Boa tarde a todos!!",
+        "textOriginal": "Boa tarde a todos!!",
+        "authorDisplayName": "Aila Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFFS_lqUYXjT9bHyn8MahRNJAzr39m78-Ncg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq97mQZ3RxoqqxCZysYkLVw",
+        "authorChannelId": {
+          "value": "UCq97mQZ3RxoqqxCZysYkLVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-23T15:58:07Z",
+        "updatedAt": "2021-06-23T15:58:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_XwSGNZi9YXaQJeCW-0sng95OhQ",
+      "id": "Ugynw-oeeY2w748k0XJ4AaABAg.9OwV4dMt6VS9OwoIsFWOjM",
+      "snippet": {
+        "textDisplay": "Boa tarde",
+        "textOriginal": "Boa tarde",
+        "parentId": "Ugynw-oeeY2w748k0XJ4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-23T18:54:49Z",
+        "updatedAt": "2021-06-23T18:54:49Z"
+      }
+    }
+  ]
+}

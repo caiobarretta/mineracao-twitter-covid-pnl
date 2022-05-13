@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AQRfHVrrJhNm4gkiONsSklDEgfU",
+  "id": "Ugy8CdqZc1SPbAGTPyp4AaABAg",
+  "snippet": {
+    "videoId": "MfYZcYpp3sQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NC_r4r1w3KU_YCG-Xh5kLhH-RAo",
+      "id": "Ugy8CdqZc1SPbAGTPyp4AaABAg",
+      "snippet": {
+        "videoId": "MfYZcYpp3sQ",
+        "textDisplay": "T\u00e1 s\u00f3 de que tiver que tivesse cura \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\u2665\ufe0f",
+        "textOriginal": "T\u00e1 s\u00f3 de que tiver que tivesse cura \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\u2665\ufe0f",
+        "authorDisplayName": "Eliza Cristina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT37SSxtO2Bgmsaw5nay6mdWRkBGqXmmAyAWqu3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbPkPkR0bq-tJdMVgLAl2LQ",
+        "authorChannelId": {
+          "value": "UCbPkPkR0bq-tJdMVgLAl2LQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-08T23:13:32Z",
+        "updatedAt": "2020-03-08T23:13:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p4DN7nJqas9d4B_IoiKT1ddmUVs",
+      "id": "Ugy8CdqZc1SPbAGTPyp4AaABAg.95xuhjvcHau96XBOrmtP_S",
+      "snippet": {
+        "textDisplay": "@Victor tbm",
+        "textOriginal": "@Victor tbm",
+        "parentId": "Ugy8CdqZc1SPbAGTPyp4AaABAg",
+        "authorDisplayName": "Rodrigo Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgcrcSOjZhqpcHHo5wYk-lr8r6LQBJgXv7daaqpw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr30LXA-ZNV3KjbnVR4aEnw",
+        "authorChannelId": {
+          "value": "UCr30LXA-ZNV3KjbnVR4aEnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T01:20:46Z",
+        "updatedAt": "2020-03-23T01:20:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "XPLSeGEbS4giA07pus_vyOm9JF0",
+      "id": "Ugy8CdqZc1SPbAGTPyp4AaABAg.95xuhjvcHau96Hgz0AwC2m",
+      "snippet": {
+        "textDisplay": "Eu n\u00e3o entendi nada do que vc falou kkkkk",
+        "textOriginal": "Eu n\u00e3o entendi nada do que vc falou kkkkk",
+        "parentId": "Ugy8CdqZc1SPbAGTPyp4AaABAg",
+        "authorDisplayName": "Victor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ltG9HIMEKsH3kO5bHCJDyaq82XTkG0fLiJsFoPnTPHg_Y73G8Gi3yzVd1AE88GRMP8RnDK8YpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpAUOu7RV5aqE8q5vv95lQQ",
+        "authorChannelId": {
+          "value": "UCpAUOu7RV5aqE8q5vv95lQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-03-17T00:57:37Z",
+        "updatedAt": "2020-03-17T00:57:37Z"
+      }
+    }
+  ]
+}

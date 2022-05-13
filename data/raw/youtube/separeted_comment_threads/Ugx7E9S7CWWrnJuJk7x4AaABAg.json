@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OU-DW-kXkqZIDNtPG3fXlx6lmyU",
+  "id": "Ugx7E9S7CWWrnJuJk7x4AaABAg",
+  "snippet": {
+    "videoId": "jPjIg4bJazQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dUEdYzSKOZszYwVlgHC9k0Jjcns",
+      "id": "Ugx7E9S7CWWrnJuJk7x4AaABAg",
+      "snippet": {
+        "videoId": "jPjIg4bJazQ",
+        "textDisplay": "Boa noite. Qual \u00e9 o canal da dona. Elza?",
+        "textOriginal": "Boa noite. Qual \u00e9 o canal da dona. Elza?",
+        "authorDisplayName": "Sonia Sodr\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzPlZjVYsIsXwyE-XyhhZ7C1Avukl5uf82-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyv1CSWC0hjsNOU9SI7jhuw",
+        "authorChannelId": {
+          "value": "UCyv1CSWC0hjsNOU9SI7jhuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-01T03:24:58Z",
+        "updatedAt": "2020-10-01T03:24:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FEkDKgofoxBBiXMSn5BXobAgB2M",
+      "id": "Ugx7E9S7CWWrnJuJk7x4AaABAg.9EFnEZ-CSZi9EHWgX1do98",
+      "snippet": {
+        "textDisplay": "\"Vov\u00f3 Neuza\"",
+        "textOriginal": "\"Vov\u00f3 Neuza\"",
+        "parentId": "Ugx7E9S7CWWrnJuJk7x4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-01T19:30:07Z",
+        "updatedAt": "2020-10-01T19:30:07Z"
+      }
+    }
+  ]
+}

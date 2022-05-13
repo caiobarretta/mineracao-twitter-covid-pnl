@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3OKt5Dym6hK1pJSu0D-fO1DuRlo",
+  "id": "UgyOt2z6RTIGg7E66e14AaABAg",
+  "snippet": {
+    "videoId": "i2tWlesTBqI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R4DDV0wPapsQNWg51GMnDL-etvc",
+      "id": "UgyOt2z6RTIGg7E66e14AaABAg",
+      "snippet": {
+        "videoId": "i2tWlesTBqI",
+        "textDisplay": "Muito bom",
+        "textOriginal": "Muito bom",
+        "authorDisplayName": "Ana Paula Farias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxH7c99bMUw-8e63i9tRPo9bxD2e6MVIPj5gQGNQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSgyXQb4Cgz3ZDBONat5vMw",
+        "authorChannelId": {
+          "value": "UCSgyXQb4Cgz3ZDBONat5vMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-07T17:11:37Z",
+        "updatedAt": "2020-04-07T17:11:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eF4kcqJPVIiwS99owSWgqS2ImEk",
+      "id": "UgyOt2z6RTIGg7E66e14AaABAg.979W8EbH-dn97A8eFPrWbR",
+      "snippet": {
+        "textDisplay": "obrigado Ana!!",
+        "textOriginal": "obrigado Ana!!",
+        "parentId": "UgyOt2z6RTIGg7E66e14AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-07T23:05:39Z",
+        "updatedAt": "2020-04-07T23:05:39Z"
+      }
+    }
+  ]
+}
