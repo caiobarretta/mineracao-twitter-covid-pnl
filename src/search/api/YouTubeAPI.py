@@ -72,7 +72,6 @@ def main():
     api = YouTubeAPI(file_credentials)
     videoid = 'fz5xFui6A_M'
     search = '#SUS #COVID'
-    #video_comment_threads = api.load_comments_from_videoid_with_threads(videoid)
     search_list = api.search_list(search, 1)
     print(search_list)
     
