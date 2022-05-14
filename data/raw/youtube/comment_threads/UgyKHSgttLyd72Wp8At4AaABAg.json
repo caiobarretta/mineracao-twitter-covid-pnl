@@ -1,0 +1,3240 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "y9Sd0Knwm-H4FkAE1HQ_z_mIJgc",
+    "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hNB1esHNpRmhrVnvN9bZdsa8HGI",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430. \u042f \u0440\u043e\u0434\u043e\u043c \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b, \u0420\u043e\u0441\u0441\u0438\u044f, \u044f \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u044b\u0448\u0430\u043b \u0438\u0437 \u043d\u0430\u0448\u0438\u0445 \u0421\u041c\u0418, \u0447\u0442\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0446\u044b \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443. \u041e\u0442 \u0438\u043c\u0435\u043d\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448\u0443 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443. \u0418 \u044f \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043d\u0435 \u0445\u043e\u0447\u0443, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0430 \u0432\u043e\u0439\u043d\u0430 \u0441\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c, \u043d\u043e \u043d\u0430\u0448\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043e \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0432\u043e\u0439\u043d\u0443, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u044b \u2014 \u043d\u043e\u0432\u044b\u0435 \u043d\u0430\u0446\u0438\u0441\u0442\u044b, \u0438 \u043e\u043d\u0438 \u0445\u043e\u0442\u044f\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434. \u041f\u0440\u0438\u0432\u0435\u0442 \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b. \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+          "textOriginal": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430. \u042f \u0440\u043e\u0434\u043e\u043c \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b, \u0420\u043e\u0441\u0441\u0438\u044f, \u044f \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u044b\u0448\u0430\u043b \u0438\u0437 \u043d\u0430\u0448\u0438\u0445 \u0421\u041c\u0418, \u0447\u0442\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0446\u044b \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443. \u041e\u0442 \u0438\u043c\u0435\u043d\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448\u0443 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443. \u0418 \u044f \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043d\u0435 \u0445\u043e\u0447\u0443, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0430 \u0432\u043e\u0439\u043d\u0430 \u0441\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c, \u043d\u043e \u043d\u0430\u0448\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043e \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0432\u043e\u0439\u043d\u0443, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u044b \u2014 \u043d\u043e\u0432\u044b\u0435 \u043d\u0430\u0446\u0438\u0441\u0442\u044b, \u0438 \u043e\u043d\u0438 \u0445\u043e\u0442\u044f\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434. \u041f\u0440\u0438\u0432\u0435\u0442 \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b. \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+          "authorDisplayName": "Bopat (Bocah Setempat)",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hRFrhwbp8Dq7b1GNA_KuOAo4E6duz6ogyXTeLg0yLJAnjebphpT251L3G3Efj6vSu4JjZPX-iA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCsYgLrED4DGLOr5OvMsz-qA",
+          "authorChannelId": {
+            "value": "UCsYgLrED4DGLOr5OvMsz-qA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1226,
+          "publishedAt": "2022-03-23T01:25:35Z",
+          "updatedAt": "2022-03-23T01:25:35Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 274,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "XroS4goofoGr3lm3LTBmlGxETCQ",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_sUlRD-0cR",
+        "snippet": {
+          "textDisplay": "\u0423\u0440\u0430 ...\u0443\u0440\u0430 .\u0443\u0443\u0443\u0443\u0443\u0443\u0440\u0440\u0440\u0440\u0440\u0430\u0430\u0430\u0430\u0430\u0430 \ud83d\udd25",
+          "textOriginal": "\u0423\u0440\u0430 ...\u0443\u0440\u0430 .\u0443\u0443\u0443\u0443\u0443\u0443\u0440\u0440\u0440\u0440\u0440\u0430\u0430\u0430\u0430\u0430\u0430 \ud83d\udd25",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Nano Adyana",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJr1jdvVbBX1R9QC6SELPE4POpsgQZikWUBjaq8A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCX9sf5gisj0QY0KjVIe9Ew",
+          "authorChannelId": {
+            "value": "UCCX9sf5gisj0QY0KjVIe9Ew"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T08:55:07Z",
+          "updatedAt": "2022-04-16T08:55:07Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "aVShmLwUd77NgekbCojnNonpwYY",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_sRXb2cC86",
+        "snippet": {
+          "textDisplay": "I love u katarina...\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83d\udcaa",
+          "textOriginal": "I love u katarina...\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83d\udcaa",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Muhamad Rozak",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9xxt_i2ksZP1hsELtY9_MXVw6lW78VK621Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCa0lTe0hN5pOd53tijlCf3g",
+          "authorChannelId": {
+            "value": "UCa0lTe0hN5pOd53tijlCf3g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T08:26:53Z",
+          "updatedAt": "2022-04-16T08:26:53Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "AWRweBDZKXWTwf5XoroDMkFegZk",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_ro_ZTXey_",
+        "snippet": {
+          "textDisplay": "Uraaaaaaaa, hidup putin!!!",
+          "textOriginal": "Uraaaaaaaa, hidup putin!!!",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Samsu Mardani",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_8mE3XPiqAhsFaf5fmVNonyDuu0hGXjiGTsmA7CGqW7HPcxi6FCrWAJrAlGL9=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCrd1B0kp0nNvzYeEe3oH6Cw",
+          "authorChannelId": {
+            "value": "UCrd1B0kp0nNvzYeEe3oH6Cw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T02:37:46Z",
+          "updatedAt": "2022-04-16T02:37:46Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "7IzLJcOKYOb3-1lE_HzdmKhFrBc",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_lQeX1fsIm",
+        "snippet": {
+          "textDisplay": "Saya dari Indonesia  sangat respek dan salut dgn pemerintah  Rusia yg tidak suka Usil ke negara lain ... beda dengan  As dan sekutu sekutuNya  yg suka mengganggu kedaulatan negara lain itu tidak baik buat kehidupan  manusia di bumi ini ... smoga Allah swt  memberikan kemenangan di pihak Rusia Aamiin Yra",
+          "textOriginal": "Saya dari Indonesia  sangat respek dan salut dgn pemerintah  Rusia yg tidak suka Usil ke negara lain ... beda dengan  As dan sekutu sekutuNya  yg suka mengganggu kedaulatan negara lain itu tidak baik buat kehidupan  manusia di bumi ini ... smoga Allah swt  memberikan kemenangan di pihak Rusia Aamiin Yra",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Setiyo Budi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9wnAI3wKf8FDhr87IrlhPwQOJl0y1RF3LL9hJzW0Hfr1rDooLleKTx7PlwQSR=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCtpanr1qtuj5Xy3b97ph19Q",
+          "authorChannelId": {
+            "value": "UCtpanr1qtuj5Xy3b97ph19Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-13T15:04:33Z",
+          "updatedAt": "2022-04-13T15:04:33Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "zsTzOzoxrfnE2CQHYYp5NFx1c3M",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_c4FoDo-oD",
+        "snippet": {
+          "textDisplay": "Rusia & Indonesia adlh saudara dari presiden pertama indenesia  Ir.Soekarno hingga skarang\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d",
+          "textOriginal": "Rusia & Indonesia adlh saudara dari presiden pertama indenesia  Ir.Soekarno hingga skarang\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Nina nina",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWU303zjPU6hbvcpSbWicbT4S-3DGz0YymjxYtSL2lTHj9CmhSrtyMHuhQZWcT=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC8u0EGes4OfMvIGqoQD75ZA",
+          "authorChannelId": {
+            "value": "UC8u0EGes4OfMvIGqoQD75ZA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-09T23:55:38Z",
+          "updatedAt": "2022-04-09T23:55:38Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Yv3JYEK3Kdh8NdJ9m1smHJGENUo",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_WUhWQgg2T",
+        "snippet": {
+          "textDisplay": "Uraaa.. \nPoko'e.... \n\ud83d\udc4d\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+          "textOriginal": "Uraaa.. \nPoko'e.... \n\ud83d\udc4d\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Kholis Wiratmoyo Wiratmoyo",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYA-mY4aIFVsSdG-Gxp-4mMuZlcfFLBuNGog=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_XJxS55ohIgS92iFRmrYZA",
+          "authorChannelId": {
+            "value": "UC_XJxS55ohIgS92iFRmrYZA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-07T10:32:03Z",
+          "updatedAt": "2022-04-07T10:32:03Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "fOLB25ZEEOg6cKVgh-129m9DPPw",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_WJb0nuhKX",
+        "snippet": {
+          "textDisplay": "Ura",
+          "textOriginal": "Ura",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Azie Zulzabbaro",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/HVMEyiZuoL6l6eMuSaICaksC6EdMeR84IDR6cW0tHlEbq947UvoqqH98BE3QaST1KqTsn3wUcg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCnZjwbbig5rr0Jw4nPatYRw",
+          "authorChannelId": {
+            "value": "UCnZjwbbig5rr0Jw4nPatYRw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-07T08:55:03Z",
+          "updatedAt": "2022-04-07T08:55:03Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "7mtviAZufEfJlFMjFejbQMCpYOQ",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_Vr6uzG8LS",
+        "snippet": {
+          "textDisplay": "URAAA\u270a\u270a\u270a\u270a",
+          "textOriginal": "URAAA\u270a\u270a\u270a\u270a",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Ryan Wibowo",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/PnpgM76x6nmVmSA-LMt6qqcrYxONnSuVUFbL8x0e3mpVknkI0VYVVKbE0vrHLZ3zE1R-RRP-=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCuZyiJ8Vp-DNxkpnlFmMZuA",
+          "authorChannelId": {
+            "value": "UCuZyiJ8Vp-DNxkpnlFmMZuA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-07T04:37:24Z",
+          "updatedAt": "2022-04-07T04:37:24Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "BorXuw_r9gMoP6WeGOwZMU7yHlM",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T76nnXYs7",
+        "snippet": {
+          "textDisplay": "@Ricky Widayana 4",
+          "textOriginal": "@Ricky Widayana 4",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Erdogan Tora",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHsZkZGtpsRMMtx3MaVbAsNOtJEM15HqwzQtqimt_a8ZTDAiZwVuEbbz_lklKU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCVaHIXskxTvZ7MYjV0wTHWw",
+          "authorChannelId": {
+            "value": "UCVaHIXskxTvZ7MYjV0wTHWw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-06T03:08:12Z",
+          "updatedAt": "2022-04-06T03:08:12Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "WGOsZuByxkCpUDcGXKfrqdvyz94",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T75Wtd-iI",
+        "snippet": {
+          "textDisplay": "@WilliamVina qq",
+          "textOriginal": "@WilliamVina qq",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Erdogan Tora",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHsZkZGtpsRMMtx3MaVbAsNOtJEM15HqwzQtqimt_a8ZTDAiZwVuEbbz_lklKU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCVaHIXskxTvZ7MYjV0wTHWw",
+          "authorChannelId": {
+            "value": "UCVaHIXskxTvZ7MYjV0wTHWw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-06T03:08:02Z",
+          "updatedAt": "2022-04-06T03:08:02Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "q_JSxbn-4kIbhZaZY11T5t1n4zs",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T-e-puyjh",
+        "snippet": {
+          "textDisplay": "Bravo rusia \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+          "textOriginal": "Bravo rusia \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Xxann\u30b7",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/bdzZMkQy-wJcqBoku6I446VrGJ3nKtm1sPzygmaVIFiJV7VjsBC39AklbaC-65YCE1FAZO8gJiE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC3Z4Oz_jxbM9prYOExn2WkQ",
+          "authorChannelId": {
+            "value": "UC3Z4Oz_jxbM9prYOExn2WkQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-06T02:02:58Z",
+          "updatedAt": "2022-04-06T02:02:58Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "w9Odj_To-hWvRwCQDDFMzBWxwDc",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_SXlYEE26I",
+        "snippet": {
+          "textDisplay": "Indo bisanya ura ura doang gak bisa kasih pendapat soal kebaikan dunia.",
+          "textOriginal": "Indo bisanya ura ura doang gak bisa kasih pendapat soal kebaikan dunia.",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Shelmanz",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/D-c9hiCJLRAMPDhlseNHTsTV41Ym4Q0dZegluNO7ejj0jhXVkAOQrQCwXImeqwKVsOazh7GpS4Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCd_M6rsCQaAOa5ur99iyG9A",
+          "authorChannelId": {
+            "value": "UCd_M6rsCQaAOa5ur99iyG9A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-05T21:41:51Z",
+          "updatedAt": "2022-04-05T21:41:51Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "h5bK_R1z1JE0Z2eK_EWUJAmzZjc",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_SXf819zyP",
+        "snippet": {
+          "textDisplay": "A strong nation is a nation that knows history.",
+          "textOriginal": "A strong nation is a nation that knows history.",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Shelmanz",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/D-c9hiCJLRAMPDhlseNHTsTV41Ym4Q0dZegluNO7ejj0jhXVkAOQrQCwXImeqwKVsOazh7GpS4Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCd_M6rsCQaAOa5ur99iyG9A",
+          "authorChannelId": {
+            "value": "UCd_M6rsCQaAOa5ur99iyG9A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-05T21:40:59Z",
+          "updatedAt": "2022-04-05T21:40:59Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Grc8p0JMXmbgVHfZa6sSFgCqVYk",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_RH_mRVGbu",
+        "snippet": {
+          "textDisplay": "Iya sama sama saudaraku di negara Rusia demoga kalian sehat dan selamat ya amin",
+          "textOriginal": "Iya sama sama saudaraku di negara Rusia demoga kalian sehat dan selamat ya amin",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Jie. good channel Jir. good job",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAMdPolYuB1jyUrLB8MOrCKUT5eLOg91IoIQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCVsoSdHHmac6e0tW8AjWPSw",
+          "authorChannelId": {
+            "value": "UCVsoSdHHmac6e0tW8AjWPSw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-05T10:01:12Z",
+          "updatedAt": "2022-04-05T10:01:12Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "i9y0szR66KwKcbVCA4ScfoIasGY",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_Q4YnnxsdL",
+        "snippet": {
+          "textDisplay": "uraaaa sist",
+          "textOriginal": "uraaaa sist",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Jalan Pintas",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNDK1F1OBqBpx0A6FH1i83cWvTQe9KXhPNcsVlCw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCt4VwQdsB07sH7fTPonsyEA",
+          "authorChannelId": {
+            "value": "UCt4VwQdsB07sH7fTPonsyEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T22:48:06Z",
+          "updatedAt": "2022-04-04T22:48:06Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "T1S_vN-BrmVLYr73Fk4DvGRxKHc",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_PV2TqXyoW",
+        "snippet": {
+          "textDisplay": "\ud83d\ude0e\ud83d\udc4d",
+          "textOriginal": "\ud83d\ude0e\ud83d\udc4d",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Indra Wn",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRn957BLIi27qrj8Sdf6KjRA7vUkMIfhctbIw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4ECZGEuKOn6bHaR1HXluGw",
+          "authorChannelId": {
+            "value": "UC4ECZGEuKOn6bHaR1HXluGw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T17:20:22Z",
+          "updatedAt": "2022-04-04T17:20:22Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "AQtu-r6deeDLNh5EZp0WRFbak6c",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_P6_58ZP2B",
+        "snippet": {
+          "textDisplay": "hell yeah baby",
+          "textOriginal": "hell yeah baby",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Nusantara Leaders",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTb9jyiJNeTwLdh9hDMM2l0W-NbeermIwvnQdFr=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCLAOtjuBm_8Qdoe60b1O5_g",
+          "authorChannelId": {
+            "value": "UCLAOtjuBm_8Qdoe60b1O5_g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T13:46:30Z",
+          "updatedAt": "2022-04-04T13:46:30Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "uAAw1w66kuUTGHdBElB_CCE9Fdo",
+        "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_O-AYhBIl4",
+        "snippet": {
+          "textDisplay": "Uuurrraaaaaaaa",
+          "textOriginal": "Uuurrraaaaaaaa",
+          "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+          "authorDisplayName": "Mahesa Bahadur",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/rOlOfE61l-qaz6zWXfdBHwiT7mny7iXlbk9iWHy1log9PDpZW6p-V0oUi1Y0QJZ_Qqtil750sw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0X6-xDP2pmREyeqjYW-uxA",
+          "authorChannelId": {
+            "value": "UC0X6-xDP2pmREyeqjYW-uxA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T03:22:37Z",
+          "updatedAt": "2022-04-04T03:22:37Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sARt17HD0XOKB-V9JbcZ1kEZzbU",
+    "id": "Ugx2XNuQPkRhnRQbz394AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "6QCaXD3wcnvqU0BVt9SHUS2uh2Q",
+        "id": "Ugx2XNuQPkRhnRQbz394AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Do'a kami untuk RUSIA,, semoga dapat memerangi kebusukan2 USA.\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9",
+          "textOriginal": "Do'a kami untuk RUSIA,, semoga dapat memerangi kebusukan2 USA.\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9",
+          "authorDisplayName": "Arda Farindra",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnBkSHIbqUTJJvo_0hiEY4Zs-Z3IwLvj3STw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCBeJ7a4vtZfa8rZ0VEOWBqQ",
+          "authorChannelId": {
+            "value": "UCBeJ7a4vtZfa8rZ0VEOWBqQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 15,
+          "publishedAt": "2022-04-06T17:38:35Z",
+          "updatedAt": "2022-04-06T17:38:35Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ex_zjyqHsyVMVKW8muePx8GafcY",
+    "id": "Ugyf4zr561XnXu1k4Xp4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "FzvwSufL527Jc8fnOVTr85UzTOs",
+        "id": "Ugyf4zr561XnXu1k4Xp4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "textOriginal": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 144,
+          "publishedAt": "2022-03-27T06:30:48Z",
+          "updatedAt": "2022-03-27T06:30:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 4,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "dKNs48WpQDwX9IhsYFql0m_L5RE",
+        "id": "Ugyf4zr561XnXu1k4Xp4AaABAg.9_3jLv5UOfC9_nw-keuQk9",
+        "snippet": {
+          "textDisplay": "Aamiin",
+          "textOriginal": "Aamiin",
+          "parentId": "Ugyf4zr561XnXu1k4Xp4AaABAg",
+          "authorDisplayName": "Natasya Welanda",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/bx5xAq4A2CMqdHs8PaVuD0yaTNXUDPM3aaLouk9ckfoSfcMuWxL-9WyYEpMTWxaFXxvO4j9R5A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXJ62ZucTEDMc9MJNd8uBRA",
+          "authorChannelId": {
+            "value": "UCXJ62ZucTEDMc9MJNd8uBRA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-14T14:25:41Z",
+          "updatedAt": "2022-04-14T14:25:41Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "-f9Cg8K-_CZvXkGP5qCuFBr5G3I",
+        "id": "Ugyf4zr561XnXu1k4Xp4AaABAg.9_3jLv5UOfC9_EW5UcTrEH",
+        "snippet": {
+          "textDisplay": "Uraaa",
+          "textOriginal": "Uraaa",
+          "parentId": "Ugyf4zr561XnXu1k4Xp4AaABAg",
+          "authorDisplayName": "Hafizh H Asyhari",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/KFLukqtLFAi-JNtxN6osXw3uy4rRdzbXFL5UWcZhp793Al_kD2pTDKs4LX4cGEazifBQ3ZvcbQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCKuiEtfMs-JfJSf7xhE4jng",
+          "authorChannelId": {
+            "value": "UCKuiEtfMs-JfJSf7xhE4jng"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T10:57:52Z",
+          "updatedAt": "2022-03-31T10:57:52Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "lulyoDosBzMF8PnwSYkihgaRfpM",
+        "id": "Ugyf4zr561XnXu1k4Xp4AaABAg.9_3jLv5UOfC9_Doom6AZT7",
+        "snippet": {
+          "textDisplay": "Uraaa \u270a\ud83c\uddf7\ud83c\uddfa",
+          "textOriginal": "Uraaa \u270a\ud83c\uddf7\ud83c\uddfa",
+          "parentId": "Ugyf4zr561XnXu1k4Xp4AaABAg",
+          "authorDisplayName": "Bravo Green",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/2Uuu2AU_J8t1B0_k6uV_sBAlbr8c8oiuEO-7Agb2eyPkFgngMBqo2z9GkUuMWlbnLrE1nxCElR8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCncyGrDJHpIrPk23xlpxjSQ",
+          "authorChannelId": {
+            "value": "UCncyGrDJHpIrPk23xlpxjSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-31T04:30:59Z",
+          "updatedAt": "2022-03-31T04:30:59Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wEu4AqT6BbY6nCbTGFc123Uru6A",
+    "id": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "GG9YfE2gqWGdRd3ygY5ZWQbGElU",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "*\u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0432\u0430\u043c, \u043c\u043e\u0438 \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0435 \u0431\u0440\u0430\u0442\u044c\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443 \u0420\u043e\u0441\u0441\u0438\u044e, \u043d\u0430\u0434\u0435\u044e\u0441\u044c, \u0432\u044b \u0432\u0441\u0435\u0433\u0434\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044b* \u2764\ufe0f\ud83c\uddf2\ud83c\udde8\ud83c\uddf2\ud83c\udde8 uraaa",
+          "textOriginal": "*\u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0432\u0430\u043c, \u043c\u043e\u0438 \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0435 \u0431\u0440\u0430\u0442\u044c\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443 \u0420\u043e\u0441\u0441\u0438\u044e, \u043d\u0430\u0434\u0435\u044e\u0441\u044c, \u0432\u044b \u0432\u0441\u0435\u0433\u0434\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044b* \u2764\ufe0f\ud83c\uddf2\ud83c\udde8\ud83c\uddf2\ud83c\udde8 uraaa",
+          "authorDisplayName": "\u043c\u0438\u0440\u0430\u0438\u043a\u0430\u0432\u0430\u0438",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/PTjp5c_4ObVUMXmi3NwU6fdDjuhYp9zcsYNwXFwsG9oothJiaxHzyko4POKgQAT1YyE3gIMqF-c=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UClU1qIixh_2grKYd6jNWD2g",
+          "authorChannelId": {
+            "value": "UClU1qIixh_2grKYd6jNWD2g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 77,
+          "publishedAt": "2022-03-31T01:02:13Z",
+          "updatedAt": "2022-03-31T01:02:56Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 14,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "ziSUGc4-Hv3q4KxEWHMod6s1Kio",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_PVJKGp6Kk",
+        "snippet": {
+          "textDisplay": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "textOriginal": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Indra Wn",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRn957BLIi27qrj8Sdf6KjRA7vUkMIfhctbIw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4ECZGEuKOn6bHaR1HXluGw",
+          "authorChannelId": {
+            "value": "UC4ECZGEuKOn6bHaR1HXluGw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T17:22:40Z",
+          "updatedAt": "2022-04-04T17:22:40Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "gj5az8QT62k5sdOZvpynQ-F9EnU",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_LStsY9n49",
+        "snippet": {
+          "textDisplay": "Uraaaaa\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\ude4f",
+          "textOriginal": "Uraaaaa\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\ude4f",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Lee Explore Eat Enjoy",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ082vWtVfrUWWEFPdhUaDKTZdsLRYPf9Ljd8qc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCWuwkE1wXDwAVD_Hr6j7Q6g",
+          "authorChannelId": {
+            "value": "UCWuwkE1wXDwAVD_Hr6j7Q6g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-03T03:44:37Z",
+          "updatedAt": "2022-04-03T03:44:37Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "DRKDnd6YYSI-tfjJ_R3GIXbiMtA",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_K6TqVCLYR",
+        "snippet": {
+          "textDisplay": "Terimakasih,  sudah terkuak ulah tangan kotor ukraina boneka barat, zelinsky gen sakit yang suka genosida pada orang yg berbahasa rusia, didonbas.   Semoga pemimpin anda pak putim yg cerdas cinta warga nya, menghargai menghormati perbedaan, agama sehat sukses selalu.  Media aliran barat aelama ini mendeskriditkan, beri juga sanski.  Buat media,  media sosial,  ala rusia.... \nUraaaaaa",
+          "textOriginal": "Terimakasih,  sudah terkuak ulah tangan kotor ukraina boneka barat, zelinsky gen sakit yang suka genosida pada orang yg berbahasa rusia, didonbas.   Semoga pemimpin anda pak putim yg cerdas cinta warga nya, menghargai menghormati perbedaan, agama sehat sukses selalu.  Media aliran barat aelama ini mendeskriditkan, beri juga sanski.  Buat media,  media sosial,  ala rusia.... \nUraaaaaa",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Indo Pribady9",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPCh7G4jWmWQoH3NZCkuJVdhv-KIgX7FiEjQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCdXRAVBF--meSoHvh_EfmmQ",
+          "authorChannelId": {
+            "value": "UCdXRAVBF--meSoHvh_EfmmQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T15:09:27Z",
+          "updatedAt": "2022-04-02T15:09:27Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "R-xix3kjAKofbp2lhfE3A3NMYoA",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_JbgI4SnGM",
+        "snippet": {
+          "textDisplay": "Urra",
+          "textOriginal": "Urra",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "maulana fadhli",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGUNUitw2NjwVw0UI7qW3u8HInj3QhdrbTBOgZ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFOQDFooEbUGuGFKqC9GfbA",
+          "authorChannelId": {
+            "value": "UCFOQDFooEbUGuGFKqC9GfbA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T10:31:40Z",
+          "updatedAt": "2022-04-02T10:31:40Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Hj872zeXXmRHYVJgWRAm6FV0MJc",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_JG_Gts21T",
+        "snippet": {
+          "textDisplay": "URAAA",
+          "textOriginal": "URAAA",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "turgandi purnawijaya",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpvOdJha6hkGhztrZQ1jrKLPm081bxt8A5f8oRxA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCnjwKj7I6mJmVR4cpP7YQrg",
+          "authorChannelId": {
+            "value": "UCnjwKj7I6mJmVR4cpP7YQrg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T07:18:28Z",
+          "updatedAt": "2022-04-02T07:18:28Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "dB3xwFQMA2tjQildFNk5Gxpe4y0",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_IZHp0pqtZ",
+        "snippet": {
+          "textDisplay": "Uraaa..",
+          "textOriginal": "Uraaa..",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "anungseto manggolono",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQI0rVT_-aHJkIkMhdNe9CMy8QpCA5RSArV_g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC-1qrX176nvSz4MkoQR_4lg",
+          "authorChannelId": {
+            "value": "UC-1qrX176nvSz4MkoQR_4lg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T00:42:44Z",
+          "updatedAt": "2022-04-02T00:42:44Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "dCV7yn5yJvdd_yN0uJewWaYx_4k",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_IA3wvxVQu",
+        "snippet": {
+          "textDisplay": "Kami harap Anda juga berhenti membunuh warga Ukraina karena kami melindungi hak asasi manusia dan keluarga yang masih hidup\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6\n\nWe hope you also stop killing Ukraine citizens as we protect the living human and families rights\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6\n\n\u041c\u044b \u043d\u0430\u0434\u0435\u0435\u043c\u0441\u044f, \u0447\u0442\u043e \u0432\u044b \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442\u0435 \u0443\u0431\u0438\u0432\u0430\u0442\u044c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0423\u043a\u0440\u0430\u0438\u043d\u044b, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043c\u044b \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u043c \u043f\u0440\u0430\u0432\u0430 \u0436\u0438\u0432\u044b\u0445 \u043b\u044e\u0434\u0435\u0439 \u0438 \u0441\u0435\u043c\u0435\u0439\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6",
+          "textOriginal": "Kami harap Anda juga berhenti membunuh warga Ukraina karena kami melindungi hak asasi manusia dan keluarga yang masih hidup\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6\n\nWe hope you also stop killing Ukraine citizens as we protect the living human and families rights\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6\n\n\u041c\u044b \u043d\u0430\u0434\u0435\u0435\u043c\u0441\u044f, \u0447\u0442\u043e \u0432\u044b \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442\u0435 \u0443\u0431\u0438\u0432\u0430\u0442\u044c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0423\u043a\u0440\u0430\u0438\u043d\u044b, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043c\u044b \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u043c \u043f\u0440\u0430\u0432\u0430 \u0436\u0438\u0432\u044b\u0445 \u043b\u044e\u0434\u0435\u0439 \u0438 \u0441\u0435\u043c\u0435\u0439\ud83c\uddf7\ud83c\uddfa\u2764\ufe0f\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf3\u2764\ufe0f\ud83c\uddfa\ud83c\udde6",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "SpaceX Flight Sim",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/VKdS6ZWkSMt7auDK3mUDdNcK5e4MGAR1eDPM1_W6s6UZzLCWPKKab8KyXUKvN2ODxod_hJLEpQs=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCyAFCkWArzdzCUWy_0ZuscQ",
+          "authorChannelId": {
+            "value": "UCyAFCkWArzdzCUWy_0ZuscQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T21:02:23Z",
+          "updatedAt": "2022-04-01T21:03:45Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "NHYR1bP4_gfGWU6vWPvbEU1BTiw",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_HRkIplXFz",
+        "snippet": {
+          "textDisplay": "URAAAAAA",
+          "textOriginal": "URAAAAAA",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "HaKa 28",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2GFn0U5UsmdymAYX24C9EptW5D3BLvhaZPF8dqw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYhEAd2ZVxNQbIrGlrn6P1Q",
+          "authorChannelId": {
+            "value": "UCYhEAd2ZVxNQbIrGlrn6P1Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T14:17:37Z",
+          "updatedAt": "2022-04-01T14:17:37Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "d4gP4glNBSz2qTiskCELmXM7WJk",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_H6IUHWfgb",
+        "snippet": {
+          "textDisplay": "Uraaa?!",
+          "textOriginal": "Uraaa?!",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "\u304f\u308d\u3084\u307f",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWKbGtEd7vduNSS4A1EiFxJ_I4hHZK3w-PaLtnog=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCOvPl6-vIyq5Ervc397yDNQ",
+          "authorChannelId": {
+            "value": "UCOvPl6-vIyq5Ervc397yDNQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T11:10:11Z",
+          "updatedAt": "2022-04-01T11:10:11Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "rK4puJyeIQTDBUYGu2o-Wqiabqg",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_GxEK5Galo",
+        "snippet": {
+          "textDisplay": "LETS GO UKRAINE",
+          "textOriginal": "LETS GO UKRAINE",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Fea araja",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQp5cHGGwJrThv1Eg0HeK2sK_b1VZ9BoWLbo_7m=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzqz4t8Lj6sngZQXPSkMOSQ",
+          "authorChannelId": {
+            "value": "UCzqz4t8Lj6sngZQXPSkMOSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T09:42:14Z",
+          "updatedAt": "2022-04-01T09:42:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "DPp-u68IlPpm676zLQAOV_S9gCo",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_G6gg1PkMz",
+        "snippet": {
+          "textDisplay": "Hi woman \ud83d\ude04\ud83d\ude05",
+          "textOriginal": "Hi woman \ud83d\ude04\ud83d\ude05",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Afrizal N.H",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/XIRgd8l3cI9LKUPfQJWIJQ0KpASlO7br94Pkyv1U6IRS7wb0Okc6i58PTjWslEGyGiOl6__E=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCTWDTAL6aBhImOHWwFTvsPw",
+          "authorChannelId": {
+            "value": "UCTWDTAL6aBhImOHWwFTvsPw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T01:54:23Z",
+          "updatedAt": "2022-04-01T01:54:23Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "t0XE3Fg2h_Z58syVwIjLdW_HpXs",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_G4azylU38",
+        "snippet": {
+          "textDisplay": "hiiii",
+          "textOriginal": "hiiii",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "Dit99Dit  ",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ez_Df_EPUfF-lEazRX0MvEGZOV5LYNISaQQsYsd88sLUyLef8pDNNCZETWRyNMmpYd9kGbi5=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_acBkD3gNaMecFZxUDaaXQ",
+          "authorChannelId": {
+            "value": "UC_acBkD3gNaMecFZxUDaaXQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T01:36:08Z",
+          "updatedAt": "2022-04-01T01:36:08Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "8aDKOzJvkCFv282_U74-i7t4qfc",
+        "id": "UgyxeZCwZu_Kx45J-sx4AaABAg.9_DRvgacb8-9_G2VVR50Jk",
+        "snippet": {
+          "textDisplay": "For the motherland, Uraa \ud83c\uddf7\ud83c\uddfa\u2764",
+          "textOriginal": "For the motherland, Uraa \ud83c\uddf7\ud83c\uddfa\u2764",
+          "parentId": "UgyxeZCwZu_Kx45J-sx4AaABAg",
+          "authorDisplayName": "farhan saputra Yahman",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWZE7dPgdOcx2CkwkrJF0qaS_5jJnX-X3T2HWP4Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCdzKJPCahB9eo0w6eWExeOQ",
+          "authorChannelId": {
+            "value": "UCdzKJPCahB9eo0w6eWExeOQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T01:17:46Z",
+          "updatedAt": "2022-04-01T01:23:21Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "_fFrha-45XcagPMApIRFjR60LvM",
+    "id": "UgyJGZG4k-DoXjvdZR94AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "svfhHKUn6PKnRw0Q4sAifPbtK3A",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Hikmah dari perang Rusia vs Ukraina.,kasus corona di Indonesia semakin menurun..,jadi masyarakat Indonesia bisa beraktivitas normal kembali.., soalnya masyarakat sudah lelah dan jenuh di beritakan soal Corona terus di media.\ud83c\uddee\ud83c\udde9\u2665\ufe0f Rusia",
+          "textOriginal": "Hikmah dari perang Rusia vs Ukraina.,kasus corona di Indonesia semakin menurun..,jadi masyarakat Indonesia bisa beraktivitas normal kembali.., soalnya masyarakat sudah lelah dan jenuh di beritakan soal Corona terus di media.\ud83c\uddee\ud83c\udde9\u2665\ufe0f Rusia",
+          "authorDisplayName": "Mas Zaen Mutaqin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYvqGB-HaGgjCzut2DIxmjIOmeRvNy_rCIFLagHw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCua_OkxDmk0DIQjfzXgpRfA",
+          "authorChannelId": {
+            "value": "UCua_OkxDmk0DIQjfzXgpRfA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 167,
+          "publishedAt": "2022-03-23T07:02:11Z",
+          "updatedAt": "2022-03-23T07:02:11Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 28,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "2QN1IHuGbPfc2AwnRF5-0XE7xAs",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_RlDuuqwil",
+        "snippet": {
+          "textDisplay": "86 .... MANTAP .... URAAA ....AKU WUJUD RAHASIA INTELEJEN ALLAH TA'ALA ..... ALLAHU AKBAR .... LANJUT ....86 .....",
+          "textOriginal": "86 .... MANTAP .... URAAA ....AKU WUJUD RAHASIA INTELEJEN ALLAH TA'ALA ..... ALLAHU AKBAR .... LANJUT ....86 .....",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Ikhwan Ahmad",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSUnMMWQ907R7lvmY6bGvyxbuOEcrgua2ig_R3OMdBhMkSa-J47PO7T-eZD38DC=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCUmI9hikWSfq_u-xYkFCKIw",
+          "authorChannelId": {
+            "value": "UCUmI9hikWSfq_u-xYkFCKIw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-05T14:28:58Z",
+          "updatedAt": "2022-04-05T14:28:58Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "tor8T6bHp1q8JTuJsyVRiS3KTEc",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_K-Oag24nN",
+        "snippet": {
+          "textDisplay": "The mastermind zionis Behind all the mess",
+          "textOriginal": "The mastermind zionis Behind all the mess",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Abdullah Ali",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvlvZKIkRXFbUzy8eM-SJjJ97gl2bUoYCgUhNIOOukc02hYoVfQh8WiQO5Rsu9=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjICYXLwtxvrEyUCIJJH9hQ",
+          "authorChannelId": {
+            "value": "UCjICYXLwtxvrEyUCIJJH9hQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T14:07:34Z",
+          "updatedAt": "2022-04-02T14:07:34Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "_yngPAjE9oNps20qFei8nWY-y-4",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_DJKKz0d51",
+        "snippet": {
+          "textDisplay": "@TEH KOTAK emang ekonomi sih mayoritas lu tahu sendiri dan jujur aja kayaknya orang disini kebanyakan gak tahu vaksin caranya kerja",
+          "textOriginal": "@TEH KOTAK emang ekonomi sih mayoritas lu tahu sendiri dan jujur aja kayaknya orang disini kebanyakan gak tahu vaksin caranya kerja",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "felix Gaming vlog",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqrbrJnFINxwdYof0N9iRBZ3FPT8waq4ZPvwiuYQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UChsFhp9XpeJGVVvIK3y2YMw",
+          "authorChannelId": {
+            "value": "UChsFhp9XpeJGVVvIK3y2YMw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T23:47:04Z",
+          "updatedAt": "2022-03-30T23:47:04Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "8JPsMeuKvPJ-kcb2rlc0fU_BqJs",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_CoVqclo-m",
+        "snippet": {
+          "textDisplay": "Corona terussss...  Dri vaksin pertama sampai skrg saya belom pernh vaksin 1 x pun..  Alhmdulillah sehat ampe skrg. Kantong aja ni tiap hari kering..  berita selalu membesar2kan kasus covid. Kemiskinan meningkat gara2 covid. .",
+          "textOriginal": "Corona terussss...  Dri vaksin pertama sampai skrg saya belom pernh vaksin 1 x pun..  Alhmdulillah sehat ampe skrg. Kantong aja ni tiap hari kering..  berita selalu membesar2kan kasus covid. Kemiskinan meningkat gara2 covid. .",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Mata Hati",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVQAoMxDZkO1DX95hLEK7xWtMcYZfpOEk_BXbMzA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCyJykrlVQUZZeQA4W6n0Z-w",
+          "authorChannelId": {
+            "value": "UCyJykrlVQUZZeQA4W6n0Z-w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T19:09:01Z",
+          "updatedAt": "2022-03-30T19:09:01Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "iZludtjp0EcoGAW9EnjiIgQepow",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_AwxihmzRS",
+        "snippet": {
+          "textDisplay": "@Ega Marvel ya masyarakatnya ga kaya di sini om, disini pake masker aja susah, disuruh vaksin malah mikir konspirasi, disuruh jaga jarak apalagi. Kalo ga ditilang juga orang boro boro pake helm motor.",
+          "textOriginal": "@Ega Marvel ya masyarakatnya ga kaya di sini om, disini pake masker aja susah, disuruh vaksin malah mikir konspirasi, disuruh jaga jarak apalagi. Kalo ga ditilang juga orang boro boro pake helm motor.",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "TEH KOTAK",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyfDBvMW8mVVk5ixxhj3PCGfNPaSCRp8cGewImzw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC-Pt3_LYBAxDjo5o6HdaTKQ",
+          "authorChannelId": {
+            "value": "UC-Pt3_LYBAxDjo5o6HdaTKQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2022-03-30T01:44:23Z",
+          "updatedAt": "2022-03-30T01:44:23Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "TgizxBk0udx041Sm7Gz_XYbPqy0",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_AwMvnC8lS",
+        "snippet": {
+          "textDisplay": "@TEH KOTAK buktinya, kmren di kereta sudah boleh duduk berdampingan, eh bbrp hari kemudian duduknya dipisah lagi \ud83e\udd23 plin plan.. Org lain udh nntn bola, udh konser udh tinju udh Grammy Awards, nah di kita msh sibuk kopid, 3 periode \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+          "textOriginal": "@TEH KOTAK buktinya, kmren di kereta sudah boleh duduk berdampingan, eh bbrp hari kemudian duduknya dipisah lagi \ud83e\udd23 plin plan.. Org lain udh nntn bola, udh konser udh tinju udh Grammy Awards, nah di kita msh sibuk kopid, 3 periode \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Ega Marvel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwFnCOs9hgXbcpCcGYgpKshnN_tVNgCYHi618g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0mLcEKp7vZyP2dHLc3Lnsw",
+          "authorChannelId": {
+            "value": "UC0mLcEKp7vZyP2dHLc3Lnsw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-30T01:39:13Z",
+          "updatedAt": "2022-03-30T01:39:13Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "0QgOlF7Du29mvBUAMhE0nXEzfdw",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_AsnrgnU8D",
+        "snippet": {
+          "textDisplay": "Logika nya aneh bgt, kaya ga berpendidikan maaf.dikira cuma Indonesia doang kali yang kena dampak covid..internasional boong Cuma buat orang ga demo di indonesia... Apa aa coba ga make sense",
+          "textOriginal": "Logika nya aneh bgt, kaya ga berpendidikan maaf.dikira cuma Indonesia doang kali yang kena dampak covid..internasional boong Cuma buat orang ga demo di indonesia... Apa aa coba ga make sense",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "TEH KOTAK",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyfDBvMW8mVVk5ixxhj3PCGfNPaSCRp8cGewImzw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC-Pt3_LYBAxDjo5o6HdaTKQ",
+          "authorChannelId": {
+            "value": "UC-Pt3_LYBAxDjo5o6HdaTKQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T01:08:05Z",
+          "updatedAt": "2022-03-30T01:09:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Gst9cGLNBxHPWYSMA8AAHoEXKf4",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_9piqZymVq",
+        "snippet": {
+          "textDisplay": "Jangan lupa faksin terus menerus sampe klenger ya. Vaksin ke 1 Vaksin ke 2 katanya maximal 2, terus tambah lagi vaksin booster ke 3 lanjut lagi apa gak nih sampe brapa x ya kira\u00b2\ud83e\udd14",
+          "textOriginal": "Jangan lupa faksin terus menerus sampe klenger ya. Vaksin ke 1 Vaksin ke 2 katanya maximal 2, terus tambah lagi vaksin booster ke 3 lanjut lagi apa gak nih sampe brapa x ya kira\u00b2\ud83e\udd14",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Nani Waelah",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSf-d27_u8r3of9NrGv1pZyQ4XsnMmD7xaL8Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCbZORo_mny9AUbhWFJrDqwA",
+          "authorChannelId": {
+            "value": "UCbZORo_mny9AUbhWFJrDqwA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T15:21:57Z",
+          "updatedAt": "2022-03-29T15:21:57Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "hdwafFnjJ-85y-aPQv_t-0KV1Ks",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_9gJtKaaSD",
+        "snippet": {
+          "textDisplay": "Hilang kasus Corona muncul mslah baru soal minyak goreng\ud83e\udd23 ya Allah",
+          "textOriginal": "Hilang kasus Corona muncul mslah baru soal minyak goreng\ud83e\udd23 ya Allah",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Tasia Ananta",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY94sN5KRyZw3dNOSSU8wprQV78jWtQ11IKlMWmVY=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCuiFkgKLIf8F4mt4S2kPiDw",
+          "authorChannelId": {
+            "value": "UCuiFkgKLIf8F4mt4S2kPiDw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T13:59:45Z",
+          "updatedAt": "2022-03-29T13:59:45Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "6CCIwZYDLGaz_EGpUngIbGAo-nE",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_9_F3Xt0gb",
+        "snippet": {
+          "textDisplay": "@kun sri hartanto ya nda tau tanya yg lain ko tanya saya",
+          "textOriginal": "@kun sri hartanto ya nda tau tanya yg lain ko tanya saya",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Ega Marvel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwFnCOs9hgXbcpCcGYgpKshnN_tVNgCYHi618g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0mLcEKp7vZyP2dHLc3Lnsw",
+          "authorChannelId": {
+            "value": "UC0mLcEKp7vZyP2dHLc3Lnsw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T12:57:56Z",
+          "updatedAt": "2022-03-29T12:57:56Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "YGrrWYog2UDsGZo5bDb_XIruHls",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_9YNSjAKZn",
+        "snippet": {
+          "textDisplay": "@Ega Marvel ngomong apa kau..kalau tidak tau apa-apa gak usah nyongor",
+          "textOriginal": "@Ega Marvel ngomong apa kau..kalau tidak tau apa-apa gak usah nyongor",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "kun sri hartanto",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2zEd7hRUhb1dqJUpNmEffOYT6DgOsi44RmZJF2vw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC1K__BpR3gBQW9ZPonqfPsg",
+          "authorChannelId": {
+            "value": "UC1K__BpR3gBQW9ZPonqfPsg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T12:41:36Z",
+          "updatedAt": "2022-03-29T12:41:36Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "hy9FcWBLOcIfbps6Ti1q8LyL6eU",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_9VVkqmHTY",
+        "snippet": {
+          "textDisplay": "Betul betul betul",
+          "textOriginal": "Betul betul betul",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "M. sahrulkan Ijul.P",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkcQRjMnpAZ6KdoLql-4G3PA39cI8YiCdNdM5YJA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCX5x9vp_ZNbLLSWLCo924YQ",
+          "authorChannelId": {
+            "value": "UCX5x9vp_ZNbLLSWLCo924YQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T12:16:31Z",
+          "updatedAt": "2022-03-29T12:16:31Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "IWuMIuhJJ2wmu5I3OatpxqZ8XpE",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_7d8j-VZjH",
+        "snippet": {
+          "textDisplay": "@Brown & Peter NAMANYA NEGARA DEMOKRASI!! KALO GA MAO ADA DEMO, JADI NEGARA KOMUNIS AJA!! TAPI MAKAN DAN KEBUTUHAN DITANGGUNG PEMERINTAH YA. LAH INI REZIM BANTENG, UDAH KAGA NANGGUNG MAKAN DLL RAKYAT, TAPI GA MAO DIDEMO, SEKALI ADA YANG BERSUARA DICIDUK, DIBUNGKAM, HILANG \ud83e\udd23,",
+          "textOriginal": "@Brown & Peter NAMANYA NEGARA DEMOKRASI!! KALO GA MAO ADA DEMO, JADI NEGARA KOMUNIS AJA!! TAPI MAKAN DAN KEBUTUHAN DITANGGUNG PEMERINTAH YA. LAH INI REZIM BANTENG, UDAH KAGA NANGGUNG MAKAN DLL RAKYAT, TAPI GA MAO DIDEMO, SEKALI ADA YANG BERSUARA DICIDUK, DIBUNGKAM, HILANG \ud83e\udd23,",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Ifan Stiawan",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5yqrZtzPqgsYQ-DQAzaA5rr6XKyIzAdVcxw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjEHIG8V2pCZXg8AI14n9GQ",
+          "authorChannelId": {
+            "value": "UCjEHIG8V2pCZXg8AI14n9GQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 3,
+          "publishedAt": "2022-03-28T18:53:32Z",
+          "updatedAt": "2022-03-28T18:53:54Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "mxMyhQ20Sfh2E11HotwE-pUn2Zw",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_7chetKQMU",
+        "snippet": {
+          "textDisplay": "@Brown & Peter wajar negara demokrasi rakyat demo, dan tidak semua pendemo miskin.",
+          "textOriginal": "@Brown & Peter wajar negara demokrasi rakyat demo, dan tidak semua pendemo miskin.",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Lutfi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_5droS5lklKGbcH8TCnECQ-gvrE3UbgLct5iq=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC7poLTLWlBpREAXsLpWK_0w",
+          "authorChannelId": {
+            "value": "UC7poLTLWlBpREAXsLpWK_0w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-28T18:49:42Z",
+          "updatedAt": "2022-03-28T18:49:42Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "087vw14MUGky3UXBnDSTngTXpwY",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_7_52bWFyw",
+        "snippet": {
+          "textDisplay": "@Ega Marvel kerjaanmu cuma demo kah ? Kasian bngt hidupmu kalau kamu kaya gak mungkin demo maka kerjalah biar tahan banting gak ngeluh terus memalukan dengan bangganya bilang demo wkwkwk",
+          "textOriginal": "@Ega Marvel kerjaanmu cuma demo kah ? Kasian bngt hidupmu kalau kamu kaya gak mungkin demo maka kerjalah biar tahan banting gak ngeluh terus memalukan dengan bangganya bilang demo wkwkwk",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Brown & Peter",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/aAuTy9yXRs1sAXQh8IhScTqtTuNq4G5OyoShwLbcwgv_uwdMUCOynJMli_y9eSyNcE7VrbY6aQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCb1G1q7Ozkl46D2KvP-83ew",
+          "authorChannelId": {
+            "value": "UCb1G1q7Ozkl46D2KvP-83ew"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-28T18:18:05Z",
+          "updatedAt": "2022-03-28T18:18:05Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "vAF92mA1Y_ykMkpdMwOEvKQHaek",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_7QZ9PBVBE",
+        "snippet": {
+          "textDisplay": "Bukanya corona ilang gara2 ada moto gp? Wkwkwkkw",
+          "textOriginal": "Bukanya corona ilang gara2 ada moto gp? Wkwkwkkw",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Infamous stn",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/_1E-o4og1NFtKA09DRPQ5-kd-prvMA-6-FXQLDN0iK_W54r-ok0YvjzI8ikrThhAHToxt6Vnig=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC2joLuDiBvH5kPLWa71GEBg",
+          "authorChannelId": {
+            "value": "UC2joLuDiBvH5kPLWa71GEBg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T16:54:49Z",
+          "updatedAt": "2022-03-28T16:54:49Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "1ZGbmmBb4lGPGISznudXggSqPD0",
+        "id": "UgyJGZG4k-DoXjvdZR94AaABAg.9ZuUlDlJqBL9_774feRaGh",
+        "snippet": {
+          "textDisplay": "@Ega Marvel apa hubungannya dengan Sultan, nalar berpikir macam apa kau itu",
+          "textOriginal": "@Ega Marvel apa hubungannya dengan Sultan, nalar berpikir macam apa kau itu",
+          "parentId": "UgyJGZG4k-DoXjvdZR94AaABAg",
+          "authorDisplayName": "Syaiful Bahri",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgGWcSQYefRORbxYLXdN7sjSqx9fb-splxGDgBMlGrBljPhczOm4DNaA5ade2k=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCu5dpZZ4ZjsSPG7c31FRkuw",
+          "authorChannelId": {
+            "value": "UCu5dpZZ4ZjsSPG7c31FRkuw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T14:04:38Z",
+          "updatedAt": "2022-03-28T14:04:38Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "67k5eq4bcGfGat3V0whZl7OsIG4",
+    "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "d6rhVyafnT7Og0SM9N11M0t8438",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Ayo Rusia...beberkan semua di sosial media, lengkapi semua bukti-buktinya biar seluruh masyarakat dunia bisa menilainya, siapa yang benar dan siapa yang bersalah",
+          "textOriginal": "Ayo Rusia...beberkan semua di sosial media, lengkapi semua bukti-buktinya biar seluruh masyarakat dunia bisa menilainya, siapa yang benar dan siapa yang bersalah",
+          "authorDisplayName": "Jasa Ginting",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXaV-BA1JvNBcLnZT2UjITHHx8dZRORTfy6A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0mrAGSk0bI6p6utRAzcqzg",
+          "authorChannelId": {
+            "value": "UC0mrAGSk0bI6p6utRAzcqzg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1413,
+          "publishedAt": "2022-03-22T19:26:32Z",
+          "updatedAt": "2022-03-22T19:26:32Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 209,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "pbl9dZtvHc5LRo4rjYG7K6h5afI",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_s1mZ5VNDh",
+        "snippet": {
+          "textDisplay": "@Septa Adi percuma ngomong sama fansboy Putin, udh salah ngotot lagi cari pembenaran",
+          "textOriginal": "@Septa Adi percuma ngomong sama fansboy Putin, udh salah ngotot lagi cari pembenaran",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "agen penguin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hg3JWNXYF8b94j5qOPIGWprwPSroCdkUIOOJiwha2rzH6hVL8WiB-Eh2nABUq-44E9aRbDBRZA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoxpQ1U1ve3IscEbE7XvMJg",
+          "authorChannelId": {
+            "value": "UCoxpQ1U1ve3IscEbE7XvMJg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T04:41:52Z",
+          "updatedAt": "2022-04-16T04:41:52Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "ZZlxb5OMMybwVP9k7__tHiDYEoQ",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_s1immp2Hd",
+        "snippet": {
+          "textDisplay": "@Septa Adi haha itu mah hanya konspirasi belaka, bahkan bukti dari Rusia aja itu juga kemungkinan besar hanya propaganda Rusia",
+          "textOriginal": "@Septa Adi haha itu mah hanya konspirasi belaka, bahkan bukti dari Rusia aja itu juga kemungkinan besar hanya propaganda Rusia",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "agen penguin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hg3JWNXYF8b94j5qOPIGWprwPSroCdkUIOOJiwha2rzH6hVL8WiB-Eh2nABUq-44E9aRbDBRZA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoxpQ1U1ve3IscEbE7XvMJg",
+          "authorChannelId": {
+            "value": "UCoxpQ1U1ve3IscEbE7XvMJg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T04:41:21Z",
+          "updatedAt": "2022-04-16T04:41:21Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "TzvfSqi8SkL6qXL4c0Hu0FK3Uyc",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_ryOZaefZi",
+        "snippet": {
+          "textDisplay": "@Septa Adi haha jgn sok tau deh, Ukraina punya puluhan laboratorium kesehatan umum yg fokusnya adalah meneliti dan memitigasi ancaman penyakit berbahaya bukan untuk senjata biologi.",
+          "textOriginal": "@Septa Adi haha jgn sok tau deh, Ukraina punya puluhan laboratorium kesehatan umum yg fokusnya adalah meneliti dan memitigasi ancaman penyakit berbahaya bukan untuk senjata biologi.",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "agen penguin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hg3JWNXYF8b94j5qOPIGWprwPSroCdkUIOOJiwha2rzH6hVL8WiB-Eh2nABUq-44E9aRbDBRZA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoxpQ1U1ve3IscEbE7XvMJg",
+          "authorChannelId": {
+            "value": "UCoxpQ1U1ve3IscEbE7XvMJg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T04:03:30Z",
+          "updatedAt": "2022-04-16T04:03:30Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "QaD_vZcy14w_BMSFjO4bCyWabMA",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_cRgLWoLJ6",
+        "snippet": {
+          "textDisplay": "@Latif Inhil ya saat WW2 juga AS dan USSR ga peduli dgn negara2 yg terletak di Asia Tenggara",
+          "textOriginal": "@Latif Inhil ya saat WW2 juga AS dan USSR ga peduli dgn negara2 yg terletak di Asia Tenggara",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "agen penguin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hg3JWNXYF8b94j5qOPIGWprwPSroCdkUIOOJiwha2rzH6hVL8WiB-Eh2nABUq-44E9aRbDBRZA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoxpQ1U1ve3IscEbE7XvMJg",
+          "authorChannelId": {
+            "value": "UCoxpQ1U1ve3IscEbE7XvMJg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-10T03:20:22Z",
+          "updatedAt": "2022-04-10T03:20:22Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "aCuIGWCX8BSg7O9CUwflt01NMEc",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_baVY13dwy",
+        "snippet": {
+          "textDisplay": "Bung@agen penguin  ..sebelum ama setelah itu beda.. Awal kemerdekaan Indonesia periodenya jg sama dg berakhirnya PD2.. KLO ditilik dari sejarah.. Sebelumnya mamarika cuek dan gk peduli ama keinginan bangsa Indonesia utk merdeka.. Cmn setelah berakhirnya PD 2 ada perubahan skenario termasuk kepentingan2 mamarika thd Indonesia..",
+          "textOriginal": "Bung@agen penguin  ..sebelum ama setelah itu beda.. Awal kemerdekaan Indonesia periodenya jg sama dg berakhirnya PD2.. KLO ditilik dari sejarah.. Sebelumnya mamarika cuek dan gk peduli ama keinginan bangsa Indonesia utk merdeka.. Cmn setelah berakhirnya PD 2 ada perubahan skenario termasuk kepentingan2 mamarika thd Indonesia..",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Latif Inhil",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFQaYSjUAGbfU6RnN2lWeJ_309bNfZ30XaVw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoHfn61uKizTWRUatMuevNQ",
+          "authorChannelId": {
+            "value": "UCoHfn61uKizTWRUatMuevNQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-09T19:26:54Z",
+          "updatedAt": "2022-04-09T19:26:54Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "zEfnmCz7yqfjzSQzM8FJW5FSSn0",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_SNWg7kL7n",
+        "snippet": {
+          "textDisplay": "Udah kuduga si pasti buatan Amerika.. \nSoalnya takut China makin dekat Amerini..",
+          "textOriginal": "Udah kuduga si pasti buatan Amerika.. \nSoalnya takut China makin dekat Amerini..",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Eruu Last Next",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMIo1C8JtpxIpg6QnxeOLnCxYVK2iLtzEzEXQLDQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCrlxWyR3Qp6cBA-b5sH8qrA",
+          "authorChannelId": {
+            "value": "UCrlxWyR3Qp6cBA-b5sH8qrA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-05T20:12:19Z",
+          "updatedAt": "2022-04-05T20:12:19Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Ok-QYGh_i05Xkru9VF8DjIGBewI",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_JhMghPT00",
+        "snippet": {
+          "textDisplay": "@SissyBadak cuan tu artinya profit/untung. Dari bahasa Cina dan sekarang populer kat Indo.",
+          "textOriginal": "@SissyBadak cuan tu artinya profit/untung. Dari bahasa Cina dan sekarang populer kat Indo.",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "hafizha pasha",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReji_tf2qCS8R1oMP_crPRO7_5rhd1v4-j0w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCAn2ciE7QiukuTtZkTL2x-w",
+          "authorChannelId": {
+            "value": "UCAn2ciE7QiukuTtZkTL2x-w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T11:21:17Z",
+          "updatedAt": "2022-04-02T11:21:17Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "LXa0rrYikaI7aUF5ZW1bXwrFMD4",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_Jd9qpNPI5",
+        "snippet": {
+          "textDisplay": "Amerika merencanakan nya ygy niatnya biar ekonomi china menurun",
+          "textOriginal": "Amerika merencanakan nya ygy niatnya biar ekonomi china menurun",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "ZIKO XD",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQUn1YXR7zwQZTkE4sYmsS_CL6_5XWMViITcCzQiQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC6qVsSfVH2F0o4DNuVRAysg",
+          "authorChannelId": {
+            "value": "UC6qVsSfVH2F0o4DNuVRAysg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-02T10:44:35Z",
+          "updatedAt": "2022-04-02T10:44:35Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "VOq_j7SNeyJ0URTaU5jfIdM9FJ8",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_Gmzt3X5uM",
+        "snippet": {
+          "textDisplay": "@Rakha Rajendra bs jg iya",
+          "textOriginal": "@Rakha Rajendra bs jg iya",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Rez Ka",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTxwiQPLHjSwqv0sWv2HX_8EbDttgVyPpgn=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCReLwv6dE9hE-c44euy4VEQ",
+          "authorChannelId": {
+            "value": "UCReLwv6dE9hE-c44euy4VEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T08:12:44Z",
+          "updatedAt": "2022-04-01T08:12:44Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "-X_51spZNh9o7pfTaXH9XdUksNY",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_EbdHsHLi9",
+        "snippet": {
+          "textDisplay": "@Zaenal Mutakin daripada lu ? Babu si kristen putin .sama kayak si kadirov yang keluarganya diperkosa tentara rusia di chechnya saat perang chechnya - rusia.. kekekekekwkwkwwk",
+          "textOriginal": "@Zaenal Mutakin daripada lu ? Babu si kristen putin .sama kayak si kadirov yang keluarganya diperkosa tentara rusia di chechnya saat perang chechnya - rusia.. kekekekekwkwkwwk",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "vivo 123",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdroHcbQcizb_zLOm6g9z3v5o5zvm5EKs8hA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjb0IzmqLPs-M_s7Yzsde2g",
+          "authorChannelId": {
+            "value": "UCjb0IzmqLPs-M_s7Yzsde2g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T11:55:03Z",
+          "updatedAt": "2022-03-31T11:55:03Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "_UXahnVNYlohx0y6Uujwtd_y61c",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_E9KR1ZVrH",
+        "snippet": {
+          "textDisplay": "Seperti nya pembuatnya si Am**** tumbalnya China agar disalahkan mungkin seperti itu kali ya.... Wallahu a\u2019lamu bis shawab",
+          "textOriginal": "Seperti nya pembuatnya si Am**** tumbalnya China agar disalahkan mungkin seperti itu kali ya.... Wallahu a\u2019lamu bis shawab",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Yudhie Ajah",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlq4pmqrqm8iOOBTIv3xlCVX8ve8c_l-DRIF46xQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC5u5S_nvW8j0JVeBsm9gSBQ",
+          "authorChannelId": {
+            "value": "UC5u5S_nvW8j0JVeBsm9gSBQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T07:38:56Z",
+          "updatedAt": "2022-03-31T07:38:56Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "MqjObZB_MPmhURcgTidOv1xYtoA",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_DpaTfuDPm",
+        "snippet": {
+          "textDisplay": "@Bravo Green \nHooyah - Navy SEAL\nOorah - US Marine",
+          "textOriginal": "@Bravo Green \nHooyah - Navy SEAL\nOorah - US Marine",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Andi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/AsyNO5nxfa6snBUVhcGtDlSamrXSGVOMIijiyJGep9DQ04gnAM0_ujCaXcRYNoaGrNMPr4lI=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCSjjKWgQuEcHqvq-KSJmrDQ",
+          "authorChannelId": {
+            "value": "UCSjjKWgQuEcHqvq-KSJmrDQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T04:37:46Z",
+          "updatedAt": "2022-03-31T04:37:46Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "3vIdFtDUCGR2mqKRbDtXDe6UcBk",
+        "id": "Ugyx4YBNh-ReDgkFGKJ4AaABAg.9ZtF99neXeH9_DolTDeq8G",
+        "snippet": {
+          "textDisplay": "Uraaa \u270a\ud83c\uddf7\ud83c\uddfa",
+          "textOriginal": "Uraaa \u270a\ud83c\uddf7\ud83c\uddfa",
+          "parentId": "Ugyx4YBNh-ReDgkFGKJ4AaABAg",
+          "authorDisplayName": "Bravo Green",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/2Uuu2AU_J8t1B0_k6uV_sBAlbr8c8oiuEO-7Agb2eyPkFgngMBqo2z9GkUuMWlbnLrE1nxCElR8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCncyGrDJHpIrPk23xlpxjSQ",
+          "authorChannelId": {
+            "value": "UCncyGrDJHpIrPk23xlpxjSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T04:30:32Z",
+          "updatedAt": "2022-03-31T04:30:32Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "GFMNy8wyG_JWguYmBnGAbZIQlgk",
+    "id": "UgxrN5mQYu1wS4y0SY14AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "XkE0RoukYP-uBJ0JkASztaD_VbI",
+        "id": "UgxrN5mQYu1wS4y0SY14AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "textOriginal": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 41,
+          "publishedAt": "2022-03-27T06:30:59Z",
+          "updatedAt": "2022-03-27T06:30:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 2,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "i21kxlZ-4anECBwlE3RhEU1Fgwk",
+        "id": "UgxrN5mQYu1wS4y0SY14AaABAg.9_3jNEuBRri9_7PsT2tGWZ",
+        "snippet": {
+          "textDisplay": "Amin",
+          "textOriginal": "Amin",
+          "parentId": "UgxrN5mQYu1wS4y0SY14AaABAg",
+          "authorDisplayName": "iyang Khaidar Nashir",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_C4KuPAsdNPmVLdojNO1pbHA6chL0PxgDPg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC3PCD3yd1O3thKEdFfpxLUA",
+          "authorChannelId": {
+            "value": "UC3PCD3yd1O3thKEdFfpxLUA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T16:48:51Z",
+          "updatedAt": "2022-03-28T16:48:51Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "fYbfp6wc2RcomQg3XZMYrhk_dRs",
+        "id": "UgxrN5mQYu1wS4y0SY14AaABAg.9_3jNEuBRri9_6qZM6LR64",
+        "snippet": {
+          "textDisplay": "Aamiin",
+          "textOriginal": "Aamiin",
+          "parentId": "UgxrN5mQYu1wS4y0SY14AaABAg",
+          "authorDisplayName": "Njoom Andonis",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmIRim2LeOII3DBgKTgo6HFd4WK1Jc4l7iZw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_hpGq4832nrEEe30CtLBmA",
+          "authorChannelId": {
+            "value": "UC_hpGq4832nrEEe30CtLBmA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T11:31:32Z",
+          "updatedAt": "2022-03-28T11:31:32Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ofBajfPmWQ6vaXz9DBt_5yTCkJM",
+    "id": "UgyrlmyOpSmmXJ0qPnN4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ymMN0y79XaomSe6Qz92qLYKBX28",
+        "id": "UgyrlmyOpSmmXJ0qPnN4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "textOriginal": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 6,
+          "publishedAt": "2022-03-27T06:30:56Z",
+          "updatedAt": "2022-03-27T06:30:56Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "LtGb9ywj4UOWibUXRLBzZYl-02A",
+    "id": "Ugwo0sohArI8HGJ-wcF4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "SJEV1Z7Rwio63YUsDqsEj91cZWA",
+        "id": "Ugwo0sohArI8HGJ-wcF4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "textOriginal": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-27T06:30:44Z",
+          "updatedAt": "2022-03-27T06:30:44Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wP8BQHPRBpauMqY3Bw-cKurOnM8",
+    "id": "UgxuOLRJgmxwLBE7Jit4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "9nsQDJim5Rn2yI3fjXjKr0qawGs",
+        "id": "UgxuOLRJgmxwLBE7Jit4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Seharusnya masyarakat ikut membantu menyebarkan berita jujur ini kesemua pengguna media",
+          "textOriginal": "Seharusnya masyarakat ikut membantu menyebarkan berita jujur ini kesemua pengguna media",
+          "authorDisplayName": "tarazwlk",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/rnzbjl-lhxsAaMLdOmVlbjRN88ylJAh5PiZExr3rNWSUy0jRv414vsX0W-D8Zb9yPkoeIJ-zpA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCVSGSW6C35yFZxPI1VyremQ",
+          "authorChannelId": {
+            "value": "UCVSGSW6C35yFZxPI1VyremQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 32,
+          "publishedAt": "2022-03-24T02:16:26Z",
+          "updatedAt": "2022-03-24T02:16:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "UDh07568h0zw6D81GTsn12cGeY8",
+        "id": "UgxuOLRJgmxwLBE7Jit4AaABAg.9ZwYrAcdNnm9_Bc-WkNE2f",
+        "snippet": {
+          "textDisplay": "Pertanyaannya, apakah kredibilitasnnya bisa di pertanggung jawabkan?\n\nSekelas Tribun mana bisa di percaya, berita aja ga netral.\n\nKalo netral, yang jelek tentang Rusia dan Amerika dkk harusnya di ekspos semua.\n\nRusia ama U.S. sama2 liciknya dan bengisnya, ga ada yang paling bagus. Kalo lu pikir Russia baik, selamat, anda menjadi sebuah pion bagi Rusia untuk menyebarkan propaganda mereka.",
+          "textOriginal": "Pertanyaannya, apakah kredibilitasnnya bisa di pertanggung jawabkan?\n\nSekelas Tribun mana bisa di percaya, berita aja ga netral.\n\nKalo netral, yang jelek tentang Rusia dan Amerika dkk harusnya di ekspos semua.\n\nRusia ama U.S. sama2 liciknya dan bengisnya, ga ada yang paling bagus. Kalo lu pikir Russia baik, selamat, anda menjadi sebuah pion bagi Rusia untuk menyebarkan propaganda mereka.",
+          "parentId": "UgxuOLRJgmxwLBE7Jit4AaABAg",
+          "authorDisplayName": "AZIMUTH",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFFlcR18JdSNp4Fl-E7cN1ziaufNjTwTqaKVYFQA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjTR9Hs7DXRcMgYzJF4X81Q",
+          "authorChannelId": {
+            "value": "UCjTR9Hs7DXRcMgYzJF4X81Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T08:00:30Z",
+          "updatedAt": "2022-03-30T08:00:30Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "DuOCsiVFjlTico1b43elQbauj94",
+    "id": "UgyKHSgttLyd72Wp8At4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "lodWjXgDikq7v7dHMl6P5bBVUVM",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Semua Media yang jujur dan kredibel , seharusnya Terus memviralkan berita ini, karena sudah sangat valid bukti -buktinya, namun PBB malah tidak nggubris dan cenderung melindungi semua kebusukan Ukraina dan Amerika. \nUkraina dan Amerika , atas kasus ini harunya diadili dan disanksi beramai oleh Dunia\nSemoga Dunia segera Damai",
+          "textOriginal": "Semua Media yang jujur dan kredibel , seharusnya Terus memviralkan berita ini, karena sudah sangat valid bukti -buktinya, namun PBB malah tidak nggubris dan cenderung melindungi semua kebusukan Ukraina dan Amerika. \nUkraina dan Amerika , atas kasus ini harunya diadili dan disanksi beramai oleh Dunia\nSemoga Dunia segera Damai",
+          "authorDisplayName": "SEKHUL Kirom",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgniubzYBSXla5_KopEtXvyqI-PK5xCRGeZA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCc9z3Lr21Q-GOuNQpWrLlGg",
+          "authorChannelId": {
+            "value": "UCc9z3Lr21Q-GOuNQpWrLlGg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 892,
+          "publishedAt": "2022-03-22T18:45:05Z",
+          "updatedAt": "2022-03-22T18:45:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 157,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "gT72JgBKvWWiLGlmWlRjSiXrZ-A",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9aAfIO-YZl8",
+        "snippet": {
+          "textDisplay": "Karena yg punya pbb tu ya si barat...",
+          "textOriginal": "Karena yg punya pbb tu ya si barat...",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Adi Setiawan",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4URKCOKrMNUolcAB6qxzCw7WLjB8dzGSq191y3w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCrBYoTTqJL8eerpNSY2whyg",
+          "authorChannelId": {
+            "value": "UCrBYoTTqJL8eerpNSY2whyg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-23T19:41:27Z",
+          "updatedAt": "2022-04-23T19:41:27Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "BgoHt6PWLa1j031iTrUaFch1LY8",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_tZHdYtk65",
+        "snippet": {
+          "textDisplay": "Buat tandingan pbb yang baru",
+          "textOriginal": "Buat tandingan pbb yang baru",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Rizky becak",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWZR9rf4hUXA95672uJE8DfW6qtncV5UDHrA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCqwf5hFUNhKVEJYNKlxxFgQ",
+          "authorChannelId": {
+            "value": "UCqwf5hFUNhKVEJYNKlxxFgQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T18:53:51Z",
+          "updatedAt": "2022-04-16T18:53:51Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "4BdNVESLj4og-vygaKuqRvFTWsI",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_ZMzpSdY3A",
+        "snippet": {
+          "textDisplay": "Jangan mengharapkan PBB kepanjangan tangan Amerika  sebarkan saja keseluruh sosial media  biar masyarakat dunia meniilainya   kebusukan Amerika  labiologis yg di temukan Rusia di Ukraina yg di danai Amerika",
+          "textOriginal": "Jangan mengharapkan PBB kepanjangan tangan Amerika  sebarkan saja keseluruh sosial media  biar masyarakat dunia meniilainya   kebusukan Amerika  labiologis yg di temukan Rusia di Ukraina yg di danai Amerika",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Rusdia Nana",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGNSw1phVUdNh4yvgnbR4XEaRtK99GvYe3Tz8aLlPpP882gHaQHlRqyZFqZz3z=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4EXO5mgBrwyXrAzvhbqG-Q",
+          "authorChannelId": {
+            "value": "UC4EXO5mgBrwyXrAzvhbqG-Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-08T13:22:22Z",
+          "updatedAt": "2022-04-08T13:22:22Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "DdPbC4HdxruvdVphEjIvzO0UD4o",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_PIehwVF4M",
+        "snippet": {
+          "textDisplay": "Pikiran yahudi sudah disebut alquran. Pokoke jahat tapi Allah pasti akan membalas kejahatan tersebut",
+          "textOriginal": "Pikiran yahudi sudah disebut alquran. Pokoke jahat tapi Allah pasti akan membalas kejahatan tersebut",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Paiman 1969",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-aWrps6uGMmUg21xkagmoxu_Vir0ztP4fteoRaA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXDWL1JHxJZaxVwEidWB90g",
+          "authorChannelId": {
+            "value": "UCXDWL1JHxJZaxVwEidWB90g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-04-04T15:32:08Z",
+          "updatedAt": "2022-04-04T15:32:08Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "4nG2NEBddA29FE0zh4u2fYoa4-c",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_Gc1ewDWFc",
+        "snippet": {
+          "textDisplay": "Apakah dr Terawan di pecat dari idi krn mengembangkan vaksin nusantara ???",
+          "textOriginal": "Apakah dr Terawan di pecat dari idi krn mengembangkan vaksin nusantara ???",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Isdul Yama",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRx_72guHb4mToNVnJBR0TYDxQUDcQroyFqDw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UClYabdpWEIKVcE4am5LiRaQ",
+          "authorChannelId": {
+            "value": "UClYabdpWEIKVcE4am5LiRaQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T06:37:00Z",
+          "updatedAt": "2022-04-01T06:37:00Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "PymLyHZ4l87WgaxJbrjx9xzr-eU",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_DWIP7FMzC",
+        "snippet": {
+          "textDisplay": "Ukraina hanya korban dari 'kebusukan' dan 'kelicikan' pihak amrik. Bantu ukraina agar jangan sampai jadi 'antek' negara amerika.",
+          "textOriginal": "Ukraina hanya korban dari 'kebusukan' dan 'kelicikan' pihak amrik. Bantu ukraina agar jangan sampai jadi 'antek' negara amerika.",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kadrun Insyaf",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTii-uN3EiaYj86mjS2mYHsdKp6-Jd3bbE8tRhyzOjQqJGq51WC1EzFOpV97oPN=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC6nMX0YRqNLSazh9Vey0ezQ",
+          "authorChannelId": {
+            "value": "UC6nMX0YRqNLSazh9Vey0ezQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T01:40:24Z",
+          "updatedAt": "2022-03-31T01:40:24Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "MYmeavtZpO0yXF88vHsfEIkYITo",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_Bctw5KEkk",
+        "snippet": {
+          "textDisplay": "@Kie Sambung yotro. Yah gpp dong wkwkw hak gw mw dukung siapa wkwk ngawur lhoo haha\ud83d\ude05\ud83d\ude02\u5173\u4f60\u4ec0\u4e48\u5c41\u4e8b?\u2026\u4e0d\u8981\u800d\u806a\u660e\u5566\n\u4f60\u4e5f\u662f\u4e00\u6837\u4e0d\u77e5\u9053\u4e8b\u60c5\u5427\u3002You too much consumed a lots off propaganda news from the western puppets. You have been brainwashed completely :') so pathetic",
+          "textOriginal": "@Kie Sambung yotro. Yah gpp dong wkwkw hak gw mw dukung siapa wkwk ngawur lhoo haha\ud83d\ude05\ud83d\ude02\u5173\u4f60\u4ec0\u4e48\u5c41\u4e8b?\u2026\u4e0d\u8981\u800d\u806a\u660e\u5566\n\u4f60\u4e5f\u662f\u4e00\u6837\u4e0d\u77e5\u9053\u4e8b\u60c5\u5427\u3002You too much consumed a lots off propaganda news from the western puppets. You have been brainwashed completely :') so pathetic",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T08:08:21Z",
+          "updatedAt": "2022-03-30T08:08:21Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "4r7IWmE2bRqz0fKXNjGcMmZ3yAA",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_BcF-DYQ-x",
+        "snippet": {
+          "textDisplay": "Kocak gatau kondisi sesungguhnya hanya lewat media lokal aja percaya. \ud83d\ude02\ud83d\ude02 Yang cermat lah cari bener bener berita orang yang tinggal disana apa yang kerja disana lo gatau kondisi sebenarnya aja udah kayak orang yang tinggal disana kayak inteljen yang ditugaskan dinegara sana aja \ud83d\ude02\ud83d\ude02 salam sehat dukunglah kebaikan jangan dukung keburukan yang merugikan semua itu hal buruk banget .",
+          "textOriginal": "Kocak gatau kondisi sesungguhnya hanya lewat media lokal aja percaya. \ud83d\ude02\ud83d\ude02 Yang cermat lah cari bener bener berita orang yang tinggal disana apa yang kerja disana lo gatau kondisi sebenarnya aja udah kayak orang yang tinggal disana kayak inteljen yang ditugaskan dinegara sana aja \ud83d\ude02\ud83d\ude02 salam sehat dukunglah kebaikan jangan dukung keburukan yang merugikan semua itu hal buruk banget .",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kie Sambung yotro.",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Ji9e8PFZIk9cqu5zdJryKcP8ch1Z1K7G-n3AR6FCCHI61NWejObIq-nQD97k9ZMTyw_JM5ttdg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFo1YYdOHZpUHx0yRDRAyhA",
+          "authorChannelId": {
+            "value": "UCFo1YYdOHZpUHx0yRDRAyhA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T08:02:37Z",
+          "updatedAt": "2022-03-30T08:02:37Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "QDjD2WqzjAGVkSRDDYfEJI-cnSI",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_Bc97N16D7",
+        "snippet": {
+          "textDisplay": "@Kie Sambung yotro. Tanya saja ke Netizen Indonesia lain juga bukan aku aj kok  yg pro Russia sayang wkwk",
+          "textOriginal": "@Kie Sambung yotro. Tanya saja ke Netizen Indonesia lain juga bukan aku aj kok  yg pro Russia sayang wkwk",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T08:01:49Z",
+          "updatedAt": "2022-03-30T08:01:49Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "rLxyBaEg7GlBpm2GrOwh8V22TPM",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_BbiXx7cxm",
+        "snippet": {
+          "textDisplay": "@Kh_zhg99 kita tak tau permainan politik apa yang mereka buat entah nato entah Rusia entak Ukraina kita gatau konvlikknya apa sebenarnya yang ada di media sosial itu belum tentu benar dan akurat se akan mereka dukung rusia untuk merubuhkan negara Ukraina.  emang dengan cara perang selesai gitu??  Kita ga boleh dukung satu kubu saja itu seperti kita memberikan dukungan kepada Rusia atas apa mereka buat dan mereka akan gila gila an melancarkan aksinya dan menggerakan nuklir tersebut kalo lo meemwng bener bener tau kondisi sesungguhnya lo emang tinggal disana lo emang jadi tawanan disana lo jadi media disana ko sampek segitunya sampek dukung rusia .",
+          "textOriginal": "@Kh_zhg99 kita tak tau permainan politik apa yang mereka buat entah nato entah Rusia entak Ukraina kita gatau konvlikknya apa sebenarnya yang ada di media sosial itu belum tentu benar dan akurat se akan mereka dukung rusia untuk merubuhkan negara Ukraina.  emang dengan cara perang selesai gitu??  Kita ga boleh dukung satu kubu saja itu seperti kita memberikan dukungan kepada Rusia atas apa mereka buat dan mereka akan gila gila an melancarkan aksinya dan menggerakan nuklir tersebut kalo lo meemwng bener bener tau kondisi sesungguhnya lo emang tinggal disana lo emang jadi tawanan disana lo jadi media disana ko sampek segitunya sampek dukung rusia .",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kie Sambung yotro.",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Ji9e8PFZIk9cqu5zdJryKcP8ch1Z1K7G-n3AR6FCCHI61NWejObIq-nQD97k9ZMTyw_JM5ttdg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFo1YYdOHZpUHx0yRDRAyhA",
+          "authorChannelId": {
+            "value": "UCFo1YYdOHZpUHx0yRDRAyhA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T07:58:03Z",
+          "updatedAt": "2022-03-30T07:58:03Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "2lvdluDPLT5TUhQragolrwZLtDk",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_BTd7rvSh4",
+        "snippet": {
+          "textDisplay": "@Kie Sambung yotro. Tentu aj gk bisa membenarkan namanya perang. Tapi disini pada dukung Russia karena itulah akibatnya Ukraina kekeh mw joined anggota NATO yg dikepalai Raja Dajjal mereka yaitu US wkwk yg jelas\" rival besar Russia dan China sekalipun\nKasian rakyatnya Ukraina jdi korban karena ulah bodonya shi badut itu wkwk\ud83d\ude05\ud83d\ude05\ud83d\ude05\nYha kita doain aj lhoo semoga cepet damai dri dua belah pihak negara tsb",
+          "textOriginal": "@Kie Sambung yotro. Tentu aj gk bisa membenarkan namanya perang. Tapi disini pada dukung Russia karena itulah akibatnya Ukraina kekeh mw joined anggota NATO yg dikepalai Raja Dajjal mereka yaitu US wkwk yg jelas\" rival besar Russia dan China sekalipun\nKasian rakyatnya Ukraina jdi korban karena ulah bodonya shi badut itu wkwk\ud83d\ude05\ud83d\ude05\ud83d\ude05\nYha kita doain aj lhoo semoga cepet damai dri dua belah pihak negara tsb",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T06:38:40Z",
+          "updatedAt": "2022-03-30T06:38:40Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "xAqjeo5crIHJhlbgxoWV20AmGK4",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_BTBbPONNL",
+        "snippet": {
+          "textDisplay": "@Kie Sambung yotro. Do you meant US and NATO?? Yeah of course wkwk\ud83d\ude02\ud83d\ude02",
+          "textOriginal": "@Kie Sambung yotro. Do you meant US and NATO?? Yeah of course wkwk\ud83d\ude02\ud83d\ude02",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T06:34:46Z",
+          "updatedAt": "2022-03-30T06:34:46Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "zlzokg6XwyDySYCRRaMv7QYlejQ",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_BSejn0TTh",
+        "snippet": {
+          "textDisplay": "Lo kalo komen yang baik aja bro lo liat berita media di Indonesia percuma ga akurat lo ga tau kondisi sepenuhnya lo gatau permasalahan lnya apa ini. Kalo lo dukung rusia lo mau mati konyol lena nuklir??\nBerfikir akal sehat lah masak orang berbuat keburukan dan merugikan semua negara lo dukung! Sehat gasih lo . \n\nDukunglah kedua negara tersebut untuk menyelesaikan permasalahannya dengan baik jangan lo dukung rusia terus mereka seperti dapat dukungan lalu lancarkan nuklir \ud83d\ude02\ud83d\ude02 salam sehat aja \n\nKebusukan Ukraina apa yang lo tau?? Emang lo detektif?? Kalo lo bener jadi detektif aku bakal muji lo .",
+          "textOriginal": "Lo kalo komen yang baik aja bro lo liat berita media di Indonesia percuma ga akurat lo ga tau kondisi sepenuhnya lo gatau permasalahan lnya apa ini. Kalo lo dukung rusia lo mau mati konyol lena nuklir??\nBerfikir akal sehat lah masak orang berbuat keburukan dan merugikan semua negara lo dukung! Sehat gasih lo . \n\nDukunglah kedua negara tersebut untuk menyelesaikan permasalahannya dengan baik jangan lo dukung rusia terus mereka seperti dapat dukungan lalu lancarkan nuklir \ud83d\ude02\ud83d\ude02 salam sehat aja \n\nKebusukan Ukraina apa yang lo tau?? Emang lo detektif?? Kalo lo bener jadi detektif aku bakal muji lo .",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kie Sambung yotro.",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Ji9e8PFZIk9cqu5zdJryKcP8ch1Z1K7G-n3AR6FCCHI61NWejObIq-nQD97k9ZMTyw_JM5ttdg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFo1YYdOHZpUHx0yRDRAyhA",
+          "authorChannelId": {
+            "value": "UCFo1YYdOHZpUHx0yRDRAyhA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T06:30:09Z",
+          "updatedAt": "2022-03-30T06:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "e6q7rZ8QCR_JhwRrg8k44aEGuXk",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_B1KExsVMM",
+        "snippet": {
+          "textDisplay": "@Reni Tanius Yahh lucu aj shi sampai bahas ke Ojol ap hubungan?? Hati\" jgn sampai teman\" yg punya pekerjaan Ojol sampai baca komenmu ni. HARGAI USAHA DAN PEKERJAAN ORG YG HALAL.  Lagian mereka US mah karena kurs Dollarnya tinggi makanya mereka mah murah\" aj ke Bali. Emangnya kalo dah Kaya harus gitu injak ke US??? Bangga???\nKalo orang kaya beneran yg byk bersedekah, rendah hati dan menolong org yg membutuhkan itu yg patut dibanggakan\nBukan kyk yg baru masuk penjara tu yg suka bikin konten \"MURAH BANGET\" akhirnya kena batunya kn akibat perbuatan buruknya\nLagian skrg Indonesia udh mulai on the right track kok, udh byk pembangunan proyek dan infrastruktur dimna\", kemarin juga menyelenggarakan Acara Motor GP Sirkuit Mandalika, dan masih byk lgi. Bahkan skrg Indonesia memimpin acara KTT G20\nKmu shi hidupnya susah kali makanya pikirannya negatif mulu dan selalu nyalahinnya ke pemerintah hadeh :')\nBangun woy kerja tdur jgn terlalu miring XD",
+          "textOriginal": "@Reni Tanius Yahh lucu aj shi sampai bahas ke Ojol ap hubungan?? Hati\" jgn sampai teman\" yg punya pekerjaan Ojol sampai baca komenmu ni. HARGAI USAHA DAN PEKERJAAN ORG YG HALAL.  Lagian mereka US mah karena kurs Dollarnya tinggi makanya mereka mah murah\" aj ke Bali. Emangnya kalo dah Kaya harus gitu injak ke US??? Bangga???\nKalo orang kaya beneran yg byk bersedekah, rendah hati dan menolong org yg membutuhkan itu yg patut dibanggakan\nBukan kyk yg baru masuk penjara tu yg suka bikin konten \"MURAH BANGET\" akhirnya kena batunya kn akibat perbuatan buruknya\nLagian skrg Indonesia udh mulai on the right track kok, udh byk pembangunan proyek dan infrastruktur dimna\", kemarin juga menyelenggarakan Acara Motor GP Sirkuit Mandalika, dan masih byk lgi. Bahkan skrg Indonesia memimpin acara KTT G20\nKmu shi hidupnya susah kali makanya pikirannya negatif mulu dan selalu nyalahinnya ke pemerintah hadeh :')\nBangun woy kerja tdur jgn terlalu miring XD",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T02:31:17Z",
+          "updatedAt": "2022-03-30T02:31:17Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "YwoZziMj9A_yZB3ys1-Y9pcU5j4",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_B-o5vfZPz",
+        "snippet": {
+          "textDisplay": "@Reni Tanius Mgkin kmu kali tinggal di daerah kumuh makanya ngambek pas aku blg begitu ya kn??? wkwk",
+          "textOriginal": "@Reni Tanius Mgkin kmu kali tinggal di daerah kumuh makanya ngambek pas aku blg begitu ya kn??? wkwk",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T02:18:01Z",
+          "updatedAt": "2022-03-30T02:18:01Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "tVBMEhJA8FustFVGDlm7cfdv_pU",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_B-aB65UJ2",
+        "snippet": {
+          "textDisplay": "@Reni Tanius Daerah Los Angeles,CA ,Detroit dan daerah provinsi lainnya byk kok kenyataannya byk Tunawisma karena Tax pay and Life costnya tinggi terutama di California asal lho tau",
+          "textOriginal": "@Reni Tanius Daerah Los Angeles,CA ,Detroit dan daerah provinsi lainnya byk kok kenyataannya byk Tunawisma karena Tax pay and Life costnya tinggi terutama di California asal lho tau",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T02:16:07Z",
+          "updatedAt": "2022-03-30T02:16:07Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "UmZ_pZ_GoYsdFN2Vgvx8bqMWoNM",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_B-PWglUJd",
+        "snippet": {
+          "textDisplay": "@Reni Tanius Kan Faktanya begitu wkwk, Kadrun ya nihh jgn kepanasan dong wkwk\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+          "textOriginal": "@Reni Tanius Kan Faktanya begitu wkwk, Kadrun ya nihh jgn kepanasan dong wkwk\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Kh_zhg99",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/zGhx-61V-wPCQ6fdflYDIT6O1EHUXvm1-lYkUO1fWVWdoUlRP0pEXCIx08sm175GCW5DNW_r=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf3vb_HSl-ZmzOtabZIQ5qg",
+          "authorChannelId": {
+            "value": "UCf3vb_HSl-ZmzOtabZIQ5qg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T02:14:32Z",
+          "updatedAt": "2022-03-30T02:14:32Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "7Q9VdO8OTe3e4Y5PTzxDkclNqYY",
+        "id": "UgyKHSgttLyd72Wp8At4AaABAg.9ZtAPa5iPcw9_Ajca1-1tr",
+        "snippet": {
+          "textDisplay": "@Kh_zhg99 yg ga tau itu kamu , lu liat chanel org daerah tertentu kawasan yg kumuh u samakan semua kumuh, jkt lu liat daerah daerah pantai mutiara terus u blng semua jkt elite mewah ? Pemerintah sana lbh perduli sama rakyat nya di banding pemerintah indo asal u tau ,ojol di sana aja bs jln2 ke bali bermewah2an lah ojol di indo jgn kan ke US ke bali negara sendiri aja ga mampu jd pemerintah mana yg u blng kejam ?",
+          "textOriginal": "@Kh_zhg99 yg ga tau itu kamu , lu liat chanel org daerah tertentu kawasan yg kumuh u samakan semua kumuh, jkt lu liat daerah daerah pantai mutiara terus u blng semua jkt elite mewah ? Pemerintah sana lbh perduli sama rakyat nya di banding pemerintah indo asal u tau ,ojol di sana aja bs jln2 ke bali bermewah2an lah ojol di indo jgn kan ke US ke bali negara sendiri aja ga mampu jd pemerintah mana yg u blng kejam ?",
+          "parentId": "UgyKHSgttLyd72Wp8At4AaABAg",
+          "authorDisplayName": "Reni Tanius",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwtG7aW8WbFrPZtNe1s-Ernni9F2tyQKOHMw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCMvd_5LMa5BOGHFl0Eu4z9w",
+          "authorChannelId": {
+            "value": "UCMvd_5LMa5BOGHFl0Eu4z9w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T23:47:54Z",
+          "updatedAt": "2022-03-29T23:47:54Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "UNhyAiG7y3b2d_Vg2IXENjGuL24",
+    "id": "UgxKOKAUQi8tCf35dQ94AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "JRY-LGAFEBaUc5HjAEfsi9M9Uho",
+        "id": "UgxKOKAUQi8tCf35dQ94AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "textOriginal": "Lindungilah Rusia dan semua rakyat dan tetaranya dalam memperjuangkan kebenaran dan keadilan",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-27T06:30:52Z",
+          "updatedAt": "2022-03-27T06:30:52Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "pIMPzo-GChlICNjx1kXwjBES--g",
+    "id": "UgxYr0D3qUJwavwqu4B4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "J92b3pYdJ25iVK7DvKapxuXw7Y4",
+        "id": "UgxYr0D3qUJwavwqu4B4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Negara Rusia memang paling baik... semangat sukses....",
+          "textOriginal": "Negara Rusia memang paling baik... semangat sukses....",
+          "authorDisplayName": "sucribe chann",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/4U24i8MWJqomHderk2aURkxI5U3aML9Vfxr4AmUkGKpYnbA0X1BBZf7aC9yrGLcJbxIOTLhECw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0OH4W28fMkbgJFEKCfXlwg",
+          "authorChannelId": {
+            "value": "UC0OH4W28fMkbgJFEKCfXlwg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 4,
+          "publishedAt": "2022-04-02T16:49:05Z",
+          "updatedAt": "2022-04-02T16:49:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wif8pdmlkYRpZCwPNbr1EnDQ93E",
+    "id": "Ugz1r_wFbCrPFR7X_sZ4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "qhgZM21DC5w9u3ddJw5LkAqmOos",
+        "id": "Ugz1r_wFbCrPFR7X_sZ4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Subhanallah\nJika ini benar adanya, kejam bangat barat.\nBRAVO RUSIA Smg cepat tepat dpt menyelesaikan operasi Militer di Ukraina dgn penuh Kemenangan\ud83c\uddf2\ud83c\udde8",
+          "textOriginal": "Subhanallah\nJika ini benar adanya, kejam bangat barat.\nBRAVO RUSIA Smg cepat tepat dpt menyelesaikan operasi Militer di Ukraina dgn penuh Kemenangan\ud83c\uddf2\ud83c\udde8",
+          "authorDisplayName": "Haji Mastur",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSZjTAZjk5jPDK2aB3QawCEhqIb7WLMQJhVw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCEq-yUPCLgM1WIiWBNuLuxg",
+          "authorChannelId": {
+            "value": "UCEq-yUPCLgM1WIiWBNuLuxg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 36,
+          "publishedAt": "2022-03-26T12:21:00Z",
+          "updatedAt": "2022-03-26T12:21:00Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "J2JQIJ0SP8ffLf-4dg_8auJRm2g",
+    "id": "UgzooH_aXOHNFdaZLAN4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "YjbT-EVG5pkji6fCPG2Layt1LCA",
+        "id": "UgzooH_aXOHNFdaZLAN4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Mudahan segera terbongkar semua kejahatan kemanusiaan lewat eksperimen virus corona ini.",
+          "textOriginal": "Mudahan segera terbongkar semua kejahatan kemanusiaan lewat eksperimen virus corona ini.",
+          "authorDisplayName": "Mubarak",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQu5RZs0ZrKyYOoM-Q3QceNbCoUpbmvP1b4WaqJPQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCQzSPasyCG7eWf4GO4LcyGA",
+          "authorChannelId": {
+            "value": "UCQzSPasyCG7eWf4GO4LcyGA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 4,
+          "publishedAt": "2022-03-26T12:48:35Z",
+          "updatedAt": "2022-03-26T12:48:35Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "JmsPzT_yhzvi3hT0c4YK1hEwdKM",
+    "id": "UgxmSNT1JZVnV0r93ot4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "5i6KncUw8HE-Bu59ygNVagfIhUI",
+        "id": "UgxmSNT1JZVnV0r93ot4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Teruslah temukan bukti2 baru dgn sabar tentang Laboratorium biologi, sementara Rakyat di dunia mengutuk tindakan yg tdk bermoral dan sangat biadab kepada Negara pembuat bencana, Semoga",
+          "textOriginal": "Teruslah temukan bukti2 baru dgn sabar tentang Laboratorium biologi, sementara Rakyat di dunia mengutuk tindakan yg tdk bermoral dan sangat biadab kepada Negara pembuat bencana, Semoga",
+          "authorDisplayName": "Abdul Rahman",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVvvqK1B-sNKSgTRKHAHnorMf8xM48lDhkGw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCsu1qcE-RrrImDaSx3QK_Wg",
+          "authorChannelId": {
+            "value": "UCsu1qcE-RrrImDaSx3QK_Wg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-29T22:51:05Z",
+          "updatedAt": "2022-03-29T22:51:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "LoxRi5JQ7X9T4HE3hc1O3r08tzE",
+    "id": "UgxPfphNdtX5bDe5V9p4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "gPXylHdv9IkumdfEe6i0CuSSXpA",
+        "id": "UgxPfphNdtX5bDe5V9p4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Jika melihat Amerika begitu ngotot mengirim alat\u201dtempur berat sepertinya mmg apa Yg bilang Rusia itu fakta,Yg ingin disembunyikan. Jika Ukraina jatuh ditangan Rusia otomatis pasti terbongkar. Bravo Rusia bravo Putin. Bongkar semua kebusukan Yg ada di Ukraina. Agar Dunia tahu siapa Yg jahat.",
+          "textOriginal": "Jika melihat Amerika begitu ngotot mengirim alat\u201dtempur berat sepertinya mmg apa Yg bilang Rusia itu fakta,Yg ingin disembunyikan. Jika Ukraina jatuh ditangan Rusia otomatis pasti terbongkar. Bravo Rusia bravo Putin. Bongkar semua kebusukan Yg ada di Ukraina. Agar Dunia tahu siapa Yg jahat.",
+          "authorDisplayName": "Hendi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd3O3TSnFvH1AD-NQPTb0UO7oow5GbjJVW4GuOpy7l4Sndxd6wffbnyDMnoolE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCbzGazz8D8hiT0L0RJ-tBw",
+          "authorChannelId": {
+            "value": "UCCbzGazz8D8hiT0L0RJ-tBw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 4,
+          "publishedAt": "2022-03-27T06:30:22Z",
+          "updatedAt": "2022-03-27T06:30:22Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "-Vrk1YItw-FSFyah1OsVJ6YBZrE",
+    "id": "Ugx5DwfTZLSQzffGd-94AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hGJd2ta2PlgUQXAY7vfCXLlE7kI",
+        "id": "Ugx5DwfTZLSQzffGd-94AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Trima kasih Tribun news berani membeberkan berita credible seperti ini ,gak kaya stasiun tv lainnya yang hanya mengincar retting",
+          "textOriginal": "Trima kasih Tribun news berani membeberkan berita credible seperti ini ,gak kaya stasiun tv lainnya yang hanya mengincar retting",
+          "authorDisplayName": "vibe_music",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/_UAfMWmKBa_MasoGgGIISw0FQxi-EpjOp_PNkbM6ige_B5cHmA01zaMVsJsTd9o7cHIXcdJUqA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCAmvQkzqpheqh2sozlpBBig",
+          "authorChannelId": {
+            "value": "UCAmvQkzqpheqh2sozlpBBig"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 6,
+          "publishedAt": "2022-03-28T22:42:02Z",
+          "updatedAt": "2022-03-28T22:42:02Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "c6U9VZgCnrCv5ksEQcDXpGX9H6k",
+    "id": "UgxmPPVPT1SS1fRieNx4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "NVvrXU4tirzX0ygwOOZ4jYudhf8",
+        "id": "UgxmPPVPT1SS1fRieNx4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Smg dg terbongkarnya kasus Ini Indonesia tdk menggunakan vaksin sbg syarat utama dlm segala urusan.\nSmg para pejabatnya jg tdk menutup mata dg terbukanya kasus ini dan tdk menjadikan Corona  sbg ladang bisinis oknum2 yg tdk bertanggung jwb yg hny ingin mencari keuntungan pribadi/ golongan..",
+          "textOriginal": "Smg dg terbongkarnya kasus Ini Indonesia tdk menggunakan vaksin sbg syarat utama dlm segala urusan.\nSmg para pejabatnya jg tdk menutup mata dg terbukanya kasus ini dan tdk menjadikan Corona  sbg ladang bisinis oknum2 yg tdk bertanggung jwb yg hny ingin mencari keuntungan pribadi/ golongan..",
+          "authorDisplayName": "Sis Wonno",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSs4kg8umB8Ccyoe4mTRZXGNm5cnhXSuLBwA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCCO1zqU1Z_ZatLb2Wal_f4Q",
+          "authorChannelId": {
+            "value": "UCCO1zqU1Z_ZatLb2Wal_f4Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-27T23:16:52Z",
+          "updatedAt": "2022-03-27T23:16:52Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "iA4hah-_UeGmvOHwtNPck13-66A",
+    "id": "UgzY7xaZavxC3kCevBJ4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "jLIqaIx2-KMWe8ANnzOgxYKfbCo",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044f \u0441\u043c\u043e\u0442\u0440\u044e \u043c\u043d\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u043d\u0430 YouTube \u0438\u0437 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u043f\u043e \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0443 \u0441\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0420\u043e\u0441\u0441\u0438\u044e, \u044f \u0432\u043e\u0441\u0445\u0438\u0449\u0430\u044e\u0441\u044c \u0432\u0430\u043c\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0432\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u0431\u043e\u0442\u0438\u0442\u0435\u0441\u044c \u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434\ud83c\uddee\ud83c\udde9",
+          "textOriginal": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044f \u0441\u043c\u043e\u0442\u0440\u044e \u043c\u043d\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u043d\u0430 YouTube \u0438\u0437 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u043f\u043e \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0443 \u0441\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0420\u043e\u0441\u0441\u0438\u044e, \u044f \u0432\u043e\u0441\u0445\u0438\u0449\u0430\u044e\u0441\u044c \u0432\u0430\u043c\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0432\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u0431\u043e\u0442\u0438\u0442\u0435\u0441\u044c \u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434\ud83c\uddee\ud83c\udde9",
+          "authorDisplayName": "Anastasia Savchenko",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ZSjQXr9N4daFmrrrC2YIv8sp4Q3s3faLixRcG7ji_xN23vpbPrQZCHX-Yf7GgMYjeGIWfydB=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC7PGr1fMPKhYLNQzCe0ChKg",
+          "authorChannelId": {
+            "value": "UC7PGr1fMPKhYLNQzCe0ChKg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 344,
+          "publishedAt": "2022-03-23T01:04:12Z",
+          "updatedAt": "2022-03-23T01:04:12Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 50,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "8rirWs-IjNQU2MLbW9gBY48uJ6s",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29aK-UouDC8B",
+        "snippet": {
+          "textDisplay": "Berjuang untuk anda",
+          "textOriginal": "Berjuang untuk anda",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "ABYYABIOUTOMO",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/EZ6VydPbva7I6kvuV2K_BgLO18Z9grnz-YSmzqtO29A9N0bzX1P6jnE6H7_gTjnnMRF7dvuohfU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC9yh4S8d4okiT2LoTPqyn0Q",
+          "authorChannelId": {
+            "value": "UC9yh4S8d4okiT2LoTPqyn0Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-27T10:39:49Z",
+          "updatedAt": "2022-04-27T10:39:49Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "N2gYWA-Iu4rdzPuY2qO-Z-6HNco",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_c3iVXjDaU",
+        "snippet": {
+          "textDisplay": "\u041c\u044b \u043d\u0435 \u0445\u043e\u0442\u0438\u043c \u0432\u043e\u0439\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u0437\u0435\u043c\u043b\u0435, \u043d\u043e, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0432 \u043c\u0438\u0440\u0435 (\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0421\u0428\u0410 \u0438 \u0438\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432), \u043c\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0420\u043e\u0441\u0441\u0438\u0438.  \ud83c\uddee\ud83c\udde9\ud83d\udde3\ud83d\udce2\u0423\u0420\u0410\u0410\u0410 \ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83e\uddbe\ud83e\uddbe\ud83e\uddbe\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+          "textOriginal": "\u041c\u044b \u043d\u0435 \u0445\u043e\u0442\u0438\u043c \u0432\u043e\u0439\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u0437\u0435\u043c\u043b\u0435, \u043d\u043e, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0432 \u043c\u0438\u0440\u0435 (\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0421\u0428\u0410 \u0438 \u0438\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432), \u043c\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0420\u043e\u0441\u0441\u0438\u0438.  \ud83c\uddee\ud83c\udde9\ud83d\udde3\ud83d\udce2\u0423\u0420\u0410\u0410\u0410 \ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83e\uddbe\ud83e\uddbe\ud83e\uddbe\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Kus mayadi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3s0EtH_ANfcMWKajuPA9rjrempCyDyKTov7sU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCopeoIZX9jxvW69Dm0VUFKQ",
+          "authorChannelId": {
+            "value": "UCopeoIZX9jxvW69Dm0VUFKQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-09T23:50:57Z",
+          "updatedAt": "2022-04-09T23:50:57Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "oRkQHDgUHdYFy6ufNRtz_x84G-A",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_bxVEBUnrl",
+        "snippet": {
+          "textDisplay": "support Russia",
+          "textOriginal": "support Russia",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Faris :D",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSr7GnfHK2F2yjUVtOYEKN73MYozMeiqBsK5-6uuA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCNbDbzEfPsFHM6Z-dJZMiyg",
+          "authorChannelId": {
+            "value": "UCNbDbzEfPsFHM6Z-dJZMiyg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-09T22:47:50Z",
+          "updatedAt": "2022-04-09T22:47:50Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "AmEtJbfP6YHbu5nS6I3OQ28c1oM",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_PVNUznwTY",
+        "snippet": {
+          "textDisplay": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "textOriginal": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Indra Wn",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRn957BLIi27qrj8Sdf6KjRA7vUkMIfhctbIw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4ECZGEuKOn6bHaR1HXluGw",
+          "authorChannelId": {
+            "value": "UC4ECZGEuKOn6bHaR1HXluGw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-04T17:23:14Z",
+          "updatedAt": "2022-04-04T17:23:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "9AnanKYS9am47QcIYZJSe5XTuyo",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_H_dCkaMJj",
+        "snippet": {
+          "textDisplay": "Urraa",
+          "textOriginal": "Urraa",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "@kromudin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/pxlDGBFY7DUvAKY4-aWDcZCoykx37M933kyi-Cb74nYVCH_5OAN_sNXL4kQyXSSUSWaYfm2cJDo=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCmUKJG8VXa-vIz6ew5PfYFA",
+          "authorChannelId": {
+            "value": "UCmUKJG8VXa-vIz6ew5PfYFA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T15:35:17Z",
+          "updatedAt": "2022-04-01T15:35:17Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "-Rk6mkudl1cerWIHQnY42nOqda4",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_GxHP1Opsq",
+        "snippet": {
+          "textDisplay": "LETS GO UKRAINE",
+          "textOriginal": "LETS GO UKRAINE",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Fea araja",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQp5cHGGwJrThv1Eg0HeK2sK_b1VZ9BoWLbo_7m=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCzqz4t8Lj6sngZQXPSkMOSQ",
+          "authorChannelId": {
+            "value": "UCzqz4t8Lj6sngZQXPSkMOSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-01T09:42:39Z",
+          "updatedAt": "2022-04-01T09:42:39Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "n0JVCUHn_ABMarDx1qhuyUQbiLs",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_EO4m1A9S2",
+        "snippet": {
+          "textDisplay": "Uuuurraaaaaaa....",
+          "textOriginal": "Uuuurraaaaaaa....",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "mila juwita",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmQqVfw0pt0UMlVuEmAmTnv29nSNy9aiSP1Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYQnQoqAhRDqguOhXcqbY8A",
+          "authorChannelId": {
+            "value": "UCYQnQoqAhRDqguOhXcqbY8A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T09:47:52Z",
+          "updatedAt": "2022-03-31T09:47:52Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "4oHJsZlQJWZXM6dHewxGt9rQEvQ",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_DhkRdjtCH",
+        "snippet": {
+          "textDisplay": "Mantap rusia",
+          "textOriginal": "Mantap rusia",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "my channel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7g72CNiMXuWBlq7M6amUZO-f5zNanqSls3A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCdSsDH84dxBJ5IG_xxvYr4w",
+          "authorChannelId": {
+            "value": "UCdSsDH84dxBJ5IG_xxvYr4w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-31T03:29:13Z",
+          "updatedAt": "2022-03-31T03:29:13Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "8VTYjGu3orXnD0cHn3QrvQCBZP4",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_CKTdMzFMd",
+        "snippet": {
+          "textDisplay": "Yes Brow... URAA",
+          "textOriginal": "Yes Brow... URAA",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Dedy Tri",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSazE_cJTzG1EXUFj1knKxow4vkx6ZRH7RJzFAz6w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCc1-2Zamv0AA49FwoU0NFCw",
+          "authorChannelId": {
+            "value": "UCc1-2Zamv0AA49FwoU0NFCw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T14:37:50Z",
+          "updatedAt": "2022-03-30T14:37:50Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "hgnAyDmTebW3Mte3UeVDk8qsWJE",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_BDluDf8t4",
+        "snippet": {
+          "textDisplay": "Hallooo anastasia",
+          "textOriginal": "Hallooo anastasia",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "kribo banyak gaya",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hAWs2vvHxqnG6mUGs9LEnjzIwLCZSHjMyJ7SYrrJAtFxeHFmXvoGmAkd2LgFKRj_6F1JeU545g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCUAwyLXQa43T8-HMPLuIRpQ",
+          "authorChannelId": {
+            "value": "UCUAwyLXQa43T8-HMPLuIRpQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T04:20:03Z",
+          "updatedAt": "2022-03-30T04:20:03Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "YFoCUsOyMTF5a55mvg0d3TkVtTQ",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_B-azjIhKh",
+        "snippet": {
+          "textDisplay": "Uraaaaaaaaaa.....!!!!!",
+          "textOriginal": "Uraaaaaaaaaa.....!!!!!",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Rozaqum Subakti",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRW6jR2JByAtcuYRpdShbsza5AAN76Tpsml0rUm=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjkFNYFdQrDd1t-FREbXwfA",
+          "authorChannelId": {
+            "value": "UCjkFNYFdQrDd1t-FREbXwfA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T02:16:14Z",
+          "updatedAt": "2022-03-30T02:16:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "AT9iIibVqevuOSZXcqU3XO54vfw",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_AxqwJmUOu",
+        "snippet": {
+          "textDisplay": "\u0414\u0435\u0440\u0436\u0438\u0442\u0435 \u0434\u0443\u0445, \u043f\u043e\u043a\u0430\u0436\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0443\u044e \u043f\u0440\u0430\u0432\u0434\u0443",
+          "textOriginal": "\u0414\u0435\u0440\u0436\u0438\u0442\u0435 \u0434\u0443\u0445, \u043f\u043e\u043a\u0430\u0436\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0443\u044e \u043f\u0440\u0430\u0432\u0434\u0443",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "ivan syah",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWJyiJDwM7O5fYdN8S1AytczP4fBoBDwhtZEzkUA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCiFnpM3vs8JqDh8UVXn7ssA",
+          "authorChannelId": {
+            "value": "UCiFnpM3vs8JqDh8UVXn7ssA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T01:52:12Z",
+          "updatedAt": "2022-03-30T01:52:12Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "wQIPuhVGxJlUF_1O-JX20VkgM1I",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_AnVsgSlU6",
+        "snippet": {
+          "textDisplay": "RUSIA \ud83d\udc4d\ud83c\udffd\n\nUKRAINA \ud83d\udc4e\ud83c\udffd",
+          "textOriginal": "RUSIA \ud83d\udc4d\ud83c\udffd\n\nUKRAINA \ud83d\udc4e\ud83c\udffd",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Black Fantasi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQymCdbsOP4c6cSsf9n2qwBN3VtsTGfhzEz5nSCZQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCf7As1tQb6IMRZiwbHoYpPA",
+          "authorChannelId": {
+            "value": "UCf7As1tQb6IMRZiwbHoYpPA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T00:21:48Z",
+          "updatedAt": "2022-03-30T00:21:48Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "eO-3PxYC59F7OmigkQ-grXLz_3A",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_ALEXzzT4n",
+        "snippet": {
+          "textDisplay": "Semangat rusia, kamu pasti bisa",
+          "textOriginal": "Semangat rusia, kamu pasti bisa",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "JO'xs GAMING",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSd-bO334yiPqJZdyl7VXpp32kcpiTBSiX-Wg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCE24OZ6A1crylMtRhqW7czA",
+          "authorChannelId": {
+            "value": "UCE24OZ6A1crylMtRhqW7czA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T20:06:02Z",
+          "updatedAt": "2022-03-29T20:06:02Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "qlrrYeIqD_kZG3bBtUDTtbk62NQ",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_9gYfD2vW4",
+        "snippet": {
+          "textDisplay": "\u2764Hi Anastasia. We are support Rusia \ud83d\udcaa\u2764",
+          "textOriginal": "\u2764Hi Anastasia. We are support Rusia \ud83d\udcaa\u2764",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Viana Vio",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLamuzT2snfpAWDEsws4H40OijWjiPGojCk3RT=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCqi5K6SrknrV2JFEyhsMf9w",
+          "authorChannelId": {
+            "value": "UCqi5K6SrknrV2JFEyhsMf9w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T14:01:46Z",
+          "updatedAt": "2022-03-29T14:01:46Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "EzKlaGWkeN_GHfvsc1sQIzp0rGA",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_9f-ToYK5Z",
+        "snippet": {
+          "textDisplay": "Uraaaaaaaaa victory for Russian  \ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa",
+          "textOriginal": "Uraaaaaaaaa victory for Russian  \ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Alief MKH",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPlf8a5zR8bIWS5wyeSD3IxRRw9nGHdya_zRC8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC0nmWy1HnM0Q3IiLCxHUDKw",
+          "authorChannelId": {
+            "value": "UC0nmWy1HnM0Q3IiLCxHUDKw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T13:48:14Z",
+          "updatedAt": "2022-03-29T13:48:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "bEcUiBv45wa8LxMA9YtDzGM3OVU",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_9cyoBVIGD",
+        "snippet": {
+          "textDisplay": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "textOriginal": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "HADIWIJAYA73",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMG9Dx3zYjcyQtvG_vt7NNkl_DzsxMsz9R7Qn71g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCOmGndpKbfHMwe-WTIdKZOg",
+          "authorChannelId": {
+            "value": "UCOmGndpKbfHMwe-WTIdKZOg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T13:30:32Z",
+          "updatedAt": "2022-03-29T13:30:32Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Muoe3UXt4xgfA-UPR_7K8GiP0zE",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_9c0DpzWoP",
+        "snippet": {
+          "textDisplay": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u0432\u0435\u0442 \u043e\u0442 \u043d\u0430\u0441 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+          "textOriginal": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u0432\u0435\u0442 \u043e\u0442 \u043d\u0430\u0441 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "pernah ganteng",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLST_TrhIl8AKvrpsFrAQDCqZ11QCNtPf-q-Q93ZYNSr69PfJcgu670uA2wuVOQr=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCh8_6BSlJQLMZMixd3TLW_A",
+          "authorChannelId": {
+            "value": "UCh8_6BSlJQLMZMixd3TLW_A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T13:22:07Z",
+          "updatedAt": "2022-03-29T13:22:07Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "fDqJqJ--65vRLk2y8Z-A9afFuXo",
+        "id": "UgzY7xaZavxC3kCevBJ4AaABAg.9ZtqnEMB2c29_9bhS9BE3p",
+        "snippet": {
+          "textDisplay": "Uraaaaaaaaaaaa",
+          "textOriginal": "Uraaaaaaaaaaaa",
+          "parentId": "UgzY7xaZavxC3kCevBJ4AaABAg",
+          "authorDisplayName": "Ferdy423 Official",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/8lsd1WqgXPiqa33LVCbDRS8pYbDHEdRdNIdEiBrS-yFZBsbfAq-4mvgqXYsSg7218287Kwe4=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC9k45EqTpQ_QKFgtI5Hudlg",
+          "authorChannelId": {
+            "value": "UC9k45EqTpQ_QKFgtI5Hudlg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T13:19:25Z",
+          "updatedAt": "2022-03-29T13:19:25Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "BRIsM-uri9lvobuNVmG8koHLj04",
+    "id": "UgykvSXbKIAcYgt1XZ54AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "bC2zIZJkndM7WFB6BjkyPDXnNP8",
+        "id": "UgykvSXbKIAcYgt1XZ54AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Uraa",
+          "textOriginal": "Uraa",
+          "authorDisplayName": "nasruddin johari",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkI0UQBWt9R0BY5dkvj2fyByQdxLiOWyhrHg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCpKm2oF3zl5_oqsu_1tKTSg",
+          "authorChannelId": {
+            "value": "UCpKm2oF3zl5_oqsu_1tKTSg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T01:09:59Z",
+          "updatedAt": "2022-03-28T01:09:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "EzE9EjGBcrmdt9h_o3L-END1kFM",
+    "id": "UgzIbzA00VlAZyRFS6F4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "K30jDGvqHjoyTmC5pG0yIj3AxsM",
+        "id": "UgzIbzA00VlAZyRFS6F4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "URRAA",
+          "textOriginal": "URRAA",
+          "authorDisplayName": "Si Jebat",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwVvUjTW_a_dhIWKMd5JF1nDOUa6Cd0mH9Q8Uu6Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UClL5DpNwGJPpYprW9LzTOJw",
+          "authorChannelId": {
+            "value": "UClL5DpNwGJPpYprW9LzTOJw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-04-16T06:13:40Z",
+          "updatedAt": "2022-04-16T06:13:40Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "2ogPJG9zV3n6lVutB3lV6YHhLmQ",
+    "id": "UgwaTY68wviJpIqdU6V4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "CEUKSoBf9PtlaYgwzyiUx75YHQE",
+        "id": "UgwaTY68wviJpIqdU6V4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "WHO",
+          "textOriginal": "WHO",
+          "authorDisplayName": "Yuan Pramayuda",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRCaoxf8N57steggAQn7a8Fs69jYZ0kHbv2nBqSwg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC96oEQ86_GyPbNBMwHHM-ww",
+          "authorChannelId": {
+            "value": "UC96oEQ86_GyPbNBMwHHM-ww"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T16:47:08Z",
+          "updatedAt": "2022-03-28T16:47:08Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "bjLtdd3aZ6_jeRFnuPgOasKd55o",
+    "id": "UgyHXvhNVdKEyFz5L9h4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "DfpQ3M-I0VC8a6uvJoDszk1Usrg",
+        "id": "UgyHXvhNVdKEyFz5L9h4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Uraa uraa",
+          "textOriginal": "Uraa uraa",
+          "authorDisplayName": "Parait Tv",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/2_0Rc6gzghWzzvninDd646q7HMpcSQ1a7iQKfVmCJ1IN3YmR_u5-1ovSiMnHpik1tRssaTJji5I=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCQ5j9wIueMJxS9lpKldOJ7Q",
+          "authorChannelId": {
+            "value": "UCQ5j9wIueMJxS9lpKldOJ7Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-22T22:52:00Z",
+          "updatedAt": "2022-03-22T22:52:00Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "OWAQyp3FXdpg51VN-FIEKIqotJI",
+    "id": "Ugy2jDmHdYW2wq91lbp4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "c4pDOwxJVqXy_UwguH9UksR1huc",
+        "id": "Ugy2jDmHdYW2wq91lbp4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Terus (z,v)",
+          "textOriginal": "Terus (z,v)",
+          "authorDisplayName": "Fredy Galungung",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRoWXstQjTLg-9IZ2esaL-xaQhjctC7jwrUceXU-sH01PGldItv0sgr_cuVVBDS=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCbR91hTwYPUc9zrKSIJ5weA",
+          "authorChannelId": {
+            "value": "UCbR91hTwYPUc9zrKSIJ5weA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-23T15:28:18Z",
+          "updatedAt": "2022-03-23T15:28:18Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "cofSAPMO4cEUMNHwWBHd3Yqf7JU",
+    "id": "UgzXc42LmVO7TvAM-PF4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "Z8YmxMLY-Vf1v-dY-MNI8rD9flk",
+        "id": "UgzXc42LmVO7TvAM-PF4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "URRA",
+          "textOriginal": "URRA",
+          "authorDisplayName": "Atar unik",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Cn6MHKnCH0UTSUGxAM8ysY9EnSQmWc-ic3camVWJbJMxJj5gXI7fywm6rB7BYVunRjI9xjNuk0M=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCsnhK7dZAcF9O86BkjauCew",
+          "authorChannelId": {
+            "value": "UCsnhK7dZAcF9O86BkjauCew"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-24T15:47:16Z",
+          "updatedAt": "2022-03-24T15:47:16Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "fTffAFm67VahansNIIOONi7QECE",
+    "id": "UgxHm0FRqt0-rYAz3lZ4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "LVczLoYt9j9h1VNKp2u-xBCY3Ec",
+        "id": "UgxHm0FRqt0-rYAz3lZ4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "nah",
+          "textOriginal": "nah",
+          "authorDisplayName": "All Peacefull",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpHnFqgmA_0prW-NqQL2P9gDCkfqbBlaCLug=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFK4iyjmFyrIYI53Ftofmew",
+          "authorChannelId": {
+            "value": "UCFK4iyjmFyrIYI53Ftofmew"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T23:12:21Z",
+          "updatedAt": "2022-03-30T23:12:21Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "DqSXd6-s9yLcEhbUyMEPclffmEc",
+    "id": "UgzRFXa2DrQsvYy1oN54AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "jJO8cPuGvMo6aB5fq28lrOfOHrI",
+        "id": "UgzRFXa2DrQsvYy1oN54AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "9",
+          "textOriginal": "9",
+          "authorDisplayName": "Damar Prastu",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSw7t5cufXLcNwU5kuqsUveGrPLEv_k6kaaHpKGFQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCP3vJdZaMXbFXdfkBTuFb5w",
+          "authorChannelId": {
+            "value": "UCP3vJdZaMXbFXdfkBTuFb5w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-28T17:39:13Z",
+          "updatedAt": "2022-03-28T17:39:13Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ag4VrDuvmU6FXNOGcTUd09tYaLM",
+    "id": "UgznPRbOvYYcRY48WrJ4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "-V3HQilGyLa2klr3IcSFi911FDw",
+        "id": "UgznPRbOvYYcRY48WrJ4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "As grazy",
+          "textOriginal": "As grazy",
+          "authorDisplayName": "Alvin Alvin",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSADARCSVatgnc1gt2DVK_kqu6J0nGvbxrf9g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCjbXFqTc74-kdbcmUZYqrZg",
+          "authorChannelId": {
+            "value": "UCjbXFqTc74-kdbcmUZYqrZg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2022-03-29T15:04:27Z",
+          "updatedAt": "2022-03-29T15:04:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "fIInEsEx4thUyzPHkkFtAMFYjMM",
+    "id": "Ugw70B9zt5KEYh2mvB54AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "KCZUi2VLOQddtm2L_6yd5ZeEZe0",
+        "id": "Ugw70B9zt5KEYh2mvB54AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "P",
+          "textOriginal": "P",
+          "authorDisplayName": "Sarif Penambat",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/M8HXcPTLbs3zLxwVUsGwWYsN967Z9VlP6__ezmU_AVcT4sR4PQV1EQwbC7TPQIa_9RJGBQRwdKE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCIFK5f4Icbh0_HkgJ4Odqgw",
+          "authorChannelId": {
+            "value": "UCIFK5f4Icbh0_HkgJ4Odqgw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-30T10:55:27Z",
+          "updatedAt": "2022-03-30T10:55:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "N1ryzdxdLhKSZjiqDmlw9-1wSDo",
+    "id": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+    "snippet": {
+      "videoId": "aocwg0zKjY8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "G9WWCzYm7O610SXqJK_d8fA5YYE",
+        "id": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+        "snippet": {
+          "videoId": "aocwg0zKjY8",
+          "textDisplay": "Omong kosong",
+          "textOriginal": "Omong kosong",
+          "authorDisplayName": "thomas Ho",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR60o2WjpweI_gh9ji88WtRDPGFQqRrCX90zA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCWIuIDMgCd0ivYGHRbN0Vmw",
+          "authorChannelId": {
+            "value": "UCWIuIDMgCd0ivYGHRbN0Vmw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T14:24:30Z",
+          "updatedAt": "2022-03-29T14:24:30Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "s8Lw4O4L-jwQthvSvwXs6eEoMeU",
+        "id": "UgyYxT80Um_Lp5GM_eV4AaABAg.9_9j95-hL0M9_9ovtPNIub",
+        "snippet": {
+          "textDisplay": "Omong kosong apaan, banyak orang diluar ninggal karna virus ini bdh",
+          "textOriginal": "Omong kosong apaan, banyak orang diluar ninggal karna virus ini bdh",
+          "parentId": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+          "authorDisplayName": "Zeirous",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/kb2zFPgGjhdAH83nJLvxMqDMC1flAFZwHUPIc3ooWo2aBQyiWO3oe1d1h64jf3lw7YowAgZymg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCcNnPOC3MH7Tr55Pc34vncA",
+          "authorChannelId": {
+            "value": "UCcNnPOC3MH7Tr55Pc34vncA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-29T15:14:59Z",
+          "updatedAt": "2022-03-29T15:14:59Z"
+        }
+      }
+    ]
+  }
+]

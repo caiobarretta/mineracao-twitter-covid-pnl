@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vnpNX-1wbFTUOEdoctKIOZSQpAY",
+  "id": "UgyTn9pR7Fs6yi3JerJ4AaABAg",
+  "snippet": {
+    "videoId": "oXkSHBia_t0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Koee5XGTjwFv6JROwzzG0LWdVF4",
+      "id": "UgyTn9pR7Fs6yi3JerJ4AaABAg",
+      "snippet": {
+        "videoId": "oXkSHBia_t0",
+        "textDisplay": "J\u00e1 tomei a terceira dose t\u00eam quase dois meses!",
+        "textOriginal": "J\u00e1 tomei a terceira dose t\u00eam quase dois meses!",
+        "authorDisplayName": "guilherme moura",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-LIG_Kg-VavXfTCOp_7u1dW9WfTQELO4O7w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCANs8mnHpB-VhQ69i6k9skw",
+        "authorChannelId": {
+          "value": "UCANs8mnHpB-VhQ69i6k9skw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-16T23:33:44Z",
+        "updatedAt": "2021-11-16T23:33:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uQmyQo3Lp_W6D6Z2CKgOwidK3ZY",
+      "id": "UgyTn9pR7Fs6yi3JerJ4AaABAg.9UpFHQVjy0G9UrQvhBhUVD",
+      "snippet": {
+        "textDisplay": "Excelente, Guilherme. Precisamos estimular todo mundo a completar a vacina\u00e7\u00e3o. Abra\u00e7os.",
+        "textOriginal": "Excelente, Guilherme. Precisamos estimular todo mundo a completar a vacina\u00e7\u00e3o. Abra\u00e7os.",
+        "parentId": "UgyTn9pR7Fs6yi3JerJ4AaABAg",
+        "authorDisplayName": "S\u00e9rgio Paschoal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPRsbbc_UcDENAkOIC4on8Zi3sqHgrq15HVG_7kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtVCGLywW97e3fjNMc7XiA",
+        "authorChannelId": {
+          "value": "UCdtVCGLywW97e3fjNMc7XiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-17T19:53:58Z",
+        "updatedAt": "2021-11-17T19:53:58Z"
+      }
+    }
+  ]
+}

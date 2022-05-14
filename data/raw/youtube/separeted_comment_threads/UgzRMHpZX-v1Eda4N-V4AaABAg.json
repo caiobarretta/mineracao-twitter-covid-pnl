@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "3PxungvJU4cU2EoWWGUc1Aamjas",
+  "etag": "qI2g0xc-xP3pVLn8BIj0vG1QT8Q",
   "id": "UgzRMHpZX-v1Eda4N-V4AaABAg",
   "snippet": {
     "videoId": "jATYbmGBBYc",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "uSwu1bgbOp3zQ-biFQrqg3q6eqA",
+      "etag": "TTqpWCfKJOmbcQyNdDmfCGHnN7c",
       "id": "UgzRMHpZX-v1Eda4N-V4AaABAg",
       "snippet": {
         "videoId": "jATYbmGBBYc",
@@ -20,14 +20,36 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 0,
+        "likeCount": 1,
         "publishedAt": "2022-05-09T09:13:52Z",
         "updatedAt": "2022-05-09T09:13:52Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 0,
+    "totalReplyCount": 1,
     "isPublic": true
   },
-  "comments": []
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "g92F-Ab_OAI-mPA0t9ekrTin_0Y",
+      "id": "UgzRMHpZX-v1Eda4N-V4AaABAg.9ankBlh9jBH9auzGr2sJOl",
+      "snippet": {
+        "textDisplay": "I guess ramen noodles have several holes in them only because they are wavy and waves should be considered holes...",
+        "textOriginal": "I guess ramen noodles have several holes in them only because they are wavy and waves should be considered holes...",
+        "parentId": "UgzRMHpZX-v1Eda4N-V4AaABAg",
+        "authorDisplayName": "James Smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiQLMRNBSCMcQ_I0plgfvW7XDcZsXfJlTqJ2nD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdWz68JdiEwx0mzUvn5Qo4w",
+        "authorChannelId": {
+          "value": "UCdWz68JdiEwx0mzUvn5Qo4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T04:40:19Z",
+        "updatedAt": "2022-05-12T04:40:19Z"
+      }
+    }
+  ]
 }

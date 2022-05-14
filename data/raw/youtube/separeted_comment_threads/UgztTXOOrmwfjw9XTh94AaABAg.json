@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DUCVEZFL7LCQOiUxszbJ8GETa-0",
+  "id": "UgztTXOOrmwfjw9XTh94AaABAg",
+  "snippet": {
+    "videoId": "I0TmBsHaGmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R1MMbNHh853LUVn-zjiLd3ILim8",
+      "id": "UgztTXOOrmwfjw9XTh94AaABAg",
+      "snippet": {
+        "videoId": "I0TmBsHaGmI",
+        "textDisplay": "Excelente explicaci\u00f3n. Creible y did\u00e1ctica. Mi enhorabuena.",
+        "textOriginal": "Excelente explicaci\u00f3n. Creible y did\u00e1ctica. Mi enhorabuena.",
+        "authorDisplayName": "Ram\u00f3n Arenas San Mart\u00edn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_TP7opf67KrhzMjXTgdTejh4HnS1k_JaJNkSPiA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8qy4Lg2ZxA99OjZsEgULDw",
+        "authorChannelId": {
+          "value": "UC8qy4Lg2ZxA99OjZsEgULDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-15T09:17:29Z",
+        "updatedAt": "2020-11-15T09:17:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9rYzESo4vlmvlVkGrAyn6ZVXpqw",
+      "id": "UgztTXOOrmwfjw9XTh94AaABAg.9G4ILo0IdHY9HUzhXdVp4w",
+      "snippet": {
+        "textDisplay": "Gracias!",
+        "textOriginal": "Gracias!",
+        "parentId": "UgztTXOOrmwfjw9XTh94AaABAg",
+        "authorDisplayName": "biolution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMsL3vD_cAOnQPhn1Q5YwLNkWt2ItQRsIxrI7LdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_k7-bRC0gQfKHXHW7fNQ7w",
+        "authorChannelId": {
+          "value": "UC_k7-bRC0gQfKHXHW7fNQ7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-20T14:36:43Z",
+        "updatedAt": "2020-12-20T14:36:43Z"
+      }
+    }
+  ]
+}
