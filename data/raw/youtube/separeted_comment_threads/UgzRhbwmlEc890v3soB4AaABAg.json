@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eeELLFu2_DCL2zxatm-UyquB9m8",
+  "id": "UgzRhbwmlEc890v3soB4AaABAg",
+  "snippet": {
+    "videoId": "DWVD8lVVFR0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "shgG1WIb87eoMazzpX8CUP2pp_0",
+      "id": "UgzRhbwmlEc890v3soB4AaABAg",
+      "snippet": {
+        "videoId": "DWVD8lVVFR0",
+        "textDisplay": "caraca q sdd dos seus v\u00eddeos",
+        "textOriginal": "caraca q sdd dos seus v\u00eddeos",
+        "authorDisplayName": "Shaiya days",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuwWRwkeOIv3q3h5iwG7wN_WzqWb19ls6NUoFhVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5qPAGA_CfrWcJ2DxSlEQbA",
+        "authorChannelId": {
+          "value": "UC5qPAGA_CfrWcJ2DxSlEQbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-12-31T00:47:05Z",
+        "updatedAt": "2020-12-31T00:47:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "71Y6zXmGdTJiTVHMfrtFUtn99Ow",
+      "id": "UgzRhbwmlEc890v3soB4AaABAg.9HupVnY1oqJ9Huq-SS8PTr",
+      "snippet": {
+        "textDisplay": "<3",
+        "textOriginal": "<3",
+        "parentId": "UgzRhbwmlEc890v3soB4AaABAg",
+        "authorDisplayName": "Node Studio Treinamentos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTp3CnCvANG3_JKqEgmDomVltCNUGsJjWYr0a7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw",
+        "authorChannelId": {
+          "value": "UCZZ0NTtOgsLIT4Skr6GUpAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-31T00:51:24Z",
+        "updatedAt": "2020-12-31T00:51:24Z"
+      }
+    }
+  ]
+}

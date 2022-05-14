@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JLZUKWCX3MU2gLRGsAGeZv76v5k",
+  "id": "UgyrnTm-mcNQGzdghs94AaABAg",
+  "snippet": {
+    "videoId": "h3-ure4GPYE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hIrssdvyN-nMjUhnZLNklwJijKc",
+      "id": "UgyrnTm-mcNQGzdghs94AaABAg",
+      "snippet": {
+        "videoId": "h3-ure4GPYE",
+        "textDisplay": "Tem como facilitar isso?",
+        "textOriginal": "Tem como facilitar isso?",
+        "authorDisplayName": "Gabriel Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQS64dWr6vL7qLEsF-iIfWzN8_NwlaqEAWmwZ4C5y4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSFQGqWps4FYo4eAeRiJemQ",
+        "authorChannelId": {
+          "value": "UCSFQGqWps4FYo4eAeRiJemQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-20T18:28:03Z",
+        "updatedAt": "2021-12-20T18:28:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hEGlxj7iVz7yPYz7lGI9vwIHbEA",
+      "id": "UgyrnTm-mcNQGzdghs94AaABAg.9WBFKKDexPL9WJCsIBxZ4e",
+      "snippet": {
+        "textDisplay": "Infelizmente essa \u00e9 o processo.\nAbs!",
+        "textOriginal": "Infelizmente essa \u00e9 o processo.\nAbs!",
+        "parentId": "UgyrnTm-mcNQGzdghs94AaABAg",
+        "authorDisplayName": "Comer, Amar e Viajar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpfo7CvhgLj-Xn5EHZNXqhX-gJSn99lG_7DVDz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ4ztwBOKpqp5jemSF4D93Q",
+        "authorChannelId": {
+          "value": "UCQ4ztwBOKpqp5jemSF4D93Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-23T20:40:32Z",
+        "updatedAt": "2021-12-23T20:40:32Z"
+      }
+    }
+  ]
+}

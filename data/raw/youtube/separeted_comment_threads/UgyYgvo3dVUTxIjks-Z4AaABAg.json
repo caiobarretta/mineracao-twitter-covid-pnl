@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wSr4AOchMFtaOFnNUsrZyPCPA0w",
+  "id": "UgyYgvo3dVUTxIjks-Z4AaABAg",
+  "snippet": {
+    "videoId": "4aERsTb3YUo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QInYMr5JJKwhsej-if3o6c3KDEE",
+      "id": "UgyYgvo3dVUTxIjks-Z4AaABAg",
+      "snippet": {
+        "videoId": "4aERsTb3YUo",
+        "textDisplay": "Muuuuuuuito obrigada.",
+        "textOriginal": "Muuuuuuuito obrigada.",
+        "authorDisplayName": "Marcia Gazar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRietFQRiQZPMU115gFHD677fA--_TAZWbNyg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfIgezit6dTUTU1gBqDNuZQ",
+        "authorChannelId": {
+          "value": "UCfIgezit6dTUTU1gBqDNuZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T02:20:05Z",
+        "updatedAt": "2021-12-09T02:20:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vYzzavlaDJVoMuP_VUIm6ZJzCDI",
+      "id": "UgyYgvo3dVUTxIjks-Z4AaABAg.9ViBo-m6MWG9VkQ1T2TjiQ",
+      "snippet": {
+        "textDisplay": "Eu que agrade\u00e7o",
+        "textOriginal": "Eu que agrade\u00e7o",
+        "parentId": "UgyYgvo3dVUTxIjks-Z4AaABAg",
+        "authorDisplayName": "Conth@dorTec & O.C",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uOI8j9s7-f5YJ0s13Z_RZ1iFqgKX4suuz1Kngd-d381LktdZtdwqG5J3d_ZH7Fpoc5VPWG_OSg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdPs5SvO-iaiLZjfjEzQ6OA",
+        "authorChannelId": {
+          "value": "UCdPs5SvO-iaiLZjfjEzQ6OA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-09T23:02:52Z",
+        "updatedAt": "2021-12-09T23:02:52Z"
+      }
+    }
+  ]
+}

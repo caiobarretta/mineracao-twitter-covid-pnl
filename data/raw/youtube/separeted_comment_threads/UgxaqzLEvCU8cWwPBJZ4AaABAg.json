@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "41sSRZRCUJvHtgsDCAsZ6YrbkrQ",
+  "id": "UgxaqzLEvCU8cWwPBJZ4AaABAg",
+  "snippet": {
+    "videoId": "Wf27yjNdKo8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0BqkutkIEaBTNSz25q7PL7ryYF8",
+      "id": "UgxaqzLEvCU8cWwPBJZ4AaABAg",
+      "snippet": {
+        "videoId": "Wf27yjNdKo8",
+        "textDisplay": "Muito Obrigado!!!!",
+        "textOriginal": "Muito Obrigado!!!!",
+        "authorDisplayName": "Igor Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8sX5qdOfsRc1oVC1Ja8qFui7HZY_Ne85N4PEEPdet0d0Up7jJlrdDaCxvayz0ocEtcRGBowEObE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcmwL5KZYQVMpiVWtKOmoPg",
+        "authorChannelId": {
+          "value": "UCcmwL5KZYQVMpiVWtKOmoPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-09T17:08:11Z",
+        "updatedAt": "2021-01-09T17:08:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gupNsoYO4xAjCkDnRljiWwTvN58",
+      "id": "UgxaqzLEvCU8cWwPBJZ4AaABAg.9IIkwTQhC769IJ-BhM3ZqV",
+      "snippet": {
+        "textDisplay": "Boa Igor, obrigado pela for\u00e7a.",
+        "textOriginal": "Boa Igor, obrigado pela for\u00e7a.",
+        "parentId": "UgxaqzLEvCU8cWwPBJZ4AaABAg",
+        "authorDisplayName": "Open Studio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PnhXzHnyF4YofMsvK7O6NEH6e7y30lUAXSE-sTDpL7zFMHhePDQKAipiG1mA-t-61vc8Os5K=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCv-3H9wRWJQQVLQgDP1yFzg",
+        "authorChannelId": {
+          "value": "UCv-3H9wRWJQQVLQgDP1yFzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-09T19:21:28Z",
+        "updatedAt": "2021-01-09T19:21:28Z"
+      }
+    }
+  ]
+}

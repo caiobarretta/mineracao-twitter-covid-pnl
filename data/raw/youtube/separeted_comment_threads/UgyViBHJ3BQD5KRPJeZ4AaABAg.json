@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Lt9DE4RAhVz9DrVp-iqlqPsDV7g",
+  "id": "UgyViBHJ3BQD5KRPJeZ4AaABAg",
+  "snippet": {
+    "videoId": "aSBmsbJNnWg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nzqk4cnX7r4LmI_N2JwummJ8YgU",
+      "id": "UgyViBHJ3BQD5KRPJeZ4AaABAg",
+      "snippet": {
+        "videoId": "aSBmsbJNnWg",
+        "textDisplay": "My 3dsmax crashes when I use the sun.. Why is that?",
+        "textOriginal": "My 3dsmax crashes when I use the sun.. Why is that?",
+        "authorDisplayName": "ARCHI VISUALISATION",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSACQZsEqyVWRopH02T-ztvsqES_Q9SqxTdCqnG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4hFxnotxjvR235BguyrxRg",
+        "authorChannelId": {
+          "value": "UC4hFxnotxjvR235BguyrxRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T11:36:12Z",
+        "updatedAt": "2022-01-13T11:36:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jTLdXbbWuUq4OFehQS_oFonO3nU",
+      "id": "UgyViBHJ3BQD5KRPJeZ4AaABAg.9X8JGrJzrjM9X8Pi_RLdb9",
+      "snippet": {
+        "textDisplay": "For crashes and other serious issues, always best to contact support (who can't monitor YouTube comments), see https://support.corona-renderer.com/hc/en-us . I would do that, and meantime you can also check resetting the activation files as described on https://support.corona-renderer.com/hc/en-us/articles/4402104162577-Activation-is-required-each-time-I-start-3ds-Max-frequent-crashes-material-editor-issues. Thanks! Tom",
+        "textOriginal": "For crashes and other serious issues, always best to contact support (who can't monitor YouTube comments), see https://support.corona-renderer.com/hc/en-us . I would do that, and meantime you can also check resetting the activation files as described on https://support.corona-renderer.com/hc/en-us/articles/4402104162577-Activation-is-required-each-time-I-start-3ds-Max-frequent-crashes-material-editor-issues. Thanks! Tom",
+        "parentId": "UgyViBHJ3BQD5KRPJeZ4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T12:32:33Z",
+        "updatedAt": "2022-01-13T12:32:33Z"
+      }
+    }
+  ]
+}

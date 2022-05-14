@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kQndnU0_hMGLCndoqXFKfCCH4mE",
+  "id": "Ugyxd_p4B5NHnwznuoZ4AaABAg",
+  "snippet": {
+    "videoId": "jC2jXF9ccLQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jKnl5WZCgnvKa8ThQhhMa66R0MM",
+      "id": "Ugyxd_p4B5NHnwznuoZ4AaABAg",
+      "snippet": {
+        "videoId": "jC2jXF9ccLQ",
+        "textDisplay": "\u00d3timo video professor!  Eu tamb\u00e9m nao sabia.",
+        "textOriginal": "\u00d3timo video professor!  Eu tamb\u00e9m nao sabia.",
+        "authorDisplayName": "Mario Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTRLSiimu1_oV-VsW_DRXZW8tXTbs1gV_Nwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQuiDqbc9Soqt8uQ2fpcjKA",
+        "authorChannelId": {
+          "value": "UCQuiDqbc9Soqt8uQ2fpcjKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T10:29:32Z",
+        "updatedAt": "2022-05-09T10:29:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ejhrmf9fHq2Hx-hLvbdhaOZty0Y",
+      "id": "Ugyxd_p4B5NHnwznuoZ4AaABAg.9ansqy9yutD9aqcc4nr98w",
+      "snippet": {
+        "textDisplay": "Ah que legal, fico feliz em saber que gostou!",
+        "textOriginal": "Ah que legal, fico feliz em saber que gostou!",
+        "parentId": "Ugyxd_p4B5NHnwznuoZ4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T12:05:24Z",
+        "updatedAt": "2022-05-10T12:05:24Z"
+      }
+    }
+  ]
+}

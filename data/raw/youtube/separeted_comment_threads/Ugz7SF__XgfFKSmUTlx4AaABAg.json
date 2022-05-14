@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JVmxoYGfJShquUXbsGh_sI3cfQo",
+  "id": "Ugz7SF__XgfFKSmUTlx4AaABAg",
+  "snippet": {
+    "videoId": "YYlmrqyEsks",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ygXsweosO750wj_FufBBznr8U-A",
+      "id": "Ugz7SF__XgfFKSmUTlx4AaABAg",
+      "snippet": {
+        "videoId": "YYlmrqyEsks",
+        "textDisplay": "E o bolsonaro avisou antes mas",
+        "textOriginal": "E o bolsonaro avisou antes mas",
+        "authorDisplayName": "Ricardo Correia de Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8fUhs26Yb0sTC_y9XkEU7zu842HW5bPmUDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaubP-GrZQ5DPJL-6O7Rk1w",
+        "authorChannelId": {
+          "value": "UCaubP-GrZQ5DPJL-6O7Rk1w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-30T17:28:13Z",
+        "updatedAt": "2021-07-30T17:28:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zKQCSLBxjt1OOTA2JXtqMjTL58s",
+      "id": "Ugz7SF__XgfFKSmUTlx4AaABAg.9QQvnrqkKpZ9aarn26TrrO",
+      "snippet": {
+        "textDisplay": "Kkk minion \u00e9 foda",
+        "textOriginal": "Kkk minion \u00e9 foda",
+        "parentId": "Ugz7SF__XgfFKSmUTlx4AaABAg",
+        "authorDisplayName": "Do primeiro ao ultimo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYfvC1lbx3zzshm7Aet47EnvsAmhjzngoi1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWvmf_2B1GW27KZyfBJMeMQ",
+        "authorChannelId": {
+          "value": "UCWvmf_2B1GW27KZyfBJMeMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-04T09:10:07Z",
+        "updatedAt": "2022-05-04T09:10:07Z"
+      }
+    }
+  ]
+}

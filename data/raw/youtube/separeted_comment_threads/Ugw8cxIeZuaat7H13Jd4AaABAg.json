@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "29rpZ1A3bm8mbSYmQqq5UAFDaso",
+  "id": "Ugw8cxIeZuaat7H13Jd4AaABAg",
+  "snippet": {
+    "videoId": "f1AWsPDvkkg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Vi5DdylzixIONAGVS_iGS5hFMAU",
+      "id": "Ugw8cxIeZuaat7H13Jd4AaABAg",
+      "snippet": {
+        "videoId": "f1AWsPDvkkg",
+        "textDisplay": "Essa foi a melhor aula de trauma que eu j\u00e1 vi. Parab\u00e9ns!",
+        "textOriginal": "Essa foi a melhor aula de trauma que eu j\u00e1 vi. Parab\u00e9ns!",
+        "authorDisplayName": "camila leao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR4ctzvOQNb6YtmLyHVuP8uByM_GfaWl8dMorTcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy0d4x7LucrHDRDGxxIR-NA",
+        "authorChannelId": {
+          "value": "UCy0d4x7LucrHDRDGxxIR-NA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-12T20:50:13Z",
+        "updatedAt": "2022-01-12T20:50:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Q8Yxybo-iBVMx5Vb7US9v6VT4N0",
+      "id": "Ugw8cxIeZuaat7H13Jd4AaABAg.9X6isinm9fp9X8xmmn8YCd",
+      "snippet": {
+        "textDisplay": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "textOriginal": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "parentId": "Ugw8cxIeZuaat7H13Jd4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T17:38:58Z",
+        "updatedAt": "2022-01-13T17:38:58Z"
+      }
+    }
+  ]
+}

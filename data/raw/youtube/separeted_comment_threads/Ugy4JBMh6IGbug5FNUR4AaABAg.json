@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4lCN9vyqSH8ETPkutGM8uiG0ZaY",
+  "id": "Ugy4JBMh6IGbug5FNUR4AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uGghhvy4pvYPlPR08FV3Zc7Rms8",
+      "id": "Ugy4JBMh6IGbug5FNUR4AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Muito MARAVILHOSA \ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "Muito MARAVILHOSA \ud83d\udc4f\ud83c\udffc",
+        "authorDisplayName": "Jaqueline Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRN9HeHCO5VnMnbpE85iRZi-eBr7YM4r-VRTKvQNkU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyRLDfunbX2MhyhlkcTmYDg",
+        "authorChannelId": {
+          "value": "UCyRLDfunbX2MhyhlkcTmYDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-09T02:34:43Z",
+        "updatedAt": "2020-05-09T02:34:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_empelAv4b1PgsMq-cPdh5hKedk",
+      "id": "Ugy4JBMh6IGbug5FNUR4AaABAg.98QLDZXf0iB98ZwetO3VMX",
+      "snippet": {
+        "textDisplay": "Jaqueline Gomes obrigadaaaa \ud83e\udd70",
+        "textOriginal": "Jaqueline Gomes obrigadaaaa \ud83e\udd70",
+        "parentId": "Ugy4JBMh6IGbug5FNUR4AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-12T20:03:47Z",
+        "updatedAt": "2020-05-12T20:03:47Z"
+      }
+    }
+  ]
+}

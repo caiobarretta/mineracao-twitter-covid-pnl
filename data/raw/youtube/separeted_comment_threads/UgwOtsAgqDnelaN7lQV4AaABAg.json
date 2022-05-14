@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IFE-kwypFIQp5px_hLSo1WV0gCw",
+  "id": "UgwOtsAgqDnelaN7lQV4AaABAg",
+  "snippet": {
+    "videoId": "icZhpYRuack",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7P_Dwzy6BtFlJjx2A4A_4sTH64Q",
+      "id": "UgwOtsAgqDnelaN7lQV4AaABAg",
+      "snippet": {
+        "videoId": "icZhpYRuack",
+        "textDisplay": "Boa tarde! C\u00edntia Bezerra Almeida Costa Universidade Federal da Para\u00edba",
+        "textOriginal": "Boa tarde! C\u00edntia Bezerra Almeida Costa Universidade Federal da Para\u00edba",
+        "authorDisplayName": "Cintia Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTj-iXCD60uglECbNl-kks3YV8yvSgrBebfe7yLbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChyVDKo2znNBXmJbzdonKFA",
+        "authorChannelId": {
+          "value": "UChyVDKo2znNBXmJbzdonKFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-23T18:49:02Z",
+        "updatedAt": "2021-08-23T18:49:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HvziUzyL1LJuzmHwg5jHFxCFXBk",
+      "id": "UgwOtsAgqDnelaN7lQV4AaABAg.9ROs7oJ8GRY9RP9M9bjcXV",
+      "snippet": {
+        "textDisplay": "Boa tarde",
+        "textOriginal": "Boa tarde",
+        "parentId": "UgwOtsAgqDnelaN7lQV4AaABAg",
+        "authorDisplayName": "Elcy Trinta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0TqIrh-AHVecin8m-QdEYhn_PdRTLp0MEFA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOlzZpiI_s_qW4ZLrpH3AUw",
+        "authorChannelId": {
+          "value": "UCOlzZpiI_s_qW4ZLrpH3AUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-23T21:28:16Z",
+        "updatedAt": "2021-08-23T21:28:16Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M66QbkwMd2k89QMGXB6FoamVh3s",
+  "id": "Ugx_d1obFP7CoiayeU54AaABAg",
+  "snippet": {
+    "videoId": "zaTORUtCD38",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RrOGOQ4wMcQKGQJMJvWuD9Xcrlk",
+      "id": "Ugx_d1obFP7CoiayeU54AaABAg",
+      "snippet": {
+        "videoId": "zaTORUtCD38",
+        "textDisplay": "What a handwriting sir it's too good\ud83e\udd70\ud83e\udd70",
+        "textOriginal": "What a handwriting sir it's too good\ud83e\udd70\ud83e\udd70",
+        "authorDisplayName": "Abhishek Sahu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkBUF0MjsSqdc1vgzdXUNY369QUall4Nvjgh5jUEbd3MTpkHY1y_UV_REK5b1c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6WVFxknfIjwv2C1BqtJYiw",
+        "authorChannelId": {
+          "value": "UC6WVFxknfIjwv2C1BqtJYiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2022-03-15T00:45:40Z",
+        "updatedAt": "2022-03-15T00:45:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tDadXXsiiMSRLWw1svj3liXTesE",
+      "id": "Ugx_d1obFP7CoiayeU54AaABAg.9Z_DJYhbI-i9_vCBda53zB",
+      "snippet": {
+        "textDisplay": "Thanks",
+        "textOriginal": "Thanks",
+        "parentId": "Ugx_d1obFP7CoiayeU54AaABAg",
+        "authorDisplayName": "Zohura Chowdhury",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTw9fIpykGllSDa34x7JUrAY1SfvbRMT9Wx6_t6Xg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHDxd1sZBPPWLa1zKwWMUmg",
+        "authorChannelId": {
+          "value": "UCHDxd1sZBPPWLa1zKwWMUmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-17T10:10:32Z",
+        "updatedAt": "2022-04-17T10:10:32Z"
+      }
+    }
+  ]
+}

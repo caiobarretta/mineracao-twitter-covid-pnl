@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GPnJmCfmPnlqrE9z_qW61bSOP-4",
+  "id": "UgzHRKQ3dwxEp3-dSbh4AaABAg",
+  "snippet": {
+    "videoId": "zaTORUtCD38",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DKxbuH1YyEwpYEAU7AoBL8ynJpo",
+      "id": "UgzHRKQ3dwxEp3-dSbh4AaABAg",
+      "snippet": {
+        "videoId": "zaTORUtCD38",
+        "textDisplay": "Good handwriting. But sir please wait for 5seconds after a paragraph ends. Your writing so fast.",
+        "textOriginal": "Good handwriting. But sir please wait for 5seconds after a paragraph ends. Your writing so fast.",
+        "authorDisplayName": "Thiru Thiruvenkadam",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpAYhVIBr_-o7niyhmKYIlkA8WewKCT7Pd1ge8rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNJ_oLIHGv9NXzgoazRRmsg",
+        "authorChannelId": {
+          "value": "UCNJ_oLIHGv9NXzgoazRRmsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 26,
+        "publishedAt": "2021-11-10T07:41:20Z",
+        "updatedAt": "2021-11-10T07:41:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DYEMHPPs8W8aIzt8u7pYZhn-rno",
+      "id": "UgzHRKQ3dwxEp3-dSbh4AaABAg.9UZ5WawIcAw9XcRM8fOYJl",
+      "snippet": {
+        "textDisplay": "yes",
+        "textOriginal": "yes",
+        "parentId": "UgzHRKQ3dwxEp3-dSbh4AaABAg",
+        "authorDisplayName": "Divyatanvee Satpathy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtzmEgCGqg5aWUAGt2GOaOgWdwSwCImQpSKJIJ8HMRLmWOhUfHClrAQ7l4cqyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNoLOJHawof3n62WsF9FMww",
+        "authorChannelId": {
+          "value": "UCNoLOJHawof3n62WsF9FMww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-25T13:43:17Z",
+        "updatedAt": "2022-01-25T13:43:17Z"
+      }
+    }
+  ]
+}

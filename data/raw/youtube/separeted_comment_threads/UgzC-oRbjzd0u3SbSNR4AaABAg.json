@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rr8Ufjg4pWDbL0vn2GHwuwxQens",
+  "id": "UgzC-oRbjzd0u3SbSNR4AaABAg",
+  "snippet": {
+    "videoId": "7Eg0Rig9xIo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fH51tTF9Z53sTOU1XY-vaej6ues",
+      "id": "UgzC-oRbjzd0u3SbSNR4AaABAg",
+      "snippet": {
+        "videoId": "7Eg0Rig9xIo",
+        "textDisplay": "J\u00e1 se passou um ano... \ud83d\ude2d",
+        "textOriginal": "J\u00e1 se passou um ano... \ud83d\ude2d",
+        "authorDisplayName": "Ju Michele",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuJbfbyFOHqIFhQK0dmh2_YXMXWIvEbJ5vuX_Rag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN-BZK5nwhn2L5IlSHHWHHA",
+        "authorChannelId": {
+          "value": "UCN-BZK5nwhn2L5IlSHHWHHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-13T03:14:35Z",
+        "updatedAt": "2021-04-13T03:14:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5tkZnjEslN1P7tN-B1_sIdV8VkI",
+      "id": "UgzC-oRbjzd0u3SbSNR4AaABAg.9M3JGD4fqdg9Zt36PdggaL",
+      "snippet": {
+        "textDisplay": "2 anos e meio",
+        "textOriginal": "2 anos e meio",
+        "parentId": "UgzC-oRbjzd0u3SbSNR4AaABAg",
+        "authorDisplayName": "Carlos Roberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/XAJ4xeOE5fXQF00XokJmHZG82FiyyTRq9oHq50dHl6mwboKTWXB9GISJbKWppm5cWdzLAtkB0n4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZDub9sAZS81yJAQqs1jbyw",
+        "authorChannelId": {
+          "value": "UCZDub9sAZS81yJAQqs1jbyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-22T17:41:18Z",
+        "updatedAt": "2022-03-22T17:41:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "BAhlvmdr-C2mqJ7MBEE17M2O1PE",
+      "id": "UgzC-oRbjzd0u3SbSNR4AaABAg.9M3JGD4fqdg9XzPQSIbeL1",
+      "snippet": {
+        "textDisplay": "2 anos...",
+        "textOriginal": "2 anos...",
+        "parentId": "UgzC-oRbjzd0u3SbSNR4AaABAg",
+        "authorDisplayName": "Guilherme Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQx8YcvCWd060xQMFrgnn0hnFsEWyU0-3iizF04EQ0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCFcMVtNqXZmP4fXphxGThA",
+        "authorChannelId": {
+          "value": "UCCFcMVtNqXZmP4fXphxGThA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-03T11:48:56Z",
+        "updatedAt": "2022-02-03T11:48:56Z"
+      }
+    }
+  ]
+}

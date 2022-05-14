@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "r2QJ-o_lZUa2Bkk_TIkoK-rvSLk",
+  "id": "UgwRom07FNoGmTANbS54AaABAg",
+  "snippet": {
+    "videoId": "5ILG3gbAzlM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wYMS5pQqdh1mZNPonkWNXqFSSQI",
+      "id": "UgwRom07FNoGmTANbS54AaABAg",
+      "snippet": {
+        "videoId": "5ILG3gbAzlM",
+        "textDisplay": "Ememo e",
+        "textOriginal": "Ememo e",
+        "authorDisplayName": "velloow tryhard",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTN71QuFkZuqSz-kPX3NR--cQMCl0apNVfGIRE7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8IXPABeI84fSV7NzDi-BVQ",
+        "authorChannelId": {
+          "value": "UC8IXPABeI84fSV7NzDi-BVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2019-07-04T22:59:11Z",
+        "updatedAt": "2019-07-04T22:59:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "85nXRTa55HkJ679_oMaucbB-cCI",
+      "id": "UgwRom07FNoGmTANbS54AaABAg.8wzIvfjIt6D9KnWMyYJoyD",
+      "snippet": {
+        "textDisplay": "Bom de naed",
+        "textOriginal": "Bom de naed",
+        "parentId": "UgwRom07FNoGmTANbS54AaABAg",
+        "authorDisplayName": "carlos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/qyeTxPPRg8Rm2FoLj7hXzHol5xdp7pReX3v1nhAU_Xyx94NL9U9QLX1N2nSD5-5wbQqeRRGKBg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeIZRedwagskX2k9a7ojnVQ",
+        "authorChannelId": {
+          "value": "UCeIZRedwagskX2k9a7ojnVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-12T18:10:37Z",
+        "updatedAt": "2021-03-12T18:10:37Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ySEJRpBsjZu3m1hgnhG3ENavIv8",
+      "id": "UgwRom07FNoGmTANbS54AaABAg.8wzIvfjIt6D91_mZGZplGo",
+      "snippet": {
+        "textDisplay": "\u00c9 u\u00e9",
+        "textOriginal": "\u00c9 u\u00e9",
+        "parentId": "UgwRom07FNoGmTANbS54AaABAg",
+        "authorDisplayName": "Samuel Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuCgADzO5QtegHbEMEP_8p18X8w7AoLuMmFSzFgIU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV7-NF5UiUT36tWI5Xcd6aQ",
+        "authorChannelId": {
+          "value": "UCV7-NF5UiUT36tWI5Xcd6aQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-11-21T04:14:59Z",
+        "updatedAt": "2019-11-21T04:14:59Z"
+      }
+    }
+  ]
+}

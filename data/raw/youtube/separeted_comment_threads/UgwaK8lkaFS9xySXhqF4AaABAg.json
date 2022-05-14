@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O1PIR-FQE-tWaDOMOKvaA9SSydU",
+  "id": "UgwaK8lkaFS9xySXhqF4AaABAg",
+  "snippet": {
+    "videoId": "jtlkLBgFGEs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Wa81pRsNyNl24J-yRHiXsqfF00M",
+      "id": "UgwaK8lkaFS9xySXhqF4AaABAg",
+      "snippet": {
+        "videoId": "jtlkLBgFGEs",
+        "textDisplay": "\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd",
+        "textOriginal": "\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd",
+        "authorDisplayName": "Isabel Serra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh5EH4TAHNe6zFaP8O_oyaypC3NE3vsgQWtw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbROhEXKRB-HoPJO7R2nf3A",
+        "authorChannelId": {
+          "value": "UCbROhEXKRB-HoPJO7R2nf3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-02T03:17:58Z",
+        "updatedAt": "2021-04-02T03:17:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rl8AjunUwKsgELlUGNITySPvQ3k",
+      "id": "UgwaK8lkaFS9xySXhqF4AaABAg.9LbzuQbVq0s9LcwLHmvY7J",
+      "snippet": {
+        "textDisplay": "Obrigado \ud83d\ude02\u270c\ufe0f",
+        "textOriginal": "Obrigado \ud83d\ude02\u270c\ufe0f",
+        "parentId": "UgwaK8lkaFS9xySXhqF4AaABAg",
+        "authorDisplayName": "Marcos Galdino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmwsoW34YH2qfMEBIxpHTpziNZ29rXomCLYQjk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe20TwpUV_40obiYcM3W0eQ",
+        "authorChannelId": {
+          "value": "UCe20TwpUV_40obiYcM3W0eQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-02T12:06:04Z",
+        "updatedAt": "2021-04-02T12:06:04Z"
+      }
+    }
+  ]
+}

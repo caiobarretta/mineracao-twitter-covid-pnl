@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j9afqkXAkMzqwKhy9c1DgnMzZv8",
+  "id": "Ugis_79ALI54ZngCoAEC",
+  "snippet": {
+    "videoId": "iLbVJQi1zho",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Q1wu5dIuwdfT8IyHKpfyK84cw80",
+      "id": "Ugis_79ALI54ZngCoAEC",
+      "snippet": {
+        "videoId": "iLbVJQi1zho",
+        "textDisplay": "cara !!!! vc \u00e9 nota 1000!!!!! muito bom \no melhor para explicar",
+        "textOriginal": "cara !!!! vc \u00e9 nota 1000!!!!! muito bom \no melhor para explicar",
+        "authorDisplayName": "Jo\u00e3o Augusto Rodrigues Neto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNVqlTiePowhSG6YyRbCHBNUjp1KszDLrfGmxx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEisEEVPohzatETSlww5Rrw",
+        "authorChannelId": {
+          "value": "UCEisEEVPohzatETSlww5Rrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 27,
+        "publishedAt": "2015-12-19T15:10:53Z",
+        "updatedAt": "2015-12-19T15:10:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SMlMAht87u-RpArofyxmgt5Pkws",
+      "id": "Ugis_79ALI54ZngCoAEC.87x5VKzaElS87x78dTK6tp",
+      "snippet": {
+        "textDisplay": "Valeu Jo\u00e3o, obrigado !",
+        "textOriginal": "Valeu Jo\u00e3o, obrigado !",
+        "parentId": "Ugis_79ALI54ZngCoAEC",
+        "authorDisplayName": "BRS Explica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRFdKEpUCdjn7J5OvRQwBCspFN8lR_sp2WRKexj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCciLF4a-EpZB3TZXsWbZJKA",
+        "authorChannelId": {
+          "value": "UCciLF4a-EpZB3TZXsWbZJKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-12-19T15:25:16Z",
+        "updatedAt": "2015-12-19T15:25:16Z"
+      }
+    }
+  ]
+}

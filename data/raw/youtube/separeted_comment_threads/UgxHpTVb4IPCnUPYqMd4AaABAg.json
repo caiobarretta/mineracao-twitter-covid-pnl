@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y2mAZ4gwLNFtMnzAcy4niWbIjw8",
+  "id": "UgxHpTVb4IPCnUPYqMd4AaABAg",
+  "snippet": {
+    "videoId": "VvFd9XpDL5g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "j6P8EaLrVhi3-o5m8LIn0LfdLlU",
+      "id": "UgxHpTVb4IPCnUPYqMd4AaABAg",
+      "snippet": {
+        "videoId": "VvFd9XpDL5g",
+        "textDisplay": "Esse cara e vecendor de que",
+        "textOriginal": "Esse cara e vecendor de que",
+        "authorDisplayName": "Maria J. santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjYGLrF3RV0upY5AxOUxLcjsKlN1bxvJUZi_ss8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq6jBnWjXhDdcu891NgraqQ",
+        "authorChannelId": {
+          "value": "UCq6jBnWjXhDdcu891NgraqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T02:56:20Z",
+        "updatedAt": "2022-05-10T02:56:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hWcMCyvapDIfa-gcdaHyvxy8c0o",
+      "id": "UgxHpTVb4IPCnUPYqMd4AaABAg.9apdmWv-xd19aqcR-1bjAi",
+      "snippet": {
+        "textDisplay": "Matou tantos inocentes n\u00e3o vejo motivo para comemora\u00e7\u00f5es ,triste com isso",
+        "textOriginal": "Matou tantos inocentes n\u00e3o vejo motivo para comemora\u00e7\u00f5es ,triste com isso",
+        "parentId": "UgxHpTVb4IPCnUPYqMd4AaABAg",
+        "authorDisplayName": "Cida Sampaio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrbkundGY5lzc3BmJAbH9NENIQVrMWc1M6PA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCINBkEAvuFSVUh-7qkNSb7Q",
+        "authorChannelId": {
+          "value": "UCINBkEAvuFSVUh-7qkNSb7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T12:03:45Z",
+        "updatedAt": "2022-05-10T12:03:45Z"
+      }
+    }
+  ]
+}

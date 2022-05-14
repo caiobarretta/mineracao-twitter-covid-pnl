@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JpSfa9WKmgw7KwNU_bgna_nsH4w",
+  "id": "UgyNTt6p4ZvQFvYlYaV4AaABAg",
+  "snippet": {
+    "videoId": "DWVD8lVVFR0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sKr_yk8P5phK1oxHeumJTgvQHsw",
+      "id": "UgyNTt6p4ZvQFvYlYaV4AaABAg",
+      "snippet": {
+        "videoId": "DWVD8lVVFR0",
+        "textDisplay": "Essa tocnologia ta tao avan\u00e7ada que vao come\u00e7ar marca as pessoa com chipe",
+        "textOriginal": "Essa tocnologia ta tao avan\u00e7ada que vao come\u00e7ar marca as pessoa com chipe",
+        "authorDisplayName": "Jose Rosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaK9f1PiMMeqwNLE0J5T7D2icYccy-g4K55A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeVT5mT_tqmcaTeVeeiOpPg",
+        "authorChannelId": {
+          "value": "UCeVT5mT_tqmcaTeVeeiOpPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-31T01:00:19Z",
+        "updatedAt": "2020-12-31T01:00:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TMe7QFH_oPDyGDt_dM3mgBXvZQk",
+      "id": "UgyNTt6p4ZvQFvYlYaV4AaABAg.9Hur0f_8Vly9HurZ1fE0l3",
+      "snippet": {
+        "textDisplay": "N\u00e3o duvido n\u00e3o amigo.",
+        "textOriginal": "N\u00e3o duvido n\u00e3o amigo.",
+        "parentId": "UgyNTt6p4ZvQFvYlYaV4AaABAg",
+        "authorDisplayName": "Node Studio Treinamentos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTp3CnCvANG3_JKqEgmDomVltCNUGsJjWYr0a7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw",
+        "authorChannelId": {
+          "value": "UCZZ0NTtOgsLIT4Skr6GUpAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-31T01:05:00Z",
+        "updatedAt": "2020-12-31T01:05:00Z"
+      }
+    }
+  ]
+}

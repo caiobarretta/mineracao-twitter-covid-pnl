@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "78qQekX1a2BH0VeXmD1vt_dTHzw",
+  "id": "UgyN3LqFr-gSbD-SDKl4AaABAg",
+  "snippet": {
+    "videoId": "2NaJEbyjOcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lp_HHcuV4sbOtl1hgZvnmbBhuo0",
+      "id": "UgyN3LqFr-gSbD-SDKl4AaABAg",
+      "snippet": {
+        "videoId": "2NaJEbyjOcw",
+        "textDisplay": "How does the blur setting effect a map? In these tutorials, I often see the blur turned down to something like .01",
+        "textOriginal": "How does the blur setting effect a map? In these tutorials, I often see the blur turned down to something like .01",
+        "authorDisplayName": "FrankGehry",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLoZlxsdPP5gtu23kkp2cScCs2YYaY9viL4qwz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0PNH4xWx6OgYpyIe6gl_sQ",
+        "authorChannelId": {
+          "value": "UC0PNH4xWx6OgYpyIe6gl_sQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-31T17:48:42Z",
+        "updatedAt": "2020-01-31T17:48:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nMbiOmjoUP8lMSZPPKqX1FL-HvI",
+      "id": "UgyN3LqFr-gSbD-SDKl4AaABAg.94T379cDaP794THWUUMvrc",
+      "snippet": {
+        "textDisplay": "It softens the map (rather like a subtle blur in Photoshop or similar), reducing it to .01 may be useful for some things where a sharper result is needed (in general, the slight blur added in the default is useful for prevent artifacts or oversharpening, but for some cases it can be useful to lower the value). Hope this helps! Tom",
+        "textOriginal": "It softens the map (rather like a subtle blur in Photoshop or similar), reducing it to .01 may be useful for some things where a sharper result is needed (in general, the slight blur added in the default is useful for prevent artifacts or oversharpening, but for some cases it can be useful to lower the value). Hope this helps! Tom",
+        "parentId": "UgyN3LqFr-gSbD-SDKl4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-31T19:54:29Z",
+        "updatedAt": "2020-01-31T19:54:29Z"
+      }
+    }
+  ]
+}

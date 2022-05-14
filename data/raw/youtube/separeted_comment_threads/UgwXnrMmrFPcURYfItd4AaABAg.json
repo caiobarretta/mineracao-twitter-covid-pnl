@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8_y5kTX7thpwEN7S1qaaa7OYvFg",
+  "id": "UgwXnrMmrFPcURYfItd4AaABAg",
+  "snippet": {
+    "videoId": "_eklPc4bJRE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BCDG9rh5VgdI55pQYJ1V-hk4BHI",
+      "id": "UgwXnrMmrFPcURYfItd4AaABAg",
+      "snippet": {
+        "videoId": "_eklPc4bJRE",
+        "textDisplay": "Ngm liga",
+        "textOriginal": "Ngm liga",
+        "authorDisplayName": "Diogolokao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAcd2bIf0dNECL9Ykrzm7RBIZUcoBDYZNbY4hrMw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA5UB1TWfcG58khYHcfsnUw",
+        "authorChannelId": {
+          "value": "UCA5UB1TWfcG58khYHcfsnUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-05T17:21:32Z",
+        "updatedAt": "2021-10-05T17:21:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "txBSY867R2JGM_AZsFa0Ojxpn_8",
+      "id": "UgwXnrMmrFPcURYfItd4AaABAg.9T7RIbjbEb89T7RYibjkZO",
+      "snippet": {
+        "textDisplay": "?",
+        "textOriginal": "?",
+        "parentId": "UgwXnrMmrFPcURYfItd4AaABAg",
+        "authorDisplayName": "Zi Louren\u00e7o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd-D8KohwLNmWtzA1Xd2CojTab8E9E0Lphard5kA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ6G14iaui9VwHtPEjtpa0Q",
+        "authorChannelId": {
+          "value": "UCZ6G14iaui9VwHtPEjtpa0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-05T17:23:44Z",
+        "updatedAt": "2021-10-05T17:23:44Z"
+      }
+    }
+  ]
+}

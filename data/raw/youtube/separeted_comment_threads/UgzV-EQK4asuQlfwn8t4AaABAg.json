@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1NMVdMh3wGQncQJ4EWq1yaRYGSM",
+  "id": "UgzV-EQK4asuQlfwn8t4AaABAg",
+  "snippet": {
+    "videoId": "i5oLxm89kLw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dsoOc3djV860Z8GqnUFMEaUV6hU",
+      "id": "UgzV-EQK4asuQlfwn8t4AaABAg",
+      "snippet": {
+        "videoId": "i5oLxm89kLw",
+        "textDisplay": "MUITO OBRIGADO GUSTAVO, AJUDANDO OS CONCURSANDO",
+        "textOriginal": "MUITO OBRIGADO GUSTAVO, AJUDANDO OS CONCURSANDO",
+        "authorDisplayName": "Fabio Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0-VoLDHPH302ahLbH2b90J2LupsvdgSMozVqpLzs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCquo3nKl0b1hP-YzZ4_74ZQ",
+        "authorChannelId": {
+          "value": "UCquo3nKl0b1hP-YzZ4_74ZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-13T18:15:24Z",
+        "updatedAt": "2021-05-13T18:15:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MJNXQpJ_CXmkJfHz_yJMz7KwVVo",
+      "id": "UgzV-EQK4asuQlfwn8t4AaABAg.9NIACI2n6mA9NS5ngerhcv",
+      "snippet": {
+        "textDisplay": "valeu fabi\u00e3o!!!",
+        "textOriginal": "valeu fabi\u00e3o!!!",
+        "parentId": "UgzV-EQK4asuQlfwn8t4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-17T14:49:22Z",
+        "updatedAt": "2021-05-17T14:49:22Z"
+      }
+    }
+  ]
+}

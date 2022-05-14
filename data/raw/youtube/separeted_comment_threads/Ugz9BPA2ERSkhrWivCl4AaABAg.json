@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gBdmUa-ahYnN9-D4zwP02HZZTjQ",
+  "id": "Ugz9BPA2ERSkhrWivCl4AaABAg",
+  "snippet": {
+    "videoId": "QQ7fYBwUWQ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GWAYOqBEdAUKNjdq8UtM3O7Q0Es",
+      "id": "Ugz9BPA2ERSkhrWivCl4AaABAg",
+      "snippet": {
+        "videoId": "QQ7fYBwUWQ4",
+        "textDisplay": "0:03 o cara at\u00e9 riu Kkk Coronavac placebo",
+        "textOriginal": "0:03 o cara at\u00e9 riu Kkk Coronavac placebo",
+        "authorDisplayName": "Alexandre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/X5mkqpGoNhibNJsxZi6wGEn6CA0SCIKz0LjoTl2aoI-ICSa8j5R3d9w0Lt18T6qNMu-D7qUrUYI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8f0GfBw75ZfqGPwQcxUjVQ",
+        "authorChannelId": {
+          "value": "UC8f0GfBw75ZfqGPwQcxUjVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-27T14:14:09Z",
+        "updatedAt": "2021-08-27T14:14:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gQEqzPbSSSIkDBLWlxCh3Tc9Fng",
+      "id": "Ugz9BPA2ERSkhrWivCl4AaABAg.9RYfr-ENGH-9RYgHlLnVYA",
+      "snippet": {
+        "textDisplay": "E a terra \u00e9 plana \ud83d\ude02",
+        "textOriginal": "E a terra \u00e9 plana \ud83d\ude02",
+        "parentId": "Ugz9BPA2ERSkhrWivCl4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Maria Schemer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTTYwCElHD0ODCQHznTq_q0wNwARhgvHwY3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsa4lozGFS1sUxeViEE30NA",
+        "authorChannelId": {
+          "value": "UCsa4lozGFS1sUxeViEE30NA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-08-27T14:17:56Z",
+        "updatedAt": "2021-08-27T14:17:56Z"
+      }
+    }
+  ]
+}

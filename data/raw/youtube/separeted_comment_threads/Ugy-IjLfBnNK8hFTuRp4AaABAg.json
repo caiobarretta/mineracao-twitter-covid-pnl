@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AHnFBK6QhAJZpfYMXVKG33WAyAY",
+  "id": "Ugy-IjLfBnNK8hFTuRp4AaABAg",
+  "snippet": {
+    "videoId": "GrImrRq2gI8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pdHHH16bHrajFVJwI1DGbj7B3cA",
+      "id": "Ugy-IjLfBnNK8hFTuRp4AaABAg",
+      "snippet": {
+        "videoId": "GrImrRq2gI8",
+        "textDisplay": "Vergonha as mentiras",
+        "textOriginal": "Vergonha as mentiras",
+        "authorDisplayName": "Mar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQsJ7qV5X5HW5RqrUMxBr55fr4tieR4eL3lNYg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaSqDoIlePLlo7GASzELEAQ",
+        "authorChannelId": {
+          "value": "UCaSqDoIlePLlo7GASzELEAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-09-22T23:32:46Z",
+        "updatedAt": "2020-09-22T23:32:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cyOp5EcD8nouNi-dgmAS_aGSAZQ",
+      "id": "Ugy-IjLfBnNK8hFTuRp4AaABAg.9DvmIp0U1xA9DvmN8LDwqX",
+      "snippet": {
+        "textDisplay": "Falo das encarna\u00e7\u00f5es do discurso na ONU",
+        "textOriginal": "Falo das encarna\u00e7\u00f5es do discurso na ONU",
+        "parentId": "Ugy-IjLfBnNK8hFTuRp4AaABAg",
+        "authorDisplayName": "Mar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQsJ7qV5X5HW5RqrUMxBr55fr4tieR4eL3lNYg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaSqDoIlePLlo7GASzELEAQ",
+        "authorChannelId": {
+          "value": "UCaSqDoIlePLlo7GASzELEAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-22T23:33:21Z",
+        "updatedAt": "2020-09-22T23:33:21Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kC3OHfeRxjqRZA0lremcUDU58Tc",
+  "id": "UgydTPXqb73SlEzhfEp4AaABAg",
+  "snippet": {
+    "videoId": "PPEAkh2Ft5o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nyidlqT3-JhboKWp84ZTmauhWls",
+      "id": "UgydTPXqb73SlEzhfEp4AaABAg",
+      "snippet": {
+        "videoId": "PPEAkh2Ft5o",
+        "textDisplay": "Como eu fa\u00e7o um v\u00eddeo assim qua\u013a programa?",
+        "textOriginal": "Como eu fa\u00e7o um v\u00eddeo assim qua\u013a programa?",
+        "authorDisplayName": "Simone Purzel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0zyZJYIVxw3dmS4BKDItGPUHaNuCa5QyJX_4GfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr_8DT63Wur4_KVZO_lkvZQ",
+        "authorChannelId": {
+          "value": "UCr_8DT63Wur4_KVZO_lkvZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-02T02:39:48Z",
+        "updatedAt": "2022-03-02T02:39:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SxLuPRucsFxqAfKO9ST7Daboe1w",
+      "id": "UgydTPXqb73SlEzhfEp4AaABAg.9Z2x275z1K99Z3ojhZgNwR",
+      "snippet": {
+        "textDisplay": "Canva, \u00e9 um site e da\u00ed n precisa baixar",
+        "textOriginal": "Canva, \u00e9 um site e da\u00ed n precisa baixar",
+        "parentId": "UgydTPXqb73SlEzhfEp4AaABAg",
+        "authorDisplayName": "Aline Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRA4RmBR0pzN1WupR9xhOOeOrI2pKkOiifIcdCLFZY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn5bg8dq0eM67YsU9xV3KxA",
+        "authorChannelId": {
+          "value": "UCn5bg8dq0eM67YsU9xV3KxA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-02T10:46:29Z",
+        "updatedAt": "2022-03-02T10:46:29Z"
+      }
+    }
+  ]
+}

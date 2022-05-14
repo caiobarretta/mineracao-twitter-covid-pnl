@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cYtm9nm6wugSA4HxswwWYnmwkUI",
+  "id": "UgwXS3u3nJvLt7nrWaV4AaABAg",
+  "snippet": {
+    "videoId": "0egtHw2GV6c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XabMnvwQqVfPNdXDytFh3ZnVqWs",
+      "id": "UgwXS3u3nJvLt7nrWaV4AaABAg",
+      "snippet": {
+        "videoId": "0egtHw2GV6c",
+        "textDisplay": "Conte\u00fado excelente, adoro saber essas coisas.",
+        "textOriginal": "Conte\u00fado excelente, adoro saber essas coisas.",
+        "authorDisplayName": "Arthur",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HWJz1qneJn6KptNwgIzDfMRwYpfyS2KaZB-cE_rvRM64v102vEbnLT-W0kpN4xhRwZvw8bl2pA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZhVorBu3oMwT1Fb8Na9azg",
+        "authorChannelId": {
+          "value": "UCZhVorBu3oMwT1Fb8Na9azg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T13:50:43Z",
+        "updatedAt": "2022-05-09T13:50:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rxfge23MwSASjnFrxT95J0kfiUA",
+      "id": "UgwXS3u3nJvLt7nrWaV4AaABAg.9aoEs_OBxsh9aofTC_-oya",
+      "snippet": {
+        "textDisplay": "obrigada!!",
+        "textOriginal": "obrigada!!",
+        "parentId": "UgwXS3u3nJvLt7nrWaV4AaABAg",
+        "authorDisplayName": "Europeia no Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t3Uotyvbzdug7-olXo1YnPvgUGf-V0NFlwEP9C5donudwbFEbSJ467QywtglC1LRbNViJsxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu58FZdbhOURLjgD3uYXvPw",
+        "authorChannelId": {
+          "value": "UCu58FZdbhOURLjgD3uYXvPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T17:51:47Z",
+        "updatedAt": "2022-05-09T17:51:47Z"
+      }
+    }
+  ]
+}

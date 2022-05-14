@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8I1jV2ihtPvqXYpW2pOJPRoMBpU",
+  "id": "UgzgqT7X1uxApK5mptp4AaABAg",
+  "snippet": {
+    "videoId": "_eklPc4bJRE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2rtMx6MjTFccVi66zLFGQStioEU",
+      "id": "UgzgqT7X1uxApK5mptp4AaABAg",
+      "snippet": {
+        "videoId": "_eklPc4bJRE",
+        "textDisplay": "Famosa nada...eu fico o dia todo no YouTube e nunca vi ela.",
+        "textOriginal": "Famosa nada...eu fico o dia todo no YouTube e nunca vi ela.",
+        "authorDisplayName": "Evandro Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/4mS8xd4zhwyLaIEjylHEkO4dS-apOfge2HBwln81IrUzOwSpZmuy3K0LMaXqiNeJXboCEFny=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqciRTaLYalSbpRIBzwVTRQ",
+        "authorChannelId": {
+          "value": "UCqciRTaLYalSbpRIBzwVTRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-22T11:54:13Z",
+        "updatedAt": "2021-10-22T11:54:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qhFMy92Jni2Qm772eEyayh9KB2o",
+      "id": "UgzgqT7X1uxApK5mptp4AaABAg.9TncM9PO88e9TtxaOqLa3G",
+      "snippet": {
+        "textDisplay": "Me poupe afff",
+        "textOriginal": "Me poupe afff",
+        "parentId": "UgzgqT7X1uxApK5mptp4AaABAg",
+        "authorDisplayName": "Viihh\ud83d\udc95",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mOB7Yum1pcmHE981XQvMQJErx0D7Bq1fM5fnIk0NgeAQ6t2r7vo4k46xrzd12KaI3fQlimPNkP4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuPbzLvRISCpqKDJzO_vmBQ",
+        "authorChannelId": {
+          "value": "UCuPbzLvRISCpqKDJzO_vmBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-24T22:55:15Z",
+        "updatedAt": "2021-10-24T22:55:15Z"
+      }
+    }
+  ]
+}

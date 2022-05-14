@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BnrzuDC_V_UO2zuoCkgUCr0-YnI",
+  "id": "Ugj5qQh6046VN3gCoAEC",
+  "snippet": {
+    "videoId": "uvt82G33z3U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sL_SUzWGgcv4kQg5lQSP6IYYxwY",
+      "id": "Ugj5qQh6046VN3gCoAEC",
+      "snippet": {
+        "videoId": "uvt82G33z3U",
+        "textDisplay": "Boa tarde amigo, como fa\u00e7o para conseguir o curso online?",
+        "textOriginal": "Boa tarde amigo, como fa\u00e7o para conseguir o curso online?",
+        "authorDisplayName": "Djedy scratch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeeUcUIcqJqW3JhHs2YERKK3HRxOhEAw7xX94DCgI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH-oUolmH48JqpfCBj9w11A",
+        "authorChannelId": {
+          "value": "UCH-oUolmH48JqpfCBj9w11A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-04-18T19:46:17Z",
+        "updatedAt": "2017-04-18T19:46:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fyaZWLp8rvMqrUYPt2hH3LA3Nmo",
+      "id": "Ugj5qQh6046VN3gCoAEC.8RW-Lb1KXsb8RpR2lG1NW0",
+      "snippet": {
+        "textDisplay": "nosso curso \u00e9 presencial amigo!",
+        "textOriginal": "nosso curso \u00e9 presencial amigo!",
+        "parentId": "Ugj5qQh6046VN3gCoAEC",
+        "authorDisplayName": "Planetgames Reparos em consoles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHKhMZTbjCOzNSujFb98J2VIyzMsECZISzjVbQbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClt2y-_b7VdPD-KBBEAp3OA",
+        "authorChannelId": {
+          "value": "UClt2y-_b7VdPD-KBBEAp3OA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-04-26T18:13:11Z",
+        "updatedAt": "2017-04-26T18:13:11Z"
+      }
+    }
+  ]
+}

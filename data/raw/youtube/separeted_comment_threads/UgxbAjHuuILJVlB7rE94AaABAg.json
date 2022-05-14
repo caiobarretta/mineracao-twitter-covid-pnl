@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "t4s3HQezH2-mE-4sAu9GypxTRrQ",
+  "id": "UgxbAjHuuILJVlB7rE94AaABAg",
+  "snippet": {
+    "videoId": "gAXV20dTvbY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2XCCA3YQajgX6KCzI-FrBJonoek",
+      "id": "UgxbAjHuuILJVlB7rE94AaABAg",
+      "snippet": {
+        "videoId": "gAXV20dTvbY",
+        "textDisplay": "oi pode me ajudar! o material que eu baixei tem um map chamado height..onde que ponho nos parametros?",
+        "textOriginal": "oi pode me ajudar! o material que eu baixei tem um map chamado height..onde que ponho nos parametros?",
+        "authorDisplayName": "Wiggly TikyTok",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcvyuBBCJ6iT_vwHDlfvlq_HX148MwwoYChks=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRJ8aZltntFThTJUlEI0Fpw",
+        "authorChannelId": {
+          "value": "UCRJ8aZltntFThTJUlEI0Fpw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-13T14:41:27Z",
+        "updatedAt": "2021-07-13T14:41:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8WKK9cvD8GSY5ZBPZ01A_hzY2EM",
+      "id": "UgxbAjHuuILJVlB7rE94AaABAg.9PjrCeYNbVB9PjtjU7lmky",
+      "snippet": {
+        "textDisplay": "Eai, tudo bem? \n\nDependendo do site/fornecedor o nome dos mapas varia (mas com a mesma fun\u00e7\u00e3o).\nNo caso do Height, seria o de Displacement.",
+        "textOriginal": "Eai, tudo bem? \n\nDependendo do site/fornecedor o nome dos mapas varia (mas com a mesma fun\u00e7\u00e3o).\nNo caso do Height, seria o de Displacement.",
+        "parentId": "UgxbAjHuuILJVlB7rE94AaABAg",
+        "authorDisplayName": "Joao Moizes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTD09QN-gLuhaiNo5J1wZhywoG3tAimJ2d5N0mJ8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwHG6REOWtZgo3tuJh1mhpQ",
+        "authorChannelId": {
+          "value": "UCwHG6REOWtZgo3tuJh1mhpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-13T15:03:33Z",
+        "updatedAt": "2021-07-13T15:03:33Z"
+      }
+    }
+  ]
+}

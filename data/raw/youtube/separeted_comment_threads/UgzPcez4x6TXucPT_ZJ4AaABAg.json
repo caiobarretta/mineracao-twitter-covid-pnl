@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FAdHtPE-bqNUuvyA0G76qYfcZjE",
+  "id": "UgzPcez4x6TXucPT_ZJ4AaABAg",
+  "snippet": {
+    "videoId": "42Qb-95EJ8k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "URGVXebeh7x-PFpQMeBV311h3GI",
+      "id": "UgzPcez4x6TXucPT_ZJ4AaABAg",
+      "snippet": {
+        "videoId": "42Qb-95EJ8k",
+        "textDisplay": "Gl\u00f3ria a Ucr\u00e2nia.",
+        "textOriginal": "Gl\u00f3ria a Ucr\u00e2nia.",
+        "authorDisplayName": "Paulo Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbsyDmoYw4nE419sN_khmedrg3djyRHW5EFdf-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHYXLLKPlpPy1l1ClK7gSbg",
+        "authorChannelId": {
+          "value": "UCHYXLLKPlpPy1l1ClK7gSbg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-11T09:33:59Z",
+        "updatedAt": "2022-05-11T09:33:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J-wGeRHzsH5lxinf7vH6zPCvCr0",
+      "id": "UgzPcez4x6TXucPT_ZJ4AaABAg.9asw4xNvAqH9awzx1QTszn",
+      "snippet": {
+        "textDisplay": "Kkkk qu\u00ea Ucrania?",
+        "textOriginal": "Kkkk qu\u00ea Ucrania?",
+        "parentId": "UgzPcez4x6TXucPT_ZJ4AaABAg",
+        "authorDisplayName": "Guilherme Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBmSnofi3aFpK0iu3lTZS4MUh0gtfci3BWAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnREOncer7QSv1yldeE20BA",
+        "authorChannelId": {
+          "value": "UCnREOncer7QSv1yldeE20BA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T23:24:41Z",
+        "updatedAt": "2022-05-12T23:24:41Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "2tfqZskucuS1r49AKOWcoYqVLGk",
+      "id": "UgzPcez4x6TXucPT_ZJ4AaABAg.9asw4xNvAqH9awHhNCM08_",
+      "snippet": {
+        "textDisplay": "que Ucr\u00e2nia esse pa\u00eds n\u00e3o vai existir mais",
+        "textOriginal": "que Ucr\u00e2nia esse pa\u00eds n\u00e3o vai existir mais",
+        "parentId": "UgzPcez4x6TXucPT_ZJ4AaABAg",
+        "authorDisplayName": "Elton John Nunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkY9bSZ45PmVzRNMWo1WGPHp5irGMVAUpz_qaxZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_mHp3VW3o2pS4VVk8Rof7w",
+        "authorChannelId": {
+          "value": "UC_mHp3VW3o2pS4VVk8Rof7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-12T16:49:20Z",
+        "updatedAt": "2022-05-12T16:49:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "UloHsrufuHbK5EdDHks20FdlXB8",
+      "id": "UgzPcez4x6TXucPT_ZJ4AaABAg.9asw4xNvAqH9av-K05DjNt",
+      "snippet": {
+        "textDisplay": "gl\u00f3ria pq?",
+        "textOriginal": "gl\u00f3ria pq?",
+        "parentId": "UgzPcez4x6TXucPT_ZJ4AaABAg",
+        "authorDisplayName": "Rhuan Henrique Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTK7iK1Bh_u7SR_cLHZ1_IsZX1rtcV83BqT6zkjdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgHjlN6hUmBCafviPuA17Yg",
+        "authorChannelId": {
+          "value": "UCgHjlN6hUmBCafviPuA17Yg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-12T04:49:29Z",
+        "updatedAt": "2022-05-12T04:49:29Z"
+      }
+    }
+  ]
+}

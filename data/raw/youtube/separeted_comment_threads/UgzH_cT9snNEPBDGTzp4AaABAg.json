@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bcGQtNyZX4MctdaAXmFsq8zU14g",
+  "id": "UgzH_cT9snNEPBDGTzp4AaABAg",
+  "snippet": {
+    "videoId": "aSBmsbJNnWg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oVrCgwIkaRR8blQ5A2dzgA_pGKg",
+      "id": "UgzH_cT9snNEPBDGTzp4AaABAg",
+      "snippet": {
+        "videoId": "aSBmsbJNnWg",
+        "textDisplay": "in french??",
+        "textOriginal": "in french??",
+        "authorDisplayName": "christophe jennet",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCCjw3ozsi3zG9aPrxhh2VQOZoraOg1f8fh5Ib0g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTYGjdAqjUHT45iAhiMkxWQ",
+        "authorChannelId": {
+          "value": "UCTYGjdAqjUHT45iAhiMkxWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-10-27T12:06:14Z",
+        "updatedAt": "2019-10-27T12:06:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "adDIubh7WKdp4tF0cD4yuX75fHE",
+      "id": "UgzH_cT9snNEPBDGTzp4AaABAg.90aFbqSSeFB90i-vIMATOL",
+      "snippet": {
+        "textDisplay": "Hi! Sorry, English is the only language available on our tutorials. Thanks! Tom",
+        "textOriginal": "Hi! Sorry, English is the only language available on our tutorials. Thanks! Tom",
+        "parentId": "UgzH_cT9snNEPBDGTzp4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-10-30T12:23:00Z",
+        "updatedAt": "2019-10-30T12:23:00Z"
+      }
+    }
+  ]
+}

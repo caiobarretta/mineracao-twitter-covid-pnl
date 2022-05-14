@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Mwfc_MVM5S5s1Fv3opwutUKWe04",
+  "id": "UgyWvdDlDf9b1jPwOj94AaABAg",
+  "snippet": {
+    "videoId": "KDbnWdP0XCY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KQnOIXHniQ1mNJ1ryIMZexwtqO8",
+      "id": "UgyWvdDlDf9b1jPwOj94AaABAg",
+      "snippet": {
+        "videoId": "KDbnWdP0XCY",
+        "textDisplay": "Han muerto? O los murieron en los hospitales?",
+        "textOriginal": "Han muerto? O los murieron en los hospitales?",
+        "authorDisplayName": "Beatriz 123",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSw31eXrfYi9W0aeMl9EaXbIb4Qc4iNZH1FXTvaCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS7WWbciKi_v-th438gn1zQ",
+        "authorChannelId": {
+          "value": "UCS7WWbciKi_v-th438gn1zQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-10T17:43:38Z",
+        "updatedAt": "2020-09-10T17:43:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ht66VaTinD9BWuP_neIEmRXNZkc",
+      "id": "UgyWvdDlDf9b1jPwOj94AaABAg.9DRFoDlPyuZ9DWKLvGce4U",
+      "snippet": {
+        "textDisplay": "Es lo mismo. Cuando muere alguien un doctor te da el acta de defunci\u00f3n en la que dice porque muri\u00f3 y que unidad verifico el deceso.. Edit que hay muchas causa de muertes y que nuestro sistema de salud no estaba preparado para es otra cosa",
+        "textOriginal": "Es lo mismo. Cuando muere alguien un doctor te da el acta de defunci\u00f3n en la que dice porque muri\u00f3 y que unidad verifico el deceso.. Edit que hay muchas causa de muertes y que nuestro sistema de salud no estaba preparado para es otra cosa",
+        "parentId": "UgyWvdDlDf9b1jPwOj94AaABAg",
+        "authorDisplayName": "Nestor Matamoros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsVu4afQDQxqb1wPaTTSTRbjSUyfOolyGOsfc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCotSjnkX9arbqglpv1ovnIg",
+        "authorChannelId": {
+          "value": "UCotSjnkX9arbqglpv1ovnIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-12T16:59:32Z",
+        "updatedAt": "2020-09-12T17:00:21Z"
+      }
+    }
+  ]
+}

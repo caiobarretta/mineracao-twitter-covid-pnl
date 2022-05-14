@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JL191Yg2REHIRi3hEh6Ky9tIy6o",
+  "id": "UgzEMR5xv5KKZMYoylt4AaABAg",
+  "snippet": {
+    "videoId": "SdJ9aZPL0OU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WT2E_uDIejhH1sX-3oFExZYQIlo",
+      "id": "UgzEMR5xv5KKZMYoylt4AaABAg",
+      "snippet": {
+        "videoId": "SdJ9aZPL0OU",
+        "textDisplay": "Vim pelas  aulas online",
+        "textOriginal": "Vim pelas  aulas online",
+        "authorDisplayName": "Ana Dantas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EnqyfCv2o9Dt216vIJ7TpAHfiJ6mMVkhL2ZepVE2ji2tbxvieETenpTLnwki5Ii6lf47Mvv8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC43AJebfyzYEDfnJpIYQ3TQ",
+        "authorChannelId": {
+          "value": "UC43AJebfyzYEDfnJpIYQ3TQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-06T15:27:24Z",
+        "updatedAt": "2021-07-06T15:27:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "y0pOV0jwmAOCIXNW8PBa6ZLXGhU",
+      "id": "UgzEMR5xv5KKZMYoylt4AaABAg.9PSuu3Yx25G9T8JbpnXAXX",
+      "snippet": {
+        "textDisplay": "2",
+        "textOriginal": "2",
+        "parentId": "UgzEMR5xv5KKZMYoylt4AaABAg",
+        "authorDisplayName": "Kaio Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjqVEnN2a6eqLIzsQ2s-lGhqozcQI-SKt63PqsKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8vOgdXWhciZ-jkblEWq6eg",
+        "authorChannelId": {
+          "value": "UC8vOgdXWhciZ-jkblEWq6eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-06T01:33:38Z",
+        "updatedAt": "2021-10-06T01:33:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dTLFxVwUOSfODbFX02O8joZ1DPU",
+  "id": "UgwcXZ4jmO37SO6s6k94AaABAg",
+  "snippet": {
+    "videoId": "2IHDasI-YTw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LTZquMwQSo5J80zyMmHsgtiGf9U",
+      "id": "UgwcXZ4jmO37SO6s6k94AaABAg",
+      "snippet": {
+        "videoId": "2IHDasI-YTw",
+        "textDisplay": "Notei algo t\u00f4 usando o Phoenix FD pra fazer fuma\u00e7a e \u00e1gua mas o dnoise deixar a \u00e1gua e a fuma\u00e7a horr\u00edvel se tira o dnoise fica melhor mas fica com granulado",
+        "textOriginal": "Notei algo t\u00f4 usando o Phoenix FD pra fazer fuma\u00e7a e \u00e1gua mas o dnoise deixar a \u00e1gua e a fuma\u00e7a horr\u00edvel se tira o dnoise fica melhor mas fica com granulado",
+        "authorDisplayName": "R\u00d4MULO CASTILHO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3X0DHxfjAFhhJyfsBLl02IV4CTSKk4uSHpIZwGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5jfpxqtgQUkvHk0SYuNRyA",
+        "authorChannelId": {
+          "value": "UC5jfpxqtgQUkvHk0SYuNRyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-24T16:45:12Z",
+        "updatedAt": "2019-04-24T16:45:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m5gUKss6ElOVQC0yxs-ofnzb858",
+      "id": "UgwcXZ4jmO37SO6s6k94AaABAg.8u6ogM3yQXt8u6yKGw4Z37",
+      "snippet": {
+        "textDisplay": "Ah, adiciona tb um cshading_ID tb...",
+        "textOriginal": "Ah, adiciona tb um cshading_ID tb...",
+        "parentId": "UgwcXZ4jmO37SO6s6k94AaABAg",
+        "authorDisplayName": "Persio Medeiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRm0sMLmOO5ddjfq-6dcJfIybryYS2AjrDnxI6og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBzxaAlLTg07tNf3S9EZhBQ",
+        "authorChannelId": {
+          "value": "UCBzxaAlLTg07tNf3S9EZhBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-24T18:09:25Z",
+        "updatedAt": "2019-04-24T18:09:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "bzKnim9ncjeIGvPtOAV4nUHCJmY",
+      "id": "UgwcXZ4jmO37SO6s6k94AaABAg.8u6ogM3yQXt8u6yEGXs7sW",
+      "snippet": {
+        "textDisplay": "romulo, vai no render elements e adiciona o CShading beauty -> desce a aba coloca um valor de denoise menor (ou o que vc quiser). Adiciona quantos CShading beauty quiser/precisar. Na p\u00f3s produ\u00e7\u00e3o vc vai ter mais controle e ajustar o denoiser de acordo com o seu gosto. Acho que deve ajudar. Abra\u00e7o",
+        "textOriginal": "romulo, vai no render elements e adiciona o CShading beauty -> desce a aba coloca um valor de denoise menor (ou o que vc quiser). Adiciona quantos CShading beauty quiser/precisar. Na p\u00f3s produ\u00e7\u00e3o vc vai ter mais controle e ajustar o denoiser de acordo com o seu gosto. Acho que deve ajudar. Abra\u00e7o",
+        "parentId": "UgwcXZ4jmO37SO6s6k94AaABAg",
+        "authorDisplayName": "Persio Medeiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRm0sMLmOO5ddjfq-6dcJfIybryYS2AjrDnxI6og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBzxaAlLTg07tNf3S9EZhBQ",
+        "authorChannelId": {
+          "value": "UCBzxaAlLTg07tNf3S9EZhBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-24T18:08:36Z",
+        "updatedAt": "2019-04-24T18:08:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dNjz1zKezeuHGS4u6D-gnGv0aU8",
+  "id": "UgxCgw6C4XgD0tNXlsJ4AaABAg",
+  "snippet": {
+    "videoId": "wGqw2TzMb1w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZJxO3ncasqDUrnrClD7xZoLDNF8",
+      "id": "UgxCgw6C4XgD0tNXlsJ4AaABAg",
+      "snippet": {
+        "videoId": "wGqw2TzMb1w",
+        "textDisplay": "\u0422\u043e\u043f \u0435 \u043f\u0435\u0441\u0435\u0442\u0430\ud83d\udc8b\ud83d\udc8b\u2764\ufe0f",
+        "textOriginal": "\u0422\u043e\u043f \u0435 \u043f\u0435\u0441\u0435\u0442\u0430\ud83d\udc8b\ud83d\udc8b\u2764\ufe0f",
+        "authorDisplayName": "\u041b\u0438\u043b\u044f\u043d\u0430 \u041a\u0435\u0445\u0430\u0439\u043e\u0432\u0430",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwC_8kblCtNdgSPsSO5ELGc8eGGsn-9JsdGg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7S0CzDqSEfwNqN9sCJM4XQ",
+        "authorChannelId": {
+          "value": "UC7S0CzDqSEfwNqN9sCJM4XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-11-10T13:09:29Z",
+        "updatedAt": "2020-11-10T13:09:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cQOPwXq3hA_8T2yF7WxuVcNrjbc",
+      "id": "UgxCgw6C4XgD0tNXlsJ4AaABAg.9FspvdRGZ8B9QV1hRZgzpT",
+      "snippet": {
+        "textDisplay": "16bf8",
+        "textOriginal": "16bf8",
+        "parentId": "UgxCgw6C4XgD0tNXlsJ4AaABAg",
+        "authorDisplayName": "Florenta Florea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSI8Ii9JA-BtMAxcvolTd9Zl9MMsm4udnUtWY2Zl0YcqPqasusdF1y23IioICqI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmUXzuWSSIJKi5lvP9kQIfg",
+        "authorChannelId": {
+          "value": "UCmUXzuWSSIJKi5lvP9kQIfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-01T07:45:27Z",
+        "updatedAt": "2021-08-01T07:45:27Z"
+      }
+    }
+  ]
+}

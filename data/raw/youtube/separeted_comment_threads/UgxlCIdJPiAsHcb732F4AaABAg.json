@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VrZzzgINrgWrNCBL4BlyVkXIKFg",
+  "id": "UgxlCIdJPiAsHcb732F4AaABAg",
+  "snippet": {
+    "videoId": "HwTfhCakzLU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TK4kssYdY0y8tSLVHaEEf3AVpWQ",
+      "id": "UgxlCIdJPiAsHcb732F4AaABAg",
+      "snippet": {
+        "videoId": "HwTfhCakzLU",
+        "textDisplay": "Cara, eu n\u00e3o t\u00f4 conseguindo soldar o GND nesse ponto acima. Posso soldar nesse mesmo ponto, s\u00f3 que por baixo?",
+        "textOriginal": "Cara, eu n\u00e3o t\u00f4 conseguindo soldar o GND nesse ponto acima. Posso soldar nesse mesmo ponto, s\u00f3 que por baixo?",
+        "authorDisplayName": "\u30c4Isaac",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTR2OhkuDrq1v7aKnrw7IZgXb_GT-VkE2GQq-rKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1hAmMF_j72vzcIE4U9t7uA",
+        "authorChannelId": {
+          "value": "UC1hAmMF_j72vzcIE4U9t7uA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-16T10:55:08Z",
+        "updatedAt": "2020-10-16T10:55:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oH4pzuapfr0wyHAM--ICNthzHyc",
+      "id": "UgxlCIdJPiAsHcb732F4AaABAg.9EsDfjBGkt39EsaexvrsBx",
+      "snippet": {
+        "textDisplay": "Pode",
+        "textOriginal": "Pode",
+        "parentId": "UgxlCIdJPiAsHcb732F4AaABAg",
+        "authorDisplayName": "Hardware MKS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQmx0hmVmmMHxZaSmHh8bm96L3yBjZD0aRm6hcWYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOZPrS3EY5Z4fGuTmAxdMgA",
+        "authorChannelId": {
+          "value": "UCOZPrS3EY5Z4fGuTmAxdMgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-16T14:24:44Z",
+        "updatedAt": "2020-10-16T14:24:44Z"
+      }
+    }
+  ]
+}

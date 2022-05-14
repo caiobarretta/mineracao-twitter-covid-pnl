@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "36qCfWxH431ACoPJt5zrWiFXUZ8",
+  "id": "Ugy9RNimxPmd9VhOob94AaABAg",
+  "snippet": {
+    "videoId": "5-wRdv5CErs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YnUzRHZLO0v8qwB5DXF0bTmX2MA",
+      "id": "Ugy9RNimxPmd9VhOob94AaABAg",
+      "snippet": {
+        "videoId": "5-wRdv5CErs",
+        "textDisplay": "Tanda tanda akhir jaman",
+        "textOriginal": "Tanda tanda akhir jaman",
+        "authorDisplayName": "Muhamad Iqbal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/pDAwnvNzHgFITt1300A7r5DmeEp6tMVqpRjXrnUhbZm-tRJhdV2HfIULr3Ont9WV45wK9P64qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCELRpjZiLo2xG9mEqbRHmHw",
+        "authorChannelId": {
+          "value": "UCELRpjZiLo2xG9mEqbRHmHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-14T11:52:51Z",
+        "updatedAt": "2020-04-14T11:52:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0o-jCOpMy5mEQYptkxduXehnvLA",
+      "id": "Ugy9RNimxPmd9VhOob94AaABAg.97QyDcwjdsk9GR7L_cMqJ6",
+      "snippet": {
+        "textDisplay": "Sholat",
+        "textOriginal": "Sholat",
+        "parentId": "Ugy9RNimxPmd9VhOob94AaABAg",
+        "authorDisplayName": "q,",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iXNOlvMpVkB38XGeJTAYJfq1r1ZNOQH1OhZfUTPEgVyeVygB_nx2zhpbbjtMnF2uN9qt-VxzTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5t2rIZnAN0jewukGP45R2Q",
+        "authorChannelId": {
+          "value": "UC5t2rIZnAN0jewukGP45R2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-24T06:03:52Z",
+        "updatedAt": "2020-11-24T06:03:52Z"
+      }
+    }
+  ]
+}

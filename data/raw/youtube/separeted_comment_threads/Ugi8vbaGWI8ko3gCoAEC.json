@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ibr358o75r4wD9x71y__YHinTlc",
+  "id": "Ugi8vbaGWI8ko3gCoAEC",
+  "snippet": {
+    "videoId": "VOg7T9GSgc0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "K_pyenGgSeMlx5cBPhjuOQ1xKAk",
+      "id": "Ugi8vbaGWI8ko3gCoAEC",
+      "snippet": {
+        "videoId": "VOg7T9GSgc0",
+        "textDisplay": "I love Corona. Its very intuitive and well designed. Is GPU acceleration being considered?\n\nRedshift is my go to renderer now because of the speed alone.",
+        "textOriginal": "I love Corona. Its very intuitive and well designed. Is GPU acceleration being considered?\n\nRedshift is my go to renderer now because of the speed alone.",
+        "authorDisplayName": "Petar Stamenkovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdoSvnKeOxPO9VwLytgiI5RLcsikrZuUR4gHFYaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChd8iE8mpIpUIHKJTpd_8Ww",
+        "authorChannelId": {
+          "value": "UChd8iE8mpIpUIHKJTpd_8Ww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-04-24T12:45:20Z",
+        "updatedAt": "2017-04-24T12:45:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ad7TTnZhDDUtSoycJdAzItb0h0U",
+      "id": "Ugi8vbaGWI8ko3gCoAEC.8RjgwkicXFJ8Sfc-xGhWuj",
+      "snippet": {
+        "textDisplay": "Yes but Redshift renders look terrible.  I looked at their gallery and didn't see any nice images.",
+        "textOriginal": "Yes but Redshift renders look terrible.  I looked at their gallery and didn't see any nice images.",
+        "parentId": "Ugi8vbaGWI8ko3gCoAEC",
+        "authorDisplayName": "Jez I AM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0D6po0Icymlgqx2YyiEjFwBlYA7VUsZzXnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuuJgO5-Lxv3WULiT-quYow",
+        "authorChannelId": {
+          "value": "UCuuJgO5-Lxv3WULiT-quYow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-05-17T19:16:39Z",
+        "updatedAt": "2017-05-17T19:16:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "kwy4pJi2J3R-f8w6Lirf-yY0HUc",
+      "id": "Ugi8vbaGWI8ko3gCoAEC.8RjgwkicXFJ8RjxVEt17Ct",
+      "snippet": {
+        "textDisplay": "You\u2019re aware of this, but I want to put in words why GPU acceleration is relevant to me. I have an i7 4770k CPU with a GTX 970 GPU and my scenes aren\u2019t big, always below 100 million polygons with only 2k textures.\n\nFor me Redshift is on average 5x faster than Corona. I could get a new ryzen 1700 system for 600e for the whole system- motherboard and RAM included. That would make Corona about 2x faster. With that it would still be more than two times slower than Redshift is right now. For 400e I could get a GTX 1070 and nearly double Redshift performance. Not to mention how much easier it is to plug in a new GPU in the current system and double the speed yet again with no additional cost, save for the new GPU.\n\nPrice to performance might look different on the higher end of the spectrum, where 8-12gb of video ram isn\u2019t enough for rendering. However, for most people, most of the time GPU rendering wins easily.\n\nThank you for reading.",
+        "textOriginal": "You\u2019re aware of this, but I want to put in words why GPU acceleration is relevant to me. I have an i7 4770k CPU with a GTX 970 GPU and my scenes aren\u2019t big, always below 100 million polygons with only 2k textures.\n\nFor me Redshift is on average 5x faster than Corona. I could get a new ryzen 1700 system for 600e for the whole system- motherboard and RAM included. That would make Corona about 2x faster. With that it would still be more than two times slower than Redshift is right now. For 400e I could get a GTX 1070 and nearly double Redshift performance. Not to mention how much easier it is to plug in a new GPU in the current system and double the speed yet again with no additional cost, save for the new GPU.\n\nPrice to performance might look different on the higher end of the spectrum, where 8-12gb of video ram isn\u2019t enough for rendering. However, for most people, most of the time GPU rendering wins easily.\n\nThank you for reading.",
+        "parentId": "Ugi8vbaGWI8ko3gCoAEC",
+        "authorDisplayName": "Petar Stamenkovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdoSvnKeOxPO9VwLytgiI5RLcsikrZuUR4gHFYaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChd8iE8mpIpUIHKJTpd_8Ww",
+        "authorChannelId": {
+          "value": "UChd8iE8mpIpUIHKJTpd_8Ww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2017-04-24T15:09:59Z",
+        "updatedAt": "2017-04-24T15:09:59Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Fs59JOnwNzUtLaMsoxHxtVMW_3s",
+      "id": "Ugi8vbaGWI8ko3gCoAEC.8RjgwkicXFJ8RjktdjzmhQ",
+      "snippet": {
+        "textDisplay": "Thank you for answering. I'm subscribed to your YT channel and I watch everything you post. Thank you :)",
+        "textOriginal": "Thank you for answering. I'm subscribed to your YT channel and I watch everything you post. Thank you :)",
+        "parentId": "Ugi8vbaGWI8ko3gCoAEC",
+        "authorDisplayName": "Petar Stamenkovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdoSvnKeOxPO9VwLytgiI5RLcsikrZuUR4gHFYaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChd8iE8mpIpUIHKJTpd_8Ww",
+        "authorChannelId": {
+          "value": "UChd8iE8mpIpUIHKJTpd_8Ww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-04-24T13:19:51Z",
+        "updatedAt": "2017-04-24T13:19:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "X1uomLRZh6ro7McmW51ADcmkKPQ",
+      "id": "Ugi8vbaGWI8ko3gCoAEC.8RjgwkicXFJ8RjkgJkUEmB",
+      "snippet": {
+        "textDisplay": "Hi, Corona is CPU-only, and there are no plans to change it in any foreseeable future. What we may consider is offloading some post-processing tasks to the GPU - for example bloom and glare. We are also planning to release a comprehensive blog article soon, explaining why we strongly believe in CPU rendering.",
+        "textOriginal": "Hi, Corona is CPU-only, and there are no plans to change it in any foreseeable future. What we may consider is offloading some post-processing tasks to the GPU - for example bloom and glare. We are also planning to release a comprehensive blog article soon, explaining why we strongly believe in CPU rendering.",
+        "parentId": "Ugi8vbaGWI8ko3gCoAEC",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2017-04-24T13:18:02Z",
+        "updatedAt": "2017-04-24T13:18:02Z"
+      }
+    }
+  ]
+}

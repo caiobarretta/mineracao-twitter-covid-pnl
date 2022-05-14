@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3RLqS8P0nf6KLHHKlwdtSyBPevo",
+  "id": "UgxOsREZ6WHWEI5JQw54AaABAg",
+  "snippet": {
+    "videoId": "fx3jxM5q5_4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OSR4Hy9EcUgYxwB8DU5AhNBJTsQ",
+      "id": "UgxOsREZ6WHWEI5JQw54AaABAg",
+      "snippet": {
+        "videoId": "fx3jxM5q5_4",
+        "textDisplay": "Maria Edit Grey ficou topper kkkkkkkkjj",
+        "textOriginal": "Maria Edit Grey ficou topper kkkkkkkkjj",
+        "authorDisplayName": "Henrique Gabriel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWetQ0aJodfbFuVMdmHDboj2p9wkhzNC2Etwn_1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCym_WH5SR-05kKCYojdbufA",
+        "authorChannelId": {
+          "value": "UCym_WH5SR-05kKCYojdbufA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2018-07-13T00:27:22Z",
+        "updatedAt": "2018-07-13T00:27:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s306DCGjzFzOqf5psuECGwJS7eE",
+      "id": "UgxOsREZ6WHWEI5JQw54AaABAg.8icDE6bgnms8icDJNBZpi1",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 s\u00f3 ela para nos salvar!!!",
+        "textOriginal": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 s\u00f3 ela para nos salvar!!!",
+        "parentId": "UgxOsREZ6WHWEI5JQw54AaABAg",
+        "authorDisplayName": "Agora, Disserte!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-rEfMw-oOkoG-4PsdbJx0O9HJRzVnhW398dMJeg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCReIDcUmvpx2ttRcaJShLIQ",
+        "authorChannelId": {
+          "value": "UCReIDcUmvpx2ttRcaJShLIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-13T00:28:05Z",
+        "updatedAt": "2018-07-13T00:28:05Z"
+      }
+    }
+  ]
+}

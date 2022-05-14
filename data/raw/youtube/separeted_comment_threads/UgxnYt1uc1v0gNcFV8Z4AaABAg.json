@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1-JTiaHpWklNVmwcQHHZ2RSh2Vw",
+  "id": "UgxnYt1uc1v0gNcFV8Z4AaABAg",
+  "snippet": {
+    "videoId": "0egtHw2GV6c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qFMbwjKkPHJkJdOUozLO42FlQvc",
+      "id": "UgxnYt1uc1v0gNcFV8Z4AaABAg",
+      "snippet": {
+        "videoId": "0egtHw2GV6c",
+        "textDisplay": "Excelente v\u00eddeo!! Vim pelo canal do Rafa \u263a\ufe0f",
+        "textOriginal": "Excelente v\u00eddeo!! Vim pelo canal do Rafa \u263a\ufe0f",
+        "authorDisplayName": "Alex S",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsJ10v9YyzTT-iBl-amDKU2zfgs882tv05b3B-YA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCK0N-tsX6Wo6vDnMcV6a2Uw",
+        "authorChannelId": {
+          "value": "UCK0N-tsX6Wo6vDnMcV6a2Uw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-08T23:12:51Z",
+        "updatedAt": "2022-05-08T23:12:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xqS3SZg8GCtQALDa0AIVujvyChE",
+      "id": "UgxnYt1uc1v0gNcFV8Z4AaABAg.9amfPt5cfwx9aofWS_wbg2",
+      "snippet": {
+        "textDisplay": "obrigada e seja muito bem-vindo! :)",
+        "textOriginal": "obrigada e seja muito bem-vindo! :)",
+        "parentId": "UgxnYt1uc1v0gNcFV8Z4AaABAg",
+        "authorDisplayName": "Europeia no Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t3Uotyvbzdug7-olXo1YnPvgUGf-V0NFlwEP9C5donudwbFEbSJ467QywtglC1LRbNViJsxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu58FZdbhOURLjgD3uYXvPw",
+        "authorChannelId": {
+          "value": "UCu58FZdbhOURLjgD3uYXvPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T17:52:14Z",
+        "updatedAt": "2022-05-09T17:52:14Z"
+      }
+    }
+  ]
+}

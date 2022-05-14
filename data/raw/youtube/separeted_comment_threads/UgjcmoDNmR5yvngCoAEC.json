@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a8YtwH58FCs21xGdp7gLLxGO5rw",
+  "id": "UgjcmoDNmR5yvngCoAEC",
+  "snippet": {
+    "videoId": "x1DcMVSXzBE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sfNqx-ENGN1tN8e8HnSK6bwlBZg",
+      "id": "UgjcmoDNmR5yvngCoAEC",
+      "snippet": {
+        "videoId": "x1DcMVSXzBE",
+        "textDisplay": "do you need to have a mobile device I do have acess to an ipad mini and ipod but that's apple device does it work still :/ \u203d",
+        "textOriginal": "do you need to have a mobile device I do have acess to an ipad mini and ipod but that's apple device does it work still :/ \u203d",
+        "authorDisplayName": "jumpyjibely",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnH896tSQ7I5Ug17AUKND85gj4x-_MBJHEgwvLAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmtijNM-dsd5svp6SWK4tXA",
+        "authorChannelId": {
+          "value": "UCmtijNM-dsd5svp6SWK4tXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-05-22T22:07:31Z",
+        "updatedAt": "2015-05-22T22:07:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j0nukHxUJiIhfmCVNvGHTIevCpU",
+      "id": "UgjcmoDNmR5yvngCoAEC.8-TXSBIUiBz7-OW8-oa2_b",
+      "snippet": {
+        "textDisplay": "i realized that :D it was a dumb comment.",
+        "textOriginal": "i realized that :D it was a dumb comment.",
+        "parentId": "UgjcmoDNmR5yvngCoAEC",
+        "authorDisplayName": "jumpyjibely",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnH896tSQ7I5Ug17AUKND85gj4x-_MBJHEgwvLAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmtijNM-dsd5svp6SWK4tXA",
+        "authorChannelId": {
+          "value": "UCmtijNM-dsd5svp6SWK4tXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-05-25T19:58:07Z",
+        "updatedAt": "2015-05-25T19:58:07Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "p9mRodVSUtFC7QyA-ukiI0dTgpM",
+      "id": "UgjcmoDNmR5yvngCoAEC.8-TXSBIUiBz7-MipreJAzY",
+      "snippet": {
+        "textDisplay": "@jumpyjibely You can code in Corona without a device. You'd just use the simulator.",
+        "textOriginal": "@jumpyjibely You can code in Corona without a device. You'd just use the simulator.",
+        "parentId": "UgjcmoDNmR5yvngCoAEC",
+        "authorDisplayName": "cheetomoskeeto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSLB-Zui5qIDxU2tHxztmAfW2BXRDidqp5yKgZC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-RatzHn1ukuuINLqnbBYeg",
+        "authorChannelId": {
+          "value": "UC-RatzHn1ukuuINLqnbBYeg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-05-25T03:19:21Z",
+        "updatedAt": "2015-05-25T03:19:21Z"
+      }
+    }
+  ]
+}

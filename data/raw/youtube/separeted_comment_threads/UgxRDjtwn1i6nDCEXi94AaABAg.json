@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "USj_Op5ymRJGfXuYJ6FFj2mYYZ8",
+  "id": "UgxRDjtwn1i6nDCEXi94AaABAg",
+  "snippet": {
+    "videoId": "DWVD8lVVFR0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rn3TIhH0Qstgoa2zGbcCS2a_uZ8",
+      "id": "UgxRDjtwn1i6nDCEXi94AaABAg",
+      "snippet": {
+        "videoId": "DWVD8lVVFR0",
+        "textDisplay": "Melhor v\u00eddeo sobre esse momento que estamos passando",
+        "textOriginal": "Melhor v\u00eddeo sobre esse momento que estamos passando",
+        "authorDisplayName": "Marcello Immbrizi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR51tHv4LYNfxv5CGuat70ypiUZ3OwPgxtEnmEpnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBambL-GToXod01RAKtHnCQ",
+        "authorChannelId": {
+          "value": "UCBambL-GToXod01RAKtHnCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-03T13:47:45Z",
+        "updatedAt": "2021-01-03T13:47:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hztL1rECvtyrKiFxy_yZ9iAz3Do",
+      "id": "UgxRDjtwn1i6nDCEXi94AaABAg.9I2xEDSNi5W9I8ng0LCgNe",
+      "snippet": {
+        "textDisplay": "Obrigado amig\u00e3o!",
+        "textOriginal": "Obrigado amig\u00e3o!",
+        "parentId": "UgxRDjtwn1i6nDCEXi94AaABAg",
+        "authorDisplayName": "Node Studio Treinamentos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTp3CnCvANG3_JKqEgmDomVltCNUGsJjWYr0a7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw",
+        "authorChannelId": {
+          "value": "UCZZ0NTtOgsLIT4Skr6GUpAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-05T20:19:45Z",
+        "updatedAt": "2021-01-05T20:19:45Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tJw3d7Ivb3MECfhtGL64c04HRZw",
+  "id": "UgzBSyWS6exYed2Zrex4AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KjRbPfqo_Egk-pqX2a1XD4Mtd9Y",
+      "id": "UgzBSyWS6exYed2Zrex4AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Quantas semanas voc\u00ea teve seu beb\u00ea??",
+        "textOriginal": "Quantas semanas voc\u00ea teve seu beb\u00ea??",
+        "authorDisplayName": "Shirlaine Laine",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVVKb58tjttOrtE8cPs3e9Kso10wnHOl3PLQXp1es=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClNLFBykxz7CcnyPFo_CWbw",
+        "authorChannelId": {
+          "value": "UClNLFBykxz7CcnyPFo_CWbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-29T23:16:58Z",
+        "updatedAt": "2020-10-29T23:16:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k4N75A50TMN6hdHmwI6W3DWCZtM",
+      "id": "UgzBSyWS6exYed2Zrex4AaABAg.9FQ0uRMo72P9GOPO6GtrpY",
+      "snippet": {
+        "textDisplay": "40 semanas",
+        "textOriginal": "40 semanas",
+        "parentId": "UgzBSyWS6exYed2Zrex4AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-23T04:43:46Z",
+        "updatedAt": "2020-11-23T04:43:46Z"
+      }
+    }
+  ]
+}

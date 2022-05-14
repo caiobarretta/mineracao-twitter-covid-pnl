@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FHjhp-34uFKDpalFTkF-cMKIpJY",
+  "id": "Ugxc1uKR-JbtLG2N7Gx4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EJFyq4eqC9fkpxJaCORgJPfxA8U",
+      "id": "Ugxc1uKR-JbtLG2N7Gx4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "Estou ha 3 dias tentando conectar no app e nao entra indisponivel",
+        "textOriginal": "Estou ha 3 dias tentando conectar no app e nao entra indisponivel",
+        "authorDisplayName": "Patricia Pedersoli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZqZ6WBOWgSLxDjT0w8Ty1kKCybgReaMThE2vCLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl1JvzYTL4agg13NBZMV26g",
+        "authorChannelId": {
+          "value": "UCl1JvzYTL4agg13NBZMV26g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-30T17:28:59Z",
+        "updatedAt": "2021-10-30T17:28:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Oy3wQvS2_VTdPH18MQj5u7-U344",
+      "id": "Ugxc1uKR-JbtLG2N7Gx4AaABAg.9U7p112-vFH9U7x-jHsjfI",
+      "snippet": {
+        "textDisplay": "J\u00e1 tentou pelo site ?",
+        "textOriginal": "J\u00e1 tentou pelo site ?",
+        "parentId": "Ugxc1uKR-JbtLG2N7Gx4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-30T18:38:42Z",
+        "updatedAt": "2021-10-30T18:38:42Z"
+      }
+    }
+  ]
+}

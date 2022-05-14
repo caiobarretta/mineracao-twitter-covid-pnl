@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LH_Pwy9h_y8Sd7ErnVVHtfsN7so",
+  "id": "UgwuoS9zd35cs_MzsNx4AaABAg",
+  "snippet": {
+    "videoId": "2ufK-07VTG8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U29k9d1xT6SvRyrAXBB6avg3obM",
+      "id": "UgwuoS9zd35cs_MzsNx4AaABAg",
+      "snippet": {
+        "videoId": "2ufK-07VTG8",
+        "textDisplay": "Kita perlu menemukan developer nya, mau dikasih ratting 5",
+        "textOriginal": "Kita perlu menemukan developer nya, mau dikasih ratting 5",
+        "authorDisplayName": "Fahank Hank",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSZBN8ww3k0KRY6h7NlhxIWeBu7y2x9msXkak=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA89Ep-y3qFI5vRRXDEIbIw",
+        "authorChannelId": {
+          "value": "UCA89Ep-y3qFI5vRRXDEIbIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 24,
+        "publishedAt": "2021-07-08T19:37:04Z",
+        "updatedAt": "2021-07-08T19:37:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zBKou3yU45_P24EBVgEsnfudFdQ",
+      "id": "UgwuoS9zd35cs_MzsNx4AaABAg.9PYW3SJYaDO9RgrwRuhWpl",
+      "snippet": {
+        "textDisplay": "Rating 1 aja, biar bangkrut",
+        "textOriginal": "Rating 1 aja, biar bangkrut",
+        "parentId": "UgwuoS9zd35cs_MzsNx4AaABAg",
+        "authorDisplayName": "Kartun Land",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIrXcRtmnvarDqArM16cvr0gsXW-bgWu8k7Xf6Bw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvOlt-yp85atXYrfUXR2Hzw",
+        "authorChannelId": {
+          "value": "UCvOlt-yp85atXYrfUXR2Hzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-31T03:52:54Z",
+        "updatedAt": "2021-08-31T03:52:54Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0rNW3JFEKoFs6xLlqpIwJIkDQNU",
+  "id": "UgzYM4-voYBD8d_Z3F14AaABAg",
+  "snippet": {
+    "videoId": "6hS3wT55m3g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lpC2pZ1lBdhAB3JUXdjiCzOy7Es",
+      "id": "UgzYM4-voYBD8d_Z3F14AaABAg",
+      "snippet": {
+        "videoId": "6hS3wT55m3g",
+        "textDisplay": "developer terajin sedunia. update trus",
+        "textOriginal": "developer terajin sedunia. update trus",
+        "authorDisplayName": "bill jobs",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEQfQRAWJUjgDkDX-zHpj_Jqr43ZyHDqk83w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDQeEuOY3vKtnjxGlI3L8XQ",
+        "authorChannelId": {
+          "value": "UCDQeEuOY3vKtnjxGlI3L8XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 40,
+        "publishedAt": "2021-11-01T06:54:13Z",
+        "updatedAt": "2021-11-01T06:54:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zbZjUxip-0guKmR542xfFgGBt6o",
+      "id": "UgzYM4-voYBD8d_Z3F14AaABAg.9UBpydoA_Od9UEyva6Wv1L",
+      "snippet": {
+        "textDisplay": "bisnis",
+        "textOriginal": "bisnis",
+        "parentId": "UgzYM4-voYBD8d_Z3F14AaABAg",
+        "authorDisplayName": "Laila Nur",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQmTQmkautfZTOT4R867NqovJLu8NjBj96a8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTS0o4-bOo3AMVOil0XFSxg",
+        "authorChannelId": {
+          "value": "UCTS0o4-bOo3AMVOil0XFSxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-02T12:10:10Z",
+        "updatedAt": "2021-11-02T12:10:10Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ptRtTGQEr2RV_eR1GRyG-C4cH_Q",
+  "id": "UgzVcblQ82Mwjd1D6I94AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KpBjvfhmgQxRqcpXtfIiMovwwjU",
+      "id": "UgzVcblQ82Mwjd1D6I94AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Voc\u00ea \u00e9 maravilhosa \u2764\ufe0f",
+        "textOriginal": "Voc\u00ea \u00e9 maravilhosa \u2764\ufe0f",
+        "authorDisplayName": "Larissa Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvVKiRA_3n_sDC1pf6QRpK1GpbXH0nZ2ufC4THnw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfMng-hB5evG8SSqN7TBc8w",
+        "authorChannelId": {
+          "value": "UCfMng-hB5evG8SSqN7TBc8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-08T23:49:33Z",
+        "updatedAt": "2020-05-08T23:49:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gmTQIMPA4x64rTAvjN3_RS6eRrE",
+      "id": "UgzVcblQ82Mwjd1D6I94AaABAg.98Q2JuSmlaP98ZwNI943va",
+      "snippet": {
+        "textDisplay": "Larissa Alves obrigada\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "textOriginal": "Larissa Alves obrigada\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "parentId": "UgzVcblQ82Mwjd1D6I94AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-12T20:01:15Z",
+        "updatedAt": "2020-05-12T20:01:15Z"
+      }
+    }
+  ]
+}

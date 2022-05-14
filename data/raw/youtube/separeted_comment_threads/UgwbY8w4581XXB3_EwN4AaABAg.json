@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-CUFyOYcchRliMwmNpyAXi_HSCA",
+  "id": "UgwbY8w4581XXB3_EwN4AaABAg",
+  "snippet": {
+    "videoId": "xD-Kv-IhEZo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "deFhRjj4tRYW0dBKAEIndshfUdE",
+      "id": "UgwbY8w4581XXB3_EwN4AaABAg",
+      "snippet": {
+        "videoId": "xD-Kv-IhEZo",
+        "textDisplay": "13 Lula",
+        "textOriginal": "13 Lula",
+        "authorDisplayName": "Carlos Borromeu de Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMalbQV5H1MzYMs68eAV4mm82EjgTQNjA9Fg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChocfFvdOV9eeCDy1jKY-HA",
+        "authorChannelId": {
+          "value": "UChocfFvdOV9eeCDy1jKY-HA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T12:00:12Z",
+        "updatedAt": "2022-05-11T12:00:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cRmYnBAw7H9ZT0dq-aptaQLIDgU",
+      "id": "UgwbY8w4581XXB3_EwN4AaABAg.9atBomKaT_L9atSKIWhXTf",
+      "snippet": {
+        "textDisplay": "Na cadeia",
+        "textOriginal": "Na cadeia",
+        "parentId": "UgwbY8w4581XXB3_EwN4AaABAg",
+        "authorDisplayName": "Marta Maria Poli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-8sIUUo32QxXZrR-MIHbAQ6v1U3waPrKgxA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKzSUq-Tvy85exRdvai6VcA",
+        "authorChannelId": {
+          "value": "UCKzSUq-Tvy85exRdvai6VcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T14:24:26Z",
+        "updatedAt": "2022-05-11T14:24:26Z"
+      }
+    }
+  ]
+}

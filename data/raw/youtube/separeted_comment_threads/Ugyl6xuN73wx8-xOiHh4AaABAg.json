@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1vLQ39zPmyHOPKX3gEIl9ZAq1Xw",
+  "id": "Ugyl6xuN73wx8-xOiHh4AaABAg",
+  "snippet": {
+    "videoId": "VvFd9XpDL5g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "a7etxhmBu06H2ZiPesc4OtLDysU",
+      "id": "Ugyl6xuN73wx8-xOiHh4AaABAg",
+      "snippet": {
+        "videoId": "VvFd9XpDL5g",
+        "textDisplay": "Apoiado Putin",
+        "textOriginal": "Apoiado Putin",
+        "authorDisplayName": "Junior Freitas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUMS4qbDW2Jd6qBH4yicEX1gsUoYPur_pIUGac=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfi1oxfXIpAqa0itHFUsOvQ",
+        "authorChannelId": {
+          "value": "UCfi1oxfXIpAqa0itHFUsOvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T11:46:29Z",
+        "updatedAt": "2022-05-10T11:46:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W08TUV6zuXt2wSDMULZlztgTstQ",
+      "id": "Ugyl6xuN73wx8-xOiHh4AaABAg.9aqaSRZAjWc9ariWa1SQzX",
+      "snippet": {
+        "textDisplay": "D\u00e1 pra ele bartola",
+        "textOriginal": "D\u00e1 pra ele bartola",
+        "parentId": "Ugyl6xuN73wx8-xOiHh4AaABAg",
+        "authorDisplayName": "celso da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSr94ExkaIHk6QIToGkcKPMKtikFboZ7zZVyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxrVVYTHBhpqwtrdivFNmDQ",
+        "authorChannelId": {
+          "value": "UCxrVVYTHBhpqwtrdivFNmDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T22:16:11Z",
+        "updatedAt": "2022-05-10T22:16:11Z"
+      }
+    }
+  ]
+}

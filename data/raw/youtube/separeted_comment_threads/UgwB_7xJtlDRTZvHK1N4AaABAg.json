@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dkYPV2JapLRf1PQLlwfHtKvt-ao",
+  "id": "UgwB_7xJtlDRTZvHK1N4AaABAg",
+  "snippet": {
+    "videoId": "NN7lbPW8V7A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nuR0Z6ZJc1Z1QQO18w_OF6Wny-U",
+      "id": "UgwB_7xJtlDRTZvHK1N4AaABAg",
+      "snippet": {
+        "videoId": "NN7lbPW8V7A",
+        "textDisplay": "Warum nicht mal was positives senden?Warum noch mehr Angst machen?",
+        "textOriginal": "Warum nicht mal was positives senden?Warum noch mehr Angst machen?",
+        "authorDisplayName": "Michaela Diek",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2y05YsLOE5jmCNGyiqox5qbJzjSDK7jzRzQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf0WlY9UTECbg1dDvblYMrQ",
+        "authorChannelId": {
+          "value": "UCf0WlY9UTECbg1dDvblYMrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-28T16:08:34Z",
+        "updatedAt": "2022-03-28T16:08:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "N-gSUVlK1R9-MdBL3wA5QASh54w",
+      "id": "UgwB_7xJtlDRTZvHK1N4AaABAg.9_7LGRJCVxv9_Of5OCR_02",
+      "snippet": {
+        "textDisplay": "Es geht uns ums Informieren, nicht ums Angst machen.",
+        "textOriginal": "Es geht uns ums Informieren, nicht ums Angst machen.",
+        "parentId": "UgwB_7xJtlDRTZvHK1N4AaABAg",
+        "authorDisplayName": "health tv",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiYNILRBjiVObAxyjLqtyIBP5n7sMJ9gdIjoqDlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChgxVNNWRXK7QvepLpT7oNA",
+        "authorChannelId": {
+          "value": "UChgxVNNWRXK7QvepLpT7oNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-04T09:37:39Z",
+        "updatedAt": "2022-04-04T09:37:39Z"
+      }
+    }
+  ]
+}

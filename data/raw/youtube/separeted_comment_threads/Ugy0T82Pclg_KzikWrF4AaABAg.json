@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "s5KH02SGg7faOdBggUvOWYXx0-Y",
+  "id": "Ugy0T82Pclg_KzikWrF4AaABAg",
+  "snippet": {
+    "videoId": "7Eg0Rig9xIo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yPUBe-JVQtSaOg7zgT_229Jb1yY",
+      "id": "Ugy0T82Pclg_KzikWrF4AaABAg",
+      "snippet": {
+        "videoId": "7Eg0Rig9xIo",
+        "textDisplay": "26/02/2020\n\n04/03/2021\ud83d\ude37",
+        "textOriginal": "26/02/2020\n\n04/03/2021\ud83d\ude37",
+        "authorDisplayName": "Marlus Moreira de souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQEXydwGAZ72t9el7pzBYKK_R4MbeTGsVl22wQu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKv6DqQoHhY8d7g_OR5qe2A",
+        "authorChannelId": {
+          "value": "UCKv6DqQoHhY8d7g_OR5qe2A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-04T18:01:54Z",
+        "updatedAt": "2021-03-04T18:01:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4qwIEzKiMJsRKEwj6LzgtjH0c8c",
+      "id": "Ugy0T82Pclg_KzikWrF4AaABAg.9KTu09H1MUs9LSTYK0gEPD",
+      "snippet": {
+        "textDisplay": "Boomer",
+        "textOriginal": "Boomer",
+        "parentId": "Ugy0T82Pclg_KzikWrF4AaABAg",
+        "authorDisplayName": "Cassia Aparecida Santanna Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzpwuetFpBgyLGVCQUd9S9Ph68Pex1w5aZqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCs233KTsIh_CfTOimNfRGFA",
+        "authorChannelId": {
+          "value": "UCs233KTsIh_CfTOimNfRGFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-29T01:14:03Z",
+        "updatedAt": "2021-03-29T01:14:03Z"
+      }
+    }
+  ]
+}

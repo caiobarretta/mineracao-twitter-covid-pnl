@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A0pjQ3Ab8ItIzHj2lI1wtWknqk4",
+  "id": "UgzzkJVVXknM9D5jwx94AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "InRw3cqQ_pmr5-Hg7qglCspqWoc",
+      "id": "UgzzkJVVXknM9D5jwx94AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Voc\u00ea foi incr\u00edvel em todo momento, mam\u00e3e guerreira",
+        "textOriginal": "Voc\u00ea foi incr\u00edvel em todo momento, mam\u00e3e guerreira",
+        "authorDisplayName": "David Correia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIQJ4keS1Aq6H9LN9iYXtY0cVjbXWZA9Rd0p0emw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9yAFbitgbXehwVvldbmVBw",
+        "authorChannelId": {
+          "value": "UC9yAFbitgbXehwVvldbmVBw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-09T01:49:51Z",
+        "updatedAt": "2020-05-09T01:49:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SRKR5I_9n7lr0K5-lKz2DR-9qWA",
+      "id": "UgzzkJVVXknM9D5jwx94AaABAg.98QG4wtBMlQ98ZwVMuyZp4",
+      "snippet": {
+        "textDisplay": "David Correia obrigadaaaa \ud83e\udd70",
+        "textOriginal": "David Correia obrigadaaaa \ud83e\udd70",
+        "parentId": "UgzzkJVVXknM9D5jwx94AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-12T20:02:21Z",
+        "updatedAt": "2020-05-12T20:02:21Z"
+      }
+    }
+  ]
+}

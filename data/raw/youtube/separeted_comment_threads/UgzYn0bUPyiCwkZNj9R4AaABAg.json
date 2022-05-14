@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DBlvt84AGaQFOif8o9dqd2FaC-8",
+  "id": "UgzYn0bUPyiCwkZNj9R4AaABAg",
+  "snippet": {
+    "videoId": "80O41IHnFk4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eNPS2Lr3ShMoSWafl1-70Xmq8Vc",
+      "id": "UgzYn0bUPyiCwkZNj9R4AaABAg",
+      "snippet": {
+        "videoId": "80O41IHnFk4",
+        "textDisplay": "\ud83e\udd70\ud83e\udd70",
+        "textOriginal": "\ud83e\udd70\ud83e\udd70",
+        "authorDisplayName": "Manoela Marino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRP8Iw5EqkysmO8zq5h0SAQCfN0KnRsdKnKkHWR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpz37V3THy779aD_nggHyDw",
+        "authorChannelId": {
+          "value": "UCpz37V3THy779aD_nggHyDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-23T19:53:08Z",
+        "updatedAt": "2021-06-23T19:53:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2QMANND4HotYr-m85bB9_DjnD-E",
+      "id": "UgzYn0bUPyiCwkZNj9R4AaABAg.9OwuywPEFno9Oz3d1slYt-",
+      "snippet": {
+        "textDisplay": "\u00c9 sempre bom te ver por aqui \ud83d\ude0d",
+        "textOriginal": "\u00c9 sempre bom te ver por aqui \ud83d\ude0d",
+        "parentId": "UgzYn0bUPyiCwkZNj9R4AaABAg",
+        "authorDisplayName": "Andriely Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAK2OGZWiCrPHbb1s-ZNDGsM4vLdW2k7swVr40=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr8lgUSBTGoiVR9FpJDDXYQ",
+        "authorChannelId": {
+          "value": "UCr8lgUSBTGoiVR9FpJDDXYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-24T15:56:00Z",
+        "updatedAt": "2021-06-24T15:56:00Z"
+      }
+    }
+  ]
+}

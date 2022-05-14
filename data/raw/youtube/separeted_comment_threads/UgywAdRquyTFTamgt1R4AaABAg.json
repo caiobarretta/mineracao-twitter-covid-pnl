@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IvqfnyUzNXakwBhj1yyZD1zBxWI",
+  "id": "UgywAdRquyTFTamgt1R4AaABAg",
+  "snippet": {
+    "videoId": "4fp7qGmTa6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rVqnJIYym8-ZDh8q4ZDBohGI5Iw",
+      "id": "UgywAdRquyTFTamgt1R4AaABAg",
+      "snippet": {
+        "videoId": "4fp7qGmTa6Q",
+        "textDisplay": "N\u00e3o aparece as vacinas que tomei.  N\u00e3o sei mais o que fazer.",
+        "textOriginal": "N\u00e3o aparece as vacinas que tomei.  N\u00e3o sei mais o que fazer.",
+        "authorDisplayName": "Anderson Salvatore",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDn6Bcbxjybo2qdVa8ZczNW90iL-YNZhAtC-aWBKk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu835fD_BAzobY4Px4IsOcw",
+        "authorChannelId": {
+          "value": "UCu835fD_BAzobY4Px4IsOcw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T22:06:48Z",
+        "updatedAt": "2022-05-09T22:06:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rJ0HIl7xOtElVY6uLkZfxhQMFzk",
+      "id": "UgywAdRquyTFTamgt1R4AaABAg.9ap7e-Hp_nq9apCA4mZytB",
+      "snippet": {
+        "textDisplay": "Ir no posto regularizar",
+        "textOriginal": "Ir no posto regularizar",
+        "parentId": "UgywAdRquyTFTamgt1R4AaABAg",
+        "authorDisplayName": "Vai com Bruno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScI5f0R9qRREa-5FMcG1lsfz_sRnTb90YwRStp_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQTqGw-Kf6zdkzdLNGmCXA",
+        "authorChannelId": {
+          "value": "UChQTqGw-Kf6zdkzdLNGmCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T22:46:16Z",
+        "updatedAt": "2022-05-09T22:46:16Z"
+      }
+    }
+  ]
+}

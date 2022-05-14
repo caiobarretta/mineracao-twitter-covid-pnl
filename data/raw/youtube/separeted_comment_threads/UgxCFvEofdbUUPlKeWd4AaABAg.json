@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "f-_Sdx4-raGa_eluC02Ccwjxc34",
+  "id": "UgxCFvEofdbUUPlKeWd4AaABAg",
+  "snippet": {
+    "videoId": "pYLjbTxeQOs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZAHXXR3qgSc_jAk_veQpBor9BMc",
+      "id": "UgxCFvEofdbUUPlKeWd4AaABAg",
+      "snippet": {
+        "videoId": "pYLjbTxeQOs",
+        "textDisplay": "Prova amanh\u00e3 nervosaaaaa",
+        "textOriginal": "Prova amanh\u00e3 nervosaaaaa",
+        "authorDisplayName": "Isabela Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHxS3cpiiyBCrHdCwlEqzvfWZAw51_q2nLef4U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2ptSZk8frqle9KN5uj0j6w",
+        "authorChannelId": {
+          "value": "UC2ptSZk8frqle9KN5uj0j6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-10-01T03:11:44Z",
+        "updatedAt": "2020-10-01T03:11:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5jZWuHZ0bUxdoExQwYKz9CceLt0",
+      "id": "UgxCFvEofdbUUPlKeWd4AaABAg.9EFli_gTU6t9PJZPVecwQY",
+      "snippet": {
+        "textDisplay": "Como foi a prova?",
+        "textOriginal": "Como foi a prova?",
+        "parentId": "UgxCFvEofdbUUPlKeWd4AaABAg",
+        "authorDisplayName": "Nara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/axebhRVI-bzQ7MSjACIa08p7hGSOdPcWtIeW_xm3_PKaaro7sLimxUkFxtoBbj_MQBEyMzvbTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsnCkWx0ahpz7MjKudTXdDA",
+        "authorChannelId": {
+          "value": "UCsnCkWx0ahpz7MjKudTXdDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-03T00:17:41Z",
+        "updatedAt": "2021-07-03T00:17:41Z"
+      }
+    }
+  ]
+}

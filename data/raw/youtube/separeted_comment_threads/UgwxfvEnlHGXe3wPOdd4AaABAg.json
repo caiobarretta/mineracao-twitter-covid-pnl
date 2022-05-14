@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vQi4grOP0SzDAXiFrL03xtGPnZE",
+  "id": "UgwxfvEnlHGXe3wPOdd4AaABAg",
+  "snippet": {
+    "videoId": "j4D9aulwMXA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zdTfdHxuuYka1agUSW9jTzLa7rc",
+      "id": "UgwxfvEnlHGXe3wPOdd4AaABAg",
+      "snippet": {
+        "videoId": "j4D9aulwMXA",
+        "textDisplay": "fecha os aeroportos parece que gosta",
+        "textOriginal": "fecha os aeroportos parece que gosta",
+        "authorDisplayName": "Wellington Felix",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRaEqBp0goBB-lI52i-f9kxVMUBKmv8lKOJyqYbxsE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGLRpFRe_1sEqvXGs7J4P7w",
+        "authorChannelId": {
+          "value": "UCGLRpFRe_1sEqvXGs7J4P7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-02-26T18:21:34Z",
+        "updatedAt": "2020-02-26T18:21:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nt5lUVHl1cdjbAPVKg6chgt5E-Q",
+      "id": "UgwxfvEnlHGXe3wPOdd4AaABAg.95W3Yh1dOH595W7NzR7Yu_",
+      "snippet": {
+        "textDisplay": "Agora \u00e9 tarde carnaval j\u00e1 aconteceu",
+        "textOriginal": "Agora \u00e9 tarde carnaval j\u00e1 aconteceu",
+        "parentId": "UgwxfvEnlHGXe3wPOdd4AaABAg",
+        "authorDisplayName": "Canal do Ataide",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwBf-QLDGqXx_u4QTfq3FBJNeCQ0F-BrlONDP2kA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVB7OkIacLKE8tYDLKmX5yw",
+        "authorChannelId": {
+          "value": "UCVB7OkIacLKE8tYDLKmX5yw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-26T18:55:03Z",
+        "updatedAt": "2020-02-26T18:55:03Z"
+      }
+    }
+  ]
+}

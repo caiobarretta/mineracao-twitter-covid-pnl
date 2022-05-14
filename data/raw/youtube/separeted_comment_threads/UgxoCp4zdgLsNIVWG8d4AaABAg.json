@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mHu1XDEoZAsv2l1-EvSfXaDwKLs",
+  "id": "UgxoCp4zdgLsNIVWG8d4AaABAg",
+  "snippet": {
+    "videoId": "Wf27yjNdKo8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "p-AzCQ9a7-IDLsIL6fTgsKNem54",
+      "id": "UgxoCp4zdgLsNIVWG8d4AaABAg",
+      "snippet": {
+        "videoId": "Wf27yjNdKo8",
+        "textDisplay": "Valeu parceiro",
+        "textOriginal": "Valeu parceiro",
+        "authorDisplayName": "Michael Medeiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwlJHk68KEgKjL3Bfv-6ooyjqqOWVtRE4o_C5upEI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSK90ONy9TyowOtYYkLbLsg",
+        "authorChannelId": {
+          "value": "UCSK90ONy9TyowOtYYkLbLsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-11T00:35:33Z",
+        "updatedAt": "2020-09-11T00:35:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AonSoKGLyC4rBH1km0RPEgVbEpc",
+      "id": "UgxoCp4zdgLsNIVWG8d4AaABAg.9DRzx7_zQz09Dkl9PUnY1j",
+      "snippet": {
+        "textDisplay": "Opa tamo junto",
+        "textOriginal": "Opa tamo junto",
+        "parentId": "UgxoCp4zdgLsNIVWG8d4AaABAg",
+        "authorDisplayName": "Open Studio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PnhXzHnyF4YofMsvK7O6NEH6e7y30lUAXSE-sTDpL7zFMHhePDQKAipiG1mA-t-61vc8Os5K=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCv-3H9wRWJQQVLQgDP1yFzg",
+        "authorChannelId": {
+          "value": "UCv-3H9wRWJQQVLQgDP1yFzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-18T16:51:05Z",
+        "updatedAt": "2020-09-18T16:51:05Z"
+      }
+    }
+  ]
+}

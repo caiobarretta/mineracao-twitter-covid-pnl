@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LmjI4aN-gBoWF4_uXtIULVh2Xb4",
+  "id": "UgwsYur2mzJXPyvJhmJ4AaABAg",
+  "snippet": {
+    "videoId": "S7wnY-SE094",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pPDhYjFrnleO8-5cOrzg9Bhdh0g",
+      "id": "UgwsYur2mzJXPyvJhmJ4AaABAg",
+      "snippet": {
+        "videoId": "S7wnY-SE094",
+        "textDisplay": "Excellent information from Doctor Jamal. Congratulations.",
+        "textOriginal": "Excellent information from Doctor Jamal. Congratulations.",
+        "authorDisplayName": "Linduarte Filho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2gPY6997_-ivAJ3k74bDsKWY1gQLLSwsfBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBDVcdP9TL3KkI1fkBFE9Tw",
+        "authorChannelId": {
+          "value": "UCBDVcdP9TL3KkI1fkBFE9Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-03T16:22:56Z",
+        "updatedAt": "2022-01-03T16:22:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mqVl0e3p1ceWiMJw4BB628SE9k8",
+      "id": "UgwsYur2mzJXPyvJhmJ4AaABAg.9Wk4895G3U-9WkMJfgFhzH",
+      "snippet": {
+        "textDisplay": "#VacinaParaAsCrian\u00e7asJ\u00e1",
+        "textOriginal": "#VacinaParaAsCrian\u00e7asJ\u00e1",
+        "parentId": "UgwsYur2mzJXPyvJhmJ4AaABAg",
+        "authorDisplayName": "hello :3",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0bGpaTs5PCkX_R7bYufSbgpCDmQSqG-rOV_iCW4mwRcdcqqN7ODpRxIbjH67kF-EVTukmOQPNVY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdZhfBXulgK8OmH55Px9OTw",
+        "authorChannelId": {
+          "value": "UCdZhfBXulgK8OmH55Px9OTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-03T19:01:48Z",
+        "updatedAt": "2022-01-03T19:01:48Z"
+      }
+    }
+  ]
+}

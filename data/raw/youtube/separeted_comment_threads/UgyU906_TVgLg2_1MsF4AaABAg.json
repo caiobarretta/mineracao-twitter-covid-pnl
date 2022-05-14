@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "__ToqBUM6LbD0NOmsNEXlVPz7v8",
+  "id": "UgyU906_TVgLg2_1MsF4AaABAg",
+  "snippet": {
+    "videoId": "4XvAu6f8gGk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yvYSz0vBEKngFiuVgssU1zIEDIc",
+      "id": "UgyU906_TVgLg2_1MsF4AaABAg",
+      "snippet": {
+        "videoId": "4XvAu6f8gGk",
+        "textDisplay": "Compartilhei seu v\u00eddeo no meu Facebook =]",
+        "textOriginal": "Compartilhei seu v\u00eddeo no meu Facebook =]",
+        "authorDisplayName": "Luma Siqueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStN1axoSio43kDYqTCwi_HR3RPaR8dPK1_gUWZ1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5siKNlQQmeDfIDLb7YGQiA",
+        "authorChannelId": {
+          "value": "UC5siKNlQQmeDfIDLb7YGQiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T09:26:02Z",
+        "updatedAt": "2020-03-26T09:26:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Q9wBFriwb1WCO4Mf_HAq2NNx5lk",
+      "id": "UgyU906_TVgLg2_1MsF4AaABAg.96emJh5BoVb96g0vh8e_gz",
+      "snippet": {
+        "textDisplay": "Obrigada! Que bom que gostou! :)",
+        "textOriginal": "Obrigada! Que bom que gostou! :)",
+        "parentId": "UgyU906_TVgLg2_1MsF4AaABAg",
+        "authorDisplayName": "Sapataria Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWTMj_qC3MFCWT1Jo_LBSC8zgU04UnpBFRuutX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKnM5fHX_oKHi6kHRzgtnIQ",
+        "authorChannelId": {
+          "value": "UCKnM5fHX_oKHi6kHRzgtnIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T21:01:40Z",
+        "updatedAt": "2020-03-26T21:01:40Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "akrgSH9o_EiU5XNroZwmbNToPUg",
+  "id": "UgzxARtwEtEt8-OonTR4AaABAg",
+  "snippet": {
+    "videoId": "2ufK-07VTG8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qrYK4eKFGlZoVAo1hcJ5YESBZ8U",
+      "id": "UgzxARtwEtEt8-OonTR4AaABAg",
+      "snippet": {
+        "videoId": "2ufK-07VTG8",
+        "textDisplay": "Berita gak jelas",
+        "textOriginal": "Berita gak jelas",
+        "authorDisplayName": "Superhero Channel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LvLwU73nRX6tSKg13tM_-ssTfEW6cxFCKyBxr8-pOJvTS5bKJyTvHTXkgaTcLJ4zi2q1wBguWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIE2WuMEfVVumZKKeIcfEow",
+        "authorChannelId": {
+          "value": "UCIE2WuMEfVVumZKKeIcfEow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-08T09:47:01Z",
+        "updatedAt": "2021-07-08T09:47:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cF4UkVfCMtAfWe7pvUDsfBduaPU",
+      "id": "UgzxARtwEtEt8-OonTR4AaABAg.9PXSXjNw7Zl9PX_R0eaaQO",
+      "snippet": {
+        "textDisplay": "yooo",
+        "textOriginal": "yooo",
+        "parentId": "UgzxARtwEtEt8-OonTR4AaABAg",
+        "authorDisplayName": "Irwan Fox",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/DNtN3RHg6bCRz25nvDE3B-hVESSjxzxo_MZlkkygW_v57Z_U-1fERhfalE6YunXCKJqSlCMDNw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIVElZ6-9xTMGcxOju973mg",
+        "authorChannelId": {
+          "value": "UCIVElZ6-9xTMGcxOju973mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-08T10:56:00Z",
+        "updatedAt": "2021-07-08T10:56:00Z"
+      }
+    }
+  ]
+}

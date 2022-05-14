@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "opNin_E_TjEngGa5Yg1ME7tIfT0",
+  "id": "UgwttuHWvWjqTi5l9uF4AaABAg",
+  "snippet": {
+    "videoId": "MXWdWEQhPwo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ubNwWjOBdznnbid5hPxhjkdUZ08",
+      "id": "UgwttuHWvWjqTi5l9uF4AaABAg",
+      "snippet": {
+        "videoId": "MXWdWEQhPwo",
+        "textDisplay": "n\u00e3o acaba essa porra",
+        "textOriginal": "n\u00e3o acaba essa porra",
+        "authorDisplayName": "Guchierrez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQxjf6d8K4ZSlSoxp3DUkHJUgm_YN4RTwu9_3d3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwqhloVNrR1qVfbFvmqcrpg",
+        "authorChannelId": {
+          "value": "UCwqhloVNrR1qVfbFvmqcrpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-24T19:30:04Z",
+        "updatedAt": "2021-11-24T19:30:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vYZ_OQzHQzZWYKfvmfGN53iArr4",
+      "id": "UgwttuHWvWjqTi5l9uF4AaABAg.9V8PklajDiM9V91Ck-vL1g",
+      "snippet": {
+        "textDisplay": "o virus nunca vai  acabar",
+        "textOriginal": "o virus nunca vai  acabar",
+        "parentId": "UgwttuHWvWjqTi5l9uF4AaABAg",
+        "authorDisplayName": "Ricardo nightrider",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBR1MWmpPpdE9kRTEHBS_e9Z7jmGB2hVySzoaa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCopjidQtJG7EfOEz2n3PAg",
+        "authorChannelId": {
+          "value": "UCCopjidQtJG7EfOEz2n3PAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-25T01:14:49Z",
+        "updatedAt": "2021-11-25T01:14:49Z"
+      }
+    }
+  ]
+}

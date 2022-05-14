@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bFWhrVMrqvG6VBYbJ_2Rz75MVTc",
+  "id": "Ugz3ZPRVyi1EHOXXnJ54AaABAg",
+  "snippet": {
+    "videoId": "sh4KMbUpbiM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uIPXRTu5hMkFasOuqGXvvBfyXYE",
+      "id": "Ugz3ZPRVyi1EHOXXnJ54AaABAg",
+      "snippet": {
+        "videoId": "sh4KMbUpbiM",
+        "textDisplay": "Ja passou da hora !",
+        "textOriginal": "Ja passou da hora !",
+        "authorDisplayName": "gustavo constantino da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS37kpXkU9HuW3tjTrHg2X3kZQP1nWq2jOu_nrUGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW84FAYjLgNSg7SMODeyJtA",
+        "authorChannelId": {
+          "value": "UCW84FAYjLgNSg7SMODeyJtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-10-17T00:56:57Z",
+        "updatedAt": "2020-10-17T00:56:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5PhdgGNaVnEurZBhUafYvd0hsMI",
+      "id": "Ugz3ZPRVyi1EHOXXnJ54AaABAg.9Etj0R06YIL9FMWzVUJVu2",
+      "snippet": {
+        "textDisplay": "Passou da hora????? Wtf",
+        "textOriginal": "Passou da hora????? Wtf",
+        "parentId": "Ugz3ZPRVyi1EHOXXnJ54AaABAg",
+        "authorDisplayName": "ariane kikuchi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0tXDQxY7rNspGFPGZ0Np4I-anlvvC2078AHSg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzuL0m8CYmkDTzXTD6lhqWw",
+        "authorChannelId": {
+          "value": "UCzuL0m8CYmkDTzXTD6lhqWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-28T14:40:18Z",
+        "updatedAt": "2020-10-28T14:40:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8-LvCF619QOAHyLU_UYJvbJAtzY",
+  "id": "UgzkTUv_I_Uj2SOkMwV4AaABAg",
+  "snippet": {
+    "videoId": "52ExjrLp2zk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dDQggHmJS2Ub8lfIFpysPnK_acA",
+      "id": "UgzkTUv_I_Uj2SOkMwV4AaABAg",
+      "snippet": {
+        "videoId": "52ExjrLp2zk",
+        "textDisplay": "Professor arrasando como sempre.",
+        "textOriginal": "Professor arrasando como sempre.",
+        "authorDisplayName": "Alex Buggin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwTO5M0wLERcO7v3qOKBzJM8_Mx9MIMNVb78G5qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrDXa5AlXaQm03N-JP7C65g",
+        "authorChannelId": {
+          "value": "UCrDXa5AlXaQm03N-JP7C65g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T20:31:42Z",
+        "updatedAt": "2022-05-09T20:31:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GZnDR0YGiHfFet9F2zJgDbgoHeE",
+      "id": "UgzkTUv_I_Uj2SOkMwV4AaABAg.9aoxlNm5oA49ataNGGzhjr",
+      "snippet": {
+        "textDisplay": "Muito obrigado!",
+        "textOriginal": "Muito obrigado!",
+        "parentId": "UgzkTUv_I_Uj2SOkMwV4AaABAg",
+        "authorDisplayName": "CDCONCURSOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0ONVoSHq_k_E782HCD7YsPDIAcNnG_wtUTWYf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd8hGUqi7GfNGi7Nwt8CR7Q",
+        "authorChannelId": {
+          "value": "UCd8hGUqi7GfNGi7Nwt8CR7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T15:43:29Z",
+        "updatedAt": "2022-05-11T15:43:29Z"
+      }
+    }
+  ]
+}

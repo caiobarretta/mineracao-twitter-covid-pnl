@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FFfIdiftiFP010YFZuFTzP_P9J0",
+  "id": "UgxfVnIMDeE5ROycqYF4AaABAg",
+  "snippet": {
+    "videoId": "EgMkicTkeh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ye3N235YTpAM8vz6oFZv_JYF1nI",
+      "id": "UgxfVnIMDeE5ROycqYF4AaABAg",
+      "snippet": {
+        "videoId": "EgMkicTkeh0",
+        "textDisplay": "\u00f3tima aula, professor.\nobrigada <3",
+        "textOriginal": "\u00f3tima aula, professor.\nobrigada <3",
+        "authorDisplayName": "\u043f\u0438\u043d\u0447\u0435\u0440",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtuAvrrfFL_-Nz7Mb3s-HNnO3Ds15j_8GcnX2Kew=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRodb9aUXZ6UP7YoXkO-6SA",
+        "authorChannelId": {
+          "value": "UCRodb9aUXZ6UP7YoXkO-6SA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-05-22T20:55:13Z",
+        "updatedAt": "2020-05-22T20:55:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hcFDP24tkD45XCZe57njQYoJtJA",
+      "id": "UgxfVnIMDeE5ROycqYF4AaABAg.98ymVGT5t3X98yzBhX092O",
+      "snippet": {
+        "textDisplay": "\u2665  Agrade\u00e7o!",
+        "textOriginal": "\u2665  Agrade\u00e7o!",
+        "parentId": "UgxfVnIMDeE5ROycqYF4AaABAg",
+        "authorDisplayName": "Prof. Basilio Historiando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSAUm0wCZYHQHRu3LyoqjWCFrvVs09mNn8aZ7OBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnU_8ovaM-lltVmXGY9JPUw",
+        "authorChannelId": {
+          "value": "UCnU_8ovaM-lltVmXGY9JPUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-22T22:46:08Z",
+        "updatedAt": "2020-05-22T22:46:08Z"
+      }
+    }
+  ]
+}

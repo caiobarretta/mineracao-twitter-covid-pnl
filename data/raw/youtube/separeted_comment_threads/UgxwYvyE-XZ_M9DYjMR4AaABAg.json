@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "az9NcsBBS6Q_Ji2sAj72-0nFnPs",
+  "id": "UgxwYvyE-XZ_M9DYjMR4AaABAg",
+  "snippet": {
+    "videoId": "yaIAMQUzGYs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "I8Lxct9so2NFeG5M2Hae-1t_Smc",
+      "id": "UgxwYvyE-XZ_M9DYjMR4AaABAg",
+      "snippet": {
+        "videoId": "yaIAMQUzGYs",
+        "textDisplay": "Amei \ud83d\ude0d\ud83d\ude0d, esclareceu bem mais.",
+        "textOriginal": "Amei \ud83d\ude0d\ud83d\ude0d, esclareceu bem mais.",
+        "authorDisplayName": "Nilton Viana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-sjK-ZNyD-D-Q46y2D5-eQVMAdE9dVSjOL3L3z3qkIbDGOeNdg_p5IYQ4PuhI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQjha4yPrDi0xdGcKgxuiJA",
+        "authorChannelId": {
+          "value": "UCQjha4yPrDi0xdGcKgxuiJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-25T14:51:57Z",
+        "updatedAt": "2020-06-25T14:51:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qA8METfRD6NeKwe6m8YqqN5BnTI",
+      "id": "UgxwYvyE-XZ_M9DYjMR4AaABAg.9AKfxOjZVWE9AKgWRgBbUo",
+      "snippet": {
+        "textDisplay": "Que bom, fico feliz em ter ajudado !",
+        "textOriginal": "Que bom, fico feliz em ter ajudado !",
+        "parentId": "UgxwYvyE-XZ_M9DYjMR4AaABAg",
+        "authorDisplayName": "Bioescreve - Anna Clara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQN1ATdJmidJ7koolC-LF-3dLbT06cQoKZ18OiqVMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-Nciy1IaDiTWn_giU13_Q",
+        "authorChannelId": {
+          "value": "UCl-Nciy1IaDiTWn_giU13_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-25T14:56:52Z",
+        "updatedAt": "2020-06-25T14:56:52Z"
+      }
+    }
+  ]
+}

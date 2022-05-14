@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5oOsrKSAWM-SlfvJYmHtk4g6f1A",
+  "id": "UgwNEf6BMNRzhCKko3x4AaABAg",
+  "snippet": {
+    "videoId": "vkZ6OGR2JKQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JQ58Ehm9sPvc2ersBbtMDEF-5DA",
+      "id": "UgwNEf6BMNRzhCKko3x4AaABAg",
+      "snippet": {
+        "videoId": "vkZ6OGR2JKQ",
+        "textDisplay": "Gostei, excelente\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Gostei, excelente\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Eliete Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNAd9etgR572EPsgiYkByI_s1BxkCxu8WdGKdyR_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQPPcd9W98jBGBb-c4xFjDQ",
+        "authorChannelId": {
+          "value": "UCQPPcd9W98jBGBb-c4xFjDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-19T22:49:22Z",
+        "updatedAt": "2021-05-19T22:49:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iKExOvwDYnzrmGOxwdwbZpogbLU",
+      "id": "UgwNEf6BMNRzhCKko3x4AaABAg.9NY6K94qU8X9NY7k-GYrVb",
+      "snippet": {
+        "textDisplay": "\u2764",
+        "textOriginal": "\u2764",
+        "parentId": "UgwNEf6BMNRzhCKko3x4AaABAg",
+        "authorDisplayName": "Professor Emerson Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQRVTp2w1imHzn8-s_AKPBM8pBHZtbyLjnPNGcf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvC8IarSrhn-K8ZdwHW4hwA",
+        "authorChannelId": {
+          "value": "UCvC8IarSrhn-K8ZdwHW4hwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-19T23:01:46Z",
+        "updatedAt": "2021-05-19T23:01:46Z"
+      }
+    }
+  ]
+}

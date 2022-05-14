@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z8aDnET6Ykt2SW3JQFSRXoatGxI",
+  "id": "UgxIB0TEUjXHwl_J5oJ4AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3hVo_oQDWTp5lSWwfppHTeVeEYs",
+      "id": "UgxIB0TEUjXHwl_J5oJ4AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "O cara adivinha oq eu estou querendo saber! Show de Bola!",
+        "textOriginal": "O cara adivinha oq eu estou querendo saber! Show de Bola!",
+        "authorDisplayName": "Patrick 3D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToTRlSTPf-3gHfa1Oj3wacJ1MYmGIdJuPkJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW1qJp4BFw9r2u36sPwRfiA",
+        "authorChannelId": {
+          "value": "UCW1qJp4BFw9r2u36sPwRfiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-06T19:00:55Z",
+        "updatedAt": "2021-05-06T19:00:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GaHom6Fq1ZrLt3fz7TFn4o8dDkc",
+      "id": "UgxIB0TEUjXHwl_J5oJ4AaABAg.9N0DqYSmqU49NSNg-8nf5W",
+      "snippet": {
+        "textDisplay": "hahaha que bom!!! Obrigado!",
+        "textOriginal": "hahaha que bom!!! Obrigado!",
+        "parentId": "UgxIB0TEUjXHwl_J5oJ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-17T17:25:36Z",
+        "updatedAt": "2021-05-17T17:25:36Z"
+      }
+    }
+  ]
+}

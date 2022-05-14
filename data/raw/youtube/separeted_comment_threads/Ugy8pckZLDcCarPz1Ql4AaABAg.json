@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-AWpCXeNS2U1ee7QzH-jUwWDg2o",
+  "id": "Ugy8pckZLDcCarPz1Ql4AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wKn00iU3f7Xe1RghAG4KMDhtTKg",
+      "id": "Ugy8pckZLDcCarPz1Ql4AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "Como posso ter vistas separadas do andar superior e do andar inferior no 3D Max como no Revit",
+        "textOriginal": "Como posso ter vistas separadas do andar superior e do andar inferior no 3D Max como no Revit",
+        "authorDisplayName": "Rayzer091",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1-GlCn0abQO1_q21NZ-PGsJ4QSn9BWEJFsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoTFAmPbNVNZY6SyyJn_nDA",
+        "authorChannelId": {
+          "value": "UCoTFAmPbNVNZY6SyyJn_nDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-26T22:37:44Z",
+        "updatedAt": "2021-04-26T22:37:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1EEdG-2LPG6lvQFY9WWO58kvc5E",
+      "id": "Ugy8pckZLDcCarPz1Ql4AaABAg.9MbrhosyWSt9N0Do1MwfWZ",
+      "snippet": {
+        "textDisplay": "alt + w",
+        "textOriginal": "alt + w",
+        "parentId": "Ugy8pckZLDcCarPz1Ql4AaABAg",
+        "authorDisplayName": "Patrick 3D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToTRlSTPf-3gHfa1Oj3wacJ1MYmGIdJuPkJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW1qJp4BFw9r2u36sPwRfiA",
+        "authorChannelId": {
+          "value": "UCW1qJp4BFw9r2u36sPwRfiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-06T19:00:35Z",
+        "updatedAt": "2021-05-06T19:00:35Z"
+      }
+    }
+  ]
+}

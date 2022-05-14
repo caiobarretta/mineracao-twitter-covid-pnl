@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CemzM-egOz3gw6cYtREUjIsNB3w",
+  "id": "Ugy0hImFHmcqNWD54Ot4AaABAg",
+  "snippet": {
+    "videoId": "5VH0aPsBoRo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OGb6QSLkHR8TgLMmiQXzQlZn_6Y",
+      "id": "Ugy0hImFHmcqNWD54Ot4AaABAg",
+      "snippet": {
+        "videoId": "5VH0aPsBoRo",
+        "textDisplay": "Aula TOP",
+        "textOriginal": "Aula TOP",
+        "authorDisplayName": "Phillip Cerqueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEBd8g8nLGq5KNN-Bt_n41jH9q09eIu1B2Bg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq61a1g0yg0UTCzRrSF0cwg",
+        "authorChannelId": {
+          "value": "UCq61a1g0yg0UTCzRrSF0cwg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-12T00:33:58Z",
+        "updatedAt": "2022-01-12T00:33:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_sZ3YxOpO-oTCJuZOBYSlr3-pPg",
+      "id": "Ugy0hImFHmcqNWD54Ot4AaABAg.9X4YgaOEcYQ9Z83NIpzEj4",
+      "snippet": {
+        "textDisplay": "@Estrat\u00e9gia MED dra qual Cortizol devo fazer? J\u00e1 que nao durmo a noite. E qd durmo o dia ja est\u00e1 clareando. Obrigada",
+        "textOriginal": "@Estrat\u00e9gia MED dra qual Cortizol devo fazer? J\u00e1 que nao durmo a noite. E qd durmo o dia ja est\u00e1 clareando. Obrigada",
+        "parentId": "Ugy0hImFHmcqNWD54Ot4AaABAg",
+        "authorDisplayName": "Maria Eliane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRggfHlA3jcvquHmIqijDaWPPPF3mnuTLrw_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClGuGATyTA_RV10QbB58mqA",
+        "authorChannelId": {
+          "value": "UClGuGATyTA_RV10QbB58mqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-04T02:20:04Z",
+        "updatedAt": "2022-03-04T02:23:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "76wUr0vGWs4cX6Z8ohhwGwvQ4_4",
+      "id": "Ugy0hImFHmcqNWD54Ot4AaABAg.9X4YgaOEcYQ9X8y7Xa3PWb",
+      "snippet": {
+        "textDisplay": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "textOriginal": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "parentId": "Ugy0hImFHmcqNWD54Ot4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T17:41:56Z",
+        "updatedAt": "2022-01-13T17:41:56Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ipu_h44pD5X7k7d6Kc9ytiMH_cY",
+  "id": "UgzNdKVeEoG91c0jirV4AaABAg",
+  "snippet": {
+    "videoId": "vozT52Ap1HM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DiPcHC042xaYvQnVtMWFqeO3NDw",
+      "id": "UgzNdKVeEoG91c0jirV4AaABAg",
+      "snippet": {
+        "videoId": "vozT52Ap1HM",
+        "textDisplay": "Minha Nossa",
+        "textOriginal": "Minha Nossa",
+        "authorDisplayName": "Katia Evangelista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTK5feN_lqB7K0zP7M_j02fajB3yMfomoQ8ZFv4REQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3LRtdQSMuytXQUbrhdXj3w",
+        "authorChannelId": {
+          "value": "UC3LRtdQSMuytXQUbrhdXj3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-26T19:33:12Z",
+        "updatedAt": "2022-04-26T19:33:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "q64tk9sCZWpl0nsfONtnCLO3pt8",
+      "id": "UgzNdKVeEoG91c0jirV4AaABAg.9aINjap4JEK9aISRgOuy4V",
+      "snippet": {
+        "textDisplay": "Deus tenha miseric\u00f3rdia, principalmente dos pobres desassistidos, em nome de Jesus",
+        "textOriginal": "Deus tenha miseric\u00f3rdia, principalmente dos pobres desassistidos, em nome de Jesus",
+        "parentId": "UgzNdKVeEoG91c0jirV4AaABAg",
+        "authorDisplayName": "Pr Afonso Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTbSRLfuRGQOGWkk7LZKLbyVm0KYI04b-QbCQrSKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCELIE_tkpiUEY5Bxw7l-6Rg",
+        "authorChannelId": {
+          "value": "UCELIE_tkpiUEY5Bxw7l-6Rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-26T20:14:19Z",
+        "updatedAt": "2022-04-26T20:14:19Z"
+      }
+    }
+  ]
+}

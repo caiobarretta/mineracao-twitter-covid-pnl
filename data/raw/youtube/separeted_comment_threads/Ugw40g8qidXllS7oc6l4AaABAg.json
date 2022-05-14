@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EOu6cQRn3TWfSKFbD42SQxLB9WY",
+  "id": "Ugw40g8qidXllS7oc6l4AaABAg",
+  "snippet": {
+    "videoId": "hwhC8i4N1Dg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Io34xlDZYfBQJiw79TX4OyLf-ps",
+      "id": "Ugw40g8qidXllS7oc6l4AaABAg",
+      "snippet": {
+        "videoId": "hwhC8i4N1Dg",
+        "textDisplay": "Muito bom!!!",
+        "textOriginal": "Muito bom!!!",
+        "authorDisplayName": "Luiz Fernando Milanello",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQxvKRcDtfhn4wMLEN30cQZb8j_X7jKL7f5Jw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ONOrk7Vwkmyfbou3QQJ3Q",
+        "authorChannelId": {
+          "value": "UC-ONOrk7Vwkmyfbou3QQJ3Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-03-02T23:11:14Z",
+        "updatedAt": "2022-03-02T23:11:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YdjhXa2Whqzeo2c2kunDqzPkYPc",
+      "id": "Ugw40g8qidXllS7oc6l4AaABAg.9Z58yQ4I0JQ9ZYLXhQzsMr",
+      "snippet": {
+        "textDisplay": "Ol\u00e1! Muito obrigado! Abra\u00e7o!",
+        "textOriginal": "Ol\u00e1! Muito obrigado! Abra\u00e7o!",
+        "parentId": "Ugw40g8qidXllS7oc6l4AaABAg",
+        "authorDisplayName": "UniCi\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR1SUr-fzXw-VIlmTTtrKtqDUJKuUdgn3OTqEk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcfVbI2V8GOOhXokGYYopbA",
+        "authorChannelId": {
+          "value": "UCcfVbI2V8GOOhXokGYYopbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-14T07:19:01Z",
+        "updatedAt": "2022-03-14T07:19:01Z"
+      }
+    }
+  ]
+}

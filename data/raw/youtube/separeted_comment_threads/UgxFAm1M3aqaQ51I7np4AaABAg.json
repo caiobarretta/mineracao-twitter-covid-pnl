@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lL6e4K0Jlt-c9vS5zxemoS4PeJQ",
+  "id": "UgxFAm1M3aqaQ51I7np4AaABAg",
+  "snippet": {
+    "videoId": "5-wRdv5CErs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FaeasILbw5i7Q6Yp8etyGZiVjC0",
+      "id": "UgxFAm1M3aqaQ51I7np4AaABAg",
+      "snippet": {
+        "videoId": "5-wRdv5CErs",
+        "textDisplay": "Semoga kita di berikan kesehatan.",
+        "textOriginal": "Semoga kita di berikan kesehatan.",
+        "authorDisplayName": "Idwal Agustiawan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRalD3953sdu-a8GiOJ0Kq8xQOeZHFCCCxOoA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdzUrRAwOPiGDNq9AQSFzFA",
+        "authorChannelId": {
+          "value": "UCdzUrRAwOPiGDNq9AQSFzFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-16T04:19:15Z",
+        "updatedAt": "2020-03-16T04:19:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2T8TkTA13pK-Kx3wtS3vP8plfsQ",
+      "id": "UgxFAm1M3aqaQ51I7np4AaABAg.96FUG23jD8r994RzgQIxzG",
+      "snippet": {
+        "textDisplay": "Aminn",
+        "textOriginal": "Aminn",
+        "parentId": "UgxFAm1M3aqaQ51I7np4AaABAg",
+        "authorDisplayName": "JAGUAR HYPER",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9ExBxNxITTRYwI8RWfxNzeFgXIICZYzCc6NuX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoOVfi9NccBKZVklI9XU8Jg",
+        "authorChannelId": {
+          "value": "UCoOVfi9NccBKZVklI9XU8Jg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-25T11:01:57Z",
+        "updatedAt": "2020-05-25T11:01:57Z"
+      }
+    }
+  ]
+}

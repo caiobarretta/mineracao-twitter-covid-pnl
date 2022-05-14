@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SFD__yfa7ne55tZV5TNzQ7OUSWo",
+  "id": "Ugw8G4qpY1Sj-T1T1xF4AaABAg",
+  "snippet": {
+    "videoId": "_PCZS-bW8RA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zUjSslhu5NPJhoe5Q4VmK6G5DgU",
+      "id": "Ugw8G4qpY1Sj-T1T1xF4AaABAg",
+      "snippet": {
+        "videoId": "_PCZS-bW8RA",
+        "textDisplay": "dif\u00edcil o povo ter essa conciencia",
+        "textOriginal": "dif\u00edcil o povo ter essa conciencia",
+        "authorDisplayName": "Eduardo Neves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7aS_nhuO3M3ltdC4mnnIg-CLKXTebM8sZv0F2Qb8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0jUobeZ7jHNCTauS_8Wdkg",
+        "authorChannelId": {
+          "value": "UC0jUobeZ7jHNCTauS_8Wdkg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-18T02:05:56Z",
+        "updatedAt": "2020-03-18T02:05:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JPw2dzfiOY5VCiebHGVNl1FPa4Q",
+      "id": "Ugw8G4qpY1Sj-T1T1xF4AaABAg.96KOaHiEnoX96LFlpG7Eew",
+      "snippet": {
+        "textDisplay": "Vdde",
+        "textOriginal": "Vdde",
+        "parentId": "Ugw8G4qpY1Sj-T1T1xF4AaABAg",
+        "authorDisplayName": "MICHAEL TOTALTEC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScdgDBLwI84i3mV6DRFEYwAlZE51JguwxcIdyHdtg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2soSvQIw2fZetZAOpw1Uag",
+        "authorChannelId": {
+          "value": "UC2soSvQIw2fZetZAOpw1Uag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T10:08:06Z",
+        "updatedAt": "2020-03-18T10:08:06Z"
+      }
+    }
+  ]
+}

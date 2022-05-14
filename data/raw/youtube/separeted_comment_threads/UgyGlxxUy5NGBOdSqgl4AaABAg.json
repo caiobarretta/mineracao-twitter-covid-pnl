@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xNeVtWnyHoweEYQBqD2mO5I-f6Q",
+  "id": "UgyGlxxUy5NGBOdSqgl4AaABAg",
+  "snippet": {
+    "videoId": "tQ1WV30EQyA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sry8zBDUdjVXOopSCWxvKlVFFHU",
+      "id": "UgyGlxxUy5NGBOdSqgl4AaABAg",
+      "snippet": {
+        "videoId": "tQ1WV30EQyA",
+        "textDisplay": "Teu c..",
+        "textOriginal": "Teu c..",
+        "authorDisplayName": "Tainara Eug\u00eanio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQn-xXGDRu7Z_I-e5Q0CLEe2eU7a3L3ikrZ-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChuQygXbOJtEvaBkcNm9Mrw",
+        "authorChannelId": {
+          "value": "UChuQygXbOJtEvaBkcNm9Mrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-23T23:41:54Z",
+        "updatedAt": "2020-07-23T23:41:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4TQS4d4iWAzhXtwVkh6KGTidkrI",
+      "id": "UgyGlxxUy5NGBOdSqgl4AaABAg.9BTirKTZTAF9DOl3_T0B0f",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "parentId": "UgyGlxxUy5NGBOdSqgl4AaABAg",
+        "authorDisplayName": "David Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/P0XGjkU-GGQuqfr9qgBKRDn6EIx6_Zy_gmZ5OXkVNYcp8NTWVUgHE6sqKIapa6zpbao0zNwP=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbEDvkKkxKuYj4AltYbtIkQ",
+        "authorChannelId": {
+          "value": "UCbEDvkKkxKuYj4AltYbtIkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-09T18:27:46Z",
+        "updatedAt": "2020-09-09T18:27:46Z"
+      }
+    }
+  ]
+}

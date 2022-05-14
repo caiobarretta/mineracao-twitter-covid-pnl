@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4iC2M61Feb-ClM-XskAg4V9Rwjw",
+  "id": "Ugz4--y-kEXPsMkk1ax4AaABAg",
+  "snippet": {
+    "videoId": "xy78wxPa6Hk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xmM6Zl1MVGb-eSvNhZg_PDuQQ0Y",
+      "id": "Ugz4--y-kEXPsMkk1ax4AaABAg",
+      "snippet": {
+        "videoId": "xy78wxPa6Hk",
+        "textDisplay": "Senta o sarrafo!",
+        "textOriginal": "Senta o sarrafo!",
+        "authorDisplayName": "Eric Tagliari",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8eJWAxVGOpadyZ9a9yAKo8645sWZW4cgzFoK4jlC9H3R6qc7DELti3gUZGhxtPTd15T8sfcwmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNL8_Jkt2SgyOcSVkOHQNVw",
+        "authorChannelId": {
+          "value": "UCNL8_Jkt2SgyOcSVkOHQNVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-23T04:08:13Z",
+        "updatedAt": "2021-11-23T04:08:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "x0B8mpYcsrN_3-RscC2y91GBetg",
+      "id": "Ugz4--y-kEXPsMkk1ax4AaABAg.9V4BT0_CfL39WX41a964PU",
+      "snippet": {
+        "textDisplay": "Sentar o sarrafo em quem??",
+        "textOriginal": "Sentar o sarrafo em quem??",
+        "parentId": "Ugz4--y-kEXPsMkk1ax4AaABAg",
+        "authorDisplayName": "Antonio Marcos De Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdRShIw2pI06Jm4uf1c3a3V0pQSZLEpQpnAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbYkcvXuh_0C_zYcF-EXg5Q",
+        "authorChannelId": {
+          "value": "UCbYkcvXuh_0C_zYcF-EXg5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-29T05:52:40Z",
+        "updatedAt": "2021-12-29T05:52:40Z"
+      }
+    }
+  ]
+}

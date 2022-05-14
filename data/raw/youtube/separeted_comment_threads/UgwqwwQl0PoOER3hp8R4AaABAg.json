@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "63ecxXp-ycNDTT62mb_kpxVM5dU",
+  "id": "UgwqwwQl0PoOER3hp8R4AaABAg",
+  "snippet": {
+    "videoId": "fx3jxM5q5_4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fD4_-hDiWbWrmKQLFZA_QpIafRg",
+      "id": "UgwqwwQl0PoOER3hp8R4AaABAg",
+      "snippet": {
+        "videoId": "fx3jxM5q5_4",
+        "textDisplay": "Maria Edith Grey foi \u00f3timo kkk",
+        "textOriginal": "Maria Edith Grey foi \u00f3timo kkk",
+        "authorDisplayName": "Beatriz Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmp84vRNaudFLytDToDO7Mz54C6c8BiWmX7ncbE4I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ7iVMReYG7PvTC3OqEdVpQ",
+        "authorChannelId": {
+          "value": "UCZ7iVMReYG7PvTC3OqEdVpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2018-11-07T16:40:39Z",
+        "updatedAt": "2018-11-07T16:40:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uzpArOJ_2gZc7P9-q5j4g09CEFI",
+      "id": "UgwqwwQl0PoOER3hp8R4AaABAg.8nMDbypukm28nMcE6VSiVS",
+      "snippet": {
+        "textDisplay": "Ela \u00e9 um mito!!!",
+        "textOriginal": "Ela \u00e9 um mito!!!",
+        "parentId": "UgwqwwQl0PoOER3hp8R4AaABAg",
+        "authorDisplayName": "Agora, Disserte!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-rEfMw-oOkoG-4PsdbJx0O9HJRzVnhW398dMJeg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCReIDcUmvpx2ttRcaJShLIQ",
+        "authorChannelId": {
+          "value": "UCReIDcUmvpx2ttRcaJShLIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-11-07T20:24:26Z",
+        "updatedAt": "2018-11-07T20:24:26Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OO1Rf6r5iNsH7IqfKR1fkC5kofg",
+  "id": "UgyqxEQF9SNACdoB-g54AaABAg",
+  "snippet": {
+    "videoId": "vozT52Ap1HM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aL5g66oOCTmue_vY31VzoO7Gk7s",
+      "id": "UgyqxEQF9SNACdoB-g54AaABAg",
+      "snippet": {
+        "videoId": "vozT52Ap1HM",
+        "textDisplay": "Deus tenha miseric\u00f3rdia, principalmente dos pobres desassistidos, em nome de Jesus",
+        "textOriginal": "Deus tenha miseric\u00f3rdia, principalmente dos pobres desassistidos, em nome de Jesus",
+        "authorDisplayName": "Pr Afonso Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTbSRLfuRGQOGWkk7LZKLbyVm0KYI04b-QbCQrSKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCELIE_tkpiUEY5Bxw7l-6Rg",
+        "authorChannelId": {
+          "value": "UCELIE_tkpiUEY5Bxw7l-6Rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-04-26T20:08:38Z",
+        "updatedAt": "2022-04-26T20:08:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "E3n7ryQMG-vYD3-jL6eyBg8YrG4",
+      "id": "UgyqxEQF9SNACdoB-g54AaABAg.9aIRn4ievHj9aIacpEQDWp",
+      "snippet": {
+        "textDisplay": "Am\u00e9m!",
+        "textOriginal": "Am\u00e9m!",
+        "parentId": "UgyqxEQF9SNACdoB-g54AaABAg",
+        "authorDisplayName": "K\u00e1tia Cristina Pereira de Arruda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTl0mkdVaEj9VpoYonLL9eM5D815uNQQiKRgA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMseBeHuSSJQAnkytFV-o4Q",
+        "authorChannelId": {
+          "value": "UCMseBeHuSSJQAnkytFV-o4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-26T21:34:37Z",
+        "updatedAt": "2022-04-26T21:34:37Z"
+      }
+    }
+  ]
+}

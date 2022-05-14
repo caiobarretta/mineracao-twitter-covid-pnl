@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LNtVLyaEla17pGYoSOV_sTjuVts",
+  "id": "UgzmCwq7YS3cNgY1a8p4AaABAg",
+  "snippet": {
+    "videoId": "fZZH5o8eUxE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Sb-9UfFr5rvC7dqcBgXXRIGOcFQ",
+      "id": "UgzmCwq7YS3cNgY1a8p4AaABAg",
+      "snippet": {
+        "videoId": "fZZH5o8eUxE",
+        "textDisplay": "Agora sim eu aprendi o que eu queria",
+        "textOriginal": "Agora sim eu aprendi o que eu queria",
+        "authorDisplayName": "canal TT",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXhv-n2p_Y3086NvbCXM_zr0YaWjs9TIkPB1R4BA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAUxOpLuBlzCF3QNWrBU-uQ",
+        "authorChannelId": {
+          "value": "UCAUxOpLuBlzCF3QNWrBU-uQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-01-19T20:43:16Z",
+        "updatedAt": "2021-01-19T20:43:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RAtLePfGiwQCtEZmuImmprs3syU",
+      "id": "UgzmCwq7YS3cNgY1a8p4AaABAg.9IhtVYDntD19UPXO1sWZW_",
+      "snippet": {
+        "textDisplay": "@Karol o meu \u00e9 por conta da prova de Ci\u00eancias que ter\u00e1 semana que vem, huehue\n\nN\u00e3o sei por que ele vai passar sendo que a escola j\u00e1 vai passar uma prova bimestral",
+        "textOriginal": "@Karol o meu \u00e9 por conta da prova de Ci\u00eancias que ter\u00e1 semana que vem, huehue\n\nN\u00e3o sei por que ele vai passar sendo que a escola j\u00e1 vai passar uma prova bimestral",
+        "parentId": "UgzmCwq7YS3cNgY1a8p4AaABAg",
+        "authorDisplayName": "n\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT87I1MEyZTigz3mnP24s0l4LzYPTtPOsmG0Ql87w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd05kUyHr_C0rfJLk-fXPSQ",
+        "authorChannelId": {
+          "value": "UCd05kUyHr_C0rfJLk-fXPSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-06T14:32:25Z",
+        "updatedAt": "2021-11-06T14:32:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "F7lyehCnJoP4MPPeOqhEP8Skqq8",
+      "id": "UgzmCwq7YS3cNgY1a8p4AaABAg.9IhtVYDntD19KE3pCGQoAY",
+      "snippet": {
+        "textDisplay": "PARAB\u00c9NS \u2728\u2728\ne pra Escola N\u00e9 ?\nKKKKK",
+        "textOriginal": "PARAB\u00c9NS \u2728\u2728\ne pra Escola N\u00e9 ?\nKKKKK",
+        "parentId": "UgzmCwq7YS3cNgY1a8p4AaABAg",
+        "authorDisplayName": "Karol",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/jmGQLoaLk0sXBAgPYijeWPrLX5W206QBovNCUdNQ59-qRQfzstnJb5Nb5WFnjzcgF0rnG_04rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7KRJMNOEnUgMQ61soRy_DA",
+        "authorChannelId": {
+          "value": "UC7KRJMNOEnUgMQ61soRy_DA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-26T14:28:32Z",
+        "updatedAt": "2021-02-26T14:28:32Z"
+      }
+    }
+  ]
+}

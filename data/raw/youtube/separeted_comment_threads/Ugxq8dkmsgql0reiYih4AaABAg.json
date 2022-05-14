@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Y5MGlirimQqTgV3RRU4R6gNOqpE",
+  "id": "Ugxq8dkmsgql0reiYih4AaABAg",
+  "snippet": {
+    "videoId": "TsmPBROY6Mc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lcIDglBVQ-soBP8EhHc0XW_RyIs",
+      "id": "Ugxq8dkmsgql0reiYih4AaABAg",
+      "snippet": {
+        "videoId": "TsmPBROY6Mc",
+        "textDisplay": "Ele pode sangrar?",
+        "textOriginal": "Ele pode sangrar?",
+        "authorDisplayName": "Hilda Faria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdYdQixdtm13ZWf7iARzjxIvHcyK8uFZ7UPrA-1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1BNs_vA5HwKWkofhgPHrmg",
+        "authorChannelId": {
+          "value": "UC1BNs_vA5HwKWkofhgPHrmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-14T02:44:20Z",
+        "updatedAt": "2021-08-14T02:44:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tdJD0c0DrNr77imoA0LkbYQs7Js",
+      "id": "Ugxq8dkmsgql0reiYih4AaABAg.9R-y_KhD11O9RkO3gHBhhz",
+      "snippet": {
+        "textDisplay": "Sim",
+        "textOriginal": "Sim",
+        "parentId": "Ugxq8dkmsgql0reiYih4AaABAg",
+        "authorDisplayName": "Tamiris Iima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQUdE6blhQ0qEHPOhXV6Sk03pCis3VzGDFt4O1n=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCifsLNzgdZsNX5qjaM35agw",
+        "authorChannelId": {
+          "value": "UCifsLNzgdZsNX5qjaM35agw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-01T12:40:07Z",
+        "updatedAt": "2021-09-01T12:40:07Z"
+      }
+    }
+  ]
+}

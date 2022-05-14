@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZtmFSzOTWt-zxTRx-59Oe4gUiN0",
+  "id": "UgyE2OQY0nwZypfxH0R4AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9O027MFK43As-jbfO4Nqa1Ms2bk",
+      "id": "UgyE2OQY0nwZypfxH0R4AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "Hello ander.. Thank you for the new tip.. I want to ask you how to avoid noise when I use skylight only in the scene.. Using corona renderer?",
+        "textOriginal": "Hello ander.. Thank you for the new tip.. I want to ask you how to avoid noise when I use skylight only in the scene.. Using corona renderer?",
+        "authorDisplayName": "ZAK Architects",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRipUsol1bvmO705T5fZHNG9sy8wETMVWx86jopWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm_i5thcmHwS-4OUAv3jKlQ",
+        "authorChannelId": {
+          "value": "UCm_i5thcmHwS-4OUAv3jKlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-27T08:28:29Z",
+        "updatedAt": "2021-04-27T08:28:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZeQyxMFHfeWgIKwEgLqh9y_elgA",
+      "id": "UgyE2OQY0nwZypfxH0R4AaABAg.9McvJ_AiSxH9MeXkx-Ri-N",
+      "snippet": {
+        "textDisplay": "Can you tell me what should i focus on material parameters to avoid noise?",
+        "textOriginal": "Can you tell me what should i focus on material parameters to avoid noise?",
+        "parentId": "UgyE2OQY0nwZypfxH0R4AaABAg",
+        "authorDisplayName": "ZAK Architects",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRipUsol1bvmO705T5fZHNG9sy8wETMVWx86jopWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm_i5thcmHwS-4OUAv3jKlQ",
+        "authorChannelId": {
+          "value": "UCm_i5thcmHwS-4OUAv3jKlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-27T23:32:23Z",
+        "updatedAt": "2021-04-27T23:32:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "mTkx3yjjK_e8Pz-woU2PHZbiMuU",
+      "id": "UgyE2OQY0nwZypfxH0R4AaABAg.9McvJ_AiSxH9Me2RvwaIx9",
+      "snippet": {
+        "textDisplay": "While using corona sky, a proper material configuration for all the objects in your scene should give you a scene that cleans up the noise relatively fast.",
+        "textOriginal": "While using corona sky, a proper material configuration for all the objects in your scene should give you a scene that cleans up the noise relatively fast.",
+        "parentId": "UgyE2OQY0nwZypfxH0R4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-27T18:58:46Z",
+        "updatedAt": "2021-04-27T18:58:46Z"
+      }
+    }
+  ]
+}

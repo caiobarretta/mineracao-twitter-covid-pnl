@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EwkHBQuAaEhOZOa5cTN2Ry196-E",
+  "id": "Ugyy6NzONrBw2smQO6R4AaABAg",
+  "snippet": {
+    "videoId": "Gih0Ivhxmao",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fIpD71bIdKXj2HFGYZjZXOesat4",
+      "id": "Ugyy6NzONrBw2smQO6R4AaABAg",
+      "snippet": {
+        "videoId": "Gih0Ivhxmao",
+        "textDisplay": "Semoga Allah melindungi nya",
+        "textOriginal": "Semoga Allah melindungi nya",
+        "authorDisplayName": "Nina Anisa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQIVxwwMXBfq0NCy89m0HOeQlhAULayjsg9Cg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5rY6_MYybjiQDi8te2d7Jg",
+        "authorChannelId": {
+          "value": "UC5rY6_MYybjiQDi8te2d7Jg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2020-04-03T01:26:08Z",
+        "updatedAt": "2020-04-03T01:26:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EUVvtYnY3Aj0K8kREOQ1RPRkCKg",
+      "id": "Ugyy6NzONrBw2smQO6R4AaABAg.96yWknjxewK9PvBKCS_Viv",
+      "snippet": {
+        "textDisplay": "Amin \ud83d\ude4f",
+        "textOriginal": "Amin \ud83d\ude4f",
+        "parentId": "Ugyy6NzONrBw2smQO6R4AaABAg",
+        "authorDisplayName": "Stark Company",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/qa_H5_kXJSkSyEX5sVu4Ywbqhs8w2J78H54X19_f0b7C9zkV8lILgIDaOQ2EI0T3aziOY-10Dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCto_sgejRqSNA86C_OGDoA",
+        "authorChannelId": {
+          "value": "UCCto_sgejRqSNA86C_OGDoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-18T00:17:38Z",
+        "updatedAt": "2021-07-18T00:17:38Z"
+      }
+    }
+  ]
+}

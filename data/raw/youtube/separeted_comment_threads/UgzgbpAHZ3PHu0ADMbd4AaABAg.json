@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3XMO6aWtMcv70aDt_-JxJoBZT3E",
+  "id": "UgzgbpAHZ3PHu0ADMbd4AaABAg",
+  "snippet": {
+    "videoId": "0egtHw2GV6c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xa0S7Kkp-YAXXmWhvg3zdf6SxXg",
+      "id": "UgzgbpAHZ3PHu0ADMbd4AaABAg",
+      "snippet": {
+        "videoId": "0egtHw2GV6c",
+        "textDisplay": "Valeu linda \ud83d\udc4d\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Valeu linda \ud83d\udc4d\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Brazilian Br",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTag085Wh6-NnRwiSD80HuxkzdX59MOQLUo8kf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmJxZE9v69DMpdV25hd_0YQ",
+        "authorChannelId": {
+          "value": "UCmJxZE9v69DMpdV25hd_0YQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-08T20:17:24Z",
+        "updatedAt": "2022-05-08T20:17:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j5BS25qf0rYc_rI0Hq54nIIMwEY",
+      "id": "UgzgbpAHZ3PHu0ADMbd4AaABAg.9amMKkMP_Xt9aog4apIS3c",
+      "snippet": {
+        "textDisplay": "obrigada vc!",
+        "textOriginal": "obrigada vc!",
+        "parentId": "UgzgbpAHZ3PHu0ADMbd4AaABAg",
+        "authorDisplayName": "Europeia no Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t3Uotyvbzdug7-olXo1YnPvgUGf-V0NFlwEP9C5donudwbFEbSJ467QywtglC1LRbNViJsxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu58FZdbhOURLjgD3uYXvPw",
+        "authorChannelId": {
+          "value": "UCu58FZdbhOURLjgD3uYXvPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T17:57:10Z",
+        "updatedAt": "2022-05-09T17:57:10Z"
+      }
+    }
+  ]
+}

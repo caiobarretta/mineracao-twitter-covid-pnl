@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vRdKNbiflH9qyCHgg-olVtjnA_A",
+  "id": "UgxuY8DIt6rGc5-vUEh4AaABAg",
+  "snippet": {
+    "videoId": "PSnSo9kYlH4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_eXXUkpHz2Ra-fmYG0VOdKGdeHk",
+      "id": "UgxuY8DIt6rGc5-vUEh4AaABAg",
+      "snippet": {
+        "videoId": "PSnSo9kYlH4",
+        "textDisplay": "Thank you for the content! Do you have a video of how the coronavirus acts inside an infected person? It would make it so much easier to understand.",
+        "textOriginal": "Thank you for the content! Do you have a video of how the coronavirus acts inside an infected person? It would make it so much easier to understand.",
+        "authorDisplayName": "M Mascarenhas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsEt-bsG7kO1-AA5S0CXQrXb2MbsACEiCMzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJg7sJtlSr-XPDdAYbFNIZg",
+        "authorChannelId": {
+          "value": "UCJg7sJtlSr-XPDdAYbFNIZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-10T16:47:45Z",
+        "updatedAt": "2020-04-10T16:47:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jW29VVPHZ499uYmg1YtAcnnReuY",
+      "id": "UgxuY8DIt6rGc5-vUEh4AaABAg.97HBn3YXTR79GRG303jXBi",
+      "snippet": {
+        "textDisplay": "Covid is as deadly as a normal flu",
+        "textOriginal": "Covid is as deadly as a normal flu",
+        "parentId": "UgxuY8DIt6rGc5-vUEh4AaABAg",
+        "authorDisplayName": "Chris 1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRLT3xrFIQnVXAgqBU0xwEVsynZEmrU9dgW-Anr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpu_kITTPmBCSFOqRwiArCQ",
+        "authorChannelId": {
+          "value": "UCpu_kITTPmBCSFOqRwiArCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-24T07:19:58Z",
+        "updatedAt": "2020-11-24T07:19:58Z"
+      }
+    }
+  ]
+}

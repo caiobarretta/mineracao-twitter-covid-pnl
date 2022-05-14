@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ihBQxPyongHK8sX84QAJXk4_Tpc",
+  "id": "UgzC9n4lozWZTGb6hZd4AaABAg",
+  "snippet": {
+    "videoId": "JzM21pMHD6w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JrrWQQYs4Tgp3KpeOBsRNV6bzvw",
+      "id": "UgzC9n4lozWZTGb6hZd4AaABAg",
+      "snippet": {
+        "videoId": "JzM21pMHD6w",
+        "textDisplay": "Que aula boa!",
+        "textOriginal": "Que aula boa!",
+        "authorDisplayName": "Dayelle Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9fOAgPSwKQTa-WMKPwRY9PdAhCiI0N3eB-KoCSqMK1aCx9bYjzWBgPE3QNxpLxj45T4gP-df=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCz0ATruJ4EP7VEqzk05C5RA",
+        "authorChannelId": {
+          "value": "UCz0ATruJ4EP7VEqzk05C5RA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-14T21:33:40Z",
+        "updatedAt": "2022-01-14T21:33:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zmy471nyfIfbDldpIBgw82LWzZE",
+      "id": "UgzC9n4lozWZTGb6hZd4AaABAg.9XBxRcLF-iv9XIiFqOvk0n",
+      "snippet": {
+        "textDisplay": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "textOriginal": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "parentId": "UgzC9n4lozWZTGb6hZd4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T12:35:40Z",
+        "updatedAt": "2022-01-17T12:35:40Z"
+      }
+    }
+  ]
+}

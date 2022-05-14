@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "75EXBy-V43NDOxQnd8K_0aGk4tE",
+  "id": "UgjeSpha0UsJHXgCoAEC",
+  "snippet": {
+    "videoId": "2NaJEbyjOcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WYwa2m1lgv8yBuJ2npA-7l3Aq6A",
+      "id": "UgjeSpha0UsJHXgCoAEC",
+      "snippet": {
+        "videoId": "2NaJEbyjOcw",
+        "textDisplay": "is there any diferences between using output and color correction maps?",
+        "textOriginal": "is there any diferences between using output and color correction maps?",
+        "authorDisplayName": "raul montiel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS2ghBoMaScfdvV0QWQ3w53qvQnNySdsR6T_9HEZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjpZLnI6uR6Ju82xwH7oetQ",
+        "authorChannelId": {
+          "value": "UCjpZLnI6uR6Ju82xwH7oetQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2016-11-16T21:23:06Z",
+        "updatedAt": "2016-11-16T21:23:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iDgu9hpydPmfcyJ2AbCLgpW51Ns",
+      "id": "UgjeSpha0UsJHXgCoAEC.8LMCnr-NzDT8mpF1HAFVoI",
+      "snippet": {
+        "textDisplay": "You can have same result but output is kinda harder to get stronger contrast i guess.",
+        "textOriginal": "You can have same result but output is kinda harder to get stronger contrast i guess.",
+        "parentId": "UgjeSpha0UsJHXgCoAEC",
+        "authorDisplayName": "\u0423\u0440\u043e\u0448 \u0408\u043e\u0432\u0438\u045b",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQ7i9zUf2FbTVd-U7klnqGPGMTJqrDjj7dLXfPIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI-bPYqsCTbmFFW1saA0ctQ",
+        "authorChannelId": {
+          "value": "UCI-bPYqsCTbmFFW1saA0ctQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-10-25T11:58:47Z",
+        "updatedAt": "2018-10-25T11:58:47Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "hAihFCfNAZ__ozcyW8DDwZ89aCk",
+      "id": "UgjeSpha0UsJHXgCoAEC.8LMCnr-NzDT8MVc_6rHmAL",
+      "snippet": {
+        "textDisplay": "bothers me too",
+        "textOriginal": "bothers me too",
+        "parentId": "UgjeSpha0UsJHXgCoAEC",
+        "authorDisplayName": "Ivanna Vlasiuk",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyMhYfvqs_tk3T0GaneV6EYpCrWOutUf85f9BGzeU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdIOU-gTWATArkXoalexVMA",
+        "authorChannelId": {
+          "value": "UCdIOU-gTWATArkXoalexVMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2016-12-15T09:41:34Z",
+        "updatedAt": "2016-12-15T09:41:34Z"
+      }
+    }
+  ]
+}

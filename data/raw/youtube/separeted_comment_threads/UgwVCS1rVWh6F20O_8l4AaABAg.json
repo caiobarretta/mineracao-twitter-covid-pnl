@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_PV0rZaUeTTdyFIMXmStSOKp88U",
+  "id": "UgwVCS1rVWh6F20O_8l4AaABAg",
+  "snippet": {
+    "videoId": "DWVD8lVVFR0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oKmdzh9oq8gXDSOhkOONxjUldOQ",
+      "id": "UgwVCS1rVWh6F20O_8l4AaABAg",
+      "snippet": {
+        "videoId": "DWVD8lVVFR0",
+        "textDisplay": "Mano, seu canal \u00e9 incr\u00edvel velho. Muito obrigado !",
+        "textOriginal": "Mano, seu canal \u00e9 incr\u00edvel velho. Muito obrigado !",
+        "authorDisplayName": "Vinicius Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCB-cxqEukqC_Q0VzCWqEKdlBrlpYENExfx0uejA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNnYLROxlxxDBdzcNvnMYSQ",
+        "authorChannelId": {
+          "value": "UCNnYLROxlxxDBdzcNvnMYSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-12-31T00:50:00Z",
+        "updatedAt": "2020-12-31T00:50:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8KBkYlm-ZBJU3iFBgxjKeNDMTfw",
+      "id": "UgwVCS1rVWh6F20O_8l4AaABAg.9Hupq9dcKr_9HupzRik0kE",
+      "snippet": {
+        "textDisplay": "Valeu mano, tamo junto!",
+        "textOriginal": "Valeu mano, tamo junto!",
+        "parentId": "UgwVCS1rVWh6F20O_8l4AaABAg",
+        "authorDisplayName": "Node Studio Treinamentos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTp3CnCvANG3_JKqEgmDomVltCNUGsJjWYr0a7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw",
+        "authorChannelId": {
+          "value": "UCZZ0NTtOgsLIT4Skr6GUpAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-31T00:51:16Z",
+        "updatedAt": "2020-12-31T00:51:16Z"
+      }
+    }
+  ]
+}

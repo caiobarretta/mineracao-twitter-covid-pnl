@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rT_fEC4cwRr87YyOCTJMYnsl8PI",
+  "id": "UgyqsDYrUO7Y-JWqsE54AaABAg",
+  "snippet": {
+    "videoId": "fx3jxM5q5_4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UkqMkZk-EbRirR2r9jNTwI2umRA",
+      "id": "UgyqsDYrUO7Y-JWqsE54AaABAg",
+      "snippet": {
+        "videoId": "fx3jxM5q5_4",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Henrique Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRBhFm-MmQD7Lu0WN_NcFdKyQILRaNWWzp7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLA_Ui_zZ5wOvDeOBKOnUAQ",
+        "authorChannelId": {
+          "value": "UCLA_Ui_zZ5wOvDeOBKOnUAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-07-30T21:19:33Z",
+        "updatedAt": "2018-07-30T21:19:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "efBAmk6JwK3AG6DxPu1-290Sgo0",
+      "id": "UgyqsDYrUO7Y-JWqsE54AaABAg.8jLE2DGITD38jLEn7_z0Ri",
+      "snippet": {
+        "textDisplay": "\ud83d\ude09",
+        "textOriginal": "\ud83d\ude09",
+        "parentId": "UgyqsDYrUO7Y-JWqsE54AaABAg",
+        "authorDisplayName": "Agora, Disserte!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-rEfMw-oOkoG-4PsdbJx0O9HJRzVnhW398dMJeg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCReIDcUmvpx2ttRcaJShLIQ",
+        "authorChannelId": {
+          "value": "UCReIDcUmvpx2ttRcaJShLIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-30T21:26:05Z",
+        "updatedAt": "2018-07-30T21:26:05Z"
+      }
+    }
+  ]
+}

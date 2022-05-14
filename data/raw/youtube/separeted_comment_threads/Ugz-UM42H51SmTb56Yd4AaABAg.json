@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eiDn_nK2I3YqXbTrOCklqzGm-p4",
+  "id": "Ugz-UM42H51SmTb56Yd4AaABAg",
+  "snippet": {
+    "videoId": "sHJ43UNlIok",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "I7mADYVueAlgeZ_x06jsh_8cTF4",
+      "id": "Ugz-UM42H51SmTb56Yd4AaABAg",
+      "snippet": {
+        "videoId": "sHJ43UNlIok",
+        "textDisplay": "Excelente como sempre Ander, eu sempre assisto seus v\u00eddeos",
+        "textOriginal": "Excelente como sempre Ander, eu sempre assisto seus v\u00eddeos",
+        "authorDisplayName": "Fabricio \u00c1lvarez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdeWIy_Ni0rnhSq1OQa41DRArnmXWW0yh-gfp3HA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHGpYlIp_869suPO15IKEZg",
+        "authorChannelId": {
+          "value": "UCHGpYlIp_869suPO15IKEZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-14T00:20:50Z",
+        "updatedAt": "2021-09-14T00:20:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "x1yvZFfUqDNRNlpA-4phqdkYtQc",
+      "id": "Ugz-UM42H51SmTb56Yd4AaABAg.9SFXnRtqCKx9SJ_ArkojHZ",
+      "snippet": {
+        "textDisplay": "Muito obrigado! \ud83d\udc4a",
+        "textOriginal": "Muito obrigado! \ud83d\udc4a",
+        "parentId": "Ugz-UM42H51SmTb56Yd4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-15T13:58:37Z",
+        "updatedAt": "2021-09-15T13:58:37Z"
+      }
+    }
+  ]
+}

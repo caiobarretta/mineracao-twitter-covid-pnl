@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "25OndWErVe_lYbfEGHDIbLjK39Q",
+  "id": "UgzEUFiTMKmdZTRzyOp4AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BlKQ768paYz8gCIwRRHdObMifG0",
+      "id": "UgzEUFiTMKmdZTRzyOp4AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Ameiiiiiii",
+        "textOriginal": "Ameiiiiiii",
+        "authorDisplayName": "Yasmim Acioly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhcuZt8ASp2-xH8DEZl9M7YeTVFYHgPlQek4sufg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0HepKfzP5U2HOuYdawrgQg",
+        "authorChannelId": {
+          "value": "UC0HepKfzP5U2HOuYdawrgQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-08T22:47:47Z",
+        "updatedAt": "2020-05-08T22:47:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zgL9J_8iV6MmctC4vCM6shxhc_8",
+      "id": "UgzEUFiTMKmdZTRzyOp4AaABAg.98PwFVlOWkZ98ZwCs6rOt3",
+      "snippet": {
+        "textDisplay": "Yasmim Acioly \ud83e\udd70",
+        "textOriginal": "Yasmim Acioly \ud83e\udd70",
+        "parentId": "UgzEUFiTMKmdZTRzyOp4AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-12T19:59:50Z",
+        "updatedAt": "2020-05-12T19:59:50Z"
+      }
+    }
+  ]
+}

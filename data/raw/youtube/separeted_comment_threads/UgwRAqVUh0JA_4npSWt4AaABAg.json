@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lLD-IE0oMDhIDbr2MnSFDkulbAs",
+  "id": "UgwRAqVUh0JA_4npSWt4AaABAg",
+  "snippet": {
+    "videoId": "2L45doMx_aw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XVNtzZbY8DfXDp7_RLs5110HE9M",
+      "id": "UgwRAqVUh0JA_4npSWt4AaABAg",
+      "snippet": {
+        "videoId": "2L45doMx_aw",
+        "textDisplay": "Excelente explica\u00e7\u00e3o.. Cad\u00ea o v\u00eddeo da 8142??",
+        "textOriginal": "Excelente explica\u00e7\u00e3o.. Cad\u00ea o v\u00eddeo da 8142??",
+        "authorDisplayName": "Ingrid Rockel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrUxvmqnskuudeYhXJOntjCIXS4OUCknVbRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb8XUCAgJ_ppMbhvaanGQjg",
+        "authorChannelId": {
+          "value": "UCb8XUCAgJ_ppMbhvaanGQjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-08-02T02:22:13Z",
+        "updatedAt": "2019-08-02T02:22:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rbdtqbPL1fwF3GEnlYteQnnZK_8",
+      "id": "UgwRAqVUh0JA_4npSWt4AaABAg.8y6lQ7ifgZw8yE9XXYviiE",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m queria e n\u00e3o achei",
+        "textOriginal": "Tamb\u00e9m queria e n\u00e3o achei",
+        "parentId": "UgwRAqVUh0JA_4npSWt4AaABAg",
+        "authorDisplayName": "Jessica Santilli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTisH3gGQa1or3XtnYGoxsZ0A7-aroSpZ14Xw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeDVPU4m-wlnrLn7_PjAyCA",
+        "authorChannelId": {
+          "value": "UCeDVPU4m-wlnrLn7_PjAyCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-08-04T23:16:21Z",
+        "updatedAt": "2019-08-04T23:16:21Z"
+      }
+    }
+  ]
+}

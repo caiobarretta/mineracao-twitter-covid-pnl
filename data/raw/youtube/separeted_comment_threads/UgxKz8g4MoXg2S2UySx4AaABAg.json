@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uA90JYa5aNxmfThBvco7dMDEPPs",
+  "id": "UgxKz8g4MoXg2S2UySx4AaABAg",
+  "snippet": {
+    "videoId": "svOoqRyHJf8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iFUdKkYU3RSL5oBf4UZziOxo7KM",
+      "id": "UgxKz8g4MoXg2S2UySx4AaABAg",
+      "snippet": {
+        "videoId": "svOoqRyHJf8",
+        "textDisplay": "\u201cJ\u00e1 se tentou de tudo\u201d, menos baixar impostos, diminuir o Estado e abrir o pa\u00eds comercialmente!",
+        "textOriginal": "\u201cJ\u00e1 se tentou de tudo\u201d, menos baixar impostos, diminuir o Estado e abrir o pa\u00eds comercialmente!",
+        "authorDisplayName": "Leo Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2R5ge6xBR6gkq9F_IRPgLlAUrjZIUj4ElOvtdEA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrUQJJu9aWWt-FRCh9f2pAw",
+        "authorChannelId": {
+          "value": "UCrUQJJu9aWWt-FRCh9f2pAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-06T13:28:22Z",
+        "updatedAt": "2022-05-06T13:28:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "koqwtk6OXw_zLKsF-yTCJppIxqA",
+      "id": "UgxKz8g4MoXg2S2UySx4AaABAg.9agTwC7BHLY9agyqefFZ0N",
+      "snippet": {
+        "textDisplay": "Com um estado gast\u00e3o que n\u00e3o controla as suas contas? Imposs\u00edvel abaixar e estabilizar a infla\u00e7\u00e3o.",
+        "textOriginal": "Com um estado gast\u00e3o que n\u00e3o controla as suas contas? Imposs\u00edvel abaixar e estabilizar a infla\u00e7\u00e3o.",
+        "parentId": "UgxKz8g4MoXg2S2UySx4AaABAg",
+        "authorDisplayName": "Sergio Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBkbzRchnyCMkmbB0QemBdPU6AFFs655U6b3zllg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkQMcj-0ordjfEltcGhObFA",
+        "authorChannelId": {
+          "value": "UCkQMcj-0ordjfEltcGhObFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-06T18:07:14Z",
+        "updatedAt": "2022-05-06T18:08:30Z"
+      }
+    }
+  ]
+}

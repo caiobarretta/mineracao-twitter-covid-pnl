@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vBm5GWx9OCdFTnwUKVIkT-C62Ao",
+  "id": "UgzDzh3dRY0B52OrdKN4AaABAg",
+  "snippet": {
+    "videoId": "80O41IHnFk4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_gPXz93pF_OCCHBcMy8ZtZ0EgUA",
+      "id": "UgzDzh3dRY0B52OrdKN4AaABAg",
+      "snippet": {
+        "videoId": "80O41IHnFk4",
+        "textDisplay": "Amei tudo lindo \u2764\ufe0f\ud83d\ude0d",
+        "textOriginal": "Amei tudo lindo \u2764\ufe0f\ud83d\ude0d",
+        "authorDisplayName": "Bianca Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvZbHtmHf-Dva78WGsuFJLOJKHC0qjul4KUwZM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCk5l9ieiyCeb_4-kntXc7_A",
+        "authorChannelId": {
+          "value": "UCk5l9ieiyCeb_4-kntXc7_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-24T20:48:50Z",
+        "updatedAt": "2021-06-24T20:48:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VAKLkobScaOQ5-9O3mcIVFAVXHI",
+      "id": "UgzDzh3dRY0B52OrdKN4AaABAg.9Oza8itwYZK9P-AbDQpaSP",
+      "snippet": {
+        "textDisplay": "Obg meu amor \ud83d\ude0d",
+        "textOriginal": "Obg meu amor \ud83d\ude0d",
+        "parentId": "UgzDzh3dRY0B52OrdKN4AaABAg",
+        "authorDisplayName": "Andriely Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAK2OGZWiCrPHbb1s-ZNDGsM4vLdW2k7swVr40=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr8lgUSBTGoiVR9FpJDDXYQ",
+        "authorChannelId": {
+          "value": "UCr8lgUSBTGoiVR9FpJDDXYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-25T02:16:10Z",
+        "updatedAt": "2021-06-25T02:16:10Z"
+      }
+    }
+  ]
+}

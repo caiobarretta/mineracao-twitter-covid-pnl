@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tc72R8TBxECRtKT--FvUpbcwOCA",
+  "id": "UgwK7lzOMO63gvsOrFN4AaABAg",
+  "snippet": {
+    "videoId": "ybiu1Q3yLz4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "c23RzuQWd3Omq2u6dvj_QpmHuYQ",
+      "id": "UgwK7lzOMO63gvsOrFN4AaABAg",
+      "snippet": {
+        "videoId": "ybiu1Q3yLz4",
+        "textDisplay": "Rapaz, seus v\u00eddeos mudaram radicalmente\u2026 muito bem elaborados",
+        "textOriginal": "Rapaz, seus v\u00eddeos mudaram radicalmente\u2026 muito bem elaborados",
+        "authorDisplayName": "Genilson Brand\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_yy80X4ROyjI5tZDcKGcl6tGppbYe6w2mTsv2suE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ1u0wgpH9NhRkc0ktIYtnQ",
+        "authorChannelId": {
+          "value": "UCQ1u0wgpH9NhRkc0ktIYtnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 57,
+        "publishedAt": "2022-05-08T13:24:28Z",
+        "updatedAt": "2022-05-08T13:24:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "t28lSi8aqJ4Fg6-RgLMN4ItosRI",
+      "id": "UgwK7lzOMO63gvsOrFN4AaABAg.9alc4Pr0O7y9aldJMuc20y",
+      "snippet": {
+        "textDisplay": "Muito obrigado!!!",
+        "textOriginal": "Muito obrigado!!!",
+        "parentId": "UgwK7lzOMO63gvsOrFN4AaABAg",
+        "authorDisplayName": "Dinheiro Com Voc\u00ea - Por William Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmFf8t7WpSCZXg6MdPRamRrzIEZ-1IQOtE_kbq=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkPwI3gaSr65levrx1j9okQ",
+        "authorChannelId": {
+          "value": "UCkPwI3gaSr65levrx1j9okQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-08T13:35:15Z",
+        "updatedAt": "2022-05-08T13:35:15Z"
+      }
+    }
+  ]
+}

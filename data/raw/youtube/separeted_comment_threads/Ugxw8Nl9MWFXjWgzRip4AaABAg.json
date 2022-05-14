@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yKfpnstzSgbvIZTRBH12DN1wOig",
+  "id": "Ugxw8Nl9MWFXjWgzRip4AaABAg",
+  "snippet": {
+    "videoId": "GE2v0GmESdg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qqflCCa8EcCxAWKp4NdTTUqtoi0",
+      "id": "Ugxw8Nl9MWFXjWgzRip4AaABAg",
+      "snippet": {
+        "videoId": "GE2v0GmESdg",
+        "textDisplay": "Me emocionou tanto! Que mulher maravilhosa! Obrigada, Dra. Julia",
+        "textOriginal": "Me emocionou tanto! Que mulher maravilhosa! Obrigada, Dra. Julia",
+        "authorDisplayName": "Caryna Eurich Mazur",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqdu9J5DlWcYTkcK6gsRVCidUhnN_cWbtQ9IRL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7W6H6274mDt33c5j5ekSyQ",
+        "authorChannelId": {
+          "value": "UC7W6H6274mDt33c5j5ekSyQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 40,
+        "publishedAt": "2018-07-26T22:52:29Z",
+        "updatedAt": "2018-07-26T22:52:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iaZQG913KDNpMl9PTfEFUhOqfR0",
+      "id": "Ugxw8Nl9MWFXjWgzRip4AaABAg.8jB5VMZVJnJ8kRFbn2MId2",
+      "snippet": {
+        "textDisplay": "Mt bom.\nParab\u00e9ns.",
+        "textOriginal": "Mt bom.\nParab\u00e9ns.",
+        "parentId": "Ugxw8Nl9MWFXjWgzRip4AaABAg",
+        "authorDisplayName": "Conceicao Dias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFM-5gz7_NjDKVxXuf5590Cw1v5tyG5vufNgtU5-8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD-SF0bU9V37T3xJvHNlpSw",
+        "authorChannelId": {
+          "value": "UCD-SF0bU9V37T3xJvHNlpSw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-08-27T02:00:07Z",
+        "updatedAt": "2018-08-27T02:00:07Z"
+      }
+    }
+  ]
+}

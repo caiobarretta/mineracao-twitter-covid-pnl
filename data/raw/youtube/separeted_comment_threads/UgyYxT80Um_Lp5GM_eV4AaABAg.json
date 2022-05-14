@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "N1ryzdxdLhKSZjiqDmlw9-1wSDo",
+  "id": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+  "snippet": {
+    "videoId": "aocwg0zKjY8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G9WWCzYm7O610SXqJK_d8fA5YYE",
+      "id": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+      "snippet": {
+        "videoId": "aocwg0zKjY8",
+        "textDisplay": "Omong kosong",
+        "textOriginal": "Omong kosong",
+        "authorDisplayName": "thomas Ho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR60o2WjpweI_gh9ji88WtRDPGFQqRrCX90zA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWIuIDMgCd0ivYGHRbN0Vmw",
+        "authorChannelId": {
+          "value": "UCWIuIDMgCd0ivYGHRbN0Vmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-29T14:24:30Z",
+        "updatedAt": "2022-03-29T14:24:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s8Lw4O4L-jwQthvSvwXs6eEoMeU",
+      "id": "UgyYxT80Um_Lp5GM_eV4AaABAg.9_9j95-hL0M9_9ovtPNIub",
+      "snippet": {
+        "textDisplay": "Omong kosong apaan, banyak orang diluar ninggal karna virus ini bdh",
+        "textOriginal": "Omong kosong apaan, banyak orang diluar ninggal karna virus ini bdh",
+        "parentId": "UgyYxT80Um_Lp5GM_eV4AaABAg",
+        "authorDisplayName": "Zeirous",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kb2zFPgGjhdAH83nJLvxMqDMC1flAFZwHUPIc3ooWo2aBQyiWO3oe1d1h64jf3lw7YowAgZymg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcNnPOC3MH7Tr55Pc34vncA",
+        "authorChannelId": {
+          "value": "UCcNnPOC3MH7Tr55Pc34vncA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-29T15:14:59Z",
+        "updatedAt": "2022-03-29T15:14:59Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KwNIpo1nfAyRmYxBl8kcjAKOufo",
+  "id": "UgzI_-2wnbDH42tHLSx4AaABAg",
+  "snippet": {
+    "videoId": "P4xUMNtc-kQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mCqGsJwaFxAaleJ6GKfGp2olPP4",
+      "id": "UgzI_-2wnbDH42tHLSx4AaABAg",
+      "snippet": {
+        "videoId": "P4xUMNtc-kQ",
+        "textDisplay": "Aula perfeita!",
+        "textOriginal": "Aula perfeita!",
+        "authorDisplayName": "Aline Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTROGb-2OR8KzRGOZQYWo65bMEfe_Dpxq6aUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAOzwMrEl-A7zYyxrc5TISw",
+        "authorChannelId": {
+          "value": "UCAOzwMrEl-A7zYyxrc5TISw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-11-07T22:07:49Z",
+        "updatedAt": "2021-11-07T22:07:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1Jp4uIW7hkPEn6VpJznaYco78BQ",
+      "id": "UgzI_-2wnbDH42tHLSx4AaABAg.9USvIJnINjx9UVQ4kX_wSm",
+      "snippet": {
+        "textDisplay": "\ud83e\udd89 Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete. Toda semanas v\u00eddeos di\u00e1rios para mant\u00ea-los atualizados. Conte sempre com a Coruja. \ud83d\udc9a\ud83e\udd89",
+        "textOriginal": "\ud83e\udd89 Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete. Toda semanas v\u00eddeos di\u00e1rios para mant\u00ea-los atualizados. Conte sempre com a Coruja. \ud83d\udc9a\ud83e\udd89",
+        "parentId": "UgzI_-2wnbDH42tHLSx4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-08T21:24:04Z",
+        "updatedAt": "2021-11-08T21:24:04Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g7WEBGBIdlnYtVyH9X0DuJJvrzg",
+  "id": "UgzNM_scWIEezEdNmNd4AaABAg",
+  "snippet": {
+    "videoId": "O2nhpPjHqTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iCG4ZryoFc88ZiIqWdpO4VTFGLw",
+      "id": "UgzNM_scWIEezEdNmNd4AaABAg",
+      "snippet": {
+        "videoId": "O2nhpPjHqTs",
+        "textDisplay": "Esse hospital da m\u00e3e \u00e9 o de mesquita ?",
+        "textOriginal": "Esse hospital da m\u00e3e \u00e9 o de mesquita ?",
+        "authorDisplayName": "Carla Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkRREA2TppEA1zTA8ZCXJYCNfGhCEmxelGvUFTOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClYn0xtW3t60QlY_nliElFg",
+        "authorChannelId": {
+          "value": "UClYn0xtW3t60QlY_nliElFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-18T17:08:58Z",
+        "updatedAt": "2021-02-18T17:08:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZeshiVUawDgsNV6l_NNyU-Q0bFc",
+      "id": "UgzNM_scWIEezEdNmNd4AaABAg.9JukpARsqPW9KWvONi9uk5",
+      "snippet": {
+        "textDisplay": "Sim",
+        "textOriginal": "Sim",
+        "parentId": "UgzNM_scWIEezEdNmNd4AaABAg",
+        "authorDisplayName": "Mycaella Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCKKQNy0MrImGG33HRXu4UYhSbKU8PP5_oFygx8g4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT4VDmuH273UEH3eaCMd1xA",
+        "authorChannelId": {
+          "value": "UCT4VDmuH273UEH3eaCMd1xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-05T22:11:40Z",
+        "updatedAt": "2021-03-05T22:11:40Z"
+      }
+    }
+  ]
+}

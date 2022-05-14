@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pI4PquOGzBhMP02vG1SR5f5_78U",
+  "id": "UgzDs3noPMl9BWASPY54AaABAg",
+  "snippet": {
+    "videoId": "_bAt4rCgc74",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FNoyxEPR2BFz6aW4suWg9UuA0j4",
+      "id": "UgzDs3noPMl9BWASPY54AaABAg",
+      "snippet": {
+        "videoId": "_bAt4rCgc74",
+        "textDisplay": "Era esse v\u00eddeo que eu tava esperando hahaha \ud83d\ude4c\ud83d\ude0d",
+        "textOriginal": "Era esse v\u00eddeo que eu tava esperando hahaha \ud83d\ude4c\ud83d\ude0d",
+        "authorDisplayName": "Cris Galkowski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQnIuFKCn2s0Gl2YaYaSrMfA8zdn6DzXnsvZnaq2A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxl7fx7VrO7qkY0jL6h2qew",
+        "authorChannelId": {
+          "value": "UCxl7fx7VrO7qkY0jL6h2qew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-21T00:32:27Z",
+        "updatedAt": "2021-09-21T00:32:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RFrw-L-JCyzeAQd_2VeEXCfFLqc",
+      "id": "UgzDs3noPMl9BWASPY54AaABAg.9SX_ge-HnuU9SZi4StZ17-",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a",
+        "parentId": "UgzDs3noPMl9BWASPY54AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-21T20:24:14Z",
+        "updatedAt": "2021-09-21T20:24:14Z"
+      }
+    }
+  ]
+}

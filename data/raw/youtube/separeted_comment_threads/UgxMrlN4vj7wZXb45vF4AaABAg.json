@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NvKAEVhIQzz5MKb9EmDM-rv95Fc",
+  "id": "UgxMrlN4vj7wZXb45vF4AaABAg",
+  "snippet": {
+    "videoId": "2IHDasI-YTw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "A1-t4OoJoUBxg5FSP8lJ65AhsP4",
+      "id": "UgxMrlN4vj7wZXb45vF4AaABAg",
+      "snippet": {
+        "videoId": "2IHDasI-YTw",
+        "textDisplay": "Meu denoising n\u00e3o funciona,  n\u00e3o importa o que eu coloco nas configura\u00e7\u00f5es dele em render setup, algu\u00e9m j\u00e1 teve esse problema?",
+        "textOriginal": "Meu denoising n\u00e3o funciona,  n\u00e3o importa o que eu coloco nas configura\u00e7\u00f5es dele em render setup, algu\u00e9m j\u00e1 teve esse problema?",
+        "authorDisplayName": "Tamiris Mello Zequim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlVP5_-gYy80G3nacPlr807lbZ9cjJyjEWc9NAFgg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB_ilCRNVBaBjQ3VtBvGMIw",
+        "authorChannelId": {
+          "value": "UCB_ilCRNVBaBjQ3VtBvGMIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-15T21:09:34Z",
+        "updatedAt": "2022-01-15T21:09:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "T-7uHLjNuq40HeMTc2JFj1YEAng",
+      "id": "UgxMrlN4vj7wZXb45vF4AaABAg.9XEUU-Dqn2b9ZHe2aVdSAX",
+      "snippet": {
+        "textDisplay": "@Ricardo Amaral CG Obrigada  Ricardo! Eu consegui resolver o problema!",
+        "textOriginal": "@Ricardo Amaral CG Obrigada  Ricardo! Eu consegui resolver o problema!",
+        "parentId": "UgxMrlN4vj7wZXb45vF4AaABAg",
+        "authorDisplayName": "Tamiris Mello Zequim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlVP5_-gYy80G3nacPlr807lbZ9cjJyjEWc9NAFgg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB_ilCRNVBaBjQ3VtBvGMIw",
+        "authorChannelId": {
+          "value": "UCB_ilCRNVBaBjQ3VtBvGMIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-07T19:42:27Z",
+        "updatedAt": "2022-03-07T19:42:27Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7fBHQboGWorw7mE7RM_lj_xaiN8",
+      "id": "UgxMrlN4vj7wZXb45vF4AaABAg.9XEUU-Dqn2b9XEoc12cx5e",
+      "snippet": {
+        "textDisplay": "O high quality era pra funcionar sem problemas, caso vc tiver usando o NVidia denoiser que \u00e9 em tempo real, vc precisa ter uma placa da NVidia. Da\u00ed pode ser isso, que n\u00e3o deve estar funcionando, caso vc tiver tendo algum problema, se der vc grava um v\u00eddeo mostrando o problema e eu posso te ajudar",
+        "textOriginal": "O high quality era pra funcionar sem problemas, caso vc tiver usando o NVidia denoiser que \u00e9 em tempo real, vc precisa ter uma placa da NVidia. Da\u00ed pode ser isso, que n\u00e3o deve estar funcionando, caso vc tiver tendo algum problema, se der vc grava um v\u00eddeo mostrando o problema e eu posso te ajudar",
+        "parentId": "UgxMrlN4vj7wZXb45vF4AaABAg",
+        "authorDisplayName": "Ricardo Amaral CG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiFdycpjsOp6sQewBXY5RwRVApul51KhsNTEZd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5sMArHhJTULUhoqHlklv9A",
+        "authorChannelId": {
+          "value": "UC5sMArHhJTULUhoqHlklv9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-16T00:14:18Z",
+        "updatedAt": "2022-01-16T00:14:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "p3ZJYFJ9XTtFRwJZcoY0fmGLiaQ",
+  "id": "Ugw6wZ-QkfcIA1AyRyN4AaABAg",
+  "snippet": {
+    "videoId": "4nj_DzJqIDY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3ccZOCWAjWcYGJv1T-LF27xNp_8",
+      "id": "Ugw6wZ-QkfcIA1AyRyN4AaABAg",
+      "snippet": {
+        "videoId": "4nj_DzJqIDY",
+        "textDisplay": "\"Cold chills down my spine\"\nYes, that is a symptom",
+        "textOriginal": "\"Cold chills down my spine\"\nYes, that is a symptom",
+        "authorDisplayName": "Turd Ferguson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyRnMzIR75_ZBZo0hyF2FspKf5UfRiSzUx3U7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqg0QOlgovQfAaIqXXy3DwQ",
+        "authorChannelId": {
+          "value": "UCqg0QOlgovQfAaIqXXy3DwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 259,
+        "publishedAt": "2020-04-04T20:45:08Z",
+        "updatedAt": "2020-04-04T20:45:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2o_9dDe6QoY7Cl06WELRorCx4tI",
+      "id": "Ugw6wZ-QkfcIA1AyRyN4AaABAg.972ABS9_N--99RDCgm94Cj",
+      "snippet": {
+        "textDisplay": "I just read that when she said that! \ud83d\ude02",
+        "textOriginal": "I just read that when she said that! \ud83d\ude02",
+        "parentId": "Ugw6wZ-QkfcIA1AyRyN4AaABAg",
+        "authorDisplayName": "Lucas Delgado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0J5SHsPQU7OMO_hwxwBGr2gmkCFItya5fXSi-bg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj8NzE0n7fTHemOqIzhTKqw",
+        "authorChannelId": {
+          "value": "UCj8NzE0n7fTHemOqIzhTKqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2020-06-03T07:15:19Z",
+        "updatedAt": "2020-06-03T07:15:19Z"
+      }
+    }
+  ]
+}

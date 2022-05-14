@@ -1,0 +1,412 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y9Sd0Knwm-H4FkAE1HQ_z_mIJgc",
+  "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+  "snippet": {
+    "videoId": "aocwg0zKjY8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hNB1esHNpRmhrVnvN9bZdsa8HGI",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+      "snippet": {
+        "videoId": "aocwg0zKjY8",
+        "textDisplay": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430. \u042f \u0440\u043e\u0434\u043e\u043c \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b, \u0420\u043e\u0441\u0441\u0438\u044f, \u044f \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u044b\u0448\u0430\u043b \u0438\u0437 \u043d\u0430\u0448\u0438\u0445 \u0421\u041c\u0418, \u0447\u0442\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0446\u044b \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443. \u041e\u0442 \u0438\u043c\u0435\u043d\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448\u0443 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443. \u0418 \u044f \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043d\u0435 \u0445\u043e\u0447\u0443, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0430 \u0432\u043e\u0439\u043d\u0430 \u0441\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c, \u043d\u043e \u043d\u0430\u0448\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043e \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0432\u043e\u0439\u043d\u0443, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u044b \u2014 \u043d\u043e\u0432\u044b\u0435 \u043d\u0430\u0446\u0438\u0441\u0442\u044b, \u0438 \u043e\u043d\u0438 \u0445\u043e\u0442\u044f\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434. \u041f\u0440\u0438\u0432\u0435\u0442 \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b. \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "textOriginal": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430. \u042f \u0440\u043e\u0434\u043e\u043c \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b, \u0420\u043e\u0441\u0441\u0438\u044f, \u044f \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u044b\u0448\u0430\u043b \u0438\u0437 \u043d\u0430\u0448\u0438\u0445 \u0421\u041c\u0418, \u0447\u0442\u043e \u0438\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0446\u044b \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443. \u041e\u0442 \u0438\u043c\u0435\u043d\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448\u0443 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443. \u0418 \u044f \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043d\u0435 \u0445\u043e\u0447\u0443, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0430 \u0432\u043e\u0439\u043d\u0430 \u0441\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c, \u043d\u043e \u043d\u0430\u0448\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043e \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0432\u043e\u0439\u043d\u0443, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u044b \u2014 \u043d\u043e\u0432\u044b\u0435 \u043d\u0430\u0446\u0438\u0441\u0442\u044b, \u0438 \u043e\u043d\u0438 \u0445\u043e\u0442\u044f\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043d\u0430\u0440\u043e\u0434. \u041f\u0440\u0438\u0432\u0435\u0442 \u0438\u0437 \u041c\u043e\u0441\u043a\u0432\u044b. \u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "authorDisplayName": "Bopat (Bocah Setempat)",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hRFrhwbp8Dq7b1GNA_KuOAo4E6duz6ogyXTeLg0yLJAnjebphpT251L3G3Efj6vSu4JjZPX-iA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsYgLrED4DGLOr5OvMsz-qA",
+        "authorChannelId": {
+          "value": "UCsYgLrED4DGLOr5OvMsz-qA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1226,
+        "publishedAt": "2022-03-23T01:25:35Z",
+        "updatedAt": "2022-03-23T01:25:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 274,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XroS4goofoGr3lm3LTBmlGxETCQ",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_sUlRD-0cR",
+      "snippet": {
+        "textDisplay": "\u0423\u0440\u0430 ...\u0443\u0440\u0430 .\u0443\u0443\u0443\u0443\u0443\u0443\u0440\u0440\u0440\u0440\u0440\u0430\u0430\u0430\u0430\u0430\u0430 \ud83d\udd25",
+        "textOriginal": "\u0423\u0440\u0430 ...\u0443\u0440\u0430 .\u0443\u0443\u0443\u0443\u0443\u0443\u0440\u0440\u0440\u0440\u0440\u0430\u0430\u0430\u0430\u0430\u0430 \ud83d\udd25",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Nano Adyana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJr1jdvVbBX1R9QC6SELPE4POpsgQZikWUBjaq8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCX9sf5gisj0QY0KjVIe9Ew",
+        "authorChannelId": {
+          "value": "UCCX9sf5gisj0QY0KjVIe9Ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-16T08:55:07Z",
+        "updatedAt": "2022-04-16T08:55:07Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "aVShmLwUd77NgekbCojnNonpwYY",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_sRXb2cC86",
+      "snippet": {
+        "textDisplay": "I love u katarina...\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83d\udcaa",
+        "textOriginal": "I love u katarina...\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\udde9\u2764\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83d\udcaa",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Muhamad Rozak",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9xxt_i2ksZP1hsELtY9_MXVw6lW78VK621Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa0lTe0hN5pOd53tijlCf3g",
+        "authorChannelId": {
+          "value": "UCa0lTe0hN5pOd53tijlCf3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-16T08:26:53Z",
+        "updatedAt": "2022-04-16T08:26:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "AWRweBDZKXWTwf5XoroDMkFegZk",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_ro_ZTXey_",
+      "snippet": {
+        "textDisplay": "Uraaaaaaaa, hidup putin!!!",
+        "textOriginal": "Uraaaaaaaa, hidup putin!!!",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Samsu Mardani",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_8mE3XPiqAhsFaf5fmVNonyDuu0hGXjiGTsmA7CGqW7HPcxi6FCrWAJrAlGL9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrd1B0kp0nNvzYeEe3oH6Cw",
+        "authorChannelId": {
+          "value": "UCrd1B0kp0nNvzYeEe3oH6Cw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-16T02:37:46Z",
+        "updatedAt": "2022-04-16T02:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7IzLJcOKYOb3-1lE_HzdmKhFrBc",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_lQeX1fsIm",
+      "snippet": {
+        "textDisplay": "Saya dari Indonesia  sangat respek dan salut dgn pemerintah  Rusia yg tidak suka Usil ke negara lain ... beda dengan  As dan sekutu sekutuNya  yg suka mengganggu kedaulatan negara lain itu tidak baik buat kehidupan  manusia di bumi ini ... smoga Allah swt  memberikan kemenangan di pihak Rusia Aamiin Yra",
+        "textOriginal": "Saya dari Indonesia  sangat respek dan salut dgn pemerintah  Rusia yg tidak suka Usil ke negara lain ... beda dengan  As dan sekutu sekutuNya  yg suka mengganggu kedaulatan negara lain itu tidak baik buat kehidupan  manusia di bumi ini ... smoga Allah swt  memberikan kemenangan di pihak Rusia Aamiin Yra",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Setiyo Budi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9wnAI3wKf8FDhr87IrlhPwQOJl0y1RF3LL9hJzW0Hfr1rDooLleKTx7PlwQSR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtpanr1qtuj5Xy3b97ph19Q",
+        "authorChannelId": {
+          "value": "UCtpanr1qtuj5Xy3b97ph19Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-13T15:04:33Z",
+        "updatedAt": "2022-04-13T15:04:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "zsTzOzoxrfnE2CQHYYp5NFx1c3M",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_c4FoDo-oD",
+      "snippet": {
+        "textDisplay": "Rusia & Indonesia adlh saudara dari presiden pertama indenesia  Ir.Soekarno hingga skarang\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d",
+        "textOriginal": "Rusia & Indonesia adlh saudara dari presiden pertama indenesia  Ir.Soekarno hingga skarang\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Nina nina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWU303zjPU6hbvcpSbWicbT4S-3DGz0YymjxYtSL2lTHj9CmhSrtyMHuhQZWcT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8u0EGes4OfMvIGqoQD75ZA",
+        "authorChannelId": {
+          "value": "UC8u0EGes4OfMvIGqoQD75ZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-09T23:55:38Z",
+        "updatedAt": "2022-04-09T23:55:38Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Yv3JYEK3Kdh8NdJ9m1smHJGENUo",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_WUhWQgg2T",
+      "snippet": {
+        "textDisplay": "Uraaa.. \nPoko'e.... \n\ud83d\udc4d\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+        "textOriginal": "Uraaa.. \nPoko'e.... \n\ud83d\udc4d\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Kholis Wiratmoyo Wiratmoyo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYA-mY4aIFVsSdG-Gxp-4mMuZlcfFLBuNGog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_XJxS55ohIgS92iFRmrYZA",
+        "authorChannelId": {
+          "value": "UC_XJxS55ohIgS92iFRmrYZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-07T10:32:03Z",
+        "updatedAt": "2022-04-07T10:32:03Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "fOLB25ZEEOg6cKVgh-129m9DPPw",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_WJb0nuhKX",
+      "snippet": {
+        "textDisplay": "Ura",
+        "textOriginal": "Ura",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Azie Zulzabbaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HVMEyiZuoL6l6eMuSaICaksC6EdMeR84IDR6cW0tHlEbq947UvoqqH98BE3QaST1KqTsn3wUcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnZjwbbig5rr0Jw4nPatYRw",
+        "authorChannelId": {
+          "value": "UCnZjwbbig5rr0Jw4nPatYRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-07T08:55:03Z",
+        "updatedAt": "2022-04-07T08:55:03Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7mtviAZufEfJlFMjFejbQMCpYOQ",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_Vr6uzG8LS",
+      "snippet": {
+        "textDisplay": "URAAA\u270a\u270a\u270a\u270a",
+        "textOriginal": "URAAA\u270a\u270a\u270a\u270a",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Ryan Wibowo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PnpgM76x6nmVmSA-LMt6qqcrYxONnSuVUFbL8x0e3mpVknkI0VYVVKbE0vrHLZ3zE1R-RRP-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuZyiJ8Vp-DNxkpnlFmMZuA",
+        "authorChannelId": {
+          "value": "UCuZyiJ8Vp-DNxkpnlFmMZuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-07T04:37:24Z",
+        "updatedAt": "2022-04-07T04:37:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "BorXuw_r9gMoP6WeGOwZMU7yHlM",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T76nnXYs7",
+      "snippet": {
+        "textDisplay": "@Ricky Widayana 4",
+        "textOriginal": "@Ricky Widayana 4",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Erdogan Tora",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHsZkZGtpsRMMtx3MaVbAsNOtJEM15HqwzQtqimt_a8ZTDAiZwVuEbbz_lklKU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVaHIXskxTvZ7MYjV0wTHWw",
+        "authorChannelId": {
+          "value": "UCVaHIXskxTvZ7MYjV0wTHWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-06T03:08:12Z",
+        "updatedAt": "2022-04-06T03:08:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "WGOsZuByxkCpUDcGXKfrqdvyz94",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T75Wtd-iI",
+      "snippet": {
+        "textDisplay": "@WilliamVina qq",
+        "textOriginal": "@WilliamVina qq",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Erdogan Tora",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHsZkZGtpsRMMtx3MaVbAsNOtJEM15HqwzQtqimt_a8ZTDAiZwVuEbbz_lklKU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVaHIXskxTvZ7MYjV0wTHWw",
+        "authorChannelId": {
+          "value": "UCVaHIXskxTvZ7MYjV0wTHWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-06T03:08:02Z",
+        "updatedAt": "2022-04-06T03:08:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "q_JSxbn-4kIbhZaZY11T5t1n4zs",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_T-e-puyjh",
+      "snippet": {
+        "textDisplay": "Bravo rusia \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+        "textOriginal": "Bravo rusia \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Xxann\u30b7",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bdzZMkQy-wJcqBoku6I446VrGJ3nKtm1sPzygmaVIFiJV7VjsBC39AklbaC-65YCE1FAZO8gJiE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3Z4Oz_jxbM9prYOExn2WkQ",
+        "authorChannelId": {
+          "value": "UC3Z4Oz_jxbM9prYOExn2WkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-06T02:02:58Z",
+        "updatedAt": "2022-04-06T02:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "w9Odj_To-hWvRwCQDDFMzBWxwDc",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_SXlYEE26I",
+      "snippet": {
+        "textDisplay": "Indo bisanya ura ura doang gak bisa kasih pendapat soal kebaikan dunia.",
+        "textOriginal": "Indo bisanya ura ura doang gak bisa kasih pendapat soal kebaikan dunia.",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Shelmanz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/D-c9hiCJLRAMPDhlseNHTsTV41Ym4Q0dZegluNO7ejj0jhXVkAOQrQCwXImeqwKVsOazh7GpS4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd_M6rsCQaAOa5ur99iyG9A",
+        "authorChannelId": {
+          "value": "UCd_M6rsCQaAOa5ur99iyG9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-05T21:41:51Z",
+        "updatedAt": "2022-04-05T21:41:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "h5bK_R1z1JE0Z2eK_EWUJAmzZjc",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_SXf819zyP",
+      "snippet": {
+        "textDisplay": "A strong nation is a nation that knows history.",
+        "textOriginal": "A strong nation is a nation that knows history.",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Shelmanz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/D-c9hiCJLRAMPDhlseNHTsTV41Ym4Q0dZegluNO7ejj0jhXVkAOQrQCwXImeqwKVsOazh7GpS4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd_M6rsCQaAOa5ur99iyG9A",
+        "authorChannelId": {
+          "value": "UCd_M6rsCQaAOa5ur99iyG9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-05T21:40:59Z",
+        "updatedAt": "2022-04-05T21:40:59Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Grc8p0JMXmbgVHfZa6sSFgCqVYk",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_RH_mRVGbu",
+      "snippet": {
+        "textDisplay": "Iya sama sama saudaraku di negara Rusia demoga kalian sehat dan selamat ya amin",
+        "textOriginal": "Iya sama sama saudaraku di negara Rusia demoga kalian sehat dan selamat ya amin",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Jie. good channel Jir. good job",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAMdPolYuB1jyUrLB8MOrCKUT5eLOg91IoIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVsoSdHHmac6e0tW8AjWPSw",
+        "authorChannelId": {
+          "value": "UCVsoSdHHmac6e0tW8AjWPSw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-05T10:01:12Z",
+        "updatedAt": "2022-04-05T10:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "i9y0szR66KwKcbVCA4ScfoIasGY",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_Q4YnnxsdL",
+      "snippet": {
+        "textDisplay": "uraaaa sist",
+        "textOriginal": "uraaaa sist",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Jalan Pintas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNDK1F1OBqBpx0A6FH1i83cWvTQe9KXhPNcsVlCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt4VwQdsB07sH7fTPonsyEA",
+        "authorChannelId": {
+          "value": "UCt4VwQdsB07sH7fTPonsyEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-04T22:48:06Z",
+        "updatedAt": "2022-04-04T22:48:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "T1S_vN-BrmVLYr73Fk4DvGRxKHc",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_PV2TqXyoW",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0e\ud83d\udc4d",
+        "textOriginal": "\ud83d\ude0e\ud83d\udc4d",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Indra Wn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRn957BLIi27qrj8Sdf6KjRA7vUkMIfhctbIw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4ECZGEuKOn6bHaR1HXluGw",
+        "authorChannelId": {
+          "value": "UC4ECZGEuKOn6bHaR1HXluGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-04T17:20:22Z",
+        "updatedAt": "2022-04-04T17:20:22Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "AQtu-r6deeDLNh5EZp0WRFbak6c",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_P6_58ZP2B",
+      "snippet": {
+        "textDisplay": "hell yeah baby",
+        "textOriginal": "hell yeah baby",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Nusantara Leaders",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTb9jyiJNeTwLdh9hDMM2l0W-NbeermIwvnQdFr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLAOtjuBm_8Qdoe60b1O5_g",
+        "authorChannelId": {
+          "value": "UCLAOtjuBm_8Qdoe60b1O5_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-04T13:46:30Z",
+        "updatedAt": "2022-04-04T13:46:30Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uAAw1w66kuUTGHdBElB_CCE9Fdo",
+      "id": "UgwQ4M7SSp6z3b1LBdV4AaABAg.9ZttEsDG1Dd9_O-AYhBIl4",
+      "snippet": {
+        "textDisplay": "Uuurrraaaaaaaa",
+        "textOriginal": "Uuurrraaaaaaaa",
+        "parentId": "UgwQ4M7SSp6z3b1LBdV4AaABAg",
+        "authorDisplayName": "Mahesa Bahadur",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rOlOfE61l-qaz6zWXfdBHwiT7mny7iXlbk9iWHy1log9PDpZW6p-V0oUi1Y0QJZ_Qqtil750sw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0X6-xDP2pmREyeqjYW-uxA",
+        "authorChannelId": {
+          "value": "UC0X6-xDP2pmREyeqjYW-uxA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-04T03:22:37Z",
+        "updatedAt": "2022-04-04T03:22:37Z"
+      }
+    }
+  ]
+}

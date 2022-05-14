@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aeVrzL73N8SqJbrR_d5PR3zYvng",
+  "id": "UgzFDj47Npo1R3kSSiN4AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TNnlggnWsho2t4b0ViULnn3J6MM",
+      "id": "UgzFDj47Npo1R3kSSiN4AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "Show",
+        "textOriginal": "Show",
+        "authorDisplayName": "Raffael Veloso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJ3UUh-b34f0UduzhQ7UJPSO-wJQPkVfuVIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEaiFYegIoT_qG2IEoyOSvw",
+        "authorChannelId": {
+          "value": "UCEaiFYegIoT_qG2IEoyOSvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-27T11:16:12Z",
+        "updatedAt": "2021-04-27T11:16:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W6L63s3oe4BO14Vpnk0xB7R-KCw",
+      "id": "UgzFDj47Npo1R3kSSiN4AaABAg.9MdDVtn4pHA9MdM-gY5inn",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a",
+        "parentId": "UgzFDj47Npo1R3kSSiN4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-27T12:30:26Z",
+        "updatedAt": "2021-04-27T12:30:26Z"
+      }
+    }
+  ]
+}

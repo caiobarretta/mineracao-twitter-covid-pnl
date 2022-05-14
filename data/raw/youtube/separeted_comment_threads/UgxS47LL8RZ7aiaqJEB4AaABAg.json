@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KSGCwsi1-LKxgI8US0nt8PO7XkE",
+  "id": "UgxS47LL8RZ7aiaqJEB4AaABAg",
+  "snippet": {
+    "videoId": "5QYc_qMKfbk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "m3p3AabkqVb32nJlvDrTL5GhYBY",
+      "id": "UgxS47LL8RZ7aiaqJEB4AaABAg",
+      "snippet": {
+        "videoId": "5QYc_qMKfbk",
+        "textDisplay": "A banca n\u00e3o mudou?!",
+        "textOriginal": "A banca n\u00e3o mudou?!",
+        "authorDisplayName": "Larissaarani Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqH4aI-rhvT79YmHEUrepui210onxnRONRQA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtDhpC6RdeJgJxHzVH802gw",
+        "authorChannelId": {
+          "value": "UCtDhpC6RdeJgJxHzVH802gw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-08T12:57:11Z",
+        "updatedAt": "2022-01-08T12:57:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Po5NsFLmFy6Mp2OD8-nrBr2Yepo",
+      "id": "UgxS47LL8RZ7aiaqJEB4AaABAg.9Ww_ZXUyY4D9X9x44j6fVl",
+      "snippet": {
+        "textDisplay": "A banca mudou mas eles est\u00e3o com conte\u00fado que pode entrar na prova",
+        "textOriginal": "A banca mudou mas eles est\u00e3o com conte\u00fado que pode entrar na prova",
+        "parentId": "UgxS47LL8RZ7aiaqJEB4AaABAg",
+        "authorDisplayName": "Vania Prado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRaTrvJrTogGsDEjWwBsh4j_GvO1_t1TaH5SoSa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8cEtnuFJzSJ5RfBeREVp8g",
+        "authorChannelId": {
+          "value": "UC8cEtnuFJzSJ5RfBeREVp8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-14T02:51:58Z",
+        "updatedAt": "2022-01-14T02:51:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gW_-uIoOKNHKGPZb62Um46gc4x4",
+  "id": "UgzsnRxolz5MhVlaZot4AaABAg",
+  "snippet": {
+    "videoId": "0egtHw2GV6c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G_gBotXAWuodQ-kEef2AkrJDrZs",
+      "id": "UgzsnRxolz5MhVlaZot4AaABAg",
+      "snippet": {
+        "videoId": "0egtHw2GV6c",
+        "textDisplay": "\u00d3timo tema!",
+        "textOriginal": "\u00d3timo tema!",
+        "authorDisplayName": "Alaska",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUcKwDSWBlHrxHrYd6dCffJEbg6eSc3vgZrX_YHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoGJa1hCH5SaMSX74pG14GA",
+        "authorChannelId": {
+          "value": "UCoGJa1hCH5SaMSX74pG14GA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-09T02:18:47Z",
+        "updatedAt": "2022-05-09T02:18:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5jKaLd9SXzyMFwU_SLpJiC30diI",
+      "id": "UgzsnRxolz5MhVlaZot4AaABAg.9an-gatuQyP9aofUBfFV00",
+      "snippet": {
+        "textDisplay": "obrigada!!",
+        "textOriginal": "obrigada!!",
+        "parentId": "UgzsnRxolz5MhVlaZot4AaABAg",
+        "authorDisplayName": "Europeia no Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/t3Uotyvbzdug7-olXo1YnPvgUGf-V0NFlwEP9C5donudwbFEbSJ467QywtglC1LRbNViJsxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu58FZdbhOURLjgD3uYXvPw",
+        "authorChannelId": {
+          "value": "UCu58FZdbhOURLjgD3uYXvPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T17:51:55Z",
+        "updatedAt": "2022-05-09T17:51:55Z"
+      }
+    }
+  ]
+}

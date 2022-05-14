@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "emNQDeEmYvmL7FrPQHfnS9wvAF8",
+  "id": "UgyYliyd8zQjiFQRdJ14AaABAg",
+  "snippet": {
+    "videoId": "_prsDDg_cJM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EeaY0Rwmi_Lbp-97JHO2vI7HQGw",
+      "id": "UgyYliyd8zQjiFQRdJ14AaABAg",
+      "snippet": {
+        "videoId": "_prsDDg_cJM",
+        "textDisplay": "Bagulho chato da porra",
+        "textOriginal": "Bagulho chato da porra",
+        "authorDisplayName": "Kha Mito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2hd4D6MEScNeZHiHSPXfgTaZo8vH_UVSM3-ib=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUCg-_KkqEqihP5HHnKostw",
+        "authorChannelId": {
+          "value": "UCUCg-_KkqEqihP5HHnKostw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-12-26T13:37:42Z",
+        "updatedAt": "2017-12-26T13:37:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6obqm4TH7nT8jjaCSCg8kEAD5ZI",
+      "id": "UgyYliyd8zQjiFQRdJ14AaABAg.8adDUaY1GOX8adJGlpd4Mi",
+      "snippet": {
+        "textDisplay": "Mas a aula dele \u00e9 daora",
+        "textOriginal": "Mas a aula dele \u00e9 daora",
+        "parentId": "UgyYliyd8zQjiFQRdJ14AaABAg",
+        "authorDisplayName": "Kha Mito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2hd4D6MEScNeZHiHSPXfgTaZo8vH_UVSM3-ib=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUCg-_KkqEqihP5HHnKostw",
+        "authorChannelId": {
+          "value": "UCUCg-_KkqEqihP5HHnKostw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-12-26T14:28:14Z",
+        "updatedAt": "2017-12-26T14:28:14Z"
+      }
+    }
+  ]
+}

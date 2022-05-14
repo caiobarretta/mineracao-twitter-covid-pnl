@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gvwzJERKWtow-29wXEPrIpKMJ0c",
+  "id": "UgwV_iCnwA7RPsezCHJ4AaABAg",
+  "snippet": {
+    "videoId": "KDvyHJ6ram4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rOYlgI2DOIn8NoluLP67yWjpZJw",
+      "id": "UgwV_iCnwA7RPsezCHJ4AaABAg",
+      "snippet": {
+        "videoId": "KDvyHJ6ram4",
+        "textDisplay": "como ativar a renderiza\u00e7\u00e3o em tempo real",
+        "textOriginal": "como ativar a renderiza\u00e7\u00e3o em tempo real",
+        "authorDisplayName": "R\u00d4MULO CASTILHO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3X0DHxfjAFhhJyfsBLl02IV4CTSKk4uSHpIZwGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5jfpxqtgQUkvHk0SYuNRyA",
+        "authorChannelId": {
+          "value": "UC5jfpxqtgQUkvHk0SYuNRyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-12-18T01:32:34Z",
+        "updatedAt": "2018-12-18T01:32:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pW5fZTloYxXPQ0zpZQc4bOpnxqU",
+      "id": "UgwV_iCnwA7RPsezCHJ4AaABAg.8ozAHtEtewn8ozUiWdOrrb",
+      "snippet": {
+        "textDisplay": "tem 3 modos, em render setup, depois em scene, em general settings vai ter start interactive\no segundo modo \u00e9 se voc\u00ea estiver no frame buffer quando der render , no bot\u00e3o de render se vc clicar e segurar vai abir uma lista e logo em baixo tem a op\u00e7\u00e3o start ir\ne se vc quiser fazer interativo direto na viewport, onde esta escrito perspective, left, top, front ( em cada viewport) ao clicar vai aparecer uma lista, vc vai em extended viewports e depois em corona interactive, ai depois s\u00f3 clicar no logo que come\u00e7a o interativo, e caso quiser ter a viewport novamente \u00e9 s\u00f3 clicar com o bot\u00e3o direito e escolher se vc quer perspectiva, vista do topo, direita e tal",
+        "textOriginal": "tem 3 modos, em render setup, depois em scene, em general settings vai ter start interactive\no segundo modo \u00e9 se voc\u00ea estiver no frame buffer quando der render , no bot\u00e3o de render se vc clicar e segurar vai abir uma lista e logo em baixo tem a op\u00e7\u00e3o start ir\ne se vc quiser fazer interativo direto na viewport, onde esta escrito perspective, left, top, front ( em cada viewport) ao clicar vai aparecer uma lista, vc vai em extended viewports e depois em corona interactive, ai depois s\u00f3 clicar no logo que come\u00e7a o interativo, e caso quiser ter a viewport novamente \u00e9 s\u00f3 clicar com o bot\u00e3o direito e escolher se vc quer perspectiva, vista do topo, direita e tal",
+        "parentId": "UgwV_iCnwA7RPsezCHJ4AaABAg",
+        "authorDisplayName": "Ricardo Amaral CG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiFdycpjsOp6sQewBXY5RwRVApul51KhsNTEZd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5sMArHhJTULUhoqHlklv9A",
+        "authorChannelId": {
+          "value": "UC5sMArHhJTULUhoqHlklv9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-12-18T04:31:06Z",
+        "updatedAt": "2018-12-18T04:31:06Z"
+      }
+    }
+  ]
+}

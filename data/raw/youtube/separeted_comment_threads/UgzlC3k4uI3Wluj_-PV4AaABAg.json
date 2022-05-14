@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6tj88YYYjMEY-cTB3gcCRjVhKiU",
+  "id": "UgzlC3k4uI3Wluj_-PV4AaABAg",
+  "snippet": {
+    "videoId": "ybiu1Q3yLz4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_VIfcgkEkPrjiPWJnLNdNh2SCXg",
+      "id": "UgzlC3k4uI3Wluj_-PV4AaABAg",
+      "snippet": {
+        "videoId": "ybiu1Q3yLz4",
+        "textDisplay": "Obrigado internet, por proporcionar as pessoas terem informa\u00e7\u00f5es de qualidade como essa.",
+        "textOriginal": "Obrigado internet, por proporcionar as pessoas terem informa\u00e7\u00f5es de qualidade como essa.",
+        "authorDisplayName": "Thiago Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJGUK9lI7RJQ_WfJXu6Yg59xs7bIBoSlCWAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQW01KoE1KLqEDvvn30Q2yQ",
+        "authorChannelId": {
+          "value": "UCQW01KoE1KLqEDvvn30Q2yQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 99,
+        "publishedAt": "2022-05-08T13:26:48Z",
+        "updatedAt": "2022-05-08T13:26:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RcRFigTBouR0T4j9urY2JeE4-OM",
+      "id": "UgzlC3k4uI3Wluj_-PV4AaABAg.9alcLXjIDwY9aldDG1OQij",
+      "snippet": {
+        "textDisplay": "Valeu demais Thiago!!!",
+        "textOriginal": "Valeu demais Thiago!!!",
+        "parentId": "UgzlC3k4uI3Wluj_-PV4AaABAg",
+        "authorDisplayName": "Dinheiro Com Voc\u00ea - Por William Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmFf8t7WpSCZXg6MdPRamRrzIEZ-1IQOtE_kbq=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkPwI3gaSr65levrx1j9okQ",
+        "authorChannelId": {
+          "value": "UCkPwI3gaSr65levrx1j9okQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-08T13:34:25Z",
+        "updatedAt": "2022-05-08T13:34:25Z"
+      }
+    }
+  ]
+}

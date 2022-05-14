@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2FL7qslNohnqf4TiqypM6aPm4Mw",
+  "id": "UgxzvAOaIUWbPdleVsp4AaABAg",
+  "snippet": {
+    "videoId": "sh4KMbUpbiM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "a8R8YhUYdWoXoVL8IWkbe8H3GsI",
+      "id": "UgxzvAOaIUWbPdleVsp4AaABAg",
+      "snippet": {
+        "videoId": "sh4KMbUpbiM",
+        "textDisplay": "J\u00e1 estou estudando igual um doentio, pois vejo que o \u00fanico jeito vai ser juntar dinheiro e mudar de pa\u00eds kk.",
+        "textOriginal": "J\u00e1 estou estudando igual um doentio, pois vejo que o \u00fanico jeito vai ser juntar dinheiro e mudar de pa\u00eds kk.",
+        "authorDisplayName": "T\u00e1rsis Hebert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KfceLSb-4DgCQGqJzMSk-B1WA8gU0vMS4mM_29TA52q5l0QwTuAmzu6mOelk3gKDbrnnRHyH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCya6YVwVyyPbKq0xLmcXn0g",
+        "authorChannelId": {
+          "value": "UCya6YVwVyyPbKq0xLmcXn0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2020-10-28T19:12:10Z",
+        "updatedAt": "2020-10-28T19:12:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lQdIIK947Bx2OqGbq4jFykGKE18",
+      "id": "UgxzvAOaIUWbPdleVsp4AaABAg.9FN05eEjsAv9FtWCvyhyxi",
+      "snippet": {
+        "textDisplay": "Em outros pa\u00edses, tudo \u00e9 privado, n\u00e3o se iluda abestado, sem dinheiro todo lugar do mundo \u00e9 ruim.",
+        "textOriginal": "Em outros pa\u00edses, tudo \u00e9 privado, n\u00e3o se iluda abestado, sem dinheiro todo lugar do mundo \u00e9 ruim.",
+        "parentId": "UgxzvAOaIUWbPdleVsp4AaABAg",
+        "authorDisplayName": "Arthur Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQp0OlmeJsbKxraEATMlnTPnKYHsV6FIMkvsMOh-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-U-uJbGi4EdumYuZLGCUZw",
+        "authorChannelId": {
+          "value": "UC-U-uJbGi4EdumYuZLGCUZw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-10T19:27:43Z",
+        "updatedAt": "2020-11-10T19:27:43Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "rskzAv8jbY6uxlG2rPZ8civKYmU",
+      "id": "UgxzvAOaIUWbPdleVsp4AaABAg.9FN05eEjsAv9FPh4iOhu9H",
+      "snippet": {
+        "textDisplay": "https://www.youtube.com/watch?v=4c0f3B2gbzQ\nVejam esse video antes",
+        "textOriginal": "https://www.youtube.com/watch?v=4c0f3B2gbzQ\nVejam esse video antes",
+        "parentId": "UgxzvAOaIUWbPdleVsp4AaABAg",
+        "authorDisplayName": "Denis Fuganti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROWqh1I1I-UtOzE2Ybnk3CXFLVXToExZmeAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oOATYPxCAECZ0NHAH-ctw",
+        "authorChannelId": {
+          "value": "UC_oOATYPxCAECZ0NHAH-ctw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-29T20:15:00Z",
+        "updatedAt": "2020-10-29T20:15:00Z"
+      }
+    }
+  ]
+}

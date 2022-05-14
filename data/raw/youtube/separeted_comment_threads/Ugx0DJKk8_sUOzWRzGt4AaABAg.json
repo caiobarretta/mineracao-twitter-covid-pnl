@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FsR2m8d0hXpDCaZl8J3ltnf_l2E",
+  "id": "Ugx0DJKk8_sUOzWRzGt4AaABAg",
+  "snippet": {
+    "videoId": "_PCZS-bW8RA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xYKWOXy6oYWzAh2mX18l7AAumQk",
+      "id": "Ugx0DJKk8_sUOzWRzGt4AaABAg",
+      "snippet": {
+        "videoId": "_PCZS-bW8RA",
+        "textDisplay": "Nota 10 professor \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Nota 10 professor \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Cleomar Brito Da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQKhjN3dNKQFDYZHiKuktG1lfWlylCf6Im19w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdUy7FKvy4WFvxvluvmXj8Q",
+        "authorChannelId": {
+          "value": "UCdUy7FKvy4WFvxvluvmXj8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-18T11:55:37Z",
+        "updatedAt": "2020-03-18T11:55:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZxbecYqX0OwJxShnCe20BCtXS_Q",
+      "id": "Ugx0DJKk8_sUOzWRzGt4AaABAg.96LS4Gkto0296Lw7W8XtFk",
+      "snippet": {
+        "textDisplay": "Tamo junto",
+        "textOriginal": "Tamo junto",
+        "parentId": "Ugx0DJKk8_sUOzWRzGt4AaABAg",
+        "authorDisplayName": "MICHAEL TOTALTEC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScdgDBLwI84i3mV6DRFEYwAlZE51JguwxcIdyHdtg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2soSvQIw2fZetZAOpw1Uag",
+        "authorChannelId": {
+          "value": "UC2soSvQIw2fZetZAOpw1Uag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-18T16:26:56Z",
+        "updatedAt": "2020-03-18T16:26:56Z"
+      }
+    }
+  ]
+}

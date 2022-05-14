@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sgzM95tbd7LmgTyuCnVvZDhppzE",
+  "id": "UgzVT_-FdXrMOCQ0cnN4AaABAg",
+  "snippet": {
+    "videoId": "fZZH5o8eUxE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RZWl0FW9NkU68V8c6cNJ8AU_L7I",
+      "id": "UgzVT_-FdXrMOCQ0cnN4AaABAg",
+      "snippet": {
+        "videoId": "fZZH5o8eUxE",
+        "textDisplay": "n\u00f3s somos as cobaias kkkk",
+        "textOriginal": "n\u00f3s somos as cobaias kkkk",
+        "authorDisplayName": "Top 10",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBbeOi1s_gvRZcvl5nM2GuG70d9qoByq3HRTLa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUllSok840TaOuYK-FMM0jA",
+        "authorChannelId": {
+          "value": "UCUllSok840TaOuYK-FMM0jA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-08-14T02:10:31Z",
+        "updatedAt": "2021-08-14T02:10:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qDV2SlWVdA7vypSqBhSevvnFL2g",
+      "id": "UgzVT_-FdXrMOCQ0cnN4AaABAg.9R-uhd2fxJT9St6bl5hWGm",
+      "snippet": {
+        "textDisplay": "Pensei isso !",
+        "textOriginal": "Pensei isso !",
+        "parentId": "UgzVT_-FdXrMOCQ0cnN4AaABAg",
+        "authorDisplayName": "Mary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0o1qTYPLOLazHocIicDw46FO2DTZnXBWOv0fJZ4ymdqC5BQtKOVCvkNehHcq65adH8xJOFAZ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF09paNEnNb8NwSCuRsPyuA",
+        "authorChannelId": {
+          "value": "UCF09paNEnNb8NwSCuRsPyuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-29T18:32:11Z",
+        "updatedAt": "2021-09-29T18:32:11Z"
+      }
+    }
+  ]
+}

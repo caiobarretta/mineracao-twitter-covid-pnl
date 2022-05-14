@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5UIn3OCtixtbq_FqBxx0zopmt1I",
+  "id": "UgzS1tgMQ3046BTWbw54AaABAg",
+  "snippet": {
+    "videoId": "MXWdWEQhPwo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6Nv8wL-13VTgh0Wm7l-EjW_zSCY",
+      "id": "UgzS1tgMQ3046BTWbw54AaABAg",
+      "snippet": {
+        "videoId": "MXWdWEQhPwo",
+        "textDisplay": "S\u00e9rgio Moro PRESIDENTE 2022",
+        "textOriginal": "S\u00e9rgio Moro PRESIDENTE 2022",
+        "authorDisplayName": "guilherme Tobias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEceXEU1GVU3SZgzJGKlL9nG8_g906lMFzCg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7hx6iNnQQEl9IBJoh23ceg",
+        "authorChannelId": {
+          "value": "UC7hx6iNnQQEl9IBJoh23ceg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-25T20:50:57Z",
+        "updatedAt": "2021-11-25T20:50:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "K4MLdDQhseeougmOSo67j9MFbF4",
+      "id": "UgzS1tgMQ3046BTWbw54AaABAg.9VB7o4viGBl9VB8DeiAA4S",
+      "snippet": {
+        "textDisplay": "Vai ser sim, Presidente do Gr\u00eamio da Papuda",
+        "textOriginal": "Vai ser sim, Presidente do Gr\u00eamio da Papuda",
+        "parentId": "UgzS1tgMQ3046BTWbw54AaABAg",
+        "authorDisplayName": "AlCcesar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQB9Yjw9noXWTWqeF9rXbb31STEbZJvdMfE8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKK7mXiiKljAf3r0CGxbB9A",
+        "authorChannelId": {
+          "value": "UCKK7mXiiKljAf3r0CGxbB9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-25T20:54:35Z",
+        "updatedAt": "2021-11-25T20:54:35Z"
+      }
+    }
+  ]
+}

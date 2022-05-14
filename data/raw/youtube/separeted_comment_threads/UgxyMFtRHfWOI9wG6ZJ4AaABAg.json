@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0a5oPA932xZAYXlzEKPcKfvq_20",
+  "id": "UgxyMFtRHfWOI9wG6ZJ4AaABAg",
+  "snippet": {
+    "videoId": "_bAt4rCgc74",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nykCXPF47WhxRWYjmZYoxr01tfM",
+      "id": "UgxyMFtRHfWOI9wG6ZJ4AaABAg",
+      "snippet": {
+        "videoId": "_bAt4rCgc74",
+        "textDisplay": "MUITO BOM, MUITO BOM!!!!",
+        "textOriginal": "MUITO BOM, MUITO BOM!!!!",
+        "authorDisplayName": "Jair Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPqFEzzd_sXAWrp1jqJZ6hX0Kja11B5Vt9qUh86Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8iCs_TM6tyjK1qK1MoHeRQ",
+        "authorChannelId": {
+          "value": "UC8iCs_TM6tyjK1qK1MoHeRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-30T18:49:24Z",
+        "updatedAt": "2022-04-30T18:49:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ChUm1SCjxsm7DcVPWLzsMJP267A",
+      "id": "UgxyMFtRHfWOI9wG6ZJ4AaABAg.9aSauGNDFl09aXHMWpeNaA",
+      "snippet": {
+        "textDisplay": "\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "textOriginal": "\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "parentId": "UgxyMFtRHfWOI9wG6ZJ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-02T14:26:06Z",
+        "updatedAt": "2022-05-02T14:26:06Z"
+      }
+    }
+  ]
+}

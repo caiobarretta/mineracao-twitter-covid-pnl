@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cac8SXXsy9yMK3ut-AMJbGg97mM",
+  "id": "UgzcFmXnLG6d8f-B0tZ4AaABAg",
+  "snippet": {
+    "videoId": "_eklPc4bJRE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_nrNFIYU31Qj3aNI77CZ8EBv5V8",
+      "id": "UgzcFmXnLG6d8f-B0tZ4AaABAg",
+      "snippet": {
+        "videoId": "_eklPc4bJRE",
+        "textDisplay": "Nasa",
+        "textOriginal": "Nasa",
+        "authorDisplayName": "Rosilene Gois",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/K0Zl4oNRCBxkljaJqwzrdGw3x8ux3wE6vhpuZa_1rAY6qY-61h3KuXeB-KddRnN5p_xmr3vvQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxR7IMbhPVzvqItpj6G52w",
+        "authorChannelId": {
+          "value": "UCOxR7IMbhPVzvqItpj6G52w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-05T15:12:53Z",
+        "updatedAt": "2021-10-05T15:12:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IVYgT6LQ4Ya8sRLHrdAhwyWj0rM",
+      "id": "UgzcFmXnLG6d8f-B0tZ4AaABAg.9T7C_JTpiLf9T7F47u0J2Z",
+      "snippet": {
+        "textDisplay": "Nice",
+        "textOriginal": "Nice",
+        "parentId": "UgzcFmXnLG6d8f-B0tZ4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Carlos Gomes da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbNtrDH4CvYMHmKJOJsbKHa7v4UXqDR_pe5gG6rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpCdhpKLi7KsBnlvP5SpLtQ",
+        "authorChannelId": {
+          "value": "UCpCdhpKLi7KsBnlvP5SpLtQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-05T15:34:42Z",
+        "updatedAt": "2021-10-05T15:34:42Z"
+      }
+    }
+  ]
+}

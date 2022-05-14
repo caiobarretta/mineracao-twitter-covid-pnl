@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iBNM5ZhYjtCBm5F8uXXw_WncVg4",
+  "id": "UgxFqLg32yFe634rrEd4AaABAg",
+  "snippet": {
+    "videoId": "yaIAMQUzGYs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dCJdyJWs_RjTA95mZV6OeyCgU1E",
+      "id": "UgxFqLg32yFe634rrEd4AaABAg",
+      "snippet": {
+        "videoId": "yaIAMQUzGYs",
+        "textDisplay": "Ameeeei! Maravilhosaaa <3",
+        "textOriginal": "Ameeeei! Maravilhosaaa <3",
+        "authorDisplayName": "M\u00f4nica Tito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5zM88IraN521fQAfF3pzOUorgJlWY2qgiQUwtjDY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC59iI5Fi-zcx-XFGe0Q6MSg",
+        "authorChannelId": {
+          "value": "UC59iI5Fi-zcx-XFGe0Q6MSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-27T23:56:54Z",
+        "updatedAt": "2020-06-27T23:56:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "K7bxYOgMnAWFPa3G8gi8ACjG0M4",
+      "id": "UgxFqLg32yFe634rrEd4AaABAg.9AQnuStuE9v9AQogT78IFq",
+      "snippet": {
+        "textDisplay": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "textOriginal": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "parentId": "UgxFqLg32yFe634rrEd4AaABAg",
+        "authorDisplayName": "Bioescreve - Anna Clara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQN1ATdJmidJ7koolC-LF-3dLbT06cQoKZ18OiqVMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-Nciy1IaDiTWn_giU13_Q",
+        "authorChannelId": {
+          "value": "UCl-Nciy1IaDiTWn_giU13_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-28T00:03:43Z",
+        "updatedAt": "2020-06-28T00:03:43Z"
+      }
+    }
+  ]
+}

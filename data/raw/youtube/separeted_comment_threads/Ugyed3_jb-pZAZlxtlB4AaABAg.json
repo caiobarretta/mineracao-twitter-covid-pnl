@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3tzUEXlWimpXujr0VFUgCU1MJNE",
+  "id": "Ugyed3_jb-pZAZlxtlB4AaABAg",
+  "snippet": {
+    "videoId": "NPraJZ5eWWc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KEhmMiDydDj3nh9u13qj0LLGKnY",
+      "id": "Ugyed3_jb-pZAZlxtlB4AaABAg",
+      "snippet": {
+        "videoId": "NPraJZ5eWWc",
+        "textDisplay": "Mie",
+        "textOriginal": "Mie",
+        "authorDisplayName": "Ph\u01b0\u01a1ng ...?",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsPgoBCqzIqyhG-xb64hrlCOxaXNlvUAevMhL-aVdMMUFgcVw3c7MhoxU-gPSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzc1cI9sgn_Pvz-t4--KxWA",
+        "authorChannelId": {
+          "value": "UCzc1cI9sgn_Pvz-t4--KxWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-15T05:52:04Z",
+        "updatedAt": "2022-02-15T05:52:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R2QXsZnhI8HLtMdEqXB1G5opaCs",
+      "id": "Ugyed3_jb-pZAZlxtlB4AaABAg.9YSf77mQdyF9YSfFs3DifR",
+      "snippet": {
+        "textDisplay": "Vi\u1ec7t Nam c\u1ed1 g\u1eafng l\u00ean",
+        "textOriginal": "Vi\u1ec7t Nam c\u1ed1 g\u1eafng l\u00ean",
+        "parentId": "Ugyed3_jb-pZAZlxtlB4AaABAg",
+        "authorDisplayName": "Ph\u01b0\u01a1ng ...?",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsPgoBCqzIqyhG-xb64hrlCOxaXNlvUAevMhL-aVdMMUFgcVw3c7MhoxU-gPSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzc1cI9sgn_Pvz-t4--KxWA",
+        "authorChannelId": {
+          "value": "UCzc1cI9sgn_Pvz-t4--KxWA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-15T05:53:15Z",
+        "updatedAt": "2022-02-15T05:53:15Z"
+      }
+    }
+  ]
+}

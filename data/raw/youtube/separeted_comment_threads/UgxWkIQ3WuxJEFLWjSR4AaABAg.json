@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NCKQbhzxYmwqBDWKoh6sqsaepDE",
+  "id": "UgxWkIQ3WuxJEFLWjSR4AaABAg",
+  "snippet": {
+    "videoId": "gMS1OnkPXUE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ICCJiOkAg7RcVVtyfd_okPKfIFw",
+      "id": "UgxWkIQ3WuxJEFLWjSR4AaABAg",
+      "snippet": {
+        "videoId": "gMS1OnkPXUE",
+        "textDisplay": "Me parece que a melhor solu\u00e7\u00e3o seria desburocratizar um tanto a m\u00e1quina p\u00fablica do que privatizar",
+        "textOriginal": "Me parece que a melhor solu\u00e7\u00e3o seria desburocratizar um tanto a m\u00e1quina p\u00fablica do que privatizar",
+        "authorDisplayName": "Nathan Silveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLM2Je8_A1mI_acjBHQL2ods95W9nYG2P3MDj8aFE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCasiyXmhQE8sIaQ-tEe9DtA",
+        "authorChannelId": {
+          "value": "UCasiyXmhQE8sIaQ-tEe9DtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-10-28T18:18:59Z",
+        "updatedAt": "2020-10-28T18:18:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LxmLguHcwNYJw5-IqaFHspN3nbw",
+      "id": "UgxWkIQ3WuxJEFLWjSR4AaABAg.9FMv04l6Qsk9Mtcibj5YXg",
+      "snippet": {
+        "textDisplay": "Qualquer sistema estatal \u00e9 cheio de burocracia inutil, tem que privatizar tudo",
+        "textOriginal": "Qualquer sistema estatal \u00e9 cheio de burocracia inutil, tem que privatizar tudo",
+        "parentId": "UgxWkIQ3WuxJEFLWjSR4AaABAg",
+        "authorDisplayName": "Hold Bitcoin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3lgQSz-hPNH7Q4PXwFSll7C_o7GtArRpgNMqqXzg1rm9DUW31FOrMd9lYCDVCqiB3SlWh-Kd4oM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp4HZnHXp54yxq6LIpmGuEA",
+        "authorChannelId": {
+          "value": "UCp4HZnHXp54yxq6LIpmGuEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-03T20:13:06Z",
+        "updatedAt": "2021-05-03T20:13:06Z"
+      }
+    }
+  ]
+}

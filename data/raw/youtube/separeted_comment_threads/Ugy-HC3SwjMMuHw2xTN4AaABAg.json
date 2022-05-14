@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OjGDIsIci6qwWcU1m7QH0Vge2Gg",
+  "id": "Ugy-HC3SwjMMuHw2xTN4AaABAg",
+  "snippet": {
+    "videoId": "g2gzMGr69mk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B2nqc0_uu8Wh3xuG5NtyzWyUPMU",
+      "id": "Ugy-HC3SwjMMuHw2xTN4AaABAg",
+      "snippet": {
+        "videoId": "g2gzMGr69mk",
+        "textDisplay": "apparently it came from the US lab",
+        "textOriginal": "apparently it came from the US lab",
+        "authorDisplayName": "Kiira Korpi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvtmdyS0sdk5WumtAirafcuqYEEMqj4lU0-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYqbwpclCgnlwIF-3SYRKOQ",
+        "authorChannelId": {
+          "value": "UCYqbwpclCgnlwIF-3SYRKOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-05-31T20:15:09Z",
+        "updatedAt": "2021-05-31T20:15:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R4eO4vrbwUByNhnsa8LF55lBwHw",
+      "id": "Ugy-HC3SwjMMuHw2xTN4AaABAg.9O0jD7sNYIg9OAuVWWk4Zk",
+      "snippet": {
+        "textDisplay": "It came from the chlnk lab",
+        "textOriginal": "It came from the chlnk lab",
+        "parentId": "Ugy-HC3SwjMMuHw2xTN4AaABAg",
+        "authorDisplayName": "Coronavirus is a CHINESE Bioweapon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSy6b9w92Vyfd3D8QVKnWcFKEdhYP6a5Ggo5JWr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCinsHK_iCxdyT_Eut1rEMng",
+        "authorChannelId": {
+          "value": "UCinsHK_iCxdyT_Eut1rEMng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-04T19:06:11Z",
+        "updatedAt": "2021-06-04T19:06:11Z"
+      }
+    }
+  ]
+}

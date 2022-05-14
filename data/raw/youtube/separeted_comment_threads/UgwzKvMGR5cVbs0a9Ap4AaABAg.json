@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2DzVacPaOC7QwbqUVTAjRAk1oOI",
+  "id": "UgwzKvMGR5cVbs0a9Ap4AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gVDJ1FnBNT6BY4h8ZlU6e5lMnjE",
+      "id": "UgwzKvMGR5cVbs0a9Ap4AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "authorDisplayName": "J\u00e9ssica Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeKRcr44OdKsElS5DLTSMgstygzOb-XhHFYmlwB5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeocF3q46JTN95Ktv8GIZAg",
+        "authorChannelId": {
+          "value": "UCeocF3q46JTN95Ktv8GIZAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-26T22:09:38Z",
+        "updatedAt": "2021-04-26T22:09:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0P1yvJf00i8M_Nc0wAFG5myAzjc",
+      "id": "UgwzKvMGR5cVbs0a9Ap4AaABAg.9MboV0KjWBA9MdMnYz-FTi",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4a\ud83d\udc4a",
+        "textOriginal": "\ud83d\udc4a\ud83d\udc4a",
+        "parentId": "UgwzKvMGR5cVbs0a9Ap4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-27T12:37:23Z",
+        "updatedAt": "2021-04-27T12:37:23Z"
+      }
+    }
+  ]
+}

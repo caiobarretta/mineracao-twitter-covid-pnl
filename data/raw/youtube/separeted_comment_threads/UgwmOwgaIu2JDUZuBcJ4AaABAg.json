@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hU0acMPL07LjXUYKNmRbQPfAqS8",
+  "id": "UgwmOwgaIu2JDUZuBcJ4AaABAg",
+  "snippet": {
+    "videoId": "KW7azMpWYzw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-EDgAiXuZru9P9nhQ5T1PpcDL9A",
+      "id": "UgwmOwgaIu2JDUZuBcJ4AaABAg",
+      "snippet": {
+        "videoId": "KW7azMpWYzw",
+        "textDisplay": "Todo esto ha sido muy fuerte para todos",
+        "textOriginal": "Todo esto ha sido muy fuerte para todos",
+        "authorDisplayName": "Adonid Ramirez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5cXDvb_AVUHhYrK--Lfz4s9fJzgPdif6sU88U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3Ch5wvUzksF1I7_lwejUQw",
+        "authorChannelId": {
+          "value": "UC3Ch5wvUzksF1I7_lwejUQw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-04-30T15:33:34Z",
+        "updatedAt": "2021-04-30T15:33:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jdR7s_qiTcj2PxHdhJuwPGOQaqg",
+      "id": "UgwmOwgaIu2JDUZuBcJ4AaABAg.9MlPLY_8RDY9MoQepa5nb5",
+      "snippet": {
+        "textDisplay": "enserio? :0",
+        "textOriginal": "enserio? :0",
+        "parentId": "UgwmOwgaIu2JDUZuBcJ4AaABAg",
+        "authorDisplayName": "Mordecay elegante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRaQ3jeeBDee_EJJFnYo_nb1ATKAmS7MmfwsdxbsQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtQaqRPmjLVLD-aewjyhwKQ",
+        "authorChannelId": {
+          "value": "UCtQaqRPmjLVLD-aewjyhwKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-01T19:42:47Z",
+        "updatedAt": "2021-05-01T19:42:47Z"
+      }
+    }
+  ]
+}

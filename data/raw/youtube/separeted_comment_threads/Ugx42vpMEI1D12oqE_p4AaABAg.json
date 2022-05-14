@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qt7gRhDnuI2K8TdVP1KGecvpQmk",
+  "id": "Ugx42vpMEI1D12oqE_p4AaABAg",
+  "snippet": {
+    "videoId": "aSBmsbJNnWg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1qybfVvDJmKk9XLy4sJG3PEUQew",
+      "id": "Ugx42vpMEI1D12oqE_p4AaABAg",
+      "snippet": {
+        "videoId": "aSBmsbJNnWg",
+        "textDisplay": "Is there a setting options for it to use GPU rather then CPU for rendering? is there a tutorial video for it? Thanks",
+        "textOriginal": "Is there a setting options for it to use GPU rather then CPU for rendering? is there a tutorial video for it? Thanks",
+        "authorDisplayName": "Vlognya Reza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/r-cLB9ME1dq-uwLog9WlQcD5IF1U3SHFduyFerRNzdC0dX1ckO2oT2pWTj8j-u2p3-F-gzu5a8M=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYXz9o5JnVtwtGqwEkT2pYA",
+        "authorChannelId": {
+          "value": "UCYXz9o5JnVtwtGqwEkT2pYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T02:01:01Z",
+        "updatedAt": "2021-08-20T02:01:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OEul27MYLrUykxdtEhJ33qyCgWE",
+      "id": "Ugx42vpMEI1D12oqE_p4AaABAg.9RFLOF3wS699RGBTe6ZaS9",
+      "snippet": {
+        "textDisplay": "Corona is CPU only, so there are no settings to use the GPU :) There are no plans to introduce GPU rendering at this time  - see https://corona-renderer.com/features/proudly-cpu-based . Thanks! Tom",
+        "textOriginal": "Corona is CPU only, so there are no settings to use the GPU :) There are no plans to introduce GPU rendering at this time  - see https://corona-renderer.com/features/proudly-cpu-based . Thanks! Tom",
+        "parentId": "Ugx42vpMEI1D12oqE_p4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T09:53:36Z",
+        "updatedAt": "2021-08-20T09:53:36Z"
+      }
+    }
+  ]
+}

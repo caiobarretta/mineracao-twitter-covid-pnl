@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rIaNldHupZCmGcFHBYpxUJenHcA",
+  "id": "UgxPf0mFtpOQ9NcxaP94AaABAg",
+  "snippet": {
+    "videoId": "4-gCPrrTOKU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rzrTOpcZ1Y7i_EiOzrFMDIxdRts",
+      "id": "UgxPf0mFtpOQ9NcxaP94AaABAg",
+      "snippet": {
+        "videoId": "4-gCPrrTOKU",
+        "textDisplay": "Curso de Corona Render \u279c https://3dm.com.br/3ds",
+        "textOriginal": "Curso de Corona Render \u279c https://3dm.com.br/3ds",
+        "authorDisplayName": "3DM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRi4SD7_Th9ukuFikneU1KKdVQmjOpglJulbY0o4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBz1Pq77a38leompNXI5LqA",
+        "authorChannelId": {
+          "value": "UCBz1Pq77a38leompNXI5LqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-29T12:37:49Z",
+        "updatedAt": "2020-07-29T12:37:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "89VWF70-fd5POdinN4SWPFGxdyQ",
+      "id": "UgxPf0mFtpOQ9NcxaP94AaABAg.9BgzcfHnFR89Ds3v1zpWyK",
+      "snippet": {
+        "textDisplay": "@Leonardo Soares  Sim, nesse curso tem m\u00f3dulos de modelagem interna, externa, V-Ray e Corona! E-mail:suporte@3dm.com.br",
+        "textOriginal": "@Leonardo Soares  Sim, nesse curso tem m\u00f3dulos de modelagem interna, externa, V-Ray e Corona! E-mail:suporte@3dm.com.br",
+        "parentId": "UgxPf0mFtpOQ9NcxaP94AaABAg",
+        "authorDisplayName": "3DM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRi4SD7_Th9ukuFikneU1KKdVQmjOpglJulbY0o4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBz1Pq77a38leompNXI5LqA",
+        "authorChannelId": {
+          "value": "UCBz1Pq77a38leompNXI5LqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-21T12:58:26Z",
+        "updatedAt": "2020-09-21T12:58:26Z"
+      }
+    }
+  ]
+}

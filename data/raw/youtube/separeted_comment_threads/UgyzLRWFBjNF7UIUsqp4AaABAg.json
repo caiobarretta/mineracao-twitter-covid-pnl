@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_FZZ6IvDS0IlJC9UeORKmzhDD14",
+  "id": "UgyzLRWFBjNF7UIUsqp4AaABAg",
+  "snippet": {
+    "videoId": "Gih0Ivhxmao",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fA3xMjbL3-xqhl0NZsir3rhjdwE",
+      "id": "UgyzLRWFBjNF7UIUsqp4AaABAg",
+      "snippet": {
+        "videoId": "Gih0Ivhxmao",
+        "textDisplay": "hlg kmana kira2?",
+        "textOriginal": "hlg kmana kira2?",
+        "authorDisplayName": "ni yu ch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwNA5d9Z_bgvVUjWWNrrJSZeRIxAJh26xEXX6q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuFnrlzGzK6nZWwoI3I32qw",
+        "authorChannelId": {
+          "value": "UCuFnrlzGzK6nZWwoI3I32qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-03T00:56:19Z",
+        "updatedAt": "2020-04-03T00:56:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KdnuxI600SMMrBZ2cIdOvRg1lpk",
+      "id": "UgyzLRWFBjNF7UIUsqp4AaABAg.96yTLO6p-v29PvLtk3AImR",
+      "snippet": {
+        "textDisplay": "Saya jg kurang tau kayak nya nyasar",
+        "textOriginal": "Saya jg kurang tau kayak nya nyasar",
+        "parentId": "UgyzLRWFBjNF7UIUsqp4AaABAg",
+        "authorDisplayName": "Nur Fadilah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSv-VLrAbS1GnRLnze0Q_qQkmEi8L5No8XMBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTyWF4ngMgB5vVaovYUGirw",
+        "authorChannelId": {
+          "value": "UCTyWF4ngMgB5vVaovYUGirw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-18T01:50:00Z",
+        "updatedAt": "2021-07-18T01:50:00Z"
+      }
+    }
+  ]
+}

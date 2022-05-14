@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jkEzTNt8s8pTNKJmOvoNRTW_NV0",
+  "id": "UgxVQOYNL9wDoQMEYhZ4AaABAg",
+  "snippet": {
+    "videoId": "lI4pftklFN8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "T2MJ0IcLhUWq5ZDwyvtNQbL-pl0",
+      "id": "UgxVQOYNL9wDoQMEYhZ4AaABAg",
+      "snippet": {
+        "videoId": "lI4pftklFN8",
+        "textDisplay": "Felem sek",
+        "textOriginal": "Felem sek",
+        "authorDisplayName": "Mutri Yah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSB-6hfJxWyaZSe1-mwDhIPjVMgHB_BOn3juA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwB6mROVVdF-NuaS0CQetTQ",
+        "authorChannelId": {
+          "value": "UCwB6mROVVdF-NuaS0CQetTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-15T14:32:04Z",
+        "updatedAt": "2021-09-15T14:32:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7UPU96SjLtjyLy1RuAx8ynJe2nQ",
+      "id": "UgxVQOYNL9wDoQMEYhZ4AaABAg.9SJd-tMhWR29SJhtg9rAUv",
+      "snippet": {
+        "textDisplay": "Detik felem?",
+        "textOriginal": "Detik felem?",
+        "parentId": "UgxVQOYNL9wDoQMEYhZ4AaABAg",
+        "authorDisplayName": "MunMazu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/sg18pgIwK096jscJfXRdRwyR_TKX7hchzzki79FyTUbnINcrzxj1G41mQZK-z5MeVaN9YE0j=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIKgJfYlYw6pYmGTAYdOyCQ",
+        "authorChannelId": {
+          "value": "UCIKgJfYlYw6pYmGTAYdOyCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-15T15:14:46Z",
+        "updatedAt": "2021-09-15T15:14:52Z"
+      }
+    }
+  ]
+}

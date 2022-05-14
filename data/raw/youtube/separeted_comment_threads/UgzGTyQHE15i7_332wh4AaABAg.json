@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "D7bCY-jKixNsiqxKe5SVKCTLziI",
+  "id": "UgzGTyQHE15i7_332wh4AaABAg",
+  "snippet": {
+    "videoId": "P4xUMNtc-kQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hClvA7065Ncnv9RV_HOakq0TQFo",
+      "id": "UgzGTyQHE15i7_332wh4AaABAg",
+      "snippet": {
+        "videoId": "P4xUMNtc-kQ",
+        "textDisplay": "que aula maravilhosa! obrigada, prof!!",
+        "textOriginal": "que aula maravilhosa! obrigada, prof!!",
+        "authorDisplayName": "Carol T",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyjJ2YC8sSA22dwZ0Cwk4x_3rAJdQVpnYTNw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKc1UkZFhjRrMTA1xzYIB4Q",
+        "authorChannelId": {
+          "value": "UCKc1UkZFhjRrMTA1xzYIB4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-11-04T21:39:13Z",
+        "updatedAt": "2021-11-04T21:39:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xb1hJyQFfuRK5d-5oKgJdmV5qe4",
+      "id": "UgzGTyQHE15i7_332wh4AaABAg.9UL8d7st2YF9UNVaJdB0Ys",
+      "snippet": {
+        "textDisplay": "\ud83e\udd89 Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas",
+        "textOriginal": "\ud83e\udd89 Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas",
+        "parentId": "UgzGTyQHE15i7_332wh4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-05T19:38:17Z",
+        "updatedAt": "2021-11-05T19:38:17Z"
+      }
+    }
+  ]
+}

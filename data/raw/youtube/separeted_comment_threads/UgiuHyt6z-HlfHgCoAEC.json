@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xpE0xzLErPI4OOsuCeF8gu-FRuA",
+  "id": "UgiuHyt6z-HlfHgCoAEC",
+  "snippet": {
+    "videoId": "2NaJEbyjOcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9Qqn_KI5ektmi1o62qQB54ruesU",
+      "id": "UgiuHyt6z-HlfHgCoAEC",
+      "snippet": {
+        "videoId": "2NaJEbyjOcw",
+        "textDisplay": "How does Corona handle surfaces that become more sharply reflective at glancing angles? In the real world a material may be pretty rough at low incidence angles, but when you look down the length of the object it becomes more mirror like. TheaRender accounts for this (as a material option). So it's not just that the fresnel effect should decrease with increasing roughness, but alternatively a surface's roughness should INCREASE at glancing angles.",
+        "textOriginal": "How does Corona handle surfaces that become more sharply reflective at glancing angles? In the real world a material may be pretty rough at low incidence angles, but when you look down the length of the object it becomes more mirror like. TheaRender accounts for this (as a material option). So it's not just that the fresnel effect should decrease with increasing roughness, but alternatively a surface's roughness should INCREASE at glancing angles.",
+        "authorDisplayName": "Christopher 3D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtRa9sV5_n3Ploc2zoXXrOISkASoPWFfjbkYD_Nw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu_PgLQjx8GI_Soe39PpC5Q",
+        "authorChannelId": {
+          "value": "UCu_PgLQjx8GI_Soe39PpC5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2016-11-04T17:44:33Z",
+        "updatedAt": "2016-11-04T17:44:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

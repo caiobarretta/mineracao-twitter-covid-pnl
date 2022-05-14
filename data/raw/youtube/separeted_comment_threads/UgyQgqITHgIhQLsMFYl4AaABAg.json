@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "b6QP6LF-7gxp2IDNxVREoYen7j4",
+  "id": "UgyQgqITHgIhQLsMFYl4AaABAg",
+  "snippet": {
+    "videoId": "pYLjbTxeQOs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vO6K9bert51NXjHTDyz1F8mM2ig",
+      "id": "UgyQgqITHgIhQLsMFYl4AaABAg",
+      "snippet": {
+        "videoId": "pYLjbTxeQOs",
+        "textDisplay": "gostei muito, me ajudou bastante Parab\u00e9ns!",
+        "textOriginal": "gostei muito, me ajudou bastante Parab\u00e9ns!",
+        "authorDisplayName": "katia almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRKSM1UKb2bZ4nQgZm8TZ_HWmsepJk3s3MncAZaJQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7hEV6AOUDx3ZykIFRCbBVw",
+        "authorChannelId": {
+          "value": "UC7hEV6AOUDx3ZykIFRCbBVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-07-12T03:17:32Z",
+        "updatedAt": "2021-07-12T03:17:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OROKlBv4R1xZtU6Q3m3vC78EUWg",
+      "id": "UgyQgqITHgIhQLsMFYl4AaABAg.9Pg38aA5Ztc9YBQf_1IHes",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "parentId": "UgyQgqITHgIhQLsMFYl4AaABAg",
+        "authorDisplayName": "Dayane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsEj-aJa-FH6lVofxsyGV6Uw1ok_bmJvIzoQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClzL4mzyWvqCm9un_-mUlKw",
+        "authorChannelId": {
+          "value": "UClzL4mzyWvqCm9un_-mUlKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-08T13:10:00Z",
+        "updatedAt": "2022-02-08T13:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "wfZGIieOIB9MSm9Nc_qPj41QYc0",
+      "id": "UgyQgqITHgIhQLsMFYl4AaABAg.9Pg38aA5Ztc9YBQ-9uhytg",
+      "snippet": {
+        "textDisplay": "Muito boa explica\u00e7\u00e3o!!",
+        "textOriginal": "Muito boa explica\u00e7\u00e3o!!",
+        "parentId": "UgyQgqITHgIhQLsMFYl4AaABAg",
+        "authorDisplayName": "Dayane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsEj-aJa-FH6lVofxsyGV6Uw1ok_bmJvIzoQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClzL4mzyWvqCm9un_-mUlKw",
+        "authorChannelId": {
+          "value": "UClzL4mzyWvqCm9un_-mUlKw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-08T13:04:04Z",
+        "updatedAt": "2022-02-08T13:04:04Z"
+      }
+    }
+  ]
+}

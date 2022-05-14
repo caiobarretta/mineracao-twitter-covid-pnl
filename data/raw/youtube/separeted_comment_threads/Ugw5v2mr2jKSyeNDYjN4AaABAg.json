@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nAC7aKKFv8OpUBLf5EeIPwLYdLg",
+  "id": "Ugw5v2mr2jKSyeNDYjN4AaABAg",
+  "snippet": {
+    "videoId": "cGPIMZbsh_w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aL5qV_81LRaLgAXc4TmxyFHT8v0",
+      "id": "Ugw5v2mr2jKSyeNDYjN4AaABAg",
+      "snippet": {
+        "videoId": "cGPIMZbsh_w",
+        "textDisplay": "Su windows non riesco a creare la cartella",
+        "textOriginal": "Su windows non riesco a creare la cartella",
+        "authorDisplayName": "Lucas Add",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_hLr69S2WyqiEsJSWqhAlh9Ax445TSoiAbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAtfGnD78VKBOLVwhjR437g",
+        "authorChannelId": {
+          "value": "UCAtfGnD78VKBOLVwhjR437g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-09-11T13:40:38Z",
+        "updatedAt": "2019-09-11T13:40:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1H8C-OHoNdngmKrmTuMDuxT07jc",
+      "id": "Ugw5v2mr2jKSyeNDYjN4AaABAg.8zjyr6DCOej8zpSV_AtXft",
+      "snippet": {
+        "textDisplay": "Ciao e grazie del commento. Spiegami meglio cosa intendi.\nNel momento in cui inizi ti crei una cartella nella partizione del tuo PC che preferisci, cliccando col destro e selezionando \"Nuovo\" e dal men\u00f9 a tendina \"cartella\".\nSe invece crei un progetto nuovo da Corona SDK nel momento in cui lo crei c'\u00e8 il pulsante \"browse\" che ti chiede di scegliere dove andrai a salvarlo.",
+        "textOriginal": "Ciao e grazie del commento. Spiegami meglio cosa intendi.\nNel momento in cui inizi ti crei una cartella nella partizione del tuo PC che preferisci, cliccando col destro e selezionando \"Nuovo\" e dal men\u00f9 a tendina \"cartella\".\nSe invece crei un progetto nuovo da Corona SDK nel momento in cui lo crei c'\u00e8 il pulsante \"browse\" che ti chiede di scegliere dove andrai a salvarlo.",
+        "parentId": "Ugw5v2mr2jKSyeNDYjN4AaABAg",
+        "authorDisplayName": "1973Hybrid",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrjJXtDS3flm7UyQYYFSt2xPBwKina4EUVMUTv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVO2n177Ybwqt6dTU-9vKSQ",
+        "authorChannelId": {
+          "value": "UCVO2n177Ybwqt6dTU-9vKSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-09-13T16:44:39Z",
+        "updatedAt": "2019-09-13T16:44:39Z"
+      }
+    }
+  ]
+}

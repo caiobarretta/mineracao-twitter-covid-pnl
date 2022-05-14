@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HeNwhUmcIvTbTEwjQb2DAe7UIWs",
+  "id": "UgzrdC2sIVjeJNvji8J4AaABAg",
+  "snippet": {
+    "videoId": "5-wRdv5CErs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WLoTDwCSvaqEcLOHSORkWlUDfbY",
+      "id": "UgzrdC2sIVjeJNvji8J4AaABAg",
+      "snippet": {
+        "videoId": "5-wRdv5CErs",
+        "textDisplay": "Pasar tomohon?",
+        "textOriginal": "Pasar tomohon?",
+        "authorDisplayName": "Tryy.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSEn4x9fsiyBV4Uo4xXxck45EtLlAmGzeh9SZMuQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiCufb_6huJsKRxji8tIOdA",
+        "authorChannelId": {
+          "value": "UCiCufb_6huJsKRxji8tIOdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-29T17:14:54Z",
+        "updatedAt": "2020-01-29T17:14:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m1YnsYdcWqNUAN4QyrOye6rF4zk",
+      "id": "UgzrdC2sIVjeJNvji8J4AaABAg.94NqevN0juq94lXunOKH-J",
+      "snippet": {
+        "textDisplay": "Manado yah",
+        "textOriginal": "Manado yah",
+        "parentId": "UgzrdC2sIVjeJNvji8J4AaABAg",
+        "authorDisplayName": "DMS OFFICIAL",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4ufE2EZ5Vv1FFtIvLmbtFFS5jBhWkvP9Lxa-_Kw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCboQUVeOyHYKBXOrDM2-7tA",
+        "authorChannelId": {
+          "value": "UCboQUVeOyHYKBXOrDM2-7tA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-08T07:23:19Z",
+        "updatedAt": "2020-02-08T07:23:19Z"
+      }
+    }
+  ]
+}

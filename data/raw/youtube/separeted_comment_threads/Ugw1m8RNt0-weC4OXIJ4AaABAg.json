@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PGh9c1x2WFz8ZfmIHxNIQTaKNAo",
+  "id": "Ugw1m8RNt0-weC4OXIJ4AaABAg",
+  "snippet": {
+    "videoId": "EFFsK-q24yg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ey1OFT7zXRIUbv-7OYarj6gtq6k",
+      "id": "Ugw1m8RNt0-weC4OXIJ4AaABAg",
+      "snippet": {
+        "videoId": "EFFsK-q24yg",
+        "textDisplay": "Vc \u00e9 foda cara, dale render!!!!!",
+        "textOriginal": "Vc \u00e9 foda cara, dale render!!!!!",
+        "authorDisplayName": "TwoTwoCool FX",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRKKtRtJuf9SzyTv9dS8oeSrIuGzf64vvH1Qsmo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOTAfe4VXaJtQDiT-Se8FbA",
+        "authorChannelId": {
+          "value": "UCOTAfe4VXaJtQDiT-Se8FbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-13T22:53:33Z",
+        "updatedAt": "2021-04-13T22:53:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m490RG-MoBioZPg5vTl14PdB46M",
+      "id": "Ugw1m8RNt0-weC4OXIJ4AaABAg.9M5QBDi1VYS9M9hAWIOvAn",
+      "snippet": {
+        "textDisplay": "Po, muito obrigado!!!",
+        "textOriginal": "Po, muito obrigado!!!",
+        "parentId": "Ugw1m8RNt0-weC4OXIJ4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T14:47:42Z",
+        "updatedAt": "2021-04-15T14:47:42Z"
+      }
+    }
+  ]
+}

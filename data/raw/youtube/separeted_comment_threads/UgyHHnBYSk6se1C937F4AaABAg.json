@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9BnKu-0RePIq8LqPCSFQot3Baww",
+  "id": "UgyHHnBYSk6se1C937F4AaABAg",
+  "snippet": {
+    "videoId": "2L45doMx_aw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gM8D7YwnRq-4qzMzUtWhQoAIEyQ",
+      "id": "UgyHHnBYSk6se1C937F4AaABAg",
+      "snippet": {
+        "videoId": "2L45doMx_aw",
+        "textDisplay": "Uhuu primeiro a dar like \ud83d\ude06\ud83d\ude03",
+        "textOriginal": "Uhuu primeiro a dar like \ud83d\ude06\ud83d\ude03",
+        "authorDisplayName": "Maikon Hanry",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcEhhJ3upAkyjC-K3a-lx2BPE-J10-r0atry9X7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFdpNLgJ4Mix5riR1dMABEA",
+        "authorChannelId": {
+          "value": "UCFdpNLgJ4Mix5riR1dMABEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2019-04-15T01:16:45Z",
+        "updatedAt": "2019-04-15T01:16:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QQnFcHJsokQrVIFqL2AFvlsmCcM",
+      "id": "UgyHHnBYSk6se1C937F4AaABAg.8tizHLD0Lod8tj-N-ER193",
+      "snippet": {
+        "textDisplay": "Achei que vcs tavam assistindo a estreia de GOT ahhajajajajajjajaja",
+        "textOriginal": "Achei que vcs tavam assistindo a estreia de GOT ahhajajajajajjajaja",
+        "parentId": "UgyHHnBYSk6se1C937F4AaABAg",
+        "authorDisplayName": "Quero uma vaga na Enfermagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOdGjkUdvuXXj0Al0fPdvwDSqWaR1SPXdX4RN7qw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvNIq9u4Bba7L62Kdxe8k3g",
+        "authorChannelId": {
+          "value": "UCvNIq9u4Bba7L62Kdxe8k3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-15T01:26:16Z",
+        "updatedAt": "2019-04-15T01:26:16Z"
+      }
+    }
+  ]
+}

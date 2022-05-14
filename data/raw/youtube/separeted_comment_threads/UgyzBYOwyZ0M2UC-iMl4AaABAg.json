@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dEGJJNe_V-bccyBzaJ70m38gUbY",
+  "id": "UgyzBYOwyZ0M2UC-iMl4AaABAg",
+  "snippet": {
+    "videoId": "EgMkicTkeh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rFBcXHNOZi3y6gCdyS85VpkoVbQ",
+      "id": "UgyzBYOwyZ0M2UC-iMl4AaABAg",
+      "snippet": {
+        "videoId": "EgMkicTkeh0",
+        "textDisplay": "\u00f3tima aula, professor! Continue produzindo mais por favor!",
+        "textOriginal": "\u00f3tima aula, professor! Continue produzindo mais por favor!",
+        "authorDisplayName": "Paula Nogueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReatckmqfhP_j44K0NsnCb1AIpzz7REf56b3mBEA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHxhox_L4L9by_h6gVlXUAQ",
+        "authorChannelId": {
+          "value": "UCHxhox_L4L9by_h6gVlXUAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-12-05T11:51:36Z",
+        "updatedAt": "2020-12-05T11:51:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7LSMfKhunZjoo1b7SxgFqrOjguI",
+      "id": "UgyzBYOwyZ0M2UC-iMl4AaABAg.9Gt3t7gHgyj9H-mPSrTkTy",
+      "snippet": {
+        "textDisplay": "Obrigado! J\u00e1 viu as outras produ\u00e7\u00f5es?",
+        "textOriginal": "Obrigado! J\u00e1 viu as outras produ\u00e7\u00f5es?",
+        "parentId": "UgyzBYOwyZ0M2UC-iMl4AaABAg",
+        "authorDisplayName": "Prof. Basilio Historiando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSAUm0wCZYHQHRu3LyoqjWCFrvVs09mNn8aZ7OBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnU_8ovaM-lltVmXGY9JPUw",
+        "authorChannelId": {
+          "value": "UCnU_8ovaM-lltVmXGY9JPUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-08T11:44:03Z",
+        "updatedAt": "2020-12-08T11:44:03Z"
+      }
+    }
+  ]
+}

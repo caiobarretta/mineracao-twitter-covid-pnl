@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aCYnmHEwnmq2rNshbWhjXyEq6GU",
+  "id": "Ugz2uJ1LpbCrOpuiGMp4AaABAg",
+  "snippet": {
+    "videoId": "y-iJjVqFJek",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sL_g_HdiTtCQLQjBfSarQMw67WE",
+      "id": "Ugz2uJ1LpbCrOpuiGMp4AaABAg",
+      "snippet": {
+        "videoId": "y-iJjVqFJek",
+        "textDisplay": "Estou ancioso para tomar minha dose 1.737.873",
+        "textOriginal": "Estou ancioso para tomar minha dose 1.737.873",
+        "authorDisplayName": "El",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjyb4FuUlfTLaPtINZk-MF1x2GB_CRf0Y43g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChDFWL52PTRbtykusivLFeA",
+        "authorChannelId": {
+          "value": "UChDFWL52PTRbtykusivLFeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-01-24T11:18:36Z",
+        "updatedAt": "2022-01-24T11:18:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "75uX7ifbWhPTfghGPSGQYN083HU",
+      "id": "Ugz2uJ1LpbCrOpuiGMp4AaABAg.9X_b-ZV4MX19Xb6kiW9qMd",
+      "snippet": {
+        "textDisplay": "N\u00f3s sseremos movidos a vacina igual a carro a gasolina ou \u00e1lcool.",
+        "textOriginal": "N\u00f3s sseremos movidos a vacina igual a carro a gasolina ou \u00e1lcool.",
+        "parentId": "Ugz2uJ1LpbCrOpuiGMp4AaABAg",
+        "authorDisplayName": "wellington da silva souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDbzCiQL0Ne0Cjn0IngDGrVh4NPCgG9tdIowUwyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU-VUqPPVhWDUB7eIoG9RNg",
+        "authorChannelId": {
+          "value": "UCU-VUqPPVhWDUB7eIoG9RNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-25T01:24:02Z",
+        "updatedAt": "2022-01-25T01:24:02Z"
+      }
+    }
+  ]
+}

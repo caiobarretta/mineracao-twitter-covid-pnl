@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z5aDaXEnT7moh9vdQvnLPkQ8oZ4",
+  "id": "Ugx09zv7SvR4KPa5fsN4AaABAg",
+  "snippet": {
+    "videoId": "xbd8zwQw8zE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wOH3RHfRohjQYgnUAdX5wApWj7U",
+      "id": "Ugx09zv7SvR4KPa5fsN4AaABAg",
+      "snippet": {
+        "videoId": "xbd8zwQw8zE",
+        "textDisplay": "Gostei muito desse programa. Vou acompanhar, e divulgar pros amigos.",
+        "textOriginal": "Gostei muito desse programa. Vou acompanhar, e divulgar pros amigos.",
+        "authorDisplayName": "Renan Taraborelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDAid7BhsI47G-BI226HY0PnC8Sqg9ws8NKfDekw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3L_720t3f8Sn4E3-PKdlyg",
+        "authorChannelId": {
+          "value": "UC3L_720t3f8Sn4E3-PKdlyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-02-13T19:06:11Z",
+        "updatedAt": "2022-02-13T19:06:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XibGR_AcQ7BzGwy1ByM74373KqE",
+      "id": "Ugx09zv7SvR4KPa5fsN4AaABAg.9YOwPiqoKMx9YQwpjTHtWF",
+      "snippet": {
+        "textDisplay": "Obrigada pelo elogio e por nos acompanhar, Renan :-)",
+        "textOriginal": "Obrigada pelo elogio e por nos acompanhar, Renan :-)",
+        "parentId": "Ugx09zv7SvR4KPa5fsN4AaABAg",
+        "authorDisplayName": "DW Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQY1fR4HL7NIxVxONH-FFrg7n14cWLRD3tnS1Lu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkJ8uPxz6UvoI6ihgQJZnww",
+        "authorChannelId": {
+          "value": "UCkJ8uPxz6UvoI6ihgQJZnww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-14T13:48:21Z",
+        "updatedAt": "2022-02-14T13:48:21Z"
+      }
+    }
+  ]
+}

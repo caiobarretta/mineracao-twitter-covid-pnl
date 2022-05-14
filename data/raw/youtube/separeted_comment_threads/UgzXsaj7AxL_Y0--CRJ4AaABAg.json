@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oJQr4cK1Ukp9qWKIOBioiEsRH78",
+  "id": "UgzXsaj7AxL_Y0--CRJ4AaABAg",
+  "snippet": {
+    "videoId": "4aERsTb3YUo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4RpX7l2eSPJ_w4MH4GPSO59CB6U",
+      "id": "UgzXsaj7AxL_Y0--CRJ4AaABAg",
+      "snippet": {
+        "videoId": "4aERsTb3YUo",
+        "textDisplay": "Muito obrigado muito r\u00e1pido",
+        "textOriginal": "Muito obrigado muito r\u00e1pido",
+        "authorDisplayName": "George Dos Anjos Conde",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQT69PGcWr45apmXw1-ySetYtM2o8JEkWAHbu1Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAjwRHDcoopVffxSxO3oL-g",
+        "authorChannelId": {
+          "value": "UCAjwRHDcoopVffxSxO3oL-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-22T20:44:11Z",
+        "updatedAt": "2021-11-22T20:44:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fU3uUlbB2yIx5qbMvQi72SRIVt4",
+      "id": "UgzXsaj7AxL_Y0--CRJ4AaABAg.9V3OdpWaR-E9V4tCDCf7Bh",
+      "snippet": {
+        "textDisplay": "Espero ter ajudado",
+        "textOriginal": "Espero ter ajudado",
+        "parentId": "UgzXsaj7AxL_Y0--CRJ4AaABAg",
+        "authorDisplayName": "Conth@dorTec & O.C",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uOI8j9s7-f5YJ0s13Z_RZ1iFqgKX4suuz1Kngd-d381LktdZtdwqG5J3d_ZH7Fpoc5VPWG_OSg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdPs5SvO-iaiLZjfjEzQ6OA",
+        "authorChannelId": {
+          "value": "UCdPs5SvO-iaiLZjfjEzQ6OA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-23T10:39:08Z",
+        "updatedAt": "2021-11-23T10:39:08Z"
+      }
+    }
+  ]
+}

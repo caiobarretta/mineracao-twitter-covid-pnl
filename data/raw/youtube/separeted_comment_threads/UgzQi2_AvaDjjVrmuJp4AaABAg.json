@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "78_0GjXPBSJH3Cdk-1-taHecu_c",
+  "id": "UgzQi2_AvaDjjVrmuJp4AaABAg",
+  "snippet": {
+    "videoId": "fx3jxM5q5_4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mZ5rtwOKqWepm1SN7V5kmSXVsZU",
+      "id": "UgzQi2_AvaDjjVrmuJp4AaABAg",
+      "snippet": {
+        "videoId": "fx3jxM5q5_4",
+        "textDisplay": "Muito bom",
+        "textOriginal": "Muito bom",
+        "authorDisplayName": "luis 06",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSllINUEn68y0uqpEkWiDX2CvacyUTRee32lA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkc5b-V0Pgmo4_EGBHQDBdA",
+        "authorChannelId": {
+          "value": "UCkc5b-V0Pgmo4_EGBHQDBdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2018-10-24T02:47:07Z",
+        "updatedAt": "2018-10-24T02:47:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gTmsUEvSNwOUxwqF9jcpttp6srA",
+      "id": "UgzQi2_AvaDjjVrmuJp4AaABAg.8mlg5oL5d3f8mmGCS3uQWl",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+        "textOriginal": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+        "parentId": "UgzQi2_AvaDjjVrmuJp4AaABAg",
+        "authorDisplayName": "Agora, Disserte!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-rEfMw-oOkoG-4PsdbJx0O9HJRzVnhW398dMJeg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCReIDcUmvpx2ttRcaJShLIQ",
+        "authorChannelId": {
+          "value": "UCReIDcUmvpx2ttRcaJShLIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-10-24T08:11:20Z",
+        "updatedAt": "2018-10-24T08:11:20Z"
+      }
+    }
+  ]
+}

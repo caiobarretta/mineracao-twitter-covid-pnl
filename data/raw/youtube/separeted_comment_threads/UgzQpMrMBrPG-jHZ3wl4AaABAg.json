@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pI76FURbyD4zmD9M1l_wL1u1kRc",
+  "id": "UgzQpMrMBrPG-jHZ3wl4AaABAg",
+  "snippet": {
+    "videoId": "xbd8zwQw8zE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k-UIKO-qkcRR6M8yhWBNVA6H_Q4",
+      "id": "UgzQpMrMBrPG-jHZ3wl4AaABAg",
+      "snippet": {
+        "videoId": "xbd8zwQw8zE",
+        "textDisplay": "Muito interessante o programa!",
+        "textOriginal": "Muito interessante o programa!",
+        "authorDisplayName": "Maria Luiza Jenner Rosas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_JPrq2etd0HUVbRjfNVgRiYEYJ5iMkxOIIw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGG7r2rDtjOv1BOZzLN9iYA",
+        "authorChannelId": {
+          "value": "UCGG7r2rDtjOv1BOZzLN9iYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-02-12T20:00:35Z",
+        "updatedAt": "2022-02-12T20:00:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PhcJ4R96nZunQh0qnt_89GEiNk4",
+      "id": "UgzQpMrMBrPG-jHZ3wl4AaABAg.9YMSqK7ss6F9YQwuCa0Vlv",
+      "snippet": {
+        "textDisplay": "Obrigada, Maria Luiza! :-)",
+        "textOriginal": "Obrigada, Maria Luiza! :-)",
+        "parentId": "UgzQpMrMBrPG-jHZ3wl4AaABAg",
+        "authorDisplayName": "DW Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQY1fR4HL7NIxVxONH-FFrg7n14cWLRD3tnS1Lu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkJ8uPxz6UvoI6ihgQJZnww",
+        "authorChannelId": {
+          "value": "UCkJ8uPxz6UvoI6ihgQJZnww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-14T13:48:58Z",
+        "updatedAt": "2022-02-14T13:48:58Z"
+      }
+    }
+  ]
+}

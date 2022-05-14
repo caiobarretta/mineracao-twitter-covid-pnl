@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KqizFs89dD3-xocz1NLmYwOYq9o",
+  "id": "Ugj3xd9sjNWxo3gCoAEC",
+  "snippet": {
+    "videoId": "2NaJEbyjOcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5vc17JorPVLaR0hk_Ac_BWYcYP8",
+      "id": "Ugj3xd9sjNWxo3gCoAEC",
+      "snippet": {
+        "videoId": "2NaJEbyjOcw",
+        "textDisplay": "Hey thank you for tutorial. .. may I ask what is your workstation specifications?",
+        "textOriginal": "Hey thank you for tutorial. .. may I ask what is your workstation specifications?",
+        "authorDisplayName": "mehdi abootalebi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFlNqwvDZdStv8Ljsw0xnEcwBZug2wDCyO3ziA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT-Gymrsnk5oaUiuepSC1Uw",
+        "authorChannelId": {
+          "value": "UCT-Gymrsnk5oaUiuepSC1Uw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2016-11-04T15:33:38Z",
+        "updatedAt": "2016-11-04T15:33:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Mgyk0va7uyKmIt0b3MVAuRNurC8",
+      "id": "Ugj3xd9sjNWxo3gCoAEC.8KrgGn0kB6B9Odf3FGzIvu",
+      "snippet": {
+        "textDisplay": "pentium 4",
+        "textOriginal": "pentium 4",
+        "parentId": "Ugj3xd9sjNWxo3gCoAEC",
+        "authorDisplayName": "bimby aquino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_lFKO2u2FI0DFLI3dhnvhv9-3AA9G8G8bIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCy88-W5U1zS2c2o5cbfbJA",
+        "authorChannelId": {
+          "value": "UCCy88-W5U1zS2c2o5cbfbJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-16T08:28:28Z",
+        "updatedAt": "2021-06-16T08:28:28Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "E-i-499RuNoc8pZbv_ZsEXanRsc",
+      "id": "Ugj3xd9sjNWxo3gCoAEC.8KrgGn0kB6B8LjKKMirJL2",
+      "snippet": {
+        "textDisplay": "let me know if they answer :p",
+        "textOriginal": "let me know if they answer :p",
+        "parentId": "Ugj3xd9sjNWxo3gCoAEC",
+        "authorDisplayName": "Ali Qasim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnMUbv0Ee9g5pdDXIqMU_YIixPSQcRWmFe2Wj83Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSsAAT9Uv2hp8Icm2hhwtnw",
+        "authorChannelId": {
+          "value": "UCSsAAT9Uv2hp8Icm2hhwtnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-11-26T06:10:37Z",
+        "updatedAt": "2016-11-26T06:10:37Z"
+      }
+    }
+  ]
+}

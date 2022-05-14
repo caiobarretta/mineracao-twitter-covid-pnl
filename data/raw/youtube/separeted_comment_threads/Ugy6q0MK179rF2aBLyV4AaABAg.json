@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "krpB5lNs4g6YzOp7S36580fgsZQ",
+  "id": "Ugy6q0MK179rF2aBLyV4AaABAg",
+  "snippet": {
+    "videoId": "JzM21pMHD6w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2w5plqWB5mlom7CKLhMybs34aZE",
+      "id": "Ugy6q0MK179rF2aBLyV4AaABAg",
+      "snippet": {
+        "videoId": "JzM21pMHD6w",
+        "textDisplay": "Amei a aula bem explicada",
+        "textOriginal": "Amei a aula bem explicada",
+        "authorDisplayName": "Fran\u00e7oise Marreiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHfxe1xLZ2VQY3hAxupX1PwDS1lEOXRgDCfrMdXg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9nokRq4z_6T70fPHUZyZIw",
+        "authorChannelId": {
+          "value": "UC9nokRq4z_6T70fPHUZyZIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-27T03:49:27Z",
+        "updatedAt": "2022-02-27T03:49:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "S3Humr6mNwVcmHcEOZveADYP9Go",
+      "id": "Ugy6q0MK179rF2aBLyV4AaABAg.9YwLcb-zoRe9YzmezrFXC_",
+      "snippet": {
+        "textDisplay": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "textOriginal": "Obrigado pelo elogio, Estrategista! Inscreva-se no canal e defina o lembrete para ser avisado das pr\u00f3ximas aulas \ud83e\udd89",
+        "parentId": "Ugy6q0MK179rF2aBLyV4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-28T11:52:10Z",
+        "updatedAt": "2022-02-28T11:52:10Z"
+      }
+    }
+  ]
+}

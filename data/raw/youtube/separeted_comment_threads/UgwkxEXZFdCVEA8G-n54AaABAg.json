@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dOOYclQQLTf9YXjJfu5mMoQgCrE",
+  "id": "UgwkxEXZFdCVEA8G-n54AaABAg",
+  "snippet": {
+    "videoId": "cGPIMZbsh_w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1eQx5qEKnT1F1qlq8U-FjP_FWv8",
+      "id": "UgwkxEXZFdCVEA8G-n54AaABAg",
+      "snippet": {
+        "videoId": "cGPIMZbsh_w",
+        "textDisplay": "11:16 quando apro corona sdk mi apre anche Corona Simulator Console",
+        "textOriginal": "11:16 quando apro corona sdk mi apre anche Corona Simulator Console",
+        "authorDisplayName": "Sonosoloioeindiscutibilmenteio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQU1NoksWFriJdq_rWOavJ0__SPaGUWuApD1gcG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZLUsCZnsNi7ef9B3s9nQjw",
+        "authorChannelId": {
+          "value": "UCZLUsCZnsNi7ef9B3s9nQjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-19T09:17:23Z",
+        "updatedAt": "2020-11-19T09:17:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AzK7GBHvMEZFokxpqUe3ojOJnYU",
+      "id": "UgwkxEXZFdCVEA8G-n54AaABAg.9GEaWb3y_Nj9GF7JiMr1E6",
+      "snippet": {
+        "textDisplay": "@1973Hybrid no, dato che ho visto che a te non accadeva pensao fosse un errore",
+        "textOriginal": "@1973Hybrid no, dato che ho visto che a te non accadeva pensao fosse un errore",
+        "parentId": "UgwkxEXZFdCVEA8G-n54AaABAg",
+        "authorDisplayName": "Sonosoloioeindiscutibilmenteio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQU1NoksWFriJdq_rWOavJ0__SPaGUWuApD1gcG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZLUsCZnsNi7ef9B3s9nQjw",
+        "authorChannelId": {
+          "value": "UCZLUsCZnsNi7ef9B3s9nQjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-19T14:12:43Z",
+        "updatedAt": "2020-11-19T14:12:43Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "AGqcRPtufVxJ6TQ5wGwQY6RRTLQ",
+      "id": "UgwkxEXZFdCVEA8G-n54AaABAg.9GEaWb3y_Nj9GF4z8_A1xA",
+      "snippet": {
+        "textDisplay": "Al momento non ho modo di testarlo; ma \u00e8 un problema? Mi pare sia normale.",
+        "textOriginal": "Al momento non ho modo di testarlo; ma \u00e8 un problema? Mi pare sia normale.",
+        "parentId": "UgwkxEXZFdCVEA8G-n54AaABAg",
+        "authorDisplayName": "1973Hybrid",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrjJXtDS3flm7UyQYYFSt2xPBwKina4EUVMUTv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVO2n177Ybwqt6dTU-9vKSQ",
+        "authorChannelId": {
+          "value": "UCVO2n177Ybwqt6dTU-9vKSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-19T13:52:18Z",
+        "updatedAt": "2020-11-19T13:52:18Z"
+      }
+    }
+  ]
+}

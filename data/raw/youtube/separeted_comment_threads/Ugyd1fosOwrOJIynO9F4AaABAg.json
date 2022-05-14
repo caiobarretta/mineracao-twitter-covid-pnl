@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "b8EYxtim55XA5RdDIQz5SfbwyTk",
+  "id": "Ugyd1fosOwrOJIynO9F4AaABAg",
+  "snippet": {
+    "videoId": "P4xUMNtc-kQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vDPJ4qWELTM3CrZDlhKdTj5vrKg",
+      "id": "Ugyd1fosOwrOJIynO9F4AaABAg",
+      "snippet": {
+        "videoId": "P4xUMNtc-kQ",
+        "textDisplay": "excelente aula. obrigado",
+        "textOriginal": "excelente aula. obrigado",
+        "authorDisplayName": "Quentin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbs-yXRcf1DPtKMQiRQQHdxYiXacde_CIzE_h07A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS7X9N1InCD8_GG6iwbFpjA",
+        "authorChannelId": {
+          "value": "UCS7X9N1InCD8_GG6iwbFpjA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-30T15:07:09Z",
+        "updatedAt": "2021-10-30T15:07:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vnTWcaiiyMwae4JnWk1ZokW2JkI",
+      "id": "Ugyd1fosOwrOJIynO9F4AaABAg.9U7ZnGXw0s-9UCm-MdJ8Xo",
+      "snippet": {
+        "textDisplay": "Inscreva-se no canal e defina o lembrete. Toda semana v\u00eddeos di\u00e1rios para mant\u00ea-los atualizados. Conte sempre com a Coruja. \ud83d\udc9a\ud83e\udd89",
+        "textOriginal": "Inscreva-se no canal e defina o lembrete. Toda semana v\u00eddeos di\u00e1rios para mant\u00ea-los atualizados. Conte sempre com a Coruja. \ud83d\udc9a\ud83e\udd89",
+        "parentId": "Ugyd1fosOwrOJIynO9F4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia MED",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LIW6UlHtpHeYrfmMtFO3cVyeKOnL9Y9wXHh7Jjkjj2_MdX-cuPLLtAt34q8KK2xst9SCl1hS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyNuIBnEwzsgA05XK1P6Dmw",
+        "authorChannelId": {
+          "value": "UCyNuIBnEwzsgA05XK1P6Dmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-01T15:38:44Z",
+        "updatedAt": "2021-11-01T15:38:44Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KvI0nZOTc6QW67Xg74tDq392kqw",
+  "id": "UgziBVCrvwFAL6hDakx4AaABAg",
+  "snippet": {
+    "videoId": "8Cq4AEtymek",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E0s3U73qARf5GDM-n6V1Ar5mwv0",
+      "id": "UgziBVCrvwFAL6hDakx4AaABAg",
+      "snippet": {
+        "videoId": "8Cq4AEtymek",
+        "textDisplay": "Ander sou iniciante pra intermedi\u00e1rio no 3Dsmax (Tem muita coisa pra estudar) e a pergunta \u00e9: O renderizador nativo do 3Dsmax Mental Ray perde espa\u00e7o pra esses novos renderizadores ou posso continuar a focar nos resultados dele? Parab\u00e9ns pelos videos estou inscrito e acompanhando.",
+        "textOriginal": "Ander sou iniciante pra intermedi\u00e1rio no 3Dsmax (Tem muita coisa pra estudar) e a pergunta \u00e9: O renderizador nativo do 3Dsmax Mental Ray perde espa\u00e7o pra esses novos renderizadores ou posso continuar a focar nos resultados dele? Parab\u00e9ns pelos videos estou inscrito e acompanhando.",
+        "authorDisplayName": "Nilson Modesto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQoIKaqJEft9iNmIbaPzFZ0OSy5KNBrjJm798WXQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyh4MxPFl11uXJDCpmBjDxw",
+        "authorChannelId": {
+          "value": "UCyh4MxPFl11uXJDCpmBjDxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-16T11:20:24Z",
+        "updatedAt": "2020-03-16T11:20:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HmrG-oQCtAfLLh-zOzQD-qgZJJg",
+      "id": "UgziBVCrvwFAL6hDakx4AaABAg.96GESYP0EzT96GLrUrAShG",
+      "snippet": {
+        "textDisplay": "N\u00e3o existe mais Mental Ray, ele foi descontinuado, agora o padr\u00e3o do Max \u00e9 o Arnold, por\u00e9m eu recomendo firmemente voc\u00ea usar o Corona para renderizar.",
+        "textOriginal": "N\u00e3o existe mais Mental Ray, ele foi descontinuado, agora o padr\u00e3o do Max \u00e9 o Arnold, por\u00e9m eu recomendo firmemente voc\u00ea usar o Corona para renderizar.",
+        "parentId": "UgziBVCrvwFAL6hDakx4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-16T12:25:06Z",
+        "updatedAt": "2020-03-16T12:25:06Z"
+      }
+    }
+  ]
+}

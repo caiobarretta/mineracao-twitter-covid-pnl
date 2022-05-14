@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "unFeKAwM77Wiy5XRBdDQhsMmT_8",
+  "id": "UgzXU0x2E2rkRDQGQqB4AaABAg",
+  "snippet": {
+    "videoId": "BKtwdpaDoIw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GYOih1YJJxOLXTwZgmzgiSQng-I",
+      "id": "UgzXU0x2E2rkRDQGQqB4AaABAg",
+      "snippet": {
+        "videoId": "BKtwdpaDoIw",
+        "textDisplay": "Pensamento criativo e desafiante!",
+        "textOriginal": "Pensamento criativo e desafiante!",
+        "authorDisplayName": "Marlene Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUgmrW_nbB6XSS8vLWIUX4tW2l7q69UHQm2cyH2A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIX3sjed0rTEeU63cjErzBQ",
+        "authorChannelId": {
+          "value": "UCIX3sjed0rTEeU63cjErzBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-02-25T19:33:53Z",
+        "updatedAt": "2021-02-25T19:33:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X8yYqHKLNtwCXUcYqvn0TNa_xKY",
+      "id": "UgzXU0x2E2rkRDQGQqB4AaABAg.9KC1yjYZMSE9KC3_BoAuPu",
+      "snippet": {
+        "textDisplay": "Brilhante Naomar!",
+        "textOriginal": "Brilhante Naomar!",
+        "parentId": "UgzXU0x2E2rkRDQGQqB4AaABAg",
+        "authorDisplayName": "Marlene Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUgmrW_nbB6XSS8vLWIUX4tW2l7q69UHQm2cyH2A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIX3sjed0rTEeU63cjErzBQ",
+        "authorChannelId": {
+          "value": "UCIX3sjed0rTEeU63cjErzBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-25T19:47:52Z",
+        "updatedAt": "2021-02-25T19:47:52Z"
+      }
+    }
+  ]
+}

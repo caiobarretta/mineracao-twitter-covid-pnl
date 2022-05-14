@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i_Lrrt2yiHKjAT9XeoyOdWg5Rlo",
+  "id": "UgzZO0NMBFu08iLVvMh4AaABAg",
+  "snippet": {
+    "videoId": "fZZH5o8eUxE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AFoP5Ow8I1gYd2X88i469cEMuag",
+      "id": "UgzZO0NMBFu08iLVvMh4AaABAg",
+      "snippet": {
+        "videoId": "fZZH5o8eUxE",
+        "textDisplay": "Explica bem , PARAB\u00c9NS",
+        "textOriginal": "Explica bem , PARAB\u00c9NS",
+        "authorDisplayName": "Caroline S.lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7epXWFAVkjmpoMLKmPJGwrzeA-OYOOWFlcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgXAhcgPZvMeEzMM-jpxhPw",
+        "authorChannelId": {
+          "value": "UCgXAhcgPZvMeEzMM-jpxhPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-20T12:20:21Z",
+        "updatedAt": "2021-03-20T12:20:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Wv_zjYm3sF4_EmGoU9CheQx1PI4",
+      "id": "UgzZO0NMBFu08iLVvMh4AaABAg.9L6UdWQxMXu9ToWyjFAEqL",
+      "snippet": {
+        "textDisplay": "VERDADE KKK.",
+        "textOriginal": "VERDADE KKK.",
+        "parentId": "UgzZO0NMBFu08iLVvMh4AaABAg",
+        "authorDisplayName": "LEONARDO.BEUST.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/W6pQnovR39ygZlAi9-YshnDOQoDE7yk0O19XnNQFMFdrYW3UkWlttOaax2RqJndzNswdZKI6rSw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbMZv8ij4iXKShkl3DiH4bA",
+        "authorChannelId": {
+          "value": "UCbMZv8ij4iXKShkl3DiH4bA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-22T20:17:42Z",
+        "updatedAt": "2021-10-22T20:17:42Z"
+      }
+    }
+  ]
+}

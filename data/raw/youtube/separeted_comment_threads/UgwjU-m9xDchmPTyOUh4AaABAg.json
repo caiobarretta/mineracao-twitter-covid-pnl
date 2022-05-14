@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pwiOSgvpKvARaTd8dU4QllU8vks",
+  "id": "UgwjU-m9xDchmPTyOUh4AaABAg",
+  "snippet": {
+    "videoId": "2NaJEbyjOcw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ORz0rXP51rUrgUMylT9eih-klok",
+      "id": "UgwjU-m9xDchmPTyOUh4AaABAg",
+      "snippet": {
+        "videoId": "2NaJEbyjOcw",
+        "textDisplay": "This kind of Tutorial would be very usefull for the new CoronaPhysicalMtl. I know there ist a extendet workshop for the CoronaPhysical Material but here you talk about a wider range of materials. Especially the translucent rubber would be interesting to create with the new standard... BTW will be the corona material library updated to PhysicalMTL?",
+        "textOriginal": "This kind of Tutorial would be very usefull for the new CoronaPhysicalMtl. I know there ist a extendet workshop for the CoronaPhysical Material but here you talk about a wider range of materials. Especially the translucent rubber would be interesting to create with the new standard... BTW will be the corona material library updated to PhysicalMTL?",
+        "authorDisplayName": "Martin Wuehr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMFtrnQsvbMGmbyi0zJTquml0YPIpZbHbFfkMSqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUz4pdkN9B1tYrlHULmNVRQ",
+        "authorChannelId": {
+          "value": "UCUz4pdkN9B1tYrlHULmNVRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-03T10:04:47Z",
+        "updatedAt": "2022-05-03T10:04:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AJhiXGiF-eSaU1W5GLotzmaVsPc",
+      "id": "UgwjU-m9xDchmPTyOUh4AaABAg.9aZOFTR6JuP9a_BSwaGnXf",
+      "snippet": {
+        "textDisplay": "Thank you for your fast reply. So I will look forward for further tutorials and the updated materials in the cosmos...",
+        "textOriginal": "Thank you for your fast reply. So I will look forward for further tutorials and the updated materials in the cosmos...",
+        "parentId": "UgwjU-m9xDchmPTyOUh4AaABAg",
+        "authorDisplayName": "Martin Wuehr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMFtrnQsvbMGmbyi0zJTquml0YPIpZbHbFfkMSqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUz4pdkN9B1tYrlHULmNVRQ",
+        "authorChannelId": {
+          "value": "UCUz4pdkN9B1tYrlHULmNVRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-03T17:32:16Z",
+        "updatedAt": "2022-05-03T17:32:16Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Goxtb8djTgiHXe_CwZylovK1FRw",
+      "id": "UgwjU-m9xDchmPTyOUh4AaABAg.9aZOFTR6JuP9aZcH05sAGQ",
+      "snippet": {
+        "textDisplay": "There are more videos to come in the Phys Mat series, and then there will be other future videos on more specific materials, so keep an eye out for those over time! On the Material Library, it will in fact be removed and all materials added to Cosmos, and the current plan would be for those to come in as Corona Physical Material. Of course, that is a plan, and we'll have to wait and see how the implementation actually goes. Thanks! Tom",
+        "textOriginal": "There are more videos to come in the Phys Mat series, and then there will be other future videos on more specific materials, so keep an eye out for those over time! On the Material Library, it will in fact be removed and all materials added to Cosmos, and the current plan would be for those to come in as Corona Physical Material. Of course, that is a plan, and we'll have to wait and see how the implementation actually goes. Thanks! Tom",
+        "parentId": "UgwjU-m9xDchmPTyOUh4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-03T12:16:04Z",
+        "updatedAt": "2022-05-03T12:16:04Z"
+      }
+    }
+  ]
+}

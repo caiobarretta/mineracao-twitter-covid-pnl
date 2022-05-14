@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jWyDUnFKBjgkRDfTg5erqcbN8-s",
+  "id": "Ugxv8gIWb9JVycDHeWR4AaABAg",
+  "snippet": {
+    "videoId": "dLKMgS-WCDc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fbSNltLyTaIxLsUQUt2jr5BGzP4",
+      "id": "Ugxv8gIWb9JVycDHeWR4AaABAg",
+      "snippet": {
+        "videoId": "dLKMgS-WCDc",
+        "textDisplay": "Just ask bill gates.",
+        "textOriginal": "Just ask bill gates.",
+        "authorDisplayName": "G G",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7XlFQAncfz_zLHVixHk9z59A3cYTQsYpkyzCJ_qQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbTJGO8ytxg7o4kAupThUrQ",
+        "authorChannelId": {
+          "value": "UCbTJGO8ytxg7o4kAupThUrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-08-30T14:40:05Z",
+        "updatedAt": "2021-08-30T14:40:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BIYKPaD9pLzKYM7BjbLx7FRmIm4",
+      "id": "Ugxv8gIWb9JVycDHeWR4AaABAg.9RfSCcPq2H79RfZyAyblLa",
+      "snippet": {
+        "textDisplay": "Here's here with me on my island clapping cheeks, wanna come?",
+        "textOriginal": "Here's here with me on my island clapping cheeks, wanna come?",
+        "parentId": "Ugxv8gIWb9JVycDHeWR4AaABAg",
+        "authorDisplayName": "Asheru 92",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqG9rhxczEc-MDCi-frtQNII0y4D85h70PfxLrMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3-q_VDxRhdUmWlheeeze9g",
+        "authorChannelId": {
+          "value": "UC3-q_VDxRhdUmWlheeeze9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-30T15:47:53Z",
+        "updatedAt": "2021-08-30T15:47:53Z"
+      }
+    }
+  ]
+}

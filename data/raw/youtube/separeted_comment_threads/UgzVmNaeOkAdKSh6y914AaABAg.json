@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "40QPd0s4a6EtJOzUzxu86GqDezQ",
+  "id": "UgzVmNaeOkAdKSh6y914AaABAg",
+  "snippet": {
+    "videoId": "PSnSo9kYlH4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lVKVE05Q_0Lp-Urz3p8L3InUDzs",
+      "id": "UgzVmNaeOkAdKSh6y914AaABAg",
+      "snippet": {
+        "videoId": "PSnSo9kYlH4",
+        "textDisplay": "Virus. Is not good",
+        "textOriginal": "Virus. Is not good",
+        "authorDisplayName": "OSAZE 2016",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCUtjqRHwne9LwKSyAzIa7CCRkP81LSTCJq5-UCg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCs8la5dWb7ZsfmULCWB3DkA",
+        "authorChannelId": {
+          "value": "UCs8la5dWb7ZsfmULCWB3DkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-17T12:13:37Z",
+        "updatedAt": "2020-08-17T12:13:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7t4BrqEQtIS4GgzoLSbCandn9-Q",
+      "id": "UgzVmNaeOkAdKSh6y914AaABAg.9CSry6FlRPg9CZYdxuc8yP",
+      "snippet": {
+        "textDisplay": "Sadly this is the only accurate comment. All the other ones are talking about herbal therapy.",
+        "textOriginal": "Sadly this is the only accurate comment. All the other ones are talking about herbal therapy.",
+        "parentId": "UgzVmNaeOkAdKSh6y914AaABAg",
+        "authorDisplayName": "Tungsten Dioxide",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStNf4xQvw6C3B6EJmz2rnI10vc6R8LZ-X6lsfuGA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKP7Wrp4sMjlGcruEMKvp7Q",
+        "authorChannelId": {
+          "value": "UCKP7Wrp4sMjlGcruEMKvp7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-20T02:30:47Z",
+        "updatedAt": "2020-08-20T02:30:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nt_iIRBOC4P8VSVEBzh-D-Jak7o",
+  "id": "UgzMjaydpi62EoNuxdt4AaABAg",
+  "snippet": {
+    "videoId": "ciRwAED2mVs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J0E62OjdMGhAJALZl3Lji_vhC9E",
+      "id": "UgzMjaydpi62EoNuxdt4AaABAg",
+      "snippet": {
+        "videoId": "ciRwAED2mVs",
+        "textDisplay": "Gg ceritanya",
+        "textOriginal": "Gg ceritanya",
+        "authorDisplayName": "Sa verro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXPcJ2LIsnbRuaAfIz8_jRTAP6fOuxJENl4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjk2hwAfthLJ5AC0IgiVELA",
+        "authorChannelId": {
+          "value": "UCjk2hwAfthLJ5AC0IgiVELA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-21T08:02:37Z",
+        "updatedAt": "2020-03-21T08:02:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IqgiQKjI__Ew-9WmHv2w1cKkyOE",
+      "id": "UgzMjaydpi62EoNuxdt4AaABAg.96SknMDXw3s96X7xzZuJ6Z",
+      "snippet": {
+        "textDisplay": "\ud83d\ude15",
+        "textOriginal": "\ud83d\ude15",
+        "parentId": "UgzMjaydpi62EoNuxdt4AaABAg",
+        "authorDisplayName": "Gadoed Atmadja",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRU-HL6ajtOB1539yRiC0ldTBgbpyqEuVcjgeiQUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGkrMLQCzWnxywPGlPTYY6A",
+        "authorChannelId": {
+          "value": "UCGkrMLQCzWnxywPGlPTYY6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T00:50:45Z",
+        "updatedAt": "2020-03-23T00:50:45Z"
+      }
+    }
+  ]
+}

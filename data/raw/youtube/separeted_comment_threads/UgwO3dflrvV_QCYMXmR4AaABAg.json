@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HQGdobAlUr3TAWlIKeFtlwktCCw",
+  "id": "UgwO3dflrvV_QCYMXmR4AaABAg",
+  "snippet": {
+    "videoId": "5x47imo5XEE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "93MxlUyb3nR6MKxPRYEOPw244Fo",
+      "id": "UgwO3dflrvV_QCYMXmR4AaABAg",
+      "snippet": {
+        "videoId": "5x47imo5XEE",
+        "textDisplay": "DING DING DING DING DING DING DING, DINGDINGDING.... TAMTAM",
+        "textOriginal": "DING DING DING DING DING DING DING, DINGDINGDING.... TAMTAM",
+        "authorDisplayName": "just another gabs",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/u4mL0GwTHsE2zbGavVuZq2-RAgdkUuqnZogjilToSjaiRSih6hk1pMg9yp-spwIHEykKYZta=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2kqnnRvrz8s873XdjcQ-mQ",
+        "authorChannelId": {
+          "value": "UC2kqnnRvrz8s873XdjcQ-mQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-05-20T02:22:07Z",
+        "updatedAt": "2021-05-20T02:22:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UYYTdv6TgNMMaKKQ7BVayvB45r8",
+      "id": "UgwO3dflrvV_QCYMXmR4AaABAg.9NYUfLUJmpH9O_6Xb_pfjy",
+      "snippet": {
+        "textDisplay": "Quando o sistema \u00fanico de sa\u00fade \u00e9 suspeito",
+        "textOriginal": "Quando o sistema \u00fanico de sa\u00fade \u00e9 suspeito",
+        "parentId": "UgwO3dflrvV_QCYMXmR4AaABAg",
+        "authorDisplayName": "Vincent Valentine",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgrN0BCJSA3hdCA0zjDFYYJTLwE0axW8_F5rFj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChH-vXBv-10rsMWgeAjnITQ",
+        "authorChannelId": {
+          "value": "UChH-vXBv-10rsMWgeAjnITQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-14T14:01:05Z",
+        "updatedAt": "2021-06-14T14:01:05Z"
+      }
+    }
+  ]
+}

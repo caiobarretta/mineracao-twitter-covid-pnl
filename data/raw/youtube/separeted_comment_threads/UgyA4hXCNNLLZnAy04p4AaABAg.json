@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "f5wufVQn9NOYR8QOFtfcS2ut-no",
+  "id": "UgyA4hXCNNLLZnAy04p4AaABAg",
+  "snippet": {
+    "videoId": "5ILG3gbAzlM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qasao8GusQHLp07kIGR_HW1gpsY",
+      "id": "UgyA4hXCNNLLZnAy04p4AaABAg",
+      "snippet": {
+        "videoId": "5ILG3gbAzlM",
+        "textDisplay": "P\u00f3 coisa ruim  '-' n entendi",
+        "textOriginal": "P\u00f3 coisa ruim  '-' n entendi",
+        "authorDisplayName": "marcelenovoa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4EEerQxpkgFTnBh4EGDIVnV6KpWROTGVTFQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjm2Tw7XEzqy9b_sq8eSgJw",
+        "authorChannelId": {
+          "value": "UCjm2Tw7XEzqy9b_sq8eSgJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-07T18:05:46Z",
+        "updatedAt": "2021-03-07T18:05:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LG8eDoOmm6TWGLWkqu4QzDsZ9Zs",
+      "id": "UgyA4hXCNNLLZnAy04p4AaABAg.9Kacq7UW83e9OAwA7pC7BT",
+      "snippet": {
+        "textDisplay": "kakakakakkakakakakkakakakkakak tbm n ;-;",
+        "textOriginal": "kakakakakkakakakakkakakakkakak tbm n ;-;",
+        "parentId": "UgyA4hXCNNLLZnAy04p4AaABAg",
+        "authorDisplayName": "Pato",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/YEmXNd-D-UN7eNu0BDs1gLyJXk_LSyzIiLGFvc_buD--odUBHXpl55t4DzSiTu7XNk7xExwA7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCwzLIWAwTpfbCK1HtBhBQA",
+        "authorChannelId": {
+          "value": "UCCwzLIWAwTpfbCK1HtBhBQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-04T19:20:45Z",
+        "updatedAt": "2021-06-04T19:20:45Z"
+      }
+    }
+  ]
+}

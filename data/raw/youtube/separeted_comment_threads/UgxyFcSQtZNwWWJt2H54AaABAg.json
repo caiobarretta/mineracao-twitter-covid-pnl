@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mE0RZ_E-kYi4jZbqZURxPSLu97g",
+  "id": "UgxyFcSQtZNwWWJt2H54AaABAg",
+  "snippet": {
+    "videoId": "V-SVqlrwcBQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ICfC8EKzdQNYsSpQfpmIWw2DMaI",
+      "id": "UgxyFcSQtZNwWWJt2H54AaABAg",
+      "snippet": {
+        "videoId": "V-SVqlrwcBQ",
+        "textDisplay": "Danke!",
+        "textOriginal": "Danke!",
+        "authorDisplayName": "Panopticon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXJvm5gyhTzpzyWuNtl2E7QdYXOet3II-GWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzvyxlqvtKD2QqIYg2ApROA",
+        "authorChannelId": {
+          "value": "UCzvyxlqvtKD2QqIYg2ApROA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-27T18:08:50Z",
+        "updatedAt": "2020-10-27T18:08:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jkp_BqULGDaXk87FOfPv7DtpO0g",
+      "id": "UgxyFcSQtZNwWWJt2H54AaABAg.9FKK2rt4o8F9KfUFXR5vHS",
+      "snippet": {
+        "textDisplay": "@CHRISTIAN ANDERS LEARNING CHANNEL Was ist denn bei dir falsch?",
+        "textOriginal": "@CHRISTIAN ANDERS LEARNING CHANNEL Was ist denn bei dir falsch?",
+        "parentId": "UgxyFcSQtZNwWWJt2H54AaABAg",
+        "authorDisplayName": "nikOtakai",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiGYYzv4lni34LFfI19N3b-e_MxvFl7y58aw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-thNO-7iElUhZgZUrw-Gw",
+        "authorChannelId": {
+          "value": "UCl-thNO-7iElUhZgZUrw-Gw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-09T15:18:12Z",
+        "updatedAt": "2021-03-09T15:18:12Z"
+      }
+    }
+  ]
+}

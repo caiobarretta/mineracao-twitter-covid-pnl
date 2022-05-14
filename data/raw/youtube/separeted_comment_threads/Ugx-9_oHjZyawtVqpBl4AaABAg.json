@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "42CsehfsLlQzT3AJHDFVTx5H5fs",
+  "id": "Ugx-9_oHjZyawtVqpBl4AaABAg",
+  "snippet": {
+    "videoId": "EgMkicTkeh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J57wVHjecYCVkQPn30YfhIl1OK4",
+      "id": "Ugx-9_oHjZyawtVqpBl4AaABAg",
+      "snippet": {
+        "videoId": "EgMkicTkeh0",
+        "textDisplay": "Aula maravilhosa, parab\u00e9ns professor!",
+        "textOriginal": "Aula maravilhosa, parab\u00e9ns professor!",
+        "authorDisplayName": "Brisa Ara\u00fajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQT4dE-p6HLtU9G8g3UXa-jIZV6d73-B4XFpgB9Xd4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4j7UVGe5xyvkk9fIgMlAKA",
+        "authorChannelId": {
+          "value": "UC4j7UVGe5xyvkk9fIgMlAKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-13T23:57:58Z",
+        "updatedAt": "2021-03-13T23:57:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "U2tgHBKs3fwBvM_4H7jkgGwRux8",
+      "id": "Ugx-9_oHjZyawtVqpBl4AaABAg.9Kqhuu7NmQs9Kua-T0e4sJ",
+      "snippet": {
+        "textDisplay": "Obrigado! =)\n\nJ\u00e1 viu os outros v\u00eddeos?",
+        "textOriginal": "Obrigado! =)\n\nJ\u00e1 viu os outros v\u00eddeos?",
+        "parentId": "Ugx-9_oHjZyawtVqpBl4AaABAg",
+        "authorDisplayName": "Prof. Basilio Historiando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSAUm0wCZYHQHRu3LyoqjWCFrvVs09mNn8aZ7OBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnU_8ovaM-lltVmXGY9JPUw",
+        "authorChannelId": {
+          "value": "UCnU_8ovaM-lltVmXGY9JPUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-15T12:05:47Z",
+        "updatedAt": "2021-03-15T12:05:47Z"
+      }
+    }
+  ]
+}

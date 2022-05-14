@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ti4dKI5r-4aVTiTd0RYuO5Iij-I",
+  "id": "UgzGmxdzDdWx1P84sCN4AaABAg",
+  "snippet": {
+    "videoId": "lItkCrbZhaE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eZoh3uFU38et4EDgrfA4neiO1Vk",
+      "id": "UgzGmxdzDdWx1P84sCN4AaABAg",
+      "snippet": {
+        "videoId": "lItkCrbZhaE",
+        "textDisplay": "\u00c9 impressionante como cada povo deixa suas marcas por onde passa e cada lugar transmite uma cultura pr\u00f3pria.",
+        "textOriginal": "\u00c9 impressionante como cada povo deixa suas marcas por onde passa e cada lugar transmite uma cultura pr\u00f3pria.",
+        "authorDisplayName": "Victor Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXIjH_DM_bMZQBTw0n97IffTG_fMz3vSSk1RWPXw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJdb05j0NXhG_KYZLEFmXHQ",
+        "authorChannelId": {
+          "value": "UCJdb05j0NXhG_KYZLEFmXHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2020-04-27T20:06:31Z",
+        "updatedAt": "2020-04-27T20:06:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "67ZgyUzZaPRAnpfgar2X9oRpf9U",
+      "id": "UgzGmxdzDdWx1P84sCN4AaABAg.97yK2jzgjo_97yYgJbENF6",
+      "snippet": {
+        "textDisplay": "Oi",
+        "textOriginal": "Oi",
+        "parentId": "UgzGmxdzDdWx1P84sCN4AaABAg",
+        "authorDisplayName": "Sempre que voc\u00ea ler os coment\u00e1rios eu estarei l\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvvHk5mnrH25BRk5VSVNwLziiphoCz2xgi3DWX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_Iqsbw7J0k3gvTtZbE1mTQ",
+        "authorChannelId": {
+          "value": "UC_Iqsbw7J0k3gvTtZbE1mTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-27T22:14:23Z",
+        "updatedAt": "2020-04-27T22:14:23Z"
+      }
+    }
+  ]
+}

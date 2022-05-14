@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3n7Ku4I11VU2pHqG8tLzKj7j8XM",
+  "id": "Ugy6V3Vd2SH5OQAGuPF4AaABAg",
+  "snippet": {
+    "videoId": "sHJ43UNlIok",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ftg5aAfvaIzEdS0yqVfkbh_QcOQ",
+      "id": "Ugy6V3Vd2SH5OQAGuPF4AaABAg",
+      "snippet": {
+        "videoId": "sHJ43UNlIok",
+        "textDisplay": "Ajudou muito, obrigado!",
+        "textOriginal": "Ajudou muito, obrigado!",
+        "authorDisplayName": "Yuri Adnan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCgFM81Ga47pD5L9y8JhE2XwPeObOTcYHTXVJ8lA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqcxV2S9aLsWMSBSzXBbSwA",
+        "authorChannelId": {
+          "value": "UCqcxV2S9aLsWMSBSzXBbSwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-24T15:00:46Z",
+        "updatedAt": "2022-03-24T15:00:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JIuO2-fHeLKC3-O-CQMqzOl1HPw",
+      "id": "Ugy6V3Vd2SH5OQAGuPF4AaABAg.9ZxvKNRfK0A9_-imK-wHAK",
+      "snippet": {
+        "textDisplay": "Que bom que ajudou",
+        "textOriginal": "Que bom que ajudou",
+        "parentId": "Ugy6V3Vd2SH5OQAGuPF4AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-25T17:08:51Z",
+        "updatedAt": "2022-03-25T17:08:51Z"
+      }
+    }
+  ]
+}

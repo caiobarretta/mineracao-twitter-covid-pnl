@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kOvOtZLxZ_1-D-a8jwv_oLm04Rw",
+  "id": "UgyoWWZmakIE-Go_aW54AaABAg",
+  "snippet": {
+    "videoId": "8me8pTozLGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8iiw_TDzLIfCX4u6U6UU_bZE3F0",
+      "id": "UgyoWWZmakIE-Go_aW54AaABAg",
+      "snippet": {
+        "videoId": "8me8pTozLGw",
+        "textDisplay": "boa boa boa boa",
+        "textOriginal": "boa boa boa boa",
+        "authorDisplayName": "VAN FEITOSA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/IX6oNcdkjBQCp4RPAFr21yThGq-bKWQlreF6JzVN7Due8DVJo03YfWCb860dSqjyv0DQqXIAjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPWceZxTXmyHwhPO5qo67rQ",
+        "authorChannelId": {
+          "value": "UCPWceZxTXmyHwhPO5qo67rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-26T22:01:30Z",
+        "updatedAt": "2021-04-26T22:01:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bWH0YrIe_Hxh5kSRg9-wYCbo3Os",
+      "id": "UgyoWWZmakIE-Go_aW54AaABAg.9MbnZMP1hND9MdMoKrXHps",
+      "snippet": {
+        "textDisplay": "Valeu!!! \ud83d\udc4a",
+        "textOriginal": "Valeu!!! \ud83d\udc4a",
+        "parentId": "UgyoWWZmakIE-Go_aW54AaABAg",
+        "authorDisplayName": "Ander Alencar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/idRj5uaFk2PfZbY-K0Znb77VoAVmQM4y66OPKoJDIt1faflBExrzxjB4AUTgxx7aOYGc90sI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTjr16K4tBP1nl-7cak89rQ",
+        "authorChannelId": {
+          "value": "UCTjr16K4tBP1nl-7cak89rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-27T12:37:29Z",
+        "updatedAt": "2021-04-27T12:37:29Z"
+      }
+    }
+  ]
+}
