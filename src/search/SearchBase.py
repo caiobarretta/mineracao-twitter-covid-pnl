@@ -47,18 +47,21 @@ class SearchBase:
 
         return pesquisa
 
-    def load_search(self, file_credentials, pesquisa, func_get_new_instance_api, func_get_and_save_data):
+    def load_search(self, file_credentials, pesquisa, func_get_new_instance_api, func_get_and_save_data, invert_search=False):
         api = func_get_new_instance_api(file_credentials)
         quantidade_maxima_de_tentativas = 10
         query_counter = 0
 
         print(f'Inicializando pesquisa na API {api.get_api_name()}')
         print(f'Quantidades de itens da pesquisa: {len(pesquisa)}')
-        for pesquisa in pesquisa[::-1]:
-            query = pesquisa['q']
+        search_lst = pesquisa
+        if invert_search:
+            search_lst = search[::-1]
+        for search in search_lst:
+            query = search['q']
             lang = ''
-            if 'lang' in pesquisa:
-                lang = pesquisa['lang']
+            if 'lang' in search:
+                lang = search['lang']
             tentativas = 0
             continuar = True
             error = False
