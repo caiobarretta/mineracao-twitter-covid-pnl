@@ -29,6 +29,7 @@ class FilterYouTubeCommentThreads:
             is_match = self.verify_text_match_search(text_original, search_match)
             if is_match:
                 id = content['id']
+                print(f'filtrando comentário: {id}')
                 file_name = f'data/raw/youtube/filtered_comment_threads/{id}.json'
                 func_save_json(file_name, content)
     
@@ -39,6 +40,7 @@ class FilterYouTubeCommentThreads:
             data = self.read_json(file)
             for content in data:
                 id = content['id']
+                print(f'seperando comentário: {id}')
                 file_name = f'data/raw/youtube/separeted_comment_threads/{id}.json'
                 func_save_json(file_name, content)
 

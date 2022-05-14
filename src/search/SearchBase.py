@@ -54,7 +54,7 @@ class SearchBase:
 
         print(f'Inicializando pesquisa na API {api.get_api_name()}')
         print(f'Quantidades de itens da pesquisa: {len(pesquisa)}')
-        for pesquisa in pesquisa:
+        for pesquisa in pesquisa[::-1]:
             query = pesquisa['q']
             lang = ''
             if 'lang' in pesquisa:
