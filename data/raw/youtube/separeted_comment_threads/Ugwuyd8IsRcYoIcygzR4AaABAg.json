@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xRuGf3E_OVwxoKQwcpTqTxYpT1U",
+  "id": "Ugwuyd8IsRcYoIcygzR4AaABAg",
+  "snippet": {
+    "videoId": "CuKa2DDHpm0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iYoQmaNCh_1jNyjblvuEn5JcIwc",
+      "id": "Ugwuyd8IsRcYoIcygzR4AaABAg",
+      "snippet": {
+        "videoId": "CuKa2DDHpm0",
+        "textDisplay": "\u2b50\u2b50\u2b50\u2b50\u2b50",
+        "textOriginal": "\u2b50\u2b50\u2b50\u2b50\u2b50",
+        "authorDisplayName": "Qqra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQxqHRjxezlr88VR6Qm0IhBKAtyv-O4TS4f3JMiHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9PE_b-zxJJObV_aoFTVsRg",
+        "authorChannelId": {
+          "value": "UC9PE_b-zxJJObV_aoFTVsRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-30T13:17:44Z",
+        "updatedAt": "2020-07-30T13:17:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WnuwOOQaTX2Zum6CFNnQNq5TBuw",
+      "id": "Ugwuyd8IsRcYoIcygzR4AaABAg.9Bjczti_op29CiArq7ka1q",
+      "snippet": {
+        "textDisplay": "Obrigada pela informa\u00e7\u00e3o.",
+        "textOriginal": "Obrigada pela informa\u00e7\u00e3o.",
+        "parentId": "Ugwuyd8IsRcYoIcygzR4AaABAg",
+        "authorDisplayName": "Luciana Troy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpZsmIE3Ma7F_UbwNdIIFo9ftuJo489QewHRuComQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWYfinQ7K_-yiQlk40RC5NA",
+        "authorChannelId": {
+          "value": "UCWYfinQ7K_-yiQlk40RC5NA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-23T20:15:22Z",
+        "updatedAt": "2020-08-23T20:15:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kDWVarexYAW8oaxh2f_rDYDCuOc",
+  "id": "UgwDrxEUiqsL9xKoKlZ4AaABAg",
+  "snippet": {
+    "videoId": "JhmtMsV2coY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qsum6Oxr9wzpzPoDU2fHFDyNNV0",
+      "id": "UgwDrxEUiqsL9xKoKlZ4AaABAg",
+      "snippet": {
+        "videoId": "JhmtMsV2coY",
+        "textDisplay": "Fiz tudo correto m\u00e1s no meu n\u00e3o tem a barra minha sa\u00fade, j\u00e1 n\u00e3o \u00e9 mais assim",
+        "textOriginal": "Fiz tudo correto m\u00e1s no meu n\u00e3o tem a barra minha sa\u00fade, j\u00e1 n\u00e3o \u00e9 mais assim",
+        "authorDisplayName": "jocelene Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZbbOC4X2SuK9rc6xHjY3JaiFSnO4iBAUdNf-eLg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfJiHWqnqy1WEbelmMcSEDA",
+        "authorChannelId": {
+          "value": "UCfJiHWqnqy1WEbelmMcSEDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-17T11:54:36Z",
+        "updatedAt": "2021-03-17T11:55:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uNR_3vwsb55cVuhn2z2jH3IXw_0",
+      "id": "UgwDrxEUiqsL9xKoKlZ4AaABAg.9KziJHWJ5iW9L282AWm6Nk",
+      "snippet": {
+        "textDisplay": "quando tu entrar no app tem um circulo amarelo na direita bem embaixo. clica nesse circulo que vai aparecer teu cart\u00e3o",
+        "textOriginal": "quando tu entrar no app tem um circulo amarelo na direita bem embaixo. clica nesse circulo que vai aparecer teu cart\u00e3o",
+        "parentId": "UgwDrxEUiqsL9xKoKlZ4AaABAg",
+        "authorDisplayName": "Luiza Hirsch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_DPhlFhlkSxNh9pPGAUxEfu2hN6VSFSHnM0MUfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9yKBdMHWVTZU8sVnR7Zuqw",
+        "authorChannelId": {
+          "value": "UC9yKBdMHWVTZU8sVnR7Zuqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-18T19:45:54Z",
+        "updatedAt": "2021-03-18T19:45:54Z"
+      }
+    }
+  ]
+}

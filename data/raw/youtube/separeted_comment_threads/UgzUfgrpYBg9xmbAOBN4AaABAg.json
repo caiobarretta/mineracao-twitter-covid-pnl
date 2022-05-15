@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HZNZ0mEHUKwtD7P9cU9u7ZOg5-0",
+  "id": "UgzUfgrpYBg9xmbAOBN4AaABAg",
+  "snippet": {
+    "videoId": "uZjmMlPCNJw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h4rZgmt9iqowbIyLn3_-UDEu1DE",
+      "id": "UgzUfgrpYBg9xmbAOBN4AaABAg",
+      "snippet": {
+        "videoId": "uZjmMlPCNJw",
+        "textDisplay": "S\u00f3 no.brasil",
+        "textOriginal": "S\u00f3 no.brasil",
+        "authorDisplayName": "Moises Branco",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3aE3D1X_UzzJioel56z6xrDH-DX1mvdaEARThJ1ZJYtAtREclILQ4Kqbt_hg9H9Gvn7BdBpBiQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqzjJzGX0mAO-yZ8dTn4KTg",
+        "authorChannelId": {
+          "value": "UCqzjJzGX0mAO-yZ8dTn4KTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T01:49:42Z",
+        "updatedAt": "2022-05-10T01:49:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0GjvAoW0VlGyZr_V0fNpD9vnq3g",
+      "id": "UgzUfgrpYBg9xmbAOBN4AaABAg.9apX9XM6NFv9arVXBRGdfR",
+      "snippet": {
+        "textDisplay": "??????????????????????????",
+        "textOriginal": "??????????????????????????",
+        "parentId": "UgzUfgrpYBg9xmbAOBN4AaABAg",
+        "authorDisplayName": "guariba63",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTsy-CHweaZp7dW6V0peMy76nQd3lrs2fkI-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKm5I9PfQLqB3DfkGZ1iGzQ",
+        "authorChannelId": {
+          "value": "UCKm5I9PfQLqB3DfkGZ1iGzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T20:13:56Z",
+        "updatedAt": "2022-05-10T20:13:56Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ckkerO5XwdK4LiNpH1E0R3CwKpk",
+  "id": "UgxtIPpn1jDEQfuI4IV4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Pl7385QGoT8CLnFS2-3JbhayuPY",
+      "id": "UgxtIPpn1jDEQfuI4IV4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Aula perfeita extremamente esclarecedora.\nMuito obrigada",
+        "textOriginal": "Aula perfeita extremamente esclarecedora.\nMuito obrigada",
+        "authorDisplayName": "Patricia Siqueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtUgE5Gjt4NGMdaxTQSwC62UnBNdS4Vi37Ig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsJiusfxSfFTWjZb2eKTI2g",
+        "authorChannelId": {
+          "value": "UCsJiusfxSfFTWjZb2eKTI2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-30T04:54:09Z",
+        "updatedAt": "2022-03-30T04:54:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "66k-UEcwf_OiCEn9iNr96urKSHE",
+      "id": "UgxtIPpn1jDEQfuI4IV4AaABAg.9_BHf_ivv5B9_C3TR9-Mw_",
+      "snippet": {
+        "textDisplay": "Eu que agrade\u00e7o Patricia por assistir!",
+        "textOriginal": "Eu que agrade\u00e7o Patricia por assistir!",
+        "parentId": "UgxtIPpn1jDEQfuI4IV4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-30T12:09:15Z",
+        "updatedAt": "2022-03-30T12:09:15Z"
+      }
+    }
+  ]
+}

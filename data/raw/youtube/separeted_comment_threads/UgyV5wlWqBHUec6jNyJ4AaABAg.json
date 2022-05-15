@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "c9l6quzCiRkMgjog6qPdV-BbSWU",
+  "id": "UgyV5wlWqBHUec6jNyJ4AaABAg",
+  "snippet": {
+    "videoId": "ONM54ZB8ipo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mp_vsa76y9wfIL6JxstDX69Q6ck",
+      "id": "UgyV5wlWqBHUec6jNyJ4AaABAg",
+      "snippet": {
+        "videoId": "ONM54ZB8ipo",
+        "textDisplay": "Nossa esse v\u00eddeo \u00e9 maravilhoso! Obrigada pelos esclarecimentos",
+        "textOriginal": "Nossa esse v\u00eddeo \u00e9 maravilhoso! Obrigada pelos esclarecimentos",
+        "authorDisplayName": "Isabelle Viana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRH1yADnf4_5u3ICfWHE8HMx1MIJy3Z6vJaq_KAZIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJNg3u68RAJCwv46sk9keBQ",
+        "authorChannelId": {
+          "value": "UCJNg3u68RAJCwv46sk9keBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T05:23:19Z",
+        "updatedAt": "2022-05-12T05:23:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CO9AeECzUxvH6Zg-teNm04IjOh8",
+      "id": "UgyV5wlWqBHUec6jNyJ4AaABAg.9av3BrMlpt59awjFpDjY6l",
+      "snippet": {
+        "textDisplay": "Obrigada pelo apoio Isabelle \u2665\ufe0f",
+        "textOriginal": "Obrigada pelo apoio Isabelle \u2665\ufe0f",
+        "parentId": "UgyV5wlWqBHUec6jNyJ4AaABAg",
+        "authorDisplayName": "Servi\u00e7o Social para Concursos com Prof\u00aa Shellen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EgbVIUvtR1LEQFJAK-ptb5ysVINNE0mQ5DrZGLJoXBxRI3NQnyVL-iq2qQ1UG0su12RzKvEx5g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjXgKMbEz7BBU95Dk1bNCDw",
+        "authorChannelId": {
+          "value": "UCjXgKMbEz7BBU95Dk1bNCDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-12T20:58:50Z",
+        "updatedAt": "2022-05-12T20:58:50Z"
+      }
+    }
+  ]
+}

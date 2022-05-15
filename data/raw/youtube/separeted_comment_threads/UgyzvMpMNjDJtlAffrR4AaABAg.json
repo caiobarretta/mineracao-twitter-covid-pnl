@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4mczaD-5rafU61FMQDqMjj3-krk",
+  "id": "UgyzvMpMNjDJtlAffrR4AaABAg",
+  "snippet": {
+    "videoId": "EU4hE2PU2-k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VvM6VNXX-AaHZ-AYwyUdbiqDpos",
+      "id": "UgyzvMpMNjDJtlAffrR4AaABAg",
+      "snippet": {
+        "videoId": "EU4hE2PU2-k",
+        "textDisplay": "Obg pela aula !!!\n\u00d3timas dicas.",
+        "textOriginal": "Obg pela aula !!!\n\u00d3timas dicas.",
+        "authorDisplayName": "Edinalva maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVHQX8nVCjGMiIDMnfLQp-xhPo9dQbzwHgDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDp-gw0Zhy0pDISOMyxwlOQ",
+        "authorChannelId": {
+          "value": "UCDp-gw0Zhy0pDISOMyxwlOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-11T00:58:56Z",
+        "updatedAt": "2020-03-11T00:58:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7QqNimxKLIlX56-2dMbSe7Y0SIQ",
+      "id": "UgyzvMpMNjDJtlAffrR4AaABAg.962FMUf3QK096PiBltu8lx",
+      "snippet": {
+        "textDisplay": "Eu agrade\u00e7o!",
+        "textOriginal": "Eu agrade\u00e7o!",
+        "parentId": "UgyzvMpMNjDJtlAffrR4AaABAg",
+        "authorDisplayName": "Fisio Matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTu6nytZmvtVD_KHiZjAhURqNRW0MiGr1Gi38R4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBZ19PHnOZ-sv2Nz6okEQAw",
+        "authorChannelId": {
+          "value": "UCBZ19PHnOZ-sv2Nz6okEQAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-20T03:42:08Z",
+        "updatedAt": "2020-03-20T03:42:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yls0nsSRRp9Rzm9b0ol8o5fS0Rg",
+  "id": "UgzVAvvStkFl1S63hnl4AaABAg",
+  "snippet": {
+    "videoId": "NGRWsHbZrzE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uJm7O3MnFb6AFGKhaAW-xcrXLwY",
+      "id": "UgzVAvvStkFl1S63hnl4AaABAg",
+      "snippet": {
+        "videoId": "NGRWsHbZrzE",
+        "textDisplay": "Todos os links que eu tentei assinar, est\u00e3o fechados. Como proceder?",
+        "textOriginal": "Todos os links que eu tentei assinar, est\u00e3o fechados. Como proceder?",
+        "authorDisplayName": "Natane Barcelos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtlsgtGRTlAV4q7ycMj9eZFf8tgm1kd18OvA9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW09STcoeAjY5IxNIlxLIGA",
+        "authorChannelId": {
+          "value": "UCW09STcoeAjY5IxNIlxLIGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-26T17:11:57Z",
+        "updatedAt": "2020-08-26T17:11:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JNIiKWIn0Wfl_qp6BzhFjNIdU_k",
+      "id": "UgzVAvvStkFl1S63hnl4AaABAg.9Cp_G4c8eaZ9CqJhtXyF9t",
+      "snippet": {
+        "textDisplay": "A presen\u00e7a \u00e9 contabilizada somente no hor\u00e1rio do evento quando palestra est\u00e1 estreada. Ela continua no canal apenas para que possam reassistir.",
+        "textOriginal": "A presen\u00e7a \u00e9 contabilizada somente no hor\u00e1rio do evento quando palestra est\u00e1 estreada. Ela continua no canal apenas para que possam reassistir.",
+        "parentId": "UgzVAvvStkFl1S63hnl4AaABAg",
+        "authorDisplayName": "Imuno UESC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSAsLp4Q9RmF2bsoB2pPWd0llnFEH_x0YYFgzVgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJFwSffOtJCoMvOXeH9jlFw",
+        "authorChannelId": {
+          "value": "UCJFwSffOtJCoMvOXeH9jlFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-27T00:06:35Z",
+        "updatedAt": "2020-08-27T00:06:35Z"
+      }
+    }
+  ]
+}

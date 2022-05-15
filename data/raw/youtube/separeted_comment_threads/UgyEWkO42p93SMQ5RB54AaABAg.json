@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_3Dtd8-_QV5ZTiJqWUseTrzOnKE",
+  "id": "UgyEWkO42p93SMQ5RB54AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k-H6Hn7qTVQ5dlpOxvEKK0XBZf0",
+      "id": "UgyEWkO42p93SMQ5RB54AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Minha escola que enviou esse v\u00eddeo para mim agrade\u00e7o muito pois ajudou bastante !\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Minha escola que enviou esse v\u00eddeo para mim agrade\u00e7o muito pois ajudou bastante !\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "\u0f12 \u1d04\u1d00\u026a\u1d0f \u0f12",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRiX4LOS2jD3P45KUOZy1Q9EfCqmrjRiFdbnCsLKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTpoAfy8IwiGvCLnaB403-g",
+        "authorChannelId": {
+          "value": "UCTpoAfy8IwiGvCLnaB403-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2020-07-29T16:37:12Z",
+        "updatedAt": "2020-07-29T16:37:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cc2d7M1KG1ffh1tis6krX_vPCr0",
+      "id": "UgyEWkO42p93SMQ5RB54AaABAg.9BhQ10untaa9MiqONubUOs",
+      "snippet": {
+        "textDisplay": "Eu que procurei por estar em dificuldade na prova ajuda bastante \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Eu que procurei por estar em dificuldade na prova ajuda bastante \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "parentId": "UgyEWkO42p93SMQ5RB54AaABAg",
+        "authorDisplayName": "Jose Alessandro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbFiag7yWHfWacDl_xiHWQFTyEQMdb_uBNsA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMRQ4WjeTGThWlZ1q1OpcHg",
+        "authorChannelId": {
+          "value": "UCMRQ4WjeTGThWlZ1q1OpcHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-29T15:40:53Z",
+        "updatedAt": "2021-04-29T15:40:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "OG8-r_YHuRPd-rLslZgaYpFxLMk",
+      "id": "UgyEWkO42p93SMQ5RB54AaABAg.9BhQ10untaa9JXsuvoGNxn",
+      "snippet": {
+        "textDisplay": "A minha tamb\u00e9m",
+        "textOriginal": "A minha tamb\u00e9m",
+        "parentId": "UgyEWkO42p93SMQ5RB54AaABAg",
+        "authorDisplayName": "Roberta Nery",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpHYLWAbe528gho-3ZmgfhLrOHhbyCOkqbSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmSbqUlNiS2ywhUECPAK-zA",
+        "authorChannelId": {
+          "value": "UCmSbqUlNiS2ywhUECPAK-zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-09T10:37:53Z",
+        "updatedAt": "2021-02-09T10:37:53Z"
+      }
+    }
+  ]
+}

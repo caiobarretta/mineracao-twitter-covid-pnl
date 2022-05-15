@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yDqrnfh2tsG3vzDMgzsGOUYdjQQ",
+  "id": "Ugxwp2R5JWPJs0ULtEd4AaABAg",
+  "snippet": {
+    "videoId": "1uoYOzb_oFg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8EGZ9_by307OcfzhnvsZVAjCz9o",
+      "id": "Ugxwp2R5JWPJs0ULtEd4AaABAg",
+      "snippet": {
+        "videoId": "1uoYOzb_oFg",
+        "textDisplay": "Boa tarde meu nome \u00e9 sutia sou presidente do Conselho de sa\u00fade de Nova Cruz rio grande do norte",
+        "textOriginal": "Boa tarde meu nome \u00e9 sutia sou presidente do Conselho de sa\u00fade de Nova Cruz rio grande do norte",
+        "authorDisplayName": "SUTIA MARIA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQD6LIj1jYB8g7OPr82mEoMFKZvPsl9pzNcOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCk80ruPyJGWINaYnmez9wA",
+        "authorChannelId": {
+          "value": "UCCk80ruPyJGWINaYnmez9wA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-27T17:41:00Z",
+        "updatedAt": "2021-05-27T17:41:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M_XAyKakQnsxSFYvaSmQ9q9yCiA",
+      "id": "Ugxwp2R5JWPJs0ULtEd4AaABAg.9Nr9OaCqIuF9Ns7GVp_h2S",
+      "snippet": {
+        "textDisplay": "Oi Sutia, \u00e9 um prazer ter voc\u00ea conosco.",
+        "textOriginal": "Oi Sutia, \u00e9 um prazer ter voc\u00ea conosco.",
+        "parentId": "Ugxwp2R5JWPJs0ULtEd4AaABAg",
+        "authorDisplayName": "Plataforma Regi\u00e3o e Redes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dP8YtsEmzyzuy-1QaJxeXyTp6YkNHk4Fc7pGOY2C-ZVqJ6Ud9ES9BaLT8XunIj5iGU8Nf8Pl=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQvL6jIE1qYmFyHNZhBxhMQ",
+        "authorChannelId": {
+          "value": "UCQvL6jIE1qYmFyHNZhBxhMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-28T02:41:40Z",
+        "updatedAt": "2021-05-28T02:41:40Z"
+      }
+    }
+  ]
+}

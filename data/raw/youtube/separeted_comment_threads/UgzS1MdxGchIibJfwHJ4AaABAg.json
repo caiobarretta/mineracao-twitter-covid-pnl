@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tKdkjNp1ARJ2Is2PfLZo3IU9ngg",
+  "id": "UgzS1MdxGchIibJfwHJ4AaABAg",
+  "snippet": {
+    "videoId": "PXwJuGxif_U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oSIauX5GQ9epfjYzZU3327g83VM",
+      "id": "UgzS1MdxGchIibJfwHJ4AaABAg",
+      "snippet": {
+        "videoId": "PXwJuGxif_U",
+        "textDisplay": "Deixou a desejar a aula.",
+        "textOriginal": "Deixou a desejar a aula.",
+        "authorDisplayName": "Selma S\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LW3bohzuXc0yz8BglWKPRkH_LPyy-b1Fdys4JXUU4ZJmM1c3AFt4FiwIjXgqGgLZnf_jTX1Z=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOWIb8RhtNYHkphTX3KQSNg",
+        "authorChannelId": {
+          "value": "UCOWIb8RhtNYHkphTX3KQSNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-10-30T22:07:49Z",
+        "updatedAt": "2017-10-30T22:07:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lctS164ZTwxCo3JMaXLAY5_qoJY",
+      "id": "UgzS1MdxGchIibJfwHJ4AaABAg.8ZMMYxpsSCo95axezDlEmW",
+      "snippet": {
+        "textDisplay": "Pra mim foi \u00f3timo quria saber a metade do conhecimento dela \ud83d\ude01",
+        "textOriginal": "Pra mim foi \u00f3timo quria saber a metade do conhecimento dela \ud83d\ude01",
+        "parentId": "UgzS1MdxGchIibJfwHJ4AaABAg",
+        "authorDisplayName": "Sara Carreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTbWir6Mu69iyt8hcgzGs0lQo5x8tBOCdcUNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNR5_88bId_eOOwTXhK2gkw",
+        "authorChannelId": {
+          "value": "UCNR5_88bId_eOOwTXhK2gkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-29T01:16:50Z",
+        "updatedAt": "2020-02-29T01:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "gn1ev508Vt4tNzP4TTRE1QrLty0",
+      "id": "UgzS1MdxGchIibJfwHJ4AaABAg.8ZMMYxpsSCo8d0X045sWfB",
+      "snippet": {
+        "textDisplay": "como? pq?",
+        "textOriginal": "como? pq?",
+        "parentId": "UgzS1MdxGchIibJfwHJ4AaABAg",
+        "authorDisplayName": "Terezinha De Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9RWx2ChW_2afVQtR96PEUICwq287ATQck_QMHKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8x1uHsWg1U8CutV_Fhdw8w",
+        "authorChannelId": {
+          "value": "UC8x1uHsWg1U8CutV_Fhdw8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-02-23T17:12:51Z",
+        "updatedAt": "2018-02-23T17:12:51Z"
+      }
+    }
+  ]
+}

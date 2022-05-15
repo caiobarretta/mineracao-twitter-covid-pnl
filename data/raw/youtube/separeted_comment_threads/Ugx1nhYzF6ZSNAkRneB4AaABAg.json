@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R7Wsk3bRW-_2mk1gLbFG6A3U2cs",
+  "id": "Ugx1nhYzF6ZSNAkRneB4AaABAg",
+  "snippet": {
+    "videoId": "RfXeB75iJH4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "x7DPdzNwji9mZ_cElzYvl4wxVDM",
+      "id": "Ugx1nhYzF6ZSNAkRneB4AaABAg",
+      "snippet": {
+        "videoId": "RfXeB75iJH4",
+        "textDisplay": "Sou sua f\u00e3!!!",
+        "textOriginal": "Sou sua f\u00e3!!!",
+        "authorDisplayName": "Elisabete Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRK8rfHYUTiWWyMg6usL9QvBo8iGGcQKx0isQl6MQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWLz8M3FL_VSqYpe_IurXrw",
+        "authorChannelId": {
+          "value": "UCWLz8M3FL_VSqYpe_IurXrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-25T23:03:05Z",
+        "updatedAt": "2020-03-25T23:03:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XDuKd1qWMhrhMt4Jb86Qdqglvm0",
+      "id": "Ugx1nhYzF6ZSNAkRneB4AaABAg.96df15ofUsW96euOMYn68M",
+      "snippet": {
+        "textDisplay": "Elisabete eu tamb\u00e9m sou f\u00e3 de guerreiras como voc\u00ea! Gratid\u00e3o pelo carinho \ud83c\udf39\ud83c\udf3b",
+        "textOriginal": "Elisabete eu tamb\u00e9m sou f\u00e3 de guerreiras como voc\u00ea! Gratid\u00e3o pelo carinho \ud83c\udf39\ud83c\udf3b",
+        "parentId": "Ugx1nhYzF6ZSNAkRneB4AaABAg",
+        "authorDisplayName": "ENFrente Enfermagem Continuada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlKDTNrBzl3C7yw9WRaCY1bt9yuSVricT5fl7BvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD9kk0EUEtflrRl6TV0lDyA",
+        "authorChannelId": {
+          "value": "UCD9kk0EUEtflrRl6TV0lDyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-26T10:36:34Z",
+        "updatedAt": "2020-03-26T10:36:34Z"
+      }
+    }
+  ]
+}

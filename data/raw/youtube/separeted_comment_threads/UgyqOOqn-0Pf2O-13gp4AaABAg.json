@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qAvDAbOxDJXl-mzryqoqgMEwyds",
+  "id": "UgyqOOqn-0Pf2O-13gp4AaABAg",
+  "snippet": {
+    "videoId": "7x8muCjVSvc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sSci1IU8KT240Opo9ScqohUCU7c",
+      "id": "UgyqOOqn-0Pf2O-13gp4AaABAg",
+      "snippet": {
+        "videoId": "7x8muCjVSvc",
+        "textDisplay": "Qu\u00eam faz plano de sa\u00fade pode fazer sem pagar",
+        "textOriginal": "Qu\u00eam faz plano de sa\u00fade pode fazer sem pagar",
+        "authorDisplayName": "estrela",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/y2OmBfDqzKad_1yDq4iPPLP3hAny8f3mAsE-1zLO_bsQ20rd5E1GXvDqKDWnaIegWAo-xWrD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCahffr4KS8ccSvgaAD52qrg",
+        "authorChannelId": {
+          "value": "UCahffr4KS8ccSvgaAD52qrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-04T10:17:57Z",
+        "updatedAt": "2020-12-04T10:17:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X2YMudJG1mZlEWbVd44XgRM5XK8",
+      "id": "UgyqOOqn-0Pf2O-13gp4AaABAg.9GqKNG4lFZn9Gyfn5Ru0RM",
+      "snippet": {
+        "textDisplay": "Sim. E obrigat\u00f3rio o plano cobrir tudo",
+        "textOriginal": "Sim. E obrigat\u00f3rio o plano cobrir tudo",
+        "parentId": "UgyqOOqn-0Pf2O-13gp4AaABAg",
+        "authorDisplayName": "wellington silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDbfOHJfc-fN9cn8JqjKcfsS2jldMWrpRobeJj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsRG6g5hSII_41etP0YCNfw",
+        "authorChannelId": {
+          "value": "UCsRG6g5hSII_41etP0YCNfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-07T16:07:46Z",
+        "updatedAt": "2020-12-07T16:07:46Z"
+      }
+    }
+  ]
+}

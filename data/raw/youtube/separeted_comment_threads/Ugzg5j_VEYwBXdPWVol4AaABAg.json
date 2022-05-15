@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2Vvpgg6LwtedwM7l0spZ6a3nUFQ",
+  "id": "Ugzg5j_VEYwBXdPWVol4AaABAg",
+  "snippet": {
+    "videoId": "B5Y1XvVBoas",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KoAAPOKuXHdwXWN2YoMRO1Xizdk",
+      "id": "Ugzg5j_VEYwBXdPWVol4AaABAg",
+      "snippet": {
+        "videoId": "B5Y1XvVBoas",
+        "textDisplay": "\u00c9 um desgoverno!!! Sem d\u00favidas!!!!",
+        "textOriginal": "\u00c9 um desgoverno!!! Sem d\u00favidas!!!!",
+        "authorDisplayName": "S\u00e9rgio Hideki",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQpzDK0GzYJG1Tt725z_q86hZGArV9_iomJEqetUs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyjk1qeumfB7bwF0Bt0ElBA",
+        "authorChannelId": {
+          "value": "UCyjk1qeumfB7bwF0Bt0ElBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-04-18T00:43:01Z",
+        "updatedAt": "2022-04-18T00:43:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J6KbmMfYTPJPsYlrbTYJC-g_CNA",
+      "id": "Ugzg5j_VEYwBXdPWVol4AaABAg.9_wl1r98sMa9_woQAjMlYS",
+      "snippet": {
+        "textDisplay": "Tbem acho",
+        "textOriginal": "Tbem acho",
+        "parentId": "Ugzg5j_VEYwBXdPWVol4AaABAg",
+        "authorDisplayName": "CANAL SA\u00daDE - Cunversa do PH",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gRoSnDUX3845HBadFirHduq4HCjt1ddOXFkrdLSN02x1fFSqIAsTG3lxnRk5FYztZzVmTQ8EG6s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaT1iMAsl7Mn9P-fJOKP7SA",
+        "authorChannelId": {
+          "value": "UCaT1iMAsl7Mn9P-fJOKP7SA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-18T01:12:33Z",
+        "updatedAt": "2022-04-18T01:12:33Z"
+      }
+    }
+  ]
+}

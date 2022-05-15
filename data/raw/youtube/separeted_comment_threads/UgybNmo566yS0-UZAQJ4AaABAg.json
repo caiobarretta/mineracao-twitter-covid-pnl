@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VuoVmydOC6NeFXI6GtgqSMriInQ",
+  "id": "UgybNmo566yS0-UZAQJ4AaABAg",
+  "snippet": {
+    "videoId": "yzH21BqYluU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kSEWM-hmLbLDDxIpcYgZCdx2oWw",
+      "id": "UgybNmo566yS0-UZAQJ4AaABAg",
+      "snippet": {
+        "videoId": "yzH21BqYluU",
+        "textDisplay": "Absurdo dos absurdos! E estamos concordando com toda essa tirania.",
+        "textOriginal": "Absurdo dos absurdos! E estamos concordando com toda essa tirania.",
+        "authorDisplayName": "Ferraz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bplvgUS7EGj6VNJSvimnAna2V02peMUHF4A22-RIWSAn_thlqUGIRVqkfSpauT12k72v0YLXEAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoWCjjQ3s7WrdkgZc7v1VgA",
+        "authorChannelId": {
+          "value": "UCoWCjjQ3s7WrdkgZc7v1VgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 27,
+        "publishedAt": "2022-01-14T16:26:03Z",
+        "updatedAt": "2022-01-14T16:26:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "z--mNeJLi5QIUk6eeS5-BJ-1D2k",
+      "id": "UgybNmo566yS0-UZAQJ4AaABAg.9XBPEZ_CzGc9XE4atzHxkQ",
+      "snippet": {
+        "textDisplay": "Eu n\u00e3o",
+        "textOriginal": "Eu n\u00e3o",
+        "parentId": "UgybNmo566yS0-UZAQJ4AaABAg",
+        "authorDisplayName": "Beleza Pura",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdWGxllDl8aJemsJQaQRXHblaR9NEnLApQjNiUnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqp3RBM3aFexQQjzuOM0ljg",
+        "authorChannelId": {
+          "value": "UCqp3RBM3aFexQQjzuOM0ljg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-15T17:23:27Z",
+        "updatedAt": "2022-01-15T17:23:27Z"
+      }
+    }
+  ]
+}

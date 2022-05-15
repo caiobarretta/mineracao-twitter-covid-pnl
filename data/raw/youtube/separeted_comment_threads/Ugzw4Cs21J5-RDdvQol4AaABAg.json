@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "50AoK7KMTtwbn5n_PcRwTYVFq8s",
+  "id": "Ugzw4Cs21J5-RDdvQol4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "drwXpRyaybx0hUEPG-P6sGRJLMw",
+      "id": "Ugzw4Cs21J5-RDdvQol4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Annoying jokes. This guy grew up playing alone with his books.",
+        "textOriginal": "Annoying jokes. This guy grew up playing alone with his books.",
+        "authorDisplayName": "Americano Immigrante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCiSftPlNslW52V550G8on9oMWp6MrrVARnNFJ4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCrZa-Wc0qt8y-lEupsicpw",
+        "authorChannelId": {
+          "value": "UCCrZa-Wc0qt8y-lEupsicpw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-03T17:42:23Z",
+        "updatedAt": "2020-03-03T17:42:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-WRYYq2OQhiKYWO2tzmGadxhrak",
+      "id": "Ugzw4Cs21J5-RDdvQol4AaABAg.95kRpyTYDFF95kTDuUW7Jx",
+      "snippet": {
+        "textDisplay": "Thanks",
+        "textOriginal": "Thanks",
+        "parentId": "Ugzw4Cs21J5-RDdvQol4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-03T17:54:32Z",
+        "updatedAt": "2020-03-03T17:54:32Z"
+      }
+    }
+  ]
+}

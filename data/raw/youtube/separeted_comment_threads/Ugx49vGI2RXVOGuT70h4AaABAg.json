@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0tfMa2iDZ_KnGXETVPArIAXPdzM",
+  "id": "Ugx49vGI2RXVOGuT70h4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yI4IG-aLtPugnO7KjJp5eaGA01Q",
+      "id": "Ugx49vGI2RXVOGuT70h4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "how to get apk from this?",
+        "textOriginal": "how to get apk from this?",
+        "authorDisplayName": "Manipulation Clan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzLtZLlw_wtODuIEJxo-kv04LIREiHtT0Gmjg33A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_G9cijcKCkZJleO8zMmh_g",
+        "authorChannelId": {
+          "value": "UC_G9cijcKCkZJleO8zMmh_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-08-08T14:00:31Z",
+        "updatedAt": "2017-08-08T14:00:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TfIEyhrWJ7jFUusKMb-V4HX2Wtk",
+      "id": "Ugx49vGI2RXVOGuT70h4AaABAg.8W-lo7bRlQR8W8PP6HUs9F",
+      "snippet": {
+        "textDisplay": "Once you have resolved the build errors (the error and where it occurred are displayed in the Corona Console), you should be able to build the apk.",
+        "textOriginal": "Once you have resolved the build errors (the error and where it occurred are displayed in the Corona Console), you should be able to build the apk.",
+        "parentId": "Ugx49vGI2RXVOGuT70h4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-08-11T22:29:09Z",
+        "updatedAt": "2017-08-11T22:29:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "DaJN4jH9owtO9Y0HlDI-ibQnlc4",
+      "id": "Ugx49vGI2RXVOGuT70h4AaABAg.8W-lo7bRlQR8W0z_qINgE2",
+      "snippet": {
+        "textDisplay": "I get error when I build it, It shows there may have some information and I not get some option in build menu",
+        "textOriginal": "I get error when I build it, It shows there may have some information and I not get some option in build menu",
+        "parentId": "Ugx49vGI2RXVOGuT70h4AaABAg",
+        "authorDisplayName": "Manipulation Clan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzLtZLlw_wtODuIEJxo-kv04LIREiHtT0Gmjg33A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_G9cijcKCkZJleO8zMmh_g",
+        "authorChannelId": {
+          "value": "UC_G9cijcKCkZJleO8zMmh_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-08-09T01:20:08Z",
+        "updatedAt": "2017-08-09T01:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "9y38_D4TT1Nr6aJ81sUdSxyJq3I",
+      "id": "Ugx49vGI2RXVOGuT70h4AaABAg.8W-lo7bRlQR8W0ESslpSbR",
+      "snippet": {
+        "textDisplay": "Click File > Build > Android in the Corona Simulator",
+        "textOriginal": "Click File > Build > Android in the Corona Simulator",
+        "parentId": "Ugx49vGI2RXVOGuT70h4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-08-08T18:19:37Z",
+        "updatedAt": "2017-08-08T18:19:37Z"
+      }
+    }
+  ]
+}

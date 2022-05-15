@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9MQ3JgfGInm7M8GUG47WwRS7DAQ",
+  "id": "UgxAF49Ys5NSCfvAO2p4AaABAg",
+  "snippet": {
+    "videoId": "lH1vmca1XG8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EN5oGSIWJ3jMYNmcbOEL2NV6tC8",
+      "id": "UgxAF49Ys5NSCfvAO2p4AaABAg",
+      "snippet": {
+        "videoId": "lH1vmca1XG8",
+        "textDisplay": "Jajaja clase negocio",
+        "textOriginal": "Jajaja clase negocio",
+        "authorDisplayName": "Harving Torres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYYOWOXcvpy44oca_uhz867MIf7O9Nmx0Bn3pcKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmcUjoucEKxUQ5M_qitFIMQ",
+        "authorChannelId": {
+          "value": "UCmcUjoucEKxUQ5M_qitFIMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-13T19:56:02Z",
+        "updatedAt": "2022-03-13T19:56:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fS85Jx6imtRAJ-ZOS67STM6u9O0",
+      "id": "UgxAF49Ys5NSCfvAO2p4AaABAg.9ZX7NHjdvI89ZXl9ryarVR",
+      "snippet": {
+        "textDisplay": "Todo es negocio",
+        "textOriginal": "Todo es negocio",
+        "parentId": "UgxAF49Ys5NSCfvAO2p4AaABAg",
+        "authorDisplayName": "Aeon X.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOzI_XaKP9t2huQv4RRmwWTCxT_YLyM_aW4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0f_bckYJnUVtL5DMBPnsUA",
+        "authorChannelId": {
+          "value": "UC0f_bckYJnUVtL5DMBPnsUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-14T01:52:28Z",
+        "updatedAt": "2022-03-14T01:52:28Z"
+      }
+    }
+  ]
+}

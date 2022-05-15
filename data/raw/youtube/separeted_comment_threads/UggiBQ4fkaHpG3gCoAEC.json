@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EHx4d-GyuSScgMaoNxSjRObNQ38",
+  "id": "UggiBQ4fkaHpG3gCoAEC",
+  "snippet": {
+    "videoId": "C2YRU_lvW4Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kr-cWGTZ_VY61eHtLB083Kvlc4c",
+      "id": "UggiBQ4fkaHpG3gCoAEC",
+      "snippet": {
+        "videoId": "C2YRU_lvW4Y",
+        "textDisplay": "OBRIGADO",
+        "textOriginal": "OBRIGADO",
+        "authorDisplayName": "JOSE LUIZ PEREIRA SANTOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkLFgREfRa-rSksW0AlDwlb2i5ByTEAxRUvmkuYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCLKM-tu2ve5VeVpdh3V9QQ",
+        "authorChannelId": {
+          "value": "UCCLKM-tu2ve5VeVpdh3V9QQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2017-04-07T16:50:28Z",
+        "updatedAt": "2017-04-07T16:50:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PdXiLpuErunVsT-q43Fh0X-Y5_Q",
+      "id": "UggiBQ4fkaHpG3gCoAEC.8R3MUGjQ6hB8R3MsOqP5ed",
+      "snippet": {
+        "textDisplay": "PELA POPULA\u00c7AO MAIS CARENTE DA SOCIEDADE",
+        "textOriginal": "PELA POPULA\u00c7AO MAIS CARENTE DA SOCIEDADE",
+        "parentId": "UggiBQ4fkaHpG3gCoAEC",
+        "authorDisplayName": "JOSE LUIZ PEREIRA SANTOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkLFgREfRa-rSksW0AlDwlb2i5ByTEAxRUvmkuYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCLKM-tu2ve5VeVpdh3V9QQ",
+        "authorChannelId": {
+          "value": "UCCLKM-tu2ve5VeVpdh3V9QQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-04-07T16:53:53Z",
+        "updatedAt": "2017-04-07T16:53:53Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TK2_9N0XnIyRyqhhsKnZjSRiHGY",
+  "id": "UgyoRpnCUBX8DExV6wV4AaABAg",
+  "snippet": {
+    "videoId": "K-cGx644fbw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0MFe-8nh1pzihd4LLSgepk6n8_8",
+      "id": "UgyoRpnCUBX8DExV6wV4AaABAg",
+      "snippet": {
+        "videoId": "K-cGx644fbw",
+        "textDisplay": "50% dos 50% que tomaram ent\u00e3o seria 25% n\u00e9 eita",
+        "textOriginal": "50% dos 50% que tomaram ent\u00e3o seria 25% n\u00e9 eita",
+        "authorDisplayName": "M\u00f4nica Roncon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTs9Y-tGGdyHVgmTS0eMpG_4DfG2mymPREh4NnIUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTAakbCpNqPZOjJLBDopg5g",
+        "authorChannelId": {
+          "value": "UCTAakbCpNqPZOjJLBDopg5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-16T18:47:10Z",
+        "updatedAt": "2021-10-16T18:47:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7OMQ-93oraU1I1SpjrPU1tAFCec",
+      "id": "UgyoRpnCUBX8DExV6wV4AaABAg.9TZuqQjkp8-9T_0Gfac7UC",
+      "snippet": {
+        "textDisplay": "Claro que n\u00e3o.",
+        "textOriginal": "Claro que n\u00e3o.",
+        "parentId": "UgyoRpnCUBX8DExV6wV4AaABAg",
+        "authorDisplayName": "Vitor O",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ5J8ZiSmFtqPKH_1B87ha80lB2sDlKk_eBPqfEA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBUKWGuS639ImT3XGUjQX0g",
+        "authorChannelId": {
+          "value": "UCBUKWGuS639ImT3XGUjQX0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-16T19:43:19Z",
+        "updatedAt": "2021-10-16T19:43:19Z"
+      }
+    }
+  ]
+}

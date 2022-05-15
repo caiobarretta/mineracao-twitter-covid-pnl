@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RYfoENs-vCCydYmNw5XlGsK-W3U",
+  "id": "UgzA2CfId3NrWteS98p4AaABAg",
+  "snippet": {
+    "videoId": "40logWcfyrA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1w1Z8btx6dYTv4eupIbyVA8xyKY",
+      "id": "UgzA2CfId3NrWteS98p4AaABAg",
+      "snippet": {
+        "videoId": "40logWcfyrA",
+        "textDisplay": "Qualquer laboratorio pode fazer esse teste?",
+        "textOriginal": "Qualquer laboratorio pode fazer esse teste?",
+        "authorDisplayName": "Helena De moura",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSv34sNL9JW6Wxc75hHhXAM_JA5DPoPDkt1Sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPF5RdVudmXcfzVqZQK8n0w",
+        "authorChannelId": {
+          "value": "UCPF5RdVudmXcfzVqZQK8n0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-01T11:38:01Z",
+        "updatedAt": "2021-05-01T11:38:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uWf9za2qGPyW049VbsiVniwWBNg",
+      "id": "UgzA2CfId3NrWteS98p4AaABAg.9MnZBD-jrmg9OHngM9EUAO",
+      "snippet": {
+        "textDisplay": "Na rua Pedro II, 407 prata. pr\u00f3ximo a integra\u00e7\u00e3o.",
+        "textOriginal": "Na rua Pedro II, 407 prata. pr\u00f3ximo a integra\u00e7\u00e3o.",
+        "parentId": "UgzA2CfId3NrWteS98p4AaABAg",
+        "authorDisplayName": "LabFDiniz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNarFDeY9aOnVgzrolqKjXS-Gadm-MsaNhH4WY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuAvhAjw90DsRa1qht14Ryg",
+        "authorChannelId": {
+          "value": "UCuAvhAjw90DsRa1qht14Ryg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-07T11:21:19Z",
+        "updatedAt": "2021-06-07T11:21:19Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cn2AaYv3WfnIdRqL8NIBV7lMzCc",
+  "id": "UgwAUL61RC70jkWiD0B4AaABAg",
+  "snippet": {
+    "videoId": "NXtG1X6iH3s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GInkQbB_ID6030rGckzc-u0wXA8",
+      "id": "UgwAUL61RC70jkWiD0B4AaABAg",
+      "snippet": {
+        "videoId": "NXtG1X6iH3s",
+        "textDisplay": "Parab\u00e9ns meu amigo",
+        "textOriginal": "Parab\u00e9ns meu amigo",
+        "authorDisplayName": "GARAGEM SLZV8",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSATbATXoNoaclQb9HeAWaeR0DrTr0B-Ju7Mv3S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdH5XnDctYGh5NLuO9CrWgw",
+        "authorChannelId": {
+          "value": "UCdH5XnDctYGh5NLuO9CrWgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T10:27:57Z",
+        "updatedAt": "2022-05-10T10:27:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B9vTpiakxnVxwCdHbjAMBnvQOIw",
+      "id": "UgwAUL61RC70jkWiD0B4AaABAg.9aqSTG1k0Wu9aqthUi28fL",
+      "snippet": {
+        "textDisplay": "muito obrigado amigo, abra\u00e7os tmj!",
+        "textOriginal": "muito obrigado amigo, abra\u00e7os tmj!",
+        "parentId": "UgwAUL61RC70jkWiD0B4AaABAg",
+        "authorDisplayName": "S\u00e9culo 20 Ve\u00edculos de Cole\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3dapAIH549bG-7BajjJdhKg0D8wTlwWtRnFr2_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCgjqjSCzo9ZszRZmLQJmRA",
+        "authorChannelId": {
+          "value": "UCCgjqjSCzo9ZszRZmLQJmRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T14:34:41Z",
+        "updatedAt": "2022-05-10T14:34:41Z"
+      }
+    }
+  ]
+}

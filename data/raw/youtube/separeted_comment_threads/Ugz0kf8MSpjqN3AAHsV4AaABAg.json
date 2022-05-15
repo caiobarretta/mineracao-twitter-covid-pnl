@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EInx0pRD25frADbfRYqhGZfgryo",
+  "id": "Ugz0kf8MSpjqN3AAHsV4AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RT1ThIA1SZWJVyuksiTtY7Qzi5k",
+      "id": "Ugz0kf8MSpjqN3AAHsV4AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Excelente est\u00e1 Aula.",
+        "textOriginal": "Excelente est\u00e1 Aula.",
+        "authorDisplayName": "Fam\u00edlia Azulina CSA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSc9IIHqh59QsKv_e18KpLk6baQrVbdv4-IQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6Y5JzEe26k7zoh0Uv3l5mw",
+        "authorChannelId": {
+          "value": "UC6Y5JzEe26k7zoh0Uv3l5mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-28T11:12:37Z",
+        "updatedAt": "2020-03-28T11:12:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H313vNaFUlmBgoejPuainUjX64Q",
+      "id": "Ugz0kf8MSpjqN3AAHsV4AaABAg.96k763riwii96kcilLvRoI",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0d\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd",
+        "textOriginal": "\ud83d\ude0d\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd",
+        "parentId": "Ugz0kf8MSpjqN3AAHsV4AaABAg",
+        "authorDisplayName": "JBO Ci\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSctqR_Yj4truAHYStrWdj4EnLgsEP988bCNN3IfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuQLOcYPvjkjIB3KCPJrzKQ",
+        "authorChannelId": {
+          "value": "UCuQLOcYPvjkjIB3KCPJrzKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-28T15:57:39Z",
+        "updatedAt": "2020-03-28T15:57:39Z"
+      }
+    }
+  ]
+}

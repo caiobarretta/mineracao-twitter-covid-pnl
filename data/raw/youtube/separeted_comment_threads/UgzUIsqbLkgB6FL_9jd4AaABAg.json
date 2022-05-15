@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "byOzMQimz9vRWvZzyLyoZb3hnL0",
+  "id": "UgzUIsqbLkgB6FL_9jd4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fOOFHrFUiCdgvHHaOkklpomnaCs",
+      "id": "UgzUIsqbLkgB6FL_9jd4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "\"when we start the program\". HOW u start the program. How u link Corona and Lua and long etc.",
+        "textOriginal": "\"when we start the program\". HOW u start the program. How u link Corona and Lua and long etc.",
+        "authorDisplayName": "\u041escar Gomez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSC7HVwuorqY9R5g_61q-5aRppm0-GmnfGeKSk-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPyWEXbm2qRYkTs4kVxMQXg",
+        "authorChannelId": {
+          "value": "UCPyWEXbm2qRYkTs4kVxMQXg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-19T16:05:37Z",
+        "updatedAt": "2019-04-19T16:05:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VqFFS0kC6DzsQ8RgzSAOJDUnbqc",
+      "id": "UgzUIsqbLkgB6FL_9jd4AaABAg.8tusB4wBJhZ8tv40Qm8w7N",
+      "snippet": {
+        "textDisplay": "I am using the Corona editor as part of Sublime Text.  You can also load or start the program using Corona Simulator and then loading the main.lua file from your folder.",
+        "textOriginal": "I am using the Corona editor as part of Sublime Text.  You can also load or start the program using Corona Simulator and then loading the main.lua file from your folder.",
+        "parentId": "UgzUIsqbLkgB6FL_9jd4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-19T17:57:45Z",
+        "updatedAt": "2019-04-19T17:57:45Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6rEdyDdL5WC1d5GkKP_Hgrbz7-s",
+  "id": "UgzJUKGf-3Pt89_cfyp4AaABAg",
+  "snippet": {
+    "videoId": "IbJpeY7fjG8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8ARsjSxv5MuAtEvG4NaUySzLXj0",
+      "id": "UgzJUKGf-3Pt89_cfyp4AaABAg",
+      "snippet": {
+        "videoId": "IbJpeY7fjG8",
+        "textDisplay": "Como diria certo ministro: IMPRECIONANTE! Voc\u00eas s\u00e3o \u00f3timos!",
+        "textOriginal": "Como diria certo ministro: IMPRECIONANTE! Voc\u00eas s\u00e3o \u00f3timos!",
+        "authorDisplayName": "Gilmar Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXcvYRtoRkwpx2-FMXTQzvwRb3IrPtbmjdvqwIZQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_7Kp4lJHUwfNZm_yCTXOTQ",
+        "authorChannelId": {
+          "value": "UC_7Kp4lJHUwfNZm_yCTXOTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-05T20:11:50Z",
+        "updatedAt": "2020-03-05T20:11:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tofyl6bSN-TcACWiIoCRFOn07Tc",
+      "id": "UgzJUKGf-3Pt89_cfyp4AaABAg.95prXGHZrBm95prlkOAvR7",
+      "snippet": {
+        "textDisplay": "Hahahahahahahahaha",
+        "textOriginal": "Hahahahahahahahaha",
+        "parentId": "UgzJUKGf-3Pt89_cfyp4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-05T20:13:56Z",
+        "updatedAt": "2020-03-05T20:13:56Z"
+      }
+    }
+  ]
+}

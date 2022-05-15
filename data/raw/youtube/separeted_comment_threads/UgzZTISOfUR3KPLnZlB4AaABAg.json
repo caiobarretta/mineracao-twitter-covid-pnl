@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xnK9RjIZl_u_R-nUC1NkPOfWpfY",
+  "id": "UgzZTISOfUR3KPLnZlB4AaABAg",
+  "snippet": {
+    "videoId": "Hgbq2HRdMfA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3FvAwFD1EfRom023HADFTFVQJZk",
+      "id": "UgzZTISOfUR3KPLnZlB4AaABAg",
+      "snippet": {
+        "videoId": "Hgbq2HRdMfA",
+        "textDisplay": "Deixa passar o carnaval....",
+        "textOriginal": "Deixa passar o carnaval....",
+        "authorDisplayName": "Sandro Bertte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTV4dvBtuM4M4woNoc8pnMp1YXX7ACYRrvs75OC5A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpY3ltHpmL7epsdN-mbW1Gg",
+        "authorChannelId": {
+          "value": "UCpY3ltHpmL7epsdN-mbW1Gg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2022-04-19T00:25:42Z",
+        "updatedAt": "2022-04-19T00:25:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RbmSGXWopaiEO_0QR9e6fZo2gZE",
+      "id": "UgzZTISOfUR3KPLnZlB4AaABAg.9_zIqtlkpGS9aCsNJDyM1d",
+      "snippet": {
+        "textDisplay": "Ou as elei\u00e7\u00f5es \ud83d\ude1e",
+        "textOriginal": "Ou as elei\u00e7\u00f5es \ud83d\ude1e",
+        "parentId": "UgzZTISOfUR3KPLnZlB4AaABAg",
+        "authorDisplayName": "Jussara Oliveira Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOLfs_iWR5fUqCgVN73Z_osU-gMeKQ5a31gA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVRXGkHhkGpqVkzJTHLRzFQ",
+        "authorChannelId": {
+          "value": "UCVRXGkHhkGpqVkzJTHLRzFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-24T16:14:12Z",
+        "updatedAt": "2022-04-24T16:14:12Z"
+      }
+    }
+  ]
+}

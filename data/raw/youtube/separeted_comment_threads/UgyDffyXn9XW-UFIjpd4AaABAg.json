@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w0li33wx_dylLVuiAnTDOHM6ruQ",
+  "id": "UgyDffyXn9XW-UFIjpd4AaABAg",
+  "snippet": {
+    "videoId": "q9f98UCCLk8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kTSB8VCKNw_rVPUNDPV9zzqqwFQ",
+      "id": "UgyDffyXn9XW-UFIjpd4AaABAg",
+      "snippet": {
+        "videoId": "q9f98UCCLk8",
+        "textDisplay": "\ud83d\ude13\ud83d\ude13\ud83d\ude13",
+        "textOriginal": "\ud83d\ude13\ud83d\ude13\ud83d\ude13",
+        "authorDisplayName": "Fabi Tabosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2yfJuBgGXLMy7qyGLvMyL5QUEdCsoqe2Ysw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUqKIrKogaP0bFU8RNoQlqA",
+        "authorChannelId": {
+          "value": "UCUqKIrKogaP0bFU8RNoQlqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-21T18:42:40Z",
+        "updatedAt": "2020-03-21T18:42:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lncJa2SQDXVrD_IKkAGO4O6gSBo",
+      "id": "UgyDffyXn9XW-UFIjpd4AaABAg.96Tu2D8RJ-k96UCMDZadty",
+      "snippet": {
+        "textDisplay": "Lament\u00e1vel...",
+        "textOriginal": "Lament\u00e1vel...",
+        "parentId": "UgyDffyXn9XW-UFIjpd4AaABAg",
+        "authorDisplayName": "Marcio Tabosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS63Cxxe9PBbh_Lmv1sLft0DWgcLUmCHKrDe9bfyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWgfG3-TJY_zT9epRNHN1XQ",
+        "authorChannelId": {
+          "value": "UCWgfG3-TJY_zT9epRNHN1XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-21T21:31:25Z",
+        "updatedAt": "2020-03-21T21:31:25Z"
+      }
+    }
+  ]
+}

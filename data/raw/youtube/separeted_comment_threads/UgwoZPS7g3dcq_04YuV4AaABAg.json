@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KsVLGqXe1YdShGDrWeepCFEEwz4",
+  "id": "UgwoZPS7g3dcq_04YuV4AaABAg",
+  "snippet": {
+    "videoId": "RfjYNBqWa6k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6CbhHWYBhftiqLoMIPJt0dIlOhs",
+      "id": "UgwoZPS7g3dcq_04YuV4AaABAg",
+      "snippet": {
+        "videoId": "RfjYNBqWa6k",
+        "textDisplay": "V\u00eddeo n ajudou em nada, s\u00f3 falou o que todo mundo j\u00e1 viu quando baixou o app",
+        "textOriginal": "V\u00eddeo n ajudou em nada, s\u00f3 falou o que todo mundo j\u00e1 viu quando baixou o app",
+        "authorDisplayName": "Isa bele",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTbOVWPOBfgD2S2tmxwQe1xYiUuTygYmR3zhYo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgFKPPgmbGXfwlBKCEe0-zA",
+        "authorChannelId": {
+          "value": "UCgFKPPgmbGXfwlBKCEe0-zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-22T21:24:43Z",
+        "updatedAt": "2021-10-22T21:24:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2Vq-YXzuzeJDnzG2egcqz2ZdlGU",
+      "id": "UgwoZPS7g3dcq_04YuV4AaABAg.9Toddbv7SZc9VTIq63jXMT",
+      "snippet": {
+        "textDisplay": "Eu achei estranho que pede login e senha do banco isso \u00e9 certo?",
+        "textOriginal": "Eu achei estranho que pede login e senha do banco isso \u00e9 certo?",
+        "parentId": "UgwoZPS7g3dcq_04YuV4AaABAg",
+        "authorDisplayName": "RM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/poowRGGtK62Rrv_Vgdu4zeRvLAz6u8GIu7VQpoGruinEedtbsD6VU7GbeYxvL23Z14Zl6M9nNw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoBa73qeQC7gvhXlg64oMNg",
+        "authorChannelId": {
+          "value": "UCoBa73qeQC7gvhXlg64oMNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-02T22:13:41Z",
+        "updatedAt": "2021-12-02T22:13:41Z"
+      }
+    }
+  ]
+}

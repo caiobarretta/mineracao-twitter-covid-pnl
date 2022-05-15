@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_ydNlGUWXaaM5w6Ja-XJfAxIzgo",
+  "id": "Ugz5AJ88fAhqkjfitLJ4AaABAg",
+  "snippet": {
+    "videoId": "B19aYHVDkfE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Te4e6txvhjU8AjU-OAH5SCHr3hg",
+      "id": "Ugz5AJ88fAhqkjfitLJ4AaABAg",
+      "snippet": {
+        "videoId": "B19aYHVDkfE",
+        "textDisplay": "Felicidade ! Vida longa e plena, Virginie",
+        "textOriginal": "Felicidade ! Vida longa e plena, Virginie",
+        "authorDisplayName": "Celia Schultz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0a6kHDYH9jsVoPiDCB78mIHvh8caTDRT7scxRDA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXo7xbICmlTlKdi6LVs1YOA",
+        "authorChannelId": {
+          "value": "UCXo7xbICmlTlKdi6LVs1YOA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-29T12:20:35Z",
+        "updatedAt": "2021-04-29T12:20:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RkgpZDwCQBSzrPR6UJnS_HvV744",
+      "id": "Ugz5AJ88fAhqkjfitLJ4AaABAg.9MiUTGTT1GF9Mj3qRhMt10",
+      "snippet": {
+        "textDisplay": "Merci Celia, para voc\u00ea tambem :)",
+        "textOriginal": "Merci Celia, para voc\u00ea tambem :)",
+        "parentId": "Ugz5AJ88fAhqkjfitLJ4AaABAg",
+        "authorDisplayName": "Metr\u00f4 - Virginie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4dXtduiGpkrZ1RrLqpbcMBB2j_vg7ybrLz-dVOk4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIzNsY9dPR0xDsUDDc9hMUw",
+        "authorChannelId": {
+          "value": "UCIzNsY9dPR0xDsUDDc9hMUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-29T17:47:12Z",
+        "updatedAt": "2021-04-29T17:47:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "F6oYSwRzbD5KIX6YNbg2lxISIJ8",
+  "id": "UgzLtw2Y-kwhHcX5hmt4AaABAg",
+  "snippet": {
+    "videoId": "rE7g1QJszmA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zpVXUl3KRnx35FgsTNqsJ5bSXhk",
+      "id": "UgzLtw2Y-kwhHcX5hmt4AaABAg",
+      "snippet": {
+        "videoId": "rE7g1QJszmA",
+        "textDisplay": "Hello! Please tell me how to connect VS Code to the Corona SDK? For some people, when they make a new project, VS Code immediately opens along with the Corona SDK console and the phone that usually opens when developing a game in the Corona SDK.\r\n\r\nThanks in advance for your answer!))",
+        "textOriginal": "Hello! Please tell me how to connect VS Code to the Corona SDK? For some people, when they make a new project, VS Code immediately opens along with the Corona SDK console and the phone that usually opens when developing a game in the Corona SDK.\r\n\r\nThanks in advance for your answer!))",
+        "authorDisplayName": "\u0414\u043e\u0431\u0440\u044b\u0439 \u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNVTh9RNEZWMK4vhhCLFx4MHD8Inss6sbwXz5Mms7VVUFtsv5Sjx_gRPXmltX8EA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyWiW63wccz7KBho-BYy7UQ",
+        "authorChannelId": {
+          "value": "UCyWiW63wccz7KBho-BYy7UQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-10T07:17:10Z",
+        "updatedAt": "2021-06-10T07:17:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_Z5E6mk-HCWSQOmAhGkzP9Jv51Y",
+      "id": "UgzLtw2Y-kwhHcX5hmt4AaABAg.9OP57jbxaJT9OUEBgPa1fv",
+      "snippet": {
+        "textDisplay": "Hi! I think you just need to tell your computer what the default program for using \".lua\" files is. Just right click the file and select \"open with\" or something like that :-)",
+        "textOriginal": "Hi! I think you just need to tell your computer what the default program for using \".lua\" files is. Just right click the file and select \"open with\" or something like that :-)",
+        "parentId": "UgzLtw2Y-kwhHcX5hmt4AaABAg",
+        "authorDisplayName": "Code With Stein",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAy6ZS-IR8SpGb81qGVFnTCfxp_9CyA6B1zZ32uA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfVoYvY8BfTDeF63JQmQJvg",
+        "authorChannelId": {
+          "value": "UCfVoYvY8BfTDeF63JQmQJvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-12T07:12:33Z",
+        "updatedAt": "2021-06-12T07:12:33Z"
+      }
+    }
+  ]
+}

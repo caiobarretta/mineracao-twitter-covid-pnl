@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PAiHMNpCWvQxhUwEbKssFRuqJFU",
+  "id": "UgwHQ_9vgRKHv_D86Lp4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RDshCdax4IFJ5asfWEhU9Rj_dX0",
+      "id": "UgwHQ_9vgRKHv_D86Lp4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Excelente aula.!",
+        "textOriginal": "Excelente aula.!",
+        "authorDisplayName": "M4rcos E. Viann4",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/HJ2Euen9JMf5YtAa9ULPBLYIjdODEydbHv4OShlLQPtSgPShekQ9okobpGuEnL1og0a0uVlLbDA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIBSx_zc1_d11SrH30BM0RQ",
+        "authorChannelId": {
+          "value": "UCIBSx_zc1_d11SrH30BM0RQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-17T23:00:24Z",
+        "updatedAt": "2022-03-17T23:00:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7u3ZjwnyDSVBYquI9MYcYbl8LwM",
+      "id": "UgwHQ_9vgRKHv_D86Lp4AaABAg.9Zgke6emdqo9Zi4mnb7M-Y",
+      "snippet": {
+        "textDisplay": "Muito obrigado!",
+        "textOriginal": "Muito obrigado!",
+        "parentId": "UgwHQ_9vgRKHv_D86Lp4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-18T11:24:19Z",
+        "updatedAt": "2022-03-18T11:24:19Z"
+      }
+    }
+  ]
+}

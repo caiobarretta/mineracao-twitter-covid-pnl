@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xYdyIvFm6krZeX0mLG4nV5DKwQU",
+  "id": "UgxWLRC0K5hjRkaHjud4AaABAg",
+  "snippet": {
+    "videoId": "WqL80hAsjQ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jhVn0njEWmV29AT5_SoboH0wCmA",
+      "id": "UgxWLRC0K5hjRkaHjud4AaABAg",
+      "snippet": {
+        "videoId": "WqL80hAsjQ4",
+        "textDisplay": "Algu\u00e9m j\u00e1 fez um voo de norte a sul ou de sul ao norte, provando a esfericidade neste sentido? N\u00e3o, n\u00e9?",
+        "textOriginal": "Algu\u00e9m j\u00e1 fez um voo de norte a sul ou de sul ao norte, provando a esfericidade neste sentido? N\u00e3o, n\u00e9?",
+        "authorDisplayName": "PEIXOTO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTGCcXkByV_WlVtU1bx3hXuwT4UJGOmVP6o5ZTUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8RpAVlgPcfCtXtb97HFsTg",
+        "authorChannelId": {
+          "value": "UC8RpAVlgPcfCtXtb97HFsTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-23T22:16:55Z",
+        "updatedAt": "2022-01-23T22:16:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iAGAPrm6dlYOw3zjVfOnL70Mxso",
+      "id": "UgxWLRC0K5hjRkaHjud4AaABAg.9XZCYM-JTcj9XeWuAzxelP",
+      "snippet": {
+        "textDisplay": "Pior que j\u00e1... Ai que vergonha alheia...",
+        "textOriginal": "Pior que j\u00e1... Ai que vergonha alheia...",
+        "parentId": "UgxWLRC0K5hjRkaHjud4AaABAg",
+        "authorDisplayName": "Max Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpXWtFjzdD4uP4D8PtXJgjLt9NAPBrTBBAog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbm0QU4kFGye9woyHovOZMA",
+        "authorChannelId": {
+          "value": "UCbm0QU4kFGye9woyHovOZMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-26T09:10:15Z",
+        "updatedAt": "2022-01-26T09:10:15Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "kCQ5BqHYr975xbZEbkiSpPASjUo",
+      "id": "UgxWLRC0K5hjRkaHjud4AaABAg.9XZCYM-JTcj9XZjKJfX2si",
+      "snippet": {
+        "textDisplay": "NASA \u2764",
+        "textOriginal": "NASA \u2764",
+        "parentId": "UgxWLRC0K5hjRkaHjud4AaABAg",
+        "authorDisplayName": "Motoqueiro Fantasma",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rLZc3RSS4Nb9Z9_RARVz7z0MY_fdHZkHZDCEwKHdBPBKCft-XFBNmb9sxEoqw852N2vloFVqhr8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzJyGKof6SnlylX5Yifmyzw",
+        "authorChannelId": {
+          "value": "UCzJyGKof6SnlylX5Yifmyzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-24T03:12:06Z",
+        "updatedAt": "2022-01-24T03:12:06Z"
+      }
+    }
+  ]
+}

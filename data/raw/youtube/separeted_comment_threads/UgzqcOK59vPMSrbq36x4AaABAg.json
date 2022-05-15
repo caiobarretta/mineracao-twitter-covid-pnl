@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QcKmnCkWdvZvbbPte8YvSqf5ueo",
+  "id": "UgzqcOK59vPMSrbq36x4AaABAg",
+  "snippet": {
+    "videoId": "FpL5X_FLMIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0Mka0FWkcZW8RFjcet7GVRHvtcM",
+      "id": "UgzqcOK59vPMSrbq36x4AaABAg",
+      "snippet": {
+        "videoId": "FpL5X_FLMIs",
+        "textDisplay": "quem tem asma est\u00e1 no grupo de risco?",
+        "textOriginal": "quem tem asma est\u00e1 no grupo de risco?",
+        "authorDisplayName": "Monique Lessa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqd75UZXTk8j9C7fgF-t54xyWAq85vzMAS8WQq6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_zrHFQ_aGlvgtHK23Jc9ng",
+        "authorChannelId": {
+          "value": "UC_zrHFQ_aGlvgtHK23Jc9ng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-06-19T02:01:23Z",
+        "updatedAt": "2020-06-19T02:01:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FYoz9pCva-5wwNWxNm_nrIo0Gjs",
+      "id": "UgzqcOK59vPMSrbq36x4AaABAg.9A3r-NAadQz9C46JBnNzT1",
+      "snippet": {
+        "textDisplay": "Sim",
+        "textOriginal": "Sim",
+        "parentId": "UgzqcOK59vPMSrbq36x4AaABAg",
+        "authorDisplayName": "Gabriela Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHKX00HUu8-qd8K-T60eo9wYHo6prE2256wi48Gg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzvO5FjqU30dElDXPrfrogw",
+        "authorChannelId": {
+          "value": "UCzvO5FjqU30dElDXPrfrogw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-07T21:26:41Z",
+        "updatedAt": "2020-08-07T21:26:41Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "V86QUoqagcF2uV3RcQHYtiHLa4Q",
+      "id": "UgzqcOK59vPMSrbq36x4AaABAg.9A3r-NAadQz9BU0hjRgdIH",
+      "snippet": {
+        "textDisplay": "Muito n\u00e3o",
+        "textOriginal": "Muito n\u00e3o",
+        "parentId": "UgzqcOK59vPMSrbq36x4AaABAg",
+        "authorDisplayName": "Andre Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/niTwt2meM3q-FBY74rpiI4EMzsNppluHDS_ew_pEG2VT5akVpgtvLthw5yTv-TI8ITZzvWrVJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiJqCjfMhhxW9szC0GqQqMg",
+        "authorChannelId": {
+          "value": "UCiJqCjfMhhxW9szC0GqQqMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-24T02:26:36Z",
+        "updatedAt": "2020-07-24T02:26:36Z"
+      }
+    }
+  ]
+}

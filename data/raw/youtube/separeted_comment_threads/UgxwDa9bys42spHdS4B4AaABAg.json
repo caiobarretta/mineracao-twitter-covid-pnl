@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Q9gzfKaUYDmAmOCgnLAB1GSEe5o",
+  "id": "UgxwDa9bys42spHdS4B4AaABAg",
+  "snippet": {
+    "videoId": "Cu_-0w_I1T4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8FHSNxP1R6BsLeeqa_6ulqJlJPY",
+      "id": "UgxwDa9bys42spHdS4B4AaABAg",
+      "snippet": {
+        "videoId": "Cu_-0w_I1T4",
+        "textDisplay": "\u00d3tima aula, n\u00e3o tem como n\u00e3o aprender. Me ajudou bastante. Sucesso!",
+        "textOriginal": "\u00d3tima aula, n\u00e3o tem como n\u00e3o aprender. Me ajudou bastante. Sucesso!",
+        "authorDisplayName": "Pri Teodoro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSj-ZWfQxziPA51yBxKOcoPPoAsIP-bhwq_vg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG8CYs-Us9LpX6L4B62z66A",
+        "authorChannelId": {
+          "value": "UCG8CYs-Us9LpX6L4B62z66A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-22T11:25:51Z",
+        "updatedAt": "2021-06-22T11:25:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ejxhFoW4sV9h5S1ojJlRmBDAj7M",
+      "id": "UgxwDa9bys42spHdS4B4AaABAg.9OtR7Z_B9yg9OtSgWL10m8",
+      "snippet": {
+        "textDisplay": "Que bom que ajudou",
+        "textOriginal": "Que bom que ajudou",
+        "parentId": "UgxwDa9bys42spHdS4B4AaABAg",
+        "authorDisplayName": "Prof. Carlos Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQEXzYsIgOzGkgqlFLdVHS2FkGlj9XPdz3LXba=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZqxBgpqzl82M6pRuiTexSQ",
+        "authorChannelId": {
+          "value": "UCZqxBgpqzl82M6pRuiTexSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-22T11:39:29Z",
+        "updatedAt": "2021-06-22T11:39:29Z"
+      }
+    }
+  ]
+}

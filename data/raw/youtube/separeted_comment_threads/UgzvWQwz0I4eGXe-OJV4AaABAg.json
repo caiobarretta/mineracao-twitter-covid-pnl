@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R7v0qogcBF6k1ubW-Hq6CxbM4eo",
+  "id": "UgzvWQwz0I4eGXe-OJV4AaABAg",
+  "snippet": {
+    "videoId": "6tcf8Q2B5QY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jK0ltXMy-KL5QYdW4-YW9LhcVzM",
+      "id": "UgzvWQwz0I4eGXe-OJV4AaABAg",
+      "snippet": {
+        "videoId": "6tcf8Q2B5QY",
+        "textDisplay": "So uma GRIPECINHA !!!!!!!!!!!",
+        "textOriginal": "So uma GRIPECINHA !!!!!!!!!!!",
+        "authorDisplayName": "Gustavo daniel Pastor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTt6ze4W_TPwckth_5d6Jp45-Q_NFuYOysxKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzSLFWI3BlUteLff5qHnZEA",
+        "authorChannelId": {
+          "value": "UCzSLFWI3BlUteLff5qHnZEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2021-01-16T03:06:53Z",
+        "updatedAt": "2021-01-16T03:06:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7ffUYaZZvaLN8qY87oWZI0QciFw",
+      "id": "UgzvWQwz0I4eGXe-OJV4AaABAg.9IZHDlAnuPD9I_sIp-zHF-",
+      "snippet": {
+        "textDisplay": "@Camila ferrari A VEZ DELE VAI CHEGAR !",
+        "textOriginal": "@Camila ferrari A VEZ DELE VAI CHEGAR !",
+        "parentId": "UgzvWQwz0I4eGXe-OJV4AaABAg",
+        "authorDisplayName": "Ivone B\u00fchler",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfen7hIjhi5nViCbYjJ4Gcr2GXvlso10zOKDgttw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9FZA1Yn1kq0XZhtRorK3mw",
+        "authorChannelId": {
+          "value": "UC9FZA1Yn1kq0XZhtRorK3mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-16T17:58:52Z",
+        "updatedAt": "2021-01-16T17:58:52Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "x7xtDVUa7fuFXkbChR-LeYa1fYI",
+      "id": "UgzvWQwz0I4eGXe-OJV4AaABAg.9IZHDlAnuPD9I_O3KT-JBE",
+      "snippet": {
+        "textDisplay": "Pega uma gripe sem vacina e sem rem\u00e9dio nenhum pra vc ver como a gripe \u00e9 de verdade.",
+        "textOriginal": "Pega uma gripe sem vacina e sem rem\u00e9dio nenhum pra vc ver como a gripe \u00e9 de verdade.",
+        "parentId": "UgzvWQwz0I4eGXe-OJV4AaABAg",
+        "authorDisplayName": "Camila ferrari",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfZNgCvSo_LL1fbxq_BnBDXOs9FmkadJ5Np92qLg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPUzeVpw1fqTPSSVVSLj-cg",
+        "authorChannelId": {
+          "value": "UCPUzeVpw1fqTPSSVVSLj-cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-16T13:25:52Z",
+        "updatedAt": "2021-01-16T13:25:52Z"
+      }
+    }
+  ]
+}

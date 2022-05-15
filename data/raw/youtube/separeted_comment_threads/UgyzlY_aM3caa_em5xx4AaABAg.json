@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SqLAUwgx2_DpfFy4VHeBPSR1r0s",
+  "id": "UgyzlY_aM3caa_em5xx4AaABAg",
+  "snippet": {
+    "videoId": "kksew9Xeo2I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TmzPD8vBbrXxA6HqmJYDVVTaep0",
+      "id": "UgyzlY_aM3caa_em5xx4AaABAg",
+      "snippet": {
+        "videoId": "kksew9Xeo2I",
+        "textDisplay": "\u00d3timo \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "\u00d3timo \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "authorDisplayName": "Thays Benicio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnCj-SAKAUrOvMka9XWnCojcBV2Fit_MFd6oHbZgE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWimJUkZc9H3unJHHLBsVlg",
+        "authorChannelId": {
+          "value": "UCWimJUkZc9H3unJHHLBsVlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-03T00:03:56Z",
+        "updatedAt": "2020-12-03T00:03:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "y0WwkHQFYXiIrvItYo0PeJbcejE",
+      "id": "UgyzlY_aM3caa_em5xx4AaABAg.9GmeJHSHI9Z9GywEho3kSB",
+      "snippet": {
+        "textDisplay": "Valeu pelo apoio!!! Em breve teremos o sorteio para os inscritos hein?!",
+        "textOriginal": "Valeu pelo apoio!!! Em breve teremos o sorteio para os inscritos hein?!",
+        "parentId": "UgyzlY_aM3caa_em5xx4AaABAg",
+        "authorDisplayName": "Porque o Estado Importa!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSypQJVTMwM1SouhnEWeeCOEOHVfqp7_q6utqdNlw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuZDu3jkiPMfxYTmfzVzKWw",
+        "authorChannelId": {
+          "value": "UCuZDu3jkiPMfxYTmfzVzKWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-07T18:31:29Z",
+        "updatedAt": "2020-12-07T18:31:29Z"
+      }
+    }
+  ]
+}

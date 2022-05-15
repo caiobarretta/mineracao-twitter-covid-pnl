@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wtMtT6WCKIerwB3nApe1a4-jRmk",
+  "id": "UgyKNuvI_lOQrmUsbWh4AaABAg",
+  "snippet": {
+    "videoId": "t51iS9FRuGw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vxkRfxANGVAz_5NdqvGR1fju2Ao",
+      "id": "UgyKNuvI_lOQrmUsbWh4AaABAg",
+      "snippet": {
+        "videoId": "t51iS9FRuGw",
+        "textDisplay": "eu estudando pra prova da faculdade",
+        "textOriginal": "eu estudando pra prova da faculdade",
+        "authorDisplayName": "iracema santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgAcvaBkhFk9MOy3ik4Umpo2niF2rH8BIcw1yZUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzQxgsh-2Glamy12hkM_CAQ",
+        "authorChannelId": {
+          "value": "UCzQxgsh-2Glamy12hkM_CAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-12T22:38:38Z",
+        "updatedAt": "2021-11-12T22:38:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NH4-VvhYnlhn1RPC-4TH_gZkhO4",
+      "id": "UgyKNuvI_lOQrmUsbWh4AaABAg.9UeqnNnv4s59Zob2eOuU-Q",
+      "snippet": {
+        "textDisplay": "\u00c9 primeiro semestre?",
+        "textOriginal": "\u00c9 primeiro semestre?",
+        "parentId": "UgyKNuvI_lOQrmUsbWh4AaABAg",
+        "authorDisplayName": "Yasmin Ayssa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9NJ6D3J1D-SnvGzKMdh9oTTlw585uQnbUUpePvMpFDS9w-XfO7ikYGoc25Xu1Q7F_9MDyVyGIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4UI6GOeLsnP6c8zGuYQsRQ",
+        "authorChannelId": {
+          "value": "UC4UI6GOeLsnP6c8zGuYQsRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-21T00:10:25Z",
+        "updatedAt": "2022-03-21T00:10:25Z"
+      }
+    }
+  ]
+}

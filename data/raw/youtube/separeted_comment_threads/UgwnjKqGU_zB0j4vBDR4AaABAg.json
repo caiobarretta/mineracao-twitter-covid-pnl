@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9MYeY6qyDkvTy3nl_jQUrY-U2FE",
+  "id": "UgwnjKqGU_zB0j4vBDR4AaABAg",
+  "snippet": {
+    "videoId": "eWQluPUFlg0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-7ccfg7pGOnTFhFOR1pQf7p5chE",
+      "id": "UgwnjKqGU_zB0j4vBDR4AaABAg",
+      "snippet": {
+        "videoId": "eWQluPUFlg0",
+        "textDisplay": "Lindona, obrigada pela ajuda, me desesperei atoa! Obrigada pelos ensinamentos!",
+        "textOriginal": "Lindona, obrigada pela ajuda, me desesperei atoa! Obrigada pelos ensinamentos!",
+        "authorDisplayName": "J\u00e9ssica Arantes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiv7OlmYw7YAwNhn4lmICiiI9FpDjh-QnkrmdVIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiiJBXB1rYdjcJ6tT7RCOFQ",
+        "authorChannelId": {
+          "value": "UCiiJBXB1rYdjcJ6tT7RCOFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-18T17:53:45Z",
+        "updatedAt": "2021-01-18T17:53:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZrkeF0X4ruC3025n4IZ0xjhtePI",
+      "id": "UgwnjKqGU_zB0j4vBDR4AaABAg.9If0J1iAUSs9Ir_aacOuTN",
+      "snippet": {
+        "textDisplay": "voc\u00ea conseguiu baixar o material de apoio?",
+        "textOriginal": "voc\u00ea conseguiu baixar o material de apoio?",
+        "parentId": "UgwnjKqGU_zB0j4vBDR4AaABAg",
+        "authorDisplayName": "Raquel Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSv7ATpj7LAw-iphdcepTAk80GiOMxdwAfFJDy3Tks=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG7qPBSxi1WOYd1LuxQBcRA",
+        "authorChannelId": {
+          "value": "UCG7qPBSxi1WOYd1LuxQBcRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-23T15:01:44Z",
+        "updatedAt": "2021-01-23T15:01:44Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7hzYU4LutPD6RrRVFshrrlvCQwY",
+  "id": "UgyS7HT7Z3OIoJEhfBl4AaABAg",
+  "snippet": {
+    "videoId": "l2BcjI8RH-M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zIt6mW509HSTrOYb8U-UyW0lXhs",
+      "id": "UgyS7HT7Z3OIoJEhfBl4AaABAg",
+      "snippet": {
+        "videoId": "l2BcjI8RH-M",
+        "textDisplay": "Muito bom, parab\u00e9ns!!",
+        "textOriginal": "Muito bom, parab\u00e9ns!!",
+        "authorDisplayName": "ISADORA MARIA LHEIS PINHEIRO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRT4Zv6RWxJBiCGwsGI3XBXjo1HWAeGf7xZ9Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFobSYoZKt0YWRGxoSePv1w",
+        "authorChannelId": {
+          "value": "UCFobSYoZKt0YWRGxoSePv1w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-09T13:59:35Z",
+        "updatedAt": "2021-06-09T13:59:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6cbsRTA19iAuFaCYj_GhJF1yPVo",
+      "id": "UgyS7HT7Z3OIoJEhfBl4AaABAg.9ONEOCMT-yf9OOE39vCPOa",
+      "snippet": {
+        "textDisplay": "Obrigado Isadora !",
+        "textOriginal": "Obrigado Isadora !",
+        "parentId": "UgyS7HT7Z3OIoJEhfBl4AaABAg",
+        "authorDisplayName": "MegaMed",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFi1sH36w0X8YwFBAxRPx7mqIOzBrBHpjYB0AyEA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn9nNcumua3ReImrsI8vBog",
+        "authorChannelId": {
+          "value": "UCn9nNcumua3ReImrsI8vBog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-09T23:15:57Z",
+        "updatedAt": "2021-06-09T23:15:57Z"
+      }
+    }
+  ]
+}

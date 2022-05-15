@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QI87sp_C8xMTZMPl1RIkHhcRdCE",
+  "id": "Ugx44w2hQxkxHYCCChN4AaABAg",
+  "snippet": {
+    "videoId": "Cu_-0w_I1T4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J1vNWLhrG4an9f3g8yICiouEYs0",
+      "id": "Ugx44w2hQxkxHYCCChN4AaABAg",
+      "snippet": {
+        "videoId": "Cu_-0w_I1T4",
+        "textDisplay": "Muito necess\u00e1ria essa aula atualizada, parab\u00e9ns!",
+        "textOriginal": "Muito necess\u00e1ria essa aula atualizada, parab\u00e9ns!",
+        "authorDisplayName": "Luci Lu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeZUdcYXUg31zw3Ec2ZNO90dzdYCxAg2UMP-bseQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjIhcoxDTwxZTifY7KHnTdQ",
+        "authorChannelId": {
+          "value": "UCjIhcoxDTwxZTifY7KHnTdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-08T00:01:01Z",
+        "updatedAt": "2021-08-08T00:01:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sCh_MSZmIO5PVgXJIjWVSYtpdoY",
+      "id": "Ugx44w2hQxkxHYCCChN4AaABAg.9QlE6pJcQKH9QpS4DgW4Ky",
+      "snippet": {
+        "textDisplay": "Espero ter ajudado",
+        "textOriginal": "Espero ter ajudado",
+        "parentId": "Ugx44w2hQxkxHYCCChN4AaABAg",
+        "authorDisplayName": "Prof. Carlos Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQEXzYsIgOzGkgqlFLdVHS2FkGlj9XPdz3LXba=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZqxBgpqzl82M6pRuiTexSQ",
+        "authorChannelId": {
+          "value": "UCZqxBgpqzl82M6pRuiTexSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-09T15:19:57Z",
+        "updatedAt": "2021-08-09T15:19:57Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hfYY3ES0scOuyyz7CA0mPytaKnA",
+  "id": "UgyBLHRzObWjRLBirJF4AaABAg",
+  "snippet": {
+    "videoId": "sLlTNUo25rI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G3NXGmxp0afROSE5V_beRPb7Qqs",
+      "id": "UgyBLHRzObWjRLBirJF4AaABAg",
+      "snippet": {
+        "videoId": "sLlTNUo25rI",
+        "textDisplay": "Isso \u00e9 mentira, eu to a 30 dias e tenho recaidas.",
+        "textOriginal": "Isso \u00e9 mentira, eu to a 30 dias e tenho recaidas.",
+        "authorDisplayName": "Fabricio Fonttes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5fGDMY_IrqQtozFH-wy9S595pyJreSla-LiSz5Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxbVcoo0aispmMijrj203xQ",
+        "authorChannelId": {
+          "value": "UCxbVcoo0aispmMijrj203xQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-11-02T00:14:26Z",
+        "updatedAt": "2020-11-02T00:14:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_6ITWejnxDIZ05WSCfJLMqbp-TM",
+      "id": "UgyBLHRzObWjRLBirJF4AaABAg.9FXqs3EKn349KdLJkhqTdi",
+      "snippet": {
+        "textDisplay": "Oi ficou bem",
+        "textOriginal": "Oi ficou bem",
+        "parentId": "UgyBLHRzObWjRLBirJF4AaABAg",
+        "authorDisplayName": "Arthur",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LOGu-k9Dit5cqLJWyZgYwS-61oYUOdQ2ZqbcPZMTShosq7-3j2koRSW7qtd6LsakONETaGL6Mw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLyg0DqEl75tpkrmU3naUJA",
+        "authorChannelId": {
+          "value": "UCLyg0DqEl75tpkrmU3naUJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-08T19:21:39Z",
+        "updatedAt": "2021-03-08T19:21:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "N089oBSRKRg1Ae5CRqH6h0Rp0FI",
+      "id": "UgyBLHRzObWjRLBirJF4AaABAg.9FXqs3EKn349HSRrF7EpjJ",
+      "snippet": {
+        "textDisplay": "Est\u00e1 melhor?",
+        "textOriginal": "Est\u00e1 melhor?",
+        "parentId": "UgyBLHRzObWjRLBirJF4AaABAg",
+        "authorDisplayName": "Silvana Matias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRL859IymqvxQVIGhXLZJVusuqDYnRstGuZTTVwWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4g38nCA4Pt91QfI6SdmNjw",
+        "authorChannelId": {
+          "value": "UC4g38nCA4Pt91QfI6SdmNjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-19T14:53:43Z",
+        "updatedAt": "2020-12-19T14:53:43Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YLQl1kKnhdHUlCefakxN097xswE",
+  "id": "UgyZucbcVZ14Nv7oXwp4AaABAg",
+  "snippet": {
+    "videoId": "vN30emwcNS4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MXkwCRFCGReFGjzF7Air2L8l3h0",
+      "id": "UgyZucbcVZ14Nv7oXwp4AaABAg",
+      "snippet": {
+        "videoId": "vN30emwcNS4",
+        "textDisplay": "CNN reported the pulse oximeter does not read correctly for blacks. Suggest higher level of oxygen when administeted.",
+        "textOriginal": "CNN reported the pulse oximeter does not read correctly for blacks. Suggest higher level of oxygen when administeted.",
+        "authorDisplayName": "Annette Arties",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLThQT9IcdaooISgpmeHcMNTdRWV0fT4LIL-hA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiRdCHfMuYSuaSM-VT3OVIw",
+        "authorChannelId": {
+          "value": "UCiRdCHfMuYSuaSM-VT3OVIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-17T13:18:49Z",
+        "updatedAt": "2021-03-17T13:19:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZHoFnIqNqpHEr1s-Dt1UKtJSExo",
+      "id": "UgyZucbcVZ14Nv7oXwp4AaABAg.9Kzrx8BH3GZ9LAqZ8xqhmc",
+      "snippet": {
+        "textDisplay": "They are correct. It\u2019s a few points off.",
+        "textOriginal": "They are correct. It\u2019s a few points off.",
+        "parentId": "UgyZucbcVZ14Nv7oXwp4AaABAg",
+        "authorDisplayName": "MedCram - Medical Lectures Explained CLEARLY",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8kzx5BL5vju2efLnrB6zyBh053ETraTOukM9dfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG-iSMVtWbbwDDXgXXypARQ",
+        "authorChannelId": {
+          "value": "UCG-iSMVtWbbwDDXgXXypARQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-22T04:57:33Z",
+        "updatedAt": "2021-03-22T04:57:33Z"
+      }
+    }
+  ]
+}

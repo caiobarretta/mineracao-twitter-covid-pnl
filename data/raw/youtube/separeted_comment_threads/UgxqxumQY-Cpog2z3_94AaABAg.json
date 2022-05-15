@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1-5xayjAeiAYDsRmq5tnovQO-kQ",
+  "id": "UgxqxumQY-Cpog2z3_94AaABAg",
+  "snippet": {
+    "videoId": "GhUaLo50s8I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XzsplxXgTdiPoXe7_6q9f3NlqlI",
+      "id": "UgxqxumQY-Cpog2z3_94AaABAg",
+      "snippet": {
+        "videoId": "GhUaLo50s8I",
+        "textDisplay": "SUS n\u00e3o deveria existir obg !",
+        "textOriginal": "SUS n\u00e3o deveria existir obg !",
+        "authorDisplayName": "Carlos Yan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7-g2KcQw_Kh_EG5-gxFFruwBqbH1sxw69tHjG9PI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrhT9Z3NWqIWBOB6lMRDbYg",
+        "authorChannelId": {
+          "value": "UCrhT9Z3NWqIWBOB6lMRDbYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-05-17T17:47:46Z",
+        "updatedAt": "2020-05-17T17:47:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2UsLmT9IYKwLEEOpiaIItasy9dM",
+      "id": "UgxqxumQY-Cpog2z3_94AaABAg.98l_3yKhkE79FVIgkD2hna",
+      "snippet": {
+        "textDisplay": "fato.",
+        "textOriginal": "fato.",
+        "parentId": "UgxqxumQY-Cpog2z3_94AaABAg",
+        "authorDisplayName": "Quatro04br",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRe2hNSCjvRBpNXXT5pc7f_-xWK1ew_1H3HSka7m4U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd6TgVzjGDbkdD3K-KtHy1g",
+        "authorChannelId": {
+          "value": "UCd6TgVzjGDbkdD3K-KtHy1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-01T00:28:35Z",
+        "updatedAt": "2020-11-01T00:28:35Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZnnjpMWLnFuGdqmQwj4ItiX5U-M",
+      "id": "UgxqxumQY-Cpog2z3_94AaABAg.98l_3yKhkE79EJtaNDsN4u",
+      "snippet": {
+        "textDisplay": "Quando vc n precisa \u00e9 f\u00e1cil falar isso!",
+        "textOriginal": "Quando vc n precisa \u00e9 f\u00e1cil falar isso!",
+        "parentId": "UgxqxumQY-Cpog2z3_94AaABAg",
+        "authorDisplayName": "Gustavo Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTt3rxdGacIlqkQoM3nLx1Z4MLPgKXOBK5IKZfOVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFqr1aAfrKshTZtpvutj8iA",
+        "authorChannelId": {
+          "value": "UCFqr1aAfrKshTZtpvutj8iA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-10-02T17:37:28Z",
+        "updatedAt": "2020-10-02T17:37:28Z"
+      }
+    }
+  ]
+}

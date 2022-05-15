@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FUhRrrWtDw-JMwiw1c7FrKpLOJU",
+  "id": "UgzJ4L1faUJVVX8bSCt4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Bw-XmFb6sG_ipzSx7ve56JomJKM",
+      "id": "UgzJ4L1faUJVVX8bSCt4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Muito bommmm! Bem did\u00e1tico! Ficou f\u00e1cil aprender",
+        "textOriginal": "Muito bommmm! Bem did\u00e1tico! Ficou f\u00e1cil aprender",
+        "authorDisplayName": "Andrielly Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcN0C3RYJf7OeE-9xT9KNT00zl7D-itD-rmHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCS2CAIDkfptcjdFovyUcsQ",
+        "authorChannelId": {
+          "value": "UCCS2CAIDkfptcjdFovyUcsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-14T00:15:09Z",
+        "updatedAt": "2022-01-14T00:15:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "V0Qd7z_FGbVG2ptjCCc52J_9m2M",
+      "id": "UgzJ4L1faUJVVX8bSCt4AaABAg.9X9f7ZZIMas9XAy4tCBF_g",
+      "snippet": {
+        "textDisplay": "Muito obrigado! Fico lisonjeado, abra\u00e7o!",
+        "textOriginal": "Muito obrigado! Fico lisonjeado, abra\u00e7o!",
+        "parentId": "UgzJ4L1faUJVVX8bSCt4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-14T12:20:03Z",
+        "updatedAt": "2022-01-14T12:20:03Z"
+      }
+    }
+  ]
+}

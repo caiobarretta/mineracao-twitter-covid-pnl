@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kZW7_RSe346Dm-qzOU4IrW4XaZo",
+  "id": "Ugz_bhWujky0DLugG6x4AaABAg",
+  "snippet": {
+    "videoId": "9wBO9GNZwEw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pY1JTxIf6yItLdc-8Kh6SxJSvlw",
+      "id": "Ugz_bhWujky0DLugG6x4AaABAg",
+      "snippet": {
+        "videoId": "9wBO9GNZwEw",
+        "textDisplay": "Sou de acordo com os m\u00e9dicos.",
+        "textOriginal": "Sou de acordo com os m\u00e9dicos.",
+        "authorDisplayName": "Aninha Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfIh18vu91Ix4flYUWPR9RnEHoBp0Z96ZcGdE4oL0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuI8Ed-m57hwrxOomO3UheQ",
+        "authorChannelId": {
+          "value": "UCuI8Ed-m57hwrxOomO3UheQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-31T13:31:57Z",
+        "updatedAt": "2020-03-31T13:31:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mQbq61cUdsyioc3ZgkD3Fh39xG8",
+      "id": "Ugz_bhWujky0DLugG6x4AaABAg.96s5RE9AGQs98qcupdLEY1",
+      "snippet": {
+        "textDisplay": "tamb\u00e9m, pos eles s\u00e3o profissionais da area.",
+        "textOriginal": "tamb\u00e9m, pos eles s\u00e3o profissionais da area.",
+        "parentId": "Ugz_bhWujky0DLugG6x4AaABAg",
+        "authorDisplayName": "Dieguinho Anjos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/FgIc1A1AUhUH9MwvN9S8QqFLoToeqdi15shNCBUwyq2rVUtVW_A9H8NkdmQPJ6qBJZy2A7xn3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-rQsuDpJjSXnmnUJ_a1EFA",
+        "authorChannelId": {
+          "value": "UC-rQsuDpJjSXnmnUJ_a1EFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-19T16:57:32Z",
+        "updatedAt": "2020-05-19T16:57:32Z"
+      }
+    }
+  ]
+}

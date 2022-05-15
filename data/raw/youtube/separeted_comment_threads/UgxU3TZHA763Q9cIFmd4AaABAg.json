@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kI8Nibr9BBkxnrxezYO9ZUlOF3U",
+  "id": "UgxU3TZHA763Q9cIFmd4AaABAg",
+  "snippet": {
+    "videoId": "2qpYZakeid0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "m-k_Kr3kgdwc5rNM_kgiJw6_EYk",
+      "id": "UgxU3TZHA763Q9cIFmd4AaABAg",
+      "snippet": {
+        "videoId": "2qpYZakeid0",
+        "textDisplay": "Essa vai barulhar em todo lugar",
+        "textOriginal": "Essa vai barulhar em todo lugar",
+        "authorDisplayName": "Matheus Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvMeE0ulMw55gAOXgVg3RwtOVv98LplqI06Vrsbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCpdJmtkNylF_JNGiPOUHdA",
+        "authorChannelId": {
+          "value": "UCCpdJmtkNylF_JNGiPOUHdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 17,
+        "publishedAt": "2020-07-24T18:14:47Z",
+        "updatedAt": "2020-07-24T18:14:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "D3n3OHpfz07nVSTmZpOH7FF8zWo",
+      "id": "UgxU3TZHA763Q9cIFmd4AaABAg.9BViDMyoYKr9BVsw5-KwPg",
+      "snippet": {
+        "textDisplay": "A braba acessem tbm SUBMUNDO DOS STATUS \ud83c\udfc4\ud83d\ude08\nhttps://youtu.be/w92M0T0em6A",
+        "textOriginal": "A braba acessem tbm SUBMUNDO DOS STATUS \ud83c\udfc4\ud83d\ude08\nhttps://youtu.be/w92M0T0em6A",
+        "parentId": "UgxU3TZHA763Q9cIFmd4AaABAg",
+        "authorDisplayName": "SUBMUNDO DOS STATUS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4u4uC66Z-vH3jkaGF95RAGd5ifLEU-FxregV9zw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDEEuAvBrEch5ikdKsFQgrg",
+        "authorChannelId": {
+          "value": "UCDEEuAvBrEch5ikdKsFQgrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2020-07-24T19:48:24Z",
+        "updatedAt": "2020-07-24T19:48:24Z"
+      }
+    }
+  ]
+}

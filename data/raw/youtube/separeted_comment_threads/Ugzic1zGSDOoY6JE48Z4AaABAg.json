@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uZQSghz0E-RaojUG2ZBAXQKU1B8",
+  "id": "Ugzic1zGSDOoY6JE48Z4AaABAg",
+  "snippet": {
+    "videoId": "42KmERAB01M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "g-XTBi6ZZP3jyapY5nAZtn7zXEg",
+      "id": "Ugzic1zGSDOoY6JE48Z4AaABAg",
+      "snippet": {
+        "videoId": "42KmERAB01M",
+        "textDisplay": "COLIS\u00c3O",
+        "textOriginal": "COLIS\u00c3O",
+        "authorDisplayName": "Yelloe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/R9bXqWnmthWn2Zij4vw4bSyNXEu3LtgtKh6JXWzrYEA_X2kYksDAaBT0o67zK0RQmjYjowjaGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtSmdUOsHe1992pGDef7sLQ",
+        "authorChannelId": {
+          "value": "UCtSmdUOsHe1992pGDef7sLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-27T23:49:45Z",
+        "updatedAt": "2022-04-27T23:49:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7MIMvivlo_5hiOlMhIVkKYfX0yk",
+      "id": "Ugzic1zGSDOoY6JE48Z4AaABAg.9aLPtSlVKw_9aLS_fap5p-",
+      "snippet": {
+        "textDisplay": "sim",
+        "textOriginal": "sim",
+        "parentId": "Ugzic1zGSDOoY6JE48Z4AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T00:13:15Z",
+        "updatedAt": "2022-04-28T00:13:15Z"
+      }
+    }
+  ]
+}

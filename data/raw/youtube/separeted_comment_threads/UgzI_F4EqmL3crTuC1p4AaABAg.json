@@ -1,0 +1,139 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YmSf3eG_nRgsFJSAWnjaIEvwQYI",
+  "id": "UgzI_F4EqmL3crTuC1p4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TgGeo7KZSVJNneDs4GCvzyVmwjI",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "This didn't work for me this simply does nothing just fall forever no matter what I do",
+        "textOriginal": "This didn't work for me this simply does nothing just fall forever no matter what I do",
+        "authorDisplayName": "Paulo Cesar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYV5okcUhPfGSg6gIOtpP9yviNnl12ISBwx7OqcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtZzwBu8XDQVAa8EzHguKvw",
+        "authorChannelId": {
+          "value": "UCtZzwBu8XDQVAa8EzHguKvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-02-19T02:49:00Z",
+        "updatedAt": "2019-02-19T02:49:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 5,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ekXceAJUJ1B3mwAeia_IMA60b6A",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg.8rWX6uL5fAT8rWbIteiP76",
+      "snippet": {
+        "textDisplay": "@Brian Burton yes i've tested this too, but now it is working great. Thanks ;)",
+        "textOriginal": "@Brian Burton yes i've tested this too, but now it is working great. Thanks ;)",
+        "parentId": "UgzI_F4EqmL3crTuC1p4AaABAg",
+        "authorDisplayName": "Paulo Cesar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYV5okcUhPfGSg6gIOtpP9yviNnl12ISBwx7OqcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtZzwBu8XDQVAa8EzHguKvw",
+        "authorChannelId": {
+          "value": "UCtZzwBu8XDQVAa8EzHguKvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-02-19T03:34:20Z",
+        "updatedAt": "2019-02-19T03:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "_-9YL9Vmufbq4EIAOUk_j7e_jMg",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg.8rWX6uL5fAT8rWbBYeWnwJ",
+      "snippet": {
+        "textDisplay": "@Brian Burton I'm setting up other properties and it seems to be working\n{bounce = 0.3, friction=1, radius=.1} inside physics.addbody",
+        "textOriginal": "@Brian Burton I'm setting up other properties and it seems to be working\n{bounce = 0.3, friction=1, radius=.1} inside physics.addbody",
+        "parentId": "UgzI_F4EqmL3crTuC1p4AaABAg",
+        "authorDisplayName": "Paulo Cesar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYV5okcUhPfGSg6gIOtpP9yviNnl12ISBwx7OqcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtZzwBu8XDQVAa8EzHguKvw",
+        "authorChannelId": {
+          "value": "UCtZzwBu8XDQVAa8EzHguKvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-02-19T03:33:20Z",
+        "updatedAt": "2019-02-19T03:33:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Kf3PjqBPmwDHsu4GG4XPsE7wFNU",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg.8rWX6uL5fAT8rWaxSIwHPt",
+      "snippet": {
+        "textDisplay": "You could try increasing the amount of force applied to the balloon when the tap occurs.",
+        "textOriginal": "You could try increasing the amount of force applied to the balloon when the tap occurs.",
+        "parentId": "UgzI_F4EqmL3crTuC1p4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-02-19T03:31:16Z",
+        "updatedAt": "2019-02-19T03:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "eKLNe9IVTrf2eowEC09ykcF7Cw8",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg.8rWX6uL5fAT8rWaYyyI1Si",
+      "snippet": {
+        "textDisplay": "@Brian Burton actually the only object receiving physics behavior is one. I'm not testing with floor. It basically should falls but when I tap be pushed up, but keeps falling",
+        "textOriginal": "@Brian Burton actually the only object receiving physics behavior is one. I'm not testing with floor. It basically should falls but when I tap be pushed up, but keeps falling",
+        "parentId": "UgzI_F4EqmL3crTuC1p4AaABAg",
+        "authorDisplayName": "Paulo Cesar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYV5okcUhPfGSg6gIOtpP9yviNnl12ISBwx7OqcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtZzwBu8XDQVAa8EzHguKvw",
+        "authorChannelId": {
+          "value": "UCtZzwBu8XDQVAa8EzHguKvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-02-19T03:27:47Z",
+        "updatedAt": "2019-02-19T03:27:47Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "4TYsuSto2wP8KoUQC49LMIVK6Us",
+      "id": "UgzI_F4EqmL3crTuC1p4AaABAg.8rWX6uL5fAT8rW_sWgu7bX",
+      "snippet": {
+        "textDisplay": "Did you set the floor to static?  (line 16 - 5:20 in the video)",
+        "textOriginal": "Did you set the floor to static?  (line 16 - 5:20 in the video)",
+        "parentId": "UgzI_F4EqmL3crTuC1p4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-02-19T03:21:51Z",
+        "updatedAt": "2019-02-19T03:21:51Z"
+      }
+    }
+  ]
+}

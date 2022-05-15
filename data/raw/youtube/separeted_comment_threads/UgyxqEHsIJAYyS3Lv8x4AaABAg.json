@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IBsMD7ZszYDYPIiM1fhfIXvCJ-U",
+  "id": "UgyxqEHsIJAYyS3Lv8x4AaABAg",
+  "snippet": {
+    "videoId": "v5mWi85Gh5U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5xYy29W0sA0wXDgzxeWzqq_31a8",
+      "id": "UgyxqEHsIJAYyS3Lv8x4AaABAg",
+      "snippet": {
+        "videoId": "v5mWi85Gh5U",
+        "textDisplay": "Tu e brabo",
+        "textOriginal": "Tu e brabo",
+        "authorDisplayName": "Arcanjo FF",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/YvtHU4-3RatHG-uKqHMy1hoHXWppFGbizpx927SdZgd6IaAGNrIsxTSVkAVcK6iwx37L6gF4vw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtURM97oy5ryny3ziPffNkQ",
+        "authorChannelId": {
+          "value": "UCtURM97oy5ryny3ziPffNkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-18T04:08:12Z",
+        "updatedAt": "2022-01-18T04:08:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mHH-twXTktKO3mC80-BcAplCZ3U",
+      "id": "UgyxqEHsIJAYyS3Lv8x4AaABAg.9XKNytr17EW9XKcQvvojbN",
+      "snippet": {
+        "textDisplay": "Tmj irm\u00e3o",
+        "textOriginal": "Tmj irm\u00e3o",
+        "parentId": "UgyxqEHsIJAYyS3Lv8x4AaABAg",
+        "authorDisplayName": "Glauber Poubel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bhs1ajRYdQsg4UhL9Ezp92VQr1aVFypNUJVN7YHdpFIsGW-AMhWWDIkoXoJs4bUly-xUyZjr0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHU0sKwJBKjx95LyXQpCyhw",
+        "authorChannelId": {
+          "value": "UCHU0sKwJBKjx95LyXQpCyhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T06:23:14Z",
+        "updatedAt": "2022-01-18T06:23:14Z"
+      }
+    }
+  ]
+}

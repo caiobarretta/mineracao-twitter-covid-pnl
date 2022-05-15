@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JuJwCiC-PT6alteyTvhdo5s1vXU",
+  "id": "UgzWuQBeh4xCCuDB3_R4AaABAg",
+  "snippet": {
+    "videoId": "j0XdJS1-T0k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "S6G4Hr2NkiURl2ngtysXpf14y3c",
+      "id": "UgzWuQBeh4xCCuDB3_R4AaABAg",
+      "snippet": {
+        "videoId": "j0XdJS1-T0k",
+        "textDisplay": "Quando eu respiro fundo quando paro de respirar eu sinto uma pequena vibra\u00e7\u00e3o na garganta",
+        "textOriginal": "Quando eu respiro fundo quando paro de respirar eu sinto uma pequena vibra\u00e7\u00e3o na garganta",
+        "authorDisplayName": "Henrique Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPpBHGyT4NsWCPEagYvs7d6l8YEtzFdAtqt5IoKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4l4LXW-ZiC0vuVkxZOEr6Q",
+        "authorChannelId": {
+          "value": "UC4l4LXW-ZiC0vuVkxZOEr6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2020-03-14T11:30:41Z",
+        "updatedAt": "2020-03-14T11:30:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bqmHz5GJi8ActTqEOyKo7SMrhMs",
+      "id": "UgzWuQBeh4xCCuDB3_R4AaABAg.96B628SWyPw96Bf61mqdGW",
+      "snippet": {
+        "textDisplay": "N\u00e3o",
+        "textOriginal": "N\u00e3o",
+        "parentId": "UgzWuQBeh4xCCuDB3_R4AaABAg",
+        "authorDisplayName": "Henrique Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPpBHGyT4NsWCPEagYvs7d6l8YEtzFdAtqt5IoKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4l4LXW-ZiC0vuVkxZOEr6Q",
+        "authorChannelId": {
+          "value": "UC4l4LXW-ZiC0vuVkxZOEr6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-14T16:45:47Z",
+        "updatedAt": "2020-03-14T16:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "csS-m2YIwDN-_vYOQa-FbdBSEx8",
+      "id": "UgzWuQBeh4xCCuDB3_R4AaABAg.96B628SWyPw96BeKs2QiGY",
+      "snippet": {
+        "textDisplay": "Vai no m\u00e9dico alguma coisa pode estar causando a vibra\u00e7\u00e3o, quer dizer que o ar encontra alguma dificuldade pra sair... voc\u00ea j\u00e1 teve crise de asma?",
+        "textOriginal": "Vai no m\u00e9dico alguma coisa pode estar causando a vibra\u00e7\u00e3o, quer dizer que o ar encontra alguma dificuldade pra sair... voc\u00ea j\u00e1 teve crise de asma?",
+        "parentId": "UgzWuQBeh4xCCuDB3_R4AaABAg",
+        "authorDisplayName": "Ana Cristina Lessa Lima Antinori",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6OmjimqhNYCrafB3T8WN9_6Nd07ZjFr9OOg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCijG0N7mFcpeAlq8kX70rCw",
+        "authorChannelId": {
+          "value": "UCijG0N7mFcpeAlq8kX70rCw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-14T16:39:04Z",
+        "updatedAt": "2020-03-14T16:39:04Z"
+      }
+    }
+  ]
+}

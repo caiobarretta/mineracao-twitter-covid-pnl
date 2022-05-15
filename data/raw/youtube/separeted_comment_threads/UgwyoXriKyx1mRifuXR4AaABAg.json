@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GxAgKU5roqqhYNCXXHRiItq9Aj4",
+  "id": "UgwyoXriKyx1mRifuXR4AaABAg",
+  "snippet": {
+    "videoId": "eOfhgO1HjPw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "n4XzGdobhzgfYMby8yzDUaVVwTo",
+      "id": "UgwyoXriKyx1mRifuXR4AaABAg",
+      "snippet": {
+        "videoId": "eOfhgO1HjPw",
+        "textDisplay": "Oi sou novo adorei seu canal \ud83d\ude01",
+        "textOriginal": "Oi sou novo adorei seu canal \ud83d\ude01",
+        "authorDisplayName": "metal Sonic show oficial",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-HJxkJVBydBe0dOFlosNcmAhNugWgEUY-DyMleg1POuT8SNaCaIXLfkbksnvzD6t_UFER1SledA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxWMnv771b4o6wIQB2NW7eA",
+        "authorChannelId": {
+          "value": "UCxWMnv771b4o6wIQB2NW7eA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-15T08:03:48Z",
+        "updatedAt": "2022-01-15T08:03:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Hrd40gvGsH61WmyZAiP7ZacDPJs",
+      "id": "UgwyoXriKyx1mRifuXR4AaABAg.9XD4YrFaFFp9XDVdCq8QMI",
+      "snippet": {
+        "textDisplay": "Bem vindo\ud83d\ude33",
+        "textOriginal": "Bem vindo\ud83d\ude33",
+        "parentId": "UgwyoXriKyx1mRifuXR4AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-15T12:00:27Z",
+        "updatedAt": "2022-01-15T12:00:27Z"
+      }
+    }
+  ]
+}

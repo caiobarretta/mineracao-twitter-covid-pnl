@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qAUhon9MrZpagIf8I61xVSiurOs",
+  "id": "Ugz1gnnYKsjpMcmJ7R14AaABAg",
+  "snippet": {
+    "videoId": "eWQluPUFlg0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KKS1PGf_-TI0cc4hF1QeWqZCT8g",
+      "id": "Ugz1gnnYKsjpMcmJ7R14AaABAg",
+      "snippet": {
+        "videoId": "eWQluPUFlg0",
+        "textDisplay": "alguem conseguiu baixar o material ?",
+        "textOriginal": "alguem conseguiu baixar o material ?",
+        "authorDisplayName": "Karoline Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwn4vsr7v2YHXqqwlIb5ZCstc21myRpV9nBfJjng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIzOMvrbn_SgdfWHlm8Ot_g",
+        "authorChannelId": {
+          "value": "UCIzOMvrbn_SgdfWHlm8Ot_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-20T23:57:29Z",
+        "updatedAt": "2021-05-20T23:57:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HLabGPO7w7QezSKHBbywmzhqFeg",
+      "id": "Ugz1gnnYKsjpMcmJ7R14AaABAg.9N_nupb8Vl99Z21ljcxJ_x",
+      "snippet": {
+        "textDisplay": "N\u00c3O",
+        "textOriginal": "N\u00c3O",
+        "parentId": "Ugz1gnnYKsjpMcmJ7R14AaABAg",
+        "authorDisplayName": "Beatriz Luiza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Li0VmojD2MSSjhwvJ3HvJQU4IUzxibasLiOQCMvxZJ3CmPPmCokCBENb6iFqyko8EHkK9VTpxGI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVN9BvhzMMwK7YtbMJHj81g",
+        "authorChannelId": {
+          "value": "UCVN9BvhzMMwK7YtbMJHj81g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-01T18:10:37Z",
+        "updatedAt": "2022-03-01T18:10:37Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "5jpIcYrrnC8AUH44i6GP37tdtlA",
+      "id": "Ugz1gnnYKsjpMcmJ7R14AaABAg.9N_nupb8Vl99OzKAGaMqBl",
+      "snippet": {
+        "textDisplay": "T\u00e1 dando erro",
+        "textOriginal": "T\u00e1 dando erro",
+        "parentId": "Ugz1gnnYKsjpMcmJ7R14AaABAg",
+        "authorDisplayName": "Deyvid Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8SOwMTOmj1z19oLZqj4Jq3XRPS46CISZ_e4bgDJmFstJeMN26zmUQGsHRy4HQoTl5lQvV20=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCchelTizG4RfV03OZKj_7wQ",
+        "authorChannelId": {
+          "value": "UCchelTizG4RfV03OZKj_7wQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-24T18:20:29Z",
+        "updatedAt": "2021-06-24T18:20:29Z"
+      }
+    }
+  ]
+}

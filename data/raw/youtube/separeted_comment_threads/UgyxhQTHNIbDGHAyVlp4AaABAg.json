@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1quKQHXRIRlho1EAC9l0jrK5xUI",
+  "id": "UgyxhQTHNIbDGHAyVlp4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MKr52RtWPlTy9RPCq-6BETDX8eU",
+      "id": "UgyxhQTHNIbDGHAyVlp4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Gostei do jeito que ele ensina",
+        "textOriginal": "Gostei do jeito que ele ensina",
+        "authorDisplayName": "Simone Fabr\u00edcio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTG5DhAJd9T4LdovCY2hL9-vTC2q2gzC5St6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLa9WTzR7s2T5-z2V5g0ypg",
+        "authorChannelId": {
+          "value": "UCLa9WTzR7s2T5-z2V5g0ypg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-05T02:29:01Z",
+        "updatedAt": "2022-03-05T02:29:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1WGGUekFWsDS7XHzn6HzR-TxKHI",
+      "id": "UgyxhQTHNIbDGHAyVlp4AaABAg.9ZAeBgsiCIw9ZGn9dV_5-e",
+      "snippet": {
+        "textDisplay": "Muito obrigado Simone!",
+        "textOriginal": "Muito obrigado Simone!",
+        "parentId": "UgyxhQTHNIbDGHAyVlp4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-07T11:42:49Z",
+        "updatedAt": "2022-03-07T11:42:49Z"
+      }
+    }
+  ]
+}

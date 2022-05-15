@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IFdRMPDWeZfyGpW04GlSFiB3bkI",
+  "id": "UgxqWh-_ZVjUL0ZdID14AaABAg",
+  "snippet": {
+    "videoId": "eOfhgO1HjPw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LmiLUSktkGo7rnsq7RSpmxnCZQo",
+      "id": "UgxqWh-_ZVjUL0ZdID14AaABAg",
+      "snippet": {
+        "videoId": "eOfhgO1HjPw",
+        "textDisplay": "Dudu tua m\u00e3e mandou vc ir lavar a lou\u00e7a.",
+        "textOriginal": "Dudu tua m\u00e3e mandou vc ir lavar a lou\u00e7a.",
+        "authorDisplayName": "Guilherme Souza-CN",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9MBOb7N5ev6xNkBpHbhg4f8dgA1_P-MT8578sTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC37KVThqBPt5wZh8_hEoVMQ",
+        "authorChannelId": {
+          "value": "UC37KVThqBPt5wZh8_hEoVMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T23:21:09Z",
+        "updatedAt": "2022-01-09T23:21:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dQb74Cn-lLpmN8ZKF_kMpuPYz38",
+      "id": "UgxqWh-_ZVjUL0ZdID14AaABAg.9X-GlU4jRlc9X-GpOnqO7D",
+      "snippet": {
+        "textDisplay": "\ud83d\ude21nao vou",
+        "textOriginal": "\ud83d\ude21nao vou",
+        "parentId": "UgxqWh-_ZVjUL0ZdID14AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T23:21:41Z",
+        "updatedAt": "2022-01-09T23:21:41Z"
+      }
+    }
+  ]
+}

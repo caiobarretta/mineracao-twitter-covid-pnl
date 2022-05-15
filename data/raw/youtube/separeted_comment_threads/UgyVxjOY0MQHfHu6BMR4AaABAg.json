@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4fyB2c-h_g6vYpaBLI9uPgDhqXY",
+  "id": "UgyVxjOY0MQHfHu6BMR4AaABAg",
+  "snippet": {
+    "videoId": "FJg7rarz_ic",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0C85cW-MBLKTCygqGkvhjUCcLv8",
+      "id": "UgyVxjOY0MQHfHu6BMR4AaABAg",
+      "snippet": {
+        "videoId": "FJg7rarz_ic",
+        "textDisplay": "Tudo mentira ! Acordem!",
+        "textOriginal": "Tudo mentira ! Acordem!",
+        "authorDisplayName": "Admilson Rodrigues de Ara\u00fajo Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS79RQgDaBw_uofOeR5DBJqfCOJmSFDCCRaNQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_OBtEae0KFWW0mfXddyoPg",
+        "authorChannelId": {
+          "value": "UC_OBtEae0KFWW0mfXddyoPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-07T00:40:19Z",
+        "updatedAt": "2021-04-07T00:40:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YiLFsMLiLntxADpHZCqnXu_qI6E",
+      "id": "UgyVxjOY0MQHfHu6BMR4AaABAg.9Lo_q92KsQl9Loc9CKCDR5",
+      "snippet": {
+        "textDisplay": "Chora rob\u00f4",
+        "textOriginal": "Chora rob\u00f4",
+        "parentId": "UgyVxjOY0MQHfHu6BMR4AaABAg",
+        "authorDisplayName": "Jorge Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhVMft1fIWOj9Y3IVSUipybva-Y2rTvwcdL46fTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqZKOQc42SVTH9ms0iPROBw",
+        "authorChannelId": {
+          "value": "UCqZKOQc42SVTH9ms0iPROBw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-07T01:00:32Z",
+        "updatedAt": "2021-04-07T01:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uMzBmNkR-N3gAfVB4PFjqhoLLEQ",
+      "id": "UgyVxjOY0MQHfHu6BMR4AaABAg.9Lo_q92KsQl9LoaUMzYI_G",
+      "snippet": {
+        "textDisplay": "Sim amigo tudo mentira!",
+        "textOriginal": "Sim amigo tudo mentira!",
+        "parentId": "UgyVxjOY0MQHfHu6BMR4AaABAg",
+        "authorDisplayName": "Ygor Molnar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDJlFJMvbkTMtY_-4yuSEnSrYsAt8kqbASgg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtFZFSN8kfcB0SjZsqVp_pw",
+        "authorChannelId": {
+          "value": "UCtFZFSN8kfcB0SjZsqVp_pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-07T00:45:57Z",
+        "updatedAt": "2021-04-07T00:45:57Z"
+      }
+    }
+  ]
+}

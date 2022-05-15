@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XtMOhX8yBhjIuEeOel57xDi4xhU",
+  "id": "UgzfdOISTnP9fK9xCEx4AaABAg",
+  "snippet": {
+    "videoId": "sIej4PjcVhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eguY2sjW6RrhFca8Mjb3DqId64g",
+      "id": "UgzfdOISTnP9fK9xCEx4AaABAg",
+      "snippet": {
+        "videoId": "sIej4PjcVhI",
+        "textDisplay": "Arregou?",
+        "textOriginal": "Arregou?",
+        "authorDisplayName": "RFD Gamer /Jogou Bem!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/m_4fTR6y3Fkup62YDmvMnhICM9_DX97SstNubILofKLOrPBkB4bwPL8HRkLfsFyWE6hWRr7p=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYBStKHBKe0hmpaNDj9wyhQ",
+        "authorChannelId": {
+          "value": "UCYBStKHBKe0hmpaNDj9wyhQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T10:31:51Z",
+        "updatedAt": "2022-05-10T10:31:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XbS7l_G8aAKsBufdkMLUPk-38pM",
+      "id": "UgzfdOISTnP9fK9xCEx4AaABAg.9aqSuv08bhw9aqT54IBfl1",
+      "snippet": {
+        "textDisplay": "N\u00e3o, j\u00e1 que ele \u00e9 parte ativa do processo.",
+        "textOriginal": "N\u00e3o, j\u00e1 que ele \u00e9 parte ativa do processo.",
+        "parentId": "UgzfdOISTnP9fK9xCEx4AaABAg",
+        "authorDisplayName": "RFD Gamer /Jogou Bem!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/m_4fTR6y3Fkup62YDmvMnhICM9_DX97SstNubILofKLOrPBkB4bwPL8HRkLfsFyWE6hWRr7p=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYBStKHBKe0hmpaNDj9wyhQ",
+        "authorChannelId": {
+          "value": "UCYBStKHBKe0hmpaNDj9wyhQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T10:33:23Z",
+        "updatedAt": "2022-05-10T10:33:23Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qqhZZ0xdfZRe7Ml0d_-aw-hi_vo",
+  "id": "UgxOO84md8zIOWaMzTJ4AaABAg",
+  "snippet": {
+    "videoId": "xS900kHtDvk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WNWoeZdrBJkSsfRH0HHssbnVJzU",
+      "id": "UgxOO84md8zIOWaMzTJ4AaABAg",
+      "snippet": {
+        "videoId": "xS900kHtDvk",
+        "textDisplay": "Atualizem a p\u00e1gina, eu fiz isso e o chat apareceu com o link",
+        "textOriginal": "Atualizem a p\u00e1gina, eu fiz isso e o chat apareceu com o link",
+        "authorDisplayName": "Raphael Conti 7A",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJy1ifj2S0epVPDRYRvRV8U2W6GVXDjoa-V5hNdg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoEWBqIzIzGJyBLnuwZP_dg",
+        "authorChannelId": {
+          "value": "UCoEWBqIzIzGJyBLnuwZP_dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-07T00:23:14Z",
+        "updatedAt": "2021-12-07T00:23:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M1O3cXx18NLPTQeU4IiK-bEOPRA",
+      "id": "UgxOO84md8zIOWaMzTJ4AaABAg.9VcpqVnVmIN9VcqGIdbmw_",
+      "snippet": {
+        "textDisplay": "Fiz isso e deu certo !!!! Valeu ;)",
+        "textOriginal": "Fiz isso e deu certo !!!! Valeu ;)",
+        "parentId": "UgxOO84md8zIOWaMzTJ4AaABAg",
+        "authorDisplayName": "Luciane Zalamena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_TO7ofFgwzkbzKPdmFTbjwNYZxCH3uyEElbCJDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2JS4UQFZe1PEAkfA_BTO4w",
+        "authorChannelId": {
+          "value": "UC2JS4UQFZe1PEAkfA_BTO4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-07T00:26:54Z",
+        "updatedAt": "2021-12-07T00:26:54Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oJGkbcd-VwjkidyobZvk2SVhEmc",
+  "id": "UgxxA0FKDlPQ3FLgbsV4AaABAg",
+  "snippet": {
+    "videoId": "a-mVwZrL8Ns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SpjvUP4j33sBC7ec2SPukTmJ99c",
+      "id": "UgxxA0FKDlPQ3FLgbsV4AaABAg",
+      "snippet": {
+        "videoId": "a-mVwZrL8Ns",
+        "textDisplay": "O gado est\u00e1 morrendo, mas n\u00e3o \u00e9 de aftosa!",
+        "textOriginal": "O gado est\u00e1 morrendo, mas n\u00e3o \u00e9 de aftosa!",
+        "authorDisplayName": "sergio goulart",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTO4-oy_0lJ1BJf6NiH8ndElO8dNky89WhU9Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV61wm6FZFo6WO-YPRLo88Q",
+        "authorChannelId": {
+          "value": "UCV61wm6FZFo6WO-YPRLo88Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2021-03-20T01:26:47Z",
+        "updatedAt": "2021-03-20T01:26:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gtluDIAz2NBGYj0051-VaxWgWhY",
+      "id": "UgxxA0FKDlPQ3FLgbsV4AaABAg.9L5JqhkOoHR9L67w95dAOX",
+      "snippet": {
+        "textDisplay": "@Tom Gurney vdd, esses n\u00e3o velem nada",
+        "textOriginal": "@Tom Gurney vdd, esses n\u00e3o velem nada",
+        "parentId": "UgxxA0FKDlPQ3FLgbsV4AaABAg",
+        "authorDisplayName": "Outro Cara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PmDjKJIfk566C3WFhg8cfJLnpS7drr0IZpe3BIEuys7I2B5BO1gl992KlX6U0w3-CknpskAmlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeo16feBM4nPie0QVJR8Qnw",
+        "authorChannelId": {
+          "value": "UCeo16feBM4nPie0QVJR8Qnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-20T09:01:55Z",
+        "updatedAt": "2021-03-20T09:01:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "-UHAhRpiWSRgLsH0Q_V0DWCfmBo",
+      "id": "UgxxA0FKDlPQ3FLgbsV4AaABAg.9L5JqhkOoHR9L5jHaWiCFe",
+      "snippet": {
+        "textDisplay": "@Professor Teacher cara, at\u00e9 os mortadelas t\u00e3o se cuidando, j\u00e1 bolsominions... aglomeram, n\u00e3o querem vacina e s\u00e3o contra o lockdown",
+        "textOriginal": "@Professor Teacher cara, at\u00e9 os mortadelas t\u00e3o se cuidando, j\u00e1 bolsominions... aglomeram, n\u00e3o querem vacina e s\u00e3o contra o lockdown",
+        "parentId": "UgxxA0FKDlPQ3FLgbsV4AaABAg",
+        "authorDisplayName": "Outro Cara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PmDjKJIfk566C3WFhg8cfJLnpS7drr0IZpe3BIEuys7I2B5BO1gl992KlX6U0w3-CknpskAmlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeo16feBM4nPie0QVJR8Qnw",
+        "authorChannelId": {
+          "value": "UCeo16feBM4nPie0QVJR8Qnw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-20T05:17:47Z",
+        "updatedAt": "2021-03-20T05:17:47Z"
+      }
+    }
+  ]
+}

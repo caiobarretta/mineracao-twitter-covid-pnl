@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O0XirRc8v4dVKCjXKIeIOgfJMso",
+  "id": "UgziZX-Wd38-rpHy1RF4AaABAg",
+  "snippet": {
+    "videoId": "PYglSVc4nuo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WLqCFhRuGQc3L2QXVzv3MNrij8o",
+      "id": "UgziZX-Wd38-rpHy1RF4AaABAg",
+      "snippet": {
+        "videoId": "PYglSVc4nuo",
+        "textDisplay": "Es bueno para cuidarse \ud83e\udd1d\ud83e\udd1d\ud83e\udd1a\ud83d\udc4d\ud83d\udc4d",
+        "textOriginal": "Es bueno para cuidarse \ud83e\udd1d\ud83e\udd1d\ud83e\udd1a\ud83d\udc4d\ud83d\udc4d",
+        "authorDisplayName": "Ruben Mero",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/UN5J5ENxSsETh4HQTZyAVAPKgxdne4X_AyVDdiJ0TzCB6p6ILaycqGisLe3GIjW0aoOwj8GgbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCpJoh9lJ5P4d7favra-ByA",
+        "authorChannelId": {
+          "value": "UCCpJoh9lJ5P4d7favra-ByA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-05T16:29:51Z",
+        "updatedAt": "2021-08-05T16:29:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mXbPu9SXgP8D28QPppYHI4eMx8Y",
+      "id": "UgziZX-Wd38-rpHy1RF4AaABAg.9QfGtcsgF7t9SZYKBNC7Sa",
+      "snippet": {
+        "textDisplay": "Yyyy",
+        "textOriginal": "Yyyy",
+        "parentId": "UgziZX-Wd38-rpHy1RF4AaABAg",
+        "authorDisplayName": "Trinidad Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQeDI8qibBNh4JwFP75yShedW0v5A71zK13Aw7yr8MS2bxncCkA3Nrfhac4NEYv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzaeL3yq0q2ezTsX7YWcCaQ",
+        "authorChannelId": {
+          "value": "UCzaeL3yq0q2ezTsX7YWcCaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-21T18:50:15Z",
+        "updatedAt": "2021-09-21T18:50:15Z"
+      }
+    }
+  ]
+}

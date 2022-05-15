@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "x39TK8fHnOgvlnVIfnslo6dFdvY",
+  "id": "UgyXr2vFAXmmo_DB86F4AaABAg",
+  "snippet": {
+    "videoId": "BJ74DS3ZK5Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wxpVJeVJaJ2NgtU99XMehaLfXVk",
+      "id": "UgyXr2vFAXmmo_DB86F4AaABAg",
+      "snippet": {
+        "videoId": "BJ74DS3ZK5Y",
+        "textDisplay": "El cocido ese \ud83d\udc78, es de laboratorio... A\u00fan lo dudan??",
+        "textOriginal": "El cocido ese \ud83d\udc78, es de laboratorio... A\u00fan lo dudan??",
+        "authorDisplayName": "Paula Clavijo Uribe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2dZcHlTPMYs2Bcb8W-6jn-UjD12kvucpTKbCj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgG5-O7jhwXgNrJAdte3c4g",
+        "authorChannelId": {
+          "value": "UCgG5-O7jhwXgNrJAdte3c4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-21T17:14:25Z",
+        "updatedAt": "2021-04-21T17:15:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tJYEIHNY-DwZjms85XwWdFMy2DY",
+      "id": "UgyXr2vFAXmmo_DB86F4AaABAg.9MPPjNwaYMi9QusX2iJKFd",
+      "snippet": {
+        "textDisplay": "Ya fue confirmado.",
+        "textOriginal": "Ya fue confirmado.",
+        "parentId": "UgyXr2vFAXmmo_DB86F4AaABAg",
+        "authorDisplayName": "Moon Bathory",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTsWgw_kI_5XYUwzMxLjPwUj7uEmmBr31j-k8II=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQQqEFUFvQiH84G8dtukEkg",
+        "authorChannelId": {
+          "value": "UCQQqEFUFvQiH84G8dtukEkg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-11T17:56:01Z",
+        "updatedAt": "2021-08-11T17:56:01Z"
+      }
+    }
+  ]
+}

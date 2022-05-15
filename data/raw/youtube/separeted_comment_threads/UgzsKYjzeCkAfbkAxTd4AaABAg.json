@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QLnb1TQsSrjha_rPE-gm2KvcFi0",
+  "id": "UgzsKYjzeCkAfbkAxTd4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G3K63FlrpYt4mVGMcxvhTh9atOo",
+      "id": "UgzsKYjzeCkAfbkAxTd4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "muit\u00edssimo obrigada pelas informa\u00e7\u00f5es",
+        "textOriginal": "muit\u00edssimo obrigada pelas informa\u00e7\u00f5es",
+        "authorDisplayName": "sanna costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4qgJ915D92ky8ZCbADiFUhFWo4Pq5M-UJpMEI_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO2fSznCo-eepJUEJBwF-Hw",
+        "authorChannelId": {
+          "value": "UCO2fSznCo-eepJUEJBwF-Hw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-07-29T20:47:50Z",
+        "updatedAt": "2021-07-29T20:47:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "772aB7ymh4zmQHshPZTM9C7N4Zk",
+      "id": "UgzsKYjzeCkAfbkAxTd4AaABAg.9QOhr6HuCxE9QOlQ9kmyye",
+      "snippet": {
+        "textDisplay": "Valeu \u263a\ufe0f\ud83d\udc4d",
+        "textOriginal": "Valeu \u263a\ufe0f\ud83d\udc4d",
+        "parentId": "UgzsKYjzeCkAfbkAxTd4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-29T21:18:58Z",
+        "updatedAt": "2021-07-29T21:18:58Z"
+      }
+    }
+  ]
+}

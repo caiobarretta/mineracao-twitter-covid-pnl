@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9e-cSLaydftQXUx_sn85uOd075M",
+  "id": "UgyC7EfTptkNeCEAbjh4AaABAg",
+  "snippet": {
+    "videoId": "EU4hE2PU2-k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oe3jcTtlhIf-elayqkXgwSDCmTM",
+      "id": "UgyC7EfTptkNeCEAbjh4AaABAg",
+      "snippet": {
+        "videoId": "EU4hE2PU2-k",
+        "textDisplay": "ja cheguei no l\u00e1iki",
+        "textOriginal": "ja cheguei no l\u00e1iki",
+        "authorDisplayName": "Terezinha De Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9RWx2ChW_2afVQtR96PEUICwq287ATQck_QMHKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8x1uHsWg1U8CutV_Fhdw8w",
+        "authorChannelId": {
+          "value": "UC8x1uHsWg1U8CutV_Fhdw8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-04T22:34:52Z",
+        "updatedAt": "2020-07-04T22:34:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Jlp4B3RxIaW46ihceX7-7QL8ghA",
+      "id": "UgyC7EfTptkNeCEAbjh4AaABAg.9Ahg4pJE_ZV9AyzYGW202n",
+      "snippet": {
+        "textDisplay": "HAHAHAHA Boa!",
+        "textOriginal": "HAHAHAHA Boa!",
+        "parentId": "UgyC7EfTptkNeCEAbjh4AaABAg",
+        "authorDisplayName": "Fisio Matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTu6nytZmvtVD_KHiZjAhURqNRW0MiGr1Gi38R4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBZ19PHnOZ-sv2Nz6okEQAw",
+        "authorChannelId": {
+          "value": "UCBZ19PHnOZ-sv2Nz6okEQAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-11T15:52:00Z",
+        "updatedAt": "2020-07-11T15:52:00Z"
+      }
+    }
+  ]
+}

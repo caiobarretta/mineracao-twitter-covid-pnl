@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "64sfkdJXZNp5mGluw0eLCuydPjk",
+  "id": "UgxBSK-_OZyPderl8DF4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PrHTBOiA22_oXtFLi8wPUgeGBv0",
+      "id": "UgxBSK-_OZyPderl8DF4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Aula boa demais!!!",
+        "textOriginal": "Aula boa demais!!!",
+        "authorDisplayName": "Talia Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwWGs7DJJtBHY_iw6rUSqfG-TrSaUmK_HMI5bX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC37uWVz92KnpfTZGezxJl-g",
+        "authorChannelId": {
+          "value": "UC37uWVz92KnpfTZGezxJl-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-17T07:07:28Z",
+        "updatedAt": "2022-03-17T07:07:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VBjXjcuVM_0nhy9ifV-RFVd_1mw",
+      "id": "UgxBSK-_OZyPderl8DF4AaABAg.9Zf2af4Tljy9ZfUwo2q5Mn",
+      "snippet": {
+        "textDisplay": "Muito obrigado Talia, n\u00e3o esque\u00e7a de inscrever-se no canal!",
+        "textOriginal": "Muito obrigado Talia, n\u00e3o esque\u00e7a de inscrever-se no canal!",
+        "parentId": "UgxBSK-_OZyPderl8DF4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-17T11:15:09Z",
+        "updatedAt": "2022-03-17T11:15:09Z"
+      }
+    }
+  ]
+}

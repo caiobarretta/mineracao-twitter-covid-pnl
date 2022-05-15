@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "12WPrXUUuaq_LCiv2Z5EVG4NKzY",
+  "id": "UgxK87KgN-cXp2LwpiV4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0NxqEAv18_bIHkBUgrwVOtMGr0M",
+      "id": "UgxK87KgN-cXp2LwpiV4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Thank you for compiling all this lovely data and then saying it. I live in Washington and this video was exactly what I needed.",
+        "textOriginal": "Thank you for compiling all this lovely data and then saying it. I live in Washington and this video was exactly what I needed.",
+        "authorDisplayName": "DaxIsAName",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWaGW-xykjQs4tQRrYGRrcTMkza5zsK-Zn1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKu4klnLztJGvCz8mcZA0-Q",
+        "authorChannelId": {
+          "value": "UCKu4klnLztJGvCz8mcZA0-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-05T20:24:04Z",
+        "updatedAt": "2020-03-05T20:24:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Q7RdXD6Mm0-4H_qBdNCVMHzD8W0",
+      "id": "UgxK87KgN-cXp2LwpiV4AaABAg.95psvpKAp0k95q66rxaacD",
+      "snippet": {
+        "textDisplay": "Thank you so much! \nBe safe!",
+        "textOriginal": "Thank you so much! \nBe safe!",
+        "parentId": "UgxK87KgN-cXp2LwpiV4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-05T22:28:02Z",
+        "updatedAt": "2020-03-05T22:28:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WBkR4pwR3VqNwRxLy8HOOZSBHdY",
+  "id": "Ugx0uztpRNb2W3Otqj14AaABAg",
+  "snippet": {
+    "videoId": "xRB0pao2eaQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_g7TuFXaGe2NpQ0HXNIvc4-cFJ8",
+      "id": "Ugx0uztpRNb2W3Otqj14AaABAg",
+      "snippet": {
+        "videoId": "xRB0pao2eaQ",
+        "textDisplay": "O que est\u00e1 acontecendo ?",
+        "textOriginal": "O que est\u00e1 acontecendo ?",
+        "authorDisplayName": "Deivison Ribeiro Pires",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGRfpbd0T_ZmW5QOsygiohJrR-AdZHhDhsAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsu_AQKZ0h9vKnwVKLeSTtA",
+        "authorChannelId": {
+          "value": "UCsu_AQKZ0h9vKnwVKLeSTtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T21:24:17Z",
+        "updatedAt": "2022-05-09T21:24:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WVO9lWlfyJ4SN8V7wByZysxvjfk",
+      "id": "Ugx0uztpRNb2W3Otqj14AaABAg.9ap2mZwgS-S9ap3-MsHEyg",
+      "snippet": {
+        "textDisplay": "Vacina",
+        "textOriginal": "Vacina",
+        "parentId": "Ugx0uztpRNb2W3Otqj14AaABAg",
+        "authorDisplayName": "Miran l",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iigFzN7rkWzausejMNASuaMHfAn8Z9own1K-SX_PqUpiY7A9GN8rxOhMbvsbF9kxD0CbM9kUb4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCICT3J0DWPQ1k8Tawmnf1Hw",
+        "authorChannelId": {
+          "value": "UCICT3J0DWPQ1k8Tawmnf1Hw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T21:26:10Z",
+        "updatedAt": "2022-05-09T21:26:10Z"
+      }
+    }
+  ]
+}

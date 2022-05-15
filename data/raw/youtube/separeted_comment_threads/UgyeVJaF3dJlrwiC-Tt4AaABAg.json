@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DX82GKtd1_xgKcRMkk6bbLpOO58",
+  "id": "UgyeVJaF3dJlrwiC-Tt4AaABAg",
+  "snippet": {
+    "videoId": "jjUzW75LAfc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nNO4cNG7MAP-tgcdvwZXjfSH_wE",
+      "id": "UgyeVJaF3dJlrwiC-Tt4AaABAg",
+      "snippet": {
+        "videoId": "jjUzW75LAfc",
+        "textDisplay": "Todo perfecto, estar\u00eda chido que comprar\u00e1s un micr\u00f3fono.",
+        "textOriginal": "Todo perfecto, estar\u00eda chido que comprar\u00e1s un micr\u00f3fono.",
+        "authorDisplayName": "Angel Carmona",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtEEQRLd_VTeYC3FbVNVqJHdYozLrrHh3hmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMIaDdFgusW10b76kPt5hog",
+        "authorChannelId": {
+          "value": "UCMIaDdFgusW10b76kPt5hog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-05-20T23:31:41Z",
+        "updatedAt": "2020-05-20T23:31:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5kG9_DpP0Va-LRsk4DPUJmdI2WM",
+      "id": "UgyeVJaF3dJlrwiC-Tt4AaABAg.98tuoVWUhYi98tuxqrquWk",
+      "snippet": {
+        "textDisplay": "Hola \u00c1ngel gracias por escribir\u2764\ufe0f ya estoy trabajando en esas mejoras para ofrecerles cada vez mejor calidad. Un abrazo",
+        "textOriginal": "Hola \u00c1ngel gracias por escribir\u2764\ufe0f ya estoy trabajando en esas mejoras para ofrecerles cada vez mejor calidad. Un abrazo",
+        "parentId": "UgyeVJaF3dJlrwiC-Tt4AaABAg",
+        "authorDisplayName": "Medicina Encapsulada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxAzCEs9BueCnIH1vdz02Qt5--R35dJ-lH2YMNuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1TisNYu-CsgSfIDbA2opGw",
+        "authorChannelId": {
+          "value": "UC1TisNYu-CsgSfIDbA2opGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-20T23:32:57Z",
+        "updatedAt": "2020-05-20T23:32:57Z"
+      }
+    }
+  ]
+}

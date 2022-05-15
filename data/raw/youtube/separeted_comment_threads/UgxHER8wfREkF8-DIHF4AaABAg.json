@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3ldF4eJ9XhIawo1R1FpDhV2HlE0",
+  "id": "UgxHER8wfREkF8-DIHF4AaABAg",
+  "snippet": {
+    "videoId": "B19aYHVDkfE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nGBkZNEqzYI2aEJkpDyKnzNIHzQ",
+      "id": "UgxHER8wfREkF8-DIHF4AaABAg",
+      "snippet": {
+        "videoId": "B19aYHVDkfE",
+        "textDisplay": "Mo\u00e7as j\u00e1 est\u00e3o sendo vacinadas ?",
+        "textOriginal": "Mo\u00e7as j\u00e1 est\u00e3o sendo vacinadas ?",
+        "authorDisplayName": "Renato Re",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiR4j3SU9aF5NE_3tTvLAnk9TUiBOs5tZILQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf58IWcr8dUbVKpMvYH6xpg",
+        "authorChannelId": {
+          "value": "UCf58IWcr8dUbVKpMvYH6xpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-29T12:30:46Z",
+        "updatedAt": "2021-04-29T12:30:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ExY4IfP9ikE5rH8Jg-HTjBnWEZQ",
+      "id": "UgxHER8wfREkF8-DIHF4AaABAg.9MiVcm5JzYs9Mj3ZyxdhjB",
+      "snippet": {
+        "textDisplay": "hahaha , sim, as de ciquenta e uns :)",
+        "textOriginal": "hahaha , sim, as de ciquenta e uns :)",
+        "parentId": "UgxHER8wfREkF8-DIHF4AaABAg",
+        "authorDisplayName": "Metr\u00f4 - Virginie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4dXtduiGpkrZ1RrLqpbcMBB2j_vg7ybrLz-dVOk4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIzNsY9dPR0xDsUDDc9hMUw",
+        "authorChannelId": {
+          "value": "UCIzNsY9dPR0xDsUDDc9hMUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-29T17:44:49Z",
+        "updatedAt": "2021-04-29T17:44:49Z"
+      }
+    }
+  ]
+}

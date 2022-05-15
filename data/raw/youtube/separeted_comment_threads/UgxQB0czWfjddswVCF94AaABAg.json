@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TVF48WpDhUMt_MoCwrcJtfLjB5o",
+  "id": "UgxQB0czWfjddswVCF94AaABAg",
+  "snippet": {
+    "videoId": "S6Cw4lmb_sw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "W0osZXNmiz7CwMzEWDf1x6UsKVs",
+      "id": "UgxQB0czWfjddswVCF94AaABAg",
+      "snippet": {
+        "videoId": "S6Cw4lmb_sw",
+        "textDisplay": "Parab\u00e9ns pelo v\u00eddeo \ud83d\udc4f \u00f3timo conte\u00fado",
+        "textOriginal": "Parab\u00e9ns pelo v\u00eddeo \ud83d\udc4f \u00f3timo conte\u00fado",
+        "authorDisplayName": "- Iris",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmUaZK9BJb5iAoP87SVa9WkT1yQz0kBOB60QkFjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTx2YU7MgKs1_04NDAF0Q3w",
+        "authorChannelId": {
+          "value": "UCTx2YU7MgKs1_04NDAF0Q3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-11T02:19:46Z",
+        "updatedAt": "2020-06-11T02:19:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RcK5lggMohXvP9tFx2BovIQoubA",
+      "id": "UgxQB0czWfjddswVCF94AaABAg.99kHk0cqcuU99kIbCJBnlI",
+      "snippet": {
+        "textDisplay": "Obrigado.",
+        "textOriginal": "Obrigado.",
+        "parentId": "UgxQB0czWfjddswVCF94AaABAg",
+        "authorDisplayName": "DEVini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsr535H2L7X_EzKzdMaXgd0SEdEPH8jUMruLmvTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJUUAoc8lTCD3io1TfkW53g",
+        "authorChannelId": {
+          "value": "UCJUUAoc8lTCD3io1TfkW53g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-11T02:27:18Z",
+        "updatedAt": "2020-06-11T02:27:18Z"
+      }
+    }
+  ]
+}

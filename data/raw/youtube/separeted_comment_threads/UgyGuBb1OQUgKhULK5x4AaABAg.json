@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LIjPMiWmXi16IR-o49iez_Y4elg",
+  "id": "UgyGuBb1OQUgKhULK5x4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xATU9Dmpy_fSuBy8COm0NkLRzIs",
+      "id": "UgyGuBb1OQUgKhULK5x4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Ameeii sua aula, muito obrigada professor foi muito explicativa",
+        "textOriginal": "Ameeii sua aula, muito obrigada professor foi muito explicativa",
+        "authorDisplayName": "ana nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-dqDFIIYcwP8IyGsfzYitteW2tFU7483-gpIapg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5bXPGxO3IifYhyQ-Vqk2xQ",
+        "authorChannelId": {
+          "value": "UC5bXPGxO3IifYhyQ-Vqk2xQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-16T16:07:25Z",
+        "updatedAt": "2022-03-16T16:07:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IyD07ChsRgE2sZtYxEUHYUkfhN0",
+      "id": "UgyGuBb1OQUgKhULK5x4AaABAg.9ZdRaTfm01z9ZdlngpxlC1",
+      "snippet": {
+        "textDisplay": "Eu que agrade\u00e7o o carinho! N\u00e3o se esque\u00e7a de inscrever-se no canal para n\u00e3o perder nenhum conte\u00fado!",
+        "textOriginal": "Eu que agrade\u00e7o o carinho! N\u00e3o se esque\u00e7a de inscrever-se no canal para n\u00e3o perder nenhum conte\u00fado!",
+        "parentId": "UgyGuBb1OQUgKhULK5x4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-16T19:12:43Z",
+        "updatedAt": "2022-03-16T19:12:43Z"
+      }
+    }
+  ]
+}

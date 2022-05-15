@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bS-W8C6gOu-a8hvlUuYM40_dXDo",
+  "id": "Ugww5DfOcWAOj4gJwQt4AaABAg",
+  "snippet": {
+    "videoId": "7R8YvOAPAkQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ObDHKKps0xC_xVHW2_5PvBZ8xaM",
+      "id": "Ugww5DfOcWAOj4gJwQt4AaABAg",
+      "snippet": {
+        "videoId": "7R8YvOAPAkQ",
+        "textDisplay": "Muito legal sua aula. Parab\u00e9ns",
+        "textOriginal": "Muito legal sua aula. Parab\u00e9ns",
+        "authorDisplayName": "Cantinho Hist\u00f3rias e Encantos Com Tia F\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyYPvU6GUnZd3Q285qVAJjIVpn9FCqgRW6h8ROHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG5ExWVf-2KYCiVo6y3CUSg",
+        "authorChannelId": {
+          "value": "UCG5ExWVf-2KYCiVo6y3CUSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-25T16:10:35Z",
+        "updatedAt": "2020-08-25T16:10:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_FL6qJDDW8lVI7axwluvu-OgQUc",
+      "id": "Ugww5DfOcWAOj4gJwQt4AaABAg.9CmtRgiaOvB9CndE5Zdehy",
+      "snippet": {
+        "textDisplay": "Obrigada \ud83d\udc95",
+        "textOriginal": "Obrigada \ud83d\udc95",
+        "parentId": "Ugww5DfOcWAOj4gJwQt4AaABAg",
+        "authorDisplayName": "Cantinho Alternativo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6P0uQtvy9oNOrnx9-onscJhWUrO_kwH75wD5otWW6CH26pCVUwGS3FlkAmhO-M4vBcR4Q-Ho4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYGnteHPmVj9W-C-ZG41U8A",
+        "authorChannelId": {
+          "value": "UCYGnteHPmVj9W-C-ZG41U8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-25T23:08:09Z",
+        "updatedAt": "2020-08-25T23:08:09Z"
+      }
+    }
+  ]
+}

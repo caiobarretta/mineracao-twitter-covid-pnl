@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "l7CCAXvun0UgBCipkKZ7-EjtQUQ",
+  "id": "Ugyd9lnW4D7epUvrbFR4AaABAg",
+  "snippet": {
+    "videoId": "f9rjqGmbHVo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SIvMw0lG67S9ukioCVuPSGfCuOA",
+      "id": "Ugyd9lnW4D7epUvrbFR4AaABAg",
+      "snippet": {
+        "videoId": "f9rjqGmbHVo",
+        "textDisplay": "Obrigado, Becker! N\u00e3o sabia que j\u00e1 h\u00e1 aplicativo falso... Pqp",
+        "textOriginal": "Obrigado, Becker! N\u00e3o sabia que j\u00e1 h\u00e1 aplicativo falso... Pqp",
+        "authorDisplayName": "Samuel Mello",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVZyVhGnSukSv5LGINp057QL-ryNVMB6g1OYwf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtKhaqj89tPmSv7WysJOPiA",
+        "authorChannelId": {
+          "value": "UCtKhaqj89tPmSv7WysJOPiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-17T20:44:48Z",
+        "updatedAt": "2020-03-17T20:44:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Dcw3H7SyYnTvH3FNMKDejRIhO9w",
+      "id": "Ugyd9lnW4D7epUvrbFR4AaABAg.96JoqEwRB2r96JzorvoCuL",
+      "snippet": {
+        "textDisplay": "n\u00e3o s\u00f3 apps, como muita fake news! Tem que ficar esperto.",
+        "textOriginal": "n\u00e3o s\u00f3 apps, como muita fake news! Tem que ficar esperto.",
+        "parentId": "Ugyd9lnW4D7epUvrbFR4AaABAg",
+        "authorDisplayName": "Be!Tech",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSeARhYxhxn962N8kxYyYjqTHoXnVs5NyDIWJwFFw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnnAzRbUm_6mSqyqAJSkc_A",
+        "authorChannelId": {
+          "value": "UCnnAzRbUm_6mSqyqAJSkc_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-17T22:20:44Z",
+        "updatedAt": "2020-03-17T22:20:44Z"
+      }
+    }
+  ]
+}

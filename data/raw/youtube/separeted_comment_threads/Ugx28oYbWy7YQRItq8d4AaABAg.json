@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CbzTVJ9OxvwMRCc6ag3k1VOpPu4",
+  "id": "Ugx28oYbWy7YQRItq8d4AaABAg",
+  "snippet": {
+    "videoId": "S6Cw4lmb_sw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uQGg0N1NFRvoZd_AJSI2z3SF7d0",
+      "id": "Ugx28oYbWy7YQRItq8d4AaABAg",
+      "snippet": {
+        "videoId": "S6Cw4lmb_sw",
+        "textDisplay": "Muito bom",
+        "textOriginal": "Muito bom",
+        "authorDisplayName": "JOS\u00c9 CARLOS Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTU2OVAssfUxmQsChOC7iMAwEm5-X5uSp8EBUWO78=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ1xsejFkGFTMEfoI5bEsng",
+        "authorChannelId": {
+          "value": "UCJ1xsejFkGFTMEfoI5bEsng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-11T02:40:11Z",
+        "updatedAt": "2020-06-11T02:40:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LlGyEURg0YwWYBEawstXDP_qDyQ",
+      "id": "Ugx28oYbWy7YQRItq8d4AaABAg.99kK4_jP6o399kKsB7rjVP",
+      "snippet": {
+        "textDisplay": "Tmj\ud83d\udc99",
+        "textOriginal": "Tmj\ud83d\udc99",
+        "parentId": "Ugx28oYbWy7YQRItq8d4AaABAg",
+        "authorDisplayName": "DEVini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsr535H2L7X_EzKzdMaXgd0SEdEPH8jUMruLmvTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJUUAoc8lTCD3io1TfkW53g",
+        "authorChannelId": {
+          "value": "UCJUUAoc8lTCD3io1TfkW53g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-11T02:47:06Z",
+        "updatedAt": "2020-06-11T02:47:06Z"
+      }
+    }
+  ]
+}

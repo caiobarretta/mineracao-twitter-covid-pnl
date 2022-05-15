@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Pwjd_fVrUKOJFVQbFAyLspYMDM4",
+  "id": "UgyIp66jFmuUMdikAa14AaABAg",
+  "snippet": {
+    "videoId": "STmL5dAOqDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fDk0rEWPwF4rlVfc20tfHECFqZk",
+      "id": "UgyIp66jFmuUMdikAa14AaABAg",
+      "snippet": {
+        "videoId": "STmL5dAOqDI",
+        "textDisplay": "bom",
+        "textOriginal": "bom",
+        "authorDisplayName": "edgar santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-oMn14heIg8jMX2UKOCDaNcAnXzasTx_Zag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNG0fpR5pp2zhsNcwenazxg",
+        "authorChannelId": {
+          "value": "UCNG0fpR5pp2zhsNcwenazxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-02T15:47:22Z",
+        "updatedAt": "2020-05-02T15:47:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_rNgaUru3_IgCtH2HOIh3cKy3vA",
+      "id": "UgyIp66jFmuUMdikAa14AaABAg.989jMygAIz598bFzIOtMpD",
+      "snippet": {
+        "textDisplay": "Agradecemos seus elogios, Edgar. :)",
+        "textOriginal": "Agradecemos seus elogios, Edgar. :)",
+        "parentId": "UgyIp66jFmuUMdikAa14AaABAg",
+        "authorDisplayName": "Unimed Fortaleza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2qeRcR_IR6LPCQp57eUSdZfK4pDiXJYd1SMTZuJTZKyEvnS32TQTyTX3BN09JdznRJBPTy9wnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUtDAMp91VCfHTZ9_ypKRPA",
+        "authorChannelId": {
+          "value": "UCUtDAMp91VCfHTZ9_ypKRPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-13T17:39:49Z",
+        "updatedAt": "2020-05-13T17:39:49Z"
+      }
+    }
+  ]
+}

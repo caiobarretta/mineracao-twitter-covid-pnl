@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DZamXdShsjXOzfM7Km8b7v8e6Fc",
+  "id": "UgyWc8sCu8uaBO3FhId4AaABAg",
+  "snippet": {
+    "videoId": "NIoLTC5VrqQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FiTlMzSfSllCoIk4SDafglI7leI",
+      "id": "UgyWc8sCu8uaBO3FhId4AaABAg",
+      "snippet": {
+        "videoId": "NIoLTC5VrqQ",
+        "textDisplay": "N\u00e3o sei quem \u00e9 mais \"descredibilizado\", a UOL ou esse cara da OMS.",
+        "textOriginal": "N\u00e3o sei quem \u00e9 mais \"descredibilizado\", a UOL ou esse cara da OMS.",
+        "authorDisplayName": "Rafa Rocha \ud83c\udde7\ud83c\uddf7",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/abVvwzFLRs0KPvdf2BOnhFEJKS6Opw-LmXngwq37KDDzPNcwishJ0xxoUTmS2JB0ebbgcDsQCE0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIteBIUZ9KCGxZlTsyGne8g",
+        "authorChannelId": {
+          "value": "UCIteBIUZ9KCGxZlTsyGne8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 35,
+        "publishedAt": "2022-01-19T19:06:04Z",
+        "updatedAt": "2022-01-19T19:06:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hLOY2DC-FWWhVoHHeUn_pxl31pc",
+      "id": "UgyWc8sCu8uaBO3FhId4AaABAg.9XOZX-xZw7V9Xd4a8SGkKe",
+      "snippet": {
+        "textDisplay": "Fica empatado",
+        "textOriginal": "Fica empatado",
+        "parentId": "UgyWc8sCu8uaBO3FhId4AaABAg",
+        "authorDisplayName": "Daniel Jos\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRs-iaaoWQ4nZ-O-OXYBnsynRUzgN9ffrm4FQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYTr3mhHUvaggNoTwGDL4cg",
+        "authorChannelId": {
+          "value": "UCYTr3mhHUvaggNoTwGDL4cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-25T19:43:36Z",
+        "updatedAt": "2022-01-25T19:43:36Z"
+      }
+    }
+  ]
+}

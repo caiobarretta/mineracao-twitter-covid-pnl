@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i0_7PW6x4UH7HDoS0Z_6cQdnF2I",
+  "id": "UgzzA4QheOC11NzMadt4AaABAg",
+  "snippet": {
+    "videoId": "JhmtMsV2coY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jw6dvZkwxJR93Jy92_OUwWh-cW0",
+      "id": "UgzzA4QheOC11NzMadt4AaABAg",
+      "snippet": {
+        "videoId": "JhmtMsV2coY",
+        "textDisplay": "Tem outra maneira mais f\u00e1cil kkkk",
+        "textOriginal": "Tem outra maneira mais f\u00e1cil kkkk",
+        "authorDisplayName": "Lybool official",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/pGL18CvlN5k3S4BYHZE7ceLuZdLDvMtgt9SuOCkeMAGqMm9UNgV_BR0HHc_Zh-PouyC9UMrETQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL1Qb6rwpkqdbPP2l2k6gIQ",
+        "authorChannelId": {
+          "value": "UCL1Qb6rwpkqdbPP2l2k6gIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-15T11:52:03Z",
+        "updatedAt": "2020-09-15T11:52:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "F-9q1784SgHNO6V-gcsVFy_PxjQ",
+      "id": "UgzzA4QheOC11NzMadt4AaABAg.9DcVYUyH5CS9Ky3EVw7nvK",
+      "snippet": {
+        "textDisplay": "o meu tbm n\u00e3o aparece",
+        "textOriginal": "o meu tbm n\u00e3o aparece",
+        "parentId": "UgzzA4QheOC11NzMadt4AaABAg",
+        "authorDisplayName": "Monica Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTi5L8_T8m-KiQoYn5xcQ5OkKcmRnKyAmDePEC5tfs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRekVT05Q7WDjoIGN_cDQqg",
+        "authorChannelId": {
+          "value": "UCRekVT05Q7WDjoIGN_cDQqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-16T20:27:42Z",
+        "updatedAt": "2021-03-16T20:27:42Z"
+      }
+    }
+  ]
+}

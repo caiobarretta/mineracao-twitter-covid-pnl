@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yXihwF2z3C0guRRqAO-pdoYfhow",
+  "id": "UgzRBtpLuAOZEfn9MfF4AaABAg",
+  "snippet": {
+    "videoId": "JJGxx8s3W9c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aEmDa_ahjlGCH_T7QFXRlIMtbmo",
+      "id": "UgzRBtpLuAOZEfn9MfF4AaABAg",
+      "snippet": {
+        "videoId": "JJGxx8s3W9c",
+        "textDisplay": "Parab\u00e9ns dr Cassol \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "Parab\u00e9ns dr Cassol \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "authorDisplayName": "William Scheffer Chaves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxBv0QU0Ar6yzopMfp4J5Spv1wABv44Vup0YEw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRdJ5z5moQ9EojTLPLPSX1Q",
+        "authorChannelId": {
+          "value": "UCRdJ5z5moQ9EojTLPLPSX1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-06T00:36:09Z",
+        "updatedAt": "2021-08-06T00:36:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ON1_pglUjwgc7yeIrXpTqt4MB8U",
+      "id": "UgzRBtpLuAOZEfn9MfF4AaABAg.9Qg8YS3H1cH9Qg8_cd9LDs",
+      "snippet": {
+        "textDisplay": "Obrigado",
+        "textOriginal": "Obrigado",
+        "parentId": "UgzRBtpLuAOZEfn9MfF4AaABAg",
+        "authorDisplayName": "Renato Cassol - M\u00e9dico Infectologista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrcZVWOum_Cvnec_hNWTNeD5QGo4T46j0M0bEo1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxM5rESbIueKgZv9zqTquw",
+        "authorChannelId": {
+          "value": "UCOxM5rESbIueKgZv9zqTquw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-06T00:36:27Z",
+        "updatedAt": "2021-08-06T00:36:27Z"
+      }
+    }
+  ]
+}

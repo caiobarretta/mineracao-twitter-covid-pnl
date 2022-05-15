@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AFElSSndp69iqVZq08ycsWTfbL8",
+  "id": "UgjU4ngxjx2tbngCoAEC",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qgkul_OwnWFv_hOaXdkUTlrPTu0",
+      "id": "UgjU4ngxjx2tbngCoAEC",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Sir i have downloaded the corona sdk , and now where to write my code ? please help me as soon as possible , and i'm a windows 10 user",
+        "textOriginal": "Sir i have downloaded the corona sdk , and now where to write my code ? please help me as soon as possible , and i'm a windows 10 user",
+        "authorDisplayName": "Allerick Sha Sunil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSx5XCHq1Xo-RsSKgQkgC-KoyPnbccNmjUvM1OABA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRx1Up_OJBgrfM4RiZd1TQQ",
+        "authorChannelId": {
+          "value": "UCRx1Up_OJBgrfM4RiZd1TQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-05-12T04:56:17Z",
+        "updatedAt": "2017-05-12T04:56:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CySwQWYLxw9vofLureGqt7_J3VE",
+      "id": "UgjU4ngxjx2tbngCoAEC.8SSC_50Xvyy8STDyIIH4HL",
+      "snippet": {
+        "textDisplay": "Allerick Sha yes, it is compatible with Windows 10.",
+        "textOriginal": "Allerick Sha yes, it is compatible with Windows 10.",
+        "parentId": "UgjU4ngxjx2tbngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2017-05-12T14:27:42Z",
+        "updatedAt": "2017-05-12T14:27:42Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "x_q5pHkfuzp1AUHc1dYKGtGwbM0",
+      "id": "UgjU4ngxjx2tbngCoAEC.8SSC_50Xvyy8SSKFqqIFMh",
+      "snippet": {
+        "textDisplay": "sir but that is compactable with windows 10",
+        "textOriginal": "sir but that is compactable with windows 10",
+        "parentId": "UgjU4ngxjx2tbngCoAEC",
+        "authorDisplayName": "Allerick Sha Sunil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSx5XCHq1Xo-RsSKgQkgC-KoyPnbccNmjUvM1OABA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRx1Up_OJBgrfM4RiZd1TQQ",
+        "authorChannelId": {
+          "value": "UCRx1Up_OJBgrfM4RiZd1TQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-05-12T06:03:25Z",
+        "updatedAt": "2017-05-12T06:03:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "LeR94UPFH-5GQSdkpsnZ9Rd4tbU",
+      "id": "UgjU4ngxjx2tbngCoAEC.8SSC_50Xvyy8SSK5UdNpOz",
+      "snippet": {
+        "textDisplay": "I use Sublime text editor 3 with the Corona editor plugin. Full directions on how to set it up are on the Corona labs website.",
+        "textOriginal": "I use Sublime text editor 3 with the Corona editor plugin. Full directions on how to set it up are on the Corona labs website.",
+        "parentId": "UgjU4ngxjx2tbngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2017-05-12T06:02:00Z",
+        "updatedAt": "2017-05-12T06:02:00Z"
+      }
+    }
+  ]
+}

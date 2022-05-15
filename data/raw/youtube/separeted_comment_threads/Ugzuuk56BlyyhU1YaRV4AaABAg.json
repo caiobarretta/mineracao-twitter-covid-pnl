@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C4YkgB2gkyxAgl0N7cf5oxRxRYA",
+  "id": "Ugzuuk56BlyyhU1YaRV4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q1wLvNiaQeiKRNkDl_CpbxChMxk",
+      "id": "Ugzuuk56BlyyhU1YaRV4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "No se entiede",
+        "textOriginal": "No se entiede",
+        "authorDisplayName": "Juan D. Cortorreal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTR0fYaV8w2RC5Kot6CXZY7uapbccaQEHXxp1E8jNc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5aRoVk0hURCyblgdLLJ1bw",
+        "authorChannelId": {
+          "value": "UC5aRoVk0hURCyblgdLLJ1bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-25T01:22:41Z",
+        "updatedAt": "2020-04-25T01:22:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tg7Y4iFkXIQ8OwiIn2HP2K6mCEE",
+      "id": "Ugzuuk56BlyyhU1YaRV4AaABAg.97r9qmJ5fX_97y3VaGzedF",
+      "snippet": {
+        "textDisplay": "Hola, hice otro v\u00eddeo sobre el SARS-CoV-2 que puede que entiendas mejor. Te dejo el link: https://youtu.be/6vmRt8OeQz0\nEspero que te ayude! \nUn saludo.",
+        "textOriginal": "Hola, hice otro v\u00eddeo sobre el SARS-CoV-2 que puede que entiendas mejor. Te dejo el link: https://youtu.be/6vmRt8OeQz0\nEspero que te ayude! \nUn saludo.",
+        "parentId": "Ugzuuk56BlyyhU1YaRV4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-27T17:41:54Z",
+        "updatedAt": "2020-04-27T17:41:54Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7Bf1fPiVeA3ZHQVCBPE5AVxLv4A",
+  "id": "Ugwos6cMcj7l4LuJWyN4AaABAg",
+  "snippet": {
+    "videoId": "aV1sPBFN2xk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Wy8clnFxDIVJwrfXJiZJEUjMHD0",
+      "id": "Ugwos6cMcj7l4LuJWyN4AaABAg",
+      "snippet": {
+        "videoId": "aV1sPBFN2xk",
+        "textDisplay": "Evento muito enriquecedor, a organiza\u00e7\u00e3o est\u00e1 de parab\u00e9ns, assim como todos palestrantes. Parab\u00e9ns aos envolvidos!!",
+        "textOriginal": "Evento muito enriquecedor, a organiza\u00e7\u00e3o est\u00e1 de parab\u00e9ns, assim como todos palestrantes. Parab\u00e9ns aos envolvidos!!",
+        "authorDisplayName": "Carolina Borges",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSo29cEPqiQcVFKryB6gAcKtBYYhqFVWa2NB6w6XQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHdurEZlUVVp8W9h6CGHKyg",
+        "authorChannelId": {
+          "value": "UCHdurEZlUVVp8W9h6CGHKyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-23T00:13:41Z",
+        "updatedAt": "2020-08-23T00:13:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fQSuOA1C-hKAuJW3RZdpbRpntCo",
+      "id": "Ugwos6cMcj7l4LuJWyN4AaABAg.9Cg1LLHKnn39CkcIleNrFs",
+      "snippet": {
+        "textDisplay": "Agradecemos imensamente pelo reconhecimento",
+        "textOriginal": "Agradecemos imensamente pelo reconhecimento",
+        "parentId": "Ugwos6cMcj7l4LuJWyN4AaABAg",
+        "authorDisplayName": "G\u00eameos da Biomedicina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1Nb1hyWnNveZdg68M3khPTelikT7uo1jAAtQy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-TlFt_ALPSriyzNd9b2wSQ",
+        "authorChannelId": {
+          "value": "UC-TlFt_ALPSriyzNd9b2wSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-24T19:02:20Z",
+        "updatedAt": "2020-08-24T19:02:20Z"
+      }
+    }
+  ]
+}

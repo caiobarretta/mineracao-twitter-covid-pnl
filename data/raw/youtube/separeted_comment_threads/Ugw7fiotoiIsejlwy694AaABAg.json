@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "08-7vn-8lyY3gi1P9fjOFfmTW4E",
+  "id": "Ugw7fiotoiIsejlwy694AaABAg",
+  "snippet": {
+    "videoId": "EU4hE2PU2-k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fG3Utz2s3iJT3FY00fIZTTySlng",
+      "id": "Ugw7fiotoiIsejlwy694AaABAg",
+      "snippet": {
+        "videoId": "EU4hE2PU2-k",
+        "textDisplay": "Amei esse v\u00eddeo,  vai me ajudar no meu curso",
+        "textOriginal": "Amei esse v\u00eddeo,  vai me ajudar no meu curso",
+        "authorDisplayName": "Sueli Denuce",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_rJRr3ekykzHkGerJDhnJqNBivZYEgwHjbLLg3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBGqVniRNF9eV4oW1dFNTgg",
+        "authorChannelId": {
+          "value": "UCBGqVniRNF9eV4oW1dFNTgg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-04T00:50:07Z",
+        "updatedAt": "2021-04-04T00:50:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EUTL_gIzEYUN6TqlnHqPpg17eZM",
+      "id": "Ugw7fiotoiIsejlwy694AaABAg.9Lgs_IZaWgZ9Ncake-9_ZB",
+      "snippet": {
+        "textDisplay": "Depois que for aprovada volta aqui para contar pra gente.",
+        "textOriginal": "Depois que for aprovada volta aqui para contar pra gente.",
+        "parentId": "Ugw7fiotoiIsejlwy694AaABAg",
+        "authorDisplayName": "Fisio Matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTu6nytZmvtVD_KHiZjAhURqNRW0MiGr1Gi38R4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBZ19PHnOZ-sv2Nz6okEQAw",
+        "authorChannelId": {
+          "value": "UCBZ19PHnOZ-sv2Nz6okEQAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-22T02:00:13Z",
+        "updatedAt": "2021-05-22T02:00:13Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3uwIMFeoWt7xKphM0V1uIknqLMc",
+  "id": "UgzpBjy7izk-IL-vRyd4AaABAg",
+  "snippet": {
+    "videoId": "STmL5dAOqDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hjxfwtCaRDlFPeScDy5jUUmx9OY",
+      "id": "UgzpBjy7izk-IL-vRyd4AaABAg",
+      "snippet": {
+        "videoId": "STmL5dAOqDI",
+        "textDisplay": "alguem com medo de ter pego? :(",
+        "textOriginal": "alguem com medo de ter pego? :(",
+        "authorDisplayName": "Monick Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL9qAn8demy626hdol8G4EGFvbxGjtcT6JusLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYt6W3hx81IMPofxTM9FYoA",
+        "authorChannelId": {
+          "value": "UCYt6W3hx81IMPofxTM9FYoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-06-15T15:06:09Z",
+        "updatedAt": "2020-06-15T15:06:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2t7z3DbLZmESwM5uisOKji3ZgKE",
+      "id": "UgzpBjy7izk-IL-vRyd4AaABAg.99vxcdFgQSj9FNIhdeqMuR",
+      "snippet": {
+        "textDisplay": "Eu tenho altera\u00e7\u00e3o no olfato mas espero que n\u00e3o seja nada",
+        "textOriginal": "Eu tenho altera\u00e7\u00e3o no olfato mas espero que n\u00e3o seja nada",
+        "parentId": "UgzpBjy7izk-IL-vRyd4AaABAg",
+        "authorDisplayName": "TRYWE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1_eo9TpXSyFr4JEnedzDEZyXLZxtfHBcfix-V=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCantLqqEHHK-Vvby4q_UHZQ",
+        "authorChannelId": {
+          "value": "UCantLqqEHHK-Vvby4q_UHZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-28T21:54:46Z",
+        "updatedAt": "2020-10-28T21:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "XhGox6DtWNFwsQPtfoiREJe4i_s",
+      "id": "UgzpBjy7izk-IL-vRyd4AaABAg.99vxcdFgQSj9AEOD1o2Tr6",
+      "snippet": {
+        "textDisplay": "Eu",
+        "textOriginal": "Eu",
+        "parentId": "UgzpBjy7izk-IL-vRyd4AaABAg",
+        "authorDisplayName": "sei la",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRoEBxepXGS-qezXQzxBtAujUWLPxeVgQoO4THE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgRoaMWuZU0qwetFKFLitkA",
+        "authorChannelId": {
+          "value": "UCgRoaMWuZU0qwetFKFLitkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-23T04:12:45Z",
+        "updatedAt": "2020-06-23T04:12:45Z"
+      }
+    }
+  ]
+}

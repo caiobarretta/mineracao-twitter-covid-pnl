@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aOolG35ltX9qTZpVQciHN-0YuX4",
+  "id": "Ugy0BUAcy_RVGwGJ4r94AaABAg",
+  "snippet": {
+    "videoId": "NtxWkHZVPDU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4sOS0LX2sayYPhe_QUqkE_neiFg",
+      "id": "Ugy0BUAcy_RVGwGJ4r94AaABAg",
+      "snippet": {
+        "videoId": "NtxWkHZVPDU",
+        "textDisplay": "Voc\u00ea loga com seu e-mail do google. Acho que tem muita gente que n\u00e3o est\u00e1 participando porque n\u00e3o sabem como se cadastrar!",
+        "textOriginal": "Voc\u00ea loga com seu e-mail do google. Acho que tem muita gente que n\u00e3o est\u00e1 participando porque n\u00e3o sabem como se cadastrar!",
+        "authorDisplayName": "Cl\u00e1udio Barreto de Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhhtM5NRzhYuQFwp6CxbpCRJ4nzCJTqrbTU2JX8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2ljTVs_lATtTRIJOx_SgUw",
+        "authorChannelId": {
+          "value": "UC2ljTVs_lATtTRIJOx_SgUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-12T15:17:12Z",
+        "updatedAt": "2022-05-12T15:17:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pB94FAyaYUCrUOP1sa2y3Lg_gvQ",
+      "id": "Ugy0BUAcy_RVGwGJ4r94AaABAg.9aw79WwoCN59aw8BTGhVZO",
+      "snippet": {
+        "textDisplay": "Sim tem que fazer login!",
+        "textOriginal": "Sim tem que fazer login!",
+        "parentId": "Ugy0BUAcy_RVGwGJ4r94AaABAg",
+        "authorDisplayName": "T\u00e9cnico de enfermagem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/aIzIO-yROGivmS4v4RqPw_8DH7lZ4bY3tOWDMaK2NU9fRaLoyA4e_IMmOJCqnMErgc-GeGVK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDtZhkY1S1TcII6H_w3-DVQ",
+        "authorChannelId": {
+          "value": "UCDtZhkY1S1TcII6H_w3-DVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T15:26:12Z",
+        "updatedAt": "2022-05-12T15:26:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H43VIdUsyzAdp6rEE-SZIBkmuhw",
+  "id": "Ugw-X1OeJW1snmfinj94AaABAg",
+  "snippet": {
+    "videoId": "mNi2FcBiGAI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "c1YbqB1gSvETzxkzmKxdCtoL6hQ",
+      "id": "Ugw-X1OeJW1snmfinj94AaABAg",
+      "snippet": {
+        "videoId": "mNi2FcBiGAI",
+        "textDisplay": "Oremos pela covid\u2026.",
+        "textOriginal": "Oremos pela covid\u2026.",
+        "authorDisplayName": "Arthur Dietzold",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTPIRqwIOSuc7RktZyHcDGNXOiPbIMo_eLmjzqajbk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFPpz2_VXiYZ2MxtpgFeDog",
+        "authorChannelId": {
+          "value": "UCFPpz2_VXiYZ2MxtpgFeDog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-09T18:36:19Z",
+        "updatedAt": "2022-05-09T18:36:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J9sDXxuABQdod7Huhb65vPDip90",
+      "id": "Ugw-X1OeJW1snmfinj94AaABAg.9aokZI3Q8l69aom-lDNyze",
+      "snippet": {
+        "textDisplay": "Gostei...",
+        "textOriginal": "Gostei...",
+        "parentId": "Ugw-X1OeJW1snmfinj94AaABAg",
+        "authorDisplayName": "Joaquim da Barra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/CG6Qho0Stjy3TFbjdeFdi0xjCQVHK0smnTg7Hej_CBzvOMkYLAa_Qq6C8DcGbHrPDylrpO4Glt0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChh-R4-UyLT6VdlzQyk0opQ",
+        "authorChannelId": {
+          "value": "UChh-R4-UyLT6VdlzQyk0opQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T18:48:56Z",
+        "updatedAt": "2022-05-09T18:48:56Z"
+      }
+    }
+  ]
+}

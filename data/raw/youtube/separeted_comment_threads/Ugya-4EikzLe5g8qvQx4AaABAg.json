@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "20KNyd7f3o1MMw0VlQSxaFhtj6M",
+  "id": "Ugya-4EikzLe5g8qvQx4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MqsX8kFEBtRHLvkgX6I7erGNkhI",
+      "id": "Ugya-4EikzLe5g8qvQx4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Thank you for informing the peoples with facts and not trying to fear monger",
+        "textOriginal": "Thank you for informing the peoples with facts and not trying to fear monger",
+        "authorDisplayName": "Nicole Zhang",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5gvEZ80sbQkSonQCf1uSxPQ-Y-JwBvId1rjV7bg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpCOYG_J_NFR1TjnamU_wdQ",
+        "authorChannelId": {
+          "value": "UCpCOYG_J_NFR1TjnamU_wdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 23,
+        "publishedAt": "2020-03-08T21:39:07Z",
+        "updatedAt": "2020-03-08T21:39:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ke52eTdgFwavYBU-cAwOD_sMalg",
+      "id": "Ugya-4EikzLe5g8qvQx4AaABAg.95xju8D5Ur-95xtiTI5JXx",
+      "snippet": {
+        "textDisplay": "My pleasure \ud83d\ude07 \nThank you so much for watching!",
+        "textOriginal": "My pleasure \ud83d\ude07 \nThank you so much for watching!",
+        "parentId": "Ugya-4EikzLe5g8qvQx4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-08T23:04:54Z",
+        "updatedAt": "2020-03-08T23:04:54Z"
+      }
+    }
+  ]
+}

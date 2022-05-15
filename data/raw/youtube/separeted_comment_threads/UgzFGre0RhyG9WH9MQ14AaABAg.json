@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CchnkC96NVi4a7rcTexgjEXvJj4",
+  "id": "UgzFGre0RhyG9WH9MQ14AaABAg",
+  "snippet": {
+    "videoId": "uZjmMlPCNJw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tefk7Zm_VuWxriJKVlOEUydLFjk",
+      "id": "UgzFGre0RhyG9WH9MQ14AaABAg",
+      "snippet": {
+        "videoId": "uZjmMlPCNJw",
+        "textDisplay": "Uma reportagem decente do UOL? Parab\u00e9ns!",
+        "textOriginal": "Uma reportagem decente do UOL? Parab\u00e9ns!",
+        "authorDisplayName": "Yuri Rabelo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMjfKyX7jjWOtgaNgVcgK-31hUB2NxH10qnkO4Sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiNrQX3NgBzi1Z9d2lSinwQ",
+        "authorChannelId": {
+          "value": "UCiNrQX3NgBzi1Z9d2lSinwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-10T16:08:51Z",
+        "updatedAt": "2022-05-10T16:08:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qnqzeS-JrrFFZcWW6bz2uNfK39M",
+      "id": "UgzFGre0RhyG9WH9MQ14AaABAg.9ar3U7doAEB9axbJq3LsjY",
+      "snippet": {
+        "textDisplay": "Da AFP, amigo",
+        "textOriginal": "Da AFP, amigo",
+        "parentId": "UgzFGre0RhyG9WH9MQ14AaABAg",
+        "authorDisplayName": "Sr_Yuu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQW-WvOxG7HbURgGDHbUFbxh8jvgN1VyeJP28oR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ6_7a39g9u8pWj2549ucOg",
+        "authorChannelId": {
+          "value": "UCZ6_7a39g9u8pWj2549ucOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-13T05:08:43Z",
+        "updatedAt": "2022-05-13T05:08:43Z"
+      }
+    }
+  ]
+}

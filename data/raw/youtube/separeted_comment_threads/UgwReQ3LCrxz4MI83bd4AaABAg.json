@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rWPbikUYVPu1dUPiGSDtPtRmBCA",
+  "id": "UgwReQ3LCrxz4MI83bd4AaABAg",
+  "snippet": {
+    "videoId": "JhmtMsV2coY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zCoZgrcemczEOttDTkx_d7Y8Z8I",
+      "id": "UgwReQ3LCrxz4MI83bd4AaABAg",
+      "snippet": {
+        "videoId": "JhmtMsV2coY",
+        "textDisplay": "No meu n\u00e3o aparece esse tal de minha sa\u00fade",
+        "textOriginal": "No meu n\u00e3o aparece esse tal de minha sa\u00fade",
+        "authorDisplayName": "mts_de_jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AVdn-snydvSERvHnVjV0R4DSTQzzeHa3AaKOohbN7CZg6mNN7H3bW6xGa5AL2-WGGEJivWnzkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_HFpGaUVN5t9LtiD3oj7KQ",
+        "authorChannelId": {
+          "value": "UC_HFpGaUVN5t9LtiD3oj7KQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-28T18:55:09Z",
+        "updatedAt": "2020-08-28T18:55:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hnZmISVKeiIvYthNSj2-t8WRjto",
+      "id": "UgwReQ3LCrxz4MI83bd4AaABAg.9Cuueahnxon9DLMyuOfe-A",
+      "snippet": {
+        "textDisplay": "S\u00f3 clicar no \u00edcone laranja no site ou aplicativo que o cart\u00e3o j\u00e1 aparece.",
+        "textOriginal": "S\u00f3 clicar no \u00edcone laranja no site ou aplicativo que o cart\u00e3o j\u00e1 aparece.",
+        "parentId": "UgwReQ3LCrxz4MI83bd4AaABAg",
+        "authorDisplayName": "Marcos Vinicius",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3b19aejCoI8qKSqjVRKQuUCLYRbxu7yrh0TeYS2k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYpURXbkH73nRRtG5TeydAg",
+        "authorChannelId": {
+          "value": "UCYpURXbkH73nRRtG5TeydAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-09-08T10:50:49Z",
+        "updatedAt": "2020-09-08T10:50:49Z"
+      }
+    }
+  ]
+}

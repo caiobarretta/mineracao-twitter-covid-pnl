@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LC0nJCxiA967Tx2eb2NVWaq6WMo",
+  "id": "UgzSPfB9pZQ21ZkX7JF4AaABAg",
+  "snippet": {
+    "videoId": "I2tg8lqB8WA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1DZxMqdWw1c-c4EZSzPgpDix7eg",
+      "id": "UgzSPfB9pZQ21ZkX7JF4AaABAg",
+      "snippet": {
+        "videoId": "I2tg8lqB8WA",
+        "textDisplay": "Gente \u2026 mas num vacinou ? A vacina num resolve ?",
+        "textOriginal": "Gente \u2026 mas num vacinou ? A vacina num resolve ?",
+        "authorDisplayName": "Nilo Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlDdLP3dNqCXLFI-_QxMXxoEa6JJoUw7QEhZ9YSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCianpKK7VXyTZY-zsT5cTuQ",
+        "authorChannelId": {
+          "value": "UCianpKK7VXyTZY-zsT5cTuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2022-01-09T04:34:53Z",
+        "updatedAt": "2022-01-09T04:34:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ec86v-YL9ZArToC_G94cVIZJf-Y",
+      "id": "UgzSPfB9pZQ21ZkX7JF4AaABAg.9WyFsSuveVQ9WzlIQnDVh-",
+      "snippet": {
+        "textDisplay": "@Celso Zamarchi Cenci diz que \u00e9",
+        "textOriginal": "@Celso Zamarchi Cenci diz que \u00e9",
+        "parentId": "UgzSPfB9pZQ21ZkX7JF4AaABAg",
+        "authorDisplayName": "Nilo Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlDdLP3dNqCXLFI-_QxMXxoEa6JJoUw7QEhZ9YSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCianpKK7VXyTZY-zsT5cTuQ",
+        "authorChannelId": {
+          "value": "UCianpKK7VXyTZY-zsT5cTuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T18:37:25Z",
+        "updatedAt": "2022-01-09T18:37:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "wf1Fc9TVad_vwcxscVIx-ydf21E",
+      "id": "UgzSPfB9pZQ21ZkX7JF4AaABAg.9WyFsSuveVQ9WzIEOxruZa",
+      "snippet": {
+        "textDisplay": "Coronavac n\u00e9.",
+        "textOriginal": "Coronavac n\u00e9.",
+        "parentId": "UgzSPfB9pZQ21ZkX7JF4AaABAg",
+        "authorDisplayName": "Celso Zamarchi Cenci",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTASWFz9DidF88DXonkK46pAGJJI3Dt3mmM_3yO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr3o0MizGT1PoQfNTZwv1ow",
+        "authorChannelId": {
+          "value": "UCr3o0MizGT1PoQfNTZwv1ow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-09T14:14:44Z",
+        "updatedAt": "2022-01-09T14:14:44Z"
+      }
+    }
+  ]
+}

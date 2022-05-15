@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eJchCT_z3Cs_XLAE4HBI5cCDWTI",
+  "id": "UgyFZtjyfq_IzOfVR9x4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lhgSGeWn9zfdSR-7yc69Y5CYBVQ",
+      "id": "UgyFZtjyfq_IzOfVR9x4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Tengo mucho miedo\ud83d\ude30a aste virus:(",
+        "textOriginal": "Tengo mucho miedo\ud83d\ude30a aste virus:(",
+        "authorDisplayName": "Ana Maria Arista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiiRkb5sj7925JI4Kkn65Tzrn69jum-4O8xQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeYLuMO62uV5vvrDrjlBr5g",
+        "authorChannelId": {
+          "value": "UCeYLuMO62uV5vvrDrjlBr5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-02-05T21:39:36Z",
+        "updatedAt": "2020-02-05T21:39:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mjFTKkeoo6KODdxU6beLEaRO_Xs",
+      "id": "UgyFZtjyfq_IzOfVR9x4AaABAg.94fLWjSo24j96iMJH-k9DZ",
+      "snippet": {
+        "textDisplay": "@QuieroSerM\u00e9dico Bien, pero es reemergente",
+        "textOriginal": "@QuieroSerM\u00e9dico Bien, pero es reemergente",
+        "parentId": "UgyFZtjyfq_IzOfVR9x4AaABAg",
+        "authorDisplayName": "0pCy0",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lFNkutq7AzE5yWd7-QC5N4yCMGMisikL1jMpMJlY1XsoK_o4-ZTfnVYHlr27XC67Dgve-DjvnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZKUbhp9yU8dZ_GX1knI4yg",
+        "authorChannelId": {
+          "value": "UCZKUbhp9yU8dZ_GX1knI4yg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-27T18:47:00Z",
+        "updatedAt": "2020-03-27T18:47:00Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "3iIIme5Dl4moYn0aJfZvlVi0CyA",
+      "id": "UgyFZtjyfq_IzOfVR9x4AaABAg.94fLWjSo24j94fTEXAhPSR",
+      "snippet": {
+        "textDisplay": "Hola Ana Mar\u00eda. Todos estamos preocupados, al fin y al cabo es un nuevo virus que hasta ahora desconocemos. Sin embargo, ya se est\u00e1 trabajando en una vacuna y se est\u00e1n probando f\u00e1rmacos antivirales que pueden ser prometedores, por lo que tenemos que hacer el esfuerzo de pensar en positivo.\ud83d\udcaa\nEsperamos que te haya servido de ayuda. Un saludo. \u263a\ufe0f",
+        "textOriginal": "Hola Ana Mar\u00eda. Todos estamos preocupados, al fin y al cabo es un nuevo virus que hasta ahora desconocemos. Sin embargo, ya se est\u00e1 trabajando en una vacuna y se est\u00e1n probando f\u00e1rmacos antivirales que pueden ser prometedores, por lo que tenemos que hacer el esfuerzo de pensar en positivo.\ud83d\udcaa\nEsperamos que te haya servido de ayuda. Un saludo. \u263a\ufe0f",
+        "parentId": "UgyFZtjyfq_IzOfVR9x4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-05T22:47:01Z",
+        "updatedAt": "2020-02-05T22:47:01Z"
+      }
+    }
+  ]
+}

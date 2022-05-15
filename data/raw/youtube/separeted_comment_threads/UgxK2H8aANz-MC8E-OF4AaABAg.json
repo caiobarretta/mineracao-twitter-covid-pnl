@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Phz40S29VXjlWoT2AQCPjGOSBIU",
+  "id": "UgxK2H8aANz-MC8E-OF4AaABAg",
+  "snippet": {
+    "videoId": "Z6shRp6xSYw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cPKNcRlE7u_Xzz5yicQ7fq1Vlnk",
+      "id": "UgxK2H8aANz-MC8E-OF4AaABAg",
+      "snippet": {
+        "videoId": "Z6shRp6xSYw",
+        "textDisplay": "Assisti mil videos, mas s\u00f3 consegui aqui, Valeu Teteu!",
+        "textOriginal": "Assisti mil videos, mas s\u00f3 consegui aqui, Valeu Teteu!",
+        "authorDisplayName": "Cilmara Galdino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCuJzin-Ko5fDEWXNxQa8c1k5NkxnPErRlkuCxN4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj4TMOpYQzNxwf190SVda4g",
+        "authorChannelId": {
+          "value": "UCj4TMOpYQzNxwf190SVda4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-09-14T15:17:55Z",
+        "updatedAt": "2020-09-14T15:17:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NU-L3UmuO-YFx1AE44p4wBwM52w",
+      "id": "UgxK2H8aANz-MC8E-OF4AaABAg.9DaIJRIOfCa9Dca29vrMBW",
+      "snippet": {
+        "textDisplay": "N\u00f3s que agradecemos seu retorno, obrigado !",
+        "textOriginal": "N\u00f3s que agradecemos seu retorno, obrigado !",
+        "parentId": "UgxK2H8aANz-MC8E-OF4AaABAg",
+        "authorDisplayName": "Atualizo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzK6YZumq52abqCLq-a_DUsqfvH4CqZNdmnFyB=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCacxBQlwONTXwVUAeWnxluA",
+        "authorChannelId": {
+          "value": "UCacxBQlwONTXwVUAeWnxluA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-15T12:40:04Z",
+        "updatedAt": "2020-09-15T12:40:04Z"
+      }
+    }
+  ]
+}

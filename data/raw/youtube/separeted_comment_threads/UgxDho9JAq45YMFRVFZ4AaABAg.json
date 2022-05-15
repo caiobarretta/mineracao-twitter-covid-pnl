@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lJVzgEkvX0J-OcboyVoYIGkXhzI",
+  "id": "UgxDho9JAq45YMFRVFZ4AaABAg",
+  "snippet": {
+    "videoId": "7R8YvOAPAkQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cJ8cpBl8FMHGDXZ48LgW-6pziwE",
+      "id": "UgxDho9JAq45YMFRVFZ4AaABAg",
+      "snippet": {
+        "videoId": "7R8YvOAPAkQ",
+        "textDisplay": "Amei a aula! Voc\u00ea \u00e9 show!",
+        "textOriginal": "Amei a aula! Voc\u00ea \u00e9 show!",
+        "authorDisplayName": "Cl\u00e1udia Absalao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo-838i86-5YuwsOnCMtQSytIk8yHx1xVvNONnCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZEp0ft-ZSbvBTPEl_M5Nig",
+        "authorChannelId": {
+          "value": "UCZEp0ft-ZSbvBTPEl_M5Nig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-29T17:45:54Z",
+        "updatedAt": "2021-03-29T17:45:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Fm0JnOckPE4L9KeNzNB26suQwhk",
+      "id": "UgxDho9JAq45YMFRVFZ4AaABAg.9LUF2l32vkH9Lm1h9wvyUq",
+      "snippet": {
+        "textDisplay": "Obrigada pelo carinho!\ud83d\udc95",
+        "textOriginal": "Obrigada pelo carinho!\ud83d\udc95",
+        "parentId": "UgxDho9JAq45YMFRVFZ4AaABAg",
+        "authorDisplayName": "Cantinho Alternativo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6P0uQtvy9oNOrnx9-onscJhWUrO_kwH75wD5otWW6CH26pCVUwGS3FlkAmhO-M4vBcR4Q-Ho4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYGnteHPmVj9W-C-ZG41U8A",
+        "authorChannelId": {
+          "value": "UCYGnteHPmVj9W-C-ZG41U8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-06T00:54:47Z",
+        "updatedAt": "2021-04-06T00:54:47Z"
+      }
+    }
+  ]
+}

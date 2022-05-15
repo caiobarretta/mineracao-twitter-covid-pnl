@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "h7e4XkRKeorjBzpwe7_n7iVDpfA",
+  "id": "UgxqkcCACa42f3JQCvd4AaABAg",
+  "snippet": {
+    "videoId": "NHPMWAoAQVI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cSwG0_JCxMU_nAC6NzjoDJ0KaqM",
+      "id": "UgxqkcCACa42f3JQCvd4AaABAg",
+      "snippet": {
+        "videoId": "NHPMWAoAQVI",
+        "textDisplay": "Isso sim \u00e9 m\u00fasica!!!",
+        "textOriginal": "Isso sim \u00e9 m\u00fasica!!!",
+        "authorDisplayName": "Petr\u00f4nio Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwLT1lZ3PHBq6FdS1pro5vZTmdL2vIGajC1AcXzTE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4nP5-yx3e0UIz-J26PFK6A",
+        "authorChannelId": {
+          "value": "UC4nP5-yx3e0UIz-J26PFK6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2017-09-23T00:11:25Z",
+        "updatedAt": "2017-09-23T00:11:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FkdoFGkZirwEuUJ9tF5jHM9xIjU",
+      "id": "UgxqkcCACa42f3JQCvd4AaABAg.8XpjUtR59yH95Bkzq42eZx",
+      "snippet": {
+        "textDisplay": "Anos 90 \u00f3timos tempos",
+        "textOriginal": "Anos 90 \u00f3timos tempos",
+        "parentId": "UgxqkcCACa42f3JQCvd4AaABAg",
+        "authorDisplayName": "Renato Silva Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQu9h_lwkxV9jkBtxjzmUin8e58HMOXsa8BQAOqw3U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCICtmHkyr954yRmb-TK4ALQ",
+        "authorChannelId": {
+          "value": "UCICtmHkyr954yRmb-TK4ALQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-18T21:05:50Z",
+        "updatedAt": "2020-02-18T21:05:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "dOyLhsrVgpQkP925JVJOLn3XjMI",
+      "id": "UgxqkcCACa42f3JQCvd4AaABAg.8XpjUtR59yH930jmcrKyo2",
+      "snippet": {
+        "textDisplay": "Ah sim, isso \u00e9 certo! ;)",
+        "textOriginal": "Ah sim, isso \u00e9 certo! ;)",
+        "parentId": "UgxqkcCACa42f3JQCvd4AaABAg",
+        "authorDisplayName": "Giulia Spera",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dVvU9H0RFCDlmWenqS7GOo9B7QPDeHhmDjcnm57p2WVvz7lXhlnlp2-S4kYjpfKM73bWKZb1FPE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmznOzsM9-10W3ukQtTnRgA",
+        "authorChannelId": {
+          "value": "UCmznOzsM9-10W3ukQtTnRgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2019-12-26T21:20:52Z",
+        "updatedAt": "2019-12-26T21:20:52Z"
+      }
+    }
+  ]
+}

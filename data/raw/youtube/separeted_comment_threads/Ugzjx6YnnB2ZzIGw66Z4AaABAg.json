@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "86dzBB14m714605LRjP3yQA5maA",
+  "id": "Ugzjx6YnnB2ZzIGw66Z4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GPxKqq2dD9Jb5bUIFsNKcKM-3CA",
+      "id": "Ugzjx6YnnB2ZzIGw66Z4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Ajudou muito",
+        "textOriginal": "Ajudou muito",
+        "authorDisplayName": "Ismael Uch\u00f4a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTd7gxPFMN8plLW-HxHca6tPGmUZooyv3wDjZhejR0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGxRN3HRx_U46cSuYsN9a1A",
+        "authorChannelId": {
+          "value": "UCGxRN3HRx_U46cSuYsN9a1A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-12T23:18:21Z",
+        "updatedAt": "2021-09-12T23:18:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xkm7ZXTfkV07PEdKvKeUDRGYDV0",
+      "id": "Ugzjx6YnnB2ZzIGw66Z4AaABAg.9SCqqrC-tG89SCs-d3pfkt",
+      "snippet": {
+        "textDisplay": "Valeu amigo \ud83d\udc4d",
+        "textOriginal": "Valeu amigo \ud83d\udc4d",
+        "parentId": "Ugzjx6YnnB2ZzIGw66Z4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-12T23:28:25Z",
+        "updatedAt": "2021-09-12T23:28:25Z"
+      }
+    }
+  ]
+}

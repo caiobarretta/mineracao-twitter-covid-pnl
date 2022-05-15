@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "f3AbuBfcxRb59eXS0cIRpPkk_b8",
+  "id": "UgxAgvQDsPx_Qbt6Z-V4AaABAg",
+  "snippet": {
+    "videoId": "AHnaVQy_ZN0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PjSfBYXAwHF1uFWHKUjRTpDm5w4",
+      "id": "UgxAgvQDsPx_Qbt6Z-V4AaABAg",
+      "snippet": {
+        "videoId": "AHnaVQy_ZN0",
+        "textDisplay": "Future Summer Hit",
+        "textOriginal": "Future Summer Hit",
+        "authorDisplayName": "Oxeron",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Vdk7-D2I_nlQDuofzGHRC4s8ZsGsL6W9SUXEg8R75bOd9ZAgZH1JHKF4_1lh0RfuoP2O5LSCZ-U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZRLexi_OXPbEd_-5_QuITg",
+        "authorChannelId": {
+          "value": "UCZRLexi_OXPbEd_-5_QuITg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-02-27T21:24:51Z",
+        "updatedAt": "2021-02-27T21:24:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jcp-AqeraUmd415OIOtTygG5PBY",
+      "id": "UgxAgvQDsPx_Qbt6Z-V4AaABAg.9KHOG9G_PAF9KHU6DPgzyq",
+      "snippet": {
+        "textDisplay": "I hope not for long! \r\ud83d\ude05",
+        "textOriginal": "I hope not for long! \r\ud83d\ude05",
+        "parentId": "UgxAgvQDsPx_Qbt6Z-V4AaABAg",
+        "authorDisplayName": "Alan Zucconi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXUGqcJHdWUjAWg-x7O-dFaGfUah5QatmSsIZNTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg",
+        "authorChannelId": {
+          "value": "UC8Wrbf2aJkX63pu2bG5QiFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-27T22:15:55Z",
+        "updatedAt": "2021-02-27T22:15:55Z"
+      }
+    }
+  ]
+}

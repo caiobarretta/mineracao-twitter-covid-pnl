@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "df11aF2ou0PHo5D7a-2kNRM1G3U",
+  "id": "UgzwLxRdQY2MEnkrhF14AaABAg",
+  "snippet": {
+    "videoId": "A2nYuFNTgNo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-QDfEbLzt-jwmwIaoLMcZXCakyc",
+      "id": "UgzwLxRdQY2MEnkrhF14AaABAg",
+      "snippet": {
+        "videoId": "A2nYuFNTgNo",
+        "textDisplay": "Por favor algu\u00e9m para esse homem \ud83d\ude4f",
+        "textOriginal": "Por favor algu\u00e9m para esse homem \ud83d\ude4f",
+        "authorDisplayName": "Lara Ingrid",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRto5h2CzWGq1CsrcSUNXsmAXgrxq_XmUj4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJAaL1fNgjEXy-Buj5GxaRw",
+        "authorChannelId": {
+          "value": "UCJAaL1fNgjEXy-Buj5GxaRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-03-20T19:39:13Z",
+        "updatedAt": "2021-03-20T19:39:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_SG_uPsYBTFdYd_CxAsJ2zAylbM",
+      "id": "UgzwLxRdQY2MEnkrhF14AaABAg.9L7GrsTOQEg9L7N4gTIi7o",
+      "snippet": {
+        "textDisplay": "@canal roots boa...kkkk",
+        "textOriginal": "@canal roots boa...kkkk",
+        "parentId": "UgzwLxRdQY2MEnkrhF14AaABAg",
+        "authorDisplayName": "Filho Deus Alt\u00edssimo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2Gj13gAqqfklfTThbZSU5tCnnIxwRN2qZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDJsBpRuf0iVI8-pZfpX9GA",
+        "authorChannelId": {
+          "value": "UCDJsBpRuf0iVI8-pZfpX9GA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-20T20:33:32Z",
+        "updatedAt": "2021-03-20T20:33:32Z"
+      }
+    }
+  ]
+}

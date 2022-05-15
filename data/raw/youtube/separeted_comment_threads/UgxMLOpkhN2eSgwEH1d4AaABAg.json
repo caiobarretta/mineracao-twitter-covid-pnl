@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iKsfgdT2OReTuOTdjGLC8kUvpho",
+  "id": "UgxMLOpkhN2eSgwEH1d4AaABAg",
+  "snippet": {
+    "videoId": "tcsWEhm0Bcs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PG0YGxIrAPkFPAlIbBauv-Av8Cg",
+      "id": "UgxMLOpkhN2eSgwEH1d4AaABAg",
+      "snippet": {
+        "videoId": "tcsWEhm0Bcs",
+        "textDisplay": "Sir please give an updated lecture on covid19 in the second part",
+        "textOriginal": "Sir please give an updated lecture on covid19 in the second part",
+        "authorDisplayName": "nidhi rai",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRe_aafBBrSElO4W5pUeNTKRfhrhlR7TXdVOpx4dA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGSJJbh3g9add1g4343arCg",
+        "authorChannelId": {
+          "value": "UCGSJJbh3g9add1g4343arCg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-09-17T04:35:25Z",
+        "updatedAt": "2020-09-17T04:35:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aYq0mx1Ol9bV2Pbkyelw6RSkfg8",
+      "id": "UgxMLOpkhN2eSgwEH1d4AaABAg.9DgsAEFsXrP9DhT8GZtemM",
+      "snippet": {
+        "textDisplay": "Will consider making video on that",
+        "textOriginal": "Will consider making video on that",
+        "parentId": "UgxMLOpkhN2eSgwEH1d4AaABAg",
+        "authorDisplayName": "Hussain Biology",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOZVSaTNZb6P_kqviv8NYFf-UE-qWxihDTa3xQkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDCg5AAslixldHh5D7Nu6-g",
+        "authorChannelId": {
+          "value": "UCDCg5AAslixldHh5D7Nu6-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-17T10:07:11Z",
+        "updatedAt": "2020-09-17T10:07:11Z"
+      }
+    }
+  ]
+}

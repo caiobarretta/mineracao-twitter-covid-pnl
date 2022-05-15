@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "giuTnPzanAjPrcQ8CutMxCupPvI",
+  "id": "UgypzdZSuHqgTpKHDAh4AaABAg",
+  "snippet": {
+    "videoId": "Y9TvYoeDiiY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Td-tlg3vR2XEyqRTXYWu7SE03Nw",
+      "id": "UgypzdZSuHqgTpKHDAh4AaABAg",
+      "snippet": {
+        "videoId": "Y9TvYoeDiiY",
+        "textDisplay": "Adorei",
+        "textOriginal": "Adorei",
+        "authorDisplayName": "Magally Dumb\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPSrox4CoXMQzBK78-ZQUdcd0-r7N3Y65MaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmjoOHaMsGNmeP5Sf05fRhA",
+        "authorChannelId": {
+          "value": "UCmjoOHaMsGNmeP5Sf05fRhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-02T02:42:25Z",
+        "updatedAt": "2021-04-02T02:42:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HUBijNg0boOptGezrLnBgyiXGL4",
+      "id": "UgypzdZSuHqgTpKHDAh4AaABAg.9Lbvpx6gDPM9Ld5sLrUFyv",
+      "snippet": {
+        "textDisplay": "Que bom que gostou \u263a\ufe0f",
+        "textOriginal": "Que bom que gostou \u263a\ufe0f",
+        "parentId": "UgypzdZSuHqgTpKHDAh4AaABAg",
+        "authorDisplayName": "Mel Festa Pegue e Monte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/cNEBjDLwaWC2X2L9w2H0YPbWG3i0bCKeQ9818O3DeaFT_0W6Jz_jTFhR0vSZq_LS_V3pFABjfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvXanTwf8ghBBLh7fEiLljw",
+        "authorChannelId": {
+          "value": "UCvXanTwf8ghBBLh7fEiLljw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-02T13:38:06Z",
+        "updatedAt": "2021-04-02T13:38:06Z"
+      }
+    }
+  ]
+}

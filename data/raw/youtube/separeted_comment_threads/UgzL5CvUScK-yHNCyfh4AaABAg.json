@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4UMdvyfknWgKAcUGPGoA-s5debU",
+  "id": "UgzL5CvUScK-yHNCyfh4AaABAg",
+  "snippet": {
+    "videoId": "X6I6EWtwE4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZmIUAyrk14XOvAAJxonruEwo2Q8",
+      "id": "UgzL5CvUScK-yHNCyfh4AaABAg",
+      "snippet": {
+        "videoId": "X6I6EWtwE4E",
+        "textDisplay": "Muito bacana!",
+        "textOriginal": "Muito bacana!",
+        "authorDisplayName": "J\u00e9ssica Chagas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBc2og6ZeFk7GBBmpjZ4BwBJyDgAuc150d225rHmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZHImUwLxtiHyKABfvWIUVw",
+        "authorChannelId": {
+          "value": "UCZHImUwLxtiHyKABfvWIUVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-05T11:50:34Z",
+        "updatedAt": "2020-12-05T11:50:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wCKCtdVaB-eGRogtb-LamHSHGkY",
+      "id": "UgzL5CvUScK-yHNCyfh4AaABAg.9Gt3lTq6dv49GuQWhZybhI",
+      "snippet": {
+        "textDisplay": "Obrigadaaa :)",
+        "textOriginal": "Obrigadaaa :)",
+        "parentId": "UgzL5CvUScK-yHNCyfh4AaABAg",
+        "authorDisplayName": "Coletividade com Sa\u00fade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_gtfdEgkESjvL7UdKBThanghx7C8LEm4Vlhm9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRUfYw0ql5PFVNUW7U0b_CA",
+        "authorChannelId": {
+          "value": "UCRUfYw0ql5PFVNUW7U0b_CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-06T00:28:37Z",
+        "updatedAt": "2020-12-06T00:28:37Z"
+      }
+    }
+  ]
+}

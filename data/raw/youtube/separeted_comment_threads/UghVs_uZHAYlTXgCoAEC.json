@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5WpAtkB0JH7vuTf9wrsJZ2PEhbc",
+  "id": "UghVs_uZHAYlTXgCoAEC",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-ief3LY0r2yiF8EEHLLK3RT-VtQ",
+      "id": "UghVs_uZHAYlTXgCoAEC",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Great video. \nEverything makes perfect sense, but I am having a real problem.\n\nI cannot get the text I put into Sublime3+Lua to effect the Corona Simulator in any way.\nI put in exactly what you said(and others), and the simulator stays black as night.\n\nI have downloaded everything everyone says to download, but I seem to be having trouble linking Corona to Sublime 3 or Lua.\n\nSulime and Lua seem to be working perfect as does Corona, they just are not working together.\n\nIt will not let me open main.lua by itself, so I have been opening it with Sublimetext.\nI am wondering if this is a hint as to what I am doing wrong\n\nI have been trying to get this running for a week now and have watched many videos and read many blogs to no avail\n\nI even deleted everything and tried to start over a couple times..\nAny help would be greatly appreciated.",
+        "textOriginal": "Great video. \nEverything makes perfect sense, but I am having a real problem.\n\nI cannot get the text I put into Sublime3+Lua to effect the Corona Simulator in any way.\nI put in exactly what you said(and others), and the simulator stays black as night.\n\nI have downloaded everything everyone says to download, but I seem to be having trouble linking Corona to Sublime 3 or Lua.\n\nSulime and Lua seem to be working perfect as does Corona, they just are not working together.\n\nIt will not let me open main.lua by itself, so I have been opening it with Sublimetext.\nI am wondering if this is a hint as to what I am doing wrong\n\nI have been trying to get this running for a week now and have watched many videos and read many blogs to no avail\n\nI even deleted everything and tried to start over a couple times..\nAny help would be greatly appreciated.",
+        "authorDisplayName": "SaltyZombieFan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTj_tTSAOxLuVQLZqxdlsknXuD5V2BNQCTeutrpcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1K0Ha2Jk8NSu7VRFLM6v0A",
+        "authorChannelId": {
+          "value": "UC1K0Ha2Jk8NSu7VRFLM6v0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-10-26T03:14:27Z",
+        "updatedAt": "2016-10-26T03:14:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cIqZkeb3S_VjMv8gquH4EXoW4ms",
+      "id": "UghVs_uZHAYlTXgCoAEC.8KUBX0eMiV98KWQ1X90kFY",
+      "snippet": {
+        "textDisplay": "Thank you for the speedy reply. \nI did already install it. I will read up on it some more at Corona Labs though.",
+        "textOriginal": "Thank you for the speedy reply. \nI did already install it. I will read up on it some more at Corona Labs though.",
+        "parentId": "UghVs_uZHAYlTXgCoAEC",
+        "authorDisplayName": "SaltyZombieFan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTj_tTSAOxLuVQLZqxdlsknXuD5V2BNQCTeutrpcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1K0Ha2Jk8NSu7VRFLM6v0A",
+        "authorChannelId": {
+          "value": "UC1K0Ha2Jk8NSu7VRFLM6v0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-10-26T23:59:42Z",
+        "updatedAt": "2016-10-26T23:59:42Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "WAeCtgqC23qSZBWj4OTjXyQdIYA",
+      "id": "UghVs_uZHAYlTXgCoAEC.8KUBX0eMiV98KVZ6pLq_wb",
+      "snippet": {
+        "textDisplay": "Did you install the Corona Editor tool set into Sublime?  It creates the link that might be missing based upon the description of your problem.  Information on the Corona Editor is on the Corona Labs website.",
+        "textOriginal": "Did you install the Corona Editor tool set into Sublime?  It creates the link that might be missing based upon the description of your problem.  Information on the Corona Editor is on the Corona Labs website.",
+        "parentId": "UghVs_uZHAYlTXgCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-10-26T15:59:50Z",
+        "updatedAt": "2016-10-26T15:59:50Z"
+      }
+    }
+  ]
+}

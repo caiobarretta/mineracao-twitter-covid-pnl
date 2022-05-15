@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "csNL82txOZc0z8KipV9TAOD-rCg",
+  "id": "UgzEkv3Pj4pI4ASTFWB4AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zPfknxPh3LmF1A85IkpEZMxcPgA",
+      "id": "UgzEkv3Pj4pI4ASTFWB4AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "O meu fica carregando eternamente \u2026",
+        "textOriginal": "O meu fica carregando eternamente \u2026",
+        "authorDisplayName": "Emanuel Ferreira da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1GeVBOC4g0TXOfYzHCW8sb7rzxGxi6ezmhYoFzA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpO5PVNwdf9dlvlNN8KvL0A",
+        "authorChannelId": {
+          "value": "UCpO5PVNwdf9dlvlNN8KvL0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-24T21:30:24Z",
+        "updatedAt": "2022-01-24T21:30:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NNildk7kIAgotB-mevKGGsNq-6w",
+      "id": "UgzEkv3Pj4pI4ASTFWB4AaABAg.9Xah0Vn2dIx9Xar28eET3-",
+      "snippet": {
+        "textDisplay": "Sim, este app bugou e n\u00e3o funciona mais",
+        "textOriginal": "Sim, este app bugou e n\u00e3o funciona mais",
+        "parentId": "UgzEkv3Pj4pI4ASTFWB4AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-24T22:58:00Z",
+        "updatedAt": "2022-01-24T22:58:00Z"
+      }
+    }
+  ]
+}

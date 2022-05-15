@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7DlmEoQs5s_MjNvMmbBkwGSTRXA",
+  "id": "UgwKz2upBgvcVY0rfzV4AaABAg",
+  "snippet": {
+    "videoId": "9OhXC19a-8E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tCwk6lp5BXJfAprFDJQJVVmF-C8",
+      "id": "UgwKz2upBgvcVY0rfzV4AaABAg",
+      "snippet": {
+        "videoId": "9OhXC19a-8E",
+        "textDisplay": "E isso a\u00ed vamos tomar vacina!!!!",
+        "textOriginal": "E isso a\u00ed vamos tomar vacina!!!!",
+        "authorDisplayName": "Euridece Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5TH-Lcz9l5NOBSDUqd4CCWUWW90ljbDQ7cw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgiQWk2ppZnDshbvVevO2lA",
+        "authorChannelId": {
+          "value": "UCgiQWk2ppZnDshbvVevO2lA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-26T22:33:18Z",
+        "updatedAt": "2021-08-26T22:33:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3jDJmqGa49EtT5GkWoJ3fzr7gg0",
+      "id": "UgwKz2upBgvcVY0rfzV4AaABAg.9RX-B1PmIm69RX3WG2nyNa",
+      "snippet": {
+        "textDisplay": "\ud83d\ude18\ud83d\udc4f",
+        "textOriginal": "\ud83d\ude18\ud83d\udc4f",
+        "parentId": "UgwKz2upBgvcVY0rfzV4AaABAg",
+        "authorDisplayName": "Daniela soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uBQgG8liDT_bs9dEBe_8gvnka5eExTivfAmtH497NM7E4KZulOuCdeRVw5CJM7UVWkNHixeXvw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNBC9gqHcCgUq9q9oIoWeWw",
+        "authorChannelId": {
+          "value": "UCNBC9gqHcCgUq9q9oIoWeWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-26T23:11:09Z",
+        "updatedAt": "2021-08-26T23:11:09Z"
+      }
+    }
+  ]
+}

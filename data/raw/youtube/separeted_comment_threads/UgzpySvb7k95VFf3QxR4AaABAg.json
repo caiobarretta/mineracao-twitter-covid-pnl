@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2NtfuSMZ-zruFNYu4kDB-uw1AHA",
+  "id": "UgzpySvb7k95VFf3QxR4AaABAg",
+  "snippet": {
+    "videoId": "q7-Vkvylmsg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oQoEGunsrnAMsXXX2tbevcDm4NA",
+      "id": "UgzpySvb7k95VFf3QxR4AaABAg",
+      "snippet": {
+        "videoId": "q7-Vkvylmsg",
+        "textDisplay": "Exelente video",
+        "textOriginal": "Exelente video",
+        "authorDisplayName": "Eliel Liuzzi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRI796dMdlBiDBvwf8tlcjLvKxtypJ_R0Baww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn_6mIn3tqC4unWVWU2eq3w",
+        "authorChannelId": {
+          "value": "UCn_6mIn3tqC4unWVWU2eq3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-10T03:53:51Z",
+        "updatedAt": "2022-03-10T03:53:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QPPNtuHtkyvGPIsqzGFQb8vLMvc",
+      "id": "UgzpySvb7k95VFf3QxR4AaABAg.9ZNfsRG1Usf9ZOnlqihE3D",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02 \ud83d\ude02 \ud83d\ude02 \ud83d\ude02",
+        "textOriginal": "\ud83d\ude02 \ud83d\ude02 \ud83d\ude02 \ud83d\ude02",
+        "parentId": "UgzpySvb7k95VFf3QxR4AaABAg",
+        "authorDisplayName": "claudio tripe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYz205w-3wGUwoDgxJI24_p4kRBEo_UnXWdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNLUQstj-ignajHLtD-hMRw",
+        "authorChannelId": {
+          "value": "UCNLUQstj-ignajHLtD-hMRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-10T14:22:06Z",
+        "updatedAt": "2022-03-10T14:22:06Z"
+      }
+    }
+  ]
+}

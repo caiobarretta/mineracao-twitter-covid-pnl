@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TACt_wD_DXG95v0oGsvXPmcsG-E",
+  "id": "UgzfDfX0ePTVWIBBoS94AaABAg",
+  "snippet": {
+    "videoId": "7R8YvOAPAkQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cvBYcxGDmZmqy0zCuMg9_FiVF1I",
+      "id": "UgzfDfX0ePTVWIBBoS94AaABAg",
+      "snippet": {
+        "videoId": "7R8YvOAPAkQ",
+        "textDisplay": "Aula maravilhosa, parab\u00e9ns!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Aula maravilhosa, parab\u00e9ns!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Professora Nayara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFgGKVvFvaLHyftIIdT39GHApP6YfAPig-a7igrkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtVBXrOu8zeXacAOZg3w0-w",
+        "authorChannelId": {
+          "value": "UCtVBXrOu8zeXacAOZg3w0-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-25T19:12:47Z",
+        "updatedAt": "2020-08-25T19:12:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k0FuFaFV-LOjDn34v2HRX4k6few",
+      "id": "UgzfDfX0ePTVWIBBoS94AaABAg.9CnDI81Dvc69CndCPTnctu",
+      "snippet": {
+        "textDisplay": "Obrigada! \ud83e\udd70",
+        "textOriginal": "Obrigada! \ud83e\udd70",
+        "parentId": "UgzfDfX0ePTVWIBBoS94AaABAg",
+        "authorDisplayName": "Cantinho Alternativo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6P0uQtvy9oNOrnx9-onscJhWUrO_kwH75wD5otWW6CH26pCVUwGS3FlkAmhO-M4vBcR4Q-Ho4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYGnteHPmVj9W-C-ZG41U8A",
+        "authorChannelId": {
+          "value": "UCYGnteHPmVj9W-C-ZG41U8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-25T23:07:55Z",
+        "updatedAt": "2020-08-25T23:07:55Z"
+      }
+    }
+  ]
+}

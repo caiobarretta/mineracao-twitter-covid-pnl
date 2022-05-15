@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3SdwiPNMF4QCeDLXEbOm6FAWL6M",
+  "id": "UgwCfKLEsaGDK-_b5IF4AaABAg",
+  "snippet": {
+    "videoId": "10PZGmTsq6k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kSGeV1dJmz6BuBaD1gUEqPidi8E",
+      "id": "UgwCfKLEsaGDK-_b5IF4AaABAg",
+      "snippet": {
+        "videoId": "10PZGmTsq6k",
+        "textDisplay": "Obrigada! Muito obrigada!!",
+        "textOriginal": "Obrigada! Muito obrigada!!",
+        "authorDisplayName": "Jeanne Cabral Guerra de Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpyadXg310qSE8od_QlaecmzRw0KNR1HdPrQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsKfRpkbiek6WPc4-2cyRLQ",
+        "authorChannelId": {
+          "value": "UCsKfRpkbiek6WPc4-2cyRLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-03T18:18:22Z",
+        "updatedAt": "2021-07-03T18:18:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Jk5uX6F0CQP0ua_oNZ0tG_xQkHQ",
+      "id": "UgwCfKLEsaGDK-_b5IF4AaABAg.9PLV4bguYa29POvNIQJfL8",
+      "snippet": {
+        "textDisplay": "N\u00f3s que agradecemos!",
+        "textOriginal": "N\u00f3s que agradecemos!",
+        "parentId": "UgwCfKLEsaGDK-_b5IF4AaABAg",
+        "authorDisplayName": "Fora da Pol\u00edtica N\u00e3o h\u00e1 Salva\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2ffD7PteSgWjyvHJROXM63FctAxbJmBS-25YqQUaDW-E81E38IGwbJUW38FFrk-I24IIAUvLOA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbSOn9WtyJubqodDk_nL1aw",
+        "authorChannelId": {
+          "value": "UCbSOn9WtyJubqodDk_nL1aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-05T02:14:34Z",
+        "updatedAt": "2021-07-05T02:14:34Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ajppDwr119TrA-UXPSE57n8-cGM",
+  "id": "Ugw_zoeD_MKsvZrIzg54AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uJNgj-V89-vWXXWTVI91PMLFTZA",
+      "id": "Ugw_zoeD_MKsvZrIzg54AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Excelente explica\u00e7\u00e3o. Parab\u00e9ns.",
+        "textOriginal": "Excelente explica\u00e7\u00e3o. Parab\u00e9ns.",
+        "authorDisplayName": "\u00c1lvaro Corr\u00eaa C\u00e9sar Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToLYkpxtFz8qdQ5GhfQkibfA2yaFjwv8W94Flv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCz-LjT2O2hG8Gi_2PS9ICJQ",
+        "authorChannelId": {
+          "value": "UCz-LjT2O2hG8Gi_2PS9ICJQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-03-17T14:34:47Z",
+        "updatedAt": "2020-03-17T14:34:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WWphfm1ltv5-pPhiDe8E1m_B5U4",
+      "id": "Ugw_zoeD_MKsvZrIzg54AaABAg.96J9V8srsIG96JA9gGULv1",
+      "snippet": {
+        "textDisplay": "Obrigado :)",
+        "textOriginal": "Obrigado :)",
+        "parentId": "Ugw_zoeD_MKsvZrIzg54AaABAg",
+        "authorDisplayName": "JBO Ci\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSctqR_Yj4truAHYStrWdj4EnLgsEP988bCNN3IfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuQLOcYPvjkjIB3KCPJrzKQ",
+        "authorChannelId": {
+          "value": "UCuQLOcYPvjkjIB3KCPJrzKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-17T14:40:35Z",
+        "updatedAt": "2020-03-17T14:40:35Z"
+      }
+    }
+  ]
+}

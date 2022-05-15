@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OGIyhcASYyHJoTy636bCoa1XxcM",
+  "id": "Ugx_tdivabDpQWKuovh4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IZ1KCdzHYICMJGs3kXFtMEaweHg",
+      "id": "Ugx_tdivabDpQWKuovh4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "Using the Corona proxy under Forest Pack, it will reduce the opening speed, it is said to be caused by the Corona proxy, I don't know if I can improve it?",
+        "textOriginal": "Using the Corona proxy under Forest Pack, it will reduce the opening speed, it is said to be caused by the Corona proxy, I don't know if I can improve it?",
+        "authorDisplayName": "wxk ljj",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa1FpMlSEwcOZXAFMlAsWfam8IHTT07RjPtg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC51NpMnUUdI3NKFYkZIiGAQ",
+        "authorChannelId": {
+          "value": "UC51NpMnUUdI3NKFYkZIiGAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-21T13:28:47Z",
+        "updatedAt": "2021-08-21T13:28:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-ldq0MlZrO-YskrlUqD3HZUBOCw",
+      "id": "Ugx_tdivabDpQWKuovh4AaABAg.9RJ8tX-0dxr9RNtCD2NDoT",
+      "snippet": {
+        "textDisplay": "Hi! YouTube comments aren't seen by support, so to make sure your question gets a response, please post over on the forums at https://corona-renderer.com/forum/index.php - that way, as well as being seen by support and the community, you can also share example scenes, renders, scene set ups in UI screengrabs, etc. (and we can do the same in replies :) ). Thanks! Tom",
+        "textOriginal": "Hi! YouTube comments aren't seen by support, so to make sure your question gets a response, please post over on the forums at https://corona-renderer.com/forum/index.php - that way, as well as being seen by support and the community, you can also share example scenes, renders, scene set ups in UI screengrabs, etc. (and we can do the same in replies :) ). Thanks! Tom",
+        "parentId": "Ugx_tdivabDpQWKuovh4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-23T09:39:08Z",
+        "updatedAt": "2021-08-23T09:39:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fTyz_JU1yV2CjFZrIizHa5kF8-o",
+  "id": "UgygrI7F4HYtToJyEOV4AaABAg",
+  "snippet": {
+    "videoId": "VaJJMnXdAc4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U83w2ZgOkLbaFD3mmq1TmSmF7IM",
+      "id": "UgygrI7F4HYtToJyEOV4AaABAg",
+      "snippet": {
+        "videoId": "VaJJMnXdAc4",
+        "textDisplay": "Ajudo muito",
+        "textOriginal": "Ajudo muito",
+        "authorDisplayName": "Alexandre alexandre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCT7peBkmQqFzBebRdaAjTA8PpqS1cNukAEQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnFnAAi-N9_ued955V0GY4A",
+        "authorChannelId": {
+          "value": "UCnFnAAi-N9_ued955V0GY4A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-03T15:30:26Z",
+        "updatedAt": "2020-09-03T15:30:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "l6j5VVQKNXsVHzV1G6pckasFT6I",
+      "id": "UgygrI7F4HYtToJyEOV4AaABAg.9D9--Uyrg119D9GrCF8qBG",
+      "snippet": {
+        "textDisplay": "que bom",
+        "textOriginal": "que bom",
+        "parentId": "UgygrI7F4HYtToJyEOV4AaABAg",
+        "authorDisplayName": "ODORIZZI",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF6ZwK3UQxg69GQD6ShgCpNBVwke1JAJ8Y9CDHPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4rSCAdhng0kzfXfLubGVuA",
+        "authorChannelId": {
+          "value": "UC4rSCAdhng0kzfXfLubGVuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-03T18:06:27Z",
+        "updatedAt": "2020-09-03T18:06:27Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M_P2n2fUqAY_Nc9A_e1AlrKudr8",
+  "id": "UgwXus2gP32OOrcglp94AaABAg",
+  "snippet": {
+    "videoId": "Hgbq2HRdMfA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MUYrQCJwZQmr2l-oBV1rYn5MbWk",
+      "id": "UgwXus2gP32OOrcglp94AaABAg",
+      "snippet": {
+        "videoId": "Hgbq2HRdMfA",
+        "textDisplay": "Piada isso.",
+        "textOriginal": "Piada isso.",
+        "authorDisplayName": "sergio ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqpFCxD7Vf1zeYqAqg_1Xg4Ect9udt-_FcxGf0WU0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiOlKxl8lI4GDTRjFFqh5wA",
+        "authorChannelId": {
+          "value": "UCiOlKxl8lI4GDTRjFFqh5wA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-19T02:30:08Z",
+        "updatedAt": "2022-04-19T02:30:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dzvxTMzVN7z1lhEUDzNuPzPLycs",
+      "id": "UgwXus2gP32OOrcglp94AaABAg.9_zX5HiOh1N9_zZQVg57Vd",
+      "snippet": {
+        "textDisplay": "Vou rir ent\u00e3o ra ra ra",
+        "textOriginal": "Vou rir ent\u00e3o ra ra ra",
+        "parentId": "UgwXus2gP32OOrcglp94AaABAg",
+        "authorDisplayName": "Do primeiro ao ultimo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYfvC1lbx3zzshm7Aet47EnvsAmhjzngoi1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWvmf_2B1GW27KZyfBJMeMQ",
+        "authorChannelId": {
+          "value": "UCWvmf_2B1GW27KZyfBJMeMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-19T02:50:30Z",
+        "updatedAt": "2022-04-19T02:50:30Z"
+      }
+    }
+  ]
+}

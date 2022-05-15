@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6I-SW0XTZ4hyoJPcQrlHDijA-xI",
+  "id": "UgzoC7uV2C8k2heMDOp4AaABAg",
+  "snippet": {
+    "videoId": "IC0CXKyz3w8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qpHqu1NIYDIkHian_LzBT19SO_k",
+      "id": "UgzoC7uV2C8k2heMDOp4AaABAg",
+      "snippet": {
+        "videoId": "IC0CXKyz3w8",
+        "textDisplay": "Demora pra sair o resultado",
+        "textOriginal": "Demora pra sair o resultado",
+        "authorDisplayName": "Flavia Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRsGy9Ny8N_BvDZZKEeNBBUPhmgY1fmow0pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA8VoKf3VxBVqR1pWVDIuiQ",
+        "authorChannelId": {
+          "value": "UCA8VoKf3VxBVqR1pWVDIuiQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-08T13:38:52Z",
+        "updatedAt": "2020-10-08T13:38:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ku_Eq-TSiPjL2Y5o--29FhtOJ5c",
+      "id": "UgzoC7uV2C8k2heMDOp4AaABAg.9EYv2ylbe379EYvTFnUgL4",
+      "snippet": {
+        "textDisplay": "Flavia Barreto Depende de muitas vari\u00e1veis. Somente analisando o caso concreto poderemos entender",
+        "textOriginal": "Flavia Barreto Depende de muitas vari\u00e1veis. Somente analisando o caso concreto poderemos entender",
+        "parentId": "UgzoC7uV2C8k2heMDOp4AaABAg",
+        "authorDisplayName": "Elton Fernandes Advogados",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT46w8oxbRn4g6D4pMWRagJEOjmNwCr7n2-pH8R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPMFewiTVGyQv5OlEF5x7GQ",
+        "authorChannelId": {
+          "value": "UCPMFewiTVGyQv5OlEF5x7GQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-08T13:42:27Z",
+        "updatedAt": "2020-10-08T13:42:27Z"
+      }
+    }
+  ]
+}

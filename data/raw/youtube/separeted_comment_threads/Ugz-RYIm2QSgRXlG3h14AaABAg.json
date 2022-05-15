@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8U20hPhiMaO2pFN6byXkzN6agNg",
+  "id": "Ugz-RYIm2QSgRXlG3h14AaABAg",
+  "snippet": {
+    "videoId": "i9PfuTBKZsg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xP7O5YRiyXfidnCE3NmnAKuVncE",
+      "id": "Ugz-RYIm2QSgRXlG3h14AaABAg",
+      "snippet": {
+        "videoId": "i9PfuTBKZsg",
+        "textDisplay": "boa noite linda",
+        "textOriginal": "boa noite linda",
+        "authorDisplayName": "antonio sodre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVWjfjwdHHbUU4PB3SlrkTGLPmWxpAFYhR8aEuHa9gd-mgUZQ5NkSve2n3jKar=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNSLTAShJ2KcLZeolPETjYg",
+        "authorChannelId": {
+          "value": "UCNSLTAShJ2KcLZeolPETjYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-09T22:05:59Z",
+        "updatedAt": "2022-05-09T22:05:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uZjS4cnhD_jB8A70Cdn_1IHpkFU",
+      "id": "Ugz-RYIm2QSgRXlG3h14AaABAg.9ap7YvdFcj59apBFyfoNbl",
+      "snippet": {
+        "textDisplay": "Boa noite Antonio",
+        "textOriginal": "Boa noite Antonio",
+        "parentId": "Ugz-RYIm2QSgRXlG3h14AaABAg",
+        "authorDisplayName": "Programas Sociais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrQnlKncn-T2J9lO0pGWkmPYrXtAYkxPAIH6XmUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvKhrFxo2kvTZzosyYmXsYQ",
+        "authorChannelId": {
+          "value": "UCvKhrFxo2kvTZzosyYmXsYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T22:38:20Z",
+        "updatedAt": "2022-05-09T22:38:20Z"
+      }
+    }
+  ]
+}

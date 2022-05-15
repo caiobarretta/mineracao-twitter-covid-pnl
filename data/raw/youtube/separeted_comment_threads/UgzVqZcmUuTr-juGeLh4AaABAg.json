@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rMFQCHB4mUMJa57NfuHMo15Sh4E",
+  "id": "UgzVqZcmUuTr-juGeLh4AaABAg",
+  "snippet": {
+    "videoId": "B5Y1XvVBoas",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NrQJjxeOVOZPKa-zyllMuT2byaI",
+      "id": "UgzVqZcmUuTr-juGeLh4AaABAg",
+      "snippet": {
+        "videoId": "B5Y1XvVBoas",
+        "textDisplay": "Que triste! Vou continuar usando mascaras.",
+        "textOriginal": "Que triste! Vou continuar usando mascaras.",
+        "authorDisplayName": "Maria Sousq",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRiSu1dTnPvqm0YfZLGpRPVtBlGmmPqBeQXQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr4SzeNgN1fjecbkHqj2szQ",
+        "authorChannelId": {
+          "value": "UCr4SzeNgN1fjecbkHqj2szQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-18T07:56:11Z",
+        "updatedAt": "2022-04-18T07:56:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uBW8HnF39OJ49MnhfbqhgfH60ns",
+      "id": "UgzVqZcmUuTr-juGeLh4AaABAg.9_xXbVUKBgV9_xaPir_POv",
+      "snippet": {
+        "textDisplay": "\u00c9 isso",
+        "textOriginal": "\u00c9 isso",
+        "parentId": "UgzVqZcmUuTr-juGeLh4AaABAg",
+        "authorDisplayName": "CANAL SA\u00daDE - Cunversa do PH",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gRoSnDUX3845HBadFirHduq4HCjt1ddOXFkrdLSN02x1fFSqIAsTG3lxnRk5FYztZzVmTQ8EG6s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaT1iMAsl7Mn9P-fJOKP7SA",
+        "authorChannelId": {
+          "value": "UCaT1iMAsl7Mn9P-fJOKP7SA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-18T08:29:24Z",
+        "updatedAt": "2022-04-18T08:29:24Z"
+      }
+    }
+  ]
+}

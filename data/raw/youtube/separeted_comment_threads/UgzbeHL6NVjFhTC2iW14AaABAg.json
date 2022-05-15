@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EGXdFnaRs9cgoNrLbKlmWhPK8w8",
+  "id": "UgzbeHL6NVjFhTC2iW14AaABAg",
+  "snippet": {
+    "videoId": "KzN4m3s2Nz4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mAwPse7EO677VMpuOezbulg636w",
+      "id": "UgzbeHL6NVjFhTC2iW14AaABAg",
+      "snippet": {
+        "videoId": "KzN4m3s2Nz4",
+        "textDisplay": "VIVA O SUS !!!!",
+        "textOriginal": "VIVA O SUS !!!!",
+        "authorDisplayName": "Edison Caldeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR72_sYRNlAI74OPPYolI5w-e66bXTlZpKhpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCae9txnVgXsEJx0WcaBcHgQ",
+        "authorChannelId": {
+          "value": "UCae9txnVgXsEJx0WcaBcHgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-05-27T15:30:49Z",
+        "updatedAt": "2021-05-27T15:30:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "irb8NlxYapyTZogMlXIHjtBYdik",
+      "id": "UgzbeHL6NVjFhTC2iW14AaABAg.9NqvV2Ztp-39Nr4xoGioe-",
+      "snippet": {
+        "textDisplay": "Viva o sus",
+        "textOriginal": "Viva o sus",
+        "parentId": "UgzbeHL6NVjFhTC2iW14AaABAg",
+        "authorDisplayName": "Francisca De F\u00e1tima Pereira da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRERNG28m-TVmqhHWUq1JquhH71zBz6C-j_DQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2Qq3qQhM3UjKtrvKLJGGA",
+        "authorChannelId": {
+          "value": "UCL2Qq3qQhM3UjKtrvKLJGGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-27T17:02:15Z",
+        "updatedAt": "2021-05-27T17:02:15Z"
+      }
+    }
+  ]
+}

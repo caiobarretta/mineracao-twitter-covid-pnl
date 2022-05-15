@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "26KW0nwvthzsz22iubbvayouAzg",
+  "id": "Ugw658EiYw6uqin6Ij54AaABAg",
+  "snippet": {
+    "videoId": "42KmERAB01M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xOMYvlvflX0zKiA1w6CV_nbsfCQ",
+      "id": "Ugw658EiYw6uqin6Ij54AaABAg",
+      "snippet": {
+        "videoId": "42KmERAB01M",
+        "textDisplay": "Colis\u00e3o \u00e9 algo muito dificil de fazer,obrigado pelo tutorial :)",
+        "textOriginal": "Colis\u00e3o \u00e9 algo muito dificil de fazer,obrigado pelo tutorial :)",
+        "authorDisplayName": "Rafael Costamilan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/NG-ix9TXqPME2c_DdALn4eL6niVJyk9K17HmerWvZGkGugPCZVWjkiHGP1K3wBLfX060fH356Cc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0ZbwiSDJFn_RDnRfcHtoXQ",
+        "authorChannelId": {
+          "value": "UC0ZbwiSDJFn_RDnRfcHtoXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-01T13:16:07Z",
+        "updatedAt": "2022-05-01T13:16:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qwk_3EW3bRudgNZsH5KMlNMPfcI",
+      "id": "Ugw658EiYw6uqin6Ij54AaABAg.9aU_Z80ljCY9aUkhivzXgJ",
+      "snippet": {
+        "textDisplay": "B) dnd",
+        "textOriginal": "B) dnd",
+        "parentId": "Ugw658EiYw6uqin6Ij54AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-01T14:53:33Z",
+        "updatedAt": "2022-05-01T14:53:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nBljpX-piy8pVci1GbfSLx4LdkY",
+  "id": "UgxZwXoOan32Ttbm7RZ4AaABAg",
+  "snippet": {
+    "videoId": "W165FAtrY5Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BAkG7Fr0dmv3DuzGwPE75FRud4I",
+      "id": "UgxZwXoOan32Ttbm7RZ4AaABAg",
+      "snippet": {
+        "videoId": "W165FAtrY5Y",
+        "textDisplay": "No meu cadastro aparece somente a primeira dose sendo faz 11 dias tomei a segunda dose",
+        "textOriginal": "No meu cadastro aparece somente a primeira dose sendo faz 11 dias tomei a segunda dose",
+        "authorDisplayName": "Sandra Aguero",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQh_EpD2nneWSRcCfFLmqQJz8zfG8F8UJHAkA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCykYUUpclFeFLyol_O2Ft6Q",
+        "authorChannelId": {
+          "value": "UCykYUUpclFeFLyol_O2Ft6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-09T18:58:41Z",
+        "updatedAt": "2021-08-09T18:58:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5u1ChbjnapDmK8lTjQS3veT1sE0",
+      "id": "UgxZwXoOan32Ttbm7RZ4AaABAg.9Qpq6GZ1ENF9RilFLOj0a6",
+      "snippet": {
+        "textDisplay": "Oi Boa noite j\u00e1 apareceu a 2 dose sua a minha ainda n\u00e3o",
+        "textOriginal": "Oi Boa noite j\u00e1 apareceu a 2 dose sua a minha ainda n\u00e3o",
+        "parentId": "UgxZwXoOan32Ttbm7RZ4AaABAg",
+        "authorDisplayName": "Camila Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJf5Mx_RhiQrX3Mikn1HxALjYOieKgp_kWLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy8O2u5aJC4JXG-X1Ej1mPQ",
+        "authorChannelId": {
+          "value": "UCy8O2u5aJC4JXG-X1Ej1mPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-31T21:32:56Z",
+        "updatedAt": "2021-08-31T21:32:56Z"
+      }
+    }
+  ]
+}

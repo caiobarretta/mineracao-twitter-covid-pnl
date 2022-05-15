@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7_JFhfceOGeZngIMau1rG2qdLs4",
+  "id": "UgyrbIQ-Vy31h-hRty14AaABAg",
+  "snippet": {
+    "videoId": "vN30emwcNS4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AWFmlFK8RALPyYml2_sHtSN7cBA",
+      "id": "UgyrbIQ-Vy31h-hRty14AaABAg",
+      "snippet": {
+        "videoId": "vN30emwcNS4",
+        "textDisplay": "Okay I went to \"like\" the livestream and now I can't comment there?",
+        "textOriginal": "Okay I went to \"like\" the livestream and now I can't comment there?",
+        "authorDisplayName": "GirlgeniusNYC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStQpwP1OzYWWlHaxa-NPUQQ5iL9bzFPE4_1q3BQ3k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj0FiWjRg74yQtB30Xn2weg",
+        "authorChannelId": {
+          "value": "UCj0FiWjRg74yQtB30Xn2weg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-02T21:59:30Z",
+        "updatedAt": "2021-01-02T21:59:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mJAMBijjJq8_CpfieEL83TVrTVk",
+      "id": "UgyrbIQ-Vy31h-hRty14AaABAg.9I1FhwF-KRD9I1MdJAq0Wv",
+      "snippet": {
+        "textDisplay": "After a livestream finishes the video is usually available almost immediately though the comment section takes some number of minutes to become available after that.  It\u2019s usually less than 15 minutes in my experience.  It\u2019s not specific to this channel, it\u2019s just how YouTube works.  Cheers!",
+        "textOriginal": "After a livestream finishes the video is usually available almost immediately though the comment section takes some number of minutes to become available after that.  It\u2019s usually less than 15 minutes in my experience.  It\u2019s not specific to this channel, it\u2019s just how YouTube works.  Cheers!",
+        "parentId": "UgyrbIQ-Vy31h-hRty14AaABAg",
+        "authorDisplayName": "BobWidlefish",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGWmG2ppM6VchaPlwHXKkjSwq3Gq35uRwNUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUjUPUHbiR4wNv6pm1kgpqQ",
+        "authorChannelId": {
+          "value": "UCUjUPUHbiR4wNv6pm1kgpqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-01-02T23:00:01Z",
+        "updatedAt": "2021-01-02T23:00:01Z"
+      }
+    }
+  ]
+}

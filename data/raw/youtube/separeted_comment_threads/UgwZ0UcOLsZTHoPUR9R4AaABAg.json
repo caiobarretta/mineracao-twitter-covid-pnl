@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ozXwEcIbykWEqLfJ9IHOp5vb_co",
+  "id": "UgwZ0UcOLsZTHoPUR9R4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sLLupWjWbZx3V-nBwRsp2c2XSC0",
+      "id": "UgwZ0UcOLsZTHoPUR9R4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Opa amigo, sou de Goiana PE.\n\u00d3timo v\u00eddeo, mais pra quem n\u00e3o tem a 1 via? Como fazer?",
+        "textOriginal": "Opa amigo, sou de Goiana PE.\n\u00d3timo v\u00eddeo, mais pra quem n\u00e3o tem a 1 via? Como fazer?",
+        "authorDisplayName": "Adriano pedal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-PdUGhkWXIjBq66f6rwukzYYEtzO0Jk3pb1rK8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEr4Tmg0vhKlBprpjofuvSQ",
+        "authorChannelId": {
+          "value": "UCEr4Tmg0vhKlBprpjofuvSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-05T01:03:14Z",
+        "updatedAt": "2022-05-05T01:03:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nNdJsGvEup6on-sWXWHIxtx_X2A",
+      "id": "UgwZ0UcOLsZTHoPUR9R4AaABAg.9acZrpFUOfn9acbI4CRU_N",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Adriano, tudo bem?\neu n\u00e3o tenho certeza mais acho que \u00e9 em um posto de sa\u00fade.",
+        "textOriginal": "Ol\u00e1 Adriano, tudo bem?\neu n\u00e3o tenho certeza mais acho que \u00e9 em um posto de sa\u00fade.",
+        "parentId": "UgwZ0UcOLsZTHoPUR9R4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-05T01:24:26Z",
+        "updatedAt": "2022-05-05T01:24:26Z"
+      }
+    }
+  ]
+}

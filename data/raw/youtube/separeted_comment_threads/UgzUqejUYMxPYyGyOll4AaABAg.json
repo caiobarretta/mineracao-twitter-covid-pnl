@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jYC8f03dff59guoKyUXimUbj2SI",
+  "id": "UgzUqejUYMxPYyGyOll4AaABAg",
+  "snippet": {
+    "videoId": "BxffmRWufio",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wFlV1BEXj7_XYEZBwToGjX0NoDA",
+      "id": "UgzUqejUYMxPYyGyOll4AaABAg",
+      "snippet": {
+        "videoId": "BxffmRWufio",
+        "textDisplay": "Uma coisa \u00e9 n\u00e3o ter Crime. outra coisa \u00e9 n\u00e3o ter Ningu\u00e9m pra investigar.",
+        "textOriginal": "Uma coisa \u00e9 n\u00e3o ter Crime. outra coisa \u00e9 n\u00e3o ter Ningu\u00e9m pra investigar.",
+        "authorDisplayName": "Luiz. SS.  v",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/eiUTAZNtx9JylT3jpKfLUeESys9GiP6D-Ztzu7JQx1whCt_I__f850AVVnoqWgQ86Q_LT4ITpiY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiZbxwyEHd_bZ7JGRigvctg",
+        "authorChannelId": {
+          "value": "UCiZbxwyEHd_bZ7JGRigvctg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-01-07T22:46:18Z",
+        "updatedAt": "2022-01-07T22:46:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lyi7aZ1UgvGZ8grXQ4zrOsXW16E",
+      "id": "UgzUqejUYMxPYyGyOll4AaABAg.9Wv3BUnqbOn9Wxf9t74G8i",
+      "snippet": {
+        "textDisplay": "A PF j\u00e1 est\u00e1 investigando.",
+        "textOriginal": "A PF j\u00e1 est\u00e1 investigando.",
+        "parentId": "UgzUqejUYMxPYyGyOll4AaABAg",
+        "authorDisplayName": "F\u00e9lix\u2696",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ZoOsqAW2pgq0s1jsLP3SPph6x99x9RxWu_KsavivISpTXf15auxh5EFPmXu5N4X5_hJcE1wd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7T1OzdAV3E3BgfNMAwlbgg",
+        "authorChannelId": {
+          "value": "UC7T1OzdAV3E3BgfNMAwlbgg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-08T23:05:21Z",
+        "updatedAt": "2022-01-08T23:05:21Z"
+      }
+    }
+  ]
+}

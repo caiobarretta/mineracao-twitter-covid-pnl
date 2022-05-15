@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BAYi5Q5SLhfTVerYVxdWaEinRQU",
+  "id": "UgxDhU414VLagyxNEAF4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YOFS7DroJbbpStX2nyOkZX2E9Gg",
+      "id": "UgxDhU414VLagyxNEAF4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "What components does the pc with which the tests have been done?",
+        "textOriginal": "What components does the pc with which the tests have been done?",
+        "authorDisplayName": "Guillermo Abad",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnFS_vttpTCb-vGuEEC8QmxUG20XC1dFRlyjQqqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZby1_TWVldjqM9fm6LvzeQ",
+        "authorChannelId": {
+          "value": "UCZby1_TWVldjqM9fm6LvzeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T08:47:25Z",
+        "updatedAt": "2021-08-20T08:47:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "x07yhTpOGi0jMZc50NxPZPeAyfY",
+      "id": "UgxDhU414VLagyxNEAF4AaABAg.9RG3trQYZBJ9RGC2kNEiGA",
+      "snippet": {
+        "textDisplay": "(One example machine is mine, a 3960X, 64GB RAM system; this one sometimes used for the figures in the video and blog - but of course a 10% speed up is a 10% speed up, whatever your machine and whatever your actual render time :) Tom )",
+        "textOriginal": "(One example machine is mine, a 3960X, 64GB RAM system; this one sometimes used for the figures in the video and blog - but of course a 10% speed up is a 10% speed up, whatever your machine and whatever your actual render time :) Tom )",
+        "parentId": "UgxDhU414VLagyxNEAF4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-20T09:58:40Z",
+        "updatedAt": "2021-08-20T09:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "_unc6HCalkmI7yETaxRy3WLFzgQ",
+      "id": "UgxDhU414VLagyxNEAF4AaABAg.9RG3trQYZBJ9RGB_g6jX0R",
+      "snippet": {
+        "textDisplay": "Tests were done on lots of different computers, so we can't give you the specs. This is to ensure that the speedups were seen universally and not just specific to any one system. Thanks! Tom",
+        "textOriginal": "Tests were done on lots of different computers, so we can't give you the specs. This is to ensure that the speedups were seen universally and not just specific to any one system. Thanks! Tom",
+        "parentId": "UgxDhU414VLagyxNEAF4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-20T09:54:34Z",
+        "updatedAt": "2021-08-20T09:54:34Z"
+      }
+    }
+  ]
+}

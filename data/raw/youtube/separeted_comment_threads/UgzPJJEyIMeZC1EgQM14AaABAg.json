@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w9_k6H0yhAWge8t5i90_rTY2uzM",
+  "id": "UgzPJJEyIMeZC1EgQM14AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fLouvGCwsENQd3rxB__nc0xbtSA",
+      "id": "UgzPJJEyIMeZC1EgQM14AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Yo tengo miedo por el coronavirus",
+        "textOriginal": "Yo tengo miedo por el coronavirus",
+        "authorDisplayName": "Estefany correa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQKbS2sYLin2IbnFa2Ui1HxOLCxnfzmi13GF802AQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHgNtcmYXhatTMrYiCHq2zw",
+        "authorChannelId": {
+          "value": "UCHgNtcmYXhatTMrYiCHq2zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2020-02-29T00:09:47Z",
+        "updatedAt": "2020-02-29T00:09:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s1xd6KcYuds3Fg1jO0az5hgF2M4",
+      "id": "UgzPJJEyIMeZC1EgQM14AaABAg.95apzoYbAaz98gfr2kj6SH",
+      "snippet": {
+        "textDisplay": "Yo tambi\u00e9n  tengo  miedo",
+        "textOriginal": "Yo tambi\u00e9n  tengo  miedo",
+        "parentId": "UgzPJJEyIMeZC1EgQM14AaABAg",
+        "authorDisplayName": "Aracelis Simarra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVQdvQSnWwjHrM12uPvKe918WWhMRgslWRMvEMa4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCR6Kg7WCxTNZnjrqocuB-LA",
+        "authorChannelId": {
+          "value": "UCR6Kg7WCxTNZnjrqocuB-LA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-15T20:10:50Z",
+        "updatedAt": "2020-05-15T20:10:50Z"
+      }
+    }
+  ]
+}

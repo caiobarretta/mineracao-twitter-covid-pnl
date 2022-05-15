@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yAgMEkXVIvgfx3un4TEgW84YFaQ",
+  "id": "UgwwULDRqAk6NYz_5gV4AaABAg",
+  "snippet": {
+    "videoId": "DxuT6aLI3F0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8l6hfUCOcL8GOaAPVsptWcfFrZs",
+      "id": "UgwwULDRqAk6NYz_5gV4AaABAg",
+      "snippet": {
+        "videoId": "DxuT6aLI3F0",
+        "textDisplay": "As vezes penso que esse cara, est\u00e1 adorando essa situa\u00e7\u00e3o?",
+        "textOriginal": "As vezes penso que esse cara, est\u00e1 adorando essa situa\u00e7\u00e3o?",
+        "authorDisplayName": "F\u00e1tima Torres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSU9TuyB6FrESqk1QBAnTY5PBtfpKOSB8LP1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpzGZj-hpwrF1fRIj3laQ3g",
+        "authorChannelId": {
+          "value": "UCpzGZj-hpwrF1fRIj3laQ3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2021-07-23T12:08:28Z",
+        "updatedAt": "2021-07-23T12:08:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ewe3vBtJCbhIE9IxXdjS2AmVjfA",
+      "id": "UgwwULDRqAk6NYz_5gV4AaABAg.9Q8KdvtG7NB9QavQZwrD3_",
+      "snippet": {
+        "textDisplay": "tambem acho",
+        "textOriginal": "tambem acho",
+        "parentId": "UgwwULDRqAk6NYz_5gV4AaABAg",
+        "authorDisplayName": "elaine maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7y-WomgqQtbwxjiKPP5-JKHFYFPtMIePRgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr-3cFHBoUotrHcTHCgo6VA",
+        "authorChannelId": {
+          "value": "UCr-3cFHBoUotrHcTHCgo6VA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-03T23:56:32Z",
+        "updatedAt": "2021-08-03T23:56:32Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Wn3rf-E4pMcIWI-N3XNlnCXx5-c",
+      "id": "UgwwULDRqAk6NYz_5gV4AaABAg.9Q8KdvtG7NB9QGW17L8WeR",
+      "snippet": {
+        "textDisplay": "F\u00e1tima Torres, tamb\u00e9m tenho a mesma impress\u00e3o.",
+        "textOriginal": "F\u00e1tima Torres, tamb\u00e9m tenho a mesma impress\u00e3o.",
+        "parentId": "UgwwULDRqAk6NYz_5gV4AaABAg",
+        "authorDisplayName": "Lucileia Aquino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYbOgYnYzeOjuMV0dYtrwSiITLkRU_3-_znQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN7C7FSBKBANEt0ofIBLDXw",
+        "authorChannelId": {
+          "value": "UCN7C7FSBKBANEt0ofIBLDXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-26T16:21:49Z",
+        "updatedAt": "2021-07-26T16:21:49Z"
+      }
+    }
+  ]
+}

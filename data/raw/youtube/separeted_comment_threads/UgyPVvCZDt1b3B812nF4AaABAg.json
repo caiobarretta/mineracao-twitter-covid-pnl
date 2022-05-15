@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pQq9sPMHZ7LxTQUhdKSy0ZEJ9ZQ",
+  "id": "UgyPVvCZDt1b3B812nF4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B0WveBH6Ti-IgFTjCnvmRfrpnvU",
+      "id": "UgyPVvCZDt1b3B812nF4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Que tipo de virus es el coronavirus?",
+        "textOriginal": "Que tipo de virus es el coronavirus?",
+        "authorDisplayName": "Sergio Santacruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTj-eho1d1FTa9pvMt5peEWDr-fWK1UXYDLu6as6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpx53xhSNy36l39W8HZYzHA",
+        "authorChannelId": {
+          "value": "UCpx53xhSNy36l39W8HZYzHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-10T22:06:25Z",
+        "updatedAt": "2021-05-10T22:06:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sDj-GhYVRrWo9puJBaxNtnsFb68",
+      "id": "UgyPVvCZDt1b3B812nF4AaABAg.9NArFfDWWCu9NEM_vxDAMc",
+      "snippet": {
+        "textDisplay": "Virus ARN.\n\nUn saludo.",
+        "textOriginal": "Virus ARN.\n\nUn saludo.",
+        "parentId": "UgyPVvCZDt1b3B812nF4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-12T06:46:40Z",
+        "updatedAt": "2021-05-12T06:46:40Z"
+      }
+    }
+  ]
+}

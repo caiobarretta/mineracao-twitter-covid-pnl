@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NyLeWATYwVIvZg_2k2PGILQrJLw",
+  "id": "UgyKuIxzxkNlky3xMZp4AaABAg",
+  "snippet": {
+    "videoId": "GYnDObJgoQ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tswX9mN3DdHzngglHytrEqBklMk",
+      "id": "UgyKuIxzxkNlky3xMZp4AaABAg",
+      "snippet": {
+        "videoId": "GYnDObJgoQ4",
+        "textDisplay": "Romulo es el personaje epico de la novela\ud83d\ude0e",
+        "textOriginal": "Romulo es el personaje epico de la novela\ud83d\ude0e",
+        "authorDisplayName": "Alizon Guarachi Rios",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQV8sDhdfAd-X3W52H-gqNVSCymVaEiWcRjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UConpYrltFbFXQgaQe6QYzFw",
+        "authorChannelId": {
+          "value": "UConpYrltFbFXQgaQe6QYzFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2021-11-27T16:35:26Z",
+        "updatedAt": "2021-11-27T16:35:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OdozD4BGn48yQe2Oa_kCp_i73ec",
+      "id": "UgyKuIxzxkNlky3xMZp4AaABAg.9VFp9K8HhnB9VG0xGLNOI8",
+      "snippet": {
+        "textDisplay": "Confirmo",
+        "textOriginal": "Confirmo",
+        "parentId": "UgyKuIxzxkNlky3xMZp4AaABAg",
+        "authorDisplayName": "AND",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GxktlDWYa2LyJgimm4eQjYzR1gM5KLEHsoXs20giBBxDrDg7Ez7GaMKVmygz66gAjyBvBPM01-c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEtAhBJkuqjF1yMKxbOeGsQ",
+        "authorChannelId": {
+          "value": "UCEtAhBJkuqjF1yMKxbOeGsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-11-27T18:27:15Z",
+        "updatedAt": "2021-11-27T18:27:15Z"
+      }
+    }
+  ]
+}

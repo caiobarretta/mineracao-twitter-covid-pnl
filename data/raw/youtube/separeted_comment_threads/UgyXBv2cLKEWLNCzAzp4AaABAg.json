@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5vn1necFh9X_DRfryxjnxXbUE5Y",
+  "id": "UgyXBv2cLKEWLNCzAzp4AaABAg",
+  "snippet": {
+    "videoId": "IZKNSM7FgsM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fzySHzPO1JnM25txGfPsGDxXb74",
+      "id": "UgyXBv2cLKEWLNCzAzp4AaABAg",
+      "snippet": {
+        "videoId": "IZKNSM7FgsM",
+        "textDisplay": "Doctor, mucha gracias por su explicaci\u00f3n, ha sido precisa y aclara varias dudas. Es nuestro deber seguir tomando las precauciones necesarias para evitar su propagaci\u00f3n.",
+        "textOriginal": "Doctor, mucha gracias por su explicaci\u00f3n, ha sido precisa y aclara varias dudas. Es nuestro deber seguir tomando las precauciones necesarias para evitar su propagaci\u00f3n.",
+        "authorDisplayName": "Pili Serrano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGAAwoHkVaOFm90CQd8HVPqu132PvbPDhgYY9LrBY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr06-KtuVMW4Q3YV8kgxK4g",
+        "authorChannelId": {
+          "value": "UCr06-KtuVMW4Q3YV8kgxK4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-09T15:09:34Z",
+        "updatedAt": "2020-05-09T15:17:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9vY5C_EFFFecx51IP0grSIW8Vp8",
+      "id": "UgyXBv2cLKEWLNCzAzp4AaABAg.98RgbKBJYi598Rk7RizLPT",
+      "snippet": {
+        "textDisplay": "Es la una explicaci\u00f3n sencilla, pero creo que sirve. Saludos.",
+        "textOriginal": "Es la una explicaci\u00f3n sencilla, pero creo que sirve. Saludos.",
+        "parentId": "UgyXBv2cLKEWLNCzAzp4AaABAg",
+        "authorDisplayName": "Alberto Sanagust\u00edn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6qC6ThTtuykDBG20xo58fE3NyY_XFJQajw0sdPzvHUcMcmA5q5rkmN4YNcm8V6cJ_XLTbSsWUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ohLcxGUDGVIp69s26swuw",
+        "authorChannelId": {
+          "value": "UC9ohLcxGUDGVIp69s26swuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-09T15:40:18Z",
+        "updatedAt": "2020-05-09T15:40:18Z"
+      }
+    }
+  ]
+}

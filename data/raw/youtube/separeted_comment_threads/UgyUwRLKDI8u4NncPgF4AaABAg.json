@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ujlvsd4wYb3_Dhgo7nVGHruxTUA",
+  "id": "UgyUwRLKDI8u4NncPgF4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "giIpcFGoiqbCmKE6akUu6V2LinQ",
+      "id": "UgyUwRLKDI8u4NncPgF4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "WE WILL GET THROUGH THIS!",
+        "textOriginal": "WE WILL GET THROUGH THIS!",
+        "authorDisplayName": "John",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8et-Tt69GboC-V_f-yFFRUmtw5BFg2y6k1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNSyJ62lZgAUlEIiMM0OhKA",
+        "authorChannelId": {
+          "value": "UCNSyJ62lZgAUlEIiMM0OhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-12T01:48:00Z",
+        "updatedAt": "2020-03-12T01:48:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uGBjoCxEf3SVKH9w4aEQ8TDe1kE",
+      "id": "UgyUwRLKDI8u4NncPgF4AaABAg.964ulhC1LrC968HQwAIzf7",
+      "snippet": {
+        "textDisplay": "I certainly hope so.",
+        "textOriginal": "I certainly hope so.",
+        "parentId": "UgyUwRLKDI8u4NncPgF4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-13T09:12:28Z",
+        "updatedAt": "2020-03-13T09:12:28Z"
+      }
+    }
+  ]
+}

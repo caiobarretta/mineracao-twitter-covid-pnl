@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KxBxplnL5WjH5vgAanSqq7aTaB0",
+  "id": "UgzNjZWuFiHFkVmXr114AaABAg",
+  "snippet": {
+    "videoId": "wnryGI93c6s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MNe0U2XFBGtnExcwG3NGraeqcYI",
+      "id": "UgzNjZWuFiHFkVmXr114AaABAg",
+      "snippet": {
+        "videoId": "wnryGI93c6s",
+        "textDisplay": "Eu sei meu filho vai volta usar m\u00e1scara escola",
+        "textOriginal": "Eu sei meu filho vai volta usar m\u00e1scara escola",
+        "authorDisplayName": "paula vlog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TOyBylIccl8aU-ZQIhRMI4wD3fSUUXgob3zw086j07sHkHYKwfO1hb9lDunZt21_uta2I9zALw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3vp9h60XDBxFXzkAc16NPA",
+        "authorChannelId": {
+          "value": "UC3vp9h60XDBxFXzkAc16NPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T22:50:32Z",
+        "updatedAt": "2022-05-09T22:50:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6T3drngsMkEX_GZwOP36TYBilso",
+      "id": "UgzNjZWuFiHFkVmXr114AaABAg.9apCeEXPuBM9arIUD-IvEO",
+      "snippet": {
+        "textDisplay": "Manda tamb\u00e9m, ele se vacinar.",
+        "textOriginal": "Manda tamb\u00e9m, ele se vacinar.",
+        "parentId": "UgzNjZWuFiHFkVmXr114AaABAg",
+        "authorDisplayName": "Dalton C. Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4CZ-D19FInZuu2T718MPe7qTlCp9tVpBAnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC472C2jgBMiksRGEmocHc4Q",
+        "authorChannelId": {
+          "value": "UC472C2jgBMiksRGEmocHc4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T18:19:56Z",
+        "updatedAt": "2022-05-10T18:19:56Z"
+      }
+    }
+  ]
+}

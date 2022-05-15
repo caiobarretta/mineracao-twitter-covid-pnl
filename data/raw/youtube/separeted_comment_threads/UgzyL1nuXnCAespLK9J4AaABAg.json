@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IilzxODHRcnwS5-mRkWjm7aoWcw",
+  "id": "UgzyL1nuXnCAespLK9J4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WMgjdq440-FURvoWOSpDOoE9XU8",
+      "id": "UgzyL1nuXnCAespLK9J4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Sir, Kindly help me with this to remove the sprite after the sprite being played once. Did in corona and used texture packer for creating sprite sheet. \n\n\nlocal W = display.contentWidth\nlocal H = display.contentHeight\n\n-- -------------------\nlocal background = display.newImageRect( \"background.png\", W, H )\nbackground.x = display.contentCenterX\nbackground.y = display.contentCenterY\n\n-- ------------------------------------------------------------------------\n--Calling balloonburstsprite.lua file\nlocal objectSheet = require(\"balloonburstsprite\")\nlocal myObjectSheet = graphics.newImageSheet(\"image/balloonburstsprite.png\", objectSheet:getSheet())\n\n\n    local balloonBurst = display.newSprite(myObjectSheet, objectSheet:getSequenceData())\n    balloonBurst.x = display.contentCenterX\n    balloonBurst.y = display.contentCenterY\n\n--burst balloon\n    balloonBurst:setSequence(\"burst\")\n    balloonBurst:play()",
+        "textOriginal": "Sir, Kindly help me with this to remove the sprite after the sprite being played once. Did in corona and used texture packer for creating sprite sheet. \n\n\nlocal W = display.contentWidth\nlocal H = display.contentHeight\n\n-- -------------------\nlocal background = display.newImageRect( \"background.png\", W, H )\nbackground.x = display.contentCenterX\nbackground.y = display.contentCenterY\n\n-- ------------------------------------------------------------------------\n--Calling balloonburstsprite.lua file\nlocal objectSheet = require(\"balloonburstsprite\")\nlocal myObjectSheet = graphics.newImageSheet(\"image/balloonburstsprite.png\", objectSheet:getSheet())\n\n\n    local balloonBurst = display.newSprite(myObjectSheet, objectSheet:getSequenceData())\n    balloonBurst.x = display.contentCenterX\n    balloonBurst.y = display.contentCenterY\n\n--burst balloon\n    balloonBurst:setSequence(\"burst\")\n    balloonBurst:play()",
+        "authorDisplayName": "VIJESH KUMAR V",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLCDx8VrTI5QCjx-Y98OpKdq9kNVkkIKJS2E-m=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGdcTbRpi_FjViwru-wuvZQ",
+        "authorChannelId": {
+          "value": "UCGdcTbRpi_FjViwru-wuvZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-03-05T01:19:11Z",
+        "updatedAt": "2018-03-05T01:19:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ni2XtK0X-Z6PqNv4qlYjEYFnEl8",
+      "id": "UgzyL1nuXnCAespLK9J4AaABAg.8dOZovndQye8dQFVyzjW8O",
+      "snippet": {
+        "textDisplay": "I would suggest using the sprite listener to call a function that either removes the balloon or turns it's alpha to 0: https://docs.coronalabs.com/guide/media/spriteAnimation/index.html",
+        "textOriginal": "I would suggest using the sprite listener to call a function that either removes the balloon or turns it's alpha to 0: https://docs.coronalabs.com/guide/media/spriteAnimation/index.html",
+        "parentId": "UgzyL1nuXnCAespLK9J4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-03-05T17:00:11Z",
+        "updatedAt": "2018-03-05T17:00:11Z"
+      }
+    }
+  ]
+}

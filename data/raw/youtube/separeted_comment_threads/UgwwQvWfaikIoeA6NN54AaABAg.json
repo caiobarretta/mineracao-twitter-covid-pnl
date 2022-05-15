@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ARN_ftLQzPIaGJbYzvrOGMaOTsE",
+  "id": "UgwwQvWfaikIoeA6NN54AaABAg",
+  "snippet": {
+    "videoId": "JXZEA0LBEsE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_pXAj-e5hoENMiFyaOC3PwxM5S4",
+      "id": "UgwwQvWfaikIoeA6NN54AaABAg",
+      "snippet": {
+        "videoId": "JXZEA0LBEsE",
+        "textDisplay": "Como j\u00e1 chegou na fase X, acredito que logo logo chegar\u00e1 ao n\u00edvel Z, e ai.... fim dessa novela.",
+        "textOriginal": "Como j\u00e1 chegou na fase X, acredito que logo logo chegar\u00e1 ao n\u00edvel Z, e ai.... fim dessa novela.",
+        "authorDisplayName": "Luiz Henrique -Magoh",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAcQdtvY4r858dIF1WpoSR-DfxqzhopLcAlZXP=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCTyn7COLfb-iPPssjQhyQA",
+        "authorChannelId": {
+          "value": "UCCTyn7COLfb-iPPssjQhyQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-04-08T22:43:02Z",
+        "updatedAt": "2022-04-08T22:43:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5Pnp-2180jperFcGQBQ-11NH3OM",
+      "id": "UgwwQvWfaikIoeA6NN54AaABAg.9__N9GHnuY19_akyWM7syt",
+      "snippet": {
+        "textDisplay": "Novela?",
+        "textOriginal": "Novela?",
+        "parentId": "UgwwQvWfaikIoeA6NN54AaABAg",
+        "authorDisplayName": "Alo\u00edsio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3btGpUnoBP3Efr4TOykzHbIS25NY_fDUaGPsUbqAKTIiCXjWjDS-kOQTBZPHb0G9i3T12PGAsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGbxTs7PWZjBv2SFwFdxdlg",
+        "authorChannelId": {
+          "value": "UCGbxTs7PWZjBv2SFwFdxdlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-09T11:39:08Z",
+        "updatedAt": "2022-04-09T11:39:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gap-WjFFoUgYBASQQImSlj5Q7lg",
+  "id": "UgxXHPjgEhCDs9VrD2h4AaABAg",
+  "snippet": {
+    "videoId": "06CNVdnDkQ0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OIZ3DT4-lBd8PcclTtTRGjT0r3U",
+      "id": "UgxXHPjgEhCDs9VrD2h4AaABAg",
+      "snippet": {
+        "videoId": "06CNVdnDkQ0",
+        "textDisplay": "Just in time for the midterms",
+        "textOriginal": "Just in time for the midterms",
+        "authorDisplayName": "Tyrese",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNEFbLk6Lo0XI5KF6lqP51iH43sirE_mrEZpjxng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl9MBktwXw8ZKW-j4bMkiMA",
+        "authorChannelId": {
+          "value": "UCl9MBktwXw8ZKW-j4bMkiMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 31,
+        "publishedAt": "2022-05-10T14:17:06Z",
+        "updatedAt": "2022-05-10T14:17:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z_XOREu1Hh-Pty_tonwLl1JXoME",
+      "id": "UgxXHPjgEhCDs9VrD2h4AaABAg.9aqrggX51PO9aqyXA7Vkw6",
+      "snippet": {
+        "textDisplay": "Yup row v Wade and all of a sudden",
+        "textOriginal": "Yup row v Wade and all of a sudden",
+        "parentId": "UgxXHPjgEhCDs9VrD2h4AaABAg",
+        "authorDisplayName": "Danny",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zLPU9RHAPHGGMTESCkqjA0aS0HGwXyn4AMvXXDccRzwQxiEmmQOSFYTDe2s6hVz00yy5MW0m3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ_vAvmuBNd915dYp44EkKg",
+        "authorChannelId": {
+          "value": "UCZ_vAvmuBNd915dYp44EkKg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T15:16:50Z",
+        "updatedAt": "2022-05-10T15:16:50Z"
+      }
+    }
+  ]
+}

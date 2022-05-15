@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fY3Ughin8wvy3zaU61pN2KI6PPc",
+  "id": "UgyT024GLWFOMeG8uRB4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tLNjGHK_xzjyvvzPr57wWiF3T7w",
+      "id": "UgyT024GLWFOMeG8uRB4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Hi, I downloaded corona sdk, and tried to build the balloon tapgame by following  corona  sdk instructions on their website, but it won't let me build in  notepad++. Can anyone help please.",
+        "textOriginal": "Hi, I downloaded corona sdk, and tried to build the balloon tapgame by following  corona  sdk instructions on their website, but it won't let me build in  notepad++. Can anyone help please.",
+        "authorDisplayName": "Ibrahim Rahman",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSucq3LWR-jtRlcbHOD80Ae1wure0F4RKxVqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCboi7OTdDaPObNToRn0mYNQ",
+        "authorChannelId": {
+          "value": "UCboi7OTdDaPObNToRn0mYNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-29T03:34:04Z",
+        "updatedAt": "2020-04-29T03:34:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SOpPpC5cGOLvvjqp986j0vya1mw",
+      "id": "UgyT024GLWFOMeG8uRB4AaABAg.980h3aMuGez983GvsymMeY",
+      "snippet": {
+        "textDisplay": "@Tymur Rahman Make sure the images are in the same folder as the main.lua file.",
+        "textOriginal": "@Tymur Rahman Make sure the images are in the same folder as the main.lua file.",
+        "parentId": "UgyT024GLWFOMeG8uRB4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-30T03:34:40Z",
+        "updatedAt": "2020-04-30T03:34:40Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "nC49lrWoqLLaweb1yhJmhBJvUi0",
+      "id": "UgyT024GLWFOMeG8uRB4AaABAg.980h3aMuGez982_pO_3C1U",
+      "snippet": {
+        "textDisplay": "What error are you getting?",
+        "textOriginal": "What error are you getting?",
+        "parentId": "UgyT024GLWFOMeG8uRB4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-29T21:09:19Z",
+        "updatedAt": "2020-04-29T21:09:19Z"
+      }
+    }
+  ]
+}

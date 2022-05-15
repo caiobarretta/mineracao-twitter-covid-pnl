@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WdUX0zDWFXYJqJ81YeWlaWBXBiE",
+  "id": "UgzvXrbsXrLy0NiL_YV4AaABAg",
+  "snippet": {
+    "videoId": "plw-ySLS-lI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1NL9dCmAfuu1m-VrFwAAXVY0ocU",
+      "id": "UgzvXrbsXrLy0NiL_YV4AaABAg",
+      "snippet": {
+        "videoId": "plw-ySLS-lI",
+        "textDisplay": "is it possible for covid to do recombination with MERS virus or are they too different?",
+        "textOriginal": "is it possible for covid to do recombination with MERS virus or are they too different?",
+        "authorDisplayName": "ppartsx",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_rEernpO83RybQDZ-6NsU_P7Xv8O4trVMncFs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy7v7fbtF8CLWnx_IQ2yO8w",
+        "authorChannelId": {
+          "value": "UCy7v7fbtF8CLWnx_IQ2yO8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-07-10T16:45:07Z",
+        "updatedAt": "2021-07-10T16:45:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "txO00l_5WjQ-GL4MgqNxekR9bSs",
+      "id": "UgzvXrbsXrLy0NiL_YV4AaABAg.9PcLygtJCsi9TU5rwFTrKo",
+      "snippet": {
+        "textDisplay": "No, they are too phylogenetically distant.",
+        "textOriginal": "No, they are too phylogenetically distant.",
+        "parentId": "UgzvXrbsXrLy0NiL_YV4AaABAg",
+        "authorDisplayName": "Alltid S\u00f6mnig",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/60lCPHbBqryUaTwj9YoLENmlEEjxu7OfYxyfYV5R7IkekYTG4bHILoxtByLscB-AOMTPjjEezA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXS52pjhx1CuekEECAW3Yow",
+        "authorChannelId": {
+          "value": "UCXS52pjhx1CuekEECAW3Yow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-14T12:36:47Z",
+        "updatedAt": "2021-10-14T12:36:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KPPVnev3Ui9dw9QmL9oEPL76-TE",
+  "id": "Ugwdvw-GiJqeHXQrdDB4AaABAg",
+  "snippet": {
+    "videoId": "3i6_7qpkIPM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NqmdienMu5BRczI8EznMfpbUjPQ",
+      "id": "Ugwdvw-GiJqeHXQrdDB4AaABAg",
+      "snippet": {
+        "videoId": "3i6_7qpkIPM",
+        "textDisplay": "Amo",
+        "textOriginal": "Amo",
+        "authorDisplayName": "jhoel salas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4U9uc4raNhpP-KHGeYm5psUEu7xklSHc3tkp8Nw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUzXRE16ntZNoztma0b9VIg",
+        "authorChannelId": {
+          "value": "UCUzXRE16ntZNoztma0b9VIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-03-05T01:54:26Z",
+        "updatedAt": "2021-03-05T01:54:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o4FrG4gcSTPzzODUA5GhnM9gKzs",
+      "id": "Ugwdvw-GiJqeHXQrdDB4AaABAg.9KUk54oLBBD9KjTU1h3hKu",
+      "snippet": {
+        "textDisplay": "Gracias por vernos y por comentar Jhoel salas, le agradecemos que se suscriba y comparta nuestro contenido, saludos.",
+        "textOriginal": "Gracias por vernos y por comentar Jhoel salas, le agradecemos que se suscriba y comparta nuestro contenido, saludos.",
+        "parentId": "Ugwdvw-GiJqeHXQrdDB4AaABAg",
+        "authorDisplayName": "Fisiolog\u00eda DJ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kNVz_l_oZLH__UQi81oSIQl-mhHpdcXEnWNcBEpVvvs_Rfk2YgCQ6p-uijO217SWDFWm4LPRVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGqNKNc-NvzDWCT0JH6hN6Q",
+        "authorChannelId": {
+          "value": "UCGqNKNc-NvzDWCT0JH6hN6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-03-11T04:28:24Z",
+        "updatedAt": "2021-03-11T04:28:24Z"
+      }
+    }
+  ]
+}

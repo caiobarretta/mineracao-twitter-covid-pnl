@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ijlPW_fV7a6pycYf02ZGn07CgvE",
+  "id": "Ugz9IiwdiWplPXTTbbt4AaABAg",
+  "snippet": {
+    "videoId": "kR3uGQdbUjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "81-3077X1-ZY2XmPKstLj_m4kBU",
+      "id": "Ugz9IiwdiWplPXTTbbt4AaABAg",
+      "snippet": {
+        "videoId": "kR3uGQdbUjU",
+        "textDisplay": "Sempre o mesmo assunto nada de novo",
+        "textOriginal": "Sempre o mesmo assunto nada de novo",
+        "authorDisplayName": "Francisco sat Francisco Sat",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9pYRZOt7SgvzSFdpi-uqLbmmVBVXWlxWUQM9mXw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSpsy--59LDyb1L3njPU8Bw",
+        "authorChannelId": {
+          "value": "UCSpsy--59LDyb1L3njPU8Bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T14:34:36Z",
+        "updatedAt": "2022-05-10T14:34:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DGValnHCNuXx_OOVybjWmS1fLw0",
+      "id": "Ugz9IiwdiWplPXTTbbt4AaABAg.9aqtgo5Ao1t9aqviUi1MYA",
+      "snippet": {
+        "textDisplay": "Ent\u00e3o n\u00e3o comente.",
+        "textOriginal": "Ent\u00e3o n\u00e3o comente.",
+        "parentId": "Ugz9IiwdiWplPXTTbbt4AaABAg",
+        "authorDisplayName": "Emmanuel Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtXYtiufpi-QQfqNNUQCF2NqN3ZXCBeZW26Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9TwDMDEVmYkDWAeZih05kQ",
+        "authorChannelId": {
+          "value": "UC9TwDMDEVmYkDWAeZih05kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T14:52:18Z",
+        "updatedAt": "2022-05-10T14:52:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Q0XbRItYJbin8dWsmFKASw_N2NQ",
+  "id": "Ugz--mgVfHBZ5ZC4pGt4AaABAg",
+  "snippet": {
+    "videoId": "xS900kHtDvk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Mkvj-sraa24eTBGsFruOMBMKPMM",
+      "id": "Ugz--mgVfHBZ5ZC4pGt4AaABAg",
+      "snippet": {
+        "videoId": "xS900kHtDvk",
+        "textDisplay": "N\u00e3o estou tendo acesso a lista de presen\u00e7a :/",
+        "textOriginal": "N\u00e3o estou tendo acesso a lista de presen\u00e7a :/",
+        "authorDisplayName": "Thaisa Sena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/FSlIbPy8xgREbfcNc0ICdcRL5oMyaksVLfy8M6DVLYP_mpZFGN_jKL9InEAAQL0rPwFAh6xG3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSTc7CvwY62ASxD0jHgrnDQ",
+        "authorChannelId": {
+          "value": "UCSTc7CvwY62ASxD0jHgrnDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-07T00:29:03Z",
+        "updatedAt": "2021-12-07T00:29:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k7xN4etaUH190fx_39_He2WAkEI",
+      "id": "Ugz--mgVfHBZ5ZC4pGt4AaABAg.9VcqW64C7-19Vcu_mLXLjd",
+      "snippet": {
+        "textDisplay": "Nossa tbem n\u00e3o achei a lista!!",
+        "textOriginal": "Nossa tbem n\u00e3o achei a lista!!",
+        "parentId": "Ugz--mgVfHBZ5ZC4pGt4AaABAg",
+        "authorDisplayName": "Thaylinha Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR19JuIC3tycSJO5PnTJ_U1OtQsQh2Axp4UcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBrwjWlXmmyniT0fyIk8EXQ",
+        "authorChannelId": {
+          "value": "UCBrwjWlXmmyniT0fyIk8EXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-07T01:04:39Z",
+        "updatedAt": "2021-12-07T01:04:39Z"
+      }
+    }
+  ]
+}

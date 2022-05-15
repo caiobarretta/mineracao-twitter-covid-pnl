@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EHfcRImtWyUq2pBOLO6c7Xu3-0c",
+  "id": "UgxpVAgAu6pj5R4JJSB4AaABAg",
+  "snippet": {
+    "videoId": "kBT3ntUNvVM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6OE9Jcl-5tJ05EOdW4LqbCoyqPQ",
+      "id": "UgxpVAgAu6pj5R4JJSB4AaABAg",
+      "snippet": {
+        "videoId": "kBT3ntUNvVM",
+        "textDisplay": "Record lixo",
+        "textOriginal": "Record lixo",
+        "authorDisplayName": "Gaby Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_hy4zYzW6bNqMFAD6w8idof9Ek187BFCDof4zL5ATVYzhM-_ytjgO1p55VoJW9GGhbBHKJeChA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKkf1jqy-jm0KA9RJBtoCmQ",
+        "authorChannelId": {
+          "value": "UCKkf1jqy-jm0KA9RJBtoCmQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-29T12:38:56Z",
+        "updatedAt": "2021-11-29T12:38:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "62n2-KHAm5ZOPLfLXH5049RT5Ec",
+      "id": "UgxpVAgAu6pj5R4JJSB4AaABAg.9VKYfrUXoXM9VOY87pMoEr",
+      "snippet": {
+        "textDisplay": "Pq?",
+        "textOriginal": "Pq?",
+        "parentId": "UgxpVAgAu6pj5R4JJSB4AaABAg",
+        "authorDisplayName": "Carlos Eduardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROPPXkuTFKBsSmfYS9MTleXijdywRDYGk4D2mjfnw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9B-mTNr3Nyr16oFO-DhN2g",
+        "authorChannelId": {
+          "value": "UC9B-mTNr3Nyr16oFO-DhN2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-01T01:51:09Z",
+        "updatedAt": "2021-12-01T01:51:09Z"
+      }
+    }
+  ]
+}

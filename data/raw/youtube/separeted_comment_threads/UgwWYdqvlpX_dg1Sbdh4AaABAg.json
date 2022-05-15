@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T0rzR1JQ-reAlqN_mXhsqNF_Ndk",
+  "id": "UgwWYdqvlpX_dg1Sbdh4AaABAg",
+  "snippet": {
+    "videoId": "Z2qbgxp_2LI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tJaSUSrdlJdpBkGvNKCyTaKXSUQ",
+      "id": "UgwWYdqvlpX_dg1Sbdh4AaABAg",
+      "snippet": {
+        "videoId": "Z2qbgxp_2LI",
+        "textDisplay": "Top demais mano parab\u00e9ns",
+        "textOriginal": "Top demais mano parab\u00e9ns",
+        "authorDisplayName": "Hugo Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZ897bjBZ80y0594rHmzq3KCJf7W3Ae7vxWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC97BhlBKTgcLJ9Z426hfJQg",
+        "authorChannelId": {
+          "value": "UC97BhlBKTgcLJ9Z426hfJQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T12:40:07Z",
+        "updatedAt": "2022-05-10T12:40:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WW5YUOohcfysSGjoEz0OWpePQYs",
+      "id": "UgwWYdqvlpX_dg1Sbdh4AaABAg.9aqgaGJSjOP9aqk3jnhh_m",
+      "snippet": {
+        "textDisplay": "Valeu, Hugo!",
+        "textOriginal": "Valeu, Hugo!",
+        "parentId": "UgwWYdqvlpX_dg1Sbdh4AaABAg",
+        "authorDisplayName": "Marcos Game Dev",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/a2HE9cDu4G_q183gVzk_h5TSSCulEaPtNg2pWN6z0rBz8nAGgVldiVV3hdz8YRk0QH2Xp3wek1Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC0RqWklkXJwAd_HIsxRZDg",
+        "authorChannelId": {
+          "value": "UCC0RqWklkXJwAd_HIsxRZDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T13:10:29Z",
+        "updatedAt": "2022-05-10T13:10:29Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UGzjmapw5gtysV-_ddtz06IY_wE",
+  "id": "UgywIPqmklOFWj6kVix4AaABAg",
+  "snippet": {
+    "videoId": "tvi1zXDsUsY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QkiUTFV2xdvE35okRtRD4guzHpk",
+      "id": "UgywIPqmklOFWj6kVix4AaABAg",
+      "snippet": {
+        "videoId": "tvi1zXDsUsY",
+        "textDisplay": "Yo estoy bien contento, le\u00ed un chingo de libros de superaci\u00f3n personal, y estoy feliz, feliz, feliz. \ud83d\ude01\ud83d\ude01\ud83d\ude01",
+        "textOriginal": "Yo estoy bien contento, le\u00ed un chingo de libros de superaci\u00f3n personal, y estoy feliz, feliz, feliz. \ud83d\ude01\ud83d\ude01\ud83d\ude01",
+        "authorDisplayName": "Osvaldo Hern\u00e1ndez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXJ6y0TZTpnc9Iu_rxOfYgemKCrQdDxi-jUNOR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0L164hfbpl56D9TQZEZ5GA",
+        "authorChannelId": {
+          "value": "UC0L164hfbpl56D9TQZEZ5GA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-08-24T13:53:03Z",
+        "updatedAt": "2021-08-24T13:53:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rjC-HctcELJyEK454jb40wu_IQk",
+      "id": "UgywIPqmklOFWj6kVix4AaABAg.9RQv2oNMYGV9RQva-Iv135",
+      "snippet": {
+        "textDisplay": "\ud83d\ude06\ud83d\ude06\ud83d\ude06\ud83d\ude06",
+        "textOriginal": "\ud83d\ude06\ud83d\ude06\ud83d\ude06\ud83d\ude06",
+        "parentId": "UgywIPqmklOFWj6kVix4AaABAg",
+        "authorDisplayName": "Carmen Esteves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRA2GPFDcrCey5jOMR9dHx9PoqG1OTd0f6yRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHkb_VUaSbFUzxY98XvUNXw",
+        "authorChannelId": {
+          "value": "UCHkb_VUaSbFUzxY98XvUNXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-24T13:57:43Z",
+        "updatedAt": "2021-08-24T13:57:43Z"
+      }
+    }
+  ]
+}

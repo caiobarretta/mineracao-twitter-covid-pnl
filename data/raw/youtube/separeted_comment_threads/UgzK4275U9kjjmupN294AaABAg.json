@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yNc-_WVlFch1n5vV4qRXBS-w7-I",
+  "id": "UgzK4275U9kjjmupN294AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pYLBAu8yxYooj7pqTwVbboB1OQc",
+      "id": "UgzK4275U9kjjmupN294AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "que fea enfermedad",
+        "textOriginal": "que fea enfermedad",
+        "authorDisplayName": "jose luis trejo valdes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuMxUWOx7ixQ8X3d9DgQuIKXudxm8L2ZJfJg5o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG8EC342WOwvJzIOlV49TSg",
+        "authorChannelId": {
+          "value": "UCG8EC342WOwvJzIOlV49TSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-09T20:50:29Z",
+        "updatedAt": "2020-04-09T20:50:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LWj52cHjrGrqKcW_oSnb2zY4X3E",
+      "id": "UgzK4275U9kjjmupN294AaABAg.97F2m-hHBBz97F4Q3Xo7nZ",
+      "snippet": {
+        "textDisplay": "S\u00ed, est\u00e1 causando mucha desgracia.\ud83d\ude1e\nUn saludo.",
+        "textOriginal": "S\u00ed, est\u00e1 causando mucha desgracia.\ud83d\ude1e\nUn saludo.",
+        "parentId": "UgzK4275U9kjjmupN294AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-09T21:04:49Z",
+        "updatedAt": "2020-04-09T21:04:49Z"
+      }
+    }
+  ]
+}

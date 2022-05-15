@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YK-BW8tGxVcE15_Sc70vnBNfiVo",
+  "id": "UgxqW49jzUh77UIBABB4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LiSD4SwjMaP_9_Eqptn7HBK0DNc",
+      "id": "UgxqW49jzUh77UIBABB4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "i dont think corona can beat unity",
+        "textOriginal": "i dont think corona can beat unity",
+        "authorDisplayName": "Fast Solution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRy1iuYyi-Q0SWgZNUWH10Spo7i7hBtMHxGllMajA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOGA5JnlIF7spbyEDAkFG-g",
+        "authorChannelId": {
+          "value": "UCOGA5JnlIF7spbyEDAkFG-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-10-17T12:45:51Z",
+        "updatedAt": "2017-10-17T12:45:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UDNUeAUZuc9R7DrB8NYmpgaWWY4",
+      "id": "UgxqW49jzUh77UIBABB4AaABAg.8YosuaoOeuO8Yowj0JmFH6",
+      "snippet": {
+        "textDisplay": "Yes, you can use 3D models in 2D games in Unity, but at what cost?  Development of 3D models compared to sprite sheets or 2D graphics is significantly higher in cost and time.\nAnd yes, the ux/ui in Unity is nice, but not any better than Corona.  I would say they are tied in that regard.\nAs for developer community, while Unity has a large community, in my experience the Corona community is much more helpful.",
+        "textOriginal": "Yes, you can use 3D models in 2D games in Unity, but at what cost?  Development of 3D models compared to sprite sheets or 2D graphics is significantly higher in cost and time.\nAnd yes, the ux/ui in Unity is nice, but not any better than Corona.  I would say they are tied in that regard.\nAs for developer community, while Unity has a large community, in my experience the Corona community is much more helpful.",
+        "parentId": "UgxqW49jzUh77UIBABB4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-10-17T13:19:13Z",
+        "updatedAt": "2017-10-17T13:19:13Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "JqdvoVTaUUPQVZmTAp6IJs7m8SI",
+      "id": "UgxqW49jzUh77UIBABB4AaABAg.8YosuaoOeuO8YowCwDPubY",
+      "snippet": {
+        "textDisplay": "Unity is good for 2d also coz you can merge 3D models in 2d space also unity has a good ux/ui and has a great developer community",
+        "textOriginal": "Unity is good for 2d also coz you can merge 3D models in 2d space also unity has a good ux/ui and has a great developer community",
+        "parentId": "UgxqW49jzUh77UIBABB4AaABAg",
+        "authorDisplayName": "Fast Solution",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRy1iuYyi-Q0SWgZNUWH10Spo7i7hBtMHxGllMajA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOGA5JnlIF7spbyEDAkFG-g",
+        "authorChannelId": {
+          "value": "UCOGA5JnlIF7spbyEDAkFG-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-10-17T13:14:42Z",
+        "updatedAt": "2017-10-17T13:14:42Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8xpn8QCQj8ppxHM94ENf6D4qing",
+      "id": "UgxqW49jzUh77UIBABB4AaABAg.8YosuaoOeuO8Yov3hFQYly",
+      "snippet": {
+        "textDisplay": "I think you are trying to compare apples to oranges.  It all depends on the needs.  If you are developing a 3D game, no question, Unity or Lumberyard (I would choose Lumberyard) are the way to go.  \nIf you need to make an app or 2D game, Corona wins easily:\nPrice - Enterprise and regular Corona are FREE, Unity - personal is free, but everything else costs (a lot)\nCommunity - While Unity has a larger community, I have found the Corona community to be much more helpful\nDevelopment Time - Corona is much faster to develop in than Unity\nFlexibility - Corona can be used to develop apps, utilities, or games",
+        "textOriginal": "I think you are trying to compare apples to oranges.  It all depends on the needs.  If you are developing a 3D game, no question, Unity or Lumberyard (I would choose Lumberyard) are the way to go.  \nIf you need to make an app or 2D game, Corona wins easily:\nPrice - Enterprise and regular Corona are FREE, Unity - personal is free, but everything else costs (a lot)\nCommunity - While Unity has a larger community, I have found the Corona community to be much more helpful\nDevelopment Time - Corona is much faster to develop in than Unity\nFlexibility - Corona can be used to develop apps, utilities, or games",
+        "parentId": "UgxqW49jzUh77UIBABB4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2017-10-17T13:04:42Z",
+        "updatedAt": "2017-10-17T13:19:37Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7rps5BGTFTpvM2DZ_ykX6-yYDAQ",
+  "id": "UgxQK30njhc62KRyIsl4AaABAg",
+  "snippet": {
+    "videoId": "S6Cw4lmb_sw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oLh2Re_TURhyBU7TwpqRvRPl-gc",
+      "id": "UgxQK30njhc62KRyIsl4AaABAg",
+      "snippet": {
+        "videoId": "S6Cw4lmb_sw",
+        "textDisplay": "Gostei da did\u00e1tica",
+        "textOriginal": "Gostei da did\u00e1tica",
+        "authorDisplayName": "Felipe Rodolfo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRc2iMQE8IVo0W1EFQ55c3FTe4PnWzyidZq-Fu_w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn7n84U-1WbkYbPpXTmiLPQ",
+        "authorChannelId": {
+          "value": "UCn7n84U-1WbkYbPpXTmiLPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-15T21:40:26Z",
+        "updatedAt": "2020-06-15T21:40:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mMzKMMOZ_mvFf9E13bEoSAFxOZU",
+      "id": "UgxQK30njhc62KRyIsl4AaABAg.99wekWfnoG699whElcOimY",
+      "snippet": {
+        "textDisplay": "Valeu",
+        "textOriginal": "Valeu",
+        "parentId": "UgxQK30njhc62KRyIsl4AaABAg",
+        "authorDisplayName": "DEVini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsr535H2L7X_EzKzdMaXgd0SEdEPH8jUMruLmvTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJUUAoc8lTCD3io1TfkW53g",
+        "authorChannelId": {
+          "value": "UCJUUAoc8lTCD3io1TfkW53g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-15T22:02:11Z",
+        "updatedAt": "2020-06-15T22:02:11Z"
+      }
+    }
+  ]
+}

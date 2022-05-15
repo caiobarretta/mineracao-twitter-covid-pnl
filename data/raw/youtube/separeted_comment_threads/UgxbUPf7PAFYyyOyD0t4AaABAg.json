@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UkUPsk1dHufrduakfpmHFWQfrJQ",
+  "id": "UgxbUPf7PAFYyyOyD0t4AaABAg",
+  "snippet": {
+    "videoId": "WqL80hAsjQ4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LqA3V51DjjkOjtWMpz8FAXT5HWo",
+      "id": "UgxbUPf7PAFYyyOyD0t4AaABAg",
+      "snippet": {
+        "videoId": "WqL80hAsjQ4",
+        "textDisplay": "Hoje me peguei cantando Ei brunow ...",
+        "textOriginal": "Hoje me peguei cantando Ei brunow ...",
+        "authorDisplayName": "huithiago alberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpoaXDHRB0ykuHnvzQj0liwzK4-W_BPQw2Dw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCipgG5_qKxusekCelEMx1qw",
+        "authorChannelId": {
+          "value": "UCipgG5_qKxusekCelEMx1qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-23T03:35:37Z",
+        "updatedAt": "2022-01-23T03:35:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LxGDiXKhvzK6pJkpzQkqgAGRlAM",
+      "id": "UgxbUPf7PAFYyyOyD0t4AaABAg.9XXCDg-wrIE9XZ4d69EfdT",
+      "snippet": {
+        "textDisplay": "@Jaques Andrade vc j\u00e1 conversou com o et Bilu?",
+        "textOriginal": "@Jaques Andrade vc j\u00e1 conversou com o et Bilu?",
+        "parentId": "UgxbUPf7PAFYyyOyD0t4AaABAg",
+        "authorDisplayName": "Rodrigo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSskB0BwHub7KCQcpT8KzOZAI3AfSOAIHL6cSAqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYaphSlyITCEFRz3KpKnwSw",
+        "authorChannelId": {
+          "value": "UCYaphSlyITCEFRz3KpKnwSw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-23T21:07:48Z",
+        "updatedAt": "2022-01-23T21:07:48Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "YE-K8RGd2ab1ahWYwUeupwOMNMQ",
+      "id": "UgxbUPf7PAFYyyOyD0t4AaABAg.9XXCDg-wrIE9XYC1jea_A1",
+      "snippet": {
+        "textDisplay": "@Jaques Andrade Documentario velho do pai do ET Bilu?? kkkkkk, isso refutado e ridicularizado infinitas vezes, tenta outra pombo",
+        "textOriginal": "@Jaques Andrade Documentario velho do pai do ET Bilu?? kkkkkk, isso refutado e ridicularizado infinitas vezes, tenta outra pombo",
+        "parentId": "UgxbUPf7PAFYyyOyD0t4AaABAg",
+        "authorDisplayName": "Anderson Coimbra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/u757L2-7bTYDmgXoYuA3sIKmgGuX-SW8lK2str1q6UbBwtygI4x1dy7GdE3z3RcyWxfeHSxrL68=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCv7nV_kFUAvmTW7HnZwof6w",
+        "authorChannelId": {
+          "value": "UCv7nV_kFUAvmTW7HnZwof6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-23T12:53:14Z",
+        "updatedAt": "2022-01-23T12:53:14Z"
+      }
+    }
+  ]
+}

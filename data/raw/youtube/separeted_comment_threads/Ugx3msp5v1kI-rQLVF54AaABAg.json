@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QwlXb2ITh8wB7T9N35jJ5YfTukU",
+  "id": "Ugx3msp5v1kI-rQLVF54AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TNXCU_-57akOylf2Z2Gm3KKS8iA",
+      "id": "Ugx3msp5v1kI-rQLVF54AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Muito Bom pessoal, parabens pelo v\u00eddeo EXCELENTE! Seguindo!",
+        "textOriginal": "Muito Bom pessoal, parabens pelo v\u00eddeo EXCELENTE! Seguindo!",
+        "authorDisplayName": "Antes e Depois",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyTqAMDpAhIhfGMZNSrJCOXh2-EsyvijJfhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmHLEr5egzMRzBIVRwI242Q",
+        "authorChannelId": {
+          "value": "UCmHLEr5egzMRzBIVRwI242Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-10-29T19:39:01Z",
+        "updatedAt": "2020-10-29T19:39:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MUaN4RJiJCKy3zFVztrrmOX1WVo",
+      "id": "Ugx3msp5v1kI-rQLVF54AaABAg.9FPcyCWeBOZ9FQmm461I5K",
+      "snippet": {
+        "textDisplay": "Obrigadoooo!! E obrigado por seguir a gente =)",
+        "textOriginal": "Obrigadoooo!! E obrigado por seguir a gente =)",
+        "parentId": "Ugx3msp5v1kI-rQLVF54AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-30T06:23:59Z",
+        "updatedAt": "2020-10-30T06:23:59Z"
+      }
+    }
+  ]
+}

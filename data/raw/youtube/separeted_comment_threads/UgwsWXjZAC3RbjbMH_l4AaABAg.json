@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Fq3PHacpp5_6sjRv2NU2GOERXak",
+  "id": "UgwsWXjZAC3RbjbMH_l4AaABAg",
+  "snippet": {
+    "videoId": "V--VFigfWEE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uGXGyba3c6nNT3eaZF9jO8p0-XQ",
+      "id": "UgwsWXjZAC3RbjbMH_l4AaABAg",
+      "snippet": {
+        "videoId": "V--VFigfWEE",
+        "textDisplay": "Muito bom gostei muito acrescentou muito no meu conhecimento",
+        "textOriginal": "Muito bom gostei muito acrescentou muito no meu conhecimento",
+        "authorDisplayName": "Miralva Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFW6YnQdnjhaV-30U0pXo292VMf--YDofN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMv_B1HbLfBoXPaPJYNYBTQ",
+        "authorChannelId": {
+          "value": "UCMv_B1HbLfBoXPaPJYNYBTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-21T19:51:01Z",
+        "updatedAt": "2020-05-21T19:51:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PrxowAWa4cv20iLCFq4GjwrFyKM",
+      "id": "UgwsWXjZAC3RbjbMH_l4AaABAg.98w5M8NYgEg98w9M1Q4YaJ",
+      "snippet": {
+        "textDisplay": "Fico feliz! Obrigado",
+        "textOriginal": "Fico feliz! Obrigado",
+        "parentId": "UgwsWXjZAC3RbjbMH_l4AaABAg",
+        "authorDisplayName": "Quintanilha Educa\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNK39LkOZbFl67p_GXyFNAhz2ZMYUdbEYO95jK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpfrWOgVh8zod0KAyvIp6Qg",
+        "authorChannelId": {
+          "value": "UCpfrWOgVh8zod0KAyvIp6Qg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-21T20:25:57Z",
+        "updatedAt": "2020-05-21T20:25:57Z"
+      }
+    }
+  ]
+}

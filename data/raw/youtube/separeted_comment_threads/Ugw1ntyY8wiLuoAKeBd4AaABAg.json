@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "325DiVWlinxm_Gc8LIzA2t1hGOU",
+  "id": "Ugw1ntyY8wiLuoAKeBd4AaABAg",
+  "snippet": {
+    "videoId": "nyus3182y8k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "o_Qq2xQjK5DkzW3pU9HRMwVudpw",
+      "id": "Ugw1ntyY8wiLuoAKeBd4AaABAg",
+      "snippet": {
+        "videoId": "nyus3182y8k",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Arthur4",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3aiAXL7mA6eNgOx4O-MuPqMeajprGPy-RgI2uIw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6HF-qaIVnmv8dhNiSSG3eQ",
+        "authorChannelId": {
+          "value": "UC6HF-qaIVnmv8dhNiSSG3eQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-09T22:44:27Z",
+        "updatedAt": "2021-06-09T22:44:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3BbVg9eD9k9jkiXkDWiM7zm7-OQ",
+      "id": "Ugw1ntyY8wiLuoAKeBd4AaABAg.9OOASPvV_Yc9OPeYXW5K9j",
+      "snippet": {
+        "textDisplay": "Obrigado Arthur!",
+        "textOriginal": "Obrigado Arthur!",
+        "parentId": "Ugw1ntyY8wiLuoAKeBd4AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-10T12:35:24Z",
+        "updatedAt": "2021-06-10T12:35:24Z"
+      }
+    }
+  ]
+}

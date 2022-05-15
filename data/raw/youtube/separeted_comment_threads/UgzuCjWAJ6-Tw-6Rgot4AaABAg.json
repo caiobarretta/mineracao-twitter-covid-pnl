@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FsoR8_Au89lTujvDqWmO-nBQoNs",
+  "id": "UgzuCjWAJ6-Tw-6Rgot4AaABAg",
+  "snippet": {
+    "videoId": "aV1sPBFN2xk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7lky1htC47YEuDFfCZ9xrnwsC4U",
+      "id": "UgzuCjWAJ6-Tw-6Rgot4AaABAg",
+      "snippet": {
+        "videoId": "aV1sPBFN2xk",
+        "textDisplay": "S\u00f3 tem fera!!!",
+        "textOriginal": "S\u00f3 tem fera!!!",
+        "authorDisplayName": "Andreia Barretto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXelEq1UWzgBtuDdUPgw2NFqS0UPGR0bPAm6dTD6s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuk7loSBtONqvhFLY28Ydmg",
+        "authorChannelId": {
+          "value": "UCuk7loSBtONqvhFLY28Ydmg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-27T17:21:48Z",
+        "updatedAt": "2020-08-27T17:21:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZIvbqnbCI-_MR9t9LPKVEefUcig",
+      "id": "UgzuCjWAJ6-Tw-6Rgot4AaABAg.9CsAB1S_Iwu9DbXvLgi57s",
+      "snippet": {
+        "textDisplay": "Muito obrigadooo",
+        "textOriginal": "Muito obrigadooo",
+        "parentId": "UgzuCjWAJ6-Tw-6Rgot4AaABAg",
+        "authorDisplayName": "G\u00eameos da Biomedicina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1Nb1hyWnNveZdg68M3khPTelikT7uo1jAAtQy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-TlFt_ALPSriyzNd9b2wSQ",
+        "authorChannelId": {
+          "value": "UC-TlFt_ALPSriyzNd9b2wSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-15T02:53:32Z",
+        "updatedAt": "2020-09-15T02:53:32Z"
+      }
+    }
+  ]
+}

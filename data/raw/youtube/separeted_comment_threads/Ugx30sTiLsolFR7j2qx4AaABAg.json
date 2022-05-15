@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Hdofe1autvOYAZrSnhzHsJK1EBE",
+  "id": "Ugx30sTiLsolFR7j2qx4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IJGmLwnjT_I_fsImk09tCIJzYcM",
+      "id": "Ugx30sTiLsolFR7j2qx4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Amo o conte\u00fado de voc\u00eas!!",
+        "textOriginal": "Amo o conte\u00fado de voc\u00eas!!",
+        "authorDisplayName": "Patricia Pessoa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzualXTnYbuNZhZTLDL2AAdLac6d9lc7rYOg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4CLa-xyMnEAUMW2v9T1Gyg",
+        "authorChannelId": {
+          "value": "UC4CLa-xyMnEAUMW2v9T1Gyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-03T17:14:07Z",
+        "updatedAt": "2020-06-03T17:14:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YqIpk83gy8GTSzH2jOw5Amq32Cw",
+      "id": "Ugx30sTiLsolFR7j2qx4AaABAg.99SHjOdj5rc99SIy37KDDe",
+      "snippet": {
+        "textDisplay": "E a gente AMA esses coment\u00e1rios com carinho =)) Muito obrigado pelo feedback, de <3",
+        "textOriginal": "E a gente AMA esses coment\u00e1rios com carinho =)) Muito obrigado pelo feedback, de <3",
+        "parentId": "Ugx30sTiLsolFR7j2qx4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T17:24:51Z",
+        "updatedAt": "2020-06-03T17:24:51Z"
+      }
+    }
+  ]
+}

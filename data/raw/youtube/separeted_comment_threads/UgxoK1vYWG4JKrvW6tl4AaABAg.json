@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SXTIJyTVQQtt7r4T11RcPtrMw6k",
+  "id": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h53sBJyoATOJ7sk6Ouh_Zrf_Rfo",
+      "id": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "hi i just started basic stuffs in corona, how will i make the balloon removed if it collide with the platform",
+        "textOriginal": "hi i just started basic stuffs in corona, how will i make the balloon removed if it collide with the platform",
+        "authorDisplayName": "Azemoth Otse",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJIy0jrbJJlcXqTU6bxqeF_ri_zzgKc_deRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx6Az_uaCtvnaaVjuB6R_Xg",
+        "authorChannelId": {
+          "value": "UCx6Az_uaCtvnaaVjuB6R_Xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-03-10T03:53:53Z",
+        "updatedAt": "2019-03-10T03:53:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QQiqIBxUbXxDQc8UZ6KjiePgOQE",
+      "id": "UgxoK1vYWG4JKrvW6tl4AaABAg.8sHZdfEsxfF8sIrhan2jS-",
+      "snippet": {
+        "textDisplay": "Load your wav file with local mysound = audio.loadSound(\"filename\"), then audio.play(mysound) when needed.",
+        "textOriginal": "Load your wav file with local mysound = audio.loadSound(\"filename\"), then audio.play(mysound) when needed.",
+        "parentId": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-10T15:59:41Z",
+        "updatedAt": "2019-03-10T15:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "3ikcMoy1E78IK7Ra0_vHAyKP4jI",
+      "id": "UgxoK1vYWG4JKrvW6tl4AaABAg.8sHZdfEsxfF8sI3FqSymMw",
+      "snippet": {
+        "textDisplay": "@Brian Burton now what i need is how to create a sound with just a button tap, if you can help it would be great",
+        "textOriginal": "@Brian Burton now what i need is how to create a sound with just a button tap, if you can help it would be great",
+        "parentId": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+        "authorDisplayName": "Azemoth Otse",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJIy0jrbJJlcXqTU6bxqeF_ri_zzgKc_deRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx6Az_uaCtvnaaVjuB6R_Xg",
+        "authorChannelId": {
+          "value": "UCx6Az_uaCtvnaaVjuB6R_Xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-10T08:30:06Z",
+        "updatedAt": "2019-03-10T08:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "NUVmb05eRw1e6szr6JzgFIT4ODg",
+      "id": "UgxoK1vYWG4JKrvW6tl4AaABAg.8sHZdfEsxfF8sI380Xurwf",
+      "snippet": {
+        "textDisplay": "@Brian Burton  i have worked it out ^_^ i just added a balloonremove function balloon:removeSelf() balloon=nil\nthen called it in a collisioin function",
+        "textOriginal": "@Brian Burton  i have worked it out ^_^ i just added a balloonremove function balloon:removeSelf() balloon=nil\nthen called it in a collisioin function",
+        "parentId": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+        "authorDisplayName": "Azemoth Otse",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJIy0jrbJJlcXqTU6bxqeF_ri_zzgKc_deRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx6Az_uaCtvnaaVjuB6R_Xg",
+        "authorChannelId": {
+          "value": "UCx6Az_uaCtvnaaVjuB6R_Xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-10T08:29:02Z",
+        "updatedAt": "2019-03-10T08:29:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "_PE9BS8_ESfvzHW8113HQX_fRBI",
+      "id": "UgxoK1vYWG4JKrvW6tl4AaABAg.8sHZdfEsxfF8sH_H6CvBPz",
+      "snippet": {
+        "textDisplay": "Azemoth Otse there are several ways.  The easiest is to make it invisible by changing the alpha property to 0.  You can also set the ballon to nil, but that will completely remove it from the game.",
+        "textOriginal": "Azemoth Otse there are several ways.  The easiest is to make it invisible by changing the alpha property to 0.  You can also set the ballon to nil, but that will completely remove it from the game.",
+        "parentId": "UgxoK1vYWG4JKrvW6tl4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-03-10T03:59:24Z",
+        "updatedAt": "2019-03-10T03:59:24Z"
+      }
+    }
+  ]
+}

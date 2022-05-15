@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mDROIb_qgrfNG6Z6SBxIDfxKZNo",
+  "id": "UgxpkcaYRuRCoQgCRZV4AaABAg",
+  "snippet": {
+    "videoId": "sIej4PjcVhI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4WC8y4Ud4Rku5Bfz8iXymHZP4jk",
+      "id": "UgxpkcaYRuRCoQgCRZV4AaABAg",
+      "snippet": {
+        "videoId": "sIej4PjcVhI",
+        "textDisplay": "Andr\u00e9 Mendon\u00e7a \u00e9 um fuleiro",
+        "textOriginal": "Andr\u00e9 Mendon\u00e7a \u00e9 um fuleiro",
+        "authorDisplayName": "Fernando Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhMrkh4sU99UnwL9jF7UR8S2isXSbyuhytS683YCf9JM11MU5uZfSKZabp1R_l=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMvAX0p7ohXEyyXUsWXpr7Q",
+        "authorChannelId": {
+          "value": "UCMvAX0p7ohXEyyXUsWXpr7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-09T21:54:13Z",
+        "updatedAt": "2022-05-09T21:54:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hOUbJaiRcZh8yMBAqxzG4kHfwfg",
+      "id": "UgxpkcaYRuRCoQgCRZV4AaABAg.9ap6CjtTY-l9apN3OjsmAY",
+      "snippet": {
+        "textDisplay": "Fuleiro \u00e9 pouco",
+        "textOriginal": "Fuleiro \u00e9 pouco",
+        "parentId": "UgxpkcaYRuRCoQgCRZV4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Roberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNvBHf1MRX-fMkCnqFWagM5RGgBvuipvMvvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1DK0b8tzJVY8rgFhktYqbw",
+        "authorChannelId": {
+          "value": "UC1DK0b8tzJVY8rgFhktYqbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T00:21:29Z",
+        "updatedAt": "2022-05-10T00:21:29Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7Npf2tE9hfc07NjYLROLIKkRHaQ",
+      "id": "UgxpkcaYRuRCoQgCRZV4AaABAg.9ap6CjtTY-l9ap8p8Ehhmc",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02",
+        "parentId": "UgxpkcaYRuRCoQgCRZV4AaABAg",
+        "authorDisplayName": "Francisco Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRoHBqUKMUlbciNKt-LsBA4qm-I3CBpTdywdg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC37Ii3InzqGJy5MQE2jZjNg",
+        "authorChannelId": {
+          "value": "UC37Ii3InzqGJy5MQE2jZjNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T22:17:04Z",
+        "updatedAt": "2022-05-09T22:17:04Z"
+      }
+    }
+  ]
+}

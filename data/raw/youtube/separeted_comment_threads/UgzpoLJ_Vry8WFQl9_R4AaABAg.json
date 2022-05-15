@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BaiWg16et2rt5nZm7gdJBxDPJ6c",
+  "id": "UgzpoLJ_Vry8WFQl9_R4AaABAg",
+  "snippet": {
+    "videoId": "MhS3yLc-UE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lWtXnfxwlnLYarevS5gMCa8i_iw",
+      "id": "UgzpoLJ_Vry8WFQl9_R4AaABAg",
+      "snippet": {
+        "videoId": "MhS3yLc-UE0",
+        "textDisplay": "queria saber a sobrevivencia do virus no pano",
+        "textOriginal": "queria saber a sobrevivencia do virus no pano",
+        "authorDisplayName": "glaysonmestre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTivu4gtMLJNy3OwfN3IPDnds9eYvU02jytuHWj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkjVjLGgrILsypwFZkjWmzw",
+        "authorChannelId": {
+          "value": "UCkjVjLGgrILsypwFZkjWmzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-27T01:46:40Z",
+        "updatedAt": "2020-03-27T01:46:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5fJHP4Q8P_InHsJ_ktG86Hh9IZI",
+      "id": "UgzpoLJ_Vry8WFQl9_R4AaABAg.96gXY5LOD3Z9EsMYv_MPCH",
+      "snippet": {
+        "textDisplay": "Tv globinho",
+        "textOriginal": "Tv globinho",
+        "parentId": "UgzpoLJ_Vry8WFQl9_R4AaABAg",
+        "authorDisplayName": "Cleusa Castilho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7xmTp5M8_qw4DK37_AwYqAqoEb8VpWyiWpA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkMtiGCyo7PgFmyg-nm0Siw",
+        "authorChannelId": {
+          "value": "UCkMtiGCyo7PgFmyg-nm0Siw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-16T12:12:42Z",
+        "updatedAt": "2020-10-16T12:12:42Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "3J05w5B-MXQU7eApjeiz3f7PpwA",
+      "id": "UgzpoLJ_Vry8WFQl9_R4AaABAg.96gXY5LOD3Z9EsG-tPt2RJ",
+      "snippet": {
+        "textDisplay": "Tv \nGlobinho",
+        "textOriginal": "Tv \nGlobinho",
+        "parentId": "UgzpoLJ_Vry8WFQl9_R4AaABAg",
+        "authorDisplayName": "Cleusa Castilho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7xmTp5M8_qw4DK37_AwYqAqoEb8VpWyiWpA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkMtiGCyo7PgFmyg-nm0Siw",
+        "authorChannelId": {
+          "value": "UCkMtiGCyo7PgFmyg-nm0Siw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-16T11:15:29Z",
+        "updatedAt": "2020-10-16T11:15:29Z"
+      }
+    }
+  ]
+}

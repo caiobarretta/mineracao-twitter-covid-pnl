@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cXGUOzinRNhtS6sTLahy5mwsR84",
+  "id": "Ugy5wUD_WZx2Tci1Ex14AaABAg",
+  "snippet": {
+    "videoId": "fMC1OWJb60I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SXxXlyq0sgrvfvssfRVWA6hJjjU",
+      "id": "Ugy5wUD_WZx2Tci1Ex14AaABAg",
+      "snippet": {
+        "videoId": "fMC1OWJb60I",
+        "textDisplay": "Mentira sempre foi ASSIM...",
+        "textOriginal": "Mentira sempre foi ASSIM...",
+        "authorDisplayName": "Flavia Americano do Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtdV-A9QcVtEUXEszSc1i39Ii3GFkgArh4ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFzXpSBBP7EATMGM38oKxjA",
+        "authorChannelId": {
+          "value": "UCFzXpSBBP7EATMGM38oKxjA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-24T20:44:35Z",
+        "updatedAt": "2021-03-24T20:44:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KzLK23_Z5maMn9Npdkk4Z7RaE2U",
+      "id": "Ugy5wUD_WZx2Tci1Ex14AaABAg.9LHgX9atYsV9LHmvC3o8Jy",
+      "snippet": {
+        "textDisplay": "Eu nem. Me empolgo.\ud83e\udd14",
+        "textOriginal": "Eu nem. Me empolgo.\ud83e\udd14",
+        "parentId": "Ugy5wUD_WZx2Tci1Ex14AaABAg",
+        "authorDisplayName": "Renata Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBgZ6MTNekFmGxVZyA2bg0_YaP-o_YX1IMShEGbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAjdNHTl4RgF4jDO5Y-MZ2A",
+        "authorChannelId": {
+          "value": "UCAjdNHTl4RgF4jDO5Y-MZ2A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T21:40:26Z",
+        "updatedAt": "2021-03-24T21:40:26Z"
+      }
+    }
+  ]
+}

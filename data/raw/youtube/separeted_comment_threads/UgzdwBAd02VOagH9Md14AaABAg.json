@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yX2EYsavKfg26rfyKKKyurrYX0g",
+  "id": "UgzdwBAd02VOagH9Md14AaABAg",
+  "snippet": {
+    "videoId": "WEMpIQ30srI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "a-JPtde02sFzfcdARdoyRF_P104",
+      "id": "UgzdwBAd02VOagH9Md14AaABAg",
+      "snippet": {
+        "videoId": "WEMpIQ30srI",
+        "textDisplay": "noticia sem sensacionalismo \u00e9 outro n\u00edvel ! Parab\u00e9ns.",
+        "textOriginal": "noticia sem sensacionalismo \u00e9 outro n\u00edvel ! Parab\u00e9ns.",
+        "authorDisplayName": "Andre Luiz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSciQkvmdHBHH6gbXJsnepgmRT7pUcwffYsMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkxQRVm2qJ83tUC-dgX5M1Q",
+        "authorChannelId": {
+          "value": "UCkxQRVm2qJ83tUC-dgX5M1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 135,
+        "publishedAt": "2020-03-23T21:24:38Z",
+        "updatedAt": "2020-03-23T21:24:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "71zUzBUm1Tm1amuKB3hoLc_ov5w",
+      "id": "UgzdwBAd02VOagH9Md14AaABAg.96ZLAAvCQKK99hNQHGOH2K",
+      "snippet": {
+        "textDisplay": "sim",
+        "textOriginal": "sim",
+        "parentId": "UgzdwBAd02VOagH9Md14AaABAg",
+        "authorDisplayName": "Marcio Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEUxbCPQnpBnCzggG9uaLaPU5ZFu0GiuYHvPxD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn5OMoL3F6cwlqJHftW550g",
+        "authorChannelId": {
+          "value": "UCn5OMoL3F6cwlqJHftW550g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-09T23:11:39Z",
+        "updatedAt": "2020-06-09T23:11:39Z"
+      }
+    }
+  ]
+}

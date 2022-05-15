@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kt55eEAIirPCjIin2QEMGtKJ3to",
+  "id": "UgzenE4v0jP61I5wfq94AaABAg",
+  "snippet": {
+    "videoId": "JJGxx8s3W9c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_TmcrG5YM2rS2qVoXyR8gqWZy9c",
+      "id": "UgzenE4v0jP61I5wfq94AaABAg",
+      "snippet": {
+        "videoId": "JJGxx8s3W9c",
+        "textDisplay": "VOCE SEMPRE A FRENTE....OBGD.",
+        "textOriginal": "VOCE SEMPRE A FRENTE....OBGD.",
+        "authorDisplayName": "Zane Mattos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZ6MA0bchjLCkfahQFGEeMnBil5IPHKVRmMKZ_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC83beKKpnOMk15KQOkjD6iQ",
+        "authorChannelId": {
+          "value": "UC83beKKpnOMk15KQOkjD6iQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-07T11:19:59Z",
+        "updatedAt": "2021-08-07T11:19:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R93isEMSMzodYUazO4j9M6VStKU",
+      "id": "UgzenE4v0jP61I5wfq94AaABAg.9Qjs0wipQU19Qklrq8QAPN",
+      "snippet": {
+        "textDisplay": "\ud83d\ude18",
+        "textOriginal": "\ud83d\ude18",
+        "parentId": "UgzenE4v0jP61I5wfq94AaABAg",
+        "authorDisplayName": "Renato Cassol - M\u00e9dico Infectologista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrcZVWOum_Cvnec_hNWTNeD5QGo4T46j0M0bEo1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxM5rESbIueKgZv9zqTquw",
+        "authorChannelId": {
+          "value": "UCOxM5rESbIueKgZv9zqTquw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-07T19:45:25Z",
+        "updatedAt": "2021-08-07T19:45:25Z"
+      }
+    }
+  ]
+}

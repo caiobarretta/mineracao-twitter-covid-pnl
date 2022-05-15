@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "K0KyZL9wxjFfUi44MtRheEqixqU",
+  "id": "Ugy_qO2QB4UZrc49LRt4AaABAg",
+  "snippet": {
+    "videoId": "Y9TvYoeDiiY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kUSPUOoTeCGzloFwe7OnhLF_rq4",
+      "id": "Ugy_qO2QB4UZrc49LRt4AaABAg",
+      "snippet": {
+        "videoId": "Y9TvYoeDiiY",
+        "textDisplay": "Obrigada melhor v\u00eddeo que eu vi",
+        "textOriginal": "Obrigada melhor v\u00eddeo que eu vi",
+        "authorDisplayName": "Maria Cicera",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_tT_DsxtMFMVWNBFxwAThYk_EqjisV8nvdWlMuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYUAGRrLsQvKCHNeJZdVxvw",
+        "authorChannelId": {
+          "value": "UCYUAGRrLsQvKCHNeJZdVxvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-26T19:09:03Z",
+        "updatedAt": "2021-06-26T19:09:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Uiixg6Kbig4TCqWnCdvjttdl8yE",
+      "id": "Ugy_qO2QB4UZrc49LRt4AaABAg.9P3ZJeDaODu9RaEuxmp4Ef",
+      "snippet": {
+        "textDisplay": "Deus aben\u00e7oe qualquer d\u00favida estou a sua disposi\u00e7\u00e3o",
+        "textOriginal": "Deus aben\u00e7oe qualquer d\u00favida estou a sua disposi\u00e7\u00e3o",
+        "parentId": "Ugy_qO2QB4UZrc49LRt4AaABAg",
+        "authorDisplayName": "Mel Festa Pegue e Monte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/cNEBjDLwaWC2X2L9w2H0YPbWG3i0bCKeQ9818O3DeaFT_0W6Jz_jTFhR0vSZq_LS_V3pFABjfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvXanTwf8ghBBLh7fEiLljw",
+        "authorChannelId": {
+          "value": "UCvXanTwf8ghBBLh7fEiLljw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T14:07:44Z",
+        "updatedAt": "2021-08-28T14:07:44Z"
+      }
+    }
+  ]
+}

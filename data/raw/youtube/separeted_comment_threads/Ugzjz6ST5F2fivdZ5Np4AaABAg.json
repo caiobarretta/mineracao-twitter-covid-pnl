@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fpRhjN7Ztlg7ICBP_MmEA3kIw6U",
+  "id": "Ugzjz6ST5F2fivdZ5Np4AaABAg",
+  "snippet": {
+    "videoId": "F3A6EYLJETA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "l-cojuQjlNwZLHacZE1bG6TYYjY",
+      "id": "Ugzjz6ST5F2fivdZ5Np4AaABAg",
+      "snippet": {
+        "videoId": "F3A6EYLJETA",
+        "textDisplay": "Muito bom, funciona demais!!!",
+        "textOriginal": "Muito bom, funciona demais!!!",
+        "authorDisplayName": "Gutyerrez Moreno",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbp3fLxESYnp9Y3hE3Gi9ylpX_CpIfyklnU5x-KxU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyFHGOqFCgXn35N8gB4HrlQ",
+        "authorChannelId": {
+          "value": "UCyFHGOqFCgXn35N8gB4HrlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-09T22:41:00Z",
+        "updatedAt": "2022-05-09T22:41:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3DvtvxinB6cMgyS0BynmK0AfKuQ",
+      "id": "Ugzjz6ST5F2fivdZ5Np4AaABAg.9apBZSereQd9apCUy0XcJR",
+      "snippet": {
+        "textDisplay": "Amanh\u00e3 \u00e9 o de \u00e9tica da quadrix",
+        "textOriginal": "Amanh\u00e3 \u00e9 o de \u00e9tica da quadrix",
+        "parentId": "Ugzjz6ST5F2fivdZ5Np4AaABAg",
+        "authorDisplayName": "Concurseiro N\u00f4made",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSUgpCYPNANAg8cjAAYHlbpHIOC46wPZADxfRo2kg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTZIEIWqFbyjDZqiKTunlCw",
+        "authorChannelId": {
+          "value": "UCTZIEIWqFbyjDZqiKTunlCw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-09T22:49:07Z",
+        "updatedAt": "2022-05-09T22:49:07Z"
+      }
+    }
+  ]
+}

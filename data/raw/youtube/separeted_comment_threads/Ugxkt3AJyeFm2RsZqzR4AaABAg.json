@@ -1,0 +1,307 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i250PqKXDQzP6duS9IPGX7Z56Ds",
+  "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nmajdIzpV57mTlPg9FpER4r80rQ",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Dr. Burton, I've been trying to get an answer to my question maybe you could help. In the game bubble ball by robert nay you can select a different ball color in options. The ball would then be on level 1 to start the game. Would you be able to do a video or write the code I can't find anyone who knows how. Thanks",
+        "textOriginal": "Dr. Burton, I've been trying to get an answer to my question maybe you could help. In the game bubble ball by robert nay you can select a different ball color in options. The ball would then be on level 1 to start the game. Would you be able to do a video or write the code I can't find anyone who knows how. Thanks",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-22T20:14:59Z",
+        "updatedAt": "2021-02-22T20:14:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 13,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xaZyrtQbEa_J9YepySSWQSHqIvM",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9MfSmDfgdB_",
+      "snippet": {
+        "textDisplay": "@David Dr. Burton would you tell me where my mistake is, options or level 1scene? Thanks",
+        "textOriginal": "@David Dr. Burton would you tell me where my mistake is, options or level 1scene? Thanks",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-28T08:08:07Z",
+        "updatedAt": "2021-04-28T08:08:07Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "I_nbmdfradACR2LqpvtV0EoJ96c",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LblgWDD8I-",
+      "snippet": {
+        "textDisplay": "@David Sorry if it was too much code Dr. Burton.",
+        "textOriginal": "@David Sorry if it was too much code Dr. Burton.",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-02T01:13:44Z",
+        "updatedAt": "2021-04-02T01:13:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "VurqpynraUSKTM5FVWSHaVLDbo4",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LQ0AFRY5JA",
+      "snippet": {
+        "textDisplay": "@Brian Burton Dr. Burton I'm going to copy & paste the way I entered the code. \nStarting in the options scene I'm using only a green and blue png ball. \n\nfunction scene:create( event )\nlocal sceneGroup = self.view\n\n\tlocal background = display.newImageRect( \"background.png\", 650, 450 )\r\n\tbackground.x = display.contentCenterX\r\n\tbackground.y = display.contentCenterY\n\t\nphysics.start()\r\nphysics.pause()\n-------------------------------------------------------------------------\n_G.myAvatar = \"\"\nlocal titleText = display.newText( \"Select Your Avatar\", 250, 101, native.systemFont, 20 )\n\n\n\nlocal greenBall = display.newImageRect( \"greenBall.png\", 25, 25 ) \r\ngreenBall.avatar = \"greenBall.png\"\r\ngreenBall.x = display.contentCenterX-200\r\ngreenBall.y = display.contentCenterY+40\r\nphysics.addBody( greenBall, \"static\", { density=1.0, radius=12 } ) \n\nlocal blueBall = display.newImageRect( \"blueBall.png\", 25, 25 ) \r\nblueBall.avatar = \"blueBall.png\" \r\nblueBall.x = display.contentCenterX\r\nblueBall.y = display.contentCenterY+40\r\nphysics.addBody( blueBall, \"static\", { density=1.0, radius=12 } ) \n\nlocal function onObjectTap( event )\r\n\t\t\tmyAvatar = event.target.avatar\r\n\t\t\tprint( event.target.avatar .. \" selected\")\r\n\t\tend\r\n\ngreenBall:addEventListener( \"tap\", onObjectTap )\r\nblueBall:addEventListener( \"tap\", onObjectTap ) \n------------------------------------------------------------------------------------\nsceneGroup:insert( greenBall )\r\nsceneGroup:insert( blueBall ) \n\nend\n\n\n\n\nThe rest of your code is on the level1 scene and the error message \rappears as soon as I tap the level1 button. \n\nlocal avatarText = display.newText(\"Your Avatar is:\", 350 750)\r\nlocal avatar = display.newImage(myAvatar) \r\navatar.x = 350\r\navatar.y = 900\n\nsceneGroup:insert( avatarText )\r\nsceneGroup:insert( avatar )\n\nend\n\nI'll wait to add the error messages.  Thanks",
+        "textOriginal": "@Brian Burton Dr. Burton I'm going to copy & paste the way I entered the code. \nStarting in the options scene I'm using only a green and blue png ball. \n\nfunction scene:create( event )\nlocal sceneGroup = self.view\n\n\tlocal background = display.newImageRect( \"background.png\", 650, 450 )\r\n\tbackground.x = display.contentCenterX\r\n\tbackground.y = display.contentCenterY\n\t\nphysics.start()\r\nphysics.pause()\n-------------------------------------------------------------------------\n_G.myAvatar = \"\"\nlocal titleText = display.newText( \"Select Your Avatar\", 250, 101, native.systemFont, 20 )\n\n\n\nlocal greenBall = display.newImageRect( \"greenBall.png\", 25, 25 ) \r\ngreenBall.avatar = \"greenBall.png\"\r\ngreenBall.x = display.contentCenterX-200\r\ngreenBall.y = display.contentCenterY+40\r\nphysics.addBody( greenBall, \"static\", { density=1.0, radius=12 } ) \n\nlocal blueBall = display.newImageRect( \"blueBall.png\", 25, 25 ) \r\nblueBall.avatar = \"blueBall.png\" \r\nblueBall.x = display.contentCenterX\r\nblueBall.y = display.contentCenterY+40\r\nphysics.addBody( blueBall, \"static\", { density=1.0, radius=12 } ) \n\nlocal function onObjectTap( event )\r\n\t\t\tmyAvatar = event.target.avatar\r\n\t\t\tprint( event.target.avatar .. \" selected\")\r\n\t\tend\r\n\ngreenBall:addEventListener( \"tap\", onObjectTap )\r\nblueBall:addEventListener( \"tap\", onObjectTap ) \n------------------------------------------------------------------------------------\nsceneGroup:insert( greenBall )\r\nsceneGroup:insert( blueBall ) \n\nend\n\n\n\n\nThe rest of your code is on the level1 scene and the error message \rappears as soon as I tap the level1 button. \n\nlocal avatarText = display.newText(\"Your Avatar is:\", 350 750)\r\nlocal avatar = display.newImage(myAvatar) \r\navatar.x = 350\r\navatar.y = 900\n\nsceneGroup:insert( avatarText )\r\nsceneGroup:insert( avatar )\n\nend\n\nI'll wait to add the error messages.  Thanks",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5ftb1M7Zu7Zdzk_mxuqJS5AoyxQwblw7NYQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmMTGaC8aLcC4TilBME3biw",
+        "authorChannelId": {
+          "value": "UCmMTGaC8aLcC4TilBME3biw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-28T02:18:53Z",
+        "updatedAt": "2021-03-28T02:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "5AiQzhO7Hfi5BGOzNsGBJr3ZOTY",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LMgpRUD0oy",
+      "snippet": {
+        "textDisplay": "@David Garrett I prefer to post the Q&A on YouTube so that others can benefit from our discussion.",
+        "textOriginal": "@David Garrett I prefer to post the Q&A on YouTube so that others can benefit from our discussion.",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-26T19:23:25Z",
+        "updatedAt": "2021-03-26T19:23:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "mwdpQBYfcHv3gOEYiTP-yYCWRro",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LMJDPSqf_Y",
+      "snippet": {
+        "textDisplay": "I you rather not I'll keep asking this way. I appreciate all your help.",
+        "textOriginal": "I you rather not I'll keep asking this way. I appreciate all your help.",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-26T15:48:22Z",
+        "updatedAt": "2021-03-26T15:48:22Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Qq1FacBy6CobdDvSH-_98ixX_ZI",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LKBSHqq0kP",
+      "snippet": {
+        "textDisplay": "@Brian Burton Dr. Burton would it be alright if I gave you my email address?",
+        "textOriginal": "@Brian Burton Dr. Burton would it be alright if I gave you my email address?",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-25T20:02:01Z",
+        "updatedAt": "2021-03-25T20:02:01Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "lFmjNq8AMEsuvfrnLLy2VPtiWA0",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LCQg4ODkGR",
+      "snippet": {
+        "textDisplay": "@David Garrett I can try to help. Let's take it 1 error at a time.\nAlso, I made a tutorial on JSON with Corona and how to pull it from a remote server and save it to a local database: https://youtu.be/iIeJEBQYA10",
+        "textOriginal": "@David Garrett I can try to help. Let's take it 1 error at a time.\nAlso, I made a tutorial on JSON with Corona and how to pull it from a remote server and save it to a local database: https://youtu.be/iIeJEBQYA10",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-22T19:41:11Z",
+        "updatedAt": "2021-03-22T19:41:11Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "PBTmsh8skmd-RYZvml0slAWWogQ",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9LAvZu2gmF5",
+      "snippet": {
+        "textDisplay": "@Brian Burton Thanks for the great video, I entered the function in my options page and local avatar in level 1 page. I tapped the ball in options I go to level 1 and a whole bunch of error messages appear, but so did the ball. I've never gotten this far before, I'm very optimistic. Would you be able to help me figure out what I did wrong? Maybe you would explain what a json is and how to save to a folder? Sorry for all the questions, but I never got such good information before. Thanks",
+        "textOriginal": "@Brian Burton Thanks for the great video, I entered the function in my options page and local avatar in level 1 page. I tapped the ball in options I go to level 1 and a whole bunch of error messages appear, but so did the ball. I've never gotten this far before, I'm very optimistic. Would you be able to help me figure out what I did wrong? Maybe you would explain what a json is and how to save to a folder? Sorry for all the questions, but I never got such good information before. Thanks",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-22T05:41:21Z",
+        "updatedAt": "2021-03-22T05:41:21Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "EBuvoQ9YcwNlZBacyw5miat7nkM",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9Kih58yXb2N",
+      "snippet": {
+        "textDisplay": "New tutorial added that allows you to select and pass information!  https://youtu.be/ylpRBsuXQaY",
+        "textOriginal": "New tutorial added that allows you to select and pass information!  https://youtu.be/ylpRBsuXQaY",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-10T21:16:50Z",
+        "updatedAt": "2021-03-10T21:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "SmdKgQhOAQxagESvcJFQuqGtsoo",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9K9WyOfdyZn",
+      "snippet": {
+        "textDisplay": "That would be great! Thanks Dr. Burton",
+        "textOriginal": "That would be great! Thanks Dr. Burton",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-24T20:07:00Z",
+        "updatedAt": "2021-02-24T20:07:00Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "POulIBSJrsHLpbvs4epDBMFDTOg",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9K9LyEVPemd",
+      "snippet": {
+        "textDisplay": "@David Garrett Yes, I can works something up, but it will be the weekend at the earliest.",
+        "textOriginal": "@David Garrett Yes, I can works something up, but it will be the weekend at the earliest.",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-24T18:30:51Z",
+        "updatedAt": "2021-02-24T18:30:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "RKJWD1KpmEH9MqvUn6vlqPlDim4",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9K5RG3K-Hip",
+      "snippet": {
+        "textDisplay": "@Brian Burton Mr. Burton, would it be too much to ask if you would write an example using by name? It's taking me a long time to learn how to code. Thanks",
+        "textOriginal": "@Brian Burton Mr. Burton, would it be too much to ask if you would write an example using by name? It's taking me a long time to learn how to code. Thanks",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "David Garrett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmCbS4GoRZ20AwZU5kUw6-vWS5f0ivepCQqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT_KmuHEfnP34Nzjp0T3Saw",
+        "authorChannelId": {
+          "value": "UCT_KmuHEfnP34Nzjp0T3Saw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-23T06:00:09Z",
+        "updatedAt": "2021-02-23T06:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "mWoYoj99Ch2NjXjwA-7gnpXx2RY",
+      "id": "Ugxkt3AJyeFm2RsZqzR4AaABAg.9K4OI6Q4b-i9K4XqGDAj6f",
+      "snippet": {
+        "textDisplay": "Hi David.  Yes, I can do that.  The short answer (without a video) is that you store the selected color in a variable, then apply it to the object using object:setFillColor(variable).  You can store the color using rgb values or by name (i.e. 'red', 'grey', 'black', etc)",
+        "textOriginal": "Hi David.  Yes, I can do that.  The short answer (without a video) is that you store the selected color in a variable, then apply it to the object using object:setFillColor(variable).  You can store the color using rgb values or by name (i.e. 'red', 'grey', 'black', etc)",
+        "parentId": "Ugxkt3AJyeFm2RsZqzR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-22T21:38:25Z",
+        "updatedAt": "2021-02-22T21:38:25Z"
+      }
+    }
+  ]
+}

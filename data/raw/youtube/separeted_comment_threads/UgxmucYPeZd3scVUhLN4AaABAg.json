@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sG-VBlDEIrsX_CmsS2bYIbohOTg",
+  "id": "UgxmucYPeZd3scVUhLN4AaABAg",
+  "snippet": {
+    "videoId": "sLlTNUo25rI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "g_z-eufwzyXdlyDlL7fhPN1k5NU",
+      "id": "UgxmucYPeZd3scVUhLN4AaABAg",
+      "snippet": {
+        "videoId": "sLlTNUo25rI",
+        "textDisplay": "Eu testei positivo j\u00e1 fazem 12 dias tive dor nos olhos e o nariz entopiu,agora n\u00e3o sinto mais nada!",
+        "textOriginal": "Eu testei positivo j\u00e1 fazem 12 dias tive dor nos olhos e o nariz entopiu,agora n\u00e3o sinto mais nada!",
+        "authorDisplayName": "Marcos Lopes dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hVjBp1iLPGoEjSaBK2mIhYIAHoHwkzFk2Uc8S9m43hBuHYcdj8cRWspUxWBB_OOx55gV7czx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAz1Bq3cVhJYoICet3xWjyg",
+        "authorChannelId": {
+          "value": "UCAz1Bq3cVhJYoICet3xWjyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-04-06T22:24:30Z",
+        "updatedAt": "2021-04-06T22:24:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bVglZrTq2IF_9sldlintAfNcYH8",
+      "id": "UgxmucYPeZd3scVUhLN4AaABAg.9LoLIMu4JSK9MKzxv_Dz65",
+      "snippet": {
+        "textDisplay": "oi",
+        "textOriginal": "oi",
+        "parentId": "UgxmucYPeZd3scVUhLN4AaABAg",
+        "authorDisplayName": "TROPA DO NEIFF",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QFFx9CwYBUlgZLs3sL6av-yu9rZ-Qj8udc9RlvoebZ2r20rW_goBVZ7iqQFM0lFyWdPM63IrBg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYeCB1EvIAfta9BpFfXV0ZQ",
+        "authorChannelId": {
+          "value": "UCYeCB1EvIAfta9BpFfXV0ZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-20T00:03:31Z",
+        "updatedAt": "2021-04-20T00:03:31Z"
+      }
+    }
+  ]
+}

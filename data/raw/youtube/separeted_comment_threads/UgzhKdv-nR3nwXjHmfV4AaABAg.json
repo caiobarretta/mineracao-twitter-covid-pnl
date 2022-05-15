@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "L9AqLAdiZhmg3XSaWZCkwRGeHV8",
+  "id": "UgzhKdv-nR3nwXjHmfV4AaABAg",
+  "snippet": {
+    "videoId": "jng04HZDo6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ujSvOnKQ9yE7XQm_NaR3xvsiT6U",
+      "id": "UgzhKdv-nR3nwXjHmfV4AaABAg",
+      "snippet": {
+        "videoId": "jng04HZDo6Q",
+        "textDisplay": "e o kalil que se curou com hidroxicloroquina?",
+        "textOriginal": "e o kalil que se curou com hidroxicloroquina?",
+        "authorDisplayName": "Yasuhiro Yanagita",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLASFeUcJSrJjzLjteLBh6PYb0LTE1sSG2AA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5F6sw5Fa5cprksGIKpyoIQ",
+        "authorChannelId": {
+          "value": "UC5F6sw5Fa5cprksGIKpyoIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2021-03-19T13:19:58Z",
+        "updatedAt": "2021-03-19T13:19:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "98qTec4x-A2DU5mDuZ1_rk1GBs8",
+      "id": "UgzhKdv-nR3nwXjHmfV4AaABAg.9L40fHWx3v_9LtxwKUaf7u",
+      "snippet": {
+        "textDisplay": "Vdd! E corticoide! Ele mesmo falou!!",
+        "textOriginal": "Vdd! E corticoide! Ele mesmo falou!!",
+        "parentId": "UgzhKdv-nR3nwXjHmfV4AaABAg",
+        "authorDisplayName": "Luciana Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpQquLwXlE9DjO3vB00RdWsxmzq-vqF7wwHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1_SS1Lz3QgWmc5VQ1OA5oQ",
+        "authorChannelId": {
+          "value": "UC1_SS1Lz3QgWmc5VQ1OA5oQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-09T02:47:05Z",
+        "updatedAt": "2021-04-09T02:47:05Z"
+      }
+    }
+  ]
+}

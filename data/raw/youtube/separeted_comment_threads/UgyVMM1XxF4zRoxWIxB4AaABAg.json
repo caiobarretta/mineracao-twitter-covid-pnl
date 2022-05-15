@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ex1jm7yhb28ThAOCXOC5dI2XA9k",
+  "id": "UgyVMM1XxF4zRoxWIxB4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "nszSZ4ynFlV0U9VfhdIcD9upmTg",
+      "id": "UgyVMM1XxF4zRoxWIxB4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Interessante ... n\u00e3o sabia ! Adorei o v\u00eddeo.",
+        "textOriginal": "Interessante ... n\u00e3o sabia ! Adorei o v\u00eddeo.",
+        "authorDisplayName": "Fala Helen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlXzn1i3VJ7aWdB-mTTLQW2l-6aFEW68QwhPOf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI4fSFBcHjuSNSmpYGwx9nA",
+        "authorChannelId": {
+          "value": "UCI4fSFBcHjuSNSmpYGwx9nA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-04T14:11:06Z",
+        "updatedAt": "2020-06-04T14:11:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uriR_otOwRmMgN-IoBhtR49kt58",
+      "id": "UgyVMM1XxF4zRoxWIxB4AaABAg.99UX_mLCXu399VMYdSTPl_",
+      "snippet": {
+        "textDisplay": "Valeu mesmo Helen!!! A gente t\u00e1 acompanhando seu canal diretooooooo!!! Ali\u00e1s galera, passem no canal Fala Helen!! Vale a pena o confere l\u00e1",
+        "textOriginal": "Valeu mesmo Helen!!! A gente t\u00e1 acompanhando seu canal diretooooooo!!! Ali\u00e1s galera, passem no canal Fala Helen!! Vale a pena o confere l\u00e1",
+        "parentId": "UgyVMM1XxF4zRoxWIxB4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-04T21:53:55Z",
+        "updatedAt": "2020-06-04T21:53:55Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uU7o9djp_f4PoVq1N68C6boBaYw",
+  "id": "UgzpchhWcGOgUPguSh54AaABAg",
+  "snippet": {
+    "videoId": "pGGf2a24Eho",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eEwyWGAH5oJf4KshHfbok2BIdHE",
+      "id": "UgzpchhWcGOgUPguSh54AaABAg",
+      "snippet": {
+        "videoId": "pGGf2a24Eho",
+        "textDisplay": "Eu nao estouconseguindo visualizar o chat",
+        "textOriginal": "Eu nao estouconseguindo visualizar o chat",
+        "authorDisplayName": "Severina Alves S\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQnprGKIaIJw4tlitMkkb6NdaRrybH0zp8z=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYODFIkXthoPMFG9SPnZMPg",
+        "authorChannelId": {
+          "value": "UCYODFIkXthoPMFG9SPnZMPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-03T22:47:34Z",
+        "updatedAt": "2021-08-03T22:47:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0tjkDtLppGt__RKz8AyMjJ8eKO8",
+      "id": "UgzpchhWcGOgUPguSh54AaABAg.9QanXOBTs8b9QdHDnZRwNI",
+      "snippet": {
+        "textDisplay": "Boa noite",
+        "textOriginal": "Boa noite",
+        "parentId": "UgzpchhWcGOgUPguSh54AaABAg",
+        "authorDisplayName": "Severina Alves S\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQnprGKIaIJw4tlitMkkb6NdaRrybH0zp8z=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYODFIkXthoPMFG9SPnZMPg",
+        "authorChannelId": {
+          "value": "UCYODFIkXthoPMFG9SPnZMPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-04T21:54:15Z",
+        "updatedAt": "2021-08-04T21:54:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UQfVfS0v6YcrlkxRGyeWWMpWmEc",
+  "id": "UgygoHHYWS3S-a8SdrN4AaABAg",
+  "snippet": {
+    "videoId": "VaJJMnXdAc4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DBM4IhtnNbjuBYci35ijyItf9ko",
+      "id": "UgygoHHYWS3S-a8SdrN4AaABAg",
+      "snippet": {
+        "videoId": "VaJJMnXdAc4",
+        "textDisplay": "Obrigado irm\u00e3o, eu conseguir da minha filha! valeu tamos juntos!!!",
+        "textOriginal": "Obrigado irm\u00e3o, eu conseguir da minha filha! valeu tamos juntos!!!",
+        "authorDisplayName": "Angel Geminis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTW8tad6Mqthry2JoQr1RBuS6pDNPF_bdUCulI4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClJ9joudRW1KEcnhpJD8v-A",
+        "authorChannelId": {
+          "value": "UClJ9joudRW1KEcnhpJD8v-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-09T09:43:31Z",
+        "updatedAt": "2020-12-09T09:43:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5MwSc_Pxc_chNxAI8XIwDoChAOQ",
+      "id": "UgygoHHYWS3S-a8SdrN4AaABAg.9H28PQexgPE9H3JDQ4-mXf",
+      "snippet": {
+        "textDisplay": "Show fico feliz",
+        "textOriginal": "Show fico feliz",
+        "parentId": "UgygoHHYWS3S-a8SdrN4AaABAg",
+        "authorDisplayName": "ODORIZZI",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF6ZwK3UQxg69GQD6ShgCpNBVwke1JAJ8Y9CDHPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4rSCAdhng0kzfXfLubGVuA",
+        "authorChannelId": {
+          "value": "UC4rSCAdhng0kzfXfLubGVuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-09T20:37:13Z",
+        "updatedAt": "2020-12-09T20:37:13Z"
+      }
+    }
+  ]
+}

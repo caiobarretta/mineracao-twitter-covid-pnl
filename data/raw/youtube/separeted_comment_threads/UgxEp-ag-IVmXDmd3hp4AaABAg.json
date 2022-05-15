@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WYQvCAmzcEW8UeX3KsGfyP7wVCk",
+  "id": "UgxEp-ag-IVmXDmd3hp4AaABAg",
+  "snippet": {
+    "videoId": "i6xTSYL7JPg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4Y8QRQk9Pp1C6UND5rl2fVkmBLo",
+      "id": "UgxEp-ag-IVmXDmd3hp4AaABAg",
+      "snippet": {
+        "videoId": "i6xTSYL7JPg",
+        "textDisplay": "Con que aplicacion hiciste la animaci\u00f3n?",
+        "textOriginal": "Con que aplicacion hiciste la animaci\u00f3n?",
+        "authorDisplayName": "Aaron Garrido",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgUlAQkXB8qptlM3in2E496ihuoufeGzUn9Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbfyJoJRA3I8gn1xdiT4bMA",
+        "authorChannelId": {
+          "value": "UCbfyJoJRA3I8gn1xdiT4bMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-04T09:05:46Z",
+        "updatedAt": "2021-05-04T09:05:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fBUE7SghlkXFUS--Fy9UeEtui9M",
+      "id": "UgxEp-ag-IVmXDmd3hp4AaABAg.9Mv08lEwszJ9MveRNrshVr",
+      "snippet": {
+        "textDisplay": "Las animaciones de este canal est\u00e1n realizadas con PowerPoint y guardando como v\u00eddeo. \nLas imagenes fueron tratadas con un editor de im\u00e1genes (Corel PHOTO-PAINT) y la edici\u00f3n final fue realizada con un editor de video sencillo.",
+        "textOriginal": "Las animaciones de este canal est\u00e1n realizadas con PowerPoint y guardando como v\u00eddeo. \nLas imagenes fueron tratadas con un editor de im\u00e1genes (Corel PHOTO-PAINT) y la edici\u00f3n final fue realizada con un editor de video sencillo.",
+        "parentId": "UgxEp-ag-IVmXDmd3hp4AaABAg",
+        "authorDisplayName": "CanalDivulgaci\u00f3n",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbZR_JeRc-vKkTHCk3Bp2RIhB-A_gXrch8SYjnPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAi08vpGsxeDRb20qu2EnRw",
+        "authorChannelId": {
+          "value": "UCAi08vpGsxeDRb20qu2EnRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-04T15:06:34Z",
+        "updatedAt": "2021-05-04T15:07:26Z"
+      }
+    }
+  ]
+}

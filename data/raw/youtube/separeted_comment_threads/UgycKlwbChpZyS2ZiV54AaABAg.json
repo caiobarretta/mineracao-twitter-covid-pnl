@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bMXmTClYpJD4K-LFfW-gQ1yBXnM",
+  "id": "UgycKlwbChpZyS2ZiV54AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "O6zBmPuujmHpNSljBDbv9TiXmHY",
+      "id": "UgycKlwbChpZyS2ZiV54AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "Muito bom , v\u00eddeo maravilhoso, j\u00e1 fiz",
+        "textOriginal": "Muito bom , v\u00eddeo maravilhoso, j\u00e1 fiz",
+        "authorDisplayName": "jose Elias paes de lira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSw7R1vALFU5IytdrEZeKwEJRAnTeZ_i2S3sit0ig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqh7SPGLFz90ZPbrfdzSvuw",
+        "authorChannelId": {
+          "value": "UCqh7SPGLFz90ZPbrfdzSvuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-15T00:12:29Z",
+        "updatedAt": "2021-04-15T00:12:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "U9pts2oPFKBbHYVSwoHx9bhZ6lk",
+      "id": "UgycKlwbChpZyS2ZiV54AaABAg.9M880BVQ5Yz9M8AfQXT6SE",
+      "snippet": {
+        "textDisplay": "Valeu \ud83d\ude4f\ud83c\udffb Jos\u00e9, obrigado por assistir. Q bom saber que gostou, isso sempre me incentiva a continuar trazendo mais conte\u00fados. At\u00e9 +",
+        "textOriginal": "Valeu \ud83d\ude4f\ud83c\udffb Jos\u00e9, obrigado por assistir. Q bom saber que gostou, isso sempre me incentiva a continuar trazendo mais conte\u00fados. At\u00e9 +",
+        "parentId": "UgycKlwbChpZyS2ZiV54AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T00:35:43Z",
+        "updatedAt": "2021-04-15T00:35:43Z"
+      }
+    }
+  ]
+}

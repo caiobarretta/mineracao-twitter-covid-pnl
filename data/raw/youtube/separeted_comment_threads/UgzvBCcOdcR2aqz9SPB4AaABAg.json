@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VtQeIfZ7EQ3uU5hEe7hQw1PnIZ0",
+  "id": "UgzvBCcOdcR2aqz9SPB4AaABAg",
+  "snippet": {
+    "videoId": "TdS2JCvS3TU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4N5cCIc4AtHhncFiDNmlLvKA4sk",
+      "id": "UgzvBCcOdcR2aqz9SPB4AaABAg",
+      "snippet": {
+        "videoId": "TdS2JCvS3TU",
+        "textDisplay": "Esse CARA da Globo kkk",
+        "textOriginal": "Esse CARA da Globo kkk",
+        "authorDisplayName": "Fatima Mariano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQoVEYXgSdZle4zvxzdVztHA-0miv928YTa1fkl6ZlDI8HrbmsqXti3bBb_Mw0L=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdfleRQqHrKYvcEYz3ZOa6g",
+        "authorChannelId": {
+          "value": "UCdfleRQqHrKYvcEYz3ZOa6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T12:44:50Z",
+        "updatedAt": "2022-05-09T12:44:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WvUMAsFvec74F7WTRgt2RVZ5_Rg",
+      "id": "UgzvBCcOdcR2aqz9SPB4AaABAg.9ao7L-hvkuc9aoQQZ4vyGh",
+      "snippet": {
+        "textDisplay": "Tem tempo j\u00e1!",
+        "textOriginal": "Tem tempo j\u00e1!",
+        "parentId": "UgzvBCcOdcR2aqz9SPB4AaABAg",
+        "authorDisplayName": "And Saintrois",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2-xZh02mw1reuMU_RnkHiUkNerOXFCBEIg3RVow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVZc6HdD6WFjQfq0VQwSiHw",
+        "authorChannelId": {
+          "value": "UCVZc6HdD6WFjQfq0VQwSiHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T15:31:37Z",
+        "updatedAt": "2022-05-09T15:31:37Z"
+      }
+    }
+  ]
+}

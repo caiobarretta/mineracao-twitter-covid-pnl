@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qulz5kzmpMAcVSA0USwz0v_gr7o",
+  "id": "Ugyk7DlkFR_s66bZkTR4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-R_NIn7b6Sf99hx2K6jYLAQtec4",
+      "id": "Ugyk7DlkFR_s66bZkTR4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Porque Windows 10 tem tantos bug e t\u00e3o leto ?",
+        "textOriginal": "Porque Windows 10 tem tantos bug e t\u00e3o leto ?",
+        "authorDisplayName": "Nivaldo Cosmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWodloH_6KOZAZGC_LcZUrgadk53fEC4zAVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClRicKBXPj1fajNavxtBGWQ",
+        "authorChannelId": {
+          "value": "UClRicKBXPj1fajNavxtBGWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-15T16:08:57Z",
+        "updatedAt": "2021-06-15T16:08:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "K10kUAjFZS6QDEBeS4tY0Mkh6ug",
+      "id": "Ugyk7DlkFR_s66bZkTR4AaABAg.9Obuy-6hAoH9Ocp4qZn4Jj",
+      "snippet": {
+        "textDisplay": "S\u00e3o vario os fatores que deixam o win lento, falta de memoria, antiv\u00edrus desatualizado,  memoria cheia e etc...",
+        "textOriginal": "S\u00e3o vario os fatores que deixam o win lento, falta de memoria, antiv\u00edrus desatualizado,  memoria cheia e etc...",
+        "parentId": "Ugyk7DlkFR_s66bZkTR4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-16T00:36:50Z",
+        "updatedAt": "2021-06-16T00:36:50Z"
+      }
+    }
+  ]
+}

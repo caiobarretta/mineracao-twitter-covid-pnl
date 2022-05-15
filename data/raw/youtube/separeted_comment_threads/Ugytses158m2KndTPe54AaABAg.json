@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8nKyegNVWyl_-LvRQJvkrT7I4oE",
+  "id": "Ugytses158m2KndTPe54AaABAg",
+  "snippet": {
+    "videoId": "NLbwCZLx5sg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "i2ANIw9elneWcsFYBjCGrjxlDdQ",
+      "id": "Ugytses158m2KndTPe54AaABAg",
+      "snippet": {
+        "videoId": "NLbwCZLx5sg",
+        "textDisplay": "LULA  ,2022.",
+        "textOriginal": "LULA  ,2022.",
+        "authorDisplayName": "CARLOS ALBERTO GRANDE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJEARzePMXwigglUoyY7Z1QndiMbUlRIGDbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9xFr1na-56ZVmw1J-lEC0Q",
+        "authorChannelId": {
+          "value": "UC9xFr1na-56ZVmw1J-lEC0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-25T00:31:32Z",
+        "updatedAt": "2022-01-25T00:31:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iH49IZODMoVZuBRHhypz2s2_DUY",
+      "id": "Ugytses158m2KndTPe54AaABAg.9Xb0k6y2kR79Xejlf-EgBk",
+      "snippet": {
+        "textDisplay": "Picaretagem",
+        "textOriginal": "Picaretagem",
+        "parentId": "Ugytses158m2KndTPe54AaABAg",
+        "authorDisplayName": "Christina Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbQwVQt7WJHNmioBuJvylbjUeVpOxdzz93Ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuEdSB_zJRoyRsC_E4bH4lw",
+        "authorChannelId": {
+          "value": "UCuEdSB_zJRoyRsC_E4bH4lw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-26T11:11:25Z",
+        "updatedAt": "2022-01-26T11:11:25Z"
+      }
+    }
+  ]
+}

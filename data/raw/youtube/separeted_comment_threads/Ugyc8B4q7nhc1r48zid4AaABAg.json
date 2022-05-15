@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TXFiWRZKQtec5OKIhERHyypYm40",
+  "id": "Ugyc8B4q7nhc1r48zid4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9cQ7BBggXV8h0XgtzUAn0C5iDUs",
+      "id": "Ugyc8B4q7nhc1r48zid4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Mais um like pra fortalecer \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Mais um like pra fortalecer \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Geyson Hazard",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaWOfDCpClYsY8j9g8-7YMB3X2p8aG6iX8GbNo8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1ut_uhgVxueZ8cO3QmRAVQ",
+        "authorChannelId": {
+          "value": "UC1ut_uhgVxueZ8cO3QmRAVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-03T18:07:31Z",
+        "updatedAt": "2020-06-03T18:07:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WDAdmObgKLgu3154uzgajUuzfl8",
+      "id": "Ugyc8B4q7nhc1r48zid4AaABAg.99SNqTcXdlF99Sk-O4spfJ",
+      "snippet": {
+        "textDisplay": "Obrigadooooo!!!",
+        "textOriginal": "Obrigadooooo!!!",
+        "parentId": "Ugyc8B4q7nhc1r48zid4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T21:29:50Z",
+        "updatedAt": "2020-06-03T21:29:59Z"
+      }
+    }
+  ]
+}

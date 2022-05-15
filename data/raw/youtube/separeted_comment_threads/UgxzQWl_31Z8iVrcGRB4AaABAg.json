@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "14lhRYsc7GviyzIdmMqJ4wr7SBw",
+  "id": "UgxzQWl_31Z8iVrcGRB4AaABAg",
+  "snippet": {
+    "videoId": "3i6_7qpkIPM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Dj8coYN_qSMYrjHRffCN-cx4z8I",
+      "id": "UgxzQWl_31Z8iVrcGRB4AaABAg",
+      "snippet": {
+        "videoId": "3i6_7qpkIPM",
+        "textDisplay": "Gracias por la informaci\u00f3n educativa",
+        "textOriginal": "Gracias por la informaci\u00f3n educativa",
+        "authorDisplayName": "Esteban Zahuantitla",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQnllIyNzPA4tSyU-YqS8ezVtw3PdVeiwVu2TsxV78=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9TlfRU9jpN6nr6CQXYIHAw",
+        "authorChannelId": {
+          "value": "UC9TlfRU9jpN6nr6CQXYIHAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-07-25T05:16:44Z",
+        "updatedAt": "2020-07-25T05:16:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "e_IB-bpJuFfuPv4uRmj89a3q3h4",
+      "id": "UgxzQWl_31Z8iVrcGRB4AaABAg.9BWty_qclpU9BZRDIsBjAd",
+      "snippet": {
+        "textDisplay": "Muchas gracias por vernos y por comentar Esteban Zahuantitla, saludos.",
+        "textOriginal": "Muchas gracias por vernos y por comentar Esteban Zahuantitla, saludos.",
+        "parentId": "UgxzQWl_31Z8iVrcGRB4AaABAg",
+        "authorDisplayName": "Fisiolog\u00eda DJ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kNVz_l_oZLH__UQi81oSIQl-mhHpdcXEnWNcBEpVvvs_Rfk2YgCQ6p-uijO217SWDFWm4LPRVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGqNKNc-NvzDWCT0JH6hN6Q",
+        "authorChannelId": {
+          "value": "UCGqNKNc-NvzDWCT0JH6hN6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-26T04:54:27Z",
+        "updatedAt": "2020-07-26T04:54:27Z"
+      }
+    }
+  ]
+}

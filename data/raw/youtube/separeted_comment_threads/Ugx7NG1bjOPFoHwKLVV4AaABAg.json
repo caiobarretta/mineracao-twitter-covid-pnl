@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-M9_356-c26Msyz26D8ZcEX3FG4",
+  "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3tbNmg5aruvG6PlW63B1RORD_jA",
+      "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "I just finished an on-line course on Corona and 3DS Max, but it only used the legacy Corona materials, and now I am completely lost on how to interpret the differences \u2026and how to convert them (the Corona converter doesn't always convert accurately). This video touches on the differences, but is it possible to make one that focuses on how to convert our old legacy materials accurately into the new Physical ones? (e.g. what is the new equivalent of Refl. gloss?)",
+        "textOriginal": "I just finished an on-line course on Corona and 3DS Max, but it only used the legacy Corona materials, and now I am completely lost on how to interpret the differences \u2026and how to convert them (the Corona converter doesn't always convert accurately). This video touches on the differences, but is it possible to make one that focuses on how to convert our old legacy materials accurately into the new Physical ones? (e.g. what is the new equivalent of Refl. gloss?)",
+        "authorDisplayName": "John B.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-dFmQfx7bItRWlNz6oRhREBof7dclcRTI_B2Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXTxp_bGPNdDvrAKqUIzxVg",
+        "authorChannelId": {
+          "value": "UCXTxp_bGPNdDvrAKqUIzxVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-08T06:17:29Z",
+        "updatedAt": "2021-09-08T06:17:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H9RRqHSiehJlJAFK2M_aOTDNu6A",
+      "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg.9S0iqKkJA8n9S1e1m8zONT",
+      "snippet": {
+        "textDisplay": "Reflection glossiness is the same (if you swap to Glossiness mode, which can be done per material, or as a default for all scenes). Or you can use Roughness (you can swap between them by inverting a bitmap, but it's easier to use the bitmap in its original form and just choose whether it's Glossiness or Roughness in the material)",
+        "textOriginal": "Reflection glossiness is the same (if you swap to Glossiness mode, which can be done per material, or as a default for all scenes). Or you can use Roughness (you can swap between them by inverting a bitmap, but it's easier to use the bitmap in its original form and just choose whether it's Glossiness or Roughness in the material)",
+        "parentId": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-08T14:54:44Z",
+        "updatedAt": "2021-09-08T14:54:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "d2thyvHEJA4kfxPMFhH0jmDBUY8",
+      "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg.9S0iqKkJA8n9S1drmhZ-p2",
+      "snippet": {
+        "textDisplay": "Hi! We will do our best to have several videos on the Physical Material, but those will come over time. Meantime, check the helpdesk where there are shorter, more specific videos that may help, and you can always post over on the forums too for help in specific cases (do note that if a material was not physically realistic in any other material, including the Legacy, it may be impossible to tell how it should be converted automatically to the Physical Material, so automatic conversion may not always be possible). https://forum.corona-renderer.com/index.php?topic=33253.0 would be the thread for conversion questions, issues, etc. Thanks! Tom",
+        "textOriginal": "Hi! We will do our best to have several videos on the Physical Material, but those will come over time. Meantime, check the helpdesk where there are shorter, more specific videos that may help, and you can always post over on the forums too for help in specific cases (do note that if a material was not physically realistic in any other material, including the Legacy, it may be impossible to tell how it should be converted automatically to the Physical Material, so automatic conversion may not always be possible). https://forum.corona-renderer.com/index.php?topic=33253.0 would be the thread for conversion questions, issues, etc. Thanks! Tom",
+        "parentId": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-08T14:53:14Z",
+        "updatedAt": "2021-09-08T14:53:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ldV4NcHhItT5bT65I9ICYxhrBNY",
+  "id": "UgyBkpEb03ogdFGsVJF4AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DmYelczrUxLsGjoHCPAmxNmb9ks",
+      "id": "UgyBkpEb03ogdFGsVJF4AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "\u00d3tima dica, foi muito \u00fatil",
+        "textOriginal": "\u00d3tima dica, foi muito \u00fatil",
+        "authorDisplayName": "Mylena Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBCmpdHom_ifK4W1rPTAP7c_lbwmqcf0zD0NqfJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwp0ylJMsIfwAwkqeL6z2dg",
+        "authorChannelId": {
+          "value": "UCwp0ylJMsIfwAwkqeL6z2dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-27T16:17:22Z",
+        "updatedAt": "2021-05-27T16:17:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fMHZT2MLbNLyAlf46m1iWs51HNY",
+      "id": "UgyBkpEb03ogdFGsVJF4AaABAg.9Nr-p1gGS5J9Nr83CyxRkD",
+      "snippet": {
+        "textDisplay": "Fico feliz que tenha gostado Mylena. Obrigado por assistir e acompanhar o canal",
+        "textOriginal": "Fico feliz que tenha gostado Mylena. Obrigado por assistir e acompanhar o canal",
+        "parentId": "UgyBkpEb03ogdFGsVJF4AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-27T17:29:21Z",
+        "updatedAt": "2021-05-27T17:29:21Z"
+      }
+    }
+  ]
+}

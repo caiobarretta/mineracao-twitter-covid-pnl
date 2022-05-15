@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aUVKWbK1-Hg5tlh75CatVErZt7s",
+  "id": "UgwT_t65-1MVyn-mGIB4AaABAg",
+  "snippet": {
+    "videoId": "tvi1zXDsUsY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lhslOmkUYEEN0i2N9-D71urvC_A",
+      "id": "UgwT_t65-1MVyn-mGIB4AaABAg",
+      "snippet": {
+        "videoId": "tvi1zXDsUsY",
+        "textDisplay": "Pues yo conozco varios que quedaron. Medio chiflados.",
+        "textOriginal": "Pues yo conozco varios que quedaron. Medio chiflados.",
+        "authorDisplayName": "Isa Gar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7PyzP8Dy5uOHLvwgRfxSCy_IEoO2HLNyCl_SkAqE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5Pdd5GvdTpbCBKwV-keMwQ",
+        "authorChannelId": {
+          "value": "UC5Pdd5GvdTpbCBKwV-keMwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2021-08-24T15:01:16Z",
+        "updatedAt": "2021-08-24T15:01:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Aicv_nyL0UsVLTQjVuySiiZhhfA",
+      "id": "UgwT_t65-1MVyn-mGIB4AaABAg.9RR1rYeFz_C9RUtguUBmeG",
+      "snippet": {
+        "textDisplay": "Si tu mam\u00e1 es claro ejemplo\ud83d\ude02",
+        "textOriginal": "Si tu mam\u00e1 es claro ejemplo\ud83d\ude02",
+        "parentId": "UgwT_t65-1MVyn-mGIB4AaABAg",
+        "authorDisplayName": "Jose Guty",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-TXs6bYCC-aBExEHLPiBce9dAEKNG5KN3mg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNuF6hL3eFeAGmDeBteqwwQ",
+        "authorChannelId": {
+          "value": "UCNuF6hL3eFeAGmDeBteqwwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-26T02:58:08Z",
+        "updatedAt": "2021-08-26T02:58:08Z"
+      }
+    }
+  ]
+}

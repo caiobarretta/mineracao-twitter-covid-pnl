@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gZZ73iYQLuH6OStXL1uTNCXmGgk",
+  "id": "UgwSpOeVB5Lbzt6ZP7B4AaABAg",
+  "snippet": {
+    "videoId": "mCtB9T1WMhg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vnOa0VUGoGqtWG0kS0pAkE_Dan4",
+      "id": "UgwSpOeVB5Lbzt6ZP7B4AaABAg",
+      "snippet": {
+        "videoId": "mCtB9T1WMhg",
+        "textDisplay": "Excelente aula professor, parab\u00e9ns!",
+        "textOriginal": "Excelente aula professor, parab\u00e9ns!",
+        "authorDisplayName": "Edinaldo Filho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiuHqOahcEKgYSXMdNrJ1OYKrweus3cc-yJQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_aa1Oi4JyDgjNl74En31pQ",
+        "authorChannelId": {
+          "value": "UC_aa1Oi4JyDgjNl74En31pQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-23T13:03:37Z",
+        "updatedAt": "2020-12-23T13:03:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H48OaHikvn8QkjT1nXEIaeacAvA",
+      "id": "UgwSpOeVB5Lbzt6ZP7B4AaABAg.9HbYRLwwjdx9I5uSg13Bfl",
+      "snippet": {
+        "textDisplay": "Muito obrigado, fico feliz que gostou.",
+        "textOriginal": "Muito obrigado, fico feliz que gostou.",
+        "parentId": "UgwSpOeVB5Lbzt6ZP7B4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-04T17:21:14Z",
+        "updatedAt": "2021-01-04T17:21:14Z"
+      }
+    }
+  ]
+}

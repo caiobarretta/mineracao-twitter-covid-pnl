@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eUSgyxs5HuEcv3dGbrM0GzVUOuI",
+  "id": "Ugy1xj19AElq9MMuBDJ4AaABAg",
+  "snippet": {
+    "videoId": "1uoYOzb_oFg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dbXna-FsZxRteNnEstaYDXfIU2E",
+      "id": "Ugy1xj19AElq9MMuBDJ4AaABAg",
+      "snippet": {
+        "videoId": "1uoYOzb_oFg",
+        "textDisplay": "Boa tarde pessoal. Vou sentir saudade destas tardes... que bom novos temas , estarei prestigiando",
+        "textOriginal": "Boa tarde pessoal. Vou sentir saudade destas tardes... que bom novos temas , estarei prestigiando",
+        "authorDisplayName": "Nilva Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHk8WlFqMExC2obPCzGdzOVCCTD17AuCXmLNi1-io=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-V26EwvTZ5ty_x-WIyw0tw",
+        "authorChannelId": {
+          "value": "UC-V26EwvTZ5ty_x-WIyw0tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-17T18:41:02Z",
+        "updatedAt": "2021-05-17T18:41:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EnP9cVNKk6iOvWwa-e7eLuE4L18",
+      "id": "Ugy1xj19AElq9MMuBDJ4AaABAg.9NSWJWg29eJ9NSWN2QkbQ-",
+      "snippet": {
+        "textDisplay": "As segundas as 14hs ficou otimo .",
+        "textOriginal": "As segundas as 14hs ficou otimo .",
+        "parentId": "Ugy1xj19AElq9MMuBDJ4AaABAg",
+        "authorDisplayName": "Nilva Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHk8WlFqMExC2obPCzGdzOVCCTD17AuCXmLNi1-io=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-V26EwvTZ5ty_x-WIyw0tw",
+        "authorChannelId": {
+          "value": "UC-V26EwvTZ5ty_x-WIyw0tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-17T18:41:31Z",
+        "updatedAt": "2021-05-17T18:41:31Z"
+      }
+    }
+  ]
+}

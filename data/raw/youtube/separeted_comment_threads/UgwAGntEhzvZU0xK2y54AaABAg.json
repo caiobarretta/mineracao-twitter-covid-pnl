@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FmmYU-cvjvGtgVf6hFmDpcziyyw",
+  "id": "UgwAGntEhzvZU0xK2y54AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kFVSv2wmLUFQcHGzs9jRAIh2RrM",
+      "id": "UgwAGntEhzvZU0xK2y54AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "Dica top! Tr\u00e1s mais v\u00eddeos com dicas",
+        "textOriginal": "Dica top! Tr\u00e1s mais v\u00eddeos com dicas",
+        "authorDisplayName": "Raul Lyra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4kTbGlgAwuGpwRDa5-5LiFqhuSo2WG20OjlWQ0Zk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu2tZ6uWXiqpvzlkWW3XTag",
+        "authorChannelId": {
+          "value": "UCu2tZ6uWXiqpvzlkWW3XTag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T01:30:25Z",
+        "updatedAt": "2021-04-15T01:30:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ms8QzarIPXnin5O9nW-kdfDVXAg",
+      "id": "UgwAGntEhzvZU0xK2y54AaABAg.9M8Gw0fAirb9M9Qlt9oAfP",
+      "snippet": {
+        "textDisplay": "Obrigado por assistir, fico feliz q tenha gostado amigo.",
+        "textOriginal": "Obrigado por assistir, fico feliz q tenha gostado amigo.",
+        "parentId": "UgwAGntEhzvZU0xK2y54AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T12:15:39Z",
+        "updatedAt": "2021-04-15T12:15:39Z"
+      }
+    }
+  ]
+}

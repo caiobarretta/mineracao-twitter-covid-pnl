@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ME4bCnV_KzSsVrqIEsQins9DzMU",
+  "id": "UgwLdcmz28Zt8EPc8xR4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GeVdnMoUmYcjCdDDCXXhPgSL60o",
+      "id": "UgwLdcmz28Zt8EPc8xR4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Muito show!!",
+        "textOriginal": "Muito show!!",
+        "authorDisplayName": "Otaku Maromba",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkUSc6aoNG4_ogXk0WanyfjE79sqWtsqG9gXwW=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAd1fGKN_LsicjIK1jZXzRw",
+        "authorChannelId": {
+          "value": "UCAd1fGKN_LsicjIK1jZXzRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-06-03T18:14:55Z",
+        "updatedAt": "2020-06-03T18:14:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rn9ew0iyKcRFGwwNDilpluMEcns",
+      "id": "UgwLdcmz28Zt8EPc8xR4AaABAg.99SOgltKqyJ99SjvqC2mVU",
+      "snippet": {
+        "textDisplay": "Valeeeu Maromba!!! Tamo Junto !",
+        "textOriginal": "Valeeeu Maromba!!! Tamo Junto !",
+        "parentId": "UgwLdcmz28Zt8EPc8xR4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-03T21:29:13Z",
+        "updatedAt": "2020-06-03T21:29:13Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C0rKzyVwzeSjF_PnfqvdE-sjGJk",
+  "id": "UgzSPHMNvgmbgOqK85d4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RUU6Xaaj9dgGJ4N6k1A0HUedtAc",
+      "id": "UgzSPHMNvgmbgOqK85d4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Thank you for this video \ud83d\ude02 very well explained.\n\"Tell your grandma to stop giving medical advice\"",
+        "textOriginal": "Thank you for this video \ud83d\ude02 very well explained.\n\"Tell your grandma to stop giving medical advice\"",
+        "authorDisplayName": "Senju",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xyEfMdZs73WIXf6s5NOKWxa624mt5ukQcq5RWUj43oHsD-jvr95d0q973X_FyOlshCYnwInc_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqsN9sBvL3EkqEw76F64tcQ",
+        "authorChannelId": {
+          "value": "UCqsN9sBvL3EkqEw76F64tcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 81,
+        "publishedAt": "2020-03-03T06:07:10Z",
+        "updatedAt": "2020-03-03T06:07:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Np8Qr_MIk1QcOnX5SAkltZkrAWk",
+      "id": "UgzSPHMNvgmbgOqK85d4AaABAg.95jCH2BLgqP95jDFTyLSRI",
+      "snippet": {
+        "textDisplay": "Haha \ud83d\ude02 \nThank you so much \ud83d\ude0a",
+        "textOriginal": "Haha \ud83d\ude02 \nThank you so much \ud83d\ude0a",
+        "parentId": "UgzSPHMNvgmbgOqK85d4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-03T06:15:42Z",
+        "updatedAt": "2020-03-03T06:15:42Z"
+      }
+    }
+  ]
+}

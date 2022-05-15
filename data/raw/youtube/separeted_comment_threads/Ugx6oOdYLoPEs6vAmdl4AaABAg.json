@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kHhNyZl6Br_zOVxfqzxUPA1p1S4",
+  "id": "Ugx6oOdYLoPEs6vAmdl4AaABAg",
+  "snippet": {
+    "videoId": "fCPLdg4sgLo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JxWeg05shZNIBy8WYUsyKn4utxE",
+      "id": "Ugx6oOdYLoPEs6vAmdl4AaABAg",
+      "snippet": {
+        "videoId": "fCPLdg4sgLo",
+        "textDisplay": "Parab\u00e9ns pelo trabalho \ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "Parab\u00e9ns pelo trabalho \ud83d\udc4f\ud83c\udffc",
+        "authorDisplayName": "J\u201dDuarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EAWsvN-O57O4qsSp9i_DhBBSB392Y9DbKIGu7EZxv7yZYqI64sU_7qMv32ZbmJZkxLjGNxfpWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYKGOpoVaJsQxQ5LXcFUyfA",
+        "authorChannelId": {
+          "value": "UCYKGOpoVaJsQxQ5LXcFUyfA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-05-19T19:03:38Z",
+        "updatedAt": "2020-05-19T19:03:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hjslzhOSQlwcIkTD4SXoPJ7KGks",
+      "id": "Ugx6oOdYLoPEs6vAmdl4AaABAg.98qrLPD39Y-9Cf9KUCZxnZ",
+      "snippet": {
+        "textDisplay": "parabens",
+        "textOriginal": "parabens",
+        "parentId": "Ugx6oOdYLoPEs6vAmdl4AaABAg",
+        "authorDisplayName": "Maria aparecida de souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHwAY4WLHEQqGU4N2xKppbVikIesfU9-Nbj2o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXq71BI6EX1GnjrBHWHgvNQ",
+        "authorChannelId": {
+          "value": "UCXq71BI6EX1GnjrBHWHgvNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-22T16:04:13Z",
+        "updatedAt": "2020-08-22T16:04:13Z"
+      }
+    }
+  ]
+}

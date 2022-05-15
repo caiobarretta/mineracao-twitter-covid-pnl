@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0vAnQ7kT7hwUIJv-8YmpK_mdLZM",
+  "id": "UgyTIX3gotRLlKgBDBt4AaABAg",
+  "snippet": {
+    "videoId": "HgcGlGTgrTI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NNdTmthvQBSRTqMdHOzpRAZKAUk",
+      "id": "UgyTIX3gotRLlKgBDBt4AaABAg",
+      "snippet": {
+        "videoId": "HgcGlGTgrTI",
+        "textDisplay": "Boa noite! Preciso de uzurdex para minha m\u00e3e!",
+        "textOriginal": "Boa noite! Preciso de uzurdex para minha m\u00e3e!",
+        "authorDisplayName": "Sandra Fonseca",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbWXuKm_PpoZBq1s7Wl7PaJwU_4VOYTPGo3huj8Yw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ3mk-XKlRg2a_cZ0A-hTlw",
+        "authorChannelId": {
+          "value": "UCQ3mk-XKlRg2a_cZ0A-hTlw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-21T23:16:09Z",
+        "updatedAt": "2022-01-21T23:16:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LWHAT4_pTUsvrTYVJGkaWB16TZw",
+      "id": "UgyTIX3gotRLlKgBDBt4AaABAg.9XU9jQLtsxa9Z4E8ngI2Zp",
+      "snippet": {
+        "textDisplay": "Sandra, como consigo falar com voc\u00ea ?",
+        "textOriginal": "Sandra, como consigo falar com voc\u00ea ?",
+        "parentId": "UgyTIX3gotRLlKgBDBt4AaABAg",
+        "authorDisplayName": "Renan Samuel ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_fA8i3EXTQoetJR1nYWarO7fMg90J-Kd6d6ifh9jK6go02ae2zFUtW7nusxTO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyJpclZOCjQrPSOr1_z6_kQ",
+        "authorChannelId": {
+          "value": "UCyJpclZOCjQrPSOr1_z6_kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-02T14:37:14Z",
+        "updatedAt": "2022-03-02T14:37:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wrHit4SCAG1C802nx0aYsLJxbos",
+  "id": "UgwTlj3aU_BX0TLZj5h4AaABAg",
+  "snippet": {
+    "videoId": "06CNVdnDkQ0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B5ub-ZMXokmOe7eyVNAwZ4Hjw_Q",
+      "id": "UgwTlj3aU_BX0TLZj5h4AaABAg",
+      "snippet": {
+        "videoId": "06CNVdnDkQ0",
+        "textDisplay": "All for Defunding ABC news",
+        "textOriginal": "All for Defunding ABC news",
+        "authorDisplayName": "Annon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/RV3n7g22rbauORrX6E7bCmWmLqqqId3pdljz1QnEtUsvUt5zrQyoABbsHDfOK5PCyoYaIIJW1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL_pk4bUR4366najZnDyvVA",
+        "authorChannelId": {
+          "value": "UCL_pk4bUR4366najZnDyvVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2022-05-10T14:29:39Z",
+        "updatedAt": "2022-05-10T14:29:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vIRQyHrR-d_64V2AQqWySilnebQ",
+      "id": "UgwTlj3aU_BX0TLZj5h4AaABAg.9aqt7Zb0TwJ9asDa71Ghgv",
+      "snippet": {
+        "textDisplay": "Here here",
+        "textOriginal": "Here here",
+        "parentId": "UgwTlj3aU_BX0TLZj5h4AaABAg",
+        "authorDisplayName": "crazyvvirgoactions",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGA4jLKAdSFFTZBbZIwUPuSzOzyLcJoxxjw2JM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRiMknJYSDVEuMIyOJGu9RA",
+        "authorChannelId": {
+          "value": "UCRiMknJYSDVEuMIyOJGu9RA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T02:56:26Z",
+        "updatedAt": "2022-05-11T02:56:26Z"
+      }
+    }
+  ]
+}

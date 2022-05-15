@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kfocFEpaxqN33SCjzXDQKlnE_cg",
+  "id": "Ugz--aHqF6PxRoWhRKN4AaABAg",
+  "snippet": {
+    "videoId": "ONM54ZB8ipo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oP9siCm3hohlEW3W_Q9CjehLrJA",
+      "id": "Ugz--aHqF6PxRoWhRKN4AaABAg",
+      "snippet": {
+        "videoId": "ONM54ZB8ipo",
+        "textDisplay": "obrigadaaaaaaaaaaaa",
+        "textOriginal": "obrigadaaaaaaaaaaaa",
+        "authorDisplayName": "Linamar Amaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMMm55bao0sezuJZVDhlvVuz2xB2mXzEg7Ug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHqZtdkirGFXGz-zm48ui6A",
+        "authorChannelId": {
+          "value": "UCHqZtdkirGFXGz-zm48ui6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-11T15:05:42Z",
+        "updatedAt": "2022-05-11T15:05:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EGhK7muZbhZ-0AroEQUE9da4k1Q",
+      "id": "Ugz--aHqF6PxRoWhRKN4AaABAg.9atX2VPXQKl9atlMLV8T66",
+      "snippet": {
+        "textDisplay": "Simbora! \u2728",
+        "textOriginal": "Simbora! \u2728",
+        "parentId": "Ugz--aHqF6PxRoWhRKN4AaABAg",
+        "authorDisplayName": "Servi\u00e7o Social para Concursos com Prof\u00aa Shellen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EgbVIUvtR1LEQFJAK-ptb5ysVINNE0mQ5DrZGLJoXBxRI3NQnyVL-iq2qQ1UG0su12RzKvEx5g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjXgKMbEz7BBU95Dk1bNCDw",
+        "authorChannelId": {
+          "value": "UCjXgKMbEz7BBU95Dk1bNCDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T17:19:29Z",
+        "updatedAt": "2022-05-11T17:19:29Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FoDrZJACHbiTMjEo8xlD6N-hzkU",
+  "id": "UgztWUTqIpUUHSUwXIl4AaABAg",
+  "snippet": {
+    "videoId": "9QD56W0oatc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gznGdhKtA0hApQzRbXf19mWS-tU",
+      "id": "UgztWUTqIpUUHSUwXIl4AaABAg",
+      "snippet": {
+        "videoId": "9QD56W0oatc",
+        "textDisplay": "O \u00e1udio ficou baixo, com eco. Mas estou gostando muito dos seus v\u00eddeos! Essenciais!",
+        "textOriginal": "O \u00e1udio ficou baixo, com eco. Mas estou gostando muito dos seus v\u00eddeos! Essenciais!",
+        "authorDisplayName": "Marta Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-jxMeKoHtsb_ex4fVPbenRpi0OJZhuxYuqcgi18g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2xB6mdypIzlOZCnWoBkV7Q",
+        "authorChannelId": {
+          "value": "UC2xB6mdypIzlOZCnWoBkV7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-29T19:56:47Z",
+        "updatedAt": "2020-03-29T19:56:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1GZvFgbE9RG6GbWYJsgtdpwLxb4",
+      "id": "UgztWUTqIpUUHSUwXIl4AaABAg.96nct11-SxL96nidIaukCm",
+      "snippet": {
+        "textDisplay": "Infelizmente aconteceu nesse",
+        "textOriginal": "Infelizmente aconteceu nesse",
+        "parentId": "UgztWUTqIpUUHSUwXIl4AaABAg",
+        "authorDisplayName": "Doutora Drag - Dimitra Vulcana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8NFUdfay2MrGv21M0s064WQyfG2KW6y4hEQr6sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcgl8D1QAwAmZekgv1-BaQg",
+        "authorChannelId": {
+          "value": "UCcgl8D1QAwAmZekgv1-BaQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-29T20:47:03Z",
+        "updatedAt": "2020-03-29T20:47:03Z"
+      }
+    }
+  ]
+}

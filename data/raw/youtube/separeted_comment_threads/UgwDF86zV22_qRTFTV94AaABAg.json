@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H2cW6oampaXcOxbmHTvgbLfDJWI",
+  "id": "UgwDF86zV22_qRTFTV94AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "calT8vV9yLEnIsMabU3eTZDbirM",
+      "id": "UgwDF86zV22_qRTFTV94AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Top em",
+        "textOriginal": "Top em",
+        "authorDisplayName": "Rachador 05",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3P4aAFSxV6UVTI8BaC1EpNq3RyBjNUzHZGwgvIi9XhM-KkHrUucfzL7iPfEeFoAz6ESbuv-ChTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRrkqw9rZ-pspgE07XxjCOQ",
+        "authorChannelId": {
+          "value": "UCRrkqw9rZ-pspgE07XxjCOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-22T14:45:32Z",
+        "updatedAt": "2021-04-22T14:45:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9lY8zC3rNxgo799eMnCV339vyiM",
+      "id": "UgwDF86zV22_qRTFTV94AaABAg.9MRiUo3ClCi9MS4S1oXot-",
+      "snippet": {
+        "textDisplay": "Valeu Rachadoooor!! Salvemos o SUS!",
+        "textOriginal": "Valeu Rachadoooor!! Salvemos o SUS!",
+        "parentId": "UgwDF86zV22_qRTFTV94AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-22T18:06:08Z",
+        "updatedAt": "2021-04-22T18:06:08Z"
+      }
+    }
+  ]
+}

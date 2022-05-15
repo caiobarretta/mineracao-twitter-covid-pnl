@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pZqCt3bIGNfY5mnMHsUTfWaj9tk",
+  "id": "UgwN7mrUd7DyuohtQ2R4AaABAg",
+  "snippet": {
+    "videoId": "yIuYL47BS_4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EM_GZvPlbyf6pYHyEOESbxjgS00",
+      "id": "UgwN7mrUd7DyuohtQ2R4AaABAg",
+      "snippet": {
+        "videoId": "yIuYL47BS_4",
+        "textDisplay": "Aqu\u00ed por la clase de comunicaci\u00f3n :v",
+        "textOriginal": "Aqu\u00ed por la clase de comunicaci\u00f3n :v",
+        "authorDisplayName": "Delia Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIckUfuJuxDN6iUEU_WUzbeSYu_sKrm1GaCg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8jAHJHCz7olxTdelXb8K8w",
+        "authorChannelId": {
+          "value": "UC8jAHJHCz7olxTdelXb8K8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2020-10-06T14:50:13Z",
+        "updatedAt": "2020-10-06T14:50:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RGEu8D3xFkKn6M8XSdF3p_QzzG4",
+      "id": "UgwN7mrUd7DyuohtQ2R4AaABAg.9ETtcnrpZ5X9KxnCANbv4S",
+      "snippet": {
+        "textDisplay": "XD",
+        "textOriginal": "XD",
+        "parentId": "UgwN7mrUd7DyuohtQ2R4AaABAg",
+        "authorDisplayName": "Pamela Quishpe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTM5Kj3oBS5lVHSLmf4HbANrj34eXD_v3nsVQ7NdFM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6DJycySaV9arigR1bWWaWg",
+        "authorChannelId": {
+          "value": "UC6DJycySaV9arigR1bWWaWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-16T17:58:50Z",
+        "updatedAt": "2021-03-16T17:58:50Z"
+      }
+    }
+  ]
+}

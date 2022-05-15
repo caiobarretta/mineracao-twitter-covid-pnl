@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1VOHfoWh276pPg74iHS8_RJ5pY4",
+  "id": "Ugxcax7XUZz9rUpNIlN4AaABAg",
+  "snippet": {
+    "videoId": "Xg17_LRie0c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "No694b85yBSuxfuo0rR53MigZuE",
+      "id": "Ugxcax7XUZz9rUpNIlN4AaABAg",
+      "snippet": {
+        "videoId": "Xg17_LRie0c",
+        "textDisplay": "H1n2 epidemia de 2027",
+        "textOriginal": "H1n2 epidemia de 2027",
+        "authorDisplayName": "Rafael Dorival Teixeira Felisardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOW9LNA5w1x2HgzugSnsJlM2VPwD3zILYwpdSgAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZA7RNvlZAcy6L6oujNmMZA",
+        "authorChannelId": {
+          "value": "UCZA7RNvlZAcy6L6oujNmMZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-17T18:31:50Z",
+        "updatedAt": "2020-05-17T18:31:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "l8Rd1ETAo1GDzLTIqXvf5oYmF6I",
+      "id": "Ugxcax7XUZz9rUpNIlN4AaABAg.98le6jfCtwt9GV20g1WPcc",
+      "snippet": {
+        "textDisplay": "repreende senhor",
+        "textOriginal": "repreende senhor",
+        "parentId": "Ugxcax7XUZz9rUpNIlN4AaABAg",
+        "authorDisplayName": "Geovanna",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo1slnvbrxVq5zz5Ga6NCEHEw8oYkFPPTPca-wDbM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCz7cFEAKt2JpSgVy3SzaZ5Q",
+        "authorChannelId": {
+          "value": "UCz7cFEAKt2JpSgVy3SzaZ5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-25T18:34:17Z",
+        "updatedAt": "2020-11-25T18:34:17Z"
+      }
+    }
+  ]
+}

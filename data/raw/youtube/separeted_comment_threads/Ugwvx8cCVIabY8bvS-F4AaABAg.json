@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uSMCaymexrWie1QN8iGMYnepNCk",
+  "id": "Ugwvx8cCVIabY8bvS-F4AaABAg",
+  "snippet": {
+    "videoId": "kR3uGQdbUjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "piSdUf-A8Q5t5evcI__UHi9CSAI",
+      "id": "Ugwvx8cCVIabY8bvS-F4AaABAg",
+      "snippet": {
+        "videoId": "kR3uGQdbUjU",
+        "textDisplay": "Globo lixo na minha casa jamais ...................................",
+        "textOriginal": "Globo lixo na minha casa jamais ...................................",
+        "authorDisplayName": "LUCIO GOUVEIA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhHnouN4BAp7FRsHSOPaSra44CoBbZTX53OWt-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCabsZQue_Rss6M0q56B7t7A",
+        "authorChannelId": {
+          "value": "UCabsZQue_Rss6M0q56B7t7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T21:51:29Z",
+        "updatedAt": "2022-05-10T21:51:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mN-2Dtp72d6TTMZxt5v_BfKxJK8",
+      "id": "Ugwvx8cCVIabY8bvS-F4AaABAg.9arfgaEMXCJ9ark4irWKln",
+      "snippet": {
+        "textDisplay": "Gado iludido.",
+        "textOriginal": "Gado iludido.",
+        "parentId": "Ugwvx8cCVIabY8bvS-F4AaABAg",
+        "authorDisplayName": "Emmanuel Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtXYtiufpi-QQfqNNUQCF2NqN3ZXCBeZW26Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9TwDMDEVmYkDWAeZih05kQ",
+        "authorChannelId": {
+          "value": "UC9TwDMDEVmYkDWAeZih05kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T22:29:51Z",
+        "updatedAt": "2022-05-10T22:29:51Z"
+      }
+    }
+  ]
+}

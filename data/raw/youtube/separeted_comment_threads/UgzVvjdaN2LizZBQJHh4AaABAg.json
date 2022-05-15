@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "COrT5dCeAiIvtPrX7kTFNbu24Z0",
+  "id": "UgzVvjdaN2LizZBQJHh4AaABAg",
+  "snippet": {
+    "videoId": "L5rQ-kNRJNg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QWSzlPZry5vODB2EYA0iJdOHN-s",
+      "id": "UgzVvjdaN2LizZBQJHh4AaABAg",
+      "snippet": {
+        "videoId": "L5rQ-kNRJNg",
+        "textDisplay": "N\u00e3o tomo mais nada, tomei duas, n\u00e3o tomo mais de jeito nenhum.",
+        "textOriginal": "N\u00e3o tomo mais nada, tomei duas, n\u00e3o tomo mais de jeito nenhum.",
+        "authorDisplayName": "Yanara de Castro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRCd5ivPLFc6rknyV6jCOY69da7ZGvQeDlU5g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9PnqV4mGGM3SlxOENL0hDg",
+        "authorChannelId": {
+          "value": "UC9PnqV4mGGM3SlxOENL0hDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-03T02:24:23Z",
+        "updatedAt": "2022-04-03T02:24:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "afLZBk66T5xmMOrJN6W4J6iaGdM",
+      "id": "UgzVvjdaN2LizZBQJHh4AaABAg.9_LJi769oTq9_NOAFdJS9a",
+      "snippet": {
+        "textDisplay": "Eu idem",
+        "textOriginal": "Eu idem",
+        "parentId": "UgzVvjdaN2LizZBQJHh4AaABAg",
+        "authorDisplayName": "carla freire",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTk82h-L_tiwyVBk8CCj0lmyf6-28XBcQOhIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCv-haUp8ns8X6fSsxLF1Z-w",
+        "authorChannelId": {
+          "value": "UCv-haUp8ns8X6fSsxLF1Z-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-03T21:41:47Z",
+        "updatedAt": "2022-04-03T21:41:47Z"
+      }
+    }
+  ]
+}

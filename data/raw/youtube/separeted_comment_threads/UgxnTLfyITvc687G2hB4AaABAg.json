@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UENi-PA1Y7L1KcioiUsF7kWwQ90",
+  "id": "UgxnTLfyITvc687G2hB4AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4tv0rddEPAzuDedtjCiRp9aztkY",
+      "id": "UgxnTLfyITvc687G2hB4AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "O meu s\u00f3 fica carregando",
+        "textOriginal": "O meu s\u00f3 fica carregando",
+        "authorDisplayName": "Guilherme capinan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwG3Kgvo4ZjSxcxeS5ZNrFufZJLzJJ0msguWE307c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGHWVA7Qdh8XEEKCxytDI1A",
+        "authorChannelId": {
+          "value": "UCGHWVA7Qdh8XEEKCxytDI1A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-10T22:41:46Z",
+        "updatedAt": "2022-01-10T22:41:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Dpc3YBQF8PoCVe5G7Rcpp47xRfo",
+      "id": "UgxnTLfyITvc687G2hB4AaABAg.9X1m2x4_OnP9X1paPqqGJf",
+      "snippet": {
+        "textDisplay": "Sim, est\u00e1 assim agora. Este app BUGOU e n\u00e3o arrumaram mais",
+        "textOriginal": "Sim, est\u00e1 assim agora. Este app BUGOU e n\u00e3o arrumaram mais",
+        "parentId": "UgxnTLfyITvc687G2hB4AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-10T23:12:41Z",
+        "updatedAt": "2022-01-10T23:12:41Z"
+      }
+    }
+  ]
+}

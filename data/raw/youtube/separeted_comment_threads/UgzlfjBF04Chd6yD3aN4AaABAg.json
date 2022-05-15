@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "igJO1wTGrce9xdkYPRpOGkG1Eto",
+  "id": "UgzlfjBF04Chd6yD3aN4AaABAg",
+  "snippet": {
+    "videoId": "X6I6EWtwE4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XCb3h_LjmHc0d21vIh7E_7wQBdY",
+      "id": "UgzlfjBF04Chd6yD3aN4AaABAg",
+      "snippet": {
+        "videoId": "X6I6EWtwE4E",
+        "textDisplay": "Meninas, parab\u00e9ns pela iniciativa. Muito importante.",
+        "textOriginal": "Meninas, parab\u00e9ns pela iniciativa. Muito importante.",
+        "authorDisplayName": "Zoraia Telles",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_Vd-KY6Ync5eZ5ZqAts_aD8MG1D8ZDAEeIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqLubXbv0H3SAEbFUqPWZtg",
+        "authorChannelId": {
+          "value": "UCqLubXbv0H3SAEbFUqPWZtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-05T12:12:41Z",
+        "updatedAt": "2020-12-05T12:12:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7LTNOhXKkbnV6PcpEUENtjhc7V4",
+      "id": "UgzlfjBF04Chd6yD3aN4AaABAg.9Gt6IYhi8Ja9GuQLNuvMAe",
+      "snippet": {
+        "textDisplay": "Obrigada, Zoraia!",
+        "textOriginal": "Obrigada, Zoraia!",
+        "parentId": "UgzlfjBF04Chd6yD3aN4AaABAg",
+        "authorDisplayName": "Coletividade com Sa\u00fade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_gtfdEgkESjvL7UdKBThanghx7C8LEm4Vlhm9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRUfYw0ql5PFVNUW7U0b_CA",
+        "authorChannelId": {
+          "value": "UCRUfYw0ql5PFVNUW7U0b_CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-06T00:27:04Z",
+        "updatedAt": "2020-12-06T00:27:04Z"
+      }
+    }
+  ]
+}

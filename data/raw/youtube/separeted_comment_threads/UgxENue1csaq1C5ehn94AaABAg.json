@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nDhANRmTnitRO36gS5UoCfQeCec",
+  "id": "UgxENue1csaq1C5ehn94AaABAg",
+  "snippet": {
+    "videoId": "eOfhgO1HjPw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cvOTGFOneup_fEtGGX67i__LPgk",
+      "id": "UgxENue1csaq1C5ehn94AaABAg",
+      "snippet": {
+        "videoId": "eOfhgO1HjPw",
+        "textDisplay": "Sr. Cove por que voc\u00ea n\u00e3o faz uma mec\u00e2nica de colocar nome?",
+        "textOriginal": "Sr. Cove por que voc\u00ea n\u00e3o faz uma mec\u00e2nica de colocar nome?",
+        "authorDisplayName": "\u266aJEFF_FNF\u266a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/sSIwN30Rj3JSRQZ3d9d7yqEtgcdpKdvMq-2mJoartAYipE0b8Fdf5zBJNU8Qz_hblHB9Z7gF_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfdpechOdOEuQewJWkOaQmw",
+        "authorChannelId": {
+          "value": "UCfdpechOdOEuQewJWkOaQmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-21T15:08:44Z",
+        "updatedAt": "2022-01-21T15:08:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DUfeCDDplOf3mR0gT2a9mqGD6i8",
+      "id": "UgxENue1csaq1C5ehn94AaABAg.9XTHxNyMb139XTI_avqhA-",
+      "snippet": {
+        "textDisplay": "boa ideia",
+        "textOriginal": "boa ideia",
+        "parentId": "UgxENue1csaq1C5ehn94AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-21T15:14:13Z",
+        "updatedAt": "2022-01-21T15:14:13Z"
+      }
+    }
+  ]
+}

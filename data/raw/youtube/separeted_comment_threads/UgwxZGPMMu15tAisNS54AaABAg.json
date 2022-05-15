@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wYScoOcj9QqR9gYBScvtGZeZNpU",
+  "id": "UgwxZGPMMu15tAisNS54AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mcZau6gLdU8d4Elh7id8r0YM1vM",
+      "id": "UgwxZGPMMu15tAisNS54AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Hello. I need your help. How do you get transparent areas with a PNG image? Thanks.",
+        "textOriginal": "Hello. I need your help. How do you get transparent areas with a PNG image? Thanks.",
+        "authorDisplayName": "TheFusionFire",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHzcJQXFkmfIftRf9UtflMezqBeuSDyRH1mMt0sA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa9uCxZ44OA9LE_LzDRF9iw",
+        "authorChannelId": {
+          "value": "UCa9uCxZ44OA9LE_LzDRF9iw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-03T15:57:07Z",
+        "updatedAt": "2020-06-03T15:57:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "L3XiK7QaaVwGISSo-PNWAfkF7WU",
+      "id": "UgwxZGPMMu15tAisNS54AaABAg.99S8vOY29zo99SJHCtvdne",
+      "snippet": {
+        "textDisplay": "@Brian Burton thank you. I did this, but when I render that in the game, it fills the areas with white color.",
+        "textOriginal": "@Brian Burton thank you. I did this, but when I render that in the game, it fills the areas with white color.",
+        "parentId": "UgwxZGPMMu15tAisNS54AaABAg",
+        "authorDisplayName": "TheFusionFire",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHzcJQXFkmfIftRf9UtflMezqBeuSDyRH1mMt0sA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa9uCxZ44OA9LE_LzDRF9iw",
+        "authorChannelId": {
+          "value": "UCa9uCxZ44OA9LE_LzDRF9iw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T17:27:36Z",
+        "updatedAt": "2020-06-03T17:27:36Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "0ZMn_mqmHaN-2zmh1Bi-YglNblM",
+      "id": "UgwxZGPMMu15tAisNS54AaABAg.99S8vOY29zo99SIw3RR9ci",
+      "snippet": {
+        "textDisplay": "Just set the background to transparent when you first create the image.  If the image is already created, you can use the eraser to clear the background.",
+        "textOriginal": "Just set the background to transparent when you first create the image.  If the image is already created, you can use the eraser to clear the background.",
+        "parentId": "UgwxZGPMMu15tAisNS54AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T17:24:35Z",
+        "updatedAt": "2020-06-03T17:24:35Z"
+      }
+    }
+  ]
+}

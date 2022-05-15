@@ -1,0 +1,140 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sDPn3t0mkTrV89WN89MikHsWHbQ",
+  "id": "UgiKek4_4fuq6ngCoAEC",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fjlsF2x8wqbNVEsr64t8CMATcD4",
+      "id": "UgiKek4_4fuq6ngCoAEC",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "i just starting using corona sdk i regularly use unity but to be honest working with lua is much easier then working with java and i just started learning lua 1 month ago do i need to download anything else besides corona sdk or is that all by the way thanks alot for the video great work",
+        "textOriginal": "i just starting using corona sdk i regularly use unity but to be honest working with lua is much easier then working with java and i just started learning lua 1 month ago do i need to download anything else besides corona sdk or is that all by the way thanks alot for the video great work",
+        "authorDisplayName": "StormTech Entertainment",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuaS-SaoO4qupHWhGsQEUZ4Rz5kjI1HJ13EK-j=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnjDIqlz4mc5JbeYRF0zJiw",
+        "authorChannelId": {
+          "value": "UCnjDIqlz4mc5JbeYRF0zJiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2016-11-02T18:48:20Z",
+        "updatedAt": "2016-11-02T18:49:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 5,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VOG6cObl_iuBcshx2Nhe3HNjdbU",
+      "id": "UgiKek4_4fuq6ngCoAEC.8Kmsy1T0x5s8bPbT0atDbR",
+      "snippet": {
+        "textDisplay": "Sorry for the slow reply, I didn't get the notice!  Yes, Lumberyard uses Lua and has a visual scripting tool.",
+        "textOriginal": "Sorry for the slow reply, I didn't get the notice!  Yes, Lumberyard uses Lua and has a visual scripting tool.",
+        "parentId": "UgiKek4_4fuq6ngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-01-14T17:58:44Z",
+        "updatedAt": "2018-01-14T17:58:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "lS0PHIINJKNnCIQUnZN1e4Afsqw",
+      "id": "UgiKek4_4fuq6ngCoAEC.8Kmsy1T0x5s8QyPMNXSZBv",
+      "snippet": {
+        "textDisplay": "Brian Burton does it use Lua Lumberyard?",
+        "textOriginal": "Brian Burton does it use Lua Lumberyard?",
+        "parentId": "UgiKek4_4fuq6ngCoAEC",
+        "authorDisplayName": "The Real Novice",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/oU26yqLw1zOgPHwNZMs5oZK6Qq8Am6C-k8Hav9o-mcjBGkLJIGOa9X2MlzN8BTp9470EanPiLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3IxVdoZCfTWXk2z-t_HcsQ",
+        "authorChannelId": {
+          "value": "UC3IxVdoZCfTWXk2z-t_HcsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2017-04-05T09:20:09Z",
+        "updatedAt": "2017-04-05T09:20:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Nms9f6j4OC-2hD4IRcwKpSH0Ans",
+      "id": "UgiKek4_4fuq6ngCoAEC.8Kmsy1T0x5s8KnF3CNv78s",
+      "snippet": {
+        "textDisplay": "Make sure you check out the Corona Editor plugin for sublime.  It's great!\nCorona is my choice for anything 2D or traditional app development.  Lumberyard is my new goto for 3D game dev and VR.",
+        "textOriginal": "Make sure you check out the Corona Editor plugin for sublime.  It's great!\nCorona is my choice for anything 2D or traditional app development.  Lumberyard is my new goto for 3D game dev and VR.",
+        "parentId": "UgiKek4_4fuq6ngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-11-02T22:10:08Z",
+        "updatedAt": "2016-11-02T22:10:08Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "rI3plzzB4plhK1TVN4gpj90yPEE",
+      "id": "UgiKek4_4fuq6ngCoAEC.8Kmsy1T0x5s8KnCyUPkLoA",
+      "snippet": {
+        "textDisplay": "nice!! i have sublime as well and lumberyard looks very interesting i will probably give that a try down the road",
+        "textOriginal": "nice!! i have sublime as well and lumberyard looks very interesting i will probably give that a try down the road",
+        "parentId": "UgiKek4_4fuq6ngCoAEC",
+        "authorDisplayName": "StormTech Entertainment",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuaS-SaoO4qupHWhGsQEUZ4Rz5kjI1HJ13EK-j=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnjDIqlz4mc5JbeYRF0zJiw",
+        "authorChannelId": {
+          "value": "UCnjDIqlz4mc5JbeYRF0zJiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-11-02T21:51:53Z",
+        "updatedAt": "2016-11-02T21:51:53Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "yPOcxQcFkfTU6dfsIqPQ_hm5WiE",
+      "id": "UgiKek4_4fuq6ngCoAEC.8Kmsy1T0x5s8Kn2QOP-qb9",
+      "snippet": {
+        "textDisplay": "All you need is your favorite editor to work with Corona.  I switch between Sublime & ZeroBrane when working on Corona.\nI'm also a long-time Unity developer, but will be switching to Lumberyard going forward. Lua is the scripting language used in Lumberyard.",
+        "textOriginal": "All you need is your favorite editor to work with Corona.  I switch between Sublime & ZeroBrane when working on Corona.\nI'm also a long-time Unity developer, but will be switching to Lumberyard going forward. Lua is the scripting language used in Lumberyard.",
+        "parentId": "UgiKek4_4fuq6ngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-11-02T20:19:43Z",
+        "updatedAt": "2016-11-02T20:19:43Z"
+      }
+    }
+  ]
+}

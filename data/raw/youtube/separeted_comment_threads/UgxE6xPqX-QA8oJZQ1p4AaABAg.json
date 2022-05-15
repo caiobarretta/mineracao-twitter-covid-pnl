@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ndB8RekD5CnTDUEEtobJU3el7Sw",
+  "id": "UgxE6xPqX-QA8oJZQ1p4AaABAg",
+  "snippet": {
+    "videoId": "rqRUrJWUZ-4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OspVw9d7jVZVQB2N2D-RkIJrVtg",
+      "id": "UgxE6xPqX-QA8oJZQ1p4AaABAg",
+      "snippet": {
+        "videoId": "rqRUrJWUZ-4",
+        "textDisplay": "Estava ontem nessa Live e s\u00f3 tenha uma coisa pra falar... Foi fant\u00e1stica, e gostei tanto, que nem vi o tempo passar. Espero que vcs continuem com esse \u00f3timo conte\u00fado e alcance todos os seus objetivos, abra\u00e7o!",
+        "textOriginal": "Estava ontem nessa Live e s\u00f3 tenha uma coisa pra falar... Foi fant\u00e1stica, e gostei tanto, que nem vi o tempo passar. Espero que vcs continuem com esse \u00f3timo conte\u00fado e alcance todos os seus objetivos, abra\u00e7o!",
+        "authorDisplayName": "Gustavo Cherubini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQrOJABrufrcABaavw--FvWSiZIuaHf-66tRGl8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPBWZnEkaY83nuvuXKFoeOg",
+        "authorChannelId": {
+          "value": "UCPBWZnEkaY83nuvuXKFoeOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2021-04-11T22:16:00Z",
+        "updatedAt": "2021-04-11T22:16:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qpezoklUSbs14Ixd7GB__L0ZiUY",
+      "id": "UgxE6xPqX-QA8oJZQ1p4AaABAg.9M0CIQN5Evu9M0CdYY3rUT",
+      "snippet": {
+        "textDisplay": "Obrigado!!",
+        "textOriginal": "Obrigado!!",
+        "parentId": "UgxE6xPqX-QA8oJZQ1p4AaABAg",
+        "authorDisplayName": "Ol\u00e1, Ci\u00eancia!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDvAWrYntyJUMYQT6I25hX4DfrtXNiWeP7L22zvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrSM1UV_KLAdTzgxyxl3POw",
+        "authorChannelId": {
+          "value": "UCrSM1UV_KLAdTzgxyxl3POw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-11T22:19:01Z",
+        "updatedAt": "2021-04-11T22:19:01Z"
+      }
+    }
+  ]
+}

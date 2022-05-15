@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NZjGVm95FySYwRS5lwbFgMVqK0M",
+  "id": "Ugw6jysfWXokKTrODLh4AaABAg",
+  "snippet": {
+    "videoId": "Hgbq2HRdMfA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6OmnzZ7V7JrC-Zer_0Q81SqBlWI",
+      "id": "Ugw6jysfWXokKTrODLh4AaABAg",
+      "snippet": {
+        "videoId": "Hgbq2HRdMfA",
+        "textDisplay": "Pq nao mostra oque realmente esta acontecendo,  safados!!",
+        "textOriginal": "Pq nao mostra oque realmente esta acontecendo,  safados!!",
+        "authorDisplayName": "Arist\u00f3teles Rodrigues abadias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ915wRucMLhTVQgbz6Mqofx-L7heBaPr6CLRL6zA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq2euiz02HPG3qg3cmCFsgA",
+        "authorChannelId": {
+          "value": "UCq2euiz02HPG3qg3cmCFsgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 17,
+        "publishedAt": "2022-04-19T05:15:55Z",
+        "updatedAt": "2022-04-19T05:15:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JYQQFNQlE9rCK0nJf8BPh2GG1vQ",
+      "id": "Ugw6jysfWXokKTrODLh4AaABAg.9_zp3Z-Lgvr9aJAG7JZ-i7",
+      "snippet": {
+        "textDisplay": "O que esta acontecendo",
+        "textOriginal": "O que esta acontecendo",
+        "parentId": "Ugw6jysfWXokKTrODLh4AaABAg",
+        "authorDisplayName": "Mariana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/k8VXK2f8EhQ-YgK6Ln-AqEjNKUcjTr7iBX9I8AQAidrhmL_mvyyE-BQ9D9It8uz9FgZNKA56qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChgkWLq_6iNZHPZnhm4lRBQ",
+        "authorChannelId": {
+          "value": "UChgkWLq_6iNZHPZnhm4lRBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-27T02:54:41Z",
+        "updatedAt": "2022-04-27T02:54:41Z"
+      }
+    }
+  ]
+}

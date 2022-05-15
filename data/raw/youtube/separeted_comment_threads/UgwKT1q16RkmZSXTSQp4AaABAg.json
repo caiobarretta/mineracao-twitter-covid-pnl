@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HilV96eAdMznYeYEtpqdN3fhE54",
+  "id": "UgwKT1q16RkmZSXTSQp4AaABAg",
+  "snippet": {
+    "videoId": "pGGf2a24Eho",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WoJ4QLY00uwPhnjwzJ1fWXrSBCQ",
+      "id": "UgwKT1q16RkmZSXTSQp4AaABAg",
+      "snippet": {
+        "videoId": "pGGf2a24Eho",
+        "textDisplay": "Kivia carem Lacerda Almeida. Aldeia Tenda. S\u00c3O JO\u00c3O DAS MISS\u00d5ES. MG.",
+        "textOriginal": "Kivia carem Lacerda Almeida. Aldeia Tenda. S\u00c3O JO\u00c3O DAS MISS\u00d5ES. MG.",
+        "authorDisplayName": "Kivia Carem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMTMKjTp8-RNO0gokv10jpuwlGo3Gx2HkYAgnxCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeI_T6cIZZq0eq239s1RYOQ",
+        "authorChannelId": {
+          "value": "UCeI_T6cIZZq0eq239s1RYOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-03T01:21:22Z",
+        "updatedAt": "2021-08-03T01:21:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SgfGBSdFEDNF1ILEB3bSUDLXXQY",
+      "id": "UgwKT1q16RkmZSXTSQp4AaABAg.9QZVL1YS1nM9Q_jcREsqgt",
+      "snippet": {
+        "textDisplay": "Eu amei excelente aula.",
+        "textOriginal": "Eu amei excelente aula.",
+        "parentId": "UgwKT1q16RkmZSXTSQp4AaABAg",
+        "authorDisplayName": "Neide Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJZGFsWX7ncNaXgmDbex_EFqF4NIQZGZhI3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi5ydXdMMWfccfn-_t7MEWw",
+        "authorChannelId": {
+          "value": "UCi5ydXdMMWfccfn-_t7MEWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-03T12:54:12Z",
+        "updatedAt": "2021-08-03T12:54:12Z"
+      }
+    }
+  ]
+}

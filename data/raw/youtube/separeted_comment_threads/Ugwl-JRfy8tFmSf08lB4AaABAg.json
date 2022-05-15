@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1dnQqys5C4jEke0A54qx1fJrvoE",
+  "id": "Ugwl-JRfy8tFmSf08lB4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GlPpcNn-vowl1YcC2L12AkCmSaY",
+      "id": "Ugwl-JRfy8tFmSf08lB4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Esse Gov.br \u00e9 mesmo da CNH Digital?",
+        "textOriginal": "Esse Gov.br \u00e9 mesmo da CNH Digital?",
+        "authorDisplayName": "Clebson Viana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWzeiE_t7dWdxp7z33wW4KZ7u6tb6oQOIczCbLE20=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrk5XrH-Q6cMn6KzWvYf5cA",
+        "authorChannelId": {
+          "value": "UCrk5XrH-Q6cMn6KzWvYf5cA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-26T12:18:14Z",
+        "updatedAt": "2021-05-26T12:18:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SLc8TlPPmBdJ5cE9ySfJpTZ8E6s",
+      "id": "Ugwl-JRfy8tFmSf08lB4AaABAg.9No-ecU1DId9No1WSqDAWv",
+      "snippet": {
+        "textDisplay": "Sim, meu Nobre \u00e9 a mesma plataforma \ud83d\udc4d",
+        "textOriginal": "Sim, meu Nobre \u00e9 a mesma plataforma \ud83d\udc4d",
+        "parentId": "Ugwl-JRfy8tFmSf08lB4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-26T12:34:27Z",
+        "updatedAt": "2021-05-26T12:34:27Z"
+      }
+    }
+  ]
+}

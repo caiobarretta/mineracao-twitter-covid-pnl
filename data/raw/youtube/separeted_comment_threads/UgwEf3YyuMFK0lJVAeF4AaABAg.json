@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qXZ0IZyO5WYDRScfmc-uVSzUovs",
+  "id": "UgwEf3YyuMFK0lJVAeF4AaABAg",
+  "snippet": {
+    "videoId": "NGRWsHbZrzE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4ZiUZXrvWTqzXssjOtNcoG45_Gg",
+      "id": "UgwEf3YyuMFK0lJVAeF4AaABAg",
+      "snippet": {
+        "videoId": "NGRWsHbZrzE",
+        "textDisplay": "Tem lista de presen\u00e7a?",
+        "textOriginal": "Tem lista de presen\u00e7a?",
+        "authorDisplayName": "m\u00e1rio c\u00e9zar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3_dDcDbEgJGPJatiNPkgii6yr2sPDLPypZdRh9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0PBo7-XCG_TtACKremBubQ",
+        "authorChannelId": {
+          "value": "UC0PBo7-XCG_TtACKremBubQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-26T12:15:12Z",
+        "updatedAt": "2020-08-26T12:15:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "13yqolEvTm-MhJa2Ts1F18Wvc4g",
+      "id": "UgwEf3YyuMFK0lJVAeF4AaABAg.9Cp2IbCP8nN9Cp4xxg4R07",
+      "snippet": {
+        "textDisplay": "Eu ainda n\u00e3o vi",
+        "textOriginal": "Eu ainda n\u00e3o vi",
+        "parentId": "UgwEf3YyuMFK0lJVAeF4AaABAg",
+        "authorDisplayName": "Edson Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6QcAqIsghIMIyMw8AUshEbzrDX9vi2MTy4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_vb5GPzKPPvRzD5X-udjOg",
+        "authorChannelId": {
+          "value": "UC_vb5GPzKPPvRzD5X-udjOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-26T12:38:28Z",
+        "updatedAt": "2020-08-26T12:38:28Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "VNrdFCdpMPYztK3bJ3f10ZXI_u0",
+      "id": "UgwEf3YyuMFK0lJVAeF4AaABAg.9Cp2IbCP8nN9Cp3gJlXVOh",
+      "snippet": {
+        "textDisplay": "Sim, est\u00e1 sendo disponibilizado o link no chat",
+        "textOriginal": "Sim, est\u00e1 sendo disponibilizado o link no chat",
+        "parentId": "UgwEf3YyuMFK0lJVAeF4AaABAg",
+        "authorDisplayName": "Paola Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHCLK66hoOtFoVVxisTAvPovvbgHyCtSO_nySAQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRYS-fJXPTRsJuN54l9zoDQ",
+        "authorChannelId": {
+          "value": "UCRYS-fJXPTRsJuN54l9zoDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-26T12:27:19Z",
+        "updatedAt": "2020-08-26T12:27:19Z"
+      }
+    }
+  ]
+}

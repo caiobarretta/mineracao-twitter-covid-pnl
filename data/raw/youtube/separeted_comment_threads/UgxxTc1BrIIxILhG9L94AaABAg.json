@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9uWknJAEjbi_AoUn-C9Cq912-L4",
+  "id": "UgxxTc1BrIIxILhG9L94AaABAg",
+  "snippet": {
+    "videoId": "q7-Vkvylmsg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zAqqmdYKmZQ_ibMT9RYKtodWGsY",
+      "id": "UgxxTc1BrIIxILhG9L94AaABAg",
+      "snippet": {
+        "videoId": "q7-Vkvylmsg",
+        "textDisplay": "Grande Lalo!",
+        "textOriginal": "Grande Lalo!",
+        "authorDisplayName": "Manuel Benitez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQIejzBlOaxg0Z5Yno3EdAKGJEvfhq6VSfk7_sZAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPQusA-LIdjZe13P8RO91nA",
+        "authorChannelId": {
+          "value": "UCPQusA-LIdjZe13P8RO91nA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-03-09T01:33:22Z",
+        "updatedAt": "2022-03-09T01:33:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qnFoBVXWVADQLSzk503lJ3GUEo8",
+      "id": "UgxxTc1BrIIxILhG9L94AaABAg.9ZKr-cmCt4K9ZOo82JTxwO",
+      "snippet": {
+        "textDisplay": "GRAN OPERADOR A SUELDO",
+        "textOriginal": "GRAN OPERADOR A SUELDO",
+        "parentId": "UgxxTc1BrIIxILhG9L94AaABAg",
+        "authorDisplayName": "claudio tripe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYz205w-3wGUwoDgxJI24_p4kRBEo_UnXWdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNLUQstj-ignajHLtD-hMRw",
+        "authorChannelId": {
+          "value": "UCNLUQstj-ignajHLtD-hMRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-10T14:25:16Z",
+        "updatedAt": "2022-03-10T14:25:16Z"
+      }
+    }
+  ]
+}

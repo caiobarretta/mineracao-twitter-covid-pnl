@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ksnK3l1sxf5GkvowDVFDZSp2SgI",
+  "id": "UgwNFcRKmm9sHkcG1JN4AaABAg",
+  "snippet": {
+    "videoId": "1KT2Io_DuK0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "e7ql4u4qD6IgaDmX3_jRK7ZUvs8",
+      "id": "UgwNFcRKmm9sHkcG1JN4AaABAg",
+      "snippet": {
+        "videoId": "1KT2Io_DuK0",
+        "textDisplay": "Boa noite",
+        "textOriginal": "Boa noite",
+        "authorDisplayName": "Jorge Luiz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOAI3ARaFOKX340lEEGodtYj_ATewlxbbA8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgt2-Os3xkKZhvHxo7k8CeQ",
+        "authorChannelId": {
+          "value": "UCgt2-Os3xkKZhvHxo7k8CeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-20T22:55:26Z",
+        "updatedAt": "2021-07-20T22:55:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lhcv-FGcsx6uBUwgV-KujrzT6hE",
+      "id": "UgwNFcRKmm9sHkcG1JN4AaABAg.9Q1lIoSGQmX9Q1lbk717e_",
+      "snippet": {
+        "textDisplay": "Boa noite, Jorge Luiz! Aproveite nossa aula. Bons estudos! \ud83e\udd89\ud83d\udc9c",
+        "textOriginal": "Boa noite, Jorge Luiz! Aproveite nossa aula. Bons estudos! \ud83e\udd89\ud83d\udc9c",
+        "parentId": "UgwNFcRKmm9sHkcG1JN4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia Concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gc-5mkb_egiDaOogxF76f2_1HqifPzg5c_gwUlV6mZ8lc3FHCP1SxswgElG_4K1OCjNxbxD1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChvwkhC3eHxJsVxW_ItDjdA",
+        "authorChannelId": {
+          "value": "UChvwkhC3eHxJsVxW_ItDjdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-20T22:58:09Z",
+        "updatedAt": "2021-07-20T22:58:09Z"
+      }
+    }
+  ]
+}

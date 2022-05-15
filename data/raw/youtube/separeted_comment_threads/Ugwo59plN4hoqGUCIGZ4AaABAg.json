@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AIGBnaDzYrvWTGgpkrPX6x-SvMA",
+  "id": "Ugwo59plN4hoqGUCIGZ4AaABAg",
+  "snippet": {
+    "videoId": "nYRJF7w-k2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hGV5LR-MqUFXWXagZUnGE04FZXc",
+      "id": "Ugwo59plN4hoqGUCIGZ4AaABAg",
+      "snippet": {
+        "videoId": "nYRJF7w-k2M",
+        "textDisplay": "Muito explicativo \ud83d\ude09",
+        "textOriginal": "Muito explicativo \ud83d\ude09",
+        "authorDisplayName": "Tereza Cristina Machado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8rL5egz_K8m7PbRjP6xCyDlncz68KLls3K8h2LA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAqr7ylSgvmg4THFzj6DJhw",
+        "authorChannelId": {
+          "value": "UCAqr7ylSgvmg4THFzj6DJhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-14T21:49:32Z",
+        "updatedAt": "2021-03-14T21:49:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wFrRyGO_44SD4QDTz4r0cVIxVGQ",
+      "id": "Ugwo59plN4hoqGUCIGZ4AaABAg.9Kt3074jgT99KvBrWwAzHG",
+      "snippet": {
+        "textDisplay": "Que bom que gostou",
+        "textOriginal": "Que bom que gostou",
+        "parentId": "Ugwo59plN4hoqGUCIGZ4AaABAg",
+        "authorDisplayName": "VINICIUS SANTA LUZIA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnWE0P6Gvhif7_Xqei16X35QzJoO9l8H4BNJU1ZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNWxrdQs9X-pRZc7o1ftKiw",
+        "authorChannelId": {
+          "value": "UCNWxrdQs9X-pRZc7o1ftKiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-15T17:45:21Z",
+        "updatedAt": "2021-03-15T17:45:21Z"
+      }
+    }
+  ]
+}

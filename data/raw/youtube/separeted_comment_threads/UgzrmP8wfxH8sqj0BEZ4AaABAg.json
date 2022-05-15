@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_f8Nr5sVHD42bAIaAD2To2FO1gM",
+  "id": "UgzrmP8wfxH8sqj0BEZ4AaABAg",
+  "snippet": {
+    "videoId": "tIJpD0EeDuE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Y3Yc1DYBN5H42UQxCBxCvzcCe_k",
+      "id": "UgzrmP8wfxH8sqj0BEZ4AaABAg",
+      "snippet": {
+        "videoId": "tIJpD0EeDuE",
+        "textDisplay": "Por que n\u00e3o colocou a quest\u00e3o aqui em pdf?",
+        "textOriginal": "Por que n\u00e3o colocou a quest\u00e3o aqui em pdf?",
+        "authorDisplayName": "Alejandro Calencastro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2Sb0jc5VabEDN5Fi6RPGJ-Walx1jCUU1zNg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0ng034PYMl8Xo2Xo8AvG6g",
+        "authorChannelId": {
+          "value": "UC0ng034PYMl8Xo2Xo8AvG6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-19T01:29:12Z",
+        "updatedAt": "2021-04-19T01:29:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qhDyBo131zSOEl5ibBU-Riun_1A",
+      "id": "UgzrmP8wfxH8sqj0BEZ4AaABAg.9MIZycrNVMR9R7aPPaCxjT",
+      "snippet": {
+        "textDisplay": "Eles devem ter no aplicativo",
+        "textOriginal": "Eles devem ter no aplicativo",
+        "parentId": "UgzrmP8wfxH8sqj0BEZ4AaABAg",
+        "authorDisplayName": "Ana Jackeline Jaques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwJoyHY6OtgJgasYMPuv7aNauFm2Cy6rPtGWJQMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7sa2I3o8OkYDIhTPx5n1Zw",
+        "authorChannelId": {
+          "value": "UC7sa2I3o8OkYDIhTPx5n1Zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-17T01:47:03Z",
+        "updatedAt": "2021-08-17T01:47:03Z"
+      }
+    }
+  ]
+}

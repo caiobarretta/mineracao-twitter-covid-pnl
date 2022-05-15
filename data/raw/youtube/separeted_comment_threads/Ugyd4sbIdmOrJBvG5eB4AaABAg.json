@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XPE8wcyn3_D3HgUTgZkRg8f9Woo",
+  "id": "Ugyd4sbIdmOrJBvG5eB4AaABAg",
+  "snippet": {
+    "videoId": "IovHxc9j7Yo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CUVYGQMo2scebBP0uCZDPfyIOTM",
+      "id": "Ugyd4sbIdmOrJBvG5eB4AaABAg",
+      "snippet": {
+        "videoId": "IovHxc9j7Yo",
+        "textDisplay": "Cara, \u00e9 at\u00e9 engra\u00e7ado. Passei o dia de hoje todo convertendo um servidor RDW para Horse !! \ud83d\ude01\ud83d\ude01\ud83d\ude01 Ficou  bom demais !",
+        "textOriginal": "Cara, \u00e9 at\u00e9 engra\u00e7ado. Passei o dia de hoje todo convertendo um servidor RDW para Horse !! \ud83d\ude01\ud83d\ude01\ud83d\ude01 Ficou  bom demais !",
+        "authorDisplayName": "Sergio Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReHD1V9wf5BECdZnP0GtNZOw6tQEcbdtTu3H5Ch8U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLfUusUkKfTLQNte2rSEf_A",
+        "authorChannelId": {
+          "value": "UCLfUusUkKfTLQNte2rSEf_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-08T00:28:50Z",
+        "updatedAt": "2022-05-08T00:28:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pyCPw7cnm6HTJbiz7fHWeBXwQwg",
+      "id": "Ugyd4sbIdmOrJBvG5eB4AaABAg.9akEJSPzgQ39arIxXrIXFD",
+      "snippet": {
+        "textDisplay": "@Flavio Firmino Horse n\u00e3o tem DBWare.",
+        "textOriginal": "@Flavio Firmino Horse n\u00e3o tem DBWare.",
+        "parentId": "Ugyd4sbIdmOrJBvG5eB4AaABAg",
+        "authorDisplayName": "Mobius one",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8Lxrpo1xVYQoICUMrEMjbiW5iazgaR5CckbPj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoBJHTXwpxPHAApCPj6Xwjg",
+        "authorChannelId": {
+          "value": "UCoBJHTXwpxPHAApCPj6Xwjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T18:24:04Z",
+        "updatedAt": "2022-05-10T18:24:04Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "DtHA3bW0seSBRhUHfyn_Ksbawvw",
+      "id": "Ugyd4sbIdmOrJBvG5eB4AaABAg.9akEJSPzgQ39alVcg6wZ6U",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 S\u00e9rgio, no caso como ficaram os seus componentes de acesso a dados,a vez que o RDW facilita bastante essas funcionalidades? Como seria,por exemplo,um CRUD com Horsw usando os componentes dbware?",
+        "textOriginal": "Ol\u00e1 S\u00e9rgio, no caso como ficaram os seus componentes de acesso a dados,a vez que o RDW facilita bastante essas funcionalidades? Como seria,por exemplo,um CRUD com Horsw usando os componentes dbware?",
+        "parentId": "Ugyd4sbIdmOrJBvG5eB4AaABAg",
+        "authorDisplayName": "Flavio Firmino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShQqm7EF5XgbKLRH-scNdxZTffGSRNnNibasQVZDM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQn4giMji-_LaEiJ0Mm1aFA",
+        "authorChannelId": {
+          "value": "UCQn4giMji-_LaEiJ0Mm1aFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-08T12:19:23Z",
+        "updatedAt": "2022-05-08T12:19:23Z"
+      }
+    }
+  ]
+}

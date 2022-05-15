@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HHWc_8nDGU7GRKfzzkd2HwfHiRA",
+  "id": "UgyFmnsp_83DsSQqK8J4AaABAg",
+  "snippet": {
+    "videoId": "42KmERAB01M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "v9_bp7RU8YlLFTdorrMA5OX8t30",
+      "id": "UgyFmnsp_83DsSQqK8J4AaABAg",
+      "snippet": {
+        "videoId": "42KmERAB01M",
+        "textDisplay": "Dnv demorei mais cheguei",
+        "textOriginal": "Dnv demorei mais cheguei",
+        "authorDisplayName": "queops",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/u0-q9Cntoph00qv-rvo8flPiFfTNAdz-G2H8usYP2nKY9UDen-4Q7Am8t88dBXW5gvcHYoegMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCud5bBx8yLKuhTcHvEKPBpA",
+        "authorChannelId": {
+          "value": "UCud5bBx8yLKuhTcHvEKPBpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-27T23:45:26Z",
+        "updatedAt": "2022-04-27T23:45:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WLQpdJGtcdHPeU4nL-mgteSe9wk",
+      "id": "UgyFmnsp_83DsSQqK8J4AaABAg.9aLPOsk4oXU9aLSxhLf4YT",
+      "snippet": {
+        "textDisplay": "\ud83d\ude33ae o v\u00eddeo de colis\u00e3o",
+        "textOriginal": "\ud83d\ude33ae o v\u00eddeo de colis\u00e3o",
+        "parentId": "UgyFmnsp_83DsSQqK8J4AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T00:16:32Z",
+        "updatedAt": "2022-04-28T00:16:32Z"
+      }
+    }
+  ]
+}

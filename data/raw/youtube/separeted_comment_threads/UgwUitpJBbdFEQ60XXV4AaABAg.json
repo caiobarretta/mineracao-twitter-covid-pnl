@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UlJa8AxdmwGWs4MBifpk1PS799s",
+  "id": "UgwUitpJBbdFEQ60XXV4AaABAg",
+  "snippet": {
+    "videoId": "Q-Yrtp7A3-8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zQiRMz0xRrKsv6zuvcqkFMpG9rY",
+      "id": "UgwUitpJBbdFEQ60XXV4AaABAg",
+      "snippet": {
+        "videoId": "Q-Yrtp7A3-8",
+        "textDisplay": "Muito obrigado, ajudou muito \ud83e\udd73",
+        "textOriginal": "Muito obrigado, ajudou muito \ud83e\udd73",
+        "authorDisplayName": "Carlos Roberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6LfTjoh-e9QP__5HjJjvl-_XpFUWUR2KjAI63ug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGcltWqcnGY-1xV_e3z_3DA",
+        "authorChannelId": {
+          "value": "UCGcltWqcnGY-1xV_e3z_3DA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-18T19:45:39Z",
+        "updatedAt": "2021-04-18T19:45:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lieWZhKVsGPPE-aleU5LEOn_3-c",
+      "id": "UgwUitpJBbdFEQ60XXV4AaABAg.9MHxeKsVzOZ9SKG-PfxFjG",
+      "snippet": {
+        "textDisplay": "Oi Carlos, como vai?\nFico imensamente grata por t\u00ea-lo ajudado.\nMuito obrigada por ver meu v\u00eddeo.\nVolte sempre! <3",
+        "textOriginal": "Oi Carlos, como vai?\nFico imensamente grata por t\u00ea-lo ajudado.\nMuito obrigada por ver meu v\u00eddeo.\nVolte sempre! <3",
+        "parentId": "UgwUitpJBbdFEQ60XXV4AaABAg",
+        "authorDisplayName": "MIL\u00c3O",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4Y3AUgHBg-iPQO-NhSGUWfjB4t-RB7DouqsbNTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZirJofq1NiqxlWTrvkazLg",
+        "authorChannelId": {
+          "value": "UCZirJofq1NiqxlWTrvkazLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-15T20:21:31Z",
+        "updatedAt": "2021-09-15T20:21:31Z"
+      }
+    }
+  ]
+}

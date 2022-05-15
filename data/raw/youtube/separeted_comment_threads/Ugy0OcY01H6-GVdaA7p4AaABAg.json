@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eWvwhfCv8aFZgHr8RF_SwiFTw2g",
+  "id": "Ugy0OcY01H6-GVdaA7p4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XdgF5jyC0PIWaXX9VpOwotfWR6w",
+      "id": "Ugy0OcY01H6-GVdaA7p4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Thank you for choosing to be informative as opposed to sensational. Someone has to be logical in this mess.",
+        "textOriginal": "Thank you for choosing to be informative as opposed to sensational. Someone has to be logical in this mess.",
+        "authorDisplayName": "gregory bancroft",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/tkfEz080D88RgZ4DW0EedXJinNOacMS52R0XgkvpHWwNk-RF3NMHobyXjtYsPe02_UnWzveGymU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2p-T-_Cnf2GSTDNKhKq62Q",
+        "authorChannelId": {
+          "value": "UC2p-T-_Cnf2GSTDNKhKq62Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2020-03-13T03:27:37Z",
+        "updatedAt": "2020-03-13T03:27:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m8Qh9GGkeDImrRF9hATk4CMFhKw",
+      "id": "Ugy0OcY01H6-GVdaA7p4AaABAg.967eyCgg2Ng967i1vw7--B",
+      "snippet": {
+        "textDisplay": "My pleasure \ud83d\ude07",
+        "textOriginal": "My pleasure \ud83d\ude07",
+        "parentId": "Ugy0OcY01H6-GVdaA7p4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-13T03:54:29Z",
+        "updatedAt": "2020-03-13T03:54:29Z"
+      }
+    }
+  ]
+}

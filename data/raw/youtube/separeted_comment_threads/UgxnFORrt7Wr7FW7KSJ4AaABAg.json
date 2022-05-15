@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7FF9fno1AM34U8nByB-RPQk0pcQ",
+  "id": "UgxnFORrt7Wr7FW7KSJ4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5ggFIkx1BrV_SuZBGclzqwkpE0g",
+      "id": "UgxnFORrt7Wr7FW7KSJ4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Buen v\u00eddeo",
+        "textOriginal": "Buen v\u00eddeo",
+        "authorDisplayName": "DiFillippo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeHyTNZWZ9f1m79vC_LUcojfgniyqye10W6VLBCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcjavk6iu10re-VCwYZPSag",
+        "authorChannelId": {
+          "value": "UCcjavk6iu10re-VCwYZPSag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-01-28T20:21:53Z",
+        "updatedAt": "2020-01-28T20:21:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B048wzxOFAKWBjbKjFep3XrTXZU",
+      "id": "UgxnFORrt7Wr7FW7KSJ4AaABAg.94LbGXIPt7Y94Lb_eJuKPo",
+      "snippet": {
+        "textDisplay": "Muchas gracias. Un saludo.",
+        "textOriginal": "Muchas gracias. Un saludo.",
+        "parentId": "UgxnFORrt7Wr7FW7KSJ4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-01-28T20:24:38Z",
+        "updatedAt": "2020-01-28T20:24:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "w8Mx5RjR3xaOsnhJqmtyCZSJFHY",
+  "id": "UgygybwjJTBf78DEFlp4AaABAg",
+  "snippet": {
+    "videoId": "v5mWi85Gh5U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IyghpUFgXj65B8D1Bs0c3Eor6Y8",
+      "id": "UgygybwjJTBf78DEFlp4AaABAg",
+      "snippet": {
+        "videoId": "v5mWi85Gh5U",
+        "textDisplay": "Esse sim \u00e9 representante do povo brasileiro parab\u00e9ns Glauber .",
+        "textOriginal": "Esse sim \u00e9 representante do povo brasileiro parab\u00e9ns Glauber .",
+        "authorDisplayName": "Jos\u00e9 Nilton Santos de Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-sUyiBeNIxoAQWI72elGlFkKjzb3u_Vy0cg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCou24x8qDjIrgCXfKwNSmRA",
+        "authorChannelId": {
+          "value": "UCou24x8qDjIrgCXfKwNSmRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2022-01-17T13:09:30Z",
+        "updatedAt": "2022-01-17T13:09:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XGXJWCFSZcYOv-GLpCYVe0BVudk",
+      "id": "UgygybwjJTBf78DEFlp4AaABAg.9XIm7fyWvE-9XIn0oA1c96",
+      "snippet": {
+        "textDisplay": "Tmj",
+        "textOriginal": "Tmj",
+        "parentId": "UgygybwjJTBf78DEFlp4AaABAg",
+        "authorDisplayName": "Glauber Poubel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bhs1ajRYdQsg4UhL9Ezp92VQr1aVFypNUJVN7YHdpFIsGW-AMhWWDIkoXoJs4bUly-xUyZjr0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHU0sKwJBKjx95LyXQpCyhw",
+        "authorChannelId": {
+          "value": "UCHU0sKwJBKjx95LyXQpCyhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-17T13:17:18Z",
+        "updatedAt": "2022-01-17T13:17:18Z"
+      }
+    }
+  ]
+}

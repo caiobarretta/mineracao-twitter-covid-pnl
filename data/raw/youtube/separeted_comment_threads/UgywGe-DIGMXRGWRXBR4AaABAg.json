@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6M_OE4CVrWAiXc8v_i6tp1Lu1-4",
+  "id": "UgywGe-DIGMXRGWRXBR4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GL4sT8fdNPZa-edxalltgVBxJUo",
+      "id": "UgywGe-DIGMXRGWRXBR4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "Hello everyone\nI have a question, how to convert corona 7 to 6 version. I get scene in corona 7 that i need to fix, but i have 6 version?",
+        "textOriginal": "Hello everyone\nI have a question, how to convert corona 7 to 6 version. I get scene in corona 7 that i need to fix, but i have 6 version?",
+        "authorDisplayName": "Emil Khalikov",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRhQHxr5b5MbiiDxk6tSLLPQAb2q69XLsDE_UVAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyr8WPeQLGAnKJwcCtFTNIw",
+        "authorChannelId": {
+          "value": "UCyr8WPeQLGAnKJwcCtFTNIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T20:03:35Z",
+        "updatedAt": "2021-09-27T20:03:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nfw0tTSwNyDC8qkrms_UMfYJyXU",
+      "id": "UgywGe-DIGMXRGWRXBR4AaABAg.9So7UXWKcgX9SpfZbWj4pk",
+      "snippet": {
+        "textDisplay": "Hi! Sorry, it is not possible to convert from new to old versions. Best option is just to install Corona 7 (it's better all round!); as a note you can even have two versions of Corona installed at any one time, see https://coronarenderer.freshdesk.com/support/solutions/articles/12000066819-how-to-run-different-versions-of-corona-renderer-at-the-same-time-corona-5-and-newer- hope this helps! Tom",
+        "textOriginal": "Hi! Sorry, it is not possible to convert from new to old versions. Best option is just to install Corona 7 (it's better all round!); as a note you can even have two versions of Corona installed at any one time, see https://coronarenderer.freshdesk.com/support/solutions/articles/12000066819-how-to-run-different-versions-of-corona-renderer-at-the-same-time-corona-5-and-newer- hope this helps! Tom",
+        "parentId": "UgywGe-DIGMXRGWRXBR4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-28T10:29:21Z",
+        "updatedAt": "2021-09-28T10:29:21Z"
+      }
+    }
+  ]
+}

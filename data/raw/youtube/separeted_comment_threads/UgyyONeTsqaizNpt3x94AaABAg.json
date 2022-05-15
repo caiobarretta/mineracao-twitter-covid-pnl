@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fitLe34QX-8jT0emPzDTbZHAi-4",
+  "id": "UgyyONeTsqaizNpt3x94AaABAg",
+  "snippet": {
+    "videoId": "rGkkk8GkJ8M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tTRpTSFKTd1W9wZZUJ5OZgwnxYg",
+      "id": "UgyyONeTsqaizNpt3x94AaABAg",
+      "snippet": {
+        "videoId": "rGkkk8GkJ8M",
+        "textDisplay": "Excelente aula!",
+        "textOriginal": "Excelente aula!",
+        "authorDisplayName": "Maria Angelica Lacerda Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFzIWru8jmR_l2qLsXAFGk7t3R57haCVbeRgPv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuBz1iEv66LZ9Ro4JPWOEyg",
+        "authorChannelId": {
+          "value": "UCuBz1iEv66LZ9Ro4JPWOEyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-17T14:56:46Z",
+        "updatedAt": "2021-06-17T14:56:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B35iecGL_E_JCn8YbhxnWFOEIa8",
+      "id": "UgyyONeTsqaizNpt3x94AaABAg.9OgwI1tewZ69OrAAKl_HTc",
+      "snippet": {
+        "textDisplay": "Obrigado \ud83d\ude03",
+        "textOriginal": "Obrigado \ud83d\ude03",
+        "parentId": "UgyyONeTsqaizNpt3x94AaABAg",
+        "authorDisplayName": "Centro de Telessa\u00fade HC-UFMG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDhjJcqYPT_ohSZF4TSAaYMBRaON_hvDwv22Zjsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnyFZr3wJBAJRjcqr_Q5Gug",
+        "authorChannelId": {
+          "value": "UCnyFZr3wJBAJRjcqr_Q5Gug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-21T14:19:11Z",
+        "updatedAt": "2021-06-21T14:19:11Z"
+      }
+    }
+  ]
+}

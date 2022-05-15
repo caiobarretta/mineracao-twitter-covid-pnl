@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4QqvZ2Mc-EvJRVdXTT4uNzi4Jaw",
+  "id": "UgywwRjXXqP-uHUusoF4AaABAg",
+  "snippet": {
+    "videoId": "IF_Icw6b3zQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "O-AUslFQliDWfrjv7vGP2eF-l-U",
+      "id": "UgywwRjXXqP-uHUusoF4AaABAg",
+      "snippet": {
+        "videoId": "IF_Icw6b3zQ",
+        "textDisplay": "Povo nao toma vergonha mesmo. Isso nunca vai acabar.",
+        "textOriginal": "Povo nao toma vergonha mesmo. Isso nunca vai acabar.",
+        "authorDisplayName": "Angela T.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRf5RqDdGgHrdVEgHczVijTa_CzJfVLiQiqOJ5oWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpQqVRj6L0XjUeBbJ3leAxw",
+        "authorChannelId": {
+          "value": "UCpQqVRj6L0XjUeBbJ3leAxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2022-05-07T18:15:34Z",
+        "updatedAt": "2022-05-07T18:15:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Y_HzjG9UlljQ2HUABKpaeVhT5Wc",
+      "id": "UgywwRjXXqP-uHUusoF4AaABAg.9ajZackQjSL9am7GiFYXwi",
+      "snippet": {
+        "textDisplay": "Ningu\u00e9m t\u00e1 nem ai infelizmente",
+        "textOriginal": "Ningu\u00e9m t\u00e1 nem ai infelizmente",
+        "parentId": "UgywwRjXXqP-uHUusoF4AaABAg",
+        "authorDisplayName": "Mariana Goncalves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxlVqZAjOGYSgABk5Azuw6RuFKcc7oubWX7_c3cPOWiABqFTppwFyyysmZUsW9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Q-qxFpGPhNfpZhHrjNgng",
+        "authorChannelId": {
+          "value": "UC2Q-qxFpGPhNfpZhHrjNgng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-08T18:05:46Z",
+        "updatedAt": "2022-05-08T18:05:46Z"
+      }
+    }
+  ]
+}

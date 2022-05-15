@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bQOTER22f41gAzUDhI8hAuJY_5s",
+  "id": "UgyeAKD_kuuKibuIY4R4AaABAg",
+  "snippet": {
+    "videoId": "STmL5dAOqDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Otsq6-EtGZe8QNlig66X7VW7Zxg",
+      "id": "UgyeAKD_kuuKibuIY4R4AaABAg",
+      "snippet": {
+        "videoId": "STmL5dAOqDI",
+        "textDisplay": "Obrigado,me ajudaram!!\u270c",
+        "textOriginal": "Obrigado,me ajudaram!!\u270c",
+        "authorDisplayName": "Jadson Leite",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWuasxWRD1JsvONu5SXwBkXmSub9wVeqfKahGnbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWyw_0avw5uJyMZXjfgL4kA",
+        "authorChannelId": {
+          "value": "UCWyw_0avw5uJyMZXjfgL4kA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-25T16:38:27Z",
+        "updatedAt": "2020-05-25T16:38:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1QVBBiW6hddi168GGbz1iM2eV5o",
+      "id": "UgyeAKD_kuuKibuIY4R4AaABAg.9952VM9pjPH99vxdxrPB4g",
+      "snippet": {
+        "textDisplay": "me ajudou tambem",
+        "textOriginal": "me ajudou tambem",
+        "parentId": "UgyeAKD_kuuKibuIY4R4AaABAg",
+        "authorDisplayName": "Monick Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL9qAn8demy626hdol8G4EGFvbxGjtcT6JusLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYt6W3hx81IMPofxTM9FYoA",
+        "authorChannelId": {
+          "value": "UCYt6W3hx81IMPofxTM9FYoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-15T15:06:20Z",
+        "updatedAt": "2020-06-15T15:06:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7x_P9sFap0VYvjb8vHS4beAjZoo",
+  "id": "UgwW6Nw6FzCQWm3YAqZ4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vl7VkE9n2EbRMNs5Fsm08SdkJJE",
+      "id": "UgwW6Nw6FzCQWm3YAqZ4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Amei a aula \u2764\ufe0f",
+        "textOriginal": "Amei a aula \u2764\ufe0f",
+        "authorDisplayName": "Jeieli Sarges",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXiRTdqemXwad4Ua9uCMwr8YP6ry8yoWQ4bQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKdq2PAf-5D8vav4qWeCTIQ",
+        "authorChannelId": {
+          "value": "UCKdq2PAf-5D8vav4qWeCTIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-18T14:00:44Z",
+        "updatedAt": "2022-03-18T14:00:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "S_L0DaXeDpukQBytlRArOjMBAY4",
+      "id": "UgwW6Nw6FzCQWm3YAqZ4AaABAg.9ZiMgMRHUDw9ZiPUENp-f9",
+      "snippet": {
+        "textDisplay": "Muito obrigado, n\u00e3o esque\u00e7a de inscrever-se para acompanhar todos os v\u00eddeos!",
+        "textOriginal": "Muito obrigado, n\u00e3o esque\u00e7a de inscrever-se para acompanhar todos os v\u00eddeos!",
+        "parentId": "UgwW6Nw6FzCQWm3YAqZ4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-18T14:25:09Z",
+        "updatedAt": "2022-03-18T14:25:09Z"
+      }
+    }
+  ]
+}

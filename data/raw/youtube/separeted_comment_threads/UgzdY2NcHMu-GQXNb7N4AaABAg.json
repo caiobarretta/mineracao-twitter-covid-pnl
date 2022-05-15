@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C3RTR0GHStJT6bsgAC2BV-UoyXQ",
+  "id": "UgzdY2NcHMu-GQXNb7N4AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jyZ-fzJHbaYF6gWoJYaFcIC5FvQ",
+      "id": "UgzdY2NcHMu-GQXNb7N4AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Parab\u00e9ns!.\nV\u00eddeo objetivo e com clareza.\nAjudou-me com certeza!.\nContinue enviado.\nMuito obrigada!.",
+        "textOriginal": "Parab\u00e9ns!.\nV\u00eddeo objetivo e com clareza.\nAjudou-me com certeza!.\nContinue enviado.\nMuito obrigada!.",
+        "authorDisplayName": "M\u00f4nica Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2gS3K6bsSZoCEj09RghCZ5M4O6xxLW2m4hA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5O4DZvMsKmfDsOoome9cJQ",
+        "authorChannelId": {
+          "value": "UC5O4DZvMsKmfDsOoome9cJQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-06T13:37:41Z",
+        "updatedAt": "2020-05-06T13:37:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yhfKpivhD58RtRDzTxpHGvZc59g",
+      "id": "UgzdY2NcHMu-GQXNb7N4AaABAg.98JnhkY6hfO98KCemu04ow",
+      "snippet": {
+        "textDisplay": "Que bom que gostou. Eu que agrade\u00e7o! Obrigado :)",
+        "textOriginal": "Que bom que gostou. Eu que agrade\u00e7o! Obrigado :)",
+        "parentId": "UgzdY2NcHMu-GQXNb7N4AaABAg",
+        "authorDisplayName": "JBO Ci\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSctqR_Yj4truAHYStrWdj4EnLgsEP988bCNN3IfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuQLOcYPvjkjIB3KCPJrzKQ",
+        "authorChannelId": {
+          "value": "UCuQLOcYPvjkjIB3KCPJrzKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-06T17:24:28Z",
+        "updatedAt": "2020-05-06T18:21:20Z"
+      }
+    }
+  ]
+}

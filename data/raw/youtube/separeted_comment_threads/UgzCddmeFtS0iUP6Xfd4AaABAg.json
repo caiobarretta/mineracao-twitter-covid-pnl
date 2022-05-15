@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rLnXgzZ9QtJktbW6SmfWEWX92Nc",
+  "id": "UgzCddmeFtS0iUP6Xfd4AaABAg",
+  "snippet": {
+    "videoId": "ovH_uXh86sA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ntGa2bA3250DxzDBR72L2SVJGrM",
+      "id": "UgzCddmeFtS0iUP6Xfd4AaABAg",
+      "snippet": {
+        "videoId": "ovH_uXh86sA",
+        "textDisplay": "Obrigado doutor! Comecei a ficar preocupado com essa gripe minha",
+        "textOriginal": "Obrigado doutor! Comecei a ficar preocupado com essa gripe minha",
+        "authorDisplayName": "Petroni ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOfBzcXcz4t6L8L1lpI2a1rKjlNktC-s1T3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAHN2HceOALkSbLAWodI5fA",
+        "authorChannelId": {
+          "value": "UCAHN2HceOALkSbLAWodI5fA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-09T05:21:33Z",
+        "updatedAt": "2020-04-09T05:21:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7_8VtFh-UnFbVgTF7dtVp4RWXrE",
+      "id": "UgzCddmeFtS0iUP6Xfd4AaABAg.97DOTIJG8Up97OhkbxaDw9",
+      "snippet": {
+        "textDisplay": "Agrade\u00e7o o coment\u00e1rio",
+        "textOriginal": "Agrade\u00e7o o coment\u00e1rio",
+        "parentId": "UgzCddmeFtS0iUP6Xfd4AaABAg",
+        "authorDisplayName": "Cl\u00ednica IMEB",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTuCbHMvMAU385u-48BkZ07LEwrZLgsXf7MwD8dfg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVxAirLqIXKP2ttE2-5DZ3Q",
+        "authorChannelId": {
+          "value": "UCVxAirLqIXKP2ttE2-5DZ3Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-13T14:50:28Z",
+        "updatedAt": "2020-04-13T14:50:28Z"
+      }
+    }
+  ]
+}

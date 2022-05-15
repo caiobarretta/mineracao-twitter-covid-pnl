@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4tqquab--k8s6zUVI46CBahRJf0",
+  "id": "Ugz7rIPjzeqSN9P761F4AaABAg",
+  "snippet": {
+    "videoId": "RHzq8dr5bB0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2idl9Bll4qdyIndXJSLybKpIPcg",
+      "id": "Ugz7rIPjzeqSN9P761F4AaABAg",
+      "snippet": {
+        "videoId": "RHzq8dr5bB0",
+        "textDisplay": "Que aula maravilhosa muito obrigado!!!!!",
+        "textOriginal": "Que aula maravilhosa muito obrigado!!!!!",
+        "authorDisplayName": "Lucas Matheus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjgqbUzCfl4PZAJUyW6H2rTFYf0GaBAb_N2z1sfgD9oqy4xBp_DR3ZGUdtVBL0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzfRZIhAk54hTH22rHADvhA",
+        "authorChannelId": {
+          "value": "UCzfRZIhAk54hTH22rHADvhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-04T19:09:02Z",
+        "updatedAt": "2021-08-04T19:09:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Sgq5iTx7-9MaOg9TPnb_Y7DRNgY",
+      "id": "Ugz7rIPjzeqSN9P761F4AaABAg.9QczJgzy3sG9RaoSyQDCiu",
+      "snippet": {
+        "textDisplay": "Lucas, n\u00f3s que agradecemos seu coment\u00e1rio. Forte abra\u00e7o! Conte conosco.",
+        "textOriginal": "Lucas, n\u00f3s que agradecemos seu coment\u00e1rio. Forte abra\u00e7o! Conte conosco.",
+        "parentId": "Ugz7rIPjzeqSN9P761F4AaABAg",
+        "authorDisplayName": "Cristian Dayvson Evangelista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSAQY1GynnLAO5EEsxbNYcXp8_wautkYWAmRKH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgZojgcTGQ_C9r-tGGZLf8w",
+        "authorChannelId": {
+          "value": "UCgZojgcTGQ_C9r-tGGZLf8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-28T19:27:05Z",
+        "updatedAt": "2021-08-28T19:27:05Z"
+      }
+    }
+  ]
+}

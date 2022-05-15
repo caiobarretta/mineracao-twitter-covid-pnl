@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MSpIEpoBpid0K-sUAffHQexTyNg",
+  "id": "UgyeG73XqgKWsdXAnZR4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "P-oYS_JNiNnoZTYRr3wH2cyD1M8",
+      "id": "UgyeG73XqgKWsdXAnZR4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "How about the double balloon tap? Is it the same?",
+        "textOriginal": "How about the double balloon tap? Is it the same?",
+        "authorDisplayName": "Mavskie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgRqwPNj53tRie8U-BCXvm2waugzH-Zwt6jDnn1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIQSPUsC-dgOrpodptFIFNA",
+        "authorChannelId": {
+          "value": "UCIQSPUsC-dgOrpodptFIFNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-01-14T03:49:36Z",
+        "updatedAt": "2018-01-14T03:49:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0d5SOw4kJjNL1g7W39Y4hbYqZzI",
+      "id": "UgyeG73XqgKWsdXAnZR4AaABAg.8bO5HlqSfZA8bPbGkrvDK2",
+      "snippet": {
+        "textDisplay": "There are several ways that you could implement a double tap.  The easiest would be to add a property to the ballon that tracked the number of taps, then increment that property in the push function.",
+        "textOriginal": "There are several ways that you could implement a double tap.  The easiest would be to add a property to the ballon that tracked the number of taps, then increment that property in the push function.",
+        "parentId": "UgyeG73XqgKWsdXAnZR4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-01-14T17:57:03Z",
+        "updatedAt": "2018-01-14T17:57:03Z"
+      }
+    }
+  ]
+}

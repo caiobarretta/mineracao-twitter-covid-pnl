@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HcIdP9UN2M4jWOcf0LzeWmcUVBs",
+  "id": "UgwICdp3vpF8sv1HLNF4AaABAg",
+  "snippet": {
+    "videoId": "dh0Yahxr1JA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pe4_TMSKKoq933ybSeE8Rzms2hc",
+      "id": "UgwICdp3vpF8sv1HLNF4AaABAg",
+      "snippet": {
+        "videoId": "dh0Yahxr1JA",
+        "textDisplay": "A gente quer ler e ele fica se aparecendo....d\u00e1 raiva....fui",
+        "textOriginal": "A gente quer ler e ele fica se aparecendo....d\u00e1 raiva....fui",
+        "authorDisplayName": "DEntiSTEMIDOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/r7twjOpdbdv2NdHcyUqgmLKEQ_6iDlUUgO4UhniYScEbRWZhPziJMihs856cHKf8FUFAGB77Mw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCScGyr9nqXStX3uwLAu3qzw",
+        "authorChannelId": {
+          "value": "UCScGyr9nqXStX3uwLAu3qzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-12-16T21:18:51Z",
+        "updatedAt": "2017-12-16T21:18:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mnT2NDtNI2ABqLO49Gv-JBbGXpw",
+      "id": "UgwICdp3vpF8sv1HLNF4AaABAg.8aFIJM9hcTt8xY3l8ynQzI",
+      "snippet": {
+        "textDisplay": "Print resolveu muito p mim.",
+        "textOriginal": "Print resolveu muito p mim.",
+        "parentId": "UgwICdp3vpF8sv1HLNF4AaABAg",
+        "authorDisplayName": "Roseni Henrique Ferraz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmQYt-q6lZjoZSQzhbcK7enIKeEG5wQBOWTr_-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCynTXDCrqcL2YP7hYcOFPBg",
+        "authorChannelId": {
+          "value": "UCynTXDCrqcL2YP7hYcOFPBg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-07-18T20:19:20Z",
+        "updatedAt": "2019-07-18T20:19:20Z"
+      }
+    }
+  ]
+}

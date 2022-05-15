@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IjWzKF83pioWsENSAEvNzkucm2o",
+  "id": "Ugy0aS6T7egR1hmycJh4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8rglzPx5PTodb1iDmyZVv7Pv8Dk",
+      "id": "Ugy0aS6T7egR1hmycJh4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Muy bien exlicado. Gracias.",
+        "textOriginal": "Muy bien exlicado. Gracias.",
+        "authorDisplayName": "Joan Clusella",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1tXcs73XLFGNS2Jg-gzoLSYzQJP2JSv0xG78JExw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj_RQ7r8Fje6FGXMYqZi4UA",
+        "authorChannelId": {
+          "value": "UCj_RQ7r8Fje6FGXMYqZi4UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-03-23T14:13:27Z",
+        "updatedAt": "2020-03-23T14:13:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TzYvYIWCK5t8iHs1FESmTK_YWKs",
+      "id": "Ugy0aS6T7egR1hmycJh4AaABAg.96YZp6_ePlQ96YaFGdw_Db",
+      "snippet": {
+        "textDisplay": "Gracias a ti por vernos!\ud83d\ude1c\nUn saludo.",
+        "textOriginal": "Gracias a ti por vernos!\ud83d\ude1c\nUn saludo.",
+        "parentId": "Ugy0aS6T7egR1hmycJh4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-23T14:25:53Z",
+        "updatedAt": "2020-03-23T14:25:53Z"
+      }
+    }
+  ]
+}

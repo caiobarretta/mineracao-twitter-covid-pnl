@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OtJjAQqmWKLywHxODvCJsaif494",
+  "id": "Ugz4mpXdYk3JCf5CD3N4AaABAg",
+  "snippet": {
+    "videoId": "fMC1OWJb60I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5Y_pGqggNZSpnv2l2vHyOfzfEQg",
+      "id": "Ugz4mpXdYk3JCf5CD3N4AaABAg",
+      "snippet": {
+        "videoId": "fMC1OWJb60I",
+        "textDisplay": "lula sim",
+        "textOriginal": "lula sim",
+        "authorDisplayName": "Lbarbaso12 Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjssYtV5YmSV4AiAH3hN7AyrTjYdQ1pB7H1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOR45mbgxx2RgtvqYiLtHdQ",
+        "authorChannelId": {
+          "value": "UCOR45mbgxx2RgtvqYiLtHdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-03-24T16:51:26Z",
+        "updatedAt": "2021-03-24T16:51:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AKZ-7OYRwPrHg41KBEN0wjHNFu8",
+      "id": "Ugz4mpXdYk3JCf5CD3N4AaABAg.9LHGqYQ0CH-9LHXJ-6fcit",
+      "snippet": {
+        "textDisplay": "Na sua casa do se for",
+        "textOriginal": "Na sua casa do se for",
+        "parentId": "Ugz4mpXdYk3JCf5CD3N4AaABAg",
+        "authorDisplayName": "Luiz Alberto Nascimento Luiz\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeUQ8Kjn6sCcjMDiIr-j2RbW7BspLp_TGitg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrh4QK7INEKyCzytkrjxo-A",
+        "authorChannelId": {
+          "value": "UCrh4QK7INEKyCzytkrjxo-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-24T19:15:16Z",
+        "updatedAt": "2021-03-24T19:15:16Z"
+      }
+    }
+  ]
+}

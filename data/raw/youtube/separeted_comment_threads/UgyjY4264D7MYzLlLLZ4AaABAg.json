@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bmr2HoL7RtFfrmvUT5AfJEHnGio",
+  "id": "UgyjY4264D7MYzLlLLZ4AaABAg",
+  "snippet": {
+    "videoId": "IbJpeY7fjG8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fU2mdRFow1t4mzSnq0JaYheluWI",
+      "id": "UgyjY4264D7MYzLlLLZ4AaABAg",
+      "snippet": {
+        "videoId": "IbJpeY7fjG8",
+        "textDisplay": "Cara muito bom!! PARAB\u00c9NS. Explicativo e objetivo.",
+        "textOriginal": "Cara muito bom!! PARAB\u00c9NS. Explicativo e objetivo.",
+        "authorDisplayName": "Mauri Bezerra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/oZOUw6LACEYVaalYFRnpLs3YF_ksM4jQydtRpejvwvOzzmMJ51FJQnhCDofOX1r0yDxU79JUHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoVAVVmwexSMKEcYN-9P3Gg",
+        "authorChannelId": {
+          "value": "UCoVAVVmwexSMKEcYN-9P3Gg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-05T17:04:37Z",
+        "updatedAt": "2020-03-05T17:04:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xD_FrXNTXhQNs6DoY875D5CRMLE",
+      "id": "UgyjY4264D7MYzLlLLZ4AaABAg.95pX66m__pL95pnBpweWCQ",
+      "snippet": {
+        "textDisplay": "Obrigado!",
+        "textOriginal": "Obrigado!",
+        "parentId": "UgyjY4264D7MYzLlLLZ4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-05T19:33:57Z",
+        "updatedAt": "2020-03-05T19:33:57Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M21zgVRdGK-7vk69xYrFGWY2h0I",
+  "id": "UgzqHVxHeJeqpoz4GSd4AaABAg",
+  "snippet": {
+    "videoId": "JJGxx8s3W9c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Of3eUyjV2SuDGS2buEbes5_uijY",
+      "id": "UgzqHVxHeJeqpoz4GSd4AaABAg",
+      "snippet": {
+        "videoId": "JJGxx8s3W9c",
+        "textDisplay": "Renato, existem trabalhos publicados sobre a correla\u00e7\u00e3o entre fumo e COVID?",
+        "textOriginal": "Renato, existem trabalhos publicados sobre a correla\u00e7\u00e3o entre fumo e COVID?",
+        "authorDisplayName": "Diego Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTY8ehI0B_mya2G2X9VyXHyUsgXVzhbpruYiA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHEess-_n4ZKsuqi1Mwa2Cg",
+        "authorChannelId": {
+          "value": "UCHEess-_n4ZKsuqi1Mwa2Cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-09T01:47:58Z",
+        "updatedAt": "2021-08-09T01:47:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yO6WV4MmcjyWVYZJn9KHZIv_fUQ",
+      "id": "UgzqHVxHeJeqpoz4GSd4AaABAg.9Qo-92LLGgP9Qp08odYXSe",
+      "snippet": {
+        "textDisplay": "Sim.",
+        "textOriginal": "Sim.",
+        "parentId": "UgzqHVxHeJeqpoz4GSd4AaABAg",
+        "authorDisplayName": "Renato Cassol - M\u00e9dico Infectologista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrcZVWOum_Cvnec_hNWTNeD5QGo4T46j0M0bEo1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxM5rESbIueKgZv9zqTquw",
+        "authorChannelId": {
+          "value": "UCOxM5rESbIueKgZv9zqTquw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-09T11:15:55Z",
+        "updatedAt": "2021-08-09T11:15:55Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k5vqDxMOwVh6_qzxflHdBTHpobU",
+  "id": "Ugzgu9fKX0r9VH78gxV4AaABAg",
+  "snippet": {
+    "videoId": "RfXeB75iJH4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dI4mg9ZynwQlbaOBxoXb10Y9lgU",
+      "id": "Ugzgu9fKX0r9VH78gxV4AaABAg",
+      "snippet": {
+        "videoId": "RfXeB75iJH4",
+        "textDisplay": "Em qual livro est\u00e1 essas informa\u00e7\u00f5es?",
+        "textOriginal": "Em qual livro est\u00e1 essas informa\u00e7\u00f5es?",
+        "authorDisplayName": "Luzinete Nogueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPVS1VvysSjVDJUipHx-vNN-CRkyDsbwB4uQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTtLeOWA0tr-gH1_Yu--t8g",
+        "authorChannelId": {
+          "value": "UCTtLeOWA0tr-gH1_Yu--t8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-06T14:55:39Z",
+        "updatedAt": "2020-09-06T14:55:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VZn9hdhGlDhYABpKWXKmnlbBYkw",
+      "id": "Ugzgu9fKX0r9VH78gxV4AaABAg.9DGePKqpfxh9F07NN7OVnP",
+      "snippet": {
+        "textDisplay": "Luzinete, voc\u00ea encontra o estudo completo deste tema em nossos Ebooks! Acesse o nosso site e confira: https://www.enfrenteenfermagemcontinuada.com/",
+        "textOriginal": "Luzinete, voc\u00ea encontra o estudo completo deste tema em nossos Ebooks! Acesse o nosso site e confira: https://www.enfrenteenfermagemcontinuada.com/",
+        "parentId": "Ugzgu9fKX0r9VH78gxV4AaABAg",
+        "authorDisplayName": "ENFrente Enfermagem Continuada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlKDTNrBzl3C7yw9WRaCY1bt9yuSVricT5fl7BvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD9kk0EUEtflrRl6TV0lDyA",
+        "authorChannelId": {
+          "value": "UCD9kk0EUEtflrRl6TV0lDyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-19T21:53:13Z",
+        "updatedAt": "2020-10-19T21:53:13Z"
+      }
+    }
+  ]
+}

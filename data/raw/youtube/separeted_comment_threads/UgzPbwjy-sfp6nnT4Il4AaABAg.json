@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-M2juPX2xvTGAkn3EApF267C7Y4",
+  "id": "UgzPbwjy-sfp6nnT4Il4AaABAg",
+  "snippet": {
+    "videoId": "IZKNSM7FgsM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "v4s3lTLwGgG0LdrLLTw5K_qyZsM",
+      "id": "UgzPbwjy-sfp6nnT4Il4AaABAg",
+      "snippet": {
+        "videoId": "IZKNSM7FgsM",
+        "textDisplay": "Grande maestro!! Muchas gracias le entend\u00ed a todo perfectamente",
+        "textOriginal": "Grande maestro!! Muchas gracias le entend\u00ed a todo perfectamente",
+        "authorDisplayName": "Francisco Mej\u00eda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSosw0UfdMWy44BIekZKZD2pYxu0BJqvxaP27CaNmk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8KaNVi618VjuU_bR2-AoWw",
+        "authorChannelId": {
+          "value": "UC8KaNVi618VjuU_bR2-AoWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-05-09T17:14:44Z",
+        "updatedAt": "2020-05-09T17:14:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eTN59LAwpWGN6M867fUo8QGnd14",
+      "id": "UgzPbwjy-sfp6nnT4Il4AaABAg.98Ruw5w_h4W98WPOE0WdS5",
+      "snippet": {
+        "textDisplay": "Muchas gracias. Muy buena explicaci\u00f3n.",
+        "textOriginal": "Muchas gracias. Muy buena explicaci\u00f3n.",
+        "parentId": "UgzPbwjy-sfp6nnT4Il4AaABAg",
+        "authorDisplayName": "Wado V\u00e1zquez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvtN4FpaE5fEGwF0WekKtJ64AjaGxANHltpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpya2ikOMq_Nl_IWbmLyTYw",
+        "authorChannelId": {
+          "value": "UCpya2ikOMq_Nl_IWbmLyTYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-11T11:06:33Z",
+        "updatedAt": "2020-05-11T11:06:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "oQQeoro-xeuRfjYWsSCbtp5zDhc",
+      "id": "UgzPbwjy-sfp6nnT4Il4AaABAg.98Ruw5w_h4W98RvJlrxz3v",
+      "snippet": {
+        "textDisplay": "Me alegro \ud83d\udc4d",
+        "textOriginal": "Me alegro \ud83d\udc4d",
+        "parentId": "UgzPbwjy-sfp6nnT4Il4AaABAg",
+        "authorDisplayName": "Alberto Sanagust\u00edn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6qC6ThTtuykDBG20xo58fE3NyY_XFJQajw0sdPzvHUcMcmA5q5rkmN4YNcm8V6cJ_XLTbSsWUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ohLcxGUDGVIp69s26swuw",
+        "authorChannelId": {
+          "value": "UC9ohLcxGUDGVIp69s26swuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-09T17:18:06Z",
+        "updatedAt": "2020-05-09T17:18:06Z"
+      }
+    }
+  ]
+}

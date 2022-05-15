@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-6XR54mC2OM4gf1AjlKiVfjdI4s",
+  "id": "Ugx5IFL5a56eF7p22Xl4AaABAg",
+  "snippet": {
+    "videoId": "TJe7ADbraTw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "quDXq_szsUDwsKVQMA72NCM_fiU",
+      "id": "Ugx5IFL5a56eF7p22Xl4AaABAg",
+      "snippet": {
+        "videoId": "TJe7ADbraTw",
+        "textDisplay": "N\u00e3o tenho uma posi\u00e7\u00e3o otimista para isso",
+        "textOriginal": "N\u00e3o tenho uma posi\u00e7\u00e3o otimista para isso",
+        "authorDisplayName": "Anderson Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSLMXZaJW5k180UmIpuKH0q82OhOJwsJuWCAKCEvhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwmZ7RS8l3qlNV2jIe-LxBw",
+        "authorChannelId": {
+          "value": "UCwmZ7RS8l3qlNV2jIe-LxBw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-03-09T00:38:37Z",
+        "updatedAt": "2022-03-09T00:38:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "G9uYBnKZOwmlEMeH2-FJIyNUbeg",
+      "id": "Ugx5IFL5a56eF7p22Xl4AaABAg.9ZKkjamPzVs9ZKmEsKNZCc",
+      "snippet": {
+        "textDisplay": "Somos dois, Anderson!!",
+        "textOriginal": "Somos dois, Anderson!!",
+        "parentId": "Ugx5IFL5a56eF7p22Xl4AaABAg",
+        "authorDisplayName": "geo ilustrada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyuRJKhD2I66wvvL6wuG4NIDeEaK63ThJ43x7dGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC59k9M9B_CQeCMaNu6A3orA",
+        "authorChannelId": {
+          "value": "UC59k9M9B_CQeCMaNu6A3orA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-09T00:51:45Z",
+        "updatedAt": "2022-03-09T00:51:45Z"
+      }
+    }
+  ]
+}

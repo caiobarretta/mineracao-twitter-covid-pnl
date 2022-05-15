@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZtI3ILI-VwCTnNyaTiJFQjXVEt8",
+  "id": "UgwlBqBwybo7oT3E_Nd4AaABAg",
+  "snippet": {
+    "videoId": "IZKNSM7FgsM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LoG17drN0r3cMdY0zAyUkYMSOwM",
+      "id": "UgwlBqBwybo7oT3E_Nd4AaABAg",
+      "snippet": {
+        "videoId": "IZKNSM7FgsM",
+        "textDisplay": "\u00a1\u00a1Enhorabuena!!, una explicaci\u00f3n muy gr\u00e1fica y did\u00e1ctica.",
+        "textOriginal": "\u00a1\u00a1Enhorabuena!!, una explicaci\u00f3n muy gr\u00e1fica y did\u00e1ctica.",
+        "authorDisplayName": "Diego Cervero",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRr2xXFtayix_rxO_EywcG42zL4UL_QTdxe=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxYYMJzOegIjNsIhoYaRUdg",
+        "authorChannelId": {
+          "value": "UCxYYMJzOegIjNsIhoYaRUdg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-05-09T17:40:44Z",
+        "updatedAt": "2020-05-09T17:40:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6Ycq7FpdKt0bGsvcVVRgpy2bjsU",
+      "id": "UgwlBqBwybo7oT3E_Nd4AaABAg.98RxuV_pZYu98S-RK4zfJ5",
+      "snippet": {
+        "textDisplay": "Me alegro de que le guste. Muchas gracias.",
+        "textOriginal": "Me alegro de que le guste. Muchas gracias.",
+        "parentId": "UgwlBqBwybo7oT3E_Nd4AaABAg",
+        "authorDisplayName": "Alberto Sanagust\u00edn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6qC6ThTtuykDBG20xo58fE3NyY_XFJQajw0sdPzvHUcMcmA5q5rkmN4YNcm8V6cJ_XLTbSsWUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ohLcxGUDGVIp69s26swuw",
+        "authorChannelId": {
+          "value": "UC9ohLcxGUDGVIp69s26swuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-09T18:02:50Z",
+        "updatedAt": "2020-05-09T18:02:50Z"
+      }
+    }
+  ]
+}

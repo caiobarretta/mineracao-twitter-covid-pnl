@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uy_iBliZL87WrKCy7kopUbTIZO8",
+  "id": "UgytunukxIpKnVMTmmd4AaABAg",
+  "snippet": {
+    "videoId": "i6xTSYL7JPg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_pjcSxLSC4yyQzmdTEWoHdzM39w",
+      "id": "UgytunukxIpKnVMTmmd4AaABAg",
+      "snippet": {
+        "videoId": "i6xTSYL7JPg",
+        "textDisplay": "Fant\u00e1stico v\u00eddeo Guille!! Me alegra que sigas ligado a la ciencia, espero que te vaya todo fenomenal!",
+        "textOriginal": "Fant\u00e1stico v\u00eddeo Guille!! Me alegra que sigas ligado a la ciencia, espero que te vaya todo fenomenal!",
+        "authorDisplayName": "DANIEL BENJUMEA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTpnjBFIoipLK76QRmhFQz2bX3TUYjrannxQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu6zMndofNtUc6YRkCKxphg",
+        "authorChannelId": {
+          "value": "UCu6zMndofNtUc6YRkCKxphg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2020-07-24T07:06:07Z",
+        "updatedAt": "2020-07-24T07:06:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KCwV5agIu51pMeCnBDyIY-9xYX8",
+      "id": "UgytunukxIpKnVMTmmd4AaABAg.9BUWgwx_oB49BZVJ-1tXhv",
+      "snippet": {
+        "textDisplay": "\u00a1Muchas gracias Daniel!",
+        "textOriginal": "\u00a1Muchas gracias Daniel!",
+        "parentId": "UgytunukxIpKnVMTmmd4AaABAg",
+        "authorDisplayName": "CanalDivulgaci\u00f3n",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbZR_JeRc-vKkTHCk3Bp2RIhB-A_gXrch8SYjnPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAi08vpGsxeDRb20qu2EnRw",
+        "authorChannelId": {
+          "value": "UCAi08vpGsxeDRb20qu2EnRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-26T05:30:11Z",
+        "updatedAt": "2020-07-26T05:30:11Z"
+      }
+    }
+  ]
+}

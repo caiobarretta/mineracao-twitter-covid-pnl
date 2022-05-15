@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ADa_KqcUVuZkejQ68H6qCUjyHrU",
+  "id": "UgwWpGl4jaDH_f3dk9J4AaABAg",
+  "snippet": {
+    "videoId": "42KmERAB01M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rFcNagc6NrGofJgZ74X1OA0fww8",
+      "id": "UgwWpGl4jaDH_f3dk9J4AaABAg",
+      "snippet": {
+        "videoId": "42KmERAB01M",
+        "textDisplay": "Ele funciona na vers\u00e3o antiga?",
+        "textOriginal": "Ele funciona na vers\u00e3o antiga?",
+        "authorDisplayName": "o___o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5nRCkcSPb3GIGz1opRs9sTQ5T6C87t6VyrbIJrqlSeD_DjtwMBLiChr8UtURy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClzu7ilD3_NMtmkjFAFkiEg",
+        "authorChannelId": {
+          "value": "UClzu7ilD3_NMtmkjFAFkiEg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T03:06:32Z",
+        "updatedAt": "2022-04-28T03:06:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X_7hTtY6W60WsnmxnODfh_W0ZE4",
+      "id": "UgwWpGl4jaDH_f3dk9J4AaABAg.9aLlPifS3qj9aLlp5XUAgV",
+      "snippet": {
+        "textDisplay": "acho que sim:0 de ter os blocos",
+        "textOriginal": "acho que sim:0 de ter os blocos",
+        "parentId": "UgwWpGl4jaDH_f3dk9J4AaABAg",
+        "authorDisplayName": "Sr. Cove",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TpPOxs-FV1kaXdNHANLQzvLTsuPZY_2etyC-k9OERsRFwpbej3KlN2QhAdiOIw6jkYTVPm6a5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_9kPSBN-Td7uZIN9ItCMIg",
+        "authorChannelId": {
+          "value": "UC_9kPSBN-Td7uZIN9ItCMIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T03:10:08Z",
+        "updatedAt": "2022-04-28T03:10:08Z"
+      }
+    }
+  ]
+}

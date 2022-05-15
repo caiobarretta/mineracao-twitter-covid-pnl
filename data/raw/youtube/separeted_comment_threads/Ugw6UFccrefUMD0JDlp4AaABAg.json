@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SaHyhQRB8P8Fhf9HeTZmD_684dg",
+  "id": "Ugw6UFccrefUMD0JDlp4AaABAg",
+  "snippet": {
+    "videoId": "A2nYuFNTgNo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Z32J-7ZoTnOnfDBKwpsQzvnHrjg",
+      "id": "Ugw6UFccrefUMD0JDlp4AaABAg",
+      "snippet": {
+        "videoId": "A2nYuFNTgNo",
+        "textDisplay": "A tend\u00eancia \u00e9 aumentar.Meu Deus",
+        "textOriginal": "A tend\u00eancia \u00e9 aumentar.Meu Deus",
+        "authorDisplayName": "Floranita Sanches",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrldbjeuGv5PsvhyTE8BTrYPhCH9yQMlLMUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoOuscE_JosGeuWnBdHt4QA",
+        "authorChannelId": {
+          "value": "UCoOuscE_JosGeuWnBdHt4QA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2021-03-20T19:49:45Z",
+        "updatedAt": "2021-03-20T19:49:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jOQo_0O8qA81KEy904v2WiOPJtY",
+      "id": "Ugw6UFccrefUMD0JDlp4AaABAg.9L7I43pshum9LEL6oRTdbp",
+      "snippet": {
+        "textDisplay": "Que dure mais 1 ano. Minha renda triplicou!",
+        "textOriginal": "Que dure mais 1 ano. Minha renda triplicou!",
+        "parentId": "Ugw6UFccrefUMD0JDlp4AaABAg",
+        "authorDisplayName": "Andre Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzd5rpMtdkuiwcXzzQpE4mQ9zgWg84UbrdknnYgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWKXVpoGwL56ooT4zUVaTag",
+        "authorChannelId": {
+          "value": "UCWKXVpoGwL56ooT4zUVaTag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-23T13:31:01Z",
+        "updatedAt": "2021-03-23T13:31:01Z"
+      }
+    }
+  ]
+}

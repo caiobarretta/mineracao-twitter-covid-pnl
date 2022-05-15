@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TCypbzK3BypXKID5ucQ7HGE28dU",
+  "id": "Ugw9bWC5ZkMDdBnld-x4AaABAg",
+  "snippet": {
+    "videoId": "STmL5dAOqDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4plfJ4ast0Ardb8ksYzBViORypw",
+      "id": "Ugw9bWC5ZkMDdBnld-x4AaABAg",
+      "snippet": {
+        "videoId": "STmL5dAOqDI",
+        "textDisplay": "Muito bom.",
+        "textOriginal": "Muito bom.",
+        "authorDisplayName": "Evelita Freire",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8Q_ZAnyoP8q31SHS8-xCzkxJnwY6O5jRZNWsEww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV29CoErZ3lkPrLkFtkdQIQ",
+        "authorChannelId": {
+          "value": "UCV29CoErZ3lkPrLkFtkdQIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-13T16:24:35Z",
+        "updatedAt": "2020-05-13T16:24:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rSD1O00pfGWW4IGh1tZEbPISLLs",
+      "id": "Ugw9bWC5ZkMDdBnld-x4AaABAg.98b7NCFU9wq98bSFoWXS_O",
+      "snippet": {
+        "textDisplay": "Agradecemos o seu elogio, Litta. Tenha uma \u00f3tima tarde! :)",
+        "textOriginal": "Agradecemos o seu elogio, Litta. Tenha uma \u00f3tima tarde! :)",
+        "parentId": "Ugw9bWC5ZkMDdBnld-x4AaABAg",
+        "authorDisplayName": "Unimed Fortaleza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2qeRcR_IR6LPCQp57eUSdZfK4pDiXJYd1SMTZuJTZKyEvnS32TQTyTX3BN09JdznRJBPTy9wnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUtDAMp91VCfHTZ9_ypKRPA",
+        "authorChannelId": {
+          "value": "UCUtDAMp91VCfHTZ9_ypKRPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-13T19:27:04Z",
+        "updatedAt": "2020-05-13T19:27:04Z"
+      }
+    }
+  ]
+}

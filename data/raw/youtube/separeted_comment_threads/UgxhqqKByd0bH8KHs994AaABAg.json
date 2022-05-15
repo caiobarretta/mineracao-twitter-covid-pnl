@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "93STnd9C9cMDo8VfnBE3Z_4lT-8",
+  "id": "UgxhqqKByd0bH8KHs994AaABAg",
+  "snippet": {
+    "videoId": "12_780P1law",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "M9_t66Stg-dvSh_qjl7-9-3iiEs",
+      "id": "UgxhqqKByd0bH8KHs994AaABAg",
+      "snippet": {
+        "videoId": "12_780P1law",
+        "textDisplay": "Achei isso uma falta de respeito pq teve muita gente que morreu com covid",
+        "textOriginal": "Achei isso uma falta de respeito pq teve muita gente que morreu com covid",
+        "authorDisplayName": "Diogo Faustino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7TA0GBJMv6fLhCdVc5IAbTdV0PkXYMYqXPVkgUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp54dMAzfoGhASP0GSxgqmA",
+        "authorChannelId": {
+          "value": "UCp54dMAzfoGhASP0GSxgqmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-25T00:30:51Z",
+        "updatedAt": "2021-11-25T00:30:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wbvqkrFdGZdp7JSrXNY7W24x4Rs",
+      "id": "UgxhqqKByd0bH8KHs994AaABAg.9V8xAmSVALI9Vq5JFcZKRc",
+      "snippet": {
+        "textDisplay": "Mimimi...",
+        "textOriginal": "Mimimi...",
+        "parentId": "UgxhqqKByd0bH8KHs994AaABAg",
+        "authorDisplayName": "Lukas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzfFfZsXkR_k7CeSC26ZM-Ha07mYFxjwz8ICLcbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUNxHKnUZha-8ziPuzI9e_w",
+        "authorChannelId": {
+          "value": "UCUNxHKnUZha-8ziPuzI9e_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-12T03:57:14Z",
+        "updatedAt": "2021-12-12T03:57:14Z"
+      }
+    }
+  ]
+}

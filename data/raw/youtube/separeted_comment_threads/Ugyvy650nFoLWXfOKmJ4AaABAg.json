@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RqrNHYH1ct6Zrd1pCz0BMH13Oqc",
+  "id": "Ugyvy650nFoLWXfOKmJ4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3_PLmc32pRGm_Ih0BzUJZ9Fa6-8",
+      "id": "Ugyvy650nFoLWXfOKmJ4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Muito bom mesmo mano",
+        "textOriginal": "Muito bom mesmo mano",
+        "authorDisplayName": "777 Pelego",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzv_PwxBFzlwBdKvtshU692W-HBt8uvuc_FTolpA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzmVP4zsP2XhMipEtpppEwA",
+        "authorChannelId": {
+          "value": "UCzmVP4zsP2XhMipEtpppEwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-06T00:01:17Z",
+        "updatedAt": "2020-06-06T00:01:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YJ_FJouYdT9f7w6XGtCpBitywZQ",
+      "id": "Ugyvy650nFoLWXfOKmJ4AaABAg.99Y9vIIsC2J99YykuJWzQv",
+      "snippet": {
+        "textDisplay": "Muuuuuito Obrigado Pelegoooo!!!!! Tamo Junto!!",
+        "textOriginal": "Muuuuuito Obrigado Pelegoooo!!!!! Tamo Junto!!",
+        "parentId": "Ugyvy650nFoLWXfOKmJ4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-06T07:34:14Z",
+        "updatedAt": "2020-06-06T07:34:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rWDBIIxcmgk8QxzTc9EtAQrdp5U",
+  "id": "UgygPdtY68KL8mS8BFt4AaABAg",
+  "snippet": {
+    "videoId": "AZG2loqXDmI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QDzThR7M28WlL0MMIuL315FAiK0",
+      "id": "UgygPdtY68KL8mS8BFt4AaABAg",
+      "snippet": {
+        "videoId": "AZG2loqXDmI",
+        "textDisplay": "Primeir\u00e3o!",
+        "textOriginal": "Primeir\u00e3o!",
+        "authorDisplayName": "Jonas L\u00edrio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrgJom6K4-nb-p1kkWJRK1c_uBc9VJ-jBOSzYthQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbDmAQHOjSUrbiAav7EEAqw",
+        "authorChannelId": {
+          "value": "UCbDmAQHOjSUrbiAav7EEAqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T19:36:10Z",
+        "updatedAt": "2020-03-26T19:36:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-a-kKUIP1BLUq2mh6SQhqc5E9WM",
+      "id": "UgygPdtY68KL8mS8BFt4AaABAg.96fs8RwJIvt96ftFznr7xu",
+      "snippet": {
+        "textDisplay": "Segund\u00e3o! KKK",
+        "textOriginal": "Segund\u00e3o! KKK",
+        "parentId": "UgygPdtY68KL8mS8BFt4AaABAg",
+        "authorDisplayName": "Gilvan Fortes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSG5GoavQwEjV2k22_w_zh2ZWIpHoflhTyQxsp3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC40OHguKcGubABMUaSm2sFQ",
+        "authorChannelId": {
+          "value": "UC40OHguKcGubABMUaSm2sFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T19:45:56Z",
+        "updatedAt": "2020-03-26T19:45:56Z"
+      }
+    }
+  ]
+}

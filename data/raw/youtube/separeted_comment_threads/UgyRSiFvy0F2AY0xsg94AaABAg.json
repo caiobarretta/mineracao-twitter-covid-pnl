@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1P-k6OmJHUTl0OZoP8hM1YoN0pk",
+  "id": "UgyRSiFvy0F2AY0xsg94AaABAg",
+  "snippet": {
+    "videoId": "FpL5X_FLMIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ws4gNWLyxZtEsji0kvPvPnz6Pa0",
+      "id": "UgyRSiFvy0F2AY0xsg94AaABAg",
+      "snippet": {
+        "videoId": "FpL5X_FLMIs",
+        "textDisplay": "Pessoas com alergia respirat\u00f3ria severa est\u00e3o no grupo de risco?",
+        "textOriginal": "Pessoas com alergia respirat\u00f3ria severa est\u00e3o no grupo de risco?",
+        "authorDisplayName": "Barreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEAyBuxuLFyB118iwaUKgx9xDApif-3TFvcl4KCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSyqiaVuv3dUVY79aDHLF-w",
+        "authorChannelId": {
+          "value": "UCSyqiaVuv3dUVY79aDHLF-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-25T02:37:24Z",
+        "updatedAt": "2020-03-25T02:37:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Zb_yyFATkJLGINVqiYVGG54lZ_U",
+      "id": "UgyRSiFvy0F2AY0xsg94AaABAg.96bTkveDFPm9C46WDG0j5E",
+      "snippet": {
+        "textDisplay": "Provavelmente sim",
+        "textOriginal": "Provavelmente sim",
+        "parentId": "UgyRSiFvy0F2AY0xsg94AaABAg",
+        "authorDisplayName": "Gabriela Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHKX00HUu8-qd8K-T60eo9wYHo6prE2256wi48Gg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzvO5FjqU30dElDXPrfrogw",
+        "authorChannelId": {
+          "value": "UCzvO5FjqU30dElDXPrfrogw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-07T21:28:28Z",
+        "updatedAt": "2020-08-07T21:28:28Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k8-AdpPcssC9iAIMogRFkFeqWNM",
+  "id": "UgxbcnWLiLMYVM9X0xJ4AaABAg",
+  "snippet": {
+    "videoId": "12_780P1law",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uSDh4gJzCnUBq2ZdToUbW6U3cGM",
+      "id": "UgxbcnWLiLMYVM9X0xJ4AaABAg",
+      "snippet": {
+        "videoId": "12_780P1law",
+        "textDisplay": "ESTAERADO",
+        "textOriginal": "ESTAERADO",
+        "authorDisplayName": "Carlos Gabriel pereira dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QS8cmRiDQ11WpHWWievsgwt5pfGvC7f-1LvkL1NN3PKLNmg1_1dKCFTqkjXNySCCv4zqhzGgsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPzmxvC2CJaUcQoKFYGz4kQ",
+        "authorChannelId": {
+          "value": "UCPzmxvC2CJaUcQoKFYGz4kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-02T20:40:11Z",
+        "updatedAt": "2021-06-02T20:40:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SvuFZhgYi2bzOdlZ4UmL2tSw38c",
+      "id": "UgxbcnWLiLMYVM9X0xJ4AaABAg.9O5vf9a3KZz9OQkHPvbXwd",
+      "snippet": {
+        "textDisplay": "oxe",
+        "textOriginal": "oxe",
+        "parentId": "UgxbcnWLiLMYVM9X0xJ4AaABAg",
+        "authorDisplayName": "Eliel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSasv9rNQ9VkiphBe2wcgvQ5ADr2vpsiXY5kmyW=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3MbSCfWgQTKl9mZrvXIntA",
+        "authorChannelId": {
+          "value": "UC3MbSCfWgQTKl9mZrvXIntA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-10T22:44:44Z",
+        "updatedAt": "2021-06-10T22:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "a1471gd_QBaHqOvqG747cXmMH7g",
+      "id": "UgxbcnWLiLMYVM9X0xJ4AaABAg.9O5vf9a3KZz9O5wrvalenn",
+      "snippet": {
+        "textDisplay": "ELIVAIPRAPRIZAO",
+        "textOriginal": "ELIVAIPRAPRIZAO",
+        "parentId": "UgxbcnWLiLMYVM9X0xJ4AaABAg",
+        "authorDisplayName": "Carlos Gabriel pereira dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QS8cmRiDQ11WpHWWievsgwt5pfGvC7f-1LvkL1NN3PKLNmg1_1dKCFTqkjXNySCCv4zqhzGgsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPzmxvC2CJaUcQoKFYGz4kQ",
+        "authorChannelId": {
+          "value": "UCPzmxvC2CJaUcQoKFYGz4kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-02T20:50:39Z",
+        "updatedAt": "2021-06-02T20:50:39Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "if1-zH0YaChu5Lb2ir6agHnRJcA",
+  "id": "Ugx1DmRYMgQTR75JG6N4AaABAg",
+  "snippet": {
+    "videoId": "2qpYZakeid0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bxjZ_XAGh2u0B28r8F_zB95g8iA",
+      "id": "Ugx1DmRYMgQTR75JG6N4AaABAg",
+      "snippet": {
+        "videoId": "2qpYZakeid0",
+        "textDisplay": "S\u00f3 pedrada $$\ud83c\udfad\ud83e\udd11",
+        "textOriginal": "S\u00f3 pedrada $$\ud83c\udfad\ud83e\udd11",
+        "authorDisplayName": "Kauan Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTIVDvuadkmF0zqYgdnYBBDduKrLSQpb372cGSUTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqxFWen0FgrdOmFNvD9Vx-Q",
+        "authorChannelId": {
+          "value": "UCqxFWen0FgrdOmFNvD9Vx-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2020-11-30T14:13:00Z",
+        "updatedAt": "2020-11-30T14:13:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ux6LCXKO_B-df1noG6r9Q7Xqfww",
+      "id": "Ugx1DmRYMgQTR75JG6N4AaABAg.9GgS5LWDUy_9Jq9vgmzNdF",
+      "snippet": {
+        "textDisplay": "Ugl",
+        "textOriginal": "Ugl",
+        "parentId": "Ugx1DmRYMgQTR75JG6N4AaABAg",
+        "authorDisplayName": "Aparecida Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMcoNacKzKsc-WV1ejO6DfBIc4TYkVyymlUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpGyulW72W-BFXAkXeds4ew",
+        "authorChannelId": {
+          "value": "UCpGyulW72W-BFXAkXeds4ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-16T22:20:50Z",
+        "updatedAt": "2021-02-16T22:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "L-nEGJoaDuwSxPBmJCjTrwM_hYw",
+      "id": "Ugx1DmRYMgQTR75JG6N4AaABAg.9GgS5LWDUy_9Jq9v36-28Z",
+      "snippet": {
+        "textDisplay": "Jul com",
+        "textOriginal": "Jul com",
+        "parentId": "Ugx1DmRYMgQTR75JG6N4AaABAg",
+        "authorDisplayName": "Aparecida Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMcoNacKzKsc-WV1ejO6DfBIc4TYkVyymlUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpGyulW72W-BFXAkXeds4ew",
+        "authorChannelId": {
+          "value": "UCpGyulW72W-BFXAkXeds4ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-16T22:20:45Z",
+        "updatedAt": "2021-02-16T22:20:45Z"
+      }
+    }
+  ]
+}

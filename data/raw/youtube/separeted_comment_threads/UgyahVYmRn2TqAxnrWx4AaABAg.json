@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YIu182U2ShFwF4FqTCcKdBom-lA",
+  "id": "UgyahVYmRn2TqAxnrWx4AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "H0nlItvtQIeWSAObWWU2jejt0uY",
+      "id": "UgyahVYmRn2TqAxnrWx4AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Adorei o v\u00eddeo. Sou professora e vou passar para os meus alunos",
+        "textOriginal": "Adorei o v\u00eddeo. Sou professora e vou passar para os meus alunos",
+        "authorDisplayName": "Barbara Albuquerque.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDwCmlARsATIizXRlvJIuq5UHF4eEfNgD1ng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-oZuK2nDm7Yf6FE8ZfyOrA",
+        "authorChannelId": {
+          "value": "UC-oZuK2nDm7Yf6FE8ZfyOrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-28T16:57:02Z",
+        "updatedAt": "2020-10-28T16:57:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "THUahN9W8RKcBuhKVls3ni0V2QM",
+      "id": "UgyahVYmRn2TqAxnrWx4AaABAg.9FMlcvGQPlP9FMtq4w3-hi",
+      "snippet": {
+        "textDisplay": "Muito obrigado!! \u2764\ufe0f\nFico feliz que tenha gostado.",
+        "textOriginal": "Muito obrigado!! \u2764\ufe0f\nFico feliz que tenha gostado.",
+        "parentId": "UgyahVYmRn2TqAxnrWx4AaABAg",
+        "authorDisplayName": "JBO Ci\u00eancia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSctqR_Yj4truAHYStrWdj4EnLgsEP988bCNN3IfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuQLOcYPvjkjIB3KCPJrzKQ",
+        "authorChannelId": {
+          "value": "UCuQLOcYPvjkjIB3KCPJrzKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-28T18:08:44Z",
+        "updatedAt": "2020-10-28T18:08:44Z"
+      }
+    }
+  ]
+}

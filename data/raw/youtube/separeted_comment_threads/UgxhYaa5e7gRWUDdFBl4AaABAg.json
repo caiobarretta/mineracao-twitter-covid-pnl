@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RO-LDU4bFG3ieKwLM3uvaeatn3w",
+  "id": "UgxhYaa5e7gRWUDdFBl4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FayR9Co_AgZPi9p1Qeg5foxS_1c",
+      "id": "UgxhYaa5e7gRWUDdFBl4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "E a parte de tr\u00e1s do cart\u00e3o digital? N\u00e3o imprimi",
+        "textOriginal": "E a parte de tr\u00e1s do cart\u00e3o digital? N\u00e3o imprimi",
+        "authorDisplayName": "Erick Barroso 130",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xi5lJtizI_zmRNUKzk6_JeYVprQb-mt98T0BYcvTAO7dsN945QtchoanWEcQo5sBu779RgcW9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1oqLuzK8I3f-r8o52YXoJg",
+        "authorChannelId": {
+          "value": "UC1oqLuzK8I3f-r8o52YXoJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T03:23:39Z",
+        "updatedAt": "2022-05-11T03:23:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KHAnmGu--BlVZph7Zp7nV7qxPRU",
+      "id": "UgxhYaa5e7gRWUDdFBl4AaABAg.9asGhUT0gQU9astObadrGX",
+      "snippet": {
+        "textDisplay": "N\u00e3o precisa da parte de tr\u00e1s",
+        "textOriginal": "N\u00e3o precisa da parte de tr\u00e1s",
+        "parentId": "UgxhYaa5e7gRWUDdFBl4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-11T09:10:27Z",
+        "updatedAt": "2022-05-11T09:10:27Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mXsC2_AGYXKyTD6iGH-0VbhD9e8",
+  "id": "UgzHUf36EG85eBOrNuB4AaABAg",
+  "snippet": {
+    "videoId": "jjUzW75LAfc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pddVGDwA68xdMvrQ-p21fUthSqo",
+      "id": "UgzHUf36EG85eBOrNuB4AaABAg",
+      "snippet": {
+        "videoId": "jjUzW75LAfc",
+        "textDisplay": "buenisimoooo",
+        "textOriginal": "buenisimoooo",
+        "authorDisplayName": "Raul Eduardo Gomez Brito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbE8S_0LWnB01FZB3igrxAKtpjvKVBZgHOJMyePg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjfVr774Qr6LNDwJeBFEdJg",
+        "authorChannelId": {
+          "value": "UCjfVr774Qr6LNDwJeBFEdJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-30T00:53:46Z",
+        "updatedAt": "2020-04-30T00:53:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0ipW6SDentZojQfZsl5ED_yahug",
+      "id": "UgzHUf36EG85eBOrNuB4AaABAg.982zWKPzvud9837d9iK8aO",
+      "snippet": {
+        "textDisplay": "Raul Eduardo Gomez Brito graciaaaas\ud83d\ude1a",
+        "textOriginal": "Raul Eduardo Gomez Brito graciaaaas\ud83d\ude1a",
+        "parentId": "UgzHUf36EG85eBOrNuB4AaABAg",
+        "authorDisplayName": "Medicina Encapsulada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxAzCEs9BueCnIH1vdz02Qt5--R35dJ-lH2YMNuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1TisNYu-CsgSfIDbA2opGw",
+        "authorChannelId": {
+          "value": "UC1TisNYu-CsgSfIDbA2opGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-30T02:13:28Z",
+        "updatedAt": "2020-04-30T02:13:28Z"
+      }
+    }
+  ]
+}

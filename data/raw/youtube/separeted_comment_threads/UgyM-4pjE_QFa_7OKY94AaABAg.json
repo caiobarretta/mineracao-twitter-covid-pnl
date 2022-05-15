@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a59tUsPyDvgx2EFhCyJiDTcSiIY",
+  "id": "UgyM-4pjE_QFa_7OKY94AaABAg",
+  "snippet": {
+    "videoId": "1bnDICiuS58",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YDKqmaL8LvBzQuXGMp39MPE1hLg",
+      "id": "UgyM-4pjE_QFa_7OKY94AaABAg",
+      "snippet": {
+        "videoId": "1bnDICiuS58",
+        "textDisplay": "Boa exposi\u00e7\u00e3o Kevin, show!",
+        "textOriginal": "Boa exposi\u00e7\u00e3o Kevin, show!",
+        "authorDisplayName": "Jorge Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYF2pgFqeU8q_YWiYtviwq-yGRE3zfJuUX0CDK7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN49z5EADwbBwNStB5ZDYBg",
+        "authorChannelId": {
+          "value": "UCN49z5EADwbBwNStB5ZDYBg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-09T20:41:38Z",
+        "updatedAt": "2020-08-09T20:41:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nRZKBLxd017irBZxcfrO6hG72OE",
+      "id": "UgyM-4pjE_QFa_7OKY94AaABAg.9C9Ajt3gJwq9FI4AkZJokX",
+      "snippet": {
+        "textDisplay": "Valeu Jorge!! Brigad\u00e3o mesmo!!",
+        "textOriginal": "Valeu Jorge!! Brigad\u00e3o mesmo!!",
+        "parentId": "UgyM-4pjE_QFa_7OKY94AaABAg",
+        "authorDisplayName": "Kevin Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJp6nJ_kNuAQXQBMMs4epvk59KSSBlRBPD7qgtoQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQSuFTvSbITl-KcDFtGxUAw",
+        "authorChannelId": {
+          "value": "UCQSuFTvSbITl-KcDFtGxUAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-26T21:11:37Z",
+        "updatedAt": "2020-10-26T21:11:37Z"
+      }
+    }
+  ]
+}

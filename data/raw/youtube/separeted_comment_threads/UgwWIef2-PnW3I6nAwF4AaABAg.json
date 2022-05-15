@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qW6AYvE2V4759dPn8nyaZmz2s1Q",
+  "id": "UgwWIef2-PnW3I6nAwF4AaABAg",
+  "snippet": {
+    "videoId": "HBe3n_PAoCk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FGYYIIpknqEXKbBSSUmNgYGrpXI",
+      "id": "UgwWIef2-PnW3I6nAwF4AaABAg",
+      "snippet": {
+        "videoId": "HBe3n_PAoCk",
+        "textDisplay": "O mundo e comunista",
+        "textOriginal": "O mundo e comunista",
+        "authorDisplayName": "Moraes Chiarelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3fwgJ-Y2suWqCG1bHcKjwEk365JI0ZfJbJQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsjzKEAzP_gdDzgzlAq1AGA",
+        "authorChannelId": {
+          "value": "UCsjzKEAzP_gdDzgzlAq1AGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-01-19T07:09:50Z",
+        "updatedAt": "2021-01-19T07:09:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0E-BbicppFQTDjcrMIAGVyhQ-n8",
+      "id": "UgwWIef2-PnW3I6nAwF4AaABAg.9IgRPjGWycW9Igc1unun9I",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "parentId": "UgwWIef2-PnW3I6nAwF4AaABAg",
+        "authorDisplayName": "Gabriela Moraes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5i7QCHvlLXHKS-lPOGNfUOE648AGGy76X3r4VfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfswRs2Y_zhozU0uinJeQ2w",
+        "authorChannelId": {
+          "value": "UCfswRs2Y_zhozU0uinJeQ2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-19T08:51:26Z",
+        "updatedAt": "2021-01-19T08:51:26Z"
+      }
+    }
+  ]
+}

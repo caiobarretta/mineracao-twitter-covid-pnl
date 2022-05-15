@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KKL5qFx7frhokyLjP5cSPYQXBlE",
+  "id": "Ugy1wdG2CoJu1TdD4_N4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XXCQ776qd7_riQD8rNHeFu4Zc3Q",
+      "id": "Ugy1wdG2CoJu1TdD4_N4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Top",
+        "textOriginal": "Top",
+        "authorDisplayName": "Leonardo Flauzino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrLKVt5H5hNF0miPV9bsFbjK10mMaPm6Ri56BLJyU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG1-i1yN6rkfThlVBsbhczA",
+        "authorChannelId": {
+          "value": "UCG1-i1yN6rkfThlVBsbhczA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-19T13:33:29Z",
+        "updatedAt": "2021-04-19T13:33:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HpViULkkTwVIREKAEXfe5Z3dcFY",
+      "id": "Ugy1wdG2CoJu1TdD4_N4AaABAg.9MJrrOFR42y9MQiq5eBAGe",
+      "snippet": {
+        "textDisplay": "Valeu Leonardoo!! Obrigadoooo!! Salvemos o SUS!",
+        "textOriginal": "Valeu Leonardoo!! Obrigadoooo!! Salvemos o SUS!",
+        "parentId": "Ugy1wdG2CoJu1TdD4_N4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-22T05:29:20Z",
+        "updatedAt": "2021-04-22T05:29:20Z"
+      }
+    }
+  ]
+}

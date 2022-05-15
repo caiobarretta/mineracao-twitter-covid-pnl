@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T8n8Ff3D4Xw6ppbRBwMpLqQv1EU",
+  "id": "Ugx39j7W9QrdgBsWFQ54AaABAg",
+  "snippet": {
+    "videoId": "z2_bU6XlPXU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UzZokliise6RiWdY227OJ86EtLw",
+      "id": "Ugx39j7W9QrdgBsWFQ54AaABAg",
+      "snippet": {
+        "videoId": "z2_bU6XlPXU",
+        "textDisplay": "Ameei a explica\u00e7\u00e3o, muito boa!",
+        "textOriginal": "Ameei a explica\u00e7\u00e3o, muito boa!",
+        "authorDisplayName": "Lel\u00ea Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRhcUL0eZf7HCqgAtklKj64XdVpWmn90_3Ag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaTTECLNzn_W6_5PQWw79bw",
+        "authorChannelId": {
+          "value": "UCaTTECLNzn_W6_5PQWw79bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 24,
+        "publishedAt": "2020-02-05T16:49:34Z",
+        "updatedAt": "2020-02-05T16:49:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Fsxu0jqseOra01I5-rXdlwRHG6Y",
+      "id": "Ugx39j7W9QrdgBsWFQ54AaABAg.94epKWSJIjS9CE6gFUZVII",
+      "snippet": {
+        "textDisplay": "E sim",
+        "textOriginal": "E sim",
+        "parentId": "Ugx39j7W9QrdgBsWFQ54AaABAg",
+        "authorDisplayName": "Agdamilk Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTf4_vAlxi9ZdXqD0laK-m9hYBXawt-H5hIcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0M9ygCN7VDKe3-FGEUJMVQ",
+        "authorChannelId": {
+          "value": "UC0M9ygCN7VDKe3-FGEUJMVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-11T18:42:23Z",
+        "updatedAt": "2020-08-11T18:42:23Z"
+      }
+    }
+  ]
+}

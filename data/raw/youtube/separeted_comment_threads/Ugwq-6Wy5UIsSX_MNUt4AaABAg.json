@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lxBJQLtZ8XCufUETphU5OGenItI",
+  "id": "Ugwq-6Wy5UIsSX_MNUt4AaABAg",
+  "snippet": {
+    "videoId": "IZKNSM7FgsM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GNaquZ3UOKbt9HNClQ7lFHGua2w",
+      "id": "Ugwq-6Wy5UIsSX_MNUt4AaABAg",
+      "snippet": {
+        "videoId": "IZKNSM7FgsM",
+        "textDisplay": "Gracias por mantenernos informados , el v\u00eddeo me ha resultado muy interesante \ud83d\udc4d",
+        "textOriginal": "Gracias por mantenernos informados , el v\u00eddeo me ha resultado muy interesante \ud83d\udc4d",
+        "authorDisplayName": "Ana Navarro Martin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcxWXdAg-8Ks-lfGZn2rqk5Wop3nIa_KeP6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSTZbFQFAxPUMtZsEQ40dyA",
+        "authorChannelId": {
+          "value": "UCSTZbFQFAxPUMtZsEQ40dyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-09T14:56:17Z",
+        "updatedAt": "2020-05-09T14:56:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "E2b3DJuV8h9lVvaUwotYsz_PO6c",
+      "id": "Ugwq-6Wy5UIsSX_MNUt4AaABAg.98Rf52vAs8G98RfVXjxDYA",
+      "snippet": {
+        "textDisplay": "Me alegro de que le parezca interesante. Muchas gracias \ud83d\ude01",
+        "textOriginal": "Me alegro de que le parezca interesante. Muchas gracias \ud83d\ude01",
+        "parentId": "Ugwq-6Wy5UIsSX_MNUt4AaABAg",
+        "authorDisplayName": "Alberto Sanagust\u00edn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6qC6ThTtuykDBG20xo58fE3NyY_XFJQajw0sdPzvHUcMcmA5q5rkmN4YNcm8V6cJ_XLTbSsWUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9ohLcxGUDGVIp69s26swuw",
+        "authorChannelId": {
+          "value": "UC9ohLcxGUDGVIp69s26swuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-09T14:59:54Z",
+        "updatedAt": "2020-05-09T14:59:54Z"
+      }
+    }
+  ]
+}

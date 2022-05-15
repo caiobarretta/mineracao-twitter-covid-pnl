@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hC2QjPbVIjxJjvTMsm5FL-ikCEc",
+  "id": "UgwaBy2ryCIZyU6l8dR4AaABAg",
+  "snippet": {
+    "videoId": "JXZEA0LBEsE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eZ04LdLU64SUW1Mu2zR3xO8dhPE",
+      "id": "UgwaBy2ryCIZyU6l8dR4AaABAg",
+      "snippet": {
+        "videoId": "JXZEA0LBEsE",
+        "textDisplay": "AGORA. QUE TEMOS QUE SAIR PRA RUA. . AR PURO. .",
+        "textOriginal": "AGORA. QUE TEMOS QUE SAIR PRA RUA. . AR PURO. .",
+        "authorDisplayName": "Salete Chaves souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlm2WTT3RldA6wjNkcIZElqBOfsktAv3cr8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5ApTH53-bGj7oGYR37V3dg",
+        "authorChannelId": {
+          "value": "UC5ApTH53-bGj7oGYR37V3dg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-08T17:31:21Z",
+        "updatedAt": "2022-04-08T17:31:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vW7yw_HCPpijorkpMjYaE5tvtOQ",
+      "id": "UgwaBy2ryCIZyU6l8dR4AaABAg.9_ZoUPVm-4Z9_Zrytj6tBu",
+      "snippet": {
+        "textDisplay": "ar puro? s\u00f3 se for bem longe da cidade n\u00e9?",
+        "textOriginal": "ar puro? s\u00f3 se for bem longe da cidade n\u00e9?",
+        "parentId": "UgwaBy2ryCIZyU6l8dR4AaABAg",
+        "authorDisplayName": "Gabriel P.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vWEOv7GAggcuXrzv3bbpBjW2byoHXtUArMn7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxw9FggVCBk3JgN-_9gUt9w",
+        "authorChannelId": {
+          "value": "UCxw9FggVCBk3JgN-_9gUt9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-08T18:01:52Z",
+        "updatedAt": "2022-04-08T18:01:52Z"
+      }
+    }
+  ]
+}

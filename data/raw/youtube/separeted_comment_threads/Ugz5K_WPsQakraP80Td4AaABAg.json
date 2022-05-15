@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TrorC_DtnDFHzVYuqe5h2kqvQ5k",
+  "id": "Ugz5K_WPsQakraP80Td4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MEj-xFaq6pF-ckQObkbBpmkgGEU",
+      "id": "Ugz5K_WPsQakraP80Td4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "I downloaded corona 7 and it came with 3.4 GB of material and I don't know how to use it?",
+        "textOriginal": "I downloaded corona 7 and it came with 3.4 GB of material and I don't know how to use it?",
+        "authorDisplayName": "Ahmed Mou77",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7Mncds1ki3TbxGtU-mdH5-nAMgNK2jG2xXg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4yt6ZqLc0bHj4InSfw8EeQ",
+        "authorChannelId": {
+          "value": "UC4yt6ZqLc0bHj4InSfw8EeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-29T15:24:48Z",
+        "updatedAt": "2021-08-29T15:24:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qShfF9mxeyua9oIdUQoFwrwexv8",
+      "id": "Ugz5K_WPsQakraP80Td4AaABAg.9RcxXBizMPM9RfDTivyLBZ",
+      "snippet": {
+        "textDisplay": "Howdy! If you are a Cinema 4D user then it's accessible by selecting the \"Material Library\" under the \"Corona\" menu at the top. If you're confused about where the \"Corona\" menu is, it's in the same menu line as is \"File\" or \"Edit\" :)\n\nIf you are a 3ds Max user then you can access the library by bringing up the \"Render Setup\" window go under the \"Scene\" compartment and in there you'll see a button to open up the Material Library.\n\nIn both DCCs once you have the Material Library open you just click and drag those materials onto your objects / your material editors.\n\nHope that helps!\nNejc",
+        "textOriginal": "Howdy! If you are a Cinema 4D user then it's accessible by selecting the \"Material Library\" under the \"Corona\" menu at the top. If you're confused about where the \"Corona\" menu is, it's in the same menu line as is \"File\" or \"Edit\" :)\n\nIf you are a 3ds Max user then you can access the library by bringing up the \"Render Setup\" window go under the \"Scene\" compartment and in there you'll see a button to open up the Material Library.\n\nIn both DCCs once you have the Material Library open you just click and drag those materials onto your objects / your material editors.\n\nHope that helps!\nNejc",
+        "parentId": "Ugz5K_WPsQakraP80Td4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-30T12:31:21Z",
+        "updatedAt": "2021-08-30T12:31:21Z"
+      }
+    }
+  ]
+}

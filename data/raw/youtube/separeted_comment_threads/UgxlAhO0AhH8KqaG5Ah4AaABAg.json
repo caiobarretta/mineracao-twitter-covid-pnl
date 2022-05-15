@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XJogW5b5YklmF-qxpXyqV5wKl8k",
+  "id": "UgxlAhO0AhH8KqaG5Ah4AaABAg",
+  "snippet": {
+    "videoId": "z8RmmaiYVrs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_IwUoF2aHgatnS2ZeMFkLK4TOCE",
+      "id": "UgxlAhO0AhH8KqaG5Ah4AaABAg",
+      "snippet": {
+        "videoId": "z8RmmaiYVrs",
+        "textDisplay": "Deve ser os hacker deles mesmo. Kkkk",
+        "textOriginal": "Deve ser os hacker deles mesmo. Kkkk",
+        "authorDisplayName": "Luiza Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2KFn-ntPR-2f5oTIoh0sVVm0Yc0i3AfUcag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1jToTn4caoCapb5ewSDbKA",
+        "authorChannelId": {
+          "value": "UC1jToTn4caoCapb5ewSDbKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-12-11T14:03:08Z",
+        "updatedAt": "2021-12-11T14:04:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "csNO_w8Je0AzVSGxomsfuDwmTiU",
+      "id": "UgxlAhO0AhH8KqaG5Ah4AaABAg.9Voar29Dy0u9VrpcWmWM8i",
+      "snippet": {
+        "textDisplay": "Boa",
+        "textOriginal": "Boa",
+        "parentId": "UgxlAhO0AhH8KqaG5Ah4AaABAg",
+        "authorDisplayName": "Rui Takeda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSi_2po65d03aow4PauEkMexju4_rae3Rd-1v2aqA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUmZnVc1w74r6_Q9-TbOp0g",
+        "authorChannelId": {
+          "value": "UCUmZnVc1w74r6_Q9-TbOp0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-12T20:09:56Z",
+        "updatedAt": "2021-12-12T20:09:56Z"
+      }
+    }
+  ]
+}

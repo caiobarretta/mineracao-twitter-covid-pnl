@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "o3S-lDOW4GrQL2niJkySCoIXX_g",
+  "id": "UgwjTZ4LbCCac07VhsB4AaABAg",
+  "snippet": {
+    "videoId": "BxffmRWufio",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WlmL5NxN27OVWkw2XmfS1Hue2lo",
+      "id": "UgwjTZ4LbCCac07VhsB4AaABAg",
+      "snippet": {
+        "videoId": "BxffmRWufio",
+        "textDisplay": "Governo incompetente.",
+        "textOriginal": "Governo incompetente.",
+        "authorDisplayName": "Carlos Salvador",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yCSMwjODwQ2qeCp76n_AZ-baP893tgoYiSGtQdPTkLzqBhN6gH52o_g_YxXuDH8P1KaCMK7msuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFNY4OQnKN_Gnzw5dJHmNkA",
+        "authorChannelId": {
+          "value": "UCFNY4OQnKN_Gnzw5dJHmNkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-01-07T22:30:56Z",
+        "updatedAt": "2022-01-07T22:30:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AyO_kUviuDe2xlraAzCQ4q8BLs0",
+      "id": "UgwjTZ4LbCCac07VhsB4AaABAg.9Wv1QxiaB4B9WzPuxvjWZ2",
+      "snippet": {
+        "textDisplay": "Vai la, acredita na m\u00eddia dependente de dinheiro p\u00fablico.\nCabritinha msm viu",
+        "textOriginal": "Vai la, acredita na m\u00eddia dependente de dinheiro p\u00fablico.\nCabritinha msm viu",
+        "parentId": "UgwjTZ4LbCCac07VhsB4AaABAg",
+        "authorDisplayName": "Roberson Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtiRGXN7O5CejOzqmg5tDRC5Q-KfzqRLQ_rg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgPDz4EKHPeo_GOxCLZQ7ew",
+        "authorChannelId": {
+          "value": "UCgPDz4EKHPeo_GOxCLZQ7ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T15:21:51Z",
+        "updatedAt": "2022-01-09T15:21:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "qU2_kYkHwL37fVHbrIB_QywwLls",
+      "id": "UgwjTZ4LbCCac07VhsB4AaABAg.9Wv1QxiaB4B9WzNrsqPo4q",
+      "snippet": {
+        "textDisplay": "M\u00eddia incompetente",
+        "textOriginal": "M\u00eddia incompetente",
+        "parentId": "UgwjTZ4LbCCac07VhsB4AaABAg",
+        "authorDisplayName": "Vigia de sentinela",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/5Mf_uJAI7Ut7BbaTuLJJZeXpCulyX9b-3PdQ097rjtCjwrIyIZcyVjWdDtZd7iOxF1jsUEu4Ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1Y-tWjP6QaespyZi4FoyGA",
+        "authorChannelId": {
+          "value": "UC1Y-tWjP6QaespyZi4FoyGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T15:03:57Z",
+        "updatedAt": "2022-01-09T15:03:57Z"
+      }
+    }
+  ]
+}

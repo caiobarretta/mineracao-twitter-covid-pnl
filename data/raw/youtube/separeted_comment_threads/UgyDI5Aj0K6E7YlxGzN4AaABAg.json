@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UssPN6DRvyX-EWE2Xt1qEe6YeRY",
+  "id": "UgyDI5Aj0K6E7YlxGzN4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DFLHej1-j-FvBq4-Pqah8cz_Scs",
+      "id": "UgyDI5Aj0K6E7YlxGzN4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "\u00c9 verdade que Windows 10 vai acabar vem a\u00ed um Windows 11 ?",
+        "textOriginal": "\u00c9 verdade que Windows 10 vai acabar vem a\u00ed um Windows 11 ?",
+        "authorDisplayName": "Nivaldo Cosmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWodloH_6KOZAZGC_LcZUrgadk53fEC4zAVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClRicKBXPj1fajNavxtBGWQ",
+        "authorChannelId": {
+          "value": "UClRicKBXPj1fajNavxtBGWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-15T20:14:34Z",
+        "updatedAt": "2021-06-15T20:14:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bpqIFPDqNgo6H8vHyluruyEwXn8",
+      "id": "UgyDI5Aj0K6E7YlxGzN4AaABAg.9OcM3vCgUcF9OcocpD0eck",
+      "snippet": {
+        "textDisplay": "Rapaz eu li semana passada que a Microsoft vai lan\u00e7ar uma atualiza\u00e7\u00e3o que, segundo especula-se, pode ser um Windows 11, por enquanto o que se sabe \u00e9 apenas especula\u00e7\u00e3o.",
+        "textOriginal": "Rapaz eu li semana passada que a Microsoft vai lan\u00e7ar uma atualiza\u00e7\u00e3o que, segundo especula-se, pode ser um Windows 11, por enquanto o que se sabe \u00e9 apenas especula\u00e7\u00e3o.",
+        "parentId": "UgyDI5Aj0K6E7YlxGzN4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-16T00:32:52Z",
+        "updatedAt": "2021-06-16T00:32:52Z"
+      }
+    }
+  ]
+}

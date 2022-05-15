@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "s04ovrPziajwVxlRHtsntMW5h_0",
+  "id": "UgwBjjjM3R0Ax7BJZwV4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "t5mJGZcW9jsR8PeGMXTDGRBj3v4",
+      "id": "UgwBjjjM3R0Ax7BJZwV4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Valeu por esclarecer minha",
+        "textOriginal": "Valeu por esclarecer minha",
+        "authorDisplayName": "Nivaldo Cosmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWodloH_6KOZAZGC_LcZUrgadk53fEC4zAVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClRicKBXPj1fajNavxtBGWQ",
+        "authorChannelId": {
+          "value": "UClRicKBXPj1fajNavxtBGWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-01T23:07:48Z",
+        "updatedAt": "2021-06-01T23:07:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "24S3oflq7F8_yFIIwa-HPw79uXs",
+      "id": "UgwBjjjM3R0Ax7BJZwV4AaABAg.9O3blR5ZCPm9O3g6jSm-wR",
+      "snippet": {
+        "textDisplay": "por nada amigo",
+        "textOriginal": "por nada amigo",
+        "parentId": "UgwBjjjM3R0Ax7BJZwV4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-01T23:45:47Z",
+        "updatedAt": "2021-06-01T23:45:47Z"
+      }
+    }
+  ]
+}

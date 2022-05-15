@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0sKU03lcaSpKI5K9u4gm8X3XyJA",
+  "id": "UgyrtghrGyQa-k79jit4AaABAg",
+  "snippet": {
+    "videoId": "sLlTNUo25rI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sXkJuL5OvCYlscgT9_uxiCSdHbw",
+      "id": "UgyrtghrGyQa-k79jit4AaABAg",
+      "snippet": {
+        "videoId": "sLlTNUo25rI",
+        "textDisplay": "Hj meu primeiro dia de isolamento \ud83d\ude11",
+        "textOriginal": "Hj meu primeiro dia de isolamento \ud83d\ude11",
+        "authorDisplayName": "Denise Martins Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbAKI8Akx2G8-mFJcaSN4E-D8ySsiRzlyMNQNOYj0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGGANkpbGhFPoCVaeKXuF7A",
+        "authorChannelId": {
+          "value": "UCGGANkpbGhFPoCVaeKXuF7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-01-12T15:23:18Z",
+        "updatedAt": "2021-01-12T15:23:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jXUL-SqbrJdIE261M-vL8MUeLkA",
+      "id": "UgyrtghrGyQa-k79jit4AaABAg.9IQIJuauMv-9IZKuxThTCy",
+      "snippet": {
+        "textDisplay": "Vai dar tudo certo! \ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc",
+        "textOriginal": "Vai dar tudo certo! \ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc",
+        "parentId": "UgyrtghrGyQa-k79jit4AaABAg",
+        "authorDisplayName": "Tiago Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfXnZhRrXtPWzproTHvRknedPj7_7LPHI6FxwXWg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcBTpK_fn-kTqy9k528x9oA",
+        "authorChannelId": {
+          "value": "UCcBTpK_fn-kTqy9k528x9oA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-16T03:39:08Z",
+        "updatedAt": "2021-01-16T03:39:08Z"
+      }
+    }
+  ]
+}

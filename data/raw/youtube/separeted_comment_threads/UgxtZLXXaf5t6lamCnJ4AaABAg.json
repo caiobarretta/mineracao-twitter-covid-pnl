@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tayeVgTBcY1hrDT61FXX2FOdJq8",
+  "id": "UgxtZLXXaf5t6lamCnJ4AaABAg",
+  "snippet": {
+    "videoId": "feJVmaibMRs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4A6GAt4SvCYdnqgvCXVIg072XHo",
+      "id": "UgxtZLXXaf5t6lamCnJ4AaABAg",
+      "snippet": {
+        "videoId": "feJVmaibMRs",
+        "textDisplay": "Muchas gracias por la info, es realmente indispensable que esto sea conocido por todos\u2665",
+        "textOriginal": "Muchas gracias por la info, es realmente indispensable que esto sea conocido por todos\u2665",
+        "authorDisplayName": "Laura Florencia Jorge",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFJb4gwqiHo3x38dGYO9jd4gdUTIbEteWmenTn=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtAbOlU2o-K6I5JaQLNmykQ",
+        "authorChannelId": {
+          "value": "UCtAbOlU2o-K6I5JaQLNmykQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-09T19:00:13Z",
+        "updatedAt": "2022-03-09T19:00:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Wgx689vtQE3nuo-ujFcCNX6HsBM",
+      "id": "UgxtZLXXaf5t6lamCnJ4AaABAg.9ZMinyR2ziy9Ztfg19AMq-",
+      "snippet": {
+        "textDisplay": "Una pregunta, c\u00f3mo el virus SARS-CoV-2 puede variar su estructura?",
+        "textOriginal": "Una pregunta, c\u00f3mo el virus SARS-CoV-2 puede variar su estructura?",
+        "parentId": "UgxtZLXXaf5t6lamCnJ4AaABAg",
+        "authorDisplayName": "Noelia Maricielo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsdZaQeEbpgYL3PD1PnpDvJTr38kvQO5wNlyiDiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKPXsKnUTTmt_d3Jp-cYDaQ",
+        "authorChannelId": {
+          "value": "UCKPXsKnUTTmt_d3Jp-cYDaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-22T23:27:05Z",
+        "updatedAt": "2022-03-22T23:27:05Z"
+      }
+    }
+  ]
+}

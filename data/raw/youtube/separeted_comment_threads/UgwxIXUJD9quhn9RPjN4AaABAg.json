@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CtiEceBhpNHrPIyXNduTw4GD8Hc",
+  "id": "UgwxIXUJD9quhn9RPjN4AaABAg",
+  "snippet": {
+    "videoId": "kksew9Xeo2I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Rypld1nUcesyoGWWOW-K6L8Xmn0",
+      "id": "UgwxIXUJD9quhn9RPjN4AaABAg",
+      "snippet": {
+        "videoId": "kksew9Xeo2I",
+        "textDisplay": "Parab\u00e9ns para a equipe.",
+        "textOriginal": "Parab\u00e9ns para a equipe.",
+        "authorDisplayName": "Giselia Lima Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScjMirp7vwADxLkF9tahLkmBjSi2tVOftyc9bqrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLhXrSB_5xR6xcMzxtoHIoA",
+        "authorChannelId": {
+          "value": "UCLhXrSB_5xR6xcMzxtoHIoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-12-03T09:35:27Z",
+        "updatedAt": "2020-12-03T09:35:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ShDL2gcOOEWhW4uIewe_zqZhyBU",
+      "id": "UgwxIXUJD9quhn9RPjN4AaABAg.9GnfiASVQGr9GywB0dBlcR",
+      "snippet": {
+        "textDisplay": "Valeu d+! Agradecemos pelo apoio!",
+        "textOriginal": "Valeu d+! Agradecemos pelo apoio!",
+        "parentId": "UgwxIXUJD9quhn9RPjN4AaABAg",
+        "authorDisplayName": "Porque o Estado Importa!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSypQJVTMwM1SouhnEWeeCOEOHVfqp7_q6utqdNlw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuZDu3jkiPMfxYTmfzVzKWw",
+        "authorChannelId": {
+          "value": "UCuZDu3jkiPMfxYTmfzVzKWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-07T18:30:59Z",
+        "updatedAt": "2020-12-07T18:30:59Z"
+      }
+    }
+  ]
+}

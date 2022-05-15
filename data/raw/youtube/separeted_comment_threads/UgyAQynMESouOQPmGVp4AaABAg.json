@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8od2t7GqFS8b79Daewke-O2HxI8",
+  "id": "UgyAQynMESouOQPmGVp4AaABAg",
+  "snippet": {
+    "videoId": "hnDCRAgHKns",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xCtQJLoDrjPhCio-j4UIFBKUBP8",
+      "id": "UgyAQynMESouOQPmGVp4AaABAg",
+      "snippet": {
+        "videoId": "hnDCRAgHKns",
+        "textDisplay": "Amigo, bom dia! \nSabe informar se tem como desenvolver um atalho para manter a tela do iPhone ligada sem precisar recorrer aos ajustes? \nPor vezes estou editando textos no app do notas e antes tenho que percorrer esse caminho do ajustes > tela e brilho > bloqueio autom\u00e1tico > nunca. \n\nUm atalho cairia bem, com apenas um clique eu conseguiria ativar e desativavar a fun\u00e7\u00e3o bloquear nunca rs. \n\nGrato pela aten\u00e7\u00e3o.",
+        "textOriginal": "Amigo, bom dia! \nSabe informar se tem como desenvolver um atalho para manter a tela do iPhone ligada sem precisar recorrer aos ajustes? \nPor vezes estou editando textos no app do notas e antes tenho que percorrer esse caminho do ajustes > tela e brilho > bloqueio autom\u00e1tico > nunca. \n\nUm atalho cairia bem, com apenas um clique eu conseguiria ativar e desativavar a fun\u00e7\u00e3o bloquear nunca rs. \n\nGrato pela aten\u00e7\u00e3o.",
+        "authorDisplayName": "Rafael Trindade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTS00bmwnVk_SStNPyN4SEVIlrhWdT8cVA-fX8tvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgqA2R3XnXwBJHNKDovWgJg",
+        "authorChannelId": {
+          "value": "UCgqA2R3XnXwBJHNKDovWgJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-20T13:11:06Z",
+        "updatedAt": "2021-04-20T13:15:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kyRWcZENoBuJpGrRYvJXHSHtxz0",
+      "id": "UgyAQynMESouOQPmGVp4AaABAg.9MMP5PBYveG9MNAfp3ZXH3",
+      "snippet": {
+        "textDisplay": "@AppleBoy , agradecido!\ud83d\udc4d\ud83c\udffc",
+        "textOriginal": "@AppleBoy , agradecido!\ud83d\udc4d\ud83c\udffc",
+        "parentId": "UgyAQynMESouOQPmGVp4AaABAg",
+        "authorDisplayName": "Rafael Trindade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTS00bmwnVk_SStNPyN4SEVIlrhWdT8cVA-fX8tvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgqA2R3XnXwBJHNKDovWgJg",
+        "authorChannelId": {
+          "value": "UCgqA2R3XnXwBJHNKDovWgJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-20T20:24:23Z",
+        "updatedAt": "2021-04-20T20:24:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "fKpNCXfQxOuwxKTGDu_0tWwdDWY",
+      "id": "UgyAQynMESouOQPmGVp4AaABAg.9MMP5PBYveG9MN8CUJ1C5g",
+      "snippet": {
+        "textDisplay": "Ah sim, vc queria ativar e desativar n\u00e9. Pelo que sei ainda n\u00e3o \u00e9 poss\u00edvel. Mas deixa desativado mesmo. Eu sempre deixo e aperto no bot\u00e3o para bloquear",
+        "textOriginal": "Ah sim, vc queria ativar e desativar n\u00e9. Pelo que sei ainda n\u00e3o \u00e9 poss\u00edvel. Mas deixa desativado mesmo. Eu sempre deixo e aperto no bot\u00e3o para bloquear",
+        "parentId": "UgyAQynMESouOQPmGVp4AaABAg",
+        "authorDisplayName": "AppleBoy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C3O3quSfQO9vLUPMWyXmYV6m-lDbFocITEvxEzM4NU2ucWhBjjpT0mFyfjMMqxNXeCa08R95Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO7nyM83Z5cm-WRPmCVgxKA",
+        "authorChannelId": {
+          "value": "UCO7nyM83Z5cm-WRPmCVgxKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-20T20:02:46Z",
+        "updatedAt": "2021-04-20T20:02:46Z"
+      }
+    }
+  ]
+}

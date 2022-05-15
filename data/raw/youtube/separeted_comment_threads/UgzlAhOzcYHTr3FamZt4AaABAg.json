@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GXXYlQnIbMA4mNhiTcdXQXjZ6w0",
+  "id": "UgzlAhOzcYHTr3FamZt4AaABAg",
+  "snippet": {
+    "videoId": "39bdRFL-rVM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HZn36m73FiLtOP6bzemIu8xnG24",
+      "id": "UgzlAhOzcYHTr3FamZt4AaABAg",
+      "snippet": {
+        "videoId": "39bdRFL-rVM",
+        "textDisplay": "Linda,guerreira.Que Deus te de muita for\u00e7a.",
+        "textOriginal": "Linda,guerreira.Que Deus te de muita for\u00e7a.",
+        "authorDisplayName": "Nat\u00e1lia Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/SQEgHfSyQAGwUGTbODucANqgB00JbADS4rFFhQlcyyJd-A4d6UUs8JaHmewGG2L1_us-cWrn8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_8N5n8Ef-qch6xsp3kr1aQ",
+        "authorChannelId": {
+          "value": "UC_8N5n8Ef-qch6xsp3kr1aQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-21T09:50:10Z",
+        "updatedAt": "2021-04-21T09:50:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IRjANKbzmU6p6lirv6bU3z3FLR8",
+      "id": "UgzlAhOzcYHTr3FamZt4AaABAg.9MObtYIGlL39MlRXYtOk4m",
+      "snippet": {
+        "textDisplay": "Muito obrigada!",
+        "textOriginal": "Muito obrigada!",
+        "parentId": "UgzlAhOzcYHTr3FamZt4AaABAg",
+        "authorDisplayName": "Mila Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQrWAL5EJTXMEbqOnaXz8w7ENE-e09XRr5c2b3s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUTuP-ciRCmy-HEw9GQhxRw",
+        "authorChannelId": {
+          "value": "UCUTuP-ciRCmy-HEw9GQhxRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-30T15:52:41Z",
+        "updatedAt": "2021-04-30T15:52:41Z"
+      }
+    }
+  ]
+}

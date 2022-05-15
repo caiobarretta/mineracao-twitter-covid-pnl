@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j3F6A5JYzosQpXhgrAnK6V3kuZ0",
+  "id": "UgxVzhXcbDU8-x4Qfdx4AaABAg",
+  "snippet": {
+    "videoId": "B5Y1XvVBoas",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "moJfEX11dk6hoQpvpRZa3rOtD24",
+      "id": "UgxVzhXcbDU8-x4Qfdx4AaABAg",
+      "snippet": {
+        "videoId": "B5Y1XvVBoas",
+        "textDisplay": "Continuo de PFF2!!",
+        "textOriginal": "Continuo de PFF2!!",
+        "authorDisplayName": "Loryen Zeytin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSS-LXKX19nfjQXAD6jsgrlVmXhTIdZafrcuVE8Tw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL7G5GF3chE3uD-Oz_-CTIg",
+        "authorChannelId": {
+          "value": "UCL7G5GF3chE3uD-Oz_-CTIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-18T14:19:06Z",
+        "updatedAt": "2022-04-18T14:19:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lz5RurKC3IQV5_QLCwRjaU24st8",
+      "id": "UgxVzhXcbDU8-x4Qfdx4AaABAg.9_yDR-Xc8FM9a2g1nIwwSL",
+      "snippet": {
+        "textDisplay": "@Katia Mendes \ud83d\ude09",
+        "textOriginal": "@Katia Mendes \ud83d\ude09",
+        "parentId": "UgxVzhXcbDU8-x4Qfdx4AaABAg",
+        "authorDisplayName": "Loryen Zeytin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSS-LXKX19nfjQXAD6jsgrlVmXhTIdZafrcuVE8Tw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL7G5GF3chE3uD-Oz_-CTIg",
+        "authorChannelId": {
+          "value": "UCL7G5GF3chE3uD-Oz_-CTIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-20T17:14:00Z",
+        "updatedAt": "2022-04-20T17:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Pyxrb1raVB_nS2xhi6SeAYxUNTw",
+      "id": "UgxVzhXcbDU8-x4Qfdx4AaABAg.9_yDR-Xc8FM9a2a5I-e9_8",
+      "snippet": {
+        "textDisplay": "Eu idem.\ud83d\ude4c",
+        "textOriginal": "Eu idem.\ud83d\ude4c",
+        "parentId": "UgxVzhXcbDU8-x4Qfdx4AaABAg",
+        "authorDisplayName": "Katia Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ97KI3fT3lzChRbWE29xIuBpswquPZGPeriry8uQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKxbIzzXKSlZJOOJs_ag-Cg",
+        "authorChannelId": {
+          "value": "UCKxbIzzXKSlZJOOJs_ag-Cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-20T16:22:03Z",
+        "updatedAt": "2022-04-20T16:22:03Z"
+      }
+    }
+  ]
+}

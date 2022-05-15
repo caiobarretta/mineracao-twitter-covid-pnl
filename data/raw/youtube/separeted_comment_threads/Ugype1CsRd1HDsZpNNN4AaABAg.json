@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mJKj8wfemw7ItO_lxVkPsDo6HhI",
+  "id": "Ugype1CsRd1HDsZpNNN4AaABAg",
+  "snippet": {
+    "videoId": "jjUzW75LAfc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rhgmxdldQetjX680cLz_FNYWn1U",
+      "id": "Ugype1CsRd1HDsZpNNN4AaABAg",
+      "snippet": {
+        "videoId": "jjUzW75LAfc",
+        "textDisplay": "Me ha encantado la explicacion , muchas gracias",
+        "textOriginal": "Me ha encantado la explicacion , muchas gracias",
+        "authorDisplayName": "Victoriano ZURITA PRIETO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4IK0MbkAaPSsSMUZ0VwssD6PHAIb1DjYiFPX13A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxpnOIoAi6f8LKkuhEbXXNA",
+        "authorChannelId": {
+          "value": "UCxpnOIoAi6f8LKkuhEbXXNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-25T17:22:26Z",
+        "updatedAt": "2021-03-25T17:22:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W7lwBfse9edK_q04eiZvAiKHjZc",
+      "id": "Ugype1CsRd1HDsZpNNN4AaABAg.9LJuBNdLzG29LOqNT_qEQ2",
+      "snippet": {
+        "textDisplay": "Gracias por tu comentario! Un abrazo y a cuidarse",
+        "textOriginal": "Gracias por tu comentario! Un abrazo y a cuidarse",
+        "parentId": "Ugype1CsRd1HDsZpNNN4AaABAg",
+        "authorDisplayName": "Medicina Encapsulada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxAzCEs9BueCnIH1vdz02Qt5--R35dJ-lH2YMNuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1TisNYu-CsgSfIDbA2opGw",
+        "authorChannelId": {
+          "value": "UC1TisNYu-CsgSfIDbA2opGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-27T15:25:19Z",
+        "updatedAt": "2021-03-27T15:25:19Z"
+      }
+    }
+  ]
+}

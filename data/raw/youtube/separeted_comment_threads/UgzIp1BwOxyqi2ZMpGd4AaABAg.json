@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "D6Q7FwouDHi2ay-2eBPHp6bJkqc",
+  "id": "UgzIp1BwOxyqi2ZMpGd4AaABAg",
+  "snippet": {
+    "videoId": "zQB6tHj7ndI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VsUn8jvBvBx7fxGv1OHx8DKgMnE",
+      "id": "UgzIp1BwOxyqi2ZMpGd4AaABAg",
+      "snippet": {
+        "videoId": "zQB6tHj7ndI",
+        "textDisplay": "FIZ TODOS OS PROCEDIMENTOS MAS O MEU LDE AZUL N\u00c3O EST\u00c1 ASCENDENDO",
+        "textOriginal": "FIZ TODOS OS PROCEDIMENTOS MAS O MEU LDE AZUL N\u00c3O EST\u00c1 ASCENDENDO",
+        "authorDisplayName": "mozart bezerra de sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpoef_w6hgOf89XtNY3HRVlVk5P_9X1Oj-1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3cd5DLTeOfHHoDzMxRqcCA",
+        "authorChannelId": {
+          "value": "UC3cd5DLTeOfHHoDzMxRqcCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-11T15:40:28Z",
+        "updatedAt": "2021-06-11T15:40:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jhAgeExJ5qxIKpM3NRLLvzOopdk",
+      "id": "UgzIp1BwOxyqi2ZMpGd4AaABAg.9OSZWo4r8cS9OVEgQ6NwDO",
+      "snippet": {
+        "textDisplay": "#mozart bezerra de sousa boa tarde! Verifique se o led da sua placa est\u00e1 ligado na mesma porta que estamos utilizando no v\u00eddeo! Algumas placas utilizam uma outra porta (ocorreu com um aluno). Abra\u00e7os...",
+        "textOriginal": "#mozart bezerra de sousa boa tarde! Verifique se o led da sua placa est\u00e1 ligado na mesma porta que estamos utilizando no v\u00eddeo! Algumas placas utilizam uma outra porta (ocorreu com um aluno). Abra\u00e7os...",
+        "parentId": "UgzIp1BwOxyqi2ZMpGd4AaABAg",
+        "authorDisplayName": "Professor Marcos Carnevali",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFgu3khdwtHmNwQUgB2CqfslDjq7TuXxoxnyeCLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqBTN-ncv560paNjdXaivxg",
+        "authorChannelId": {
+          "value": "UCqBTN-ncv560paNjdXaivxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-12T16:36:07Z",
+        "updatedAt": "2021-06-12T16:36:07Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "b_ziaM04odCpiBbtPvlKzZwsNlk",
+  "id": "UgyC7CTzQALpjLqwnCd4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3yulebJNWcyvzM_PUSgtfhTM7Vc",
+      "id": "UgyC7CTzQALpjLqwnCd4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Parab\u00e9ns pelo v\u00eddeo, muito bom!",
+        "textOriginal": "Parab\u00e9ns pelo v\u00eddeo, muito bom!",
+        "authorDisplayName": "Ana Beatriz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8QXr2FIviLJP6jTbFzzw0EEN-yi6NWnuZUeYaeQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTrHERzBV54ogeL0Cq9S4Tw",
+        "authorChannelId": {
+          "value": "UCTrHERzBV54ogeL0Cq9S4Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-05-25T19:02:34Z",
+        "updatedAt": "2021-05-25T19:02:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rPjz26DiNAj7KceJ-dDOMdFtZRE",
+      "id": "UgyC7CTzQALpjLqwnCd4AaABAg.9Nm98BUFch-9NmimeU3NMJ",
+      "snippet": {
+        "textDisplay": "Muito obrigada \ud83d\ude0a",
+        "textOriginal": "Muito obrigada \ud83d\ude0a",
+        "parentId": "UgyC7CTzQALpjLqwnCd4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-26T00:22:48Z",
+        "updatedAt": "2021-05-26T00:22:48Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SKtdLPqjUn-iMAmtEvbQVzs12EE",
+  "id": "UgyvFIU5b3SgaVu2sVZ4AaABAg",
+  "snippet": {
+    "videoId": "EU4hE2PU2-k",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zS0BV6FLfJlETq1FoivwA-zBYgc",
+      "id": "UgyvFIU5b3SgaVu2sVZ4AaABAg",
+      "snippet": {
+        "videoId": "EU4hE2PU2-k",
+        "textDisplay": "CARA, SUA INTELIGENCIA E NATA, atue no campo  da pesquisa e vai longe. Obrigada",
+        "textOriginal": "CARA, SUA INTELIGENCIA E NATA, atue no campo  da pesquisa e vai longe. Obrigada",
+        "authorDisplayName": "Ana Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vp1r895KozO3XlihPCiDaNqyLZNQZxsFz9v9AMEffQ4CcuuNZLdu69n7AFvloLDIzqNzHyKh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgMrYJl1umOU1eRk4LLbj4Q",
+        "authorChannelId": {
+          "value": "UCgMrYJl1umOU1eRk4LLbj4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-01-29T15:00:16Z",
+        "updatedAt": "2021-01-29T15:13:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fwWNtd6oJnK_FK-pDbztv--HZWE",
+      "id": "UgyvFIU5b3SgaVu2sVZ4AaABAg.9J61C2-AxcL9K4jCbawWGg",
+      "snippet": {
+        "textDisplay": "Deixa comigo! Obrigado!!!",
+        "textOriginal": "Deixa comigo! Obrigado!!!",
+        "parentId": "UgyvFIU5b3SgaVu2sVZ4AaABAg",
+        "authorDisplayName": "Fisio Matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTu6nytZmvtVD_KHiZjAhURqNRW0MiGr1Gi38R4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBZ19PHnOZ-sv2Nz6okEQAw",
+        "authorChannelId": {
+          "value": "UCBZ19PHnOZ-sv2Nz6okEQAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-22T23:26:28Z",
+        "updatedAt": "2021-02-22T23:26:28Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oQmPbVxmoAl0VyMD9tFVfOcd1yo",
+  "id": "UgzCzCTXIUh26xYsdr94AaABAg",
+  "snippet": {
+    "videoId": "q9f98UCCLk8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BMYWBOonI0gWqbV0rLMAcTOT9nY",
+      "id": "UgzCzCTXIUh26xYsdr94AaABAg",
+      "snippet": {
+        "videoId": "q9f98UCCLk8",
+        "textDisplay": "\ud83d\ude31\ud83d\ude31\ud83d\ude31",
+        "textOriginal": "\ud83d\ude31\ud83d\ude31\ud83d\ude31",
+        "authorDisplayName": "Pietra Tabosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTqi0yBBLQ8ykzra65mS4GIyRqIeBiqa_LkrCmr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeWTChpsPaRtw6rMM8eRpZw",
+        "authorChannelId": {
+          "value": "UCeWTChpsPaRtw6rMM8eRpZw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-21T18:21:34Z",
+        "updatedAt": "2020-03-21T18:21:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3eSTL4p3DrCTGKraSENTnGnJA0M",
+      "id": "UgzCzCTXIUh26xYsdr94AaABAg.96Trce_LLch96TsuOqurWs",
+      "snippet": {
+        "textDisplay": "Tudo vai passar filha. Deus no Comando \ud83d\ude4c\ud83c\udffe\ud83d\udd25!!!!!!!",
+        "textOriginal": "Tudo vai passar filha. Deus no Comando \ud83d\ude4c\ud83c\udffe\ud83d\udd25!!!!!!!",
+        "parentId": "UgzCzCTXIUh26xYsdr94AaABAg",
+        "authorDisplayName": "Marcio Tabosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS63Cxxe9PBbh_Lmv1sLft0DWgcLUmCHKrDe9bfyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWgfG3-TJY_zT9epRNHN1XQ",
+        "authorChannelId": {
+          "value": "UCWgfG3-TJY_zT9epRNHN1XQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-21T18:32:43Z",
+        "updatedAt": "2020-03-21T18:32:43Z"
+      }
+    }
+  ]
+}

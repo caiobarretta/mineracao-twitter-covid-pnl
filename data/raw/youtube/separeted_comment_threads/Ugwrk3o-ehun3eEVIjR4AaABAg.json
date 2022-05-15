@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5mkrfTao-y_cBhRue8bY3pznNeI",
+  "id": "Ugwrk3o-ehun3eEVIjR4AaABAg",
+  "snippet": {
+    "videoId": "vGN5pBDaAaQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xrHhaNgUYq5I7EO28TdyfyIRz78",
+      "id": "Ugwrk3o-ehun3eEVIjR4AaABAg",
+      "snippet": {
+        "videoId": "vGN5pBDaAaQ",
+        "textDisplay": "Nota 10.",
+        "textOriginal": "Nota 10.",
+        "authorDisplayName": "Wilkinson Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEzNX8N-Fxt5kQQAyCL24hmjiXX6MDDuCR0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKJXUHigg445hSU_h5By12Q",
+        "authorChannelId": {
+          "value": "UCKJXUHigg445hSU_h5By12Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-27T19:57:45Z",
+        "updatedAt": "2022-02-27T19:57:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zClH9ZYfebcLx3E9atPBOGdWp8w",
+      "id": "Ugwrk3o-ehun3eEVIjR4AaABAg.9Yy4RcTib5X9YyjhQlG6QD",
+      "snippet": {
+        "textDisplay": "Essa \u00e9 a nota dos alunos ENFrente \u2764\ufe0f\ud83d\ude03",
+        "textOriginal": "Essa \u00e9 a nota dos alunos ENFrente \u2764\ufe0f\ud83d\ude03",
+        "parentId": "Ugwrk3o-ehun3eEVIjR4AaABAg",
+        "authorDisplayName": "ENFrente Enfermagem Continuada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlKDTNrBzl3C7yw9WRaCY1bt9yuSVricT5fl7BvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD9kk0EUEtflrRl6TV0lDyA",
+        "authorChannelId": {
+          "value": "UCD9kk0EUEtflrRl6TV0lDyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-28T02:07:02Z",
+        "updatedAt": "2022-02-28T02:07:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Fm-V5_KOmRiS5iMPbtt9RiUou24",
+  "id": "UgyxMpvUlnAsMhMi-BJ4AaABAg",
+  "snippet": {
+    "videoId": "jjUzW75LAfc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "82ITAJ96mpx6sRnMGMTt98isLk0",
+      "id": "UgyxMpvUlnAsMhMi-BJ4AaABAg",
+      "snippet": {
+        "videoId": "jjUzW75LAfc",
+        "textDisplay": "Buen video, la informaci\u00f3n de este est\u00e1 en alg\u00fan art\u00edculo, me gustar\u00eda leerlo. Gracias",
+        "textOriginal": "Buen video, la informaci\u00f3n de este est\u00e1 en alg\u00fan art\u00edculo, me gustar\u00eda leerlo. Gracias",
+        "authorDisplayName": "Gerardo Delgado Calizaya",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgu_6Q_jvniWMkpKAHQfXS9KybufavxD3GBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp5lrW0EhOU1EKoqpQniLKA",
+        "authorChannelId": {
+          "value": "UCp5lrW0EhOU1EKoqpQniLKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T04:30:07Z",
+        "updatedAt": "2020-06-03T04:30:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QjDkeSBncnbmT3TH1oc7o1iNB3g",
+      "id": "UgyxMpvUlnAsMhMi-BJ4AaABAg.99QvIhbJIlo9HAc2qHXuAz",
+      "snippet": {
+        "textDisplay": "puedes leer el libro de microbiolog\u00eda de Jawetz, capitulo de coronavirus, todos son de la misma familia y tiene similar ciclo de replicaci\u00f3n",
+        "textOriginal": "puedes leer el libro de microbiolog\u00eda de Jawetz, capitulo de coronavirus, todos son de la misma familia y tiene similar ciclo de replicaci\u00f3n",
+        "parentId": "UgyxMpvUlnAsMhMi-BJ4AaABAg",
+        "authorDisplayName": "Milagros Salda\u00f1a celis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoTJ2m2X5f2o2_1J2vEhC0_IArP-60Abl9hg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdECII1HVpGdvVNQpUEKHBA",
+        "authorChannelId": {
+          "value": "UCdECII1HVpGdvVNQpUEKHBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-12T16:45:14Z",
+        "updatedAt": "2020-12-12T16:45:14Z"
+      }
+    }
+  ]
+}

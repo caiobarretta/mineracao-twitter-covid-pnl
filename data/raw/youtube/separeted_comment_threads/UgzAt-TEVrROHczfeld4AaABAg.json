@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MmOfDdzkTXoH0NuuJh9hH0bOio4",
+  "id": "UgzAt-TEVrROHczfeld4AaABAg",
+  "snippet": {
+    "videoId": "v5mWi85Gh5U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4uJ8Ofzz1UTcDh6hIJa2MwuoCF0",
+      "id": "UgzAt-TEVrROHczfeld4AaABAg",
+      "snippet": {
+        "videoId": "v5mWi85Gh5U",
+        "textDisplay": "Lula ta vindo pessoal. Nossa Salva\u00e7\u00e3o.",
+        "textOriginal": "Lula ta vindo pessoal. Nossa Salva\u00e7\u00e3o.",
+        "authorDisplayName": "Gui Guiii",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIWgwUE_MJHjH1_20dboJFMhhVd2G25G6XdA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCleRwETnaLBJnlG9jciOgDQ",
+        "authorChannelId": {
+          "value": "UCleRwETnaLBJnlG9jciOgDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T12:31:11Z",
+        "updatedAt": "2022-01-17T12:31:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ln2qQVkWAhRPG019heOvqrlG890",
+      "id": "UgzAt-TEVrROHczfeld4AaABAg.9XIhjyoX7uZ9XIr4GJHmoZ",
+      "snippet": {
+        "textDisplay": "Que loucura.",
+        "textOriginal": "Que loucura.",
+        "parentId": "UgzAt-TEVrROHczfeld4AaABAg",
+        "authorDisplayName": "Francisco Nunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpf-GJ4eto0YJY1xXGDStjG4EJQAtacuLe1YrvJdvzJZfiTxaakS3El7Hh0HW-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGcsbiNNR-nWD-VW6yNl3-A",
+        "authorChannelId": {
+          "value": "UCGcsbiNNR-nWD-VW6yNl3-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T13:52:44Z",
+        "updatedAt": "2022-01-17T13:52:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "tUV8aH0gmsa6srhJwyhl7yF3X7g",
+      "id": "UgzAt-TEVrROHczfeld4AaABAg.9XIhjyoX7uZ9XIoSKqdHLH",
+      "snippet": {
+        "textDisplay": "Cruzes",
+        "textOriginal": "Cruzes",
+        "parentId": "UgzAt-TEVrROHczfeld4AaABAg",
+        "authorDisplayName": "Elo\u00e1 Guimar\u00e3es",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCPDfW06M3P1-sfQG4YgKGfnQSeVxYy6saCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFd26UDcZbcKYO9FiZJ-sQQ",
+        "authorChannelId": {
+          "value": "UCFd26UDcZbcKYO9FiZJ-sQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T13:29:48Z",
+        "updatedAt": "2022-01-17T13:29:48Z"
+      }
+    }
+  ]
+}

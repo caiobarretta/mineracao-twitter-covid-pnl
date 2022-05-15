@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "s5y-9ZGXP_CIfRQZj-m9Im4Oqj8",
+  "id": "UgjN7Cf4o66UHngCoAEC",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "beM3Ewg1_KQIwJP63riqKgrL7J8",
+      "id": "UgjN7Cf4o66UHngCoAEC",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "hello sir, i have tried the same code using my objects, when the code is done and when it is seen in editor the balloon is going upwards as soon as i launch the scene. i have tried with different values but no difference.i even set gravity, yet it did not work.",
+        "textOriginal": "hello sir, i have tried the same code using my objects, when the code is done and when it is seen in editor the balloon is going upwards as soon as i launch the scene. i have tried with different values but no difference.i even set gravity, yet it did not work.",
+        "authorDisplayName": "Jai Prakash Netha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTUO_ny27be694Ne_pYe1Bo2Kzi9H92lUbmeo1Kdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL0j5FsMxw5nnJTXIcLiXpw",
+        "authorChannelId": {
+          "value": "UCL0j5FsMxw5nnJTXIcLiXpw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-08-25T17:51:41Z",
+        "updatedAt": "2016-08-25T17:51:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mFRAo7_Fpd5-MuD9weGrRP09BCY",
+      "id": "UgjN7Cf4o66UHngCoAEC.8I06clFnkpI8I2YQKJzqM4",
+      "snippet": {
+        "textDisplay": "Hi Jai, \nIt's hard to help without seeing your code.  The full code list with a download is available on the Corona Labs website.  I have added the link in the video notes above.",
+        "textOriginal": "Hi Jai, \nIt's hard to help without seeing your code.  The full code list with a download is available on the Corona Labs website.  I have added the link in the video notes above.",
+        "parentId": "UgjN7Cf4o66UHngCoAEC",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-08-26T16:32:59Z",
+        "updatedAt": "2016-08-26T16:32:59Z"
+      }
+    }
+  ]
+}

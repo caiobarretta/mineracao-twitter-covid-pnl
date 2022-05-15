@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k81C-STQBpV2eCT0rFPX7m6LUsA",
+  "id": "UgxlL7soo9-wOqjGWDx4AaABAg",
+  "snippet": {
+    "videoId": "TdS2JCvS3TU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cJAbjr1L6xulw3CXreCcyXgtbbo",
+      "id": "UgxlL7soo9-wOqjGWDx4AaABAg",
+      "snippet": {
+        "videoId": "TdS2JCvS3TU",
+        "textDisplay": "Eu s\u00f3 tenho uma d\u00favida acho q Sammy dama n\u00e3o penteia esse cabelo",
+        "textOriginal": "Eu s\u00f3 tenho uma d\u00favida acho q Sammy dama n\u00e3o penteia esse cabelo",
+        "authorDisplayName": "Joanzinho de paula",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7i_BpxEHQKcKPrydEwM89KjrO2V5x6Am660UmxgSBdDZ-opWdzpT5bv_FeAqgNQQS5N6iTwqdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi4TojK-AagurY0KAyGHvFQ",
+        "authorChannelId": {
+          "value": "UCi4TojK-AagurY0KAyGHvFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-09T12:40:56Z",
+        "updatedAt": "2022-05-09T12:40:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "orUcpMPvUrer_W2zUnDXdpGtsQA",
+      "id": "UgxlL7soo9-wOqjGWDx4AaABAg.9ao6tO3G8uw9aoQPjXyRY-",
+      "snippet": {
+        "textDisplay": "Eu percebi que ele n\u00e3o gosta de gel.",
+        "textOriginal": "Eu percebi que ele n\u00e3o gosta de gel.",
+        "parentId": "UgxlL7soo9-wOqjGWDx4AaABAg",
+        "authorDisplayName": "And Saintrois",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2-xZh02mw1reuMU_RnkHiUkNerOXFCBEIg3RVow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVZc6HdD6WFjQfq0VQwSiHw",
+        "authorChannelId": {
+          "value": "UCVZc6HdD6WFjQfq0VQwSiHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T15:31:30Z",
+        "updatedAt": "2022-05-09T15:31:30Z"
+      }
+    }
+  ]
+}

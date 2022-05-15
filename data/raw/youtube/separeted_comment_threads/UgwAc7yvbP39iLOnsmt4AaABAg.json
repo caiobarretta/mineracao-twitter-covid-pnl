@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UwNcDkGMpvOoPV22xSdm4NaIYzs",
+  "id": "UgwAc7yvbP39iLOnsmt4AaABAg",
+  "snippet": {
+    "videoId": "B19aYHVDkfE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6zreDk4a8a3TJNbnT1QRBOe04PA",
+      "id": "UgwAc7yvbP39iLOnsmt4AaABAg",
+      "snippet": {
+        "videoId": "B19aYHVDkfE",
+        "textDisplay": "S\u00f3 n\u00e3o entendi o m\u00fasica de capoeira ao fundo",
+        "textOriginal": "S\u00f3 n\u00e3o entendi o m\u00fasica de capoeira ao fundo",
+        "authorDisplayName": "francion alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3r52Qdjy5v59RY9e7uY5mcFjgtQerq_fcNg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvnrUfIxNfFoUsRWNPdGOGw",
+        "authorChannelId": {
+          "value": "UCvnrUfIxNfFoUsRWNPdGOGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-29T17:25:55Z",
+        "updatedAt": "2021-04-29T17:25:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uNPp1oFa0qooeUXfHrhE_RnD8hs",
+      "id": "UgwAc7yvbP39iLOnsmt4AaABAg.9Mj1PY7w-xY9Mj3TcQB6QX",
+      "snippet": {
+        "textDisplay": "Voc\u00ea conhece a capoeira ? sabe como nasceu ? Faz parte da cultura de nosso pais, alem de ser musicalmente poderosa e maravilhosamente energ\u00e9tica. Procure saber, com certeza vai gostar :)",
+        "textOriginal": "Voc\u00ea conhece a capoeira ? sabe como nasceu ? Faz parte da cultura de nosso pais, alem de ser musicalmente poderosa e maravilhosamente energ\u00e9tica. Procure saber, com certeza vai gostar :)",
+        "parentId": "UgwAc7yvbP39iLOnsmt4AaABAg",
+        "authorDisplayName": "Metr\u00f4 - Virginie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4dXtduiGpkrZ1RrLqpbcMBB2j_vg7ybrLz-dVOk4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIzNsY9dPR0xDsUDDc9hMUw",
+        "authorChannelId": {
+          "value": "UCIzNsY9dPR0xDsUDDc9hMUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-29T17:43:57Z",
+        "updatedAt": "2021-04-29T17:43:57Z"
+      }
+    }
+  ]
+}

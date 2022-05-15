@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BNbAbmWHfNPqU-VeKCaJDv_65Xk",
+  "id": "Ugw2Kn0CfqzapdC05L94AaABAg",
+  "snippet": {
+    "videoId": "XYHD8ewbIEY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Abdtw40HhMYF1AIZXsVsbWJ7c9Q",
+      "id": "Ugw2Kn0CfqzapdC05L94AaABAg",
+      "snippet": {
+        "videoId": "XYHD8ewbIEY",
+        "textDisplay": "\u00c9 boa , mas a adventure \u00e9 bruta demais hahaha",
+        "textOriginal": "\u00c9 boa , mas a adventure \u00e9 bruta demais hahaha",
+        "authorDisplayName": "Gabriel Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSUYFBlF4m-oQDCnDIMpdffxT4RGM6BsgpuSMoO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCo0c4bvKsjGjQL4-1uGd8vg",
+        "authorChannelId": {
+          "value": "UCo0c4bvKsjGjQL4-1uGd8vg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-12T03:26:59Z",
+        "updatedAt": "2022-05-12T03:26:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1kjpGEtGaLlelkagLU5KhWQvSwI",
+      "id": "Ugw2Kn0CfqzapdC05L94AaABAg.9auqspAZgpn9aurE1MQyzC",
+      "snippet": {
+        "textDisplay": "Ningu\u00e9m supera ela kkk",
+        "textOriginal": "Ningu\u00e9m supera ela kkk",
+        "parentId": "Ugw2Kn0CfqzapdC05L94AaABAg",
+        "authorDisplayName": "Piloto Sovi\u00e9tico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/pK7N2fVRc66qAu-_eTf5Q3m1Ok1iz6hTUzxpOz2lsmmUJZ40d9qD19RsD3mzxFBKThp5wv75qQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCseHxtdLT16LSQWFA9sRr7A",
+        "authorChannelId": {
+          "value": "UCseHxtdLT16LSQWFA9sRr7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-12T03:30:01Z",
+        "updatedAt": "2022-05-12T03:30:01Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EVk_Q4pfVb_Csf__esqjuZdYyfo",
+  "id": "UgzP6LZYHrGUAlH01Jh4AaABAg",
+  "snippet": {
+    "videoId": "FK8ePEuRIQM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2tlCIWBIKlQlTza4ro8qrrr1v8o",
+      "id": "UgzP6LZYHrGUAlH01Jh4AaABAg",
+      "snippet": {
+        "videoId": "FK8ePEuRIQM",
+        "textDisplay": "Vou continuar usando m\u00e1scara e tomando todos cuidados \ud83d\udc89\ud83d\ude37",
+        "textOriginal": "Vou continuar usando m\u00e1scara e tomando todos cuidados \ud83d\udc89\ud83d\ude37",
+        "authorDisplayName": "Fghhvc Fgvc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9Pn930o7Yuhu8VsTkQFrWp0yeSH5m2SD89A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMMNOqXnHOwNta_SXvLeBPw",
+        "authorChannelId": {
+          "value": "UCMMNOqXnHOwNta_SXvLeBPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2021-10-15T00:42:15Z",
+        "updatedAt": "2021-10-15T00:42:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VrJkuz_IkrXKdhcLrpAt2p8TMKg",
+      "id": "UgzP6LZYHrGUAlH01Jh4AaABAg.9TVOtNUtFxa9TsmF7njVvL",
+      "snippet": {
+        "textDisplay": "Eu tbm",
+        "textOriginal": "Eu tbm",
+        "parentId": "UgzP6LZYHrGUAlH01Jh4AaABAg",
+        "authorDisplayName": "Lunai Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QXwdkh9gSID60YbPlfzsBjOenp2zNNzLkI00yyyJfVTy06TfCfO3XXOw-FfNVWk0ChrpGHaB-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCczNpZuScnpuC8YNr7-rRiw",
+        "authorChannelId": {
+          "value": "UCczNpZuScnpuC8YNr7-rRiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-24T11:56:51Z",
+        "updatedAt": "2021-10-24T11:56:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "IP9Nz_sYUd9qTzg3gFdgWGL9LJY",
+      "id": "UgzP6LZYHrGUAlH01Jh4AaABAg.9TVOtNUtFxa9TXICc0t3Yk",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m.",
+        "textOriginal": "Tamb\u00e9m.",
+        "parentId": "UgzP6LZYHrGUAlH01Jh4AaABAg",
+        "authorDisplayName": "Simone Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gcdFPTDX6KRsW9jvtZt9LT1EjwnxCA_f2vy7K49lx6znD1nP8Vl-6tJdQBwPeXLt6cttAsi2TaI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPNVmeeH7Sgo-XwgC3ExswQ",
+        "authorChannelId": {
+          "value": "UCPNVmeeH7Sgo-XwgC3ExswQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-15T18:22:20Z",
+        "updatedAt": "2021-10-15T18:22:20Z"
+      }
+    }
+  ]
+}

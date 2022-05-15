@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6sScVxTWNGIbRH55EAuzQzwimEo",
+  "id": "Ugxo6NFx_a3tsjyBI994AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3iL42owg0pYjsU5VX8lbRyUFpuw",
+      "id": "Ugxo6NFx_a3tsjyBI994AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "Algu\u00e9m c\u00f4nego Bernardo?",
+        "textOriginal": "Algu\u00e9m c\u00f4nego Bernardo?",
+        "authorDisplayName": "Nicollas Breno Macena F. da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBoskxOx8dAvuSYBIknhdQSE449AKjs_dszOvrgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqhxUxQZs2Ql7g0ovmz3GmQ",
+        "authorChannelId": {
+          "value": "UCqhxUxQZs2Ql7g0ovmz3GmQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-01T22:39:48Z",
+        "updatedAt": "2020-04-01T22:39:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zPAXfZhtF1fO9awx1iv76gGhUmw",
+      "id": "Ugxo6NFx_a3tsjyBI994AaABAg.96vdvcvSG4J9ANcxwY6XnV",
+      "snippet": {
+        "textDisplay": "eu conheso um",
+        "textOriginal": "eu conheso um",
+        "parentId": "Ugxo6NFx_a3tsjyBI994AaABAg",
+        "authorDisplayName": "Alice Legg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfOzlC1ddExGgvojveBt5uSeLg_d1bOq9z71gbqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYDxs0AOxIWNVXElSL7fJeg",
+        "authorChannelId": {
+          "value": "UCYDxs0AOxIWNVXElSL7fJeg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-26T18:23:32Z",
+        "updatedAt": "2020-06-26T18:23:32Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jYK1C00snl63nOTwrq8-uSSCJLY",
+  "id": "Ugy4NccN5ThxBEAJnGZ4AaABAg",
+  "snippet": {
+    "videoId": "T7yjKvcgmQk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QTvj5vLlP0VW2DnnQrPPBmTisIY",
+      "id": "Ugy4NccN5ThxBEAJnGZ4AaABAg",
+      "snippet": {
+        "videoId": "T7yjKvcgmQk",
+        "textDisplay": "Viva o sus ! Viva a ci\u00eancia!!!!",
+        "textOriginal": "Viva o sus ! Viva a ci\u00eancia!!!!",
+        "authorDisplayName": "M& Adrian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMfA3suckNKa8KWcpTG20Hb7i_JhmCxNDiiC__gpk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy45808PEmqQNqc-KFSOjLg",
+        "authorChannelId": {
+          "value": "UCy45808PEmqQNqc-KFSOjLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-06T22:38:56Z",
+        "updatedAt": "2022-01-06T22:38:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lk6OTwJciMsDosF1kU0XLT6wcNw",
+      "id": "Ugy4NccN5ThxBEAJnGZ4AaABAg.9WsTYek5TOn9XJod-_tzan",
+      "snippet": {
+        "textDisplay": "P&G",
+        "textOriginal": "P&G",
+        "parentId": "Ugy4NccN5ThxBEAJnGZ4AaABAg",
+        "authorDisplayName": "Lincoln Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTXdmODfeUCySV-zCiDMGBbYLQWWfhNtDuPX_2xtDg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfB-UURP2Jmzkbta8lDCBAQ",
+        "authorChannelId": {
+          "value": "UCfB-UURP2Jmzkbta8lDCBAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T22:50:38Z",
+        "updatedAt": "2022-01-17T22:50:38Z"
+      }
+    }
+  ]
+}

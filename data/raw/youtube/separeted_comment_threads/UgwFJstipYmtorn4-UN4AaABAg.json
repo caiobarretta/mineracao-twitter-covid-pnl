@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "t9NYr2AIDs1HItkUQloyZLOD3fI",
+  "id": "UgwFJstipYmtorn4-UN4AaABAg",
+  "snippet": {
+    "videoId": "tcsWEhm0Bcs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "j9Bl9iWTAKDWt7ee-UuMjPUoHtY",
+      "id": "UgwFJstipYmtorn4-UN4AaABAg",
+      "snippet": {
+        "videoId": "tcsWEhm0Bcs",
+        "textDisplay": "Can anyone explain to me, how SARS-CoV-2 replicates in simpler terms? Thank you, please help me, I really need it :)",
+        "textOriginal": "Can anyone explain to me, how SARS-CoV-2 replicates in simpler terms? Thank you, please help me, I really need it :)",
+        "authorDisplayName": "David Salim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2Gc94AqmulhzbT1xGaxSdody_r1Q757Oz63PwjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3osNCj6VK8B7mNrF4s5F1g",
+        "authorChannelId": {
+          "value": "UC3osNCj6VK8B7mNrF4s5F1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-17T10:27:18Z",
+        "updatedAt": "2020-05-17T10:27:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HilGV9iGlQacej7zr1GUP-b4MJU",
+      "id": "UgwFJstipYmtorn4-UN4AaABAg.98kmexIjyzK98oiSAazZYG",
+      "snippet": {
+        "textDisplay": "@Hussain Biology thanks you so much",
+        "textOriginal": "@Hussain Biology thanks you so much",
+        "parentId": "UgwFJstipYmtorn4-UN4AaABAg",
+        "authorDisplayName": "David Salim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2Gc94AqmulhzbT1xGaxSdody_r1Q757Oz63PwjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3osNCj6VK8B7mNrF4s5F1g",
+        "authorChannelId": {
+          "value": "UC3osNCj6VK8B7mNrF4s5F1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-18T23:07:26Z",
+        "updatedAt": "2020-05-18T23:07:26Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "xbfOrRMdrZJ_PgvkBOP-6IXxHzU",
+      "id": "UgwFJstipYmtorn4-UN4AaABAg.98kmexIjyzK98ogHayG_zU",
+      "snippet": {
+        "textDisplay": "SARS COV2 , gets into host cell using its SPIKE proteins to bind our Ace2 receptor proteins on our cells , this marks its entry.\nUpon entry it releases its mRNA and this mRNA is then taken into Ribosomal machinery where it is made to get into Protein Synthesis by using our resources and Translational complexes.\n\nOnce proteins are done , the genomic mRNA is transcribed to make multiple copies so that new virus particles are made.\n\nUltimately mRNA and its proteins assemble making numerous Viruses inside the cell and then the cell bursts releasing these viruses.\u270c\ufe0f",
+        "textOriginal": "SARS COV2 , gets into host cell using its SPIKE proteins to bind our Ace2 receptor proteins on our cells , this marks its entry.\nUpon entry it releases its mRNA and this mRNA is then taken into Ribosomal machinery where it is made to get into Protein Synthesis by using our resources and Translational complexes.\n\nOnce proteins are done , the genomic mRNA is transcribed to make multiple copies so that new virus particles are made.\n\nUltimately mRNA and its proteins assemble making numerous Viruses inside the cell and then the cell bursts releasing these viruses.\u270c\ufe0f",
+        "parentId": "UgwFJstipYmtorn4-UN4AaABAg",
+        "authorDisplayName": "Hussain Biology",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOZVSaTNZb6P_kqviv8NYFf-UE-qWxihDTa3xQkQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDCg5AAslixldHh5D7Nu6-g",
+        "authorChannelId": {
+          "value": "UCDCg5AAslixldHh5D7Nu6-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-18T22:48:31Z",
+        "updatedAt": "2020-05-18T22:48:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nAriZ6Td7UZWmAQMQZa9FX1YE40",
+  "id": "UgxA7Q0vNIWoPoRMy1Z4AaABAg",
+  "snippet": {
+    "videoId": "L5rQ-kNRJNg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rLJiou5qjqv3JcbulwEKlxaVYDQ",
+      "id": "UgxA7Q0vNIWoPoRMy1Z4AaABAg",
+      "snippet": {
+        "videoId": "L5rQ-kNRJNg",
+        "textDisplay": "Tomei  3 doses,a quarta  dose n\u00e3o  irei tomar",
+        "textOriginal": "Tomei  3 doses,a quarta  dose n\u00e3o  irei tomar",
+        "authorDisplayName": "Eliana Anjos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTriqJ7A5MYLF3iDBaIf7R9odFyKBEm9SLVrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrHV0waEXLJcsXnDtaEOOqg",
+        "authorChannelId": {
+          "value": "UCrHV0waEXLJcsXnDtaEOOqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2022-04-01T19:25:09Z",
+        "updatedAt": "2022-04-01T19:25:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ULTsKP7fTwhVfz74TLj_XdMbLhw",
+      "id": "UgxA7Q0vNIWoPoRMy1Z4AaABAg.9_HzwlUkRWI9_IS5AGfxNl",
+      "snippet": {
+        "textDisplay": "Tbem N\u00e3o tomo mais",
+        "textOriginal": "Tbem N\u00e3o tomo mais",
+        "parentId": "UgxA7Q0vNIWoPoRMy1Z4AaABAg",
+        "authorDisplayName": "Mariana Goncalves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxlVqZAjOGYSgABk5Azuw6RuFKcc7oubWX7_c3cPOWiABqFTppwFyyysmZUsW9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Q-qxFpGPhNfpZhHrjNgng",
+        "authorChannelId": {
+          "value": "UC2Q-qxFpGPhNfpZhHrjNgng"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-01T23:39:50Z",
+        "updatedAt": "2022-04-01T23:39:50Z"
+      }
+    }
+  ]
+}

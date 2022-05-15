@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8we1E6xFORn_OU1qxHnqoEcUeyM",
+  "id": "Ugwt48MTKe5qIjyHjeB4AaABAg",
+  "snippet": {
+    "videoId": "STmL5dAOqDI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bWgq_ErTxyJc_djWC7kEQpIbkrA",
+      "id": "Ugwt48MTKe5qIjyHjeB4AaABAg",
+      "snippet": {
+        "videoId": "STmL5dAOqDI",
+        "textDisplay": "E a coriza ? N\u00e3o \u00e9 sintoma ?",
+        "textOriginal": "E a coriza ? N\u00e3o \u00e9 sintoma ?",
+        "authorDisplayName": "Guilherme Coelho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh3MhauKe4Rj_AF84Pe7mjQcz9TIMS_PDDaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9S3nqsjaMhbaDru_tUvOcA",
+        "authorChannelId": {
+          "value": "UC9S3nqsjaMhbaDru_tUvOcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-22T00:53:05Z",
+        "updatedAt": "2020-12-22T00:53:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1w0WT9LdV7-lhVnOM3Q7OKWeRuo",
+      "id": "Ugwt48MTKe5qIjyHjeB4AaABAg.9HYf1r3eL4-9H__Nv2iaAb",
+      "snippet": {
+        "textDisplay": "@Unimed Fortaleza a sim pq at\u00e9 ent\u00e3o ,foi a \u00fanica coisa que eu senti durante 9 dias , obg \u263a\ufe0f",
+        "textOriginal": "@Unimed Fortaleza a sim pq at\u00e9 ent\u00e3o ,foi a \u00fanica coisa que eu senti durante 9 dias , obg \u263a\ufe0f",
+        "parentId": "Ugwt48MTKe5qIjyHjeB4AaABAg",
+        "authorDisplayName": "Guilherme Coelho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh3MhauKe4Rj_AF84Pe7mjQcz9TIMS_PDDaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9S3nqsjaMhbaDru_tUvOcA",
+        "authorChannelId": {
+          "value": "UC9S3nqsjaMhbaDru_tUvOcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-22T18:42:09Z",
+        "updatedAt": "2020-12-22T18:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Ivzrc9CVwQ8SVISKqiWY-nVOyz4",
+      "id": "Ugwt48MTKe5qIjyHjeB4AaABAg.9HYf1r3eL4-9H_UzkG7bDq",
+      "snippet": {
+        "textDisplay": "Oi, Guilherme! A coriza n\u00e3o \u00e9 muito comum nos casos de coronav\u00edrus, mas pode ocorrer.",
+        "textOriginal": "Oi, Guilherme! A coriza n\u00e3o \u00e9 muito comum nos casos de coronav\u00edrus, mas pode ocorrer.",
+        "parentId": "Ugwt48MTKe5qIjyHjeB4AaABAg",
+        "authorDisplayName": "Unimed Fortaleza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2qeRcR_IR6LPCQp57eUSdZfK4pDiXJYd1SMTZuJTZKyEvnS32TQTyTX3BN09JdznRJBPTy9wnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUtDAMp91VCfHTZ9_ypKRPA",
+        "authorChannelId": {
+          "value": "UCUtDAMp91VCfHTZ9_ypKRPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-22T17:55:01Z",
+        "updatedAt": "2020-12-22T17:55:01Z"
+      }
+    }
+  ]
+}

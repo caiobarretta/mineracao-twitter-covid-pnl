@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2zvr4MQXxgIzWrXzfmWMzDmBP2o",
+  "id": "UgzbJayD0wVew48ro9Z4AaABAg",
+  "snippet": {
+    "videoId": "9rxUeo9gWfQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Wyw-IQeQLHhnZYWkYjPFZPHQGGY",
+      "id": "UgzbJayD0wVew48ro9Z4AaABAg",
+      "snippet": {
+        "videoId": "9rxUeo9gWfQ",
+        "textDisplay": "Eu usei e pra mim funcionou bem.",
+        "textOriginal": "Eu usei e pra mim funcionou bem.",
+        "authorDisplayName": "Adriano Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR77zcWu2MHKhWHMFXgYsGNpa2GzG6JCJK_WWoY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVBu_TNad3c0nf5eth8sFw",
+        "authorChannelId": {
+          "value": "UCuVBu_TNad3c0nf5eth8sFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-26T03:01:05Z",
+        "updatedAt": "2022-01-26T03:01:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "g5h-CB2ByGe6wDyxo5Uweol1pY4",
+      "id": "UgzbJayD0wVew48ro9Z4AaABAg.9XdreON82-_9Xfsv6J5WC9",
+      "snippet": {
+        "textDisplay": "Isso \u00e9 loucura",
+        "textOriginal": "Isso \u00e9 loucura",
+        "parentId": "UgzbJayD0wVew48ro9Z4AaABAg",
+        "authorDisplayName": "Adriano Cardoso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR77zcWu2MHKhWHMFXgYsGNpa2GzG6JCJK_WWoY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVBu_TNad3c0nf5eth8sFw",
+        "authorChannelId": {
+          "value": "UCuVBu_TNad3c0nf5eth8sFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-26T21:50:35Z",
+        "updatedAt": "2022-01-26T21:50:35Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "UMjE_LUPDW0uoaAnCnXgJ8zKOjM",
+      "id": "UgzbJayD0wVew48ro9Z4AaABAg.9XdreON82-_9Xe3uEZd-sy",
+      "snippet": {
+        "textDisplay": "Tem gente que bota o copo com \u00e1gua perto da TV pro pastor aben\u00e7oar e acham que funciona. Mas n\u00e3o tem comprova\u00e7\u00e3o cient\u00edfica.",
+        "textOriginal": "Tem gente que bota o copo com \u00e1gua perto da TV pro pastor aben\u00e7oar e acham que funciona. Mas n\u00e3o tem comprova\u00e7\u00e3o cient\u00edfica.",
+        "parentId": "UgzbJayD0wVew48ro9Z4AaABAg",
+        "authorDisplayName": "F. C. Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWfi_fuKes3yFH9SiY4Cc6zILmLJd99gOy2K-Qrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN1r-TBJaHux-pP_TfuF91g",
+        "authorChannelId": {
+          "value": "UCN1r-TBJaHux-pP_TfuF91g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-26T04:56:51Z",
+        "updatedAt": "2022-01-26T04:56:51Z"
+      }
+    }
+  ]
+}

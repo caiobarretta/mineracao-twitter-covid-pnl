@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AVDyOjK8GRQ7elza00qA5xPbOIg",
+  "id": "UgyrUjd1aUzJ9KXVrhB4AaABAg",
+  "snippet": {
+    "videoId": "7Pw8wUtekc0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GMhWEgzBIjgkftl1mVQCT4-7wOg",
+      "id": "UgyrUjd1aUzJ9KXVrhB4AaABAg",
+      "snippet": {
+        "videoId": "7Pw8wUtekc0",
+        "textDisplay": "Viva o Z\u00e9 Gotinha.",
+        "textOriginal": "Viva o Z\u00e9 Gotinha.",
+        "authorDisplayName": "Shared Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnXgcPWet7G0dY386ALcolgFANWP9yDZQ_6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTsZZlrq1x_xQgM9w57ejaA",
+        "authorChannelId": {
+          "value": "UCTsZZlrq1x_xQgM9w57ejaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-12-17T00:04:00Z",
+        "updatedAt": "2020-12-17T00:04:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qY5SQ1HR1R7BLZCQm1tdrWzMw6E",
+      "id": "UgyrUjd1aUzJ9KXVrhB4AaABAg.9HLhS-47A_K9HMGqJkmbsW",
+      "snippet": {
+        "textDisplay": "Mortadela adora uma baixaria !!!",
+        "textOriginal": "Mortadela adora uma baixaria !!!",
+        "parentId": "UgyrUjd1aUzJ9KXVrhB4AaABAg",
+        "authorDisplayName": "reges machado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjDMYhd5P8bhGeeiV-DUDfuM8sBQGRjTt9P95s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFVcRXB48lZlfOCLKVY73UA",
+        "authorChannelId": {
+          "value": "UCFVcRXB48lZlfOCLKVY73UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-17T05:22:02Z",
+        "updatedAt": "2020-12-17T05:22:02Z"
+      }
+    }
+  ]
+}

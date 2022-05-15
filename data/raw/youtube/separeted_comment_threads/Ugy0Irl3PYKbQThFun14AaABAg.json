@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "P6tQCYlMcu2YXkQzCewCz3Vo11M",
+  "id": "Ugy0Irl3PYKbQThFun14AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E7f2-OGyCpHCUoMl_BVjSHCwscs",
+      "id": "Ugy0Irl3PYKbQThFun14AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "still waiting rtx gpu",
+        "textOriginal": "still waiting rtx gpu",
+        "authorDisplayName": "BILAL ADVERTIZER # NEXT LEVEL-Rendering",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PR2JsRYqwAjcWzQRIPOAqlEDw99cJH8C1QntVZQnhYjEEkv1rFI6FZJs-5ro6i_pVDyDAlIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIm387zq6KymVfydIyknzvg",
+        "authorChannelId": {
+          "value": "UCIm387zq6KymVfydIyknzvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-19T17:44:39Z",
+        "updatedAt": "2021-08-19T17:44:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M3Q1q9BC8XNW6_Rrg-UpeXaJ-Z4",
+      "id": "Ugy0Irl3PYKbQThFun14AaABAg.9RES_q1t2Hx9RGdCE17B3-",
+      "snippet": {
+        "textDisplay": "@CoronaRenderer but i have 4 x rtx 3090 and cpu 1 core i9 8th gen > i need rtx rendering try 2nd option cpu + gpu thanks sir",
+        "textOriginal": "@CoronaRenderer but i have 4 x rtx 3090 and cpu 1 core i9 8th gen > i need rtx rendering try 2nd option cpu + gpu thanks sir",
+        "parentId": "Ugy0Irl3PYKbQThFun14AaABAg",
+        "authorDisplayName": "BILAL ADVERTIZER # NEXT LEVEL-Rendering",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/PR2JsRYqwAjcWzQRIPOAqlEDw99cJH8C1QntVZQnhYjEEkv1rFI6FZJs-5ro6i_pVDyDAlIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIm387zq6KymVfydIyknzvg",
+        "authorChannelId": {
+          "value": "UCIm387zq6KymVfydIyknzvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-20T14:04:38Z",
+        "updatedAt": "2021-08-20T14:04:38Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "bXiJO8cAL3vfCO3O28kbv1Fypnc",
+      "id": "Ugy0Irl3PYKbQThFun14AaABAg.9RES_q1t2Hx9RGBFX7s6ly",
+      "snippet": {
+        "textDisplay": "There are no plans for GPU rendering, as https://corona-renderer.com/features/proudly-cpu-based still applies. Thanks! Tom",
+        "textOriginal": "There are no plans for GPU rendering, as https://corona-renderer.com/features/proudly-cpu-based still applies. Thanks! Tom",
+        "parentId": "Ugy0Irl3PYKbQThFun14AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T09:51:41Z",
+        "updatedAt": "2021-08-20T09:51:41Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qHVX9orleMOPjZYf3SGMX3K_2os",
+  "id": "Ugxskmf7B7Vg5TA9EKp4AaABAg",
+  "snippet": {
+    "videoId": "X6I6EWtwE4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OMDthjpyDW9HNIcVwPypwHtsfqU",
+      "id": "Ugxskmf7B7Vg5TA9EKp4AaABAg",
+      "snippet": {
+        "videoId": "X6I6EWtwE4E",
+        "textDisplay": "Sensacional, uma aula !!! Curti \ud83d\udc4d",
+        "textOriginal": "Sensacional, uma aula !!! Curti \ud83d\udc4d",
+        "authorDisplayName": "Roberto Unger",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8hJUxoBksA6nQVrApxDl-BZToltg_Eti3Fc4tNqw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbdfxn_vQmmAf62fPgjU7ug",
+        "authorChannelId": {
+          "value": "UCbdfxn_vQmmAf62fPgjU7ug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-05T19:33:19Z",
+        "updatedAt": "2020-12-05T19:33:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AZNE8xqA1FSdG5l73_lIrEosMiE",
+      "id": "Ugxskmf7B7Vg5TA9EKp4AaABAg.9GttimfItKR9GuQPtKRyoT",
+      "snippet": {
+        "textDisplay": "Obrigada, Roberto!!",
+        "textOriginal": "Obrigada, Roberto!!",
+        "parentId": "Ugxskmf7B7Vg5TA9EKp4AaABAg",
+        "authorDisplayName": "Coletividade com Sa\u00fade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_gtfdEgkESjvL7UdKBThanghx7C8LEm4Vlhm9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRUfYw0ql5PFVNUW7U0b_CA",
+        "authorChannelId": {
+          "value": "UCRUfYw0ql5PFVNUW7U0b_CA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-06T00:27:41Z",
+        "updatedAt": "2020-12-06T00:27:41Z"
+      }
+    }
+  ]
+}

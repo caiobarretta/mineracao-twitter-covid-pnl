@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "e_85se9KEgCQSOBYafzX6UZhRrI",
+  "id": "UgxO0jEjfXRvLhjqbex4AaABAg",
+  "snippet": {
+    "videoId": "06CNVdnDkQ0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yXNzmaHJkn7cOwSt7RBbN7aVP2o",
+      "id": "UgxO0jEjfXRvLhjqbex4AaABAg",
+      "snippet": {
+        "videoId": "06CNVdnDkQ0",
+        "textDisplay": "Let us pray",
+        "textOriginal": "Let us pray",
+        "authorDisplayName": "David Miller",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTocpZPkHv3Y-pg5tDB_d-AHdTsiTHy0C2bbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCji1c4suKqSTmaAfOhYWojA",
+        "authorChannelId": {
+          "value": "UCji1c4suKqSTmaAfOhYWojA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T14:29:45Z",
+        "updatedAt": "2022-05-10T14:29:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IuTGEqhPVGysN42dyirGPkW8lEk",
+      "id": "UgxO0jEjfXRvLhjqbex4AaABAg.9aqt8H_ozdA9aqxv9dZM0D",
+      "snippet": {
+        "textDisplay": "For?",
+        "textOriginal": "For?",
+        "parentId": "UgxO0jEjfXRvLhjqbex4AaABAg",
+        "authorDisplayName": "Martine Mikita",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNmnr1Xk6sp5isDggRrzIHQ0O2upZvBuMgiQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyBR7qBQBqJ8CGpUqLqC9ZQ",
+        "authorChannelId": {
+          "value": "UCyBR7qBQBqJ8CGpUqLqC9ZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T15:11:31Z",
+        "updatedAt": "2022-05-10T15:11:31Z"
+      }
+    }
+  ]
+}

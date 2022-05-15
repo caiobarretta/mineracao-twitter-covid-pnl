@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hjOLRIc88BUPDTLsX52oJCLYsPA",
+  "id": "UgxT2ZaK0jbGmC0sTph4AaABAg",
+  "snippet": {
+    "videoId": "2qpYZakeid0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1A8aJ4E-iXvtoMYF2MTZtrGBOUs",
+      "id": "UgxT2ZaK0jbGmC0sTph4AaABAg",
+      "snippet": {
+        "videoId": "2qpYZakeid0",
+        "textDisplay": "O brabo tem nome \ud83d\ude09\ud83d\ude42\ud83e\udd11",
+        "textOriginal": "O brabo tem nome \ud83d\ude09\ud83d\ude42\ud83e\udd11",
+        "authorDisplayName": "THURZINHO333",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOdIqYAdLbPjTGvjj158rPY8O6DIGEQhTZZzUV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoq-UKcXhb4hPgJRR-3PHPg",
+        "authorChannelId": {
+          "value": "UCoq-UKcXhb4hPgJRR-3PHPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2021-01-02T14:07:13Z",
+        "updatedAt": "2021-01-02T14:07:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ty0ZY1EVp-LAawu3jpApuVVntlU",
+      "id": "UgxT2ZaK0jbGmC0sTph4AaABAg.9I0Pep6qc8n9I11FeDr07M",
+      "snippet": {
+        "textDisplay": "\ud83d\ude4f\ud83d\udd25",
+        "textOriginal": "\ud83d\ude4f\ud83d\udd25",
+        "parentId": "UgxT2ZaK0jbGmC0sTph4AaABAg",
+        "authorDisplayName": "DJ DUARTE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gJ5UuiwPpY-8d4Nh5CDX4OKOmjdlIN_pB9nElRx6wQQNEwJnC7BxJWCrRMi44pUebc_DlKg-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmBJ0PinlaN8nzHXpUXsWDw",
+        "authorChannelId": {
+          "value": "UCmBJ0PinlaN8nzHXpUXsWDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-02T19:53:09Z",
+        "updatedAt": "2021-01-02T19:53:09Z"
+      }
+    }
+  ]
+}

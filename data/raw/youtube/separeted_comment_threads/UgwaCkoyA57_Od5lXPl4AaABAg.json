@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nMTw7j8F9h9nnvf_QeswCRTGEmE",
+  "id": "UgwaCkoyA57_Od5lXPl4AaABAg",
+  "snippet": {
+    "videoId": "q7-Vkvylmsg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NCM6GoqpEsO8fZctUADxFs8A7Vc",
+      "id": "UgwaCkoyA57_Od5lXPl4AaABAg",
+      "snippet": {
+        "videoId": "q7-Vkvylmsg",
+        "textDisplay": "dos a\u00f1os de enga\u00f1o, miedo y manipulacion!!",
+        "textOriginal": "dos a\u00f1os de enga\u00f1o, miedo y manipulacion!!",
+        "authorDisplayName": "Adolfo M",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSitg3jsjjcTzdjn9ebc0w5V3YIibZxD4IkTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVtdefVVYya2ZQsFG6JjB6w",
+        "authorChannelId": {
+          "value": "UCVtdefVVYya2ZQsFG6JjB6w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 23,
+        "publishedAt": "2022-03-10T23:07:09Z",
+        "updatedAt": "2022-03-10T23:07:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jmZALaKzRP79hKmJZ64-vX231nw",
+      "id": "UgwaCkoyA57_Od5lXPl4AaABAg.9ZPjrUAXekC9ZUSVnaN0ws",
+      "snippet": {
+        "textDisplay": "Adhiero!",
+        "textOriginal": "Adhiero!",
+        "parentId": "UgwaCkoyA57_Od5lXPl4AaABAg",
+        "authorDisplayName": "dimetilergico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZ0w9bNdgcyP0m7b-DLZ_DzlcZDHbZC-AHt9a99A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9Tc5ewIALC-SpabsrYvqRA",
+        "authorChannelId": {
+          "value": "UC9Tc5ewIALC-SpabsrYvqRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-03-12T19:02:58Z",
+        "updatedAt": "2022-03-12T19:02:58Z"
+      }
+    }
+  ]
+}

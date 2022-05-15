@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fVBWFR68qtEqyFXP001YhkOczTc",
+  "id": "UgyYsHMN6mDELUYFAVN4AaABAg",
+  "snippet": {
+    "videoId": "J_F7LpWS8lk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B4dEGWPEnVYxb4VYwI4kL3LVO5I",
+      "id": "UgyYsHMN6mDELUYFAVN4AaABAg",
+      "snippet": {
+        "videoId": "J_F7LpWS8lk",
+        "textDisplay": "ESTAMOS JUNTOS SEMPRE PRESIDENTE BOLSONARO \nOSASCO SP",
+        "textOriginal": "ESTAMOS JUNTOS SEMPRE PRESIDENTE BOLSONARO \nOSASCO SP",
+        "authorDisplayName": "Jose carlos antunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcmmHN1F_fShsMkjzH2AlEsAoJKvvmfVzt9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD1xHTkTigSV3NnStjqUZGA",
+        "authorChannelId": {
+          "value": "UCD1xHTkTigSV3NnStjqUZGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 113,
+        "publishedAt": "2022-05-10T21:53:46Z",
+        "updatedAt": "2022-05-10T21:53:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "26nVGfFi0YeJxOgyQxE70a2VSUs",
+      "id": "UgyYsHMN6mDELUYFAVN4AaABAg.9arfxM9aXHo9au6sryCxoO",
+      "snippet": {
+        "textDisplay": "Esquerda nunca mais.",
+        "textOriginal": "Esquerda nunca mais.",
+        "parentId": "UgyYsHMN6mDELUYFAVN4AaABAg",
+        "authorDisplayName": "Sidnea Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpQn-2oBmrtosUtaMercoYfTwNZ8jyZeOcww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsEYYEb3YtUNTAcSpG2gumw",
+        "authorChannelId": {
+          "value": "UCsEYYEb3YtUNTAcSpG2gumw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-11T20:36:18Z",
+        "updatedAt": "2022-05-11T20:36:18Z"
+      }
+    }
+  ]
+}

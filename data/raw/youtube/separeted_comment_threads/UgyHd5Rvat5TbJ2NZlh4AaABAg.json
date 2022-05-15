@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kp5KKHjTdjbCjBqqPhEdy1nhBsM",
+  "id": "UgyHd5Rvat5TbJ2NZlh4AaABAg",
+  "snippet": {
+    "videoId": "3pUZSS1Rbeg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GMBrq_DsjqYRnK-Ii-gY9eny-dM",
+      "id": "UgyHd5Rvat5TbJ2NZlh4AaABAg",
+      "snippet": {
+        "videoId": "3pUZSS1Rbeg",
+        "textDisplay": "Aja dinheiro",
+        "textOriginal": "Aja dinheiro",
+        "authorDisplayName": "samuel oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqje8HITfGtAhbYoNg9ftzlaLC1AusqOFkwRBZnC0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtlp1MccMcz9JoVq-RQoRlg",
+        "authorChannelId": {
+          "value": "UCtlp1MccMcz9JoVq-RQoRlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-21T02:25:42Z",
+        "updatedAt": "2021-04-21T02:25:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ya4Wu9PyZedDA8OBVpJjOF4ogIU",
+      "id": "UgyHd5Rvat5TbJ2NZlh4AaABAg.9MNp1AsVl9t9MNrNp5v-PM",
+      "snippet": {
+        "textDisplay": "Al\u00e9m de dinheiro.... temos que ter \u201cnervos de a\u00e7o \u201c.... porque sa\u00fade de ferro t\u00e1 dif\u00edcil...",
+        "textOriginal": "Al\u00e9m de dinheiro.... temos que ter \u201cnervos de a\u00e7o \u201c.... porque sa\u00fade de ferro t\u00e1 dif\u00edcil...",
+        "parentId": "UgyHd5Rvat5TbJ2NZlh4AaABAg",
+        "authorDisplayName": "Esperan\u00e7a Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2JjqL9-GBFBWcmtnxW1dzV8Qz4dUPv259hbEV-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0ZIUuIIhPLlUHP85ZO2f2w",
+        "authorChannelId": {
+          "value": "UC0ZIUuIIhPLlUHP85ZO2f2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-21T02:46:16Z",
+        "updatedAt": "2021-04-21T02:46:16Z"
+      }
+    }
+  ]
+}

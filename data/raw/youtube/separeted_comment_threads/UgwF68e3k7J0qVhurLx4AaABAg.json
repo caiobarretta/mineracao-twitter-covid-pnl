@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "L4xlA6brjjml7NnGE21chhzN5pY",
+  "id": "UgwF68e3k7J0qVhurLx4AaABAg",
+  "snippet": {
+    "videoId": "VaJJMnXdAc4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hD63ANte1Pi7ALrsdX5sLx8y5fg",
+      "id": "UgwF68e3k7J0qVhurLx4AaABAg",
+      "snippet": {
+        "videoId": "VaJJMnXdAc4",
+        "textDisplay": "Obrigada deu certo \ud83d\udc4f\ud83c\udffc\ud83e\udd70",
+        "textOriginal": "Obrigada deu certo \ud83d\udc4f\ud83c\udffc\ud83e\udd70",
+        "authorDisplayName": "Anne Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBwfVwJ2aAq6cgSSUmtpjYJkVRCY74yzdZbj83DhU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLSPPRGXhENlYKZ3AvnWh_Q",
+        "authorChannelId": {
+          "value": "UCLSPPRGXhENlYKZ3AvnWh_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-12T13:28:26Z",
+        "updatedAt": "2020-08-12T13:28:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dBo2bMbJJ3eFQQMuBiifzClPeOg",
+      "id": "UgwF68e3k7J0qVhurLx4AaABAg.9CG7YdR2Ff-9CGF588R305",
+      "snippet": {
+        "textDisplay": "Que bom",
+        "textOriginal": "Que bom",
+        "parentId": "UgwF68e3k7J0qVhurLx4AaABAg",
+        "authorDisplayName": "ODORIZZI",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF6ZwK3UQxg69GQD6ShgCpNBVwke1JAJ8Y9CDHPg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4rSCAdhng0kzfXfLubGVuA",
+        "authorChannelId": {
+          "value": "UC4rSCAdhng0kzfXfLubGVuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-12T14:34:18Z",
+        "updatedAt": "2020-08-12T14:34:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "N4H0RQofzVyYy6SEfioercVxJXE",
+  "id": "UgwFhKeNY8AHVqIj9Al4AaABAg",
+  "snippet": {
+    "videoId": "mUOQpibNYMU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "avFstR93TIahHsMso1xVQM2m6rk",
+      "id": "UgwFhKeNY8AHVqIj9Al4AaABAg",
+      "snippet": {
+        "videoId": "mUOQpibNYMU",
+        "textDisplay": "Culpa dos governos estaduais que tomaram a frente na campanha.",
+        "textOriginal": "Culpa dos governos estaduais que tomaram a frente na campanha.",
+        "authorDisplayName": "ERIK HEITZMANN",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAFqAE0SdRKURo3r1EfaOUVsVLgcrVHYMwMfrKnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxeWlyZU1CwpXqgZ9mzme_w",
+        "authorChannelId": {
+          "value": "UCxeWlyZU1CwpXqgZ9mzme_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-20T00:49:52Z",
+        "updatedAt": "2021-06-20T00:49:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "URTxz06F8u2ppPYDQ_T24Z3K660",
+      "id": "UgwFhKeNY8AHVqIj9Al4AaABAg.9On8kqK2msu9OnAGaUoFli",
+      "snippet": {
+        "textDisplay": "Porque o Bozo deu autonomia pra eles por meio do decreto 13.979.",
+        "textOriginal": "Porque o Bozo deu autonomia pra eles por meio do decreto 13.979.",
+        "parentId": "UgwFhKeNY8AHVqIj9Al4AaABAg",
+        "authorDisplayName": "Carlos Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoG0pAs_8MFx-HDWHZJC5susx9NUf7JLCXrBcU0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-4V-LLjzZYy8KyfpSz8lqw",
+        "authorChannelId": {
+          "value": "UC-4V-LLjzZYy8KyfpSz8lqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-20T01:03:05Z",
+        "updatedAt": "2021-06-20T01:03:05Z"
+      }
+    }
+  ]
+}

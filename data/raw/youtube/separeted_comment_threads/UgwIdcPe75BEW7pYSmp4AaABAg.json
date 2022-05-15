@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZWAzdtHL4ZjwNXTFyxvorLmlEZg",
+  "id": "UgwIdcPe75BEW7pYSmp4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cY-X18d-heKg4xuSoztEdegdYuk",
+      "id": "UgwIdcPe75BEW7pYSmp4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "Qual formato usar para imprimir?",
+        "textOriginal": "Qual formato usar para imprimir?",
+        "authorDisplayName": "Thiago Marcelino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQeDI8qibBNh4JwFP75yShedW0v5A71zK13Aw7yr8MS2bxncCkA3Nrfhac4NEYv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_CRgLh6r5Q1FUdDqFYcHGQ",
+        "authorChannelId": {
+          "value": "UC_CRgLh6r5Q1FUdDqFYcHGQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-27T21:16:18Z",
+        "updatedAt": "2022-02-27T21:16:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EK8Mp5Zu9-olOVWbMXxOsI82jV8",
+      "id": "UgwIdcPe75BEW7pYSmp4AaABAg.9YyDQxDKvpj9YyWpWQSMG3",
+      "snippet": {
+        "textDisplay": "n\u00e3o tem um formato exato para imprimir, mas eu gosto de imprimir do tamanho de um documento normal (Identidade, CNH, CPF)",
+        "textOriginal": "n\u00e3o tem um formato exato para imprimir, mas eu gosto de imprimir do tamanho de um documento normal (Identidade, CNH, CPF)",
+        "parentId": "UgwIdcPe75BEW7pYSmp4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-28T00:05:49Z",
+        "updatedAt": "2022-02-28T00:05:49Z"
+      }
+    }
+  ]
+}

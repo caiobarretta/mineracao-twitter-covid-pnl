@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TZeCjAIqcVbXbG6c97B5k9IshCg",
+  "id": "UgzNWho_QTsD6YSIWcV4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "smRlKjl-7by2SV1c2ySog0-sdwo",
+      "id": "UgzNWho_QTsD6YSIWcV4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "o meu nao aparece botao amarelo",
+        "textOriginal": "o meu nao aparece botao amarelo",
+        "authorDisplayName": "Larissa Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9HVszJe5dyaL2gCrdDYL52ktR5n-HCagdej1QLHG71gFgSlT2k-9VKtLb7kTPz87F_aJJ8Rn-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC31khUNKqIEvEx9KDOoj6Rg",
+        "authorChannelId": {
+          "value": "UC31khUNKqIEvEx9KDOoj6Rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-07T16:48:59Z",
+        "updatedAt": "2021-07-07T16:48:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rMvIFFiNL_jGuC20Lnw5uxusMMY",
+      "id": "UgzNWho_QTsD6YSIWcV4AaABAg.9PVd1Q8BgJm9PWTDapNSqi",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Larissa, voc\u00ea esta acessando pelo computador ou celular ?\nvoc\u00ea est\u00e1 logada no sistema ?",
+        "textOriginal": "Ol\u00e1 Larissa, voc\u00ea esta acessando pelo computador ou celular ?\nvoc\u00ea est\u00e1 logada no sistema ?",
+        "parentId": "UgzNWho_QTsD6YSIWcV4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-08T00:33:46Z",
+        "updatedAt": "2021-07-08T00:33:46Z"
+      }
+    }
+  ]
+}

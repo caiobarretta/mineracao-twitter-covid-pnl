@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zJSWFW0ZJbTOWfJhb5_AzAnCa2U",
+  "id": "Ugw2DDXf7AONlvHSG3F4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L6Af8CgQNO8hJNvJoCaMz-iuI0Q",
+      "id": "Ugw2DDXf7AONlvHSG3F4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Fala sobre a lei 8080",
+        "textOriginal": "Fala sobre a lei 8080",
+        "authorDisplayName": "Kimiuery 30\ud83c\udff9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/WiKEo6jMLxi9Mu0sY4mVh8mDcvd_7QxD6f-9y0j5v8-556qVSG07Qvzfcz0DKEHUuxOKHcrd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCedZv--9qksC_8LgPer0L_Q",
+        "authorChannelId": {
+          "value": "UCedZv--9qksC_8LgPer0L_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-01T11:12:08Z",
+        "updatedAt": "2022-04-01T11:12:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4U44-A9t9vkP7T7WmVG1r--t1Xc",
+      "id": "Ugw2DDXf7AONlvHSG3F4AaABAg.9_H6WkC7tKd9_H6svBFtLK",
+      "snippet": {
+        "textDisplay": "Obrigado pela sugest\u00e3o, vou analisar para fazer sim!",
+        "textOriginal": "Obrigado pela sugest\u00e3o, vou analisar para fazer sim!",
+        "parentId": "Ugw2DDXf7AONlvHSG3F4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-01T11:15:17Z",
+        "updatedAt": "2022-04-01T11:15:17Z"
+      }
+    }
+  ]
+}

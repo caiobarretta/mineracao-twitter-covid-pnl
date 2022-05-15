@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Gq14FF6BRizu-LlQCuxyl-o1gQc",
+  "id": "UgwwZ9KoGlSeXuWpvdN4AaABAg",
+  "snippet": {
+    "videoId": "YbIJXDvW8mA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9suRpcfqVOIasj-TRcR9i7cE8V4",
+      "id": "UgwwZ9KoGlSeXuWpvdN4AaABAg",
+      "snippet": {
+        "videoId": "YbIJXDvW8mA",
+        "textDisplay": "Os paulistas sempre escolhem mal o prefeito da capital e o governador",
+        "textOriginal": "Os paulistas sempre escolhem mal o prefeito da capital e o governador",
+        "authorDisplayName": "Nelson Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSg-WzX9oKmyNbEW884qrwmWFOTh2UlzRpw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCObs9o9glox9QJ1VPD6lmxQ",
+        "authorChannelId": {
+          "value": "UCObs9o9glox9QJ1VPD6lmxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-13T00:45:55Z",
+        "updatedAt": "2022-04-13T00:45:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fCmgr9ov58-pQrAuqNDgdp3LhXE",
+      "id": "UgwwZ9KoGlSeXuWpvdN4AaABAg.9_jtOlEixhM9_k95XTAmDQ",
+      "snippet": {
+        "textDisplay": "Infelizmente, pelas op\u00e7\u00f5es,  somos obrigados a votar no menos pior...",
+        "textOriginal": "Infelizmente, pelas op\u00e7\u00f5es,  somos obrigados a votar no menos pior...",
+        "parentId": "UgwwZ9KoGlSeXuWpvdN4AaABAg",
+        "authorDisplayName": "Marli Schneider",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGbLhXAY7eLSNMJhxAqh7U5m9xR891PrkhrujC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0zEPSOGo-eXiUIAhFgN4wA",
+        "authorChannelId": {
+          "value": "UC0zEPSOGo-eXiUIAhFgN4wA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-13T03:11:51Z",
+        "updatedAt": "2022-04-13T03:11:51Z"
+      }
+    }
+  ]
+}

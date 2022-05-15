@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MlioWlCHcxkwzTRcySeH6sH0T6I",
+  "id": "UgwJ_7vuZ-lP3heWeOR4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iYaxKQtMFnv9FFEaeqlNEYAX6PE",
+      "id": "UgwJ_7vuZ-lP3heWeOR4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Muito maneiro! Somos privilegiados!",
+        "textOriginal": "Muito maneiro! Somos privilegiados!",
+        "authorDisplayName": "Rafael Pires",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTc4E5hJiKaLkOvXQ5lkBQpLvrQyq7Dvs1s3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFJ9U3CKfn2fB8smQA3agtA",
+        "authorChannelId": {
+          "value": "UCFJ9U3CKfn2fB8smQA3agtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-03T15:53:41Z",
+        "updatedAt": "2020-06-03T15:53:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Zzx4X5XVc1qBLFhImz1B6vzhYMI",
+      "id": "UgwJ_7vuZ-lP3heWeOR4AaABAg.99S8XEWvX2F99SGdkaevxO",
+      "snippet": {
+        "textDisplay": "Que bom que curtiu Rafa!!!! Obrigado pelo coment\u00e1rio aqui =)",
+        "textOriginal": "Que bom que curtiu Rafa!!!! Obrigado pelo coment\u00e1rio aqui =)",
+        "parentId": "UgwJ_7vuZ-lP3heWeOR4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T17:04:36Z",
+        "updatedAt": "2020-06-03T17:04:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YWU6BBic8McZxQnBrwEwH_y1afA",
+  "id": "UgxfngADSIQIJBHViDV4AaABAg",
+  "snippet": {
+    "videoId": "eZSHq2Val3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OU6Q5cAI8hFyrBxPnJ-P9WXEeu0",
+      "id": "UgxfngADSIQIJBHViDV4AaABAg",
+      "snippet": {
+        "videoId": "eZSHq2Val3I",
+        "textDisplay": "Muy bien explicado, muy agradecido",
+        "textOriginal": "Muy bien explicado, muy agradecido",
+        "authorDisplayName": "Santiago ARREJO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_C7A0nGqhnRlc191euQmiodarE5qN73dUqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVCS54u1ZvN7gwNeC8ZxHXg",
+        "authorChannelId": {
+          "value": "UCVCS54u1ZvN7gwNeC8ZxHXg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-04-03T20:00:55Z",
+        "updatedAt": "2020-04-03T20:00:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7wHDDFy40Syd-paDxFEdsGYGY7c",
+      "id": "UgxfngADSIQIJBHViDV4AaABAg.97-WKgmz-UT97CBmGtVJBU",
+      "snippet": {
+        "textDisplay": "Muchas gracias!",
+        "textOriginal": "Muchas gracias!",
+        "parentId": "UgxfngADSIQIJBHViDV4AaABAg",
+        "authorDisplayName": "QuieroSerM\u00e9dico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSWKdAyoIlXbKdVzbpVOoA3G85g3GJHkDJ9lYq6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1JCYuvAiRLK1i3q3QMhLg",
+        "authorChannelId": {
+          "value": "UCO1JCYuvAiRLK1i3q3QMhLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-08T18:11:26Z",
+        "updatedAt": "2020-04-08T18:11:26Z"
+      }
+    }
+  ]
+}

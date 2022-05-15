@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "S1Ck6-wUwYi1E1o1mb9R2zof_rY",
+  "id": "UgzJXxKRLLyAZU_XClZ4AaABAg",
+  "snippet": {
+    "videoId": "Q7G5yGnkoug",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ARhGOJgt8r22Az-QpifsiSEsu9k",
+      "id": "UgzJXxKRLLyAZU_XClZ4AaABAg",
+      "snippet": {
+        "videoId": "Q7G5yGnkoug",
+        "textDisplay": "T\u00e1 bugado, s\u00f3 imprime a frente, o verso n\u00e3o imprime.",
+        "textOriginal": "T\u00e1 bugado, s\u00f3 imprime a frente, o verso n\u00e3o imprime.",
+        "authorDisplayName": "Bruno Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6hvxBc-jPerhIDibMhx3r9UUxU3-i7qTKkSizaw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGWgMlQ_qMWdK9RpRA5k5jQ",
+        "authorChannelId": {
+          "value": "UCGWgMlQ_qMWdK9RpRA5k5jQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-13T23:06:24Z",
+        "updatedAt": "2022-05-13T23:06:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "STOtxKGcCRCI84kHPJuA8DaoD9g",
+      "id": "UgzJXxKRLLyAZU_XClZ4AaABAg.9azXe-P7QM_9azY0QiK9Jr",
+      "snippet": {
+        "textDisplay": "Essa vers\u00e3o digital \u00e9 s\u00f3 um lado mesmo, s\u00e3o duas vers\u00f5es",
+        "textOriginal": "Essa vers\u00e3o digital \u00e9 s\u00f3 um lado mesmo, s\u00e3o duas vers\u00f5es",
+        "parentId": "UgzJXxKRLLyAZU_XClZ4AaABAg",
+        "authorDisplayName": "O Rapaz da Lan House",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsUcHg7bDrIPnAv9rEpsUko0cQjSWf8cmgbx9e=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOq7nfoPCABb_NVcwwQ5f3g",
+        "authorChannelId": {
+          "value": "UCOq7nfoPCABb_NVcwwQ5f3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-13T23:09:36Z",
+        "updatedAt": "2022-05-13T23:09:36Z"
+      }
+    }
+  ]
+}

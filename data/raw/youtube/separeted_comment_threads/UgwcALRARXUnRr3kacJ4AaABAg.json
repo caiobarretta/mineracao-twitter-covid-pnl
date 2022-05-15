@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M-VM9BszXV9c-XUxctjautufCg4",
+  "id": "UgwcALRARXUnRr3kacJ4AaABAg",
+  "snippet": {
+    "videoId": "FfjJ4dnaEUo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EwfC7cXMsZQA2Ba6LmKlLKMeDp0",
+      "id": "UgwcALRARXUnRr3kacJ4AaABAg",
+      "snippet": {
+        "videoId": "FfjJ4dnaEUo",
+        "textDisplay": "El mar queriendo sacar la basura",
+        "textOriginal": "El mar queriendo sacar la basura",
+        "authorDisplayName": "Rafael Castellano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwZQhZMfxOZtQEL5VSxGJ1rE6ZwfUHsLV6ug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqLrhe6_nn-aSud8v-PLfsg",
+        "authorChannelId": {
+          "value": "UCqLrhe6_nn-aSud8v-PLfsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-07-26T12:39:18Z",
+        "updatedAt": "2021-07-26T12:39:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9tJ08GpaYMlYi6Fzl1GD8mTyC_w",
+      "id": "UgwcALRARXUnRr3kacJ4AaABAg.9QG6ZKcfweD9QMnVD3kS7G",
+      "snippet": {
+        "textDisplay": "Ojal\u00e1 hubiera quedado ah\u00ed.",
+        "textOriginal": "Ojal\u00e1 hubiera quedado ah\u00ed.",
+        "parentId": "UgwcALRARXUnRr3kacJ4AaABAg",
+        "authorDisplayName": "Ang\u00e9lica Rodr\u00edguez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0n6iM9tl1a2HIdzEn_lv37OnViyCzxqQ9ig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXbUcqsqnoSAOcU8ue7A5sg",
+        "authorChannelId": {
+          "value": "UCXbUcqsqnoSAOcU8ue7A5sg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-29T02:58:39Z",
+        "updatedAt": "2021-07-29T02:58:39Z"
+      }
+    }
+  ]
+}

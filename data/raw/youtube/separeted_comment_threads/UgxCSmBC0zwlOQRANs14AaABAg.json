@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0sO2MntD4I4MF70gl71XLpWzjmM",
+  "id": "UgxCSmBC0zwlOQRANs14AaABAg",
+  "snippet": {
+    "videoId": "FpL5X_FLMIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "z_1Gqt6tcJJ-ofJi0jxbNBcUf0c",
+      "id": "UgxCSmBC0zwlOQRANs14AaABAg",
+      "snippet": {
+        "videoId": "FpL5X_FLMIs",
+        "textDisplay": "Boa noite pessoas que sejam mais jovem \u00e9 tenha alguma defici\u00eancia correm risco tamb\u00e9m ?",
+        "textOriginal": "Boa noite pessoas que sejam mais jovem \u00e9 tenha alguma defici\u00eancia correm risco tamb\u00e9m ?",
+        "authorDisplayName": "Lucas Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDF0iDg0xThZBvLQnsSUR0NHTTv3cZVsCIfZFa-54=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOeJdue-paj4-ALzzaQkJHQ",
+        "authorChannelId": {
+          "value": "UCOeJdue-paj4-ALzzaQkJHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-25T00:57:51Z",
+        "updatedAt": "2020-03-25T00:57:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "s7yFNTsGKmTgqZ0_3dVHdNFSZiY",
+      "id": "UgxCSmBC0zwlOQRANs14AaABAg.96bIMl7PNob96yIjxfo_xA",
+      "snippet": {
+        "textDisplay": "Sim",
+        "textOriginal": "Sim",
+        "parentId": "UgxCSmBC0zwlOQRANs14AaABAg",
+        "authorDisplayName": "Janaina Amorim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6Y0_EBuCUXHnmhOU220wHhE_iu6N0u7C9Ow=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC50FpBLkSfBsHkWv76MjgWw",
+        "authorChannelId": {
+          "value": "UC50FpBLkSfBsHkWv76MjgWw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-02T23:23:41Z",
+        "updatedAt": "2020-04-02T23:23:41Z"
+      }
+    }
+  ]
+}

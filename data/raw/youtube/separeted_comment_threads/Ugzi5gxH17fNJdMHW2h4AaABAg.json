@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xPZfk-J35S2qusyjbUZc2j_Zbi4",
+  "id": "Ugzi5gxH17fNJdMHW2h4AaABAg",
+  "snippet": {
+    "videoId": "lhsCo92sUJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1vP6do-fgVPbHtioF0pRk5MwH4k",
+      "id": "Ugzi5gxH17fNJdMHW2h4AaABAg",
+      "snippet": {
+        "videoId": "lhsCo92sUJk",
+        "textDisplay": "Dude, you just became my favourite channel\n\nHope to see more of your content",
+        "textOriginal": "Dude, you just became my favourite channel\n\nHope to see more of your content",
+        "authorDisplayName": "George P.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMslbp_WuldYp2ANdcY5ciuzHc5YJRZFWPGfejaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGoBBssVl1YqxzEo5WGdkOQ",
+        "authorChannelId": {
+          "value": "UCGoBBssVl1YqxzEo5WGdkOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 32,
+        "publishedAt": "2020-03-03T19:30:05Z",
+        "updatedAt": "2020-03-03T19:30:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ukmT6NtoUzxWlHNs_LeK-ZXPwm0",
+      "id": "Ugzi5gxH17fNJdMHW2h4AaABAg.95kd9nJjsmP95lBIakIxJC",
+      "snippet": {
+        "textDisplay": "Thank you so much \ud83d\ude0a",
+        "textOriginal": "Thank you so much \ud83d\ude0a",
+        "parentId": "Ugzi5gxH17fNJdMHW2h4AaABAg",
+        "authorDisplayName": "Medicosis Perfectionalis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlYTeXmdAFqcMGP-3xHhkQd7UU_TnDJ2qJ1EJGCw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow",
+        "authorChannelId": {
+          "value": "UCl-J-ovSJhA3or73Q2uVpow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-04T00:37:07Z",
+        "updatedAt": "2020-03-04T00:37:07Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "knCiB6aUyn0AIsMZAdjhcwbj_xs",
+  "id": "UgyWUSALnlVM9V1Xruh4AaABAg",
+  "snippet": {
+    "videoId": "kR3uGQdbUjU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4zkl6kkhbLIQiTRIga5MWAJlsOU",
+      "id": "UgyWUSALnlVM9V1Xruh4AaABAg",
+      "snippet": {
+        "videoId": "kR3uGQdbUjU",
+        "textDisplay": "*Record nacional vai est\u00e1 aberta no d2?*",
+        "textOriginal": "*Record nacional vai est\u00e1 aberta no d2?*",
+        "authorDisplayName": "anderson rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3NXoTxolC3dUx-9UeR-AlCY8aG-_E2eFEYFR-aQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC582EQaHJogaUt7ztNWtoYQ",
+        "authorChannelId": {
+          "value": "UC582EQaHJogaUt7ztNWtoYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T19:49:34Z",
+        "updatedAt": "2022-05-10T19:49:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p1Hz_Wex89I9C9IjSindi0P2n-w",
+      "id": "UgyWUSALnlVM9V1Xruh4AaABAg.9arSjfmyEZf9arnl4UdLJV",
+      "snippet": {
+        "textDisplay": "Ja est\u00e1",
+        "textOriginal": "Ja est\u00e1",
+        "parentId": "UgyWUSALnlVM9V1Xruh4AaABAg",
+        "authorDisplayName": "somente a verdade vos libertara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNBEx-xgxxvAHjUlhXJodgFrJRDW2AD0-YdJ3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXKvltGsdkQfmlNuRJs62Mg",
+        "authorChannelId": {
+          "value": "UCXKvltGsdkQfmlNuRJs62Mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-10T23:01:59Z",
+        "updatedAt": "2022-05-10T23:01:59Z"
+      }
+    }
+  ]
+}

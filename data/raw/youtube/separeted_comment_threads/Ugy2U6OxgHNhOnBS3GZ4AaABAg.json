@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HsiwWivqpQMSc3m20C6lR7hI7GA",
+  "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MDJEBmTaCzFcLl7C78Qy29YGmNo",
+      "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "hello, corona render is now planning to switch to gpu-based rendering software, is there any development work?",
+        "textOriginal": "hello, corona render is now planning to switch to gpu-based rendering software, is there any development work?",
+        "authorDisplayName": "plan b proje",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNVtJrvTUd1PRqngMoaPsyLuVSkmrWvmQav4mkML4243qPXomOuHO0lmUDAmQh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm8UbJOr9TxbgGvxU0ARzZQ",
+        "authorChannelId": {
+          "value": "UCm8UbJOr9TxbgGvxU0ARzZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-22T08:19:19Z",
+        "updatedAt": "2021-09-22T08:19:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XjBBuOnQiHkdkloZ56QoCo8m4Ho",
+      "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg.9S_zuyHp8tf9SaI2-rdVbD",
+      "snippet": {
+        "textDisplay": "Hi, we have no plans to switch to GPU - https://corona-renderer.com/features/proudly-cpu-based still applies :) Thanks! Tom",
+        "textOriginal": "Hi, we have no plans to switch to GPU - https://corona-renderer.com/features/proudly-cpu-based still applies :) Thanks! Tom",
+        "parentId": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-22T11:06:27Z",
+        "updatedAt": "2021-09-22T11:06:27Z"
+      }
+    }
+  ]
+}

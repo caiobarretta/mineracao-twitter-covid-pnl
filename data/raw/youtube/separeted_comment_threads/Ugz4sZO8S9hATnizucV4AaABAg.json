@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hbT14R2zbHyig2lZcXtg0pM9jmA",
+  "id": "Ugz4sZO8S9hATnizucV4AaABAg",
+  "snippet": {
+    "videoId": "7R8YvOAPAkQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5EFred1ztdtNYI612FbJWI9IdRs",
+      "id": "Ugz4sZO8S9hATnizucV4AaABAg",
+      "snippet": {
+        "videoId": "7R8YvOAPAkQ",
+        "textDisplay": "Que aula maravilhosa... O recurso ficou muito criativo...",
+        "textOriginal": "Que aula maravilhosa... O recurso ficou muito criativo...",
+        "authorDisplayName": "Juliana Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPocbqkMsynMCaz5S6yIw4wFd70L9xOY7NZIvdfHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsb_ZGdbcA1wk-Q01vfsDvg",
+        "authorChannelId": {
+          "value": "UCsb_ZGdbcA1wk-Q01vfsDvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-25T19:51:03Z",
+        "updatedAt": "2020-08-25T19:51:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5qAurgU5TIpIfGREK7as5oUcQx0",
+      "id": "Ugz4sZO8S9hATnizucV4AaABAg.9CnHfNvQwld9Cnd7z4vGSa",
+      "snippet": {
+        "textDisplay": "Obrigada querida!\ud83d\udc95",
+        "textOriginal": "Obrigada querida!\ud83d\udc95",
+        "parentId": "Ugz4sZO8S9hATnizucV4AaABAg",
+        "authorDisplayName": "Cantinho Alternativo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6P0uQtvy9oNOrnx9-onscJhWUrO_kwH75wD5otWW6CH26pCVUwGS3FlkAmhO-M4vBcR4Q-Ho4XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYGnteHPmVj9W-C-ZG41U8A",
+        "authorChannelId": {
+          "value": "UCYGnteHPmVj9W-C-ZG41U8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-25T23:07:19Z",
+        "updatedAt": "2020-08-25T23:07:19Z"
+      }
+    }
+  ]
+}

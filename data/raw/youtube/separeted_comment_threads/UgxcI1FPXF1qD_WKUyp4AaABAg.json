@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gyhZBygZ0TOxCC4wtBrm3TAkNcc",
+  "id": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ktYNZ5R0d5lnI_tDMb6CkypdLwY",
+      "id": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "How do you get the sky to look normal? Mine is always blown out. If I darken the exposure or highlight compression my image doesn't look good and if I bring down the intensity of my sky it's not bright enough. Thanks.",
+        "textOriginal": "How do you get the sky to look normal? Mine is always blown out. If I darken the exposure or highlight compression my image doesn't look good and if I bring down the intensity of my sky it's not bright enough. Thanks.",
+        "authorDisplayName": "Moon Design",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhF78N9zCgXAO8S6cpa0pV6OgrnnZ1mBSiBGx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPV8SwVYg8chZEl1KJgrbWg",
+        "authorChannelId": {
+          "value": "UCPV8SwVYg8chZEl1KJgrbWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T18:19:32Z",
+        "updatedAt": "2021-08-20T18:19:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KwsG1gsa8VFR0HXk_QrqwVGqo5w",
+      "id": "UgxcI1FPXF1qD_WKUyp4AaABAg.9RH5N87UeN99RHRNZUTscz",
+      "snippet": {
+        "textDisplay": "Hi! Changing the exposure and highlight compression should be all that's needed - however, we'd need more info, such as examples of the results you are getting, with some screenshots of the UI for the settings you were using, maybe the scene itself, and of course none of that is possible on YouTube Comments. Head to the forums though, where such things are possible, and we and the community at large will be happy to help! https://forum.corona-renderer.com/index.php Thanks! Tom",
+        "textOriginal": "Hi! Changing the exposure and highlight compression should be all that's needed - however, we'd need more info, such as examples of the results you are getting, with some screenshots of the UI for the settings you were using, maybe the scene itself, and of course none of that is possible on YouTube Comments. Head to the forums though, where such things are possible, and we and the community at large will be happy to help! https://forum.corona-renderer.com/index.php Thanks! Tom",
+        "parentId": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-20T21:31:50Z",
+        "updatedAt": "2021-08-20T21:31:50Z"
+      }
+    }
+  ]
+}

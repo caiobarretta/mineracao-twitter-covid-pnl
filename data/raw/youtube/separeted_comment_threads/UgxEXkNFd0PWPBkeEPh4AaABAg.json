@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yUeom-3ckLgnp33gKTYVCiwT3jU",
+  "id": "UgxEXkNFd0PWPBkeEPh4AaABAg",
+  "snippet": {
+    "videoId": "rGkkk8GkJ8M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PIefvkFolPPuQoPZad17kIPihH8",
+      "id": "UgxEXkNFd0PWPBkeEPh4AaABAg",
+      "snippet": {
+        "videoId": "rGkkk8GkJ8M",
+        "textDisplay": "Excelente aula!",
+        "textOriginal": "Excelente aula!",
+        "authorDisplayName": "Imuniza\u00e7\u00e3o Cataguases",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrYaWzFhUOR7G0hKvjBtm2jfY6oUrRszECaLFy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCM0Uwkuv08oj40OH489Q5yg",
+        "authorChannelId": {
+          "value": "UCM0Uwkuv08oj40OH489Q5yg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-17T19:24:15Z",
+        "updatedAt": "2021-06-17T19:24:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "17xyudkSkG5WhSkcb7HZ3cdG5ks",
+      "id": "UgxEXkNFd0PWPBkeEPh4AaABAg.9OhPu8XUf1Q9OrA9pGwWDS",
+      "snippet": {
+        "textDisplay": "Obrigado \ud83d\ude03",
+        "textOriginal": "Obrigado \ud83d\ude03",
+        "parentId": "UgxEXkNFd0PWPBkeEPh4AaABAg",
+        "authorDisplayName": "Centro de Telessa\u00fade HC-UFMG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDhjJcqYPT_ohSZF4TSAaYMBRaON_hvDwv22Zjsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnyFZr3wJBAJRjcqr_Q5Gug",
+        "authorChannelId": {
+          "value": "UCnyFZr3wJBAJRjcqr_Q5Gug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-21T14:19:07Z",
+        "updatedAt": "2021-06-21T14:19:07Z"
+      }
+    }
+  ]
+}

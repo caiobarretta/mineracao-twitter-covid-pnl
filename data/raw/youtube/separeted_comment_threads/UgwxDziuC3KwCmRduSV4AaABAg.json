@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gLUj2-moaB3Nre_1A21IZ1kt2g0",
+  "id": "UgwxDziuC3KwCmRduSV4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CiGTJVAirHpfoateDCUU9nmpHus",
+      "id": "UgwxDziuC3KwCmRduSV4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "There is a huge problem at 28:25\nWhat will happen when we import so many 3d assets that already have been completed either with the older versions of corona or vray and we use the new corona converter?\nIt will just produce such mayhem since Corona 7 will convert the materials into physical materials and a lot of times that will be plain wrong. I expected an issue when used the converter on a bed model and all the fabrics were converted into metallic materials so i had to go one by one material and reset the material back to default. \nCould you elaborate a little more on this subject?",
+        "textOriginal": "There is a huge problem at 28:25\nWhat will happen when we import so many 3d assets that already have been completed either with the older versions of corona or vray and we use the new corona converter?\nIt will just produce such mayhem since Corona 7 will convert the materials into physical materials and a lot of times that will be plain wrong. I expected an issue when used the converter on a bed model and all the fabrics were converted into metallic materials so i had to go one by one material and reset the material back to default. \nCould you elaborate a little more on this subject?",
+        "authorDisplayName": "Mihajlo Ivkovski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1-LAdEBn20s0esu0xSNwIUynjugG1wYGf3Q_kIrc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHn6_QWMxs_wguLOB-nnxYg",
+        "authorChannelId": {
+          "value": "UCHn6_QWMxs_wguLOB-nnxYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-09-03T20:37:25Z",
+        "updatedAt": "2021-09-03T20:37:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "idq7pdO3X88ERhfzwOf-ES03Lqk",
+      "id": "UgwxDziuC3KwCmRduSV4AaABAg.9RqOHLUMsHv9RxChzwTZGd",
+      "snippet": {
+        "textDisplay": "Hi! YouTube comments are not read by developers or support, so the best place to engage in conversation about this is over on the forums. There is even a specific thread for discussing the converter at https://forum.corona-renderer.com/index.php?topic=33253.0\n\nAs a quick note, there are always going to be some issues, because some older materials would be \"physically impossible\" so converting them into a \"physically probable\" is never going to be 100%. But for those, if it's vital they look the same using the impossible material, they can be kept as the Legacy material. Thanks! Tom",
+        "textOriginal": "Hi! YouTube comments are not read by developers or support, so the best place to engage in conversation about this is over on the forums. There is even a specific thread for discussing the converter at https://forum.corona-renderer.com/index.php?topic=33253.0\n\nAs a quick note, there are always going to be some issues, because some older materials would be \"physically impossible\" so converting them into a \"physically probable\" is never going to be 100%. But for those, if it's vital they look the same using the impossible material, they can be kept as the Legacy material. Thanks! Tom",
+        "parentId": "UgwxDziuC3KwCmRduSV4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-06T12:11:01Z",
+        "updatedAt": "2021-09-06T12:11:01Z"
+      }
+    }
+  ]
+}

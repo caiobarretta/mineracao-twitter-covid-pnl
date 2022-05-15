@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "N4lMSDAzsh8PkAqNewNjMSRjWks",
+  "id": "Ugw0N9YVfjVNNfDgGOF4AaABAg",
+  "snippet": {
+    "videoId": "fqAqec2z1x4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rR4Zm1ZSqj2ibfKTUyc8PBRjM1k",
+      "id": "Ugw0N9YVfjVNNfDgGOF4AaABAg",
+      "snippet": {
+        "videoId": "fqAqec2z1x4",
+        "textDisplay": "Hello sir I download coranas lab in my PC I see your tutorial but when I started it notepad get open I didn't see like your text editor and I was unable to add image like you please help me so I can find a way to develop a application",
+        "textOriginal": "Hello sir I download coranas lab in my PC I see your tutorial but when I started it notepad get open I didn't see like your text editor and I was unable to add image like you please help me so I can find a way to develop a application",
+        "authorDisplayName": "Shivam Rajput",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQZbWISZ9M0PM9ErsGrrVm9CjEyj1BBf-_7QlNfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVAn1zCzCQeI9_J4IIy2qfw",
+        "authorChannelId": {
+          "value": "UCVAn1zCzCQeI9_J4IIy2qfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2019-06-02T11:41:40Z",
+        "updatedAt": "2019-06-02T11:41:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ktb9lEBuGRMNo74Ll0LRSfu1NQo",
+      "id": "Ugw0N9YVfjVNNfDgGOF4AaABAg.8vfgxMg-Tzg8vvOdYmBGpH",
+      "snippet": {
+        "textDisplay": "@Brian Burton okay thanks for the help",
+        "textOriginal": "@Brian Burton okay thanks for the help",
+        "parentId": "Ugw0N9YVfjVNNfDgGOF4AaABAg",
+        "authorDisplayName": "Shivam Rajput",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQZbWISZ9M0PM9ErsGrrVm9CjEyj1BBf-_7QlNfw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVAn1zCzCQeI9_J4IIy2qfw",
+        "authorChannelId": {
+          "value": "UCVAn1zCzCQeI9_J4IIy2qfw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-06-08T14:00:47Z",
+        "updatedAt": "2019-06-08T14:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "EPTd1gADXTS5yjNn78R6OYkFN5c",
+      "id": "Ugw0N9YVfjVNNfDgGOF4AaABAg.8vfgxMg-Tzg8vo8j35xeGM",
+      "snippet": {
+        "textDisplay": "@shiv, I am using Sublime Text editor 3, which will allow you to see the images that have been added to the folder.  All of the images were made with GIMP or Photoshop.",
+        "textOriginal": "@shiv, I am using Sublime Text editor 3, which will allow you to see the images that have been added to the folder.  All of the images were made with GIMP or Photoshop.",
+        "parentId": "Ugw0N9YVfjVNNfDgGOF4AaABAg",
+        "authorDisplayName": "Brian Burton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHAI1MucZLeojLOO_MUOfLA_unG3BM4hrawndk4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRXix-sH50G0uON-J6SnPjw",
+        "authorChannelId": {
+          "value": "UCRXix-sH50G0uON-J6SnPjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-06-05T18:27:03Z",
+        "updatedAt": "2019-06-05T18:27:03Z"
+      }
+    }
+  ]
+}

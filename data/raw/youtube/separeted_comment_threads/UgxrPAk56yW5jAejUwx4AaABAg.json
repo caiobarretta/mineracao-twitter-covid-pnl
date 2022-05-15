@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AxAuKL_Qo2nlvpyY_CkbH5JKe_M",
+  "id": "UgxrPAk56yW5jAejUwx4AaABAg",
+  "snippet": {
+    "videoId": "6LJCrtOfVz8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "e7AbLiL2I9YnJcbhODJU1FVnU98",
+      "id": "UgxrPAk56yW5jAejUwx4AaABAg",
+      "snippet": {
+        "videoId": "6LJCrtOfVz8",
+        "textDisplay": "Det \u00e4r bland dom b\u00e4sta videor jag sett den borde finnas p\u00e5 Spotify.",
+        "textOriginal": "Det \u00e4r bland dom b\u00e4sta videor jag sett den borde finnas p\u00e5 Spotify.",
+        "authorDisplayName": "Ida Raffalski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyesU7Mq-77MkOss61-bSpikOD7BcvllEUUZ5V3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCohQohmVPdDduzXfPVIeH7A",
+        "authorChannelId": {
+          "value": "UCohQohmVPdDduzXfPVIeH7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 17,
+        "publishedAt": "2020-04-23T06:02:31Z",
+        "updatedAt": "2020-04-23T06:02:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GZMHsT_8F1EYXtPGp47Xg_65LWI",
+      "id": "UgxrPAk56yW5jAejUwx4AaABAg.97mWHZ3HeU99Agsg0FTSId",
+      "snippet": {
+        "textDisplay": "Holler med",
+        "textOriginal": "Holler med",
+        "parentId": "UgxrPAk56yW5jAejUwx4AaABAg",
+        "authorDisplayName": "Sixten Reuszner Stensson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR21_eDRbNSydjb2RqSPbPikQs5ngTfuKMEFg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI6OYPeypEvcsOIIhWyLRxQ",
+        "authorChannelId": {
+          "value": "UCI6OYPeypEvcsOIIhWyLRxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-04T15:05:42Z",
+        "updatedAt": "2020-07-04T15:05:42Z"
+      }
+    }
+  ]
+}

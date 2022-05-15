@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aB_NNLleNKTtynw1yiXKZCTz6kg",
+  "id": "UgxBlyrdAWiWETzzxgV4AaABAg",
+  "snippet": {
+    "videoId": "NGRWsHbZrzE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "M7REpeiwnNYDpa9vvVVqmiLIOJs",
+      "id": "UgxBlyrdAWiWETzzxgV4AaABAg",
+      "snippet": {
+        "videoId": "NGRWsHbZrzE",
+        "textDisplay": "Tem que assina alguma chamada",
+        "textOriginal": "Tem que assina alguma chamada",
+        "authorDisplayName": "valtenir Barcelos Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0RgOFkNnu3zkeMWW0ECzxHxjRVD-wrcJU9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5zNM0lHOCWLwKG4NjxFYgQ",
+        "authorChannelId": {
+          "value": "UC5zNM0lHOCWLwKG4NjxFYgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-26T11:40:33Z",
+        "updatedAt": "2020-08-26T11:40:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VdO_jDZFG0hRjF3NqD1VifwpSTY",
+      "id": "UgxBlyrdAWiWETzzxgV4AaABAg.9CozKps_Bkc9Cp1JwBlP9u",
+      "snippet": {
+        "textDisplay": "Sim, o link para a lista de presen\u00e7a desta primeira palestra j\u00e1 est\u00e1 dispon\u00edvel no chat",
+        "textOriginal": "Sim, o link para a lista de presen\u00e7a desta primeira palestra j\u00e1 est\u00e1 dispon\u00edvel no chat",
+        "parentId": "UgxBlyrdAWiWETzzxgV4AaABAg",
+        "authorDisplayName": "Paola Miranda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHCLK66hoOtFoVVxisTAvPovvbgHyCtSO_nySAQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRYS-fJXPTRsJuN54l9zoDQ",
+        "authorChannelId": {
+          "value": "UCRYS-fJXPTRsJuN54l9zoDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-26T12:06:39Z",
+        "updatedAt": "2020-08-26T12:06:39Z"
+      }
+    }
+  ]
+}

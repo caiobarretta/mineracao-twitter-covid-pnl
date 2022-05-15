@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-EctbybVRA0S5XbGBEP1IqDmuQI",
+  "id": "UgwFEnRDrnrZdqRNPQV4AaABAg",
+  "snippet": {
+    "videoId": "RSBHMDUi0cg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JX1lvrOOgEyWlcwOiQH0rKP9Wkg",
+      "id": "UgwFEnRDrnrZdqRNPQV4AaABAg",
+      "snippet": {
+        "videoId": "RSBHMDUi0cg",
+        "textDisplay": "N\u00c3O  goistei",
+        "textOriginal": "N\u00c3O  goistei",
+        "authorDisplayName": "Manel Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1Cf7V4oqPYCmcYmi2KmasnCGrb8Zx02LCuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDmrgbb2VoPMerXDUVu8mPQ",
+        "authorChannelId": {
+          "value": "UCDmrgbb2VoPMerXDUVu8mPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-01T17:39:19Z",
+        "updatedAt": "2020-12-01T17:39:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DDa4kbiGhALfzZ-LOsJJ1SYkbkI",
+      "id": "UgwFEnRDrnrZdqRNPQV4AaABAg.9GjOVJdBGd19GjOYYlQacT",
+      "snippet": {
+        "textDisplay": "N\u00c3O goistei",
+        "textOriginal": "N\u00c3O goistei",
+        "parentId": "UgwFEnRDrnrZdqRNPQV4AaABAg",
+        "authorDisplayName": "Manel Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1Cf7V4oqPYCmcYmi2KmasnCGrb8Zx02LCuA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDmrgbb2VoPMerXDUVu8mPQ",
+        "authorChannelId": {
+          "value": "UCDmrgbb2VoPMerXDUVu8mPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-01T17:39:45Z",
+        "updatedAt": "2020-12-01T17:39:45Z"
+      }
+    }
+  ]
+}

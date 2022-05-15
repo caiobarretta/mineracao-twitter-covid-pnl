@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kzvfu2pHgno3m5Z50eJAa6UGGYc",
+  "id": "UgzGghRxAqihMiCvLzJ4AaABAg",
+  "snippet": {
+    "videoId": "RfXeB75iJH4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FWlk5qCMfR3qOgYsxznFxQkQJ1I",
+      "id": "UgzGghRxAqihMiCvLzJ4AaABAg",
+      "snippet": {
+        "videoId": "RfXeB75iJH4",
+        "textDisplay": "Legal de mais",
+        "textOriginal": "Legal de mais",
+        "authorDisplayName": "Izabela Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4Q6TpzVYGJptCQxO28BENuu17bi4euAHhEw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClTFQucPdeYryGaHT0xnCXA",
+        "authorChannelId": {
+          "value": "UClTFQucPdeYryGaHT0xnCXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-28T00:16:20Z",
+        "updatedAt": "2020-01-28T00:16:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JaEh7-VVcQqLgMbbowVhStbE9cE",
+      "id": "UgzGghRxAqihMiCvLzJ4AaABAg.94JSIq3t2Kr975K50037AG",
+      "snippet": {
+        "textDisplay": "\u2764\ufe0f",
+        "textOriginal": "\u2764\ufe0f",
+        "parentId": "UgzGghRxAqihMiCvLzJ4AaABAg",
+        "authorDisplayName": "ENFrente Enfermagem Continuada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlKDTNrBzl3C7yw9WRaCY1bt9yuSVricT5fl7BvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD9kk0EUEtflrRl6TV0lDyA",
+        "authorChannelId": {
+          "value": "UCD9kk0EUEtflrRl6TV0lDyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-06T02:09:21Z",
+        "updatedAt": "2020-04-06T02:09:21Z"
+      }
+    }
+  ]
+}

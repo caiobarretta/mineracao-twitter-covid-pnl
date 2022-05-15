@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O5kty0OI9q4kXNnzc0Gw88ohGHM",
+  "id": "UgyOxvGwR-6rITQgrCV4AaABAg",
+  "snippet": {
+    "videoId": "vGN5pBDaAaQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AMlrLImEFRO1NRjeaQ7Qv5PfgVo",
+      "id": "UgyOxvGwR-6rITQgrCV4AaABAg",
+      "snippet": {
+        "videoId": "vGN5pBDaAaQ",
+        "textDisplay": "Aula top",
+        "textOriginal": "Aula top",
+        "authorDisplayName": "Gilvania Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3MGIXVux3ADhDZlFgYaG6SPBt8eM0lDZyOg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3GUasYgrCAWVjYIv_zov1Q",
+        "authorChannelId": {
+          "value": "UC3GUasYgrCAWVjYIv_zov1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-27T15:38:56Z",
+        "updatedAt": "2022-02-27T15:38:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VbjBTJ-Xt9xlqXLTMWLFJvNUgdM",
+      "id": "UgyOxvGwR-6rITQgrCV4AaABAg.9Yxbp11kCEV9YyjkvyW6SS",
+      "snippet": {
+        "textDisplay": "\ud83d\ude03\u2764\ufe0f",
+        "textOriginal": "\ud83d\ude03\u2764\ufe0f",
+        "parentId": "UgyOxvGwR-6rITQgrCV4AaABAg",
+        "authorDisplayName": "ENFrente Enfermagem Continuada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlKDTNrBzl3C7yw9WRaCY1bt9yuSVricT5fl7BvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD9kk0EUEtflrRl6TV0lDyA",
+        "authorChannelId": {
+          "value": "UCD9kk0EUEtflrRl6TV0lDyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-28T02:07:31Z",
+        "updatedAt": "2022-02-28T02:07:31Z"
+      }
+    }
+  ]
+}

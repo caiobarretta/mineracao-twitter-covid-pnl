@@ -1,0 +1,181 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "B7rdlJhvEKEILBc1cuuLsQ354Qw",
+  "id": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6URymmzUFX_zyI-eymFfGnfYnrY",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "Thank you for your efforts!  I would like to know that: what if i want to save a scene with physical materials  to the legacy one. Is that possible ? Can i \"save as corona 6\" for example ?",
+        "textOriginal": "Thank you for your efforts!  I would like to know that: what if i want to save a scene with physical materials  to the legacy one. Is that possible ? Can i \"save as corona 6\" for example ?",
+        "authorDisplayName": "3D St\u00fcdyo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+        "authorChannelId": {
+          "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-01T04:15:13Z",
+        "updatedAt": "2021-09-01T04:15:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 7,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nnBmNgqQ2-lO8GYwnaexbQ_zyfI",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RxCrjRwl9F",
+      "snippet": {
+        "textDisplay": "@Mihajlo Ivkovski Can be undone by loading the previous version of the scene, or importing a problematic model from the old version of the scene into the new scene that has been converted. As noted in my other reply though, best thing is to engage in conversation over on the forums, since support and development can't monitor YouTube comments. Thanks! Tom",
+        "textOriginal": "@Mihajlo Ivkovski Can be undone by loading the previous version of the scene, or importing a problematic model from the old version of the scene into the new scene that has been converted. As noted in my other reply though, best thing is to engage in conversation over on the forums, since support and development can't monitor YouTube comments. Thanks! Tom",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-06T12:12:21Z",
+        "updatedAt": "2021-09-06T12:12:21Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "5frV1iVDtG4wtBVq8ksE2koktaQ",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RqOfqzRhUJ",
+      "snippet": {
+        "textDisplay": "@CoronaRenderer i think you are starting to overcomplicate things like vray did in the past. 3D St\u00fcdyo's question is a really good one and on point. \nIn this case, if the converter in corona 7 screws a material which previously was a good one in corona 6 there is no undoing.",
+        "textOriginal": "@CoronaRenderer i think you are starting to overcomplicate things like vray did in the past. 3D St\u00fcdyo's question is a really good one and on point. \nIn this case, if the converter in corona 7 screws a material which previously was a good one in corona 6 there is no undoing.",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "Mihajlo Ivkovski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1-LAdEBn20s0esu0xSNwIUynjugG1wYGf3Q_kIrc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHn6_QWMxs_wguLOB-nnxYg",
+        "authorChannelId": {
+          "value": "UCHn6_QWMxs_wguLOB-nnxYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-03T20:40:54Z",
+        "updatedAt": "2021-09-03T20:40:54Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "vTd0yKOaQpm8Py3kJcooKrsG40Q",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9Rmxh57R_nl",
+      "snippet": {
+        "textDisplay": "@3D St\u00fcdyo You are very welcome!",
+        "textOriginal": "@3D St\u00fcdyo You are very welcome!",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-02T12:38:41Z",
+        "updatedAt": "2021-09-02T12:38:41Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "VNJQcGzQn1MHU7vXllWrNU44O_M",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RlSAh-dfnQ",
+      "snippet": {
+        "textDisplay": "\u200b@CoronaRenderer Thank you !!! I will install corona 6 as you recommend :) Thanks again for quick reponse and valuable information. You guys are the best :)",
+        "textOriginal": "\u200b@CoronaRenderer Thank you !!! I will install corona 6 as you recommend :) Thanks again for quick reponse and valuable information. You guys are the best :)",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "3D St\u00fcdyo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+        "authorChannelId": {
+          "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-01T22:35:16Z",
+        "updatedAt": "2021-09-01T22:35:16Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "TnG2voyTQLluE9p_4NMsl-y7wPg",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9Rl2EpZe3sr",
+      "snippet": {
+        "textDisplay": "@3D St\u00fcdyo Scenes would need to be created in and saved from the older version - there are often other things that change, not just materials but things like the any UHD / 4K Cache files, render settings, etc. So it would be a choice on whether to create a scene using the latest version and features and offer that, or create a scene using older features (which users of new versions can convert to the new version). As a note, you can install more than one version of Corona at once, making it possible to use, say, Corona 7 for your scenes and renders for clients, but Corona 6 for scenes you intend to sell, etc. Hope that helps! Tom",
+        "textOriginal": "@3D St\u00fcdyo Scenes would need to be created in and saved from the older version - there are often other things that change, not just materials but things like the any UHD / 4K Cache files, render settings, etc. So it would be a choice on whether to create a scene using the latest version and features and offer that, or create a scene using older features (which users of new versions can convert to the new version). As a note, you can install more than one version of Corona at once, making it possible to use, say, Corona 7 for your scenes and renders for clients, but Corona 6 for scenes you intend to sell, etc. Hope that helps! Tom",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-01T18:48:38Z",
+        "updatedAt": "2021-09-01T18:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "84uBhiXGq7Qq27OzJTLz8VXC9MM",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RkvKTVkuWZ",
+      "snippet": {
+        "textDisplay": "@CoronaRenderer I agree with you! new version is better for sure, results are much more realistic. Thank you again :) \nThe reason of my question: 3d model sale websites using older versions to reach every user.",
+        "textOriginal": "@CoronaRenderer I agree with you! new version is better for sure, results are much more realistic. Thank you again :) \nThe reason of my question: 3d model sale websites using older versions to reach every user.",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "3D St\u00fcdyo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+        "authorChannelId": {
+          "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-01T17:39:30Z",
+        "updatedAt": "2021-09-01T17:39:30Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "dHOv489almEFVssDznjXT1j0xCg",
+      "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RkW2GNpFYD",
+      "snippet": {
+        "textDisplay": "Hi! No, that's not possible, sorry. While we work on compatibility where a new version can load and use what is present from an old version, the opposite is not possible (because the old version had no idea what the new features would be in the next version to have compatibility built in... we'd need a time machine :) ).\n\nAs for the materials, the Legacy Material (Corona 6 material) is only there to render old scenes, and is not recommended for any new scenes. Since it's legacy / deprecated, and should not be used, there's no way to convert back to it, or to save to the old version (as there is no reason to do so, the new material is better all round). Thanks! Tom",
+        "textOriginal": "Hi! No, that's not possible, sorry. While we work on compatibility where a new version can load and use what is present from an old version, the opposite is not possible (because the old version had no idea what the new features would be in the next version to have compatibility built in... we'd need a time machine :) ).\n\nAs for the materials, the Legacy Material (Corona 6 material) is only there to render old scenes, and is not recommended for any new scenes. Since it's legacy / deprecated, and should not be used, there's no way to convert back to it, or to save to the old version (as there is no reason to do so, the new material is better all round). Thanks! Tom",
+        "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-01T13:49:50Z",
+        "updatedAt": "2021-09-01T13:49:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dKwziuqXqoE8Hijbtac6KEiTMM0",
+  "id": "UgzwDauw85o9iNYhGpx4AaABAg",
+  "snippet": {
+    "videoId": "Z2qbgxp_2LI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GXnfgmbi4T7yTAtg18Z68cLphCo",
+      "id": "UgzwDauw85o9iNYhGpx4AaABAg",
+      "snippet": {
+        "videoId": "Z2qbgxp_2LI",
+        "textDisplay": "Marcos a\u00ed na aula do Mario,acho que vc tem que fazer uma condi\u00e7\u00e3o ou uma vari\u00e1vel pra quando reiniciar o layout sempre o inimigo tem que come\u00e7ar a ir apenas para uma dire\u00e7\u00e3o e n\u00e3o inverter a posi\u00e7\u00e3o sempre que reinicia o layout, Valeuz\u00e3o Marcos. Obrigado \ud83d\ude0a",
+        "textOriginal": "Marcos a\u00ed na aula do Mario,acho que vc tem que fazer uma condi\u00e7\u00e3o ou uma vari\u00e1vel pra quando reiniciar o layout sempre o inimigo tem que come\u00e7ar a ir apenas para uma dire\u00e7\u00e3o e n\u00e3o inverter a posi\u00e7\u00e3o sempre que reinicia o layout, Valeuz\u00e3o Marcos. Obrigado \ud83d\ude0a",
+        "authorDisplayName": "Jo\u00e3o Paulo Ara\u00fajo Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4KgTtdtLuft4Usw7U_Z95dO0x66o-0Sv9rw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLTo4eBVihl3Jaj1EqGX8WQ",
+        "authorChannelId": {
+          "value": "UCLTo4eBVihl3Jaj1EqGX8WQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T23:18:49Z",
+        "updatedAt": "2022-05-10T23:18:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0j7KG06xqkS7bS07h70pxtnraCo",
+      "id": "UgzwDauw85o9iNYhGpx4AaABAg.9arpgHI1DuZ9avtSHE3hp3",
+      "snippet": {
+        "textDisplay": "Siim, d\u00e1 pra resolver dessa forma mesmo",
+        "textOriginal": "Siim, d\u00e1 pra resolver dessa forma mesmo",
+        "parentId": "UgzwDauw85o9iNYhGpx4AaABAg",
+        "authorDisplayName": "Marcos Game Dev",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/a2HE9cDu4G_q183gVzk_h5TSSCulEaPtNg2pWN6z0rBz8nAGgVldiVV3hdz8YRk0QH2Xp3wek1Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC0RqWklkXJwAd_HIsxRZDg",
+        "authorChannelId": {
+          "value": "UCC0RqWklkXJwAd_HIsxRZDg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-12T13:08:41Z",
+        "updatedAt": "2022-05-12T13:08:41Z"
+      }
+    }
+  ]
+}

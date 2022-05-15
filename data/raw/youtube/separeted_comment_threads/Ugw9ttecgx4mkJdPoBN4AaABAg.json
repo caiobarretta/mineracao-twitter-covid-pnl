@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sQt0Jz2pLzvmCBgLRaeKlC0xKq4",
+  "id": "Ugw9ttecgx4mkJdPoBN4AaABAg",
+  "snippet": {
+    "videoId": "FK8ePEuRIQM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qaDeAYyDurrP-7Jdf8b7hncEI9o",
+      "id": "Ugw9ttecgx4mkJdPoBN4AaABAg",
+      "snippet": {
+        "videoId": "FK8ePEuRIQM",
+        "textDisplay": "N\u00e3o comer em restaurante por que?",
+        "textOriginal": "N\u00e3o comer em restaurante por que?",
+        "authorDisplayName": "MARIA TERESA DA FONSECA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLx23sbxDKDdhDdl9MTElCVSWU8B2yw2jgyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTh7kQ-gOqY423CIhBn1pzA",
+        "authorChannelId": {
+          "value": "UCTh7kQ-gOqY423CIhBn1pzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-15T01:38:14Z",
+        "updatedAt": "2021-10-15T01:38:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xmkutqNTY2Pj15byqYAJvBWOtQw",
+      "id": "Ugw9ttecgx4mkJdPoBN4AaABAg.9TVVIQAcpH19TVVedzROtI",
+      "snippet": {
+        "textDisplay": "Lugar fechado sem m\u00e1scara",
+        "textOriginal": "Lugar fechado sem m\u00e1scara",
+        "parentId": "Ugw9ttecgx4mkJdPoBN4AaABAg",
+        "authorDisplayName": "Ol\u00e1, Ci\u00eancia!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDvAWrYntyJUMYQT6I25hX4DfrtXNiWeP7L22zvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrSM1UV_KLAdTzgxyxl3POw",
+        "authorChannelId": {
+          "value": "UCrSM1UV_KLAdTzgxyxl3POw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-10-15T01:41:24Z",
+        "updatedAt": "2021-10-15T01:41:24Z"
+      }
+    }
+  ]
+}

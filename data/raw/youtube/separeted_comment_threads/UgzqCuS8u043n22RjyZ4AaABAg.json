@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jO1zfq2GzwbNogWuUl393YnQEU8",
+  "id": "UgzqCuS8u043n22RjyZ4AaABAg",
+  "snippet": {
+    "videoId": "feJVmaibMRs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jcz8lqxorBfqsE3hgMzOSFZKYN0",
+      "id": "UgzqCuS8u043n22RjyZ4AaABAg",
+      "snippet": {
+        "videoId": "feJVmaibMRs",
+        "textDisplay": "H\u00e9roe sin capa, \u00a1Excelente explicaci\u00f3n!",
+        "textOriginal": "H\u00e9roe sin capa, \u00a1Excelente explicaci\u00f3n!",
+        "authorDisplayName": "Maria Delgado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRe-eo1rKq29iUm-CI7rN0X3bFDocYJifFKLJAN7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9O1jrDwv5SvZrExu5ZbfcQ",
+        "authorChannelId": {
+          "value": "UC9O1jrDwv5SvZrExu5ZbfcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-16T06:45:00Z",
+        "updatedAt": "2021-06-16T06:45:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Bt8qWqEPFRJ7TgUkN1HcGDSw8H8",
+      "id": "UgzqCuS8u043n22RjyZ4AaABAg.9OdUDP0NHva9PUVtI87xU-",
+      "snippet": {
+        "textDisplay": "@Abjam rivera Muchas gracias por la informacion, si pudieras recomendar alguno, basico te agradeceria bastante, saludos!",
+        "textOriginal": "@Abjam rivera Muchas gracias por la informacion, si pudieras recomendar alguno, basico te agradeceria bastante, saludos!",
+        "parentId": "UgzqCuS8u043n22RjyZ4AaABAg",
+        "authorDisplayName": "Maria Delgado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRe-eo1rKq29iUm-CI7rN0X3bFDocYJifFKLJAN7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9O1jrDwv5SvZrExu5ZbfcQ",
+        "authorChannelId": {
+          "value": "UC9O1jrDwv5SvZrExu5ZbfcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-07T06:18:35Z",
+        "updatedAt": "2021-07-07T06:19:54Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "F6BidRYbmojbhSEzcur-WtEtmH8",
+      "id": "UgzqCuS8u043n22RjyZ4AaABAg.9OdUDP0NHva9PTQiciHxeR",
+      "snippet": {
+        "textDisplay": "El receptor ACE2 no existe en los alveolos para provocar neumonia, este receptor solo esta en las vias respiratorias altas. Checate un atlas de receptores te ahorro el trabajo https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue. E \u00bfAsi que como provoca neumonia esta enfermedad? Me parece que estan timando a la gente con que provoca neumonia.",
+        "textOriginal": "El receptor ACE2 no existe en los alveolos para provocar neumonia, este receptor solo esta en las vias respiratorias altas. Checate un atlas de receptores te ahorro el trabajo https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue. E \u00bfAsi que como provoca neumonia esta enfermedad? Me parece que estan timando a la gente con que provoca neumonia.",
+        "parentId": "UgzqCuS8u043n22RjyZ4AaABAg",
+        "authorDisplayName": "Abjam rivera",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuTrOEpR9yf6jnavScV7wFR_Du-tYrYb6fVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPHKYyZ4rkjDHmdcmn4dATw",
+        "authorChannelId": {
+          "value": "UCPHKYyZ4rkjDHmdcmn4dATw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-06T20:14:12Z",
+        "updatedAt": "2021-07-06T20:14:12Z"
+      }
+    }
+  ]
+}

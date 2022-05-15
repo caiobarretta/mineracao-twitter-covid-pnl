@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7uyoOW4Wi9Y1P0gwZf0vr_NJyaw",
+  "id": "UgzlRBTi0bzGICeDU0t4AaABAg",
+  "snippet": {
+    "videoId": "mCtB9T1WMhg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Xn96hKWvz0mjaqEz_JYeNpxRpRE",
+      "id": "UgzlRBTi0bzGICeDU0t4AaABAg",
+      "snippet": {
+        "videoId": "mCtB9T1WMhg",
+        "textDisplay": "3:45  Viu Alice e Marina ?",
+        "textOriginal": "3:45  Viu Alice e Marina ?",
+        "authorDisplayName": "carlosrrs12",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQe8dc1P-he8VY-UXd8xY5mWojSo5QYZ_HBww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_tXXLa2H8N6lNG_G3w8WCQ",
+        "authorChannelId": {
+          "value": "UC_tXXLa2H8N6lNG_G3w8WCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-13T13:50:53Z",
+        "updatedAt": "2021-03-13T13:51:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cJEKCB7i3FzH_KL8zCr0sGhHbzg",
+      "id": "UgzlRBTi0bzGICeDU0t4AaABAg.9KpcRWtMJTg9L2ljtkt5W4",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d",
+        "textOriginal": "\ud83d\udc4d",
+        "parentId": "UgzlRBTi0bzGICeDU0t4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-19T01:41:32Z",
+        "updatedAt": "2021-03-19T01:41:32Z"
+      }
+    }
+  ]
+}

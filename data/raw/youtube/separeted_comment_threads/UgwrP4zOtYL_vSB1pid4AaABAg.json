@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kq0KF7ugj4DmSDoZoo1BZofYpfI",
+  "id": "UgwrP4zOtYL_vSB1pid4AaABAg",
+  "snippet": {
+    "videoId": "1KT2Io_DuK0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XY9hMZ7LiYCVM0fjHBzZYr_5zOM",
+      "id": "UgwrP4zOtYL_vSB1pid4AaABAg",
+      "snippet": {
+        "videoId": "1KT2Io_DuK0",
+        "textDisplay": "aula maravilhosa",
+        "textOriginal": "aula maravilhosa",
+        "authorDisplayName": "Eufrazina Mesquita",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTv5i8DVcUf4KhAR_OZmCW9u-nSNP2P4_q-kujrFQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL0FK8yurJ0PqNbRuvf-DJQ",
+        "authorChannelId": {
+          "value": "UCL0FK8yurJ0PqNbRuvf-DJQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-26T13:44:13Z",
+        "updatedAt": "2021-11-26T13:44:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eUVRz4E-8QxKjMGDPucm9LHRslg",
+      "id": "UgwrP4zOtYL_vSB1pid4AaABAg.9VCwlQupzAI9VCxP07X8-5",
+      "snippet": {
+        "textDisplay": "Agradecemos seu elogio! \ud83e\udd89\ud83d\udc9c",
+        "textOriginal": "Agradecemos seu elogio! \ud83e\udd89\ud83d\udc9c",
+        "parentId": "UgwrP4zOtYL_vSB1pid4AaABAg",
+        "authorDisplayName": "Estrat\u00e9gia Concursos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gc-5mkb_egiDaOogxF76f2_1HqifPzg5c_gwUlV6mZ8lc3FHCP1SxswgElG_4K1OCjNxbxD1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChvwkhC3eHxJsVxW_ItDjdA",
+        "authorChannelId": {
+          "value": "UChvwkhC3eHxJsVxW_ItDjdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-26T13:49:45Z",
+        "updatedAt": "2021-11-26T13:49:45Z"
+      }
+    }
+  ]
+}

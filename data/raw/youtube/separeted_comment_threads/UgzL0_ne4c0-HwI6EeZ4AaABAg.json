@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BhAXU-7QSz9ApZiMjfqErDaha3g",
+  "id": "UgzL0_ne4c0-HwI6EeZ4AaABAg",
+  "snippet": {
+    "videoId": "jjUzW75LAfc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jm5xE_3xehYYVMzvY3NCT_ke7v0",
+      "id": "UgzL0_ne4c0-HwI6EeZ4AaABAg",
+      "snippet": {
+        "videoId": "jjUzW75LAfc",
+        "textDisplay": "Excelente,  consegu\u00ed tu contenido por un compa\u00f1ero del HAPL, Sigue asi!!",
+        "textOriginal": "Excelente,  consegu\u00ed tu contenido por un compa\u00f1ero del HAPL, Sigue asi!!",
+        "authorDisplayName": "Stephanie M",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTP7-DYjbMfCUmPN9xjEKi5_dXt9DbYfM9dkw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuY31Airo3hsgueVbJBFRzA",
+        "authorChannelId": {
+          "value": "UCuY31Airo3hsgueVbJBFRzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-02T00:12:07Z",
+        "updatedAt": "2020-05-02T00:12:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "n1K8wSl_fnMGCPjARpEyDpwjUOs",
+      "id": "UgzL0_ne4c0-HwI6EeZ4AaABAg.9883L1LdTCq988fDgQYf1Z",
+      "snippet": {
+        "textDisplay": "Stephanie M holaa! Muchas gracias por tu comentario, que gusto",
+        "textOriginal": "Stephanie M holaa! Muchas gracias por tu comentario, que gusto",
+        "parentId": "UgzL0_ne4c0-HwI6EeZ4AaABAg",
+        "authorDisplayName": "Medicina Encapsulada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxAzCEs9BueCnIH1vdz02Qt5--R35dJ-lH2YMNuw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1TisNYu-CsgSfIDbA2opGw",
+        "authorChannelId": {
+          "value": "UC1TisNYu-CsgSfIDbA2opGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-02T05:51:54Z",
+        "updatedAt": "2020-05-02T05:51:54Z"
+      }
+    }
+  ]
+}

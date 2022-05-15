@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yrte08qfgs6GwHNLt029JxDOjTo",
+  "id": "UgzFP_vRdTCl9toaerN4AaABAg",
+  "snippet": {
+    "videoId": "5CCso24Bxh8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3b0k6tEV1RQcyeq9ln7fipygGKQ",
+      "id": "UgzFP_vRdTCl9toaerN4AaABAg",
+      "snippet": {
+        "videoId": "5CCso24Bxh8",
+        "textDisplay": "En Mexico jamas hubo pandemia",
+        "textOriginal": "En Mexico jamas hubo pandemia",
+        "authorDisplayName": "AOF AO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJeK_vaRGj5eWBgZ-0el7Cbna6QRBOUBAVu7Kx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEN86rYHvBuzp16Cfld4DbQ",
+        "authorChannelId": {
+          "value": "UCEN86rYHvBuzp16Cfld4DbQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-04T16:24:42Z",
+        "updatedAt": "2021-11-04T16:24:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7JzwQ2P5ayM6waLzGXcZ44TFi7o",
+      "id": "UgzFP_vRdTCl9toaerN4AaABAg.9UK_d_GirRc9URljMvaHBI",
+      "snippet": {
+        "textDisplay": "Claro que hay.",
+        "textOriginal": "Claro que hay.",
+        "parentId": "UgzFP_vRdTCl9toaerN4AaABAg",
+        "authorDisplayName": "Ana DD",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3-cyZqeOKjmaNiYe5XDkQ5xt3GDLE2A8kbxw09CAKvVE_jWhrGhsofsIUNzwtl3MgSSj3UXqJlQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA1DulXfcZQi5wAHAIVmjZg",
+        "authorChannelId": {
+          "value": "UCA1DulXfcZQi5wAHAIVmjZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-07T11:25:02Z",
+        "updatedAt": "2021-11-07T11:25:02Z"
+      }
+    }
+  ]
+}

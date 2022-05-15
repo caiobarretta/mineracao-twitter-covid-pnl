@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1cnFk7b_qmvqJ0ER8axnbILLbj0",
+  "id": "UgwLv2h6RvzYwF0cb5x4AaABAg",
+  "snippet": {
+    "videoId": "nrSH33ET9a4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2o8nw2sdL5dmnKPjvGjiTmIxfhA",
+      "id": "UgwLv2h6RvzYwF0cb5x4AaABAg",
+      "snippet": {
+        "videoId": "nrSH33ET9a4",
+        "textDisplay": "Gostei da aula \ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "Gostei da aula \ud83d\udc4f\ud83c\udffb",
+        "authorDisplayName": "Sol Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTIAIT4JpSxn8bcdPVXYGkvoLuBS-RB1AijdLKefA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0wCLsK371NkOgoRsdxtxbA",
+        "authorChannelId": {
+          "value": "UC0wCLsK371NkOgoRsdxtxbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-11T01:02:16Z",
+        "updatedAt": "2022-02-11T01:02:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d4_onqrM36S40ERClL6K1Ha8uLM",
+      "id": "UgwLv2h6RvzYwF0cb5x4AaABAg.9YHqm5Y-DHs9YJliLxeL7z",
+      "snippet": {
+        "textDisplay": "Muito obrigado Sol!",
+        "textOriginal": "Muito obrigado Sol!",
+        "parentId": "UgwLv2h6RvzYwF0cb5x4AaABAg",
+        "authorDisplayName": "Prof. C\u00e1ssio Rossi - Mentor de Alta Performance",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-foK2Hq-ignV_8djEYA-AXexIJFEc9JUBta1lZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG0kQTTbkKjkKCMbWEIeUnQ",
+        "authorChannelId": {
+          "value": "UCG0kQTTbkKjkKCMbWEIeUnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-11T18:56:33Z",
+        "updatedAt": "2022-02-11T18:56:33Z"
+      }
+    }
+  ]
+}

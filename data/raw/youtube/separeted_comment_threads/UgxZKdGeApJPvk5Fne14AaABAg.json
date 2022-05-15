@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UNTTmTk_BQe0_o4c3FD_NvALObM",
+  "id": "UgxZKdGeApJPvk5Fne14AaABAg",
+  "snippet": {
+    "videoId": "1bnDICiuS58",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "D4GaEs4pLfa-IJNCs2ix5uYZ4wQ",
+      "id": "UgxZKdGeApJPvk5Fne14AaABAg",
+      "snippet": {
+        "videoId": "1bnDICiuS58",
+        "textDisplay": "SARA/SDRA \u00e9 a mesma coisa que SRAG?",
+        "textOriginal": "SARA/SDRA \u00e9 a mesma coisa que SRAG?",
+        "authorDisplayName": "Lucas Horta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOtXR1gLCC3o5asUdJbjHBkQSHQtA7AhnpWg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6S-Dfir-9xkeJYxzqr6zRg",
+        "authorChannelId": {
+          "value": "UC6S-Dfir-9xkeJYxzqr6zRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-26T17:46:32Z",
+        "updatedAt": "2021-05-26T17:46:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8DYisRFNWqKGfFYmbzhL5FN-ois",
+      "id": "UgxZKdGeApJPvk5Fne14AaABAg.9NoaEA-MxrJ9SsVMYutoIH",
+      "snippet": {
+        "textDisplay": "s",
+        "textOriginal": "s",
+        "parentId": "UgxZKdGeApJPvk5Fne14AaABAg",
+        "authorDisplayName": "Iago Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFc7xbgiGhNn_1lIV_dRy4m40CDxSApDsin0g3zg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbQlzn_SibXrH-CrVc2HFog",
+        "authorChannelId": {
+          "value": "UCbQlzn_SibXrH-CrVc2HFog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-29T12:49:10Z",
+        "updatedAt": "2021-09-29T12:49:10Z"
+      }
+    }
+  ]
+}

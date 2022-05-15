@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5ZSNbw_iG6h_Tgso2BO6q4-34a4",
+  "id": "UgzRkDaLUDOh9KURHH14AaABAg",
+  "snippet": {
+    "videoId": "5CCso24Bxh8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LUTUYln7SH--dq8noQVUWynrBiM",
+      "id": "UgzRkDaLUDOh9KURHH14AaABAg",
+      "snippet": {
+        "videoId": "5CCso24Bxh8",
+        "textDisplay": "Lo siento \ud83d\ude2d",
+        "textOriginal": "Lo siento \ud83d\ude2d",
+        "authorDisplayName": "Madelaine Charris",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbMUR061ES-rfB2t8tptGsR6tcIZ1PT01Mbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0mpSHuxlPIj6cGsUYjsHbw",
+        "authorChannelId": {
+          "value": "UC0mpSHuxlPIj6cGsUYjsHbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-02T23:58:03Z",
+        "updatedAt": "2021-11-02T23:58:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "THJog0uhtxUHXuQUcLEa2Z8g_Nk",
+      "id": "UgzRkDaLUDOh9KURHH14AaABAg.9UGEwD0Pasm9UIhiyXuCJp",
+      "snippet": {
+        "textDisplay": "@Japan ol Letraschinas la verdad es que todas esas noticias me interesan. Y me consuele ver lo que est\u00e1 pasando en la actualidad",
+        "textOriginal": "@Japan ol Letraschinas la verdad es que todas esas noticias me interesan. Y me consuele ver lo que est\u00e1 pasando en la actualidad",
+        "parentId": "UgzRkDaLUDOh9KURHH14AaABAg",
+        "authorDisplayName": "Madelaine Charris",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbMUR061ES-rfB2t8tptGsR6tcIZ1PT01Mbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0mpSHuxlPIj6cGsUYjsHbw",
+        "authorChannelId": {
+          "value": "UC0mpSHuxlPIj6cGsUYjsHbw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-03T22:56:51Z",
+        "updatedAt": "2021-11-03T22:56:51Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "X4wNKVVu3b-cX2sls8OPCGG_-9Y",
+      "id": "UgzRkDaLUDOh9KURHH14AaABAg.9UGEwD0Pasm9UHwCkyjCah",
+      "snippet": {
+        "textDisplay": "Por que fallecio alguien apegado a ti?",
+        "textOriginal": "Por que fallecio alguien apegado a ti?",
+        "parentId": "UgzRkDaLUDOh9KURHH14AaABAg",
+        "authorDisplayName": "Japan ol Letraschinas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-i6ylOpt6tL3Lo-LZEDtrH8mwzdlVYQuk3BLy2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfQ4TX64UwzeotGCnaqTbxg",
+        "authorChannelId": {
+          "value": "UCfQ4TX64UwzeotGCnaqTbxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-03T15:44:09Z",
+        "updatedAt": "2021-11-03T15:44:09Z"
+      }
+    }
+  ]
+}

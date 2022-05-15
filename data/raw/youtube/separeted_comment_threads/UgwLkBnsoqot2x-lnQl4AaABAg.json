@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZIe_rqDolpb_vh-HM9Al0iFa5yA",
+  "id": "UgwLkBnsoqot2x-lnQl4AaABAg",
+  "snippet": {
+    "videoId": "IovHxc9j7Yo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h7kZfjby4QKhPp6UfWAtNFqMv0s",
+      "id": "UgwLkBnsoqot2x-lnQl4AaABAg",
+      "snippet": {
+        "videoId": "IovHxc9j7Yo",
+        "textDisplay": "Heber boa noite estou com um probleminha aqui para carregar um projeto no Delphi o mesmo  reclama na abertura do projeto \"Error reading RESTServicePooler.MultiCORE: Property MultiCORE does not exist\". Poderia me ajudar acho que se trata do RESTDataware",
+        "textOriginal": "Heber boa noite estou com um probleminha aqui para carregar um projeto no Delphi o mesmo  reclama na abertura do projeto \"Error reading RESTServicePooler.MultiCORE: Property MultiCORE does not exist\". Poderia me ajudar acho que se trata do RESTDataware",
+        "authorDisplayName": "mayron amati",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGtLkw_WUvjSB-9xTdi5l7Mdus8tLMwheCK0rNsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMEAZZ99Dk5tnblui1lnZsg",
+        "authorChannelId": {
+          "value": "UCMEAZZ99Dk5tnblui1lnZsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-07T22:18:28Z",
+        "updatedAt": "2022-05-07T22:18:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iFcfcXe_Y0sjNdegTO_kVgbgr-8",
+      "id": "UgwLkBnsoqot2x-lnQl4AaABAg.9ak-OfiXMlY9akCP7P15r9",
+      "snippet": {
+        "textDisplay": "Heber ignora o erro j\u00e1 foi resolvido ( era somente ignorar )",
+        "textOriginal": "Heber ignora o erro j\u00e1 foi resolvido ( era somente ignorar )",
+        "parentId": "UgwLkBnsoqot2x-lnQl4AaABAg",
+        "authorDisplayName": "mayron amati",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGtLkw_WUvjSB-9xTdi5l7Mdus8tLMwheCK0rNsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMEAZZ99Dk5tnblui1lnZsg",
+        "authorChannelId": {
+          "value": "UCMEAZZ99Dk5tnblui1lnZsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-08T00:12:07Z",
+        "updatedAt": "2022-05-08T00:12:07Z"
+      }
+    }
+  ]
+}

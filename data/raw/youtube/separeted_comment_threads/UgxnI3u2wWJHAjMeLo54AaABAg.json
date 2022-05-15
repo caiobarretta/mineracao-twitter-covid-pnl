@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0JMhDDsu5QMOnw4OH-2QIvVJIIw",
+  "id": "UgxnI3u2wWJHAjMeLo54AaABAg",
+  "snippet": {
+    "videoId": "v5mWi85Gh5U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "86CzrNe8mBdvCCIFyEY6rqTiWAA",
+      "id": "UgxnI3u2wWJHAjMeLo54AaABAg",
+      "snippet": {
+        "videoId": "v5mWi85Gh5U",
+        "textDisplay": "Seu trabalho est\u00e1 sendo nota dez parab\u00e9ns",
+        "textOriginal": "Seu trabalho est\u00e1 sendo nota dez parab\u00e9ns",
+        "authorDisplayName": "Denis Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6zf6phvo1krjcgYTzGFVnQvEQSIsJh4ikUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmKziK0cqaQe-k2ZX56-twg",
+        "authorChannelId": {
+          "value": "UCmKziK0cqaQe-k2ZX56-twg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-01-17T18:07:22Z",
+        "updatedAt": "2022-01-17T18:07:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LBAm40d5LUNEgyvYHUaX_hXOfPk",
+      "id": "UgxnI3u2wWJHAjMeLo54AaABAg.9XJJDJZBG7S9XJK6mz_Q2y",
+      "snippet": {
+        "textDisplay": "Muito obrigado",
+        "textOriginal": "Muito obrigado",
+        "parentId": "UgxnI3u2wWJHAjMeLo54AaABAg",
+        "authorDisplayName": "Glauber Poubel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bhs1ajRYdQsg4UhL9Ezp92VQr1aVFypNUJVN7YHdpFIsGW-AMhWWDIkoXoJs4bUly-xUyZjr0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHU0sKwJBKjx95LyXQpCyhw",
+        "authorChannelId": {
+          "value": "UCHU0sKwJBKjx95LyXQpCyhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-17T18:15:13Z",
+        "updatedAt": "2022-01-17T18:15:13Z"
+      }
+    }
+  ]
+}

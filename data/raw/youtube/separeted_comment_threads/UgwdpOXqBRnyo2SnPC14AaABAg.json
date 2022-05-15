@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ut1yDqFTWoPxZRcAaV0yowc1jDM",
+  "id": "UgwdpOXqBRnyo2SnPC14AaABAg",
+  "snippet": {
+    "videoId": "tHQDJ7zqA_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Zl_mxwYrh53H029qxLYj-uWCTgI",
+      "id": "UgwdpOXqBRnyo2SnPC14AaABAg",
+      "snippet": {
+        "videoId": "tHQDJ7zqA_c",
+        "textDisplay": "Any plans for Aces in Corona for cinema 4d?",
+        "textOriginal": "Any plans for Aces in Corona for cinema 4d?",
+        "authorDisplayName": "NovaConcepts",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzdbEzdcd_etKhsjgLP6GlVJfTHqbgXo--n6goYw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCA_lXORxSPUuId_K06X73mg",
+        "authorChannelId": {
+          "value": "UCA_lXORxSPUuId_K06X73mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-19T20:59:04Z",
+        "updatedAt": "2021-08-19T20:59:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_d-cTohNi7wed2_-b6Lq4S5BKuA",
+      "id": "UgwdpOXqBRnyo2SnPC14AaABAg.9REnpkllNG49RGBOYFqSxD",
+      "snippet": {
+        "textDisplay": "You can see all official information on plans at https://trello.com/b/dgI8vjDb/corona-tentative-road-map-cinema-4d - nothing for ACES at the moment, sorry. You can always request new features at https://forum.corona-renderer.com/index.php?board=38.0 - thanks! Tom",
+        "textOriginal": "You can see all official information on plans at https://trello.com/b/dgI8vjDb/corona-tentative-road-map-cinema-4d - nothing for ACES at the moment, sorry. You can always request new features at https://forum.corona-renderer.com/index.php?board=38.0 - thanks! Tom",
+        "parentId": "UgwdpOXqBRnyo2SnPC14AaABAg",
+        "authorDisplayName": "CoronaRenderer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+        "authorChannelId": {
+          "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-20T09:52:55Z",
+        "updatedAt": "2021-08-20T09:52:55Z"
+      }
+    }
+  ]
+}

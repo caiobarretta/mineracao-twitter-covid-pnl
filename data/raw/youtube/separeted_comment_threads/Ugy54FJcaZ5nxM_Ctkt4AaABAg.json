@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O5R4GAcA-Eh8BlLJc-Y6OEE2aaI",
+  "id": "Ugy54FJcaZ5nxM_Ctkt4AaABAg",
+  "snippet": {
+    "videoId": "TJe7ADbraTw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ry3gIZgL1w6Z1_Pth_UlsXkBpyA",
+      "id": "Ugy54FJcaZ5nxM_Ctkt4AaABAg",
+      "snippet": {
+        "videoId": "TJe7ADbraTw",
+        "textDisplay": "Pessoalmente n\u00e3o acho que seja o momento certo para tal mudan\u00e7a",
+        "textOriginal": "Pessoalmente n\u00e3o acho que seja o momento certo para tal mudan\u00e7a",
+        "authorDisplayName": "Ana Beatriz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/wda600gdurjMgy1UmkxmrliWJCfJqY3eOYpCyjCzwxpRaPpL2oa53qO7EoEM5DBqgwM6vdBptw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8E6jzrSVw84RFaP5TlygHQ",
+        "authorChannelId": {
+          "value": "UC8E6jzrSVw84RFaP5TlygHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-03-08T21:34:24Z",
+        "updatedAt": "2022-03-08T21:34:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9utkhkkwCLZ1cBbUs3JDRorN3hM",
+      "id": "Ugy54FJcaZ5nxM_Ctkt4AaABAg.9ZKQePx-fFB9ZKShv7-8jq",
+      "snippet": {
+        "textDisplay": "\u00c9 um assunto delicado",
+        "textOriginal": "\u00c9 um assunto delicado",
+        "parentId": "Ugy54FJcaZ5nxM_Ctkt4AaABAg",
+        "authorDisplayName": "geo ilustrada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyuRJKhD2I66wvvL6wuG4NIDeEaK63ThJ43x7dGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC59k9M9B_CQeCMaNu6A3orA",
+        "authorChannelId": {
+          "value": "UC59k9M9B_CQeCMaNu6A3orA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-08T21:52:21Z",
+        "updatedAt": "2022-03-08T21:52:21Z"
+      }
+    }
+  ]
+}

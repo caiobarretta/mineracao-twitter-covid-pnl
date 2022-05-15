@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VfbdJu5g1MQPhPTj5xLQhMarKLo",
+  "id": "UgzuxCYypLXkWOuluWh4AaABAg",
+  "snippet": {
+    "videoId": "3pUZSS1Rbeg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6ff25yXy75hqU6JyHR-ARBr2Els",
+      "id": "UgzuxCYypLXkWOuluWh4AaABAg",
+      "snippet": {
+        "videoId": "3pUZSS1Rbeg",
+        "textDisplay": "Falou a m\u00eddia do Zhao Gl\u00f3ria, o cal\u00e7a apertada \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "textOriginal": "Falou a m\u00eddia do Zhao Gl\u00f3ria, o cal\u00e7a apertada \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "authorDisplayName": "Da Matta Antonio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iBN3e9FLqnXLRuc9DKtSIaUqRJBH3CVR13RxJiRRrnhI89DJlPk4WF7MZaEUhYcQiouKrZ9o7nE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw9Ydd__xxrURXDFf6k7U1Q",
+        "authorChannelId": {
+          "value": "UCw9Ydd__xxrURXDFf6k7U1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-21T11:23:02Z",
+        "updatedAt": "2021-04-21T11:23:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6FUtBfx5cP_kMmpWbwZj2GtCFtc",
+      "id": "UgzuxCYypLXkWOuluWh4AaABAg.9MOmWfzaRBV9MZGAGZSeUt",
+      "snippet": {
+        "textDisplay": "E qual m\u00eddia voc\u00ea recomenda?",
+        "textOriginal": "E qual m\u00eddia voc\u00ea recomenda?",
+        "parentId": "UgzuxCYypLXkWOuluWh4AaABAg",
+        "authorDisplayName": "Renan Taraborelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDAid7BhsI47G-BI226HY0PnC8Sqg9ws8NKfDekw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3L_720t3f8Sn4E3-PKdlyg",
+        "authorChannelId": {
+          "value": "UC3L_720t3f8Sn4E3-PKdlyg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-25T13:03:15Z",
+        "updatedAt": "2021-04-25T13:03:15Z"
+      }
+    }
+  ]
+}

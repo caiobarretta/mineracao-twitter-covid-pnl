@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZfBMnp3hzbz7BOl4CJESInrC41g",
+  "id": "UgxfI90h6Wd3Fa9u-wV4AaABAg",
+  "snippet": {
+    "videoId": "zQB6tHj7ndI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3qWZrfyNBYcM_Jv9-ANQuKN5NYc",
+      "id": "UgxfI90h6Wd3Fa9u-wV4AaABAg",
+      "snippet": {
+        "videoId": "zQB6tHj7ndI",
+        "textDisplay": "Professor Marcos, eu comprei um Esp32 h\u00e1 poucos dias. Tenho alguns conhecimentos de programa\u00e7\u00e3o em Arduino e sensores mas estou muito perdido em programar o Esp32. Voc\u00ea poderia me recomendar um livro / blog ou canal que ensine o passo a passo para integrar o Esp32 com o Mit app Inventor? Sei que precisa de um intermediador , eu estou buscando como fazer isso atrav\u00e9s do ThinkSpeak, mas n\u00e3o estou achando exemplos com o esp32, apenas com o esp8266. Por favor , me d\u00ea uma luz kkkk.",
+        "textOriginal": "Professor Marcos, eu comprei um Esp32 h\u00e1 poucos dias. Tenho alguns conhecimentos de programa\u00e7\u00e3o em Arduino e sensores mas estou muito perdido em programar o Esp32. Voc\u00ea poderia me recomendar um livro / blog ou canal que ensine o passo a passo para integrar o Esp32 com o Mit app Inventor? Sei que precisa de um intermediador , eu estou buscando como fazer isso atrav\u00e9s do ThinkSpeak, mas n\u00e3o estou achando exemplos com o esp32, apenas com o esp8266. Por favor , me d\u00ea uma luz kkkk.",
+        "authorDisplayName": "Tiago Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpL8yOFxIt1gaLDyMSb936JT6meAPCZhdgyV18=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl3Ht9ZLJzgLditcBQJqodw",
+        "authorChannelId": {
+          "value": "UCl3Ht9ZLJzgLditcBQJqodw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-23T23:05:02Z",
+        "updatedAt": "2020-07-23T23:05:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oi2LqmJC6dstP35IGusqBxFIKXo",
+      "id": "UgxfI90h6Wd3Fa9u-wV4AaABAg.9BTedMHlnzP9BYR7gDjJuU",
+      "snippet": {
+        "textDisplay": "@Professor Marcos Carnevali Vou assistir sua playlist , obrigado",
+        "textOriginal": "@Professor Marcos Carnevali Vou assistir sua playlist , obrigado",
+        "parentId": "UgxfI90h6Wd3Fa9u-wV4AaABAg",
+        "authorDisplayName": "Tiago Cruz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpL8yOFxIt1gaLDyMSb936JT6meAPCZhdgyV18=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl3Ht9ZLJzgLditcBQJqodw",
+        "authorChannelId": {
+          "value": "UCl3Ht9ZLJzgLditcBQJqodw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-25T19:34:26Z",
+        "updatedAt": "2020-07-25T19:34:26Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Ea7Dn4sAReKQjgS8eGqbSxsKkx0",
+      "id": "UgxfI90h6Wd3Fa9u-wV4AaABAg.9BTedMHlnzP9BWLPF_NOJi",
+      "snippet": {
+        "textDisplay": "O link do v\u00eddeo em que utilizamos a IDE do Arduino para programar o ES32 e enviar dados para a nuvem! https://youtu.be/Q0geriSwlg8",
+        "textOriginal": "O link do v\u00eddeo em que utilizamos a IDE do Arduino para programar o ES32 e enviar dados para a nuvem! https://youtu.be/Q0geriSwlg8",
+        "parentId": "UgxfI90h6Wd3Fa9u-wV4AaABAg",
+        "authorDisplayName": "Professor Marcos Carnevali",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFgu3khdwtHmNwQUgB2CqfslDjq7TuXxoxnyeCLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqBTN-ncv560paNjdXaivxg",
+        "authorChannelId": {
+          "value": "UCqBTN-ncv560paNjdXaivxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-25T00:05:56Z",
+        "updatedAt": "2020-07-25T00:05:56Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "mGzXbOjDgeLxs4LzSHduGSrJEtM",
+      "id": "UgxfI90h6Wd3Fa9u-wV4AaABAg.9BTedMHlnzP9BWL8Q-3Vv5",
+      "snippet": {
+        "textDisplay": "#Tiago Cruz ainda n\u00e3o encontrei algo sobre o Mit App Inventor e ESP32 (j\u00e1 usei com o Arduino tamb\u00e9m), quanto integrar o ESP32 com o ThinkSpeak, j\u00e1 fiz com a IDE do Arduino! Tenho um v\u00eddeo! Existe uma biblioteca especial para integrar o ESP32 via C do Arduino!!!  Veja na play list sobre Arduino e IoT, foi um curso que fiz com o professor Jean do Centro Paula Souza! Um colega.",
+        "textOriginal": "#Tiago Cruz ainda n\u00e3o encontrei algo sobre o Mit App Inventor e ESP32 (j\u00e1 usei com o Arduino tamb\u00e9m), quanto integrar o ESP32 com o ThinkSpeak, j\u00e1 fiz com a IDE do Arduino! Tenho um v\u00eddeo! Existe uma biblioteca especial para integrar o ESP32 via C do Arduino!!!  Veja na play list sobre Arduino e IoT, foi um curso que fiz com o professor Jean do Centro Paula Souza! Um colega.",
+        "parentId": "UgxfI90h6Wd3Fa9u-wV4AaABAg",
+        "authorDisplayName": "Professor Marcos Carnevali",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFgu3khdwtHmNwQUgB2CqfslDjq7TuXxoxnyeCLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqBTN-ncv560paNjdXaivxg",
+        "authorChannelId": {
+          "value": "UCqBTN-ncv560paNjdXaivxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-25T00:03:38Z",
+        "updatedAt": "2020-07-25T00:03:38Z"
+      }
+    }
+  ]
+}

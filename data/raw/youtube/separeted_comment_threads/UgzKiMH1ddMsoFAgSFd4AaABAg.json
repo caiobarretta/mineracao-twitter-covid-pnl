@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GxGZljDKHtngJOgC-Gpl7lRSWt4",
+  "id": "UgzKiMH1ddMsoFAgSFd4AaABAg",
+  "snippet": {
+    "videoId": "7XwOs0JPKCQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-bDsJpMuNd9YQPpJu3R5Ozq9-qQ",
+      "id": "UgzKiMH1ddMsoFAgSFd4AaABAg",
+      "snippet": {
+        "videoId": "7XwOs0JPKCQ",
+        "textDisplay": "Nunca foi pela sa\u00fade!!!",
+        "textOriginal": "Nunca foi pela sa\u00fade!!!",
+        "authorDisplayName": "Jaque Frdrch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlYWKoi6XHZ57YnagNljMiFUWgOXIx0cMO4COjmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC58ZMdjopxFutkpJHRp_mMg",
+        "authorChannelId": {
+          "value": "UC58ZMdjopxFutkpJHRp_mMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 73,
+        "publishedAt": "2022-01-21T21:54:12Z",
+        "updatedAt": "2022-01-21T21:54:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7DouK-WxZ2sCHkxv_70QJK7Dyd0",
+      "id": "UgzKiMH1ddMsoFAgSFd4AaABAg.9XU0MCw5o4Z9XYKEcOjtDJ",
+      "snippet": {
+        "textDisplay": "kkkkkk",
+        "textOriginal": "kkkkkk",
+        "parentId": "UgzKiMH1ddMsoFAgSFd4AaABAg",
+        "authorDisplayName": "Cantarelli Solano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-meXkT9jN4NGIQEojBIkCAX82vzWR99_K_JivLoUz4zSA0u0y7gGKR_QA87tOn64Wuux3cBuoFw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHDAB_5mn9KyN3qsmWkYfOw",
+        "authorChannelId": {
+          "value": "UCHDAB_5mn9KyN3qsmWkYfOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-23T14:04:54Z",
+        "updatedAt": "2022-01-23T14:04:54Z"
+      }
+    }
+  ]
+}

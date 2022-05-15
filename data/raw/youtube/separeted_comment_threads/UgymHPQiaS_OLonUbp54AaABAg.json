@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SZWui41SlPS1KWZ6tbFo31PNCIk",
+  "id": "UgymHPQiaS_OLonUbp54AaABAg",
+  "snippet": {
+    "videoId": "wyB2aMdnl0U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "F7O0cqouaTW1oTur6weQoW9gUJ4",
+      "id": "UgymHPQiaS_OLonUbp54AaABAg",
+      "snippet": {
+        "videoId": "wyB2aMdnl0U",
+        "textDisplay": "O meu resultado deu \n237,00 U /ml.\nO que significa?",
+        "textOriginal": "O meu resultado deu \n237,00 U /ml.\nO que significa?",
+        "authorDisplayName": "Izabel Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToy7NYFHyRwzBB0C-8KMoW2hHwgYppbI5EqNZkEvfj0cL9fZLhfkssIEhOTQC-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpBSc0dbUY3ZfaY9D2X_xhw",
+        "authorChannelId": {
+          "value": "UCpBSc0dbUY3ZfaY9D2X_xhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-09T20:13:34Z",
+        "updatedAt": "2021-08-09T20:13:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HVAGMp28Ru9iHF9X6DYN0ahMKr4",
+      "id": "UgymHPQiaS_OLonUbp54AaABAg.9QpyfmS-yGn9Rpoo3c-K6o",
+      "snippet": {
+        "textDisplay": "Estou h\u00e1 meses tentando descobrir esta resposta, mas at\u00e9 agora n\u00e3o consegui. tb.",
+        "textOriginal": "Estou h\u00e1 meses tentando descobrir esta resposta, mas at\u00e9 agora n\u00e3o consegui. tb.",
+        "parentId": "UgymHPQiaS_OLonUbp54AaABAg",
+        "authorDisplayName": "Orlando Thomas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZi4b-LnjwfrhVvq5BeO9K5vKYZLCMgJWfSYb6kw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQr6eTasy0RGZlvWLEVgsuA",
+        "authorChannelId": {
+          "value": "UCQr6eTasy0RGZlvWLEVgsuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T15:18:43Z",
+        "updatedAt": "2021-09-03T15:18:43Z"
+      }
+    }
+  ]
+}

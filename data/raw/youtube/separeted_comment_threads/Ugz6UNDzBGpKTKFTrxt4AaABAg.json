@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "X-UBKvTXnUHqn9Dr96sueGASSsw",
+  "id": "Ugz6UNDzBGpKTKFTrxt4AaABAg",
+  "snippet": {
+    "videoId": "NGRWsHbZrzE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "x_3nGLDvghs3awHgMSdVWd8xPOo",
+      "id": "Ugz6UNDzBGpKTKFTrxt4AaABAg",
+      "snippet": {
+        "videoId": "NGRWsHbZrzE",
+        "textDisplay": "Nao conseguir assinar a lista. Deu erro toda vez que abria o link",
+        "textOriginal": "Nao conseguir assinar a lista. Deu erro toda vez que abria o link",
+        "authorDisplayName": "tiane carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGdYFUF1a-IKfa9yImyQj7MdldUfikN1tjcwgz6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi29jZFH3y_e3csqoUkQ4hA",
+        "authorChannelId": {
+          "value": "UCi29jZFH3y_e3csqoUkQ4hA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-26T18:20:47Z",
+        "updatedAt": "2020-08-26T18:20:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_gjuTjCOA-DqeYH7DO1o5_4cTHY",
+      "id": "Ugz6UNDzBGpKTKFTrxt4AaABAg.9Cph8AYWedJ9CqNfh94m2t",
+      "snippet": {
+        "textDisplay": "Mas tentei fazer na hora",
+        "textOriginal": "Mas tentei fazer na hora",
+        "parentId": "Ugz6UNDzBGpKTKFTrxt4AaABAg",
+        "authorDisplayName": "tiane carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGdYFUF1a-IKfa9yImyQj7MdldUfikN1tjcwgz6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi29jZFH3y_e3csqoUkQ4hA",
+        "authorChannelId": {
+          "value": "UCi29jZFH3y_e3csqoUkQ4hA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-27T00:41:14Z",
+        "updatedAt": "2020-08-27T00:41:14Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "vgKjVyL6rWyiruWoB23X1Gycq6Y",
+      "id": "Ugz6UNDzBGpKTKFTrxt4AaABAg.9Cph8AYWedJ9CqJn1zdFFF",
+      "snippet": {
+        "textDisplay": "A presen\u00e7a \u00e9 contabilizada somente no hor\u00e1rio do evento quando palestra est\u00e1 estreada. Ela continua no canal apenas para que possam reassistir.",
+        "textOriginal": "A presen\u00e7a \u00e9 contabilizada somente no hor\u00e1rio do evento quando palestra est\u00e1 estreada. Ela continua no canal apenas para que possam reassistir.",
+        "parentId": "Ugz6UNDzBGpKTKFTrxt4AaABAg",
+        "authorDisplayName": "Imuno UESC",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSAsLp4Q9RmF2bsoB2pPWd0llnFEH_x0YYFgzVgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJFwSffOtJCoMvOXeH9jlFw",
+        "authorChannelId": {
+          "value": "UCJFwSffOtJCoMvOXeH9jlFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-27T00:07:17Z",
+        "updatedAt": "2020-08-27T00:07:17Z"
+      }
+    }
+  ]
+}

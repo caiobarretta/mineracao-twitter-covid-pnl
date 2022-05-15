@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M2yCfz4aE5gugXiO_mUzNfEV1fY",
+  "id": "Ugw1MOmwkGGoIeaLXtR4AaABAg",
+  "snippet": {
+    "videoId": "uZjmMlPCNJw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7QA_Xs2wRPSTcC166xwUvUM1o4s",
+      "id": "Ugw1MOmwkGGoIeaLXtR4AaABAg",
+      "snippet": {
+        "videoId": "uZjmMlPCNJw",
+        "textDisplay": "Lula no primeiro turno",
+        "textOriginal": "Lula no primeiro turno",
+        "authorDisplayName": "@Bozo ladr\u00e3o or\u00e7amento secreto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyEPbKAEFkLRfcRPwK18f-UbbJLVqqKQ3JEU4xZR-WvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzQUyigEmwoDZ2UBoSgbOgQ",
+        "authorChannelId": {
+          "value": "UCzQUyigEmwoDZ2UBoSgbOgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-10T04:53:54Z",
+        "updatedAt": "2022-05-10T04:53:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-k-a0v_N5NJ26Bmn2t7E5x3NbvI",
+      "id": "Ugw1MOmwkGGoIeaLXtR4AaABAg.9aprEfAnuM_9awHqGX-F7M",
+      "snippet": {
+        "textDisplay": "Concordo plenamente com vc",
+        "textOriginal": "Concordo plenamente com vc",
+        "parentId": "Ugw1MOmwkGGoIeaLXtR4AaABAg",
+        "authorDisplayName": "Francisco Sobrinho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQezsgNdd-7v_LbiBBx7XLyVAt4QHp5e34MdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCehwTrLKiwoYbwzRcZnI59Q",
+        "authorChannelId": {
+          "value": "UCehwTrLKiwoYbwzRcZnI59Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-12T16:50:33Z",
+        "updatedAt": "2022-05-12T16:50:33Z"
+      }
+    }
+  ]
+}

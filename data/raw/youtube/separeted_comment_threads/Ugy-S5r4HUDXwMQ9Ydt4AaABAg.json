@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YX92o85rEtiWIvXr2EfIBO5Kfzs",
+  "id": "Ugy-S5r4HUDXwMQ9Ydt4AaABAg",
+  "snippet": {
+    "videoId": "KAV6fnhmg80",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lvzSJNaLTOQAMEmUolsrZ8hQ2N0",
+      "id": "Ugy-S5r4HUDXwMQ9Ydt4AaABAg",
+      "snippet": {
+        "videoId": "KAV6fnhmg80",
+        "textDisplay": "Muito bom, vi um peda\u00e7o no facebook e vim pra ca. o sus e fundamental e voce falou muito bem.",
+        "textOriginal": "Muito bom, vi um peda\u00e7o no facebook e vim pra ca. o sus e fundamental e voce falou muito bem.",
+        "authorDisplayName": "maria silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQfO0qV4v6u0Q3PcCKQeWGDd_JikUrapGletA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCh6OWd-vlUhYbfPme845A8Q",
+        "authorChannelId": {
+          "value": "UCh6OWd-vlUhYbfPme845A8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-10-29T20:09:17Z",
+        "updatedAt": "2020-10-29T20:09:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "m6M-Cw9Jcof2sAxnRuu2IebKsZs",
+      "id": "Ugy-S5r4HUDXwMQ9Ydt4AaABAg.9FPgQpPlweK9FQmi4WVqn2",
+      "snippet": {
+        "textDisplay": "Muito Obrigado Maria!!!",
+        "textOriginal": "Muito Obrigado Maria!!!",
+        "parentId": "Ugy-S5r4HUDXwMQ9Ydt4AaABAg",
+        "authorDisplayName": "Nem 5 Minutos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7rbeDjac3NnnwqibfaUPWdvfjfYSEMRFz9ipk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCRsToJiFq222swtV9r9x4w",
+        "authorChannelId": {
+          "value": "UCCRsToJiFq222swtV9r9x4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-30T06:23:26Z",
+        "updatedAt": "2020-10-30T06:23:26Z"
+      }
+    }
+  ]
+}
