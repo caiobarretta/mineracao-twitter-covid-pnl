@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "q-dd_J2g-qffveMEF34CYDH7yfs",
+  "id": "UgyMUAUYRYqPIGSxT8t4AaABAg",
+  "snippet": {
+    "videoId": "VtSz59jez-Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lT33_fwLQG-Kx5AGJI1fu9ywdQ0",
+      "id": "UgyMUAUYRYqPIGSxT8t4AaABAg",
+      "snippet": {
+        "videoId": "VtSz59jez-Y",
+        "textDisplay": "Professor, qual ferramenta utilizou para gravar a aula?",
+        "textOriginal": "Professor, qual ferramenta utilizou para gravar a aula?",
+        "authorDisplayName": "Laerte Xavier",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNzL6R-3y0ybtTQoo20D_4rGveCxrDR1aJTfUwxg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb8MsmfOSaDAUCHaqA-6HAA",
+        "authorChannelId": {
+          "value": "UCb8MsmfOSaDAUCHaqA-6HAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T12:45:47Z",
+        "updatedAt": "2020-03-26T12:45:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qSFbZWckGBeHg-2JW_h7wxG9KUQ",
+      "id": "UgyMUAUYRYqPIGSxT8t4AaABAg.96f8Ag6jK8p96ff2a5WqBc",
+      "snippet": {
+        "textDisplay": "@Flavio Figueiredo Obrigado!",
+        "textOriginal": "@Flavio Figueiredo Obrigado!",
+        "parentId": "UgyMUAUYRYqPIGSxT8t4AaABAg",
+        "authorDisplayName": "Laerte Xavier",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNzL6R-3y0ybtTQoo20D_4rGveCxrDR1aJTfUwxg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb8MsmfOSaDAUCHaqA-6HAA",
+        "authorChannelId": {
+          "value": "UCb8MsmfOSaDAUCHaqA-6HAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T17:41:46Z",
+        "updatedAt": "2020-03-26T17:41:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "yLgsJxzOKD0KA69Xr0ffzAemrhY",
+      "id": "UgyMUAUYRYqPIGSxT8t4AaABAg.96f8Ag6jK8p96fT9pWWUwK",
+      "snippet": {
+        "textDisplay": "O PC foi um surface go. Gravei a tela com OBS Studio e uso o gINK para anotar. https://github.com/geovens/gInk. Funciona com qualquer touch screen + caneta.",
+        "textOriginal": "O PC foi um surface go. Gravei a tela com OBS Studio e uso o gINK para anotar. https://github.com/geovens/gInk. Funciona com qualquer touch screen + caneta.",
+        "parentId": "UgyMUAUYRYqPIGSxT8t4AaABAg",
+        "authorDisplayName": "Flavio Figueiredo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-DfoerwvoakXexBDiH3pp7J5uCYYPFNAXhA8uWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC5C1Hxp8zVp5J42MudBG7g",
+        "authorChannelId": {
+          "value": "UCC5C1Hxp8zVp5J42MudBG7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-26T15:49:08Z",
+        "updatedAt": "2020-03-26T15:49:08Z"
+      }
+    }
+  ]
+}

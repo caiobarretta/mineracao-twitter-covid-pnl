@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "ehQsi-fmjRBzRoRn9no6Qkkjz7s",
+  "etag": "hotMU_wsm1js2Uz6XH5TkkAyeIY",
   "id": "UgzOUcIIaqgiq9MCBNV4AaABAg",
   "snippet": {
     "videoId": "LLelnPhkk6c",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "Gif6xFuDjxs5jZ5Wy_jY9E7lfZs",
+      "etag": "laSir26kDGu6I0WuDPYjsp8h6eY",
       "id": "UgzOUcIIaqgiq9MCBNV4AaABAg",
       "snippet": {
         "videoId": "LLelnPhkk6c",
@@ -20,19 +20,40 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 14,
+        "likeCount": 17,
         "publishedAt": "2022-05-01T18:44:32Z",
         "updatedAt": "2022-05-01T18:44:32Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 2,
+    "totalReplyCount": 3,
     "isPublic": true
   },
   "comments": [
     {
       "kind": "youtube#comment",
-      "etag": "pCcLdLnJL3V0r9Mq53jy3fn0nuk",
+      "etag": "EAUKx1ajF9qGJJEvojobqAeHl5k",
+      "id": "UgzOUcIIaqgiq9MCBNV4AaABAg.9aVA8YV_aSH9apHvjwjMT8",
+      "snippet": {
+        "textDisplay": "No le afecta.",
+        "textOriginal": "No le afecta.",
+        "parentId": "UgzOUcIIaqgiq9MCBNV4AaABAg",
+        "authorDisplayName": "Gustavo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QfVgH1bc-LKZo2wybgxtv42p2a6Lm2O0Mtize3qdQDKDCB3MuM0cw0qc_UO8TGhh6lfQC1rrQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIIRHAZJ7LFZro-6R61br2g",
+        "authorChannelId": {
+          "value": "UCIIRHAZJ7LFZro-6R61br2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T23:36:36Z",
+        "updatedAt": "2022-05-09T23:36:36Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "X7GG_RmFgWYcc_UnxZkS5TUgH8g",
       "id": "UgzOUcIIaqgiq9MCBNV4AaABAg.9aVA8YV_aSH9al2XSBdLty",
       "snippet": {
         "textDisplay": "@HV FT \u00f3sea depende de la otan jaja ok.",
@@ -46,14 +67,14 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 0,
+        "likeCount": 2,
         "publishedAt": "2022-05-08T08:05:07Z",
         "updatedAt": "2022-05-08T08:05:07Z"
       }
     },
     {
       "kind": "youtube#comment",
-      "etag": "ZeeB6pB2WYe9Z5ccZhK7Huw4kqU",
+      "etag": "cvbEy5z3PoFJA0wok8qepoF8aWI",
       "id": "UgzOUcIIaqgiq9MCBNV4AaABAg.9aVA8YV_aSH9abVPLYFHy0",
       "snippet": {
         "textDisplay": "Pero vamos a ver\ud83d\ude02\ud83d\ude02 china no quiere meterse en la guerra por su econom\u00eda tan grande con los pa\u00edses de la otan es por eso no por no apoyar a Rusia por el conflicto",
@@ -67,7 +88,7 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 0,
+        "likeCount": 1,
         "publishedAt": "2022-05-04T15:05:01Z",
         "updatedAt": "2022-05-04T15:05:01Z"
       }

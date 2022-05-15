@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R4eGIKr3P9LIshZNtcMgNMSscmQ",
+  "id": "Ugz3dV4J631nPAdAQxd4AaABAg",
+  "snippet": {
+    "videoId": "85lpoNmwuPA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yG3M6KTthaX0uG9ydJDIZWoS1eg",
+      "id": "Ugz3dV4J631nPAdAQxd4AaABAg",
+      "snippet": {
+        "videoId": "85lpoNmwuPA",
+        "textDisplay": "Parab\u00e9ns! Muito esclarecedor!",
+        "textOriginal": "Parab\u00e9ns! Muito esclarecedor!",
+        "authorDisplayName": "Maria Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTg6iQ6DqSI_0mvJKU68uIgKSaQAWf2p8AxrA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMMfZTAuxmHaHkNtlIptWCQ",
+        "authorChannelId": {
+          "value": "UCMMfZTAuxmHaHkNtlIptWCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-20T01:15:44Z",
+        "updatedAt": "2022-04-20T01:15:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "guDTKOLKjRgKIJRRH6R3rwteaGY",
+      "id": "Ugz3dV4J631nPAdAQxd4AaABAg.9a0yNCh8P079a1-MLFR08f",
+      "snippet": {
+        "textDisplay": "\ud83d\ude42",
+        "textOriginal": "\ud83d\ude42",
+        "parentId": "Ugz3dV4J631nPAdAQxd4AaABAg",
+        "authorDisplayName": "Henrique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/fK_bNHGpsssUSoHm0kXpD0QkII-ZiSRc57OWlIfa-CMxieVzRHQv2uMRN8CMG7ZINDHJBsIw3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLS-udF3quRKFcnQTpjmrRw",
+        "authorChannelId": {
+          "value": "UCLS-udF3quRKFcnQTpjmrRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-20T01:33:05Z",
+        "updatedAt": "2022-04-20T01:33:05Z"
+      }
+    }
+  ]
+}

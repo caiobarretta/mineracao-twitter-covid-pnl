@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "YACSFCCPjR0x6r-1h89Yt_DAWMc",
+  "etag": "dPruMtbhA2B7sof2-c7Z9rpHNe4",
   "id": "UgwoZOfFvLZSdr45q454AaABAg",
   "snippet": {
     "videoId": "LLelnPhkk6c",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "nC47iwDaPfaoFEgTnXCPI9laQZo",
+      "etag": "rNvXuhi5eOEE8xFWBwJnRg6fr8A",
       "id": "UgwoZOfFvLZSdr45q454AaABAg",
       "snippet": {
         "videoId": "LLelnPhkk6c",
@@ -20,14 +20,57 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 2,
+        "likeCount": 7,
         "publishedAt": "2022-05-03T16:08:22Z",
         "updatedAt": "2022-05-03T16:08:22Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 0,
+    "totalReplyCount": 2,
     "isPublic": true
   },
-  "comments": []
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hA78Le6p68eiVq0WdXpzjnX6j8M",
+      "id": "UgwoZOfFvLZSdr45q454AaABAg.9a_1rV_4biL9axCfpH3-aG",
+      "snippet": {
+        "textDisplay": "tu pericia no esta errada",
+        "textOriginal": "tu pericia no esta errada",
+        "parentId": "UgwoZOfFvLZSdr45q454AaABAg",
+        "authorDisplayName": "El Inexperto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSO7nlTRdnPcfihlwPgI0oyPrbyYHgZ9KBn1V8G=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAckrHlc921_Cp_SgUR2E-w",
+        "authorChannelId": {
+          "value": "UCAckrHlc921_Cp_SgUR2E-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-13T01:24:40Z",
+        "updatedAt": "2022-05-13T01:24:40Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "gFpuy0jCc_wCZKXyRl9_Dq8zwDo",
+      "id": "UgwoZOfFvLZSdr45q454AaABAg.9a_1rV_4biL9asl749u3fw",
+      "snippet": {
+        "textDisplay": "Exactamente...",
+        "textOriginal": "Exactamente...",
+        "parentId": "UgwoZOfFvLZSdr45q454AaABAg",
+        "authorDisplayName": "Yosef Yeshayah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AEcZ5KHCe2nnerDzVBFP2GRO2lDSsVu4fENlSqka58Rzia8qo6Lq-3EiWDi92PNUrG-k3WPZ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVzfxL9diUrk5i49ZuA93uA",
+        "authorChannelId": {
+          "value": "UCVzfxL9diUrk5i49ZuA93uA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-11T07:58:09Z",
+        "updatedAt": "2022-05-11T07:58:09Z"
+      }
+    }
+  ]
 }

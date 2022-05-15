@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YmTA8uc4wOV0gZY1s0-xxcE7lhM",
+  "id": "Ugyv1NoChmuK_nk2QqN4AaABAg",
+  "snippet": {
+    "videoId": "95YKrqVNd8I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xlzJvwHIld6LvH89_fMbXYqjeI4",
+      "id": "Ugyv1NoChmuK_nk2QqN4AaABAg",
+      "snippet": {
+        "videoId": "95YKrqVNd8I",
+        "textDisplay": "muito bom entendi po",
+        "textOriginal": "muito bom entendi po",
+        "authorDisplayName": "Rafael Luiz Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS57WfI3WSJqxBh8wACW1ZalwL1N8DudVb28CqkGw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaaI1b5YTsmiz6Sw--X1goA",
+        "authorChannelId": {
+          "value": "UCaaI1b5YTsmiz6Sw--X1goA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-24T18:57:18Z",
+        "updatedAt": "2022-02-24T18:57:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ypZzpjM2ZnLHCiYb8jeovt_Er3M",
+      "id": "Ugyv1NoChmuK_nk2QqN4AaABAg.9YqF8IQOT7X9Yw6qb7_VUi",
+      "snippet": {
+        "textDisplay": "Boooa , Rafael!!! Bons estudos!!!",
+        "textOriginal": "Boooa , Rafael!!! Bons estudos!!!",
+        "parentId": "Ugyv1NoChmuK_nk2QqN4AaABAg",
+        "authorDisplayName": "QUIBIO com Vitor Considera",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFEB5FVrSRMf88ynobN9xFGKH3nnETEmZa2F5JJn0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb9qN-IMnT4ApURYwwClrpg",
+        "authorChannelId": {
+          "value": "UCb9qN-IMnT4ApURYwwClrpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-27T01:40:17Z",
+        "updatedAt": "2022-02-27T01:40:17Z"
+      }
+    }
+  ]
+}

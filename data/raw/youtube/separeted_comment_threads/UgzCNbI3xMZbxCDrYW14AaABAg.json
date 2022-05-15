@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "6LHdDkfRTAHsC0aXc0w5mkhpffY",
+  "etag": "XGpbWIy97cmuC-XFPJ3_d1j3fT4",
   "id": "UgzCNbI3xMZbxCDrYW14AaABAg",
   "snippet": {
     "videoId": "5yqlaQ09tp4",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "XxA5cclVdYQXGRan6QQDLNf8Etw",
+      "etag": "AfC9-DUKEk_a_2rHKORvDUMHaNg",
       "id": "UgzCNbI3xMZbxCDrYW14AaABAg",
       "snippet": {
         "videoId": "5yqlaQ09tp4",
@@ -20,14 +20,57 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 0,
+        "likeCount": 5,
         "publishedAt": "2022-05-09T15:03:12Z",
         "updatedAt": "2022-05-09T15:03:12Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 0,
+    "totalReplyCount": 2,
     "isPublic": true
   },
-  "comments": []
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tO5s-3mO-PX0hFhm3vbmheripEw",
+      "id": "UgzCNbI3xMZbxCDrYW14AaABAg.9aoNANrTq229b-s9Az-xfK",
+      "snippet": {
+        "textDisplay": "@JQ start researching alternate therapies , NAC, zinc, ivermectin, etc. Try to replace/restock their gut biomes with probiotics as well",
+        "textOriginal": "@JQ start researching alternate therapies , NAC, zinc, ivermectin, etc. Try to replace/restock their gut biomes with probiotics as well",
+        "parentId": "UgzCNbI3xMZbxCDrYW14AaABAg",
+        "authorDisplayName": "CM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS11XId1z3ykSxatA7KfSAPY7cosyIMJXO0qZ4jHoWJ1b5t7lbhOI-y1jUHmY0diA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdKxStUrtUUEl7ZbztifjMg",
+        "authorChannelId": {
+          "value": "UCdKxStUrtUUEl7ZbztifjMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-14T11:33:32Z",
+        "updatedAt": "2022-05-14T11:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "djZ7cs7xUEkM-awBiYbNA3Qd_Fc",
+      "id": "UgzCNbI3xMZbxCDrYW14AaABAg.9aoNANrTq229b-rZcou-GO",
+      "snippet": {
+        "textDisplay": "My 24 year old daughter has ulcerative colitis now. Her husband, whom I barely saw sick with a cold before, has been sick for a month and a half with cough, congestion, and fatigue. His immune system is not the same. Yet they will still with a straight face ban the unvaccinated from things.",
+        "textOriginal": "My 24 year old daughter has ulcerative colitis now. Her husband, whom I barely saw sick with a cold before, has been sick for a month and a half with cough, congestion, and fatigue. His immune system is not the same. Yet they will still with a straight face ban the unvaccinated from things.",
+        "parentId": "UgzCNbI3xMZbxCDrYW14AaABAg",
+        "authorDisplayName": "JQ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdLkmgDH867K5T5EBzXOSdZuqePa6Wn06QeP9Dlnz0JuPUqv0PvmC9vnge4Kxbrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrq46_jJx_IblauQAaSvbLA",
+        "authorChannelId": {
+          "value": "UCrq46_jJx_IblauQAaSvbLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-14T11:28:25Z",
+        "updatedAt": "2022-05-14T11:28:25Z"
+      }
+    }
+  ]
 }

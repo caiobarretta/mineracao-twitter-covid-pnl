@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "S7GYKHkaqP1HHZsDewl1rJOhpwQ",
+  "id": "UgyWbSDZGQ6J797R1n14AaABAg",
+  "snippet": {
+    "videoId": "VtSz59jez-Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dSIholr8mMCLJuUVOFPwbzbEdcA",
+      "id": "UgyWbSDZGQ6J797R1n14AaABAg",
+      "snippet": {
+        "videoId": "VtSz59jez-Y",
+        "textDisplay": "Ficou muito bacana o v\u00eddeo, Fl\u00e1vio. Parab\u00e9ns pelo trabalho!",
+        "textOriginal": "Ficou muito bacana o v\u00eddeo, Fl\u00e1vio. Parab\u00e9ns pelo trabalho!",
+        "authorDisplayName": "Fernando Magno Quintao Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShpCaIF-3HrLqy54RbKtUQRDKim-vhfKg6FmpYXQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg5bk7P64WdvdIpxQ0OxnwQ",
+        "authorChannelId": {
+          "value": "UCg5bk7P64WdvdIpxQ0OxnwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-25T23:30:44Z",
+        "updatedAt": "2020-03-25T23:30:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "l8ygXXsSxA7E-05EnxPKaSMi_i4",
+      "id": "UgyWbSDZGQ6J797R1n14AaABAg.96diBYXt7_096dj7YQreDs",
+      "snippet": {
+        "textDisplay": "Obrigado.",
+        "textOriginal": "Obrigado.",
+        "parentId": "UgyWbSDZGQ6J797R1n14AaABAg",
+        "authorDisplayName": "Flavio Figueiredo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-DfoerwvoakXexBDiH3pp7J5uCYYPFNAXhA8uWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC5C1Hxp8zVp5J42MudBG7g",
+        "authorChannelId": {
+          "value": "UCC5C1Hxp8zVp5J42MudBG7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-25T23:38:55Z",
+        "updatedAt": "2020-03-25T23:38:55Z"
+      }
+    }
+  ]
+}
