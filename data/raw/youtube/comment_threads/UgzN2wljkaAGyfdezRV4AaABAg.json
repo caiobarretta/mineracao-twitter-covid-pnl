@@ -1,0 +1,2215 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "gLUj2-moaB3Nre_1A21IZ1kt2g0",
+    "id": "UgwxDziuC3KwCmRduSV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "CiGTJVAirHpfoateDCUU9nmpHus",
+        "id": "UgwxDziuC3KwCmRduSV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "There is a huge problem at 28:25\nWhat will happen when we import so many 3d assets that already have been completed either with the older versions of corona or vray and we use the new corona converter?\nIt will just produce such mayhem since Corona 7 will convert the materials into physical materials and a lot of times that will be plain wrong. I expected an issue when used the converter on a bed model and all the fabrics were converted into metallic materials so i had to go one by one material and reset the material back to default. \nCould you elaborate a little more on this subject?",
+          "textOriginal": "There is a huge problem at 28:25\nWhat will happen when we import so many 3d assets that already have been completed either with the older versions of corona or vray and we use the new corona converter?\nIt will just produce such mayhem since Corona 7 will convert the materials into physical materials and a lot of times that will be plain wrong. I expected an issue when used the converter on a bed model and all the fabrics were converted into metallic materials so i had to go one by one material and reset the material back to default. \nCould you elaborate a little more on this subject?",
+          "authorDisplayName": "Mihajlo Ivkovski",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1-LAdEBn20s0esu0xSNwIUynjugG1wYGf3Q_kIrc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCHn6_QWMxs_wguLOB-nnxYg",
+          "authorChannelId": {
+            "value": "UCHn6_QWMxs_wguLOB-nnxYg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 3,
+          "publishedAt": "2021-09-03T20:37:25Z",
+          "updatedAt": "2021-09-03T20:37:25Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "idq7pdO3X88ERhfzwOf-ES03Lqk",
+        "id": "UgwxDziuC3KwCmRduSV4AaABAg.9RqOHLUMsHv9RxChzwTZGd",
+        "snippet": {
+          "textDisplay": "Hi! YouTube comments are not read by developers or support, so the best place to engage in conversation about this is over on the forums. There is even a specific thread for discussing the converter at https://forum.corona-renderer.com/index.php?topic=33253.0\n\nAs a quick note, there are always going to be some issues, because some older materials would be \"physically impossible\" so converting them into a \"physically probable\" is never going to be 100%. But for those, if it's vital they look the same using the impossible material, they can be kept as the Legacy material. Thanks! Tom",
+          "textOriginal": "Hi! YouTube comments are not read by developers or support, so the best place to engage in conversation about this is over on the forums. There is even a specific thread for discussing the converter at https://forum.corona-renderer.com/index.php?topic=33253.0\n\nAs a quick note, there are always going to be some issues, because some older materials would be \"physically impossible\" so converting them into a \"physically probable\" is never going to be 100%. But for those, if it's vital they look the same using the impossible material, they can be kept as the Legacy material. Thanks! Tom",
+          "parentId": "UgwxDziuC3KwCmRduSV4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-09-06T12:11:01Z",
+          "updatedAt": "2021-09-06T12:11:01Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "B7rdlJhvEKEILBc1cuuLsQ354Qw",
+    "id": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "6URymmzUFX_zyI-eymFfGnfYnrY",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Thank you for your efforts!  I would like to know that: what if i want to save a scene with physical materials  to the legacy one. Is that possible ? Can i \"save as corona 6\" for example ?",
+          "textOriginal": "Thank you for your efforts!  I would like to know that: what if i want to save a scene with physical materials  to the legacy one. Is that possible ? Can i \"save as corona 6\" for example ?",
+          "authorDisplayName": "3D St\u00fcdyo",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+          "authorChannelId": {
+            "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-01T04:15:13Z",
+          "updatedAt": "2021-09-01T04:15:13Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 7,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "nnBmNgqQ2-lO8GYwnaexbQ_zyfI",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RxCrjRwl9F",
+        "snippet": {
+          "textDisplay": "@Mihajlo Ivkovski Can be undone by loading the previous version of the scene, or importing a problematic model from the old version of the scene into the new scene that has been converted. As noted in my other reply though, best thing is to engage in conversation over on the forums, since support and development can't monitor YouTube comments. Thanks! Tom",
+          "textOriginal": "@Mihajlo Ivkovski Can be undone by loading the previous version of the scene, or importing a problematic model from the old version of the scene into the new scene that has been converted. As noted in my other reply though, best thing is to engage in conversation over on the forums, since support and development can't monitor YouTube comments. Thanks! Tom",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-06T12:12:21Z",
+          "updatedAt": "2021-09-06T12:12:21Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "5frV1iVDtG4wtBVq8ksE2koktaQ",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RqOfqzRhUJ",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer i think you are starting to overcomplicate things like vray did in the past. 3D St\u00fcdyo's question is a really good one and on point. \nIn this case, if the converter in corona 7 screws a material which previously was a good one in corona 6 there is no undoing.",
+          "textOriginal": "@CoronaRenderer i think you are starting to overcomplicate things like vray did in the past. 3D St\u00fcdyo's question is a really good one and on point. \nIn this case, if the converter in corona 7 screws a material which previously was a good one in corona 6 there is no undoing.",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "Mihajlo Ivkovski",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1-LAdEBn20s0esu0xSNwIUynjugG1wYGf3Q_kIrc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCHn6_QWMxs_wguLOB-nnxYg",
+          "authorChannelId": {
+            "value": "UCHn6_QWMxs_wguLOB-nnxYg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-09-03T20:40:54Z",
+          "updatedAt": "2021-09-03T20:40:54Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "vTd0yKOaQpm8Py3kJcooKrsG40Q",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9Rmxh57R_nl",
+        "snippet": {
+          "textDisplay": "@3D St\u00fcdyo You are very welcome!",
+          "textOriginal": "@3D St\u00fcdyo You are very welcome!",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-02T12:38:41Z",
+          "updatedAt": "2021-09-02T12:38:41Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "VNJQcGzQn1MHU7vXllWrNU44O_M",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RlSAh-dfnQ",
+        "snippet": {
+          "textDisplay": "\u200b@CoronaRenderer Thank you !!! I will install corona 6 as you recommend :) Thanks again for quick reponse and valuable information. You guys are the best :)",
+          "textOriginal": "\u200b@CoronaRenderer Thank you !!! I will install corona 6 as you recommend :) Thanks again for quick reponse and valuable information. You guys are the best :)",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "3D St\u00fcdyo",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+          "authorChannelId": {
+            "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T22:35:16Z",
+          "updatedAt": "2021-09-01T22:35:16Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "TnG2voyTQLluE9p_4NMsl-y7wPg",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9Rl2EpZe3sr",
+        "snippet": {
+          "textDisplay": "@3D St\u00fcdyo Scenes would need to be created in and saved from the older version - there are often other things that change, not just materials but things like the any UHD / 4K Cache files, render settings, etc. So it would be a choice on whether to create a scene using the latest version and features and offer that, or create a scene using older features (which users of new versions can convert to the new version). As a note, you can install more than one version of Corona at once, making it possible to use, say, Corona 7 for your scenes and renders for clients, but Corona 6 for scenes you intend to sell, etc. Hope that helps! Tom",
+          "textOriginal": "@3D St\u00fcdyo Scenes would need to be created in and saved from the older version - there are often other things that change, not just materials but things like the any UHD / 4K Cache files, render settings, etc. So it would be a choice on whether to create a scene using the latest version and features and offer that, or create a scene using older features (which users of new versions can convert to the new version). As a note, you can install more than one version of Corona at once, making it possible to use, say, Corona 7 for your scenes and renders for clients, but Corona 6 for scenes you intend to sell, etc. Hope that helps! Tom",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T18:48:38Z",
+          "updatedAt": "2021-09-01T18:48:38Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "84uBhiXGq7Qq27OzJTLz8VXC9MM",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RkvKTVkuWZ",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer I agree with you! new version is better for sure, results are much more realistic. Thank you again :) \nThe reason of my question: 3d model sale websites using older versions to reach every user.",
+          "textOriginal": "@CoronaRenderer I agree with you! new version is better for sure, results are much more realistic. Thank you again :) \nThe reason of my question: 3d model sale websites using older versions to reach every user.",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "3D St\u00fcdyo",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMAoE-diyOv5YKBTy65hXBBnMpn_fLvUMZaSE7sw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCcMNd0stwRpDMLyE_Vx3bqw",
+          "authorChannelId": {
+            "value": "UCcMNd0stwRpDMLyE_Vx3bqw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-01T17:39:30Z",
+          "updatedAt": "2021-09-01T17:39:30Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "dHOv489almEFVssDznjXT1j0xCg",
+        "id": "UgyAnAGoWeb7KHd6CHd4AaABAg.9RjUHg0Xjf_9RkW2GNpFYD",
+        "snippet": {
+          "textDisplay": "Hi! No, that's not possible, sorry. While we work on compatibility where a new version can load and use what is present from an old version, the opposite is not possible (because the old version had no idea what the new features would be in the next version to have compatibility built in... we'd need a time machine :) ).\n\nAs for the materials, the Legacy Material (Corona 6 material) is only there to render old scenes, and is not recommended for any new scenes. Since it's legacy / deprecated, and should not be used, there's no way to convert back to it, or to save to the old version (as there is no reason to do so, the new material is better all round). Thanks! Tom",
+          "textOriginal": "Hi! No, that's not possible, sorry. While we work on compatibility where a new version can load and use what is present from an old version, the opposite is not possible (because the old version had no idea what the new features would be in the next version to have compatibility built in... we'd need a time machine :) ).\n\nAs for the materials, the Legacy Material (Corona 6 material) is only there to render old scenes, and is not recommended for any new scenes. Since it's legacy / deprecated, and should not be used, there's no way to convert back to it, or to save to the old version (as there is no reason to do so, the new material is better all round). Thanks! Tom",
+          "parentId": "UgyAnAGoWeb7KHd6CHd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T13:49:50Z",
+          "updatedAt": "2021-09-01T13:49:50Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "r9IyDsLp9msV1HEaKXTqrJ65EuI",
+    "id": "UgzN2wljkaAGyfdezRV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ADSssXGHrh8r8V3pOIil4hsPfm8",
+        "id": "UgzN2wljkaAGyfdezRV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "same as always full of forward-thinking features keep continue PROS.\ud83d\ude0e\ud83c\udf7a even though I hope we can get more about ANIMATING and realism like UE5 by GPU s. u know, we need something more than single frame renders by Corona engine top-notch quality.",
+          "textOriginal": "same as always full of forward-thinking features keep continue PROS.\ud83d\ude0e\ud83c\udf7a even though I hope we can get more about ANIMATING and realism like UE5 by GPU s. u know, we need something more than single frame renders by Corona engine top-notch quality.",
+          "authorDisplayName": "Ata safarzadeh",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0t50W6bJ8U2cn_JgQ2zCcJfqF_7XG8ns8Gg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCiAE22Rfd6MOmrk2PgyxMnw",
+          "authorChannelId": {
+            "value": "UCiAE22Rfd6MOmrk2PgyxMnw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T18:26:08Z",
+          "updatedAt": "2021-08-19T18:54:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 4,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "4KkqnQwS5UyVjDMXRl26diUk6N4",
+        "id": "UgzN2wljkaAGyfdezRV4AaABAg.9REXK_ijJhY9RHXxio_lcE",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer lll",
+          "textOriginal": "@CoronaRenderer lll",
+          "parentId": "UgzN2wljkaAGyfdezRV4AaABAg",
+          "authorDisplayName": "pixelator studio",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQah-ahnfLthC8VlC2D6bFQsZWQAebsUEDdnxO7=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCwaFPsnNsZWR856x2frqsCQ",
+          "authorChannelId": {
+            "value": "UCwaFPsnNsZWR856x2frqsCQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T22:29:20Z",
+          "updatedAt": "2021-08-20T22:29:20Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "7j4M8hWtmXQXgXck7KO9e7fbLvw",
+        "id": "UgzN2wljkaAGyfdezRV4AaABAg.9REXK_ijJhY9RHXk6jgov-",
+        "snippet": {
+          "textDisplay": "\ud83d\ude09",
+          "textOriginal": "\ud83d\ude09",
+          "parentId": "UgzN2wljkaAGyfdezRV4AaABAg",
+          "authorDisplayName": "pixelator studio",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQah-ahnfLthC8VlC2D6bFQsZWQAebsUEDdnxO7=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCwaFPsnNsZWR856x2frqsCQ",
+          "authorChannelId": {
+            "value": "UCwaFPsnNsZWR856x2frqsCQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T22:27:28Z",
+          "updatedAt": "2021-08-20T22:27:28Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "DOLnWjOH8PSt0E1L2oYWkYByN-w",
+        "id": "UgzN2wljkaAGyfdezRV4AaABAg.9REXK_ijJhY9RHXWEojTAZ",
+        "snippet": {
+          "textDisplay": "\ud83d\ude09",
+          "textOriginal": "\ud83d\ude09",
+          "parentId": "UgzN2wljkaAGyfdezRV4AaABAg",
+          "authorDisplayName": "pixelator studio",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQah-ahnfLthC8VlC2D6bFQsZWQAebsUEDdnxO7=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCwaFPsnNsZWR856x2frqsCQ",
+          "authorChannelId": {
+            "value": "UCwaFPsnNsZWR856x2frqsCQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T22:25:26Z",
+          "updatedAt": "2021-08-20T22:25:26Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "UQsC9BFDYP5-B2hErHExe28xo-o",
+        "id": "UgzN2wljkaAGyfdezRV4AaABAg.9REXK_ijJhY9RGBBh7Cd7R",
+        "snippet": {
+          "textDisplay": "We already get more than single frame renders from Corona, lots of people making lots of great animations :) https://www.youtube.com/watch?v=WLgxPt3NPYo as a small number of examples from last year! Tom",
+          "textOriginal": "We already get more than single frame renders from Corona, lots of people making lots of great animations :) https://www.youtube.com/watch?v=WLgxPt3NPYo as a small number of examples from last year! Tom",
+          "parentId": "UgzN2wljkaAGyfdezRV4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T09:51:09Z",
+          "updatedAt": "2021-08-20T09:51:09Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "xLTy4KuzCYiCl6R1COyw4mLjLtk",
+    "id": "Ugyw1SngsgPsd6rFPqV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hs5FhsqT3myYCT6iai0FNP4tZ20",
+        "id": "Ugyw1SngsgPsd6rFPqV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "The tooltips are immensely valuable. thx!",
+          "textOriginal": "The tooltips are immensely valuable. thx!",
+          "authorDisplayName": "ian",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTsPVYm5bgaZx1_QUbUoFlyxIARuZJApSrORsZePL8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC8mKCDBkC_2ezvoeR5STk5A",
+          "authorChannelId": {
+            "value": "UC8mKCDBkC_2ezvoeR5STk5A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-28T23:40:29Z",
+          "updatedAt": "2021-08-28T23:40:29Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "G1tbgXgJlQjdxspnCcDKW1CjM6k",
+    "id": "UgxLkpoQO5NqFYBV3kF4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "UEYFbPxGW7tQnDh2HzZBtkmXJvI",
+        "id": "UgxLkpoQO5NqFYBV3kF4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Hi guys. So I was wondering what happened to the reflection slot. Where can I plug in the reflection maps on the new physical material",
+          "textOriginal": "Hi guys. So I was wondering what happened to the reflection slot. Where can I plug in the reflection maps on the new physical material",
+          "authorDisplayName": "Stephen Rupia",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHufCVZ8WqSD1-RKROuu0hchsrlm2EEvsjyiRgow=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UClJrOCyDs3FzwkFkHc0fsQQ",
+          "authorChannelId": {
+            "value": "UClJrOCyDs3FzwkFkHc0fsQQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-23T10:50:28Z",
+          "updatedAt": "2021-08-23T10:50:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "j46tnJ_6QFu4wiPNA0u_gZN3WpA",
+        "id": "UgxLkpoQO5NqFYBV3kF4AaABAg.9RO0MiYHoUg9RfEToE1_7p",
+        "snippet": {
+          "textDisplay": "That is a good question! So with the new Physical Material the idea is that you're creating materials in a more physically correct way and arbitrarily putting in a map to control the reflection intensity is ... Not so correct.\n\nTo that end you can achieve similar control in a more physically correct way by plugging in the proper roughness / glossiness map where you can control how \"diffuse\" certain parts of the material are - and if they are really diffuse then the reflections will look dimmer.\n\nThat said if you want to use reflection maps with the Specular workflow in mind then going under the \"Advanced\" tab in the new Physical Material and selecting \"Disney Specular\" in there might be what you want.\n\nIn any case we'd suggest hopping over to our forums (https://forum.corona-renderer.com/index.php) where you can open up a thread and we can discuss things in even more detail.\nNejc",
+          "textOriginal": "That is a good question! So with the new Physical Material the idea is that you're creating materials in a more physically correct way and arbitrarily putting in a map to control the reflection intensity is ... Not so correct.\n\nTo that end you can achieve similar control in a more physically correct way by plugging in the proper roughness / glossiness map where you can control how \"diffuse\" certain parts of the material are - and if they are really diffuse then the reflections will look dimmer.\n\nThat said if you want to use reflection maps with the Specular workflow in mind then going under the \"Advanced\" tab in the new Physical Material and selecting \"Disney Specular\" in there might be what you want.\n\nIn any case we'd suggest hopping over to our forums (https://forum.corona-renderer.com/index.php) where you can open up a thread and we can discuss things in even more detail.\nNejc",
+          "parentId": "UgxLkpoQO5NqFYBV3kF4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-30T12:40:06Z",
+          "updatedAt": "2021-08-31T12:48:04Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "by7dnz9mvxYT3EUrxM7gsKkC5pY",
+    "id": "UgzJBKj8HRDIWLaW4Ah4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "y1vvPxSBCrYnC-04ZPcxd-m4FQM",
+        "id": "UgzJBKj8HRDIWLaW4Ah4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Amazing! Thank you",
+          "textOriginal": "Amazing! Thank you",
+          "authorDisplayName": "Nedim Onur Akay",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/OYui_bp2P9-r21_nbwDrRcquBWl6mCwnqNTxh9R8fu6-y1SO9hnVHg6Q83ndPldRdzX2Fwuyyw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXBFrFsy-PeMG3BhwQ0bGIg",
+          "authorChannelId": {
+            "value": "UCXBFrFsy-PeMG3BhwQ0bGIg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-08-19T15:28:51Z",
+          "updatedAt": "2021-08-19T15:28:51Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "IbxPepM5djNfZzfEhXyuYyobPm0",
+    "id": "Ugxh1yU3PTPhcVfwGOl4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "gs5hU7u4zMDfJQvz0FBQ-5_YwLM",
+        "id": "Ugxh1yU3PTPhcVfwGOl4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "The sheen feature is amazing !!",
+          "textOriginal": "The sheen feature is amazing !!",
+          "authorDisplayName": "Yousef R",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTXm_zweI1H79RxlX__uqa0pH52hQ3d48PHclFHdg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCcFqjl5AWjJf5BCIjt-nlFA",
+          "authorChannelId": {
+            "value": "UCcFqjl5AWjJf5BCIjt-nlFA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 4,
+          "publishedAt": "2021-08-19T16:25:51Z",
+          "updatedAt": "2021-08-19T16:25:51Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "O2OeyIHEaqkPHZS_weMXczIMNVI",
+        "id": "Ugxh1yU3PTPhcVfwGOl4AaABAg.9REJZfDYejk9REKgfexsez",
+        "snippet": {
+          "textDisplay": "Thank you! It will make creating fabrics so much easier :) Tom",
+          "textOriginal": "Thank you! It will make creating fabrics so much easier :) Tom",
+          "parentId": "Ugxh1yU3PTPhcVfwGOl4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-19T16:35:41Z",
+          "updatedAt": "2021-08-19T16:35:41Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "vqNZMnVPdT4zK6_5DSxGGmlYlkg",
+    "id": "Ugz-KwRGpBX3pdNlsaN4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "6973QJOjUvN9sRMfyjvLR_BjC3Q",
+        "id": "Ugz-KwRGpBX3pdNlsaN4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "\ud83d\udcaf\ud83d\udc4c Awesome render engine",
+          "textOriginal": "\ud83d\udcaf\ud83d\udc4c Awesome render engine",
+          "authorDisplayName": "Revocolor",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScNkHEePRFVSxcxtsB7SCaiiNsA6InJPJlvd-_jg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCvCeiWbl4FAWS2pI4vmy_9Q",
+          "authorChannelId": {
+            "value": "UCvCeiWbl4FAWS2pI4vmy_9Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-20T23:29:36Z",
+          "updatedAt": "2021-08-20T23:29:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "4fKzRc9eTKdN1ajdtrqGrhNkhfE",
+    "id": "UgylXmq6VInam5sRA4N4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ZJpA8kpM_f-Ixv481bNzf4vum04",
+        "id": "UgylXmq6VInam5sRA4N4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "How much more in detail will be these new features covered in corona academy online? I m planning on buying it next month or so",
+          "textOriginal": "How much more in detail will be these new features covered in corona academy online? I m planning on buying it next month or so",
+          "authorDisplayName": "bron lebron",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwm3EXw9mrjCilZi_T2409end361ErsM2tRoEV_w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCLynX6x_3T5yijHgKK7RdEA",
+          "authorChannelId": {
+            "value": "UCLynX6x_3T5yijHgKK7RdEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-31T14:11:07Z",
+          "updatedAt": "2021-08-31T14:11:07Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "1P9KH1zUrvXhaGU69MpKjqlksec",
+        "id": "UgylXmq6VInam5sRA4N4AaABAg.9RhygLtDJL_9RkVAMFfDXg",
+        "snippet": {
+          "textDisplay": "The Academy goes through things parameter by parameter, so a lot more detail than here which is more of a quick overview. Hope that helps! Tom",
+          "textOriginal": "The Academy goes through things parameter by parameter, so a lot more detail than here which is more of a quick overview. Hope that helps! Tom",
+          "parentId": "UgylXmq6VInam5sRA4N4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T13:42:12Z",
+          "updatedAt": "2021-09-01T13:42:12Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "-M9_356-c26Msyz26D8ZcEX3FG4",
+    "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "3tbNmg5aruvG6PlW63B1RORD_jA",
+        "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "I just finished an on-line course on Corona and 3DS Max, but it only used the legacy Corona materials, and now I am completely lost on how to interpret the differences \u2026and how to convert them (the Corona converter doesn't always convert accurately). This video touches on the differences, but is it possible to make one that focuses on how to convert our old legacy materials accurately into the new Physical ones? (e.g. what is the new equivalent of Refl. gloss?)",
+          "textOriginal": "I just finished an on-line course on Corona and 3DS Max, but it only used the legacy Corona materials, and now I am completely lost on how to interpret the differences \u2026and how to convert them (the Corona converter doesn't always convert accurately). This video touches on the differences, but is it possible to make one that focuses on how to convert our old legacy materials accurately into the new Physical ones? (e.g. what is the new equivalent of Refl. gloss?)",
+          "authorDisplayName": "John B.",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-dFmQfx7bItRWlNz6oRhREBof7dclcRTI_B2Y=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXTxp_bGPNdDvrAKqUIzxVg",
+          "authorChannelId": {
+            "value": "UCXTxp_bGPNdDvrAKqUIzxVg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-08T06:17:29Z",
+          "updatedAt": "2021-09-08T06:17:29Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 2,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "H9RRqHSiehJlJAFK2M_aOTDNu6A",
+        "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg.9S0iqKkJA8n9S1e1m8zONT",
+        "snippet": {
+          "textDisplay": "Reflection glossiness is the same (if you swap to Glossiness mode, which can be done per material, or as a default for all scenes). Or you can use Roughness (you can swap between them by inverting a bitmap, but it's easier to use the bitmap in its original form and just choose whether it's Glossiness or Roughness in the material)",
+          "textOriginal": "Reflection glossiness is the same (if you swap to Glossiness mode, which can be done per material, or as a default for all scenes). Or you can use Roughness (you can swap between them by inverting a bitmap, but it's easier to use the bitmap in its original form and just choose whether it's Glossiness or Roughness in the material)",
+          "parentId": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-08T14:54:44Z",
+          "updatedAt": "2021-09-08T14:54:44Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "d2thyvHEJA4kfxPMFhH0jmDBUY8",
+        "id": "Ugx7NG1bjOPFoHwKLVV4AaABAg.9S0iqKkJA8n9S1drmhZ-p2",
+        "snippet": {
+          "textDisplay": "Hi! We will do our best to have several videos on the Physical Material, but those will come over time. Meantime, check the helpdesk where there are shorter, more specific videos that may help, and you can always post over on the forums too for help in specific cases (do note that if a material was not physically realistic in any other material, including the Legacy, it may be impossible to tell how it should be converted automatically to the Physical Material, so automatic conversion may not always be possible). https://forum.corona-renderer.com/index.php?topic=33253.0 would be the thread for conversion questions, issues, etc. Thanks! Tom",
+          "textOriginal": "Hi! We will do our best to have several videos on the Physical Material, but those will come over time. Meantime, check the helpdesk where there are shorter, more specific videos that may help, and you can always post over on the forums too for help in specific cases (do note that if a material was not physically realistic in any other material, including the Legacy, it may be impossible to tell how it should be converted automatically to the Physical Material, so automatic conversion may not always be possible). https://forum.corona-renderer.com/index.php?topic=33253.0 would be the thread for conversion questions, issues, etc. Thanks! Tom",
+          "parentId": "Ugx7NG1bjOPFoHwKLVV4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-08T14:53:14Z",
+          "updatedAt": "2021-09-08T14:53:14Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "gyhZBygZ0TOxCC4wtBrm3TAkNcc",
+    "id": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ktYNZ5R0d5lnI_tDMb6CkypdLwY",
+        "id": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "How do you get the sky to look normal? Mine is always blown out. If I darken the exposure or highlight compression my image doesn't look good and if I bring down the intensity of my sky it's not bright enough. Thanks.",
+          "textOriginal": "How do you get the sky to look normal? Mine is always blown out. If I darken the exposure or highlight compression my image doesn't look good and if I bring down the intensity of my sky it's not bright enough. Thanks.",
+          "authorDisplayName": "Moon Design",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhF78N9zCgXAO8S6cpa0pV6OgrnnZ1mBSiBGx=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCPV8SwVYg8chZEl1KJgrbWg",
+          "authorChannelId": {
+            "value": "UCPV8SwVYg8chZEl1KJgrbWg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T18:19:32Z",
+          "updatedAt": "2021-08-20T18:19:32Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "KwsG1gsa8VFR0HXk_QrqwVGqo5w",
+        "id": "UgxcI1FPXF1qD_WKUyp4AaABAg.9RH5N87UeN99RHRNZUTscz",
+        "snippet": {
+          "textDisplay": "Hi! Changing the exposure and highlight compression should be all that's needed - however, we'd need more info, such as examples of the results you are getting, with some screenshots of the UI for the settings you were using, maybe the scene itself, and of course none of that is possible on YouTube Comments. Head to the forums though, where such things are possible, and we and the community at large will be happy to help! https://forum.corona-renderer.com/index.php Thanks! Tom",
+          "textOriginal": "Hi! Changing the exposure and highlight compression should be all that's needed - however, we'd need more info, such as examples of the results you are getting, with some screenshots of the UI for the settings you were using, maybe the scene itself, and of course none of that is possible on YouTube Comments. Head to the forums though, where such things are possible, and we and the community at large will be happy to help! https://forum.corona-renderer.com/index.php Thanks! Tom",
+          "parentId": "UgxcI1FPXF1qD_WKUyp4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-20T21:31:50Z",
+          "updatedAt": "2021-08-20T21:31:50Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "p_dwee9QJUcdTpcf-00qx8_xl0Y",
+    "id": "UgwN9SlRaS8D-TzQXSp4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ne0LA6C0sWt16M77I_NXi6v4apY",
+        "id": "UgwN9SlRaS8D-TzQXSp4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Academy for C4D? Yes please!!",
+          "textOriginal": "Academy for C4D? Yes please!!",
+          "authorDisplayName": "Michael NH",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQjmCx2KWKvSEnH-PeDMbiXEhD4mreEEA-GQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCp58aptB9pW21m11BhWK6Sg",
+          "authorChannelId": {
+            "value": "UCp58aptB9pW21m11BhWK6Sg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-08T17:04:13Z",
+          "updatedAt": "2021-09-08T17:04:13Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ydE22ksiYJCuDadCIjNgAYDWSZg",
+    "id": "Ugx8-AZuzjjQjc6_h3Z4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "VG3L5zNZ2LiMCGJ40nwsRJ0GOSM",
+        "id": "Ugx8-AZuzjjQjc6_h3Z4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Great rendar program but we hope in the future we get it for sketchup or rhino..",
+          "textOriginal": "Great rendar program but we hope in the future we get it for sketchup or rhino..",
+          "authorDisplayName": "lawk khalil",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJ5dQB43xAUU-TGwSFhY6d3G7uqOoIcv-VOKkHow=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYe4XPgQWWgCTQv3hoCBHfA",
+          "authorChannelId": {
+            "value": "UCYe4XPgQWWgCTQv3hoCBHfA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-19T19:17:55Z",
+          "updatedAt": "2021-09-19T19:17:55Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "yApo-IBbVuiwIVv4iEUiXxmG1VM",
+        "id": "Ugx8-AZuzjjQjc6_h3Z4AaABAg.9SURu1EIQ5L9SWfC4Cu1Mv",
+        "snippet": {
+          "textDisplay": "Thank you for the kind words! Sorry to disappoint, but there are no plans to bring Corona to anything more than the two host applications we currently support (3ds Max and Cinema 4D). Tom",
+          "textOriginal": "Thank you for the kind words! Sorry to disappoint, but there are no plans to bring Corona to anything more than the two host applications we currently support (3ds Max and Cinema 4D). Tom",
+          "parentId": "Ugx8-AZuzjjQjc6_h3Z4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-20T16:01:20Z",
+          "updatedAt": "2021-09-20T16:01:20Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "QWF3zTK5NQSJeKUmSoo4w_6lSbE",
+    "id": "UgxTUbsiisbN_XuWVsV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "YtULyndzvQJk11XTNkXQym3G2Ww",
+        "id": "UgxTUbsiisbN_XuWVsV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Very nice!",
+          "textOriginal": "Very nice!",
+          "authorDisplayName": "Bruno Bordini",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsgTWD12zMkqUrV7aFY46e-xxRkikOpFHKBlcl6g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCIpkULwuDw_2TBOoHSQ4xcA",
+          "authorChannelId": {
+            "value": "UCIpkULwuDw_2TBOoHSQ4xcA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-31T04:01:03Z",
+          "updatedAt": "2021-08-31T04:01:03Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "UKZOWKj3tw2vynlp9aDRIXDXcso",
+    "id": "Ugxa8Yfyw7uOtzFhqyV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "yYyftK2Mqu9XarHSB-BV3tptyq8",
+        "id": "Ugxa8Yfyw7uOtzFhqyV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Clearcoat layer 10:44",
+          "textOriginal": "Clearcoat layer 10:44",
+          "authorDisplayName": "c widd",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdUXvmEVQAoAylP8K0laqebJUVTiwB-lVum08E=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_FVkTL8ViDDGUtnIiI-ZtA",
+          "authorChannelId": {
+            "value": "UC_FVkTL8ViDDGUtnIiI-ZtA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-25T04:21:56Z",
+          "updatedAt": "2021-08-25T04:21:56Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "lQXkYCOuGlzqxSSY728Zbqnj9ac",
+    "id": "UgzjgfldrDUzRknnZSd4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "MlQo-DfdSIzzVoQ4hxZOyUrUan4",
+        "id": "UgzjgfldrDUzRknnZSd4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "HI.\nCan I render with corona in team render?",
+          "textOriginal": "HI.\nCan I render with corona in team render?",
+          "authorDisplayName": "Nodari Khutsishvili",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo_wjpWHlFsEHroMOGhPoAK1sgEitb076Acqd2rA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCMY3aLO7zQpfxCyM4lnSXBQ",
+          "authorChannelId": {
+            "value": "UCMY3aLO7zQpfxCyM4lnSXBQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-10-03T08:20:57Z",
+          "updatedAt": "2021-10-03T08:20:57Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "HBLv4kWb-OsTGMxw6_LVPsVY2wU",
+        "id": "UgzjgfldrDUzRknnZSd4AaABAg.9T1JqRqFcmG9T4JBtqFoRK",
+        "snippet": {
+          "textDisplay": "Yes, both using TR to Picture Viewer, and using the Team Render webserver approach (I find the second the best of the two approaches and use it myself when creating animations for new features videos etc.) Thanks! Tom",
+          "textOriginal": "Yes, both using TR to Picture Viewer, and using the Team Render webserver approach (I find the second the best of the two approaches and use it myself when creating animations for new features videos etc.) Thanks! Tom",
+          "parentId": "UgzjgfldrDUzRknnZSd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-10-04T12:12:59Z",
+          "updatedAt": "2021-10-04T12:12:59Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "A2iefRERfmQW6e3o6FlYYT3LPek",
+    "id": "UgznpplZn_QfcTwtyFF4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "k7IhHSnOR2HP3Fpxi74tO9hFHH4",
+        "id": "UgznpplZn_QfcTwtyFF4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "It's really a shame you didn't developed further the Maya version of Corona... This would have such an impact, especially when you see vray starting with a kind of cloud based licensing and so on... Corona Render is beautiful.",
+          "textOriginal": "It's really a shame you didn't developed further the Maya version of Corona... This would have such an impact, especially when you see vray starting with a kind of cloud based licensing and so on... Corona Render is beautiful.",
+          "authorDisplayName": "foshizzlfizzl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL3wqaU_-7H6lXSvZZOwaSPx6_QWOFfCzqCfov=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCQ5MpwtckCacOp55grKoZIw",
+          "authorChannelId": {
+            "value": "UCQ5MpwtckCacOp55grKoZIw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-31T17:55:56Z",
+          "updatedAt": "2021-08-31T17:55:56Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "tu9RhRN8-t4nYSYAtQ8dZp2gOEk",
+        "id": "UgznpplZn_QfcTwtyFF4AaABAg.9RiNPulK30f9RkVnlMDKXa",
+        "snippet": {
+          "textDisplay": "Sadly not possible to develop Corona for any other application without slowing down development massively  for the existing versions (it's not related to licensing, just to development manpower, and how much work it takes to get a render engine working within another host software, which is very significant :) ). Thanks! Tom",
+          "textOriginal": "Sadly not possible to develop Corona for any other application without slowing down development massively  for the existing versions (it's not related to licensing, just to development manpower, and how much work it takes to get a render engine working within another host software, which is very significant :) ). Thanks! Tom",
+          "parentId": "UgznpplZn_QfcTwtyFF4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T13:47:43Z",
+          "updatedAt": "2021-09-01T13:47:43Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ut1yDqFTWoPxZRcAaV0yowc1jDM",
+    "id": "UgwdpOXqBRnyo2SnPC14AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "Zl_mxwYrh53H029qxLYj-uWCTgI",
+        "id": "UgwdpOXqBRnyo2SnPC14AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Any plans for Aces in Corona for cinema 4d?",
+          "textOriginal": "Any plans for Aces in Corona for cinema 4d?",
+          "authorDisplayName": "NovaConcepts",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzdbEzdcd_etKhsjgLP6GlVJfTHqbgXo--n6goYw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCA_lXORxSPUuId_K06X73mg",
+          "authorChannelId": {
+            "value": "UCA_lXORxSPUuId_K06X73mg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T20:59:04Z",
+          "updatedAt": "2021-08-19T20:59:04Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "_d-cTohNi7wed2_-b6Lq4S5BKuA",
+        "id": "UgwdpOXqBRnyo2SnPC14AaABAg.9REnpkllNG49RGBOYFqSxD",
+        "snippet": {
+          "textDisplay": "You can see all official information on plans at https://trello.com/b/dgI8vjDb/corona-tentative-road-map-cinema-4d - nothing for ACES at the moment, sorry. You can always request new features at https://forum.corona-renderer.com/index.php?board=38.0 - thanks! Tom",
+          "textOriginal": "You can see all official information on plans at https://trello.com/b/dgI8vjDb/corona-tentative-road-map-cinema-4d - nothing for ACES at the moment, sorry. You can always request new features at https://forum.corona-renderer.com/index.php?board=38.0 - thanks! Tom",
+          "parentId": "UgwdpOXqBRnyo2SnPC14AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-20T09:52:55Z",
+          "updatedAt": "2021-08-20T09:52:55Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "6M_OE4CVrWAiXc8v_i6tp1Lu1-4",
+    "id": "UgywGe-DIGMXRGWRXBR4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "GL4sT8fdNPZa-edxalltgVBxJUo",
+        "id": "UgywGe-DIGMXRGWRXBR4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Hello everyone\nI have a question, how to convert corona 7 to 6 version. I get scene in corona 7 that i need to fix, but i have 6 version?",
+          "textOriginal": "Hello everyone\nI have a question, how to convert corona 7 to 6 version. I get scene in corona 7 that i need to fix, but i have 6 version?",
+          "authorDisplayName": "Emil Khalikov",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRhQHxr5b5MbiiDxk6tSLLPQAb2q69XLsDE_UVAA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCyr8WPeQLGAnKJwcCtFTNIw",
+          "authorChannelId": {
+            "value": "UCyr8WPeQLGAnKJwcCtFTNIw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-27T20:03:35Z",
+          "updatedAt": "2021-09-27T20:03:35Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "nfw0tTSwNyDC8qkrms_UMfYJyXU",
+        "id": "UgywGe-DIGMXRGWRXBR4AaABAg.9So7UXWKcgX9SpfZbWj4pk",
+        "snippet": {
+          "textDisplay": "Hi! Sorry, it is not possible to convert from new to old versions. Best option is just to install Corona 7 (it's better all round!); as a note you can even have two versions of Corona installed at any one time, see https://coronarenderer.freshdesk.com/support/solutions/articles/12000066819-how-to-run-different-versions-of-corona-renderer-at-the-same-time-corona-5-and-newer- hope this helps! Tom",
+          "textOriginal": "Hi! Sorry, it is not possible to convert from new to old versions. Best option is just to install Corona 7 (it's better all round!); as a note you can even have two versions of Corona installed at any one time, see https://coronarenderer.freshdesk.com/support/solutions/articles/12000066819-how-to-run-different-versions-of-corona-renderer-at-the-same-time-corona-5-and-newer- hope this helps! Tom",
+          "parentId": "UgywGe-DIGMXRGWRXBR4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-28T10:29:21Z",
+          "updatedAt": "2021-09-28T10:29:21Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "BAYi5Q5SLhfTVerYVxdWaEinRQU",
+    "id": "UgxDhU414VLagyxNEAF4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "YOFS7DroJbbpStX2nyOkZX2E9Gg",
+        "id": "UgxDhU414VLagyxNEAF4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "What components does the pc with which the tests have been done?",
+          "textOriginal": "What components does the pc with which the tests have been done?",
+          "authorDisplayName": "Guillermo Abad",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnFS_vttpTCb-vGuEEC8QmxUG20XC1dFRlyjQqqQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCZby1_TWVldjqM9fm6LvzeQ",
+          "authorChannelId": {
+            "value": "UCZby1_TWVldjqM9fm6LvzeQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T08:47:25Z",
+          "updatedAt": "2021-08-20T08:47:25Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 2,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "x07yhTpOGi0jMZc50NxPZPeAyfY",
+        "id": "UgxDhU414VLagyxNEAF4AaABAg.9RG3trQYZBJ9RGC2kNEiGA",
+        "snippet": {
+          "textDisplay": "(One example machine is mine, a 3960X, 64GB RAM system; this one sometimes used for the figures in the video and blog - but of course a 10% speed up is a 10% speed up, whatever your machine and whatever your actual render time :) Tom )",
+          "textOriginal": "(One example machine is mine, a 3960X, 64GB RAM system; this one sometimes used for the figures in the video and blog - but of course a 10% speed up is a 10% speed up, whatever your machine and whatever your actual render time :) Tom )",
+          "parentId": "UgxDhU414VLagyxNEAF4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-08-20T09:58:40Z",
+          "updatedAt": "2021-08-20T09:58:40Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "_unc6HCalkmI7yETaxRy3WLFzgQ",
+        "id": "UgxDhU414VLagyxNEAF4AaABAg.9RG3trQYZBJ9RGB_g6jX0R",
+        "snippet": {
+          "textDisplay": "Tests were done on lots of different computers, so we can't give you the specs. This is to ensure that the speedups were seen universally and not just specific to any one system. Thanks! Tom",
+          "textOriginal": "Tests were done on lots of different computers, so we can't give you the specs. This is to ensure that the speedups were seen universally and not just specific to any one system. Thanks! Tom",
+          "parentId": "UgxDhU414VLagyxNEAF4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-20T09:54:34Z",
+          "updatedAt": "2021-08-20T09:54:34Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "OGIyhcASYyHJoTy636bCoa1XxcM",
+    "id": "Ugx_tdivabDpQWKuovh4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "IZ1KCdzHYICMJGs3kXFtMEaweHg",
+        "id": "Ugx_tdivabDpQWKuovh4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Using the Corona proxy under Forest Pack, it will reduce the opening speed, it is said to be caused by the Corona proxy, I don't know if I can improve it?",
+          "textOriginal": "Using the Corona proxy under Forest Pack, it will reduce the opening speed, it is said to be caused by the Corona proxy, I don't know if I can improve it?",
+          "authorDisplayName": "wxk ljj",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSa1FpMlSEwcOZXAFMlAsWfam8IHTT07RjPtg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC51NpMnUUdI3NKFYkZIiGAQ",
+          "authorChannelId": {
+            "value": "UC51NpMnUUdI3NKFYkZIiGAQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-21T13:28:47Z",
+          "updatedAt": "2021-08-21T13:28:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "-ldq0MlZrO-YskrlUqD3HZUBOCw",
+        "id": "Ugx_tdivabDpQWKuovh4AaABAg.9RJ8tX-0dxr9RNtCD2NDoT",
+        "snippet": {
+          "textDisplay": "Hi! YouTube comments aren't seen by support, so to make sure your question gets a response, please post over on the forums at https://corona-renderer.com/forum/index.php - that way, as well as being seen by support and the community, you can also share example scenes, renders, scene set ups in UI screengrabs, etc. (and we can do the same in replies :) ). Thanks! Tom",
+          "textOriginal": "Hi! YouTube comments aren't seen by support, so to make sure your question gets a response, please post over on the forums at https://corona-renderer.com/forum/index.php - that way, as well as being seen by support and the community, you can also share example scenes, renders, scene set ups in UI screengrabs, etc. (and we can do the same in replies :) ). Thanks! Tom",
+          "parentId": "Ugx_tdivabDpQWKuovh4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-23T09:39:08Z",
+          "updatedAt": "2021-08-23T09:39:08Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "m2oHBBOJ0J_Y0gtgMULimbDtqDU",
+    "id": "UgzvSd-YnbaRmqf0pNJ4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "rQa8C-oIYs6eOMmwxgM18QmT-VE",
+        "id": "UgzvSd-YnbaRmqf0pNJ4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Hello corona render. I am Kalpesh joshi. I want learn corona render. But how,please suggest me a best institute of corona render course",
+          "textOriginal": "Hello corona render. I am Kalpesh joshi. I want learn corona render. But how,please suggest me a best institute of corona render course",
+          "authorDisplayName": "Kalpesh Joshi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxQZR2dH4PJxLmcsa7iS0iCLQf3i2KKiguTv9q-WSRFWWaNrKVSrw0RQhmIIam=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC3nbqJPARwy7w7Mai3k4SUA",
+          "authorChannelId": {
+            "value": "UC3nbqJPARwy7w7Mai3k4SUA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2022-03-07T08:30:11Z",
+          "updatedAt": "2022-03-07T08:30:11Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "0jJrTTtN5p-Nse5RwGBNpgfHPWQ",
+    "id": "UgxdbosMdswVPsku_7N4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "mLnE0AQ3moszKz9unS60MBXMbgY",
+        "id": "UgxdbosMdswVPsku_7N4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Wait.. Please correct me if I'm wrong. Clear coat is for the most part refractive and doesn't really absorb much of color. It's actually the coats underneath, that absorb specific light waves and define a color. That's what I remember, how these things were thought in physics class?\nSo adding the absorbed color into the clearcoat section, doesn't make any sense to me from the physical correctness point of view? Or is this meant for colored metals or something like this, because they have colored reflection...thanks in advance for your answers.",
+          "textOriginal": "Wait.. Please correct me if I'm wrong. Clear coat is for the most part refractive and doesn't really absorb much of color. It's actually the coats underneath, that absorb specific light waves and define a color. That's what I remember, how these things were thought in physics class?\nSo adding the absorbed color into the clearcoat section, doesn't make any sense to me from the physical correctness point of view? Or is this meant for colored metals or something like this, because they have colored reflection...thanks in advance for your answers.",
+          "authorDisplayName": "foshizzlfizzl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL3wqaU_-7H6lXSvZZOwaSPx6_QWOFfCzqCfov=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCQ5MpwtckCacOp55grKoZIw",
+          "authorChannelId": {
+            "value": "UCQ5MpwtckCacOp55grKoZIw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-31T17:46:58Z",
+          "updatedAt": "2021-08-31T17:48:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 3,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "2DGdY8wVguzaMULxfy5A8k5Xtrg",
+        "id": "UgxdbosMdswVPsku_7N4AaABAg.9RiMODSvO9d9Rl1yLNSvHY",
+        "snippet": {
+          "textDisplay": "@foshizzlfizzl Ah just an industry standard name so we'' stay with it - but you are correct, since the coat does not have to be clear at all! Thanks! Tom",
+          "textOriginal": "@foshizzlfizzl Ah just an industry standard name so we'' stay with it - but you are correct, since the coat does not have to be clear at all! Thanks! Tom",
+          "parentId": "UgxdbosMdswVPsku_7N4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T18:46:15Z",
+          "updatedAt": "2021-09-01T18:46:15Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Wl8xbGV-K6fkXzq8sSLJEErBIz8",
+        "id": "UgxdbosMdswVPsku_7N4AaABAg.9RiMODSvO9d9RkXHbmTQU9",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer Hi Tom\nThanks for your explanation! That example with varnish makes sense now... But then the chosen name clear coat is missleading and confusing to me. Maybe coat would make more sense, but that's up to you ;)",
+          "textOriginal": "@CoronaRenderer Hi Tom\nThanks for your explanation! That example with varnish makes sense now... But then the chosen name clear coat is missleading and confusing to me. Maybe coat would make more sense, but that's up to you ;)",
+          "parentId": "UgxdbosMdswVPsku_7N4AaABAg",
+          "authorDisplayName": "foshizzlfizzl",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL3wqaU_-7H6lXSvZZOwaSPx6_QWOFfCzqCfov=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCQ5MpwtckCacOp55grKoZIw",
+          "authorChannelId": {
+            "value": "UCQ5MpwtckCacOp55grKoZIw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-09-01T14:00:40Z",
+          "updatedAt": "2021-09-01T14:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "4puh51PhNp4UtfHQI_ViYRmfW2s",
+        "id": "UgxdbosMdswVPsku_7N4AaABAg.9RiMODSvO9d9RkVdYBNPR2",
+        "snippet": {
+          "textDisplay": "Clearcoat is like a layer of extra material painted over a surface - just like a varnish. And just like a varnish, that can indeed have absorption, e.g. a dark brown all the way through to crystal clear, depending on the material being used as the coat. If you paint over a light wood with a heavy dark brown varnish, then all aspects of the light wood (its diffuse and its reflection etc) will become colored by how the top layer absorbs light - which is what happens here.\n\nClearcoat is not required for colored metals, anything set to Metal has its color controls (non-Metals always reflect white, so there are no color controls for reflection there... unless you add a clearcoat on top, again like the wood, the reflection of light there would be white, unless that is passing through a colored varnish).\n\nThanks!\n  Tom",
+          "textOriginal": "Clearcoat is like a layer of extra material painted over a surface - just like a varnish. And just like a varnish, that can indeed have absorption, e.g. a dark brown all the way through to crystal clear, depending on the material being used as the coat. If you paint over a light wood with a heavy dark brown varnish, then all aspects of the light wood (its diffuse and its reflection etc) will become colored by how the top layer absorbs light - which is what happens here.\n\nClearcoat is not required for colored metals, anything set to Metal has its color controls (non-Metals always reflect white, so there are no color controls for reflection there... unless you add a clearcoat on top, again like the wood, the reflection of light there would be white, unless that is passing through a colored varnish).\n\nThanks!\n  Tom",
+          "parentId": "UgxdbosMdswVPsku_7N4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-01T13:46:19Z",
+          "updatedAt": "2021-09-01T13:46:19Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "BZ4-956hW9tzHc_xe6FIBve6Q2o",
+    "id": "UgxxYjZec55M3Yi4SAd4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ofTF2eKW_lH1F2KkG9gZnMrL_Ik",
+        "id": "UgxxYjZec55M3Yi4SAd4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Thank you for uploading\u2026\u2026.here",
+          "textOriginal": "Thank you for uploading\u2026\u2026.here",
+          "authorDisplayName": "faisal chettali",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSp4TMpaQ7aZrE3IYHucPQY3bPcLxA0KHW_eQBgtw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCozoejkibxcyFvb4MRrv7Gg",
+          "authorChannelId": {
+            "value": "UCozoejkibxcyFvb4MRrv7Gg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-08-20T09:36:36Z",
+          "updatedAt": "2021-08-20T09:36:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "yzusMWbeTQMF40zpS8xAJCE6ZTk",
+        "id": "UgxxYjZec55M3Yi4SAd4AaABAg.9RG9X4u2CRQ9RGBbjnfLmv",
+        "snippet": {
+          "textDisplay": "Most welcome!",
+          "textOriginal": "Most welcome!",
+          "parentId": "UgxxYjZec55M3Yi4SAd4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T09:54:51Z",
+          "updatedAt": "2021-08-20T09:54:51Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "TrorC_DtnDFHzVYuqe5h2kqvQ5k",
+    "id": "Ugz5K_WPsQakraP80Td4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "MEj-xFaq6pF-ckQObkbBpmkgGEU",
+        "id": "Ugz5K_WPsQakraP80Td4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "I downloaded corona 7 and it came with 3.4 GB of material and I don't know how to use it?",
+          "textOriginal": "I downloaded corona 7 and it came with 3.4 GB of material and I don't know how to use it?",
+          "authorDisplayName": "Ahmed Mou77",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7Mncds1ki3TbxGtU-mdH5-nAMgNK2jG2xXg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4yt6ZqLc0bHj4InSfw8EeQ",
+          "authorChannelId": {
+            "value": "UC4yt6ZqLc0bHj4InSfw8EeQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-29T15:24:48Z",
+          "updatedAt": "2021-08-29T15:24:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "qShfF9mxeyua9oIdUQoFwrwexv8",
+        "id": "Ugz5K_WPsQakraP80Td4AaABAg.9RcxXBizMPM9RfDTivyLBZ",
+        "snippet": {
+          "textDisplay": "Howdy! If you are a Cinema 4D user then it's accessible by selecting the \"Material Library\" under the \"Corona\" menu at the top. If you're confused about where the \"Corona\" menu is, it's in the same menu line as is \"File\" or \"Edit\" :)\n\nIf you are a 3ds Max user then you can access the library by bringing up the \"Render Setup\" window go under the \"Scene\" compartment and in there you'll see a button to open up the Material Library.\n\nIn both DCCs once you have the Material Library open you just click and drag those materials onto your objects / your material editors.\n\nHope that helps!\nNejc",
+          "textOriginal": "Howdy! If you are a Cinema 4D user then it's accessible by selecting the \"Material Library\" under the \"Corona\" menu at the top. If you're confused about where the \"Corona\" menu is, it's in the same menu line as is \"File\" or \"Edit\" :)\n\nIf you are a 3ds Max user then you can access the library by bringing up the \"Render Setup\" window go under the \"Scene\" compartment and in there you'll see a button to open up the Material Library.\n\nIn both DCCs once you have the Material Library open you just click and drag those materials onto your objects / your material editors.\n\nHope that helps!\nNejc",
+          "parentId": "Ugz5K_WPsQakraP80Td4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-30T12:31:21Z",
+          "updatedAt": "2021-08-30T12:31:21Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "7vjfNUmAy-iTOYJLzqwMtaqBulk",
+    "id": "Ugx6x3LS7e0GTyseaZV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "yOmjehrJ-_jfYxEsGtsuwWOP4ik",
+        "id": "Ugx6x3LS7e0GTyseaZV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Everytime I see 3ds max UI it amazes what humans can actually adapt to. It's disgusting.",
+          "textOriginal": "Everytime I see 3ds max UI it amazes what humans can actually adapt to. It's disgusting.",
+          "authorDisplayName": "Shynn Sup",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRtlwJgu_cfWc_TLsF7OfNsaEJ02bnIHjHGB7e=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC31T-eOlxqxI98eXvlrBGvQ",
+          "authorChannelId": {
+            "value": "UC31T-eOlxqxI98eXvlrBGvQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-12-28T01:24:48Z",
+          "updatedAt": "2021-12-28T01:25:00Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ry8XpNPALmFP0tybMXaXXfsXs5M",
+    "id": "Ugy5Jvy9LAJ5CnyzWkF4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "DekxttPGcN-3_sDcHT843zCt92Q",
+        "id": "Ugy5Jvy9LAJ5CnyzWkF4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Any plan Corona will come with Sketchup in future??.",
+          "textOriginal": "Any plan Corona will come with Sketchup in future??.",
+          "authorDisplayName": "Tr\u1ed1n V\u1ee3 \u0110i Ch\u01a1i",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSe-1l6hdxvMeBsMthcmjWT9KCMIW2u4ZdqYg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC96YSxiEU-OWBb0ep9SLnRQ",
+          "authorChannelId": {
+            "value": "UC96YSxiEU-OWBb0ep9SLnRQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-28T02:04:34Z",
+          "updatedAt": "2021-08-28T02:04:34Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "AzdgIsjD-ZG3FJueO9aPF8weniQ",
+        "id": "Ugy5Jvy9LAJ5CnyzWkF4AaABAg.9RZx9DpFFTy9RfDgCgN-za",
+        "snippet": {
+          "textDisplay": "Hello there! Unfortunately there are currently no plans to make Corona available on any other host applications besides the two we are already supporting.\nNejc",
+          "textOriginal": "Hello there! Unfortunately there are currently no plans to make Corona available on any other host applications besides the two we are already supporting.\nNejc",
+          "parentId": "Ugy5Jvy9LAJ5CnyzWkF4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-30T12:33:11Z",
+          "updatedAt": "2021-08-30T12:33:11Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "HsiwWivqpQMSc3m20C6lR7hI7GA",
+    "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "MDJEBmTaCzFcLl7C78Qy29YGmNo",
+        "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "hello, corona render is now planning to switch to gpu-based rendering software, is there any development work?",
+          "textOriginal": "hello, corona render is now planning to switch to gpu-based rendering software, is there any development work?",
+          "authorDisplayName": "plan b proje",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNVtJrvTUd1PRqngMoaPsyLuVSkmrWvmQav4mkML4243qPXomOuHO0lmUDAmQh=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCm8UbJOr9TxbgGvxU0ARzZQ",
+          "authorChannelId": {
+            "value": "UCm8UbJOr9TxbgGvxU0ARzZQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-22T08:19:19Z",
+          "updatedAt": "2021-09-22T08:19:19Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "XjBBuOnQiHkdkloZ56QoCo8m4Ho",
+        "id": "Ugy2U6OxgHNhOnBS3GZ4AaABAg.9S_zuyHp8tf9SaI2-rdVbD",
+        "snippet": {
+          "textDisplay": "Hi, we have no plans to switch to GPU - https://corona-renderer.com/features/proudly-cpu-based still applies :) Thanks! Tom",
+          "textOriginal": "Hi, we have no plans to switch to GPU - https://corona-renderer.com/features/proudly-cpu-based still applies :) Thanks! Tom",
+          "parentId": "Ugy2U6OxgHNhOnBS3GZ4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-09-22T11:06:27Z",
+          "updatedAt": "2021-09-22T11:06:27Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "top5XVMkqSzNMflN5mi71juVTZ8",
+    "id": "UgypAH3PeEVHt15ZMaJ4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ltFjbeCHV9vtWfE3uBRgTGSYCQI",
+        "id": "UgypAH3PeEVHt15ZMaJ4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "\u5565\u65f6\u5019\u6574\u70b9C4D\u7684\u6559\u7a0b\uff0c\u5927\u4f6c",
+          "textOriginal": "\u5565\u65f6\u5019\u6574\u70b9C4D\u7684\u6559\u7a0b\uff0c\u5927\u4f6c",
+          "authorDisplayName": "o XA",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZDfYDv-9fUHK05LHorUgAKR0x6FSzl2k64zu-=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC7ucX66d1xH1C7RzM4z5S4A",
+          "authorChannelId": {
+            "value": "UC7ucX66d1xH1C7RzM4z5S4A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-25T03:05:48Z",
+          "updatedAt": "2021-08-25T03:05:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "RyLQuWcM49WzLPEnEGsT8a-_bTU",
+        "id": "UgypAH3PeEVHt15ZMaJ4AaABAg.9RSKm7hqlK49RhyT8974vi",
+        "snippet": {
+          "textDisplay": "Same as the Max tutorials, those are being worked on. It will be some time yet though, at least a month I would say. Meantime be sure to use the helpdesk which has lots of useful information on the new features ( https://help.c4d.corona-renderer.com/support/home ). Thanks! Tom",
+          "textOriginal": "Same as the Max tutorials, those are being worked on. It will be some time yet though, at least a month I would say. Meantime be sure to use the helpdesk which has lots of useful information on the new features ( https://help.c4d.corona-renderer.com/support/home ). Thanks! Tom",
+          "parentId": "UgypAH3PeEVHt15ZMaJ4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-31T14:09:11Z",
+          "updatedAt": "2021-08-31T14:09:11Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "bKJcGk4Hkwgv4tAFHu5-klMIzoE",
+    "id": "UgwARIZFOvUXUC4_T814AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ih1rvyyUZlZwI_c4Bl2bs6zyXVo",
+        "id": "UgwARIZFOvUXUC4_T814AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "\u592a\u540a\u4e86^ - ^",
+          "textOriginal": "\u592a\u540a\u4e86^ - ^",
+          "authorDisplayName": "chenghua huang",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLTyJdcs8LWwrEathKm-WvUhKRJWdNQ_lZag=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCLMGgR8cJLf_IQVU_1U24VA",
+          "authorChannelId": {
+            "value": "UCLMGgR8cJLf_IQVU_1U24VA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-22T19:03:30Z",
+          "updatedAt": "2021-08-22T19:03:30Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "m0KPp8YanGs3UHLNjrIL_SZu7r0",
+    "id": "UgwExuxC9jvYV3iRWnF4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "SiYoSKdOKdpnUYlwXhYqX5lxOVA",
+        "id": "UgwExuxC9jvYV3iRWnF4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "3dsmax=dyinghorse\ud83d\ude02",
+          "textOriginal": "3dsmax=dyinghorse\ud83d\ude02",
+          "authorDisplayName": "Adan Rodriguez",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROs7W6vj_t_IDQ-yBa0LNUyl_fCQC7NtHa3CpUXA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCsPimKN83qR_Jvz0UMpQfSw",
+          "authorChannelId": {
+            "value": "UCsPimKN83qR_Jvz0UMpQfSw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-25T18:31:01Z",
+          "updatedAt": "2021-08-25T18:32:19Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Im15JoySy2TFYAs0UwbN7HA-HT4",
+    "id": "Ugys9whbx1en2slL3FV4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "oBLYvQs03pe7lsN6ZyilE4LXswY",
+        "id": "Ugys9whbx1en2slL3FV4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "To be fair the corona converter is just useless. Its easier to redo the material. I think its better if you remove it completely. 9 materials from 10 has metallic workflow, lol? I understand that its not accurate, but when you have a wood with an ior of 2.2 it doesn\u2019t mean its metal\u2026so yea corona 6 converter was a huge time saver, this is useless.",
+          "textOriginal": "To be fair the corona converter is just useless. Its easier to redo the material. I think its better if you remove it completely. 9 materials from 10 has metallic workflow, lol? I understand that its not accurate, but when you have a wood with an ior of 2.2 it doesn\u2019t mean its metal\u2026so yea corona 6 converter was a huge time saver, this is useless.",
+          "authorDisplayName": "Salamon Zsolt",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJP5GwHLJSPnmXBXtRO5QJqZ4fOuwO7AchjMPQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCraxCGEfhq2x1iZowU-0kVw",
+          "authorChannelId": {
+            "value": "UCraxCGEfhq2x1iZowU-0kVw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-24T20:15:05Z",
+          "updatedAt": "2021-08-24T20:15:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "AGGEBu0qcPLKiF1nrCog9EMGZPI",
+        "id": "Ugys9whbx1en2slL3FV4AaABAg.9RRalvcO7My9Rhyd_TfeQK",
+        "snippet": {
+          "textDisplay": "Sorry to hear you don't find it helpful :( For us to improve it, we'd need to see examples of the materials that don't convert well (bear in mind that some materials CAN'T convert well, if they broke physical laws in how they were set up, which was possible in the Legacy material) - to share examples, head on over to the forums where images, scenes, etc. can be shared and support and developers can see it. https://forum.corona-renderer.com/index.php?topic=33253.0 - thanks! Tom",
+          "textOriginal": "Sorry to hear you don't find it helpful :( For us to improve it, we'd need to see examples of the materials that don't convert well (bear in mind that some materials CAN'T convert well, if they broke physical laws in how they were set up, which was possible in the Legacy material) - to share examples, head on over to the forums where images, scenes, etc. can be shared and support and developers can see it. https://forum.corona-renderer.com/index.php?topic=33253.0 - thanks! Tom",
+          "parentId": "Ugys9whbx1en2slL3FV4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-31T14:10:44Z",
+          "updatedAt": "2021-08-31T14:10:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "KeSooy2M_G6DQMVG6V4PrFI0JP0",
+    "id": "UgzfhPXqgQXa85qeApl4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ZmcS5Y-KjQz_dKsnU6oivgiFfCQ",
+        "id": "UgzfhPXqgQXa85qeApl4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "\u0416\u0434\u00eb\u043c \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a)))",
+          "textOriginal": "\u0416\u0434\u00eb\u043c \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a)))",
+          "authorDisplayName": "Diversant VLG",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0G-UwEnz_ZpytTpnDTs8cM8_1C1cFTqJZrg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4CSdwI-vUUPxlYq6UKhzuA",
+          "authorChannelId": {
+            "value": "UC4CSdwI-vUUPxlYq6UKhzuA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 3,
+          "publishedAt": "2021-08-19T17:06:28Z",
+          "updatedAt": "2021-08-19T17:06:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 3,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "y3ttLGrJMg6Y4WrUlRCljzatmVQ",
+        "id": "UgzfhPXqgQXa85qeApl4AaABAg.9REOD5AQCq79Rab07hRY46",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer \u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448 \u0442\u0440\u0443\u0434!!!",
+          "textOriginal": "@CoronaRenderer \u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448 \u0442\u0440\u0443\u0434!!!",
+          "parentId": "UgzfhPXqgQXa85qeApl4AaABAg",
+          "authorDisplayName": "Diversant VLG",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0G-UwEnz_ZpytTpnDTs8cM8_1C1cFTqJZrg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4CSdwI-vUUPxlYq6UKhzuA",
+          "authorChannelId": {
+            "value": "UC4CSdwI-vUUPxlYq6UKhzuA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-28T17:29:33Z",
+          "updatedAt": "2021-08-28T17:29:33Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "pSZ7eCIQTkshYjiJAgj8ETHho2M",
+        "id": "UgzfhPXqgQXa85qeApl4AaABAg.9REOD5AQCq79RaavHI1j3v",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer \u043d\u0438 \u0447\u0435\u0433\u043e, \u043d\u0430\u0434\u0435\u044e\u0441\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0447\u0438\u043a\u0438, \u0438\u0441\u043f\u0440\u0430\u0432\u044f\u0442 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e)))",
+          "textOriginal": "@CoronaRenderer \u043d\u0438 \u0447\u0435\u0433\u043e, \u043d\u0430\u0434\u0435\u044e\u0441\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0447\u0438\u043a\u0438, \u0438\u0441\u043f\u0440\u0430\u0432\u044f\u0442 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e)))",
+          "parentId": "UgzfhPXqgQXa85qeApl4AaABAg",
+          "authorDisplayName": "Diversant VLG",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0G-UwEnz_ZpytTpnDTs8cM8_1C1cFTqJZrg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4CSdwI-vUUPxlYq6UKhzuA",
+          "authorChannelId": {
+            "value": "UC4CSdwI-vUUPxlYq6UKhzuA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-28T17:28:45Z",
+          "updatedAt": "2021-08-28T17:28:45Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "YYQndKZHL0J8cyWVWLrdYFMhJY0",
+        "id": "UgzfhPXqgQXa85qeApl4AaABAg.9REOD5AQCq79REPvdedvN5",
+        "snippet": {
+          "textDisplay": "Unfortunately, not currently possible for us to offer translations to other languages :( Tom",
+          "textOriginal": "Unfortunately, not currently possible for us to offer translations to other languages :( Tom",
+          "parentId": "UgzfhPXqgQXa85qeApl4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-19T17:21:25Z",
+          "updatedAt": "2021-08-19T17:21:25Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "P6tQCYlMcu2YXkQzCewCz3Vo11M",
+    "id": "Ugy0Irl3PYKbQThFun14AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "E7f2-OGyCpHCUoMl_BVjSHCwscs",
+        "id": "Ugy0Irl3PYKbQThFun14AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "still waiting rtx gpu",
+          "textOriginal": "still waiting rtx gpu",
+          "authorDisplayName": "BILAL ADVERTIZER # NEXT LEVEL-Rendering",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/PR2JsRYqwAjcWzQRIPOAqlEDw99cJH8C1QntVZQnhYjEEkv1rFI6FZJs-5ro6i_pVDyDAlIQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCIm387zq6KymVfydIyknzvg",
+          "authorChannelId": {
+            "value": "UCIm387zq6KymVfydIyknzvg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-19T17:44:39Z",
+          "updatedAt": "2021-08-19T17:44:39Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 2,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "M3Q1q9BC8XNW6_Rrg-UpeXaJ-Z4",
+        "id": "Ugy0Irl3PYKbQThFun14AaABAg.9RES_q1t2Hx9RGdCE17B3-",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer but i have 4 x rtx 3090 and cpu 1 core i9 8th gen > i need rtx rendering try 2nd option cpu + gpu thanks sir",
+          "textOriginal": "@CoronaRenderer but i have 4 x rtx 3090 and cpu 1 core i9 8th gen > i need rtx rendering try 2nd option cpu + gpu thanks sir",
+          "parentId": "Ugy0Irl3PYKbQThFun14AaABAg",
+          "authorDisplayName": "BILAL ADVERTIZER # NEXT LEVEL-Rendering",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/PR2JsRYqwAjcWzQRIPOAqlEDw99cJH8C1QntVZQnhYjEEkv1rFI6FZJs-5ro6i_pVDyDAlIQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCIm387zq6KymVfydIyknzvg",
+          "authorChannelId": {
+            "value": "UCIm387zq6KymVfydIyknzvg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2021-08-20T14:04:38Z",
+          "updatedAt": "2021-08-20T14:04:38Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "bXiJO8cAL3vfCO3O28kbv1Fypnc",
+        "id": "Ugy0Irl3PYKbQThFun14AaABAg.9RES_q1t2Hx9RGBFX7s6ly",
+        "snippet": {
+          "textDisplay": "There are no plans for GPU rendering, as https://corona-renderer.com/features/proudly-cpu-based still applies. Thanks! Tom",
+          "textOriginal": "There are no plans for GPU rendering, as https://corona-renderer.com/features/proudly-cpu-based still applies. Thanks! Tom",
+          "parentId": "Ugy0Irl3PYKbQThFun14AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T09:51:41Z",
+          "updatedAt": "2021-08-20T09:51:41Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "txQ4I8-iVTtmFhqZ-c7MGvfMLyQ",
+    "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "m3RBoPZvw62dFXZKqHUaPv85VEc",
+        "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "Please make for 3ds max also",
+          "textOriginal": "Please make for 3ds max also",
+          "authorDisplayName": "Asad Ullah Khan",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTc6SOwfCQyPSfDa8vkrJ5aEwUJlZfMET6un9r9uQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCa2ueqBGa6Uon3DISbd4KYg",
+          "authorChannelId": {
+            "value": "UCa2ueqBGa6Uon3DISbd4KYg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T15:35:20Z",
+          "updatedAt": "2021-08-19T15:35:20Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 4,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "_Fr5YnNwcX2WKtaddg7UZU9ltqA",
+        "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg.9REDmbQKktF9REIgreFKxs",
+        "snippet": {
+          "textDisplay": "@Asad Ullah Khan You are welcome!",
+          "textOriginal": "@Asad Ullah Khan You are welcome!",
+          "parentId": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-19T16:18:14Z",
+          "updatedAt": "2021-08-19T16:18:14Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "lAPmKqqlooX21rBsomBiSOtjgdw",
+        "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg.9REDmbQKktF9REIKyOemER",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer oh yes thank you",
+          "textOriginal": "@CoronaRenderer oh yes thank you",
+          "parentId": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+          "authorDisplayName": "Asad Ullah Khan",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTc6SOwfCQyPSfDa8vkrJ5aEwUJlZfMET6un9r9uQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCa2ueqBGa6Uon3DISbd4KYg",
+          "authorChannelId": {
+            "value": "UCa2ueqBGa6Uon3DISbd4KYg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T16:15:06Z",
+          "updatedAt": "2021-08-19T16:15:06Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "Ectgue8SU2rBNACfH9YC2IRle4o",
+        "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg.9REDmbQKktF9REFnNKKYQq",
+        "snippet": {
+          "textDisplay": "is for c4d AND 3DS max",
+          "textOriginal": "is for c4d AND 3DS max",
+          "parentId": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+          "authorDisplayName": "Oliver Hecke",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKR4eaTbpHnrNQLmIuWZ7C80ZDPkFWiLV-Og=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCoSXT5nVvAva8Q48O5g2q4w",
+          "authorChannelId": {
+            "value": "UCoSXT5nVvAva8Q48O5g2q4w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T15:52:54Z",
+          "updatedAt": "2021-08-19T15:52:54Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "wSvlM9O4keeHGDTd1upgw7NNAtI",
+        "id": "UgxIoX9H9v_dNaZX4cJ4AaABAg.9REDmbQKktF9REEUaoA_dQ",
+        "snippet": {
+          "textDisplay": "It covers both 3ds Max and Cinema 4D :)",
+          "textOriginal": "It covers both 3ds Max and Cinema 4D :)",
+          "parentId": "UgxIoX9H9v_dNaZX4cJ4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2021-08-19T15:41:28Z",
+          "updatedAt": "2021-08-19T15:41:28Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "22YfJkwvODTlMbVEEdfhVUsjxTY",
+    "id": "UgwR0ZA3qsvH_6fmHMN4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "evXoafpf34LKb7sq54bxDJ-ZrRg",
+        "id": "UgwR0ZA3qsvH_6fmHMN4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "I was wondering can you just change the name of the renderer brings sad memories",
+          "textOriginal": "I was wondering can you just change the name of the renderer brings sad memories",
+          "authorDisplayName": "dawood badri",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7kATRhR6EsVnRQLdPMOH_Gthk_UDnrV-624x-Uw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC8B4Tr8SEyzMMnVwOZavPUA",
+          "authorChannelId": {
+            "value": "UC8B4Tr8SEyzMMnVwOZavPUA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T12:13:36Z",
+          "updatedAt": "2021-08-20T12:13:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 2,
+      "isPublic": true
+    },
+    "comments": [
+      {
+        "kind": "youtube#comment",
+        "etag": "kCgNXUAH4DM3HVM0NwfG9hLvqf4",
+        "id": "UgwR0ZA3qsvH_6fmHMN4AaABAg.9RGRUvMr2vH9RGfzlPNKQL",
+        "snippet": {
+          "textDisplay": "@CoronaRenderer thats true i guess but what's halo and sun though",
+          "textOriginal": "@CoronaRenderer thats true i guess but what's halo and sun though",
+          "parentId": "UgwR0ZA3qsvH_6fmHMN4AaABAg",
+          "authorDisplayName": "dawood badri",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7kATRhR6EsVnRQLdPMOH_Gthk_UDnrV-624x-Uw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC8B4Tr8SEyzMMnVwOZavPUA",
+          "authorChannelId": {
+            "value": "UC8B4Tr8SEyzMMnVwOZavPUA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-20T14:29:01Z",
+          "updatedAt": "2021-08-20T14:29:01Z"
+        }
+      },
+      {
+        "kind": "youtube#comment",
+        "etag": "B-JXJMLkmbDLzL3VYQ04rfOEhc8",
+        "id": "UgwR0ZA3qsvH_6fmHMN4AaABAg.9RGRUvMr2vH9RGejXcM5lL",
+        "snippet": {
+          "textDisplay": "Sorry for the sad memories. Apologies, we can't change the name of the engine, as it is already established under this name, and had the name long before the pandemic - the word also has many other meanings, such as the halo around the sun, so does not just have to bring to mind the recent situation. Best regards, Tom",
+          "textOriginal": "Sorry for the sad memories. Apologies, we can't change the name of the engine, as it is already established under this name, and had the name long before the pandemic - the word also has many other meanings, such as the halo around the sun, so does not just have to bring to mind the recent situation. Best regards, Tom",
+          "parentId": "UgwR0ZA3qsvH_6fmHMN4AaABAg",
+          "authorDisplayName": "CoronaRenderer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/hoJWROxKrwmMJEXc1wUuf25upK_v8kDXUON29zHbW844XvW2dDI9zXgNzHBM70Se6BE6k55c_nM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC_5CpKKSI-YZhEWDt0fbhKA",
+          "authorChannelId": {
+            "value": "UC_5CpKKSI-YZhEWDt0fbhKA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 3,
+          "publishedAt": "2021-08-20T14:18:03Z",
+          "updatedAt": "2021-08-20T14:18:03Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "vYI8XqQK-vNpgCBB-0nUR8acj5s",
+    "id": "UgwxgpxL6-dnbglyivJ4AaABAg",
+    "snippet": {
+      "videoId": "tHQDJ7zqA_c",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_TT3flBqqmmwVraynTIBSm0Nq4Q",
+        "id": "UgwxgpxL6-dnbglyivJ4AaABAg",
+        "snippet": {
+          "videoId": "tHQDJ7zqA_c",
+          "textDisplay": "\u63d2\u773c",
+          "textOriginal": "\u63d2\u773c",
+          "authorDisplayName": "\u6d69 \u989c",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReZdBYpqcYf0bi6mSJtMCW1IRiUjnEYidf7dBwwpPYUA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC4eYYYi7UR7gtGADp3yroEQ",
+          "authorChannelId": {
+            "value": "UC4eYYYi7UR7gtGADp3yroEQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2021-08-27T20:57:17Z",
+          "updatedAt": "2021-08-27T20:57:17Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    },
+    "comments": []
+  }
+]
