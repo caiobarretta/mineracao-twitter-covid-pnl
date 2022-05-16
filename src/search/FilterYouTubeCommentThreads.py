@@ -40,7 +40,7 @@ class FilterYouTubeCommentThreads:
             data = self.read_json(file)
             for content in data:
                 id = content['id']
-                print(f'seperando comentário: {id}')
+                print(f'separando comentário: {id}')
                 file_name = f'data/raw/youtube/separeted_comment_threads/{id}.json'
                 func_save_json(file_name, content)
 
