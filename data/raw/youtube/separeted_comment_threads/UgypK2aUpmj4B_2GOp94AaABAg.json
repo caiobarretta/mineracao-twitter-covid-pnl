@@ -1,0 +1,265 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Lp_9kXtU1gZoLDDrN9a5vhpY2aY",
+  "id": "UgypK2aUpmj4B_2GOp94AaABAg",
+  "snippet": {
+    "videoId": "4aVLltbDCKc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OsOQJxeI9-7WMxbrfQj-mQoyH6g",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg",
+      "snippet": {
+        "videoId": "4aVLltbDCKc",
+        "textDisplay": "What\u2019s the rez and method of this model? I\u2019m assuming this is Cryo-EM, since NMR takes too long and this looks large in MW.",
+        "textOriginal": "What\u2019s the rez and method of this model? I\u2019m assuming this is Cryo-EM, since NMR takes too long and this looks large in MW.",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-16T18:16:39Z",
+        "updatedAt": "2020-12-16T18:16:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 11,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9He0RGDzjSTW0dDiMYQ662LbZOM",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9TmQdCVBqel",
+      "snippet": {
+        "textDisplay": "@V Blaas Hi again. The abovr comment brought me back to our conversation. \nI agree with you completely, and you're right that I shouldn't be so elitist in demanding such \"electronic completion.\" I remember seeing an amazing paper that had evolved the function of a polymerase to take a modified substrate. But they couldn't \"prove\" the mechanism, so they did a series of multiple experiments where the took the polymerase and purposely gave it the substrate but lacking a Mg/Mn+2 cofactor. This caused the rxn to stay but they could then get an NMR measurement. Next they allowed the rxn to proced but not complete, they somehow clogged the exit position somehow (can't remember), but made another measurement. Lastly, they stalled the enzyme by giving it an inhibitor so the rxn cannot proceed, measure. Using these 3-6 measurements, they duct-taped together the approximate NMR structures and generated an animation that showed the enzyme function. Absolutely mind-boggling, since it would work by twisting the substrate around in order to let it orient in the new strand position. So, yes low rez animation can make an amazing proof.\n\nBut, can't we always strive for computation completeness?",
+        "textOriginal": "@V Blaas Hi again. The abovr comment brought me back to our conversation. \nI agree with you completely, and you're right that I shouldn't be so elitist in demanding such \"electronic completion.\" I remember seeing an amazing paper that had evolved the function of a polymerase to take a modified substrate. But they couldn't \"prove\" the mechanism, so they did a series of multiple experiments where the took the polymerase and purposely gave it the substrate but lacking a Mg/Mn+2 cofactor. This caused the rxn to stay but they could then get an NMR measurement. Next they allowed the rxn to proced but not complete, they somehow clogged the exit position somehow (can't remember), but made another measurement. Lastly, they stalled the enzyme by giving it an inhibitor so the rxn cannot proceed, measure. Using these 3-6 measurements, they duct-taped together the approximate NMR structures and generated an animation that showed the enzyme function. Absolutely mind-boggling, since it would work by twisting the substrate around in order to let it orient in the new strand position. So, yes low rez animation can make an amazing proof.\n\nBut, can't we always strive for computation completeness?",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-22T00:43:51Z",
+        "updatedAt": "2021-10-22T00:45:37Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "FzyohyZ2PBJOoVNPEa1k__b51iY",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9TmNHrrCeYX",
+      "snippet": {
+        "textDisplay": "Thanks for your discussion.",
+        "textOriginal": "Thanks for your discussion.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "Cornelius Prentjie-maker",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTM4EU2OmGsj5gfWhBs03bmUiFnGSgCQu0fazHN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm9SvoQA33O5tl0fi1IUSHA",
+        "authorChannelId": {
+          "value": "UCm9SvoQA33O5tl0fi1IUSHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-22T00:14:35Z",
+        "updatedAt": "2021-10-22T00:14:35Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "DXzdm2bgYA5RGZOgxkOirhpeNi0",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KwlskMraNW",
+      "snippet": {
+        "textDisplay": "@\u4e00\u4e09Gnefitisis I remember doing some nucleic acid 'sim' using Pelkin Elmer ChemOffice software after drawing some base pairs in Chem Draw. Stack of 3. I think it used SE or HF STO,  might be interesting to look into how - they - do it for what. As you go beyond 6 nucleic acids I think you have to make approximations on either physics (just use max 2 body e- interactions) or the time scale you can simulate.\nIt is not bad science, rough simulations should not be bashed, frawned upon by experimental people. It is hard enough to do right, best as possible, as is. Hell, even animations can lead to new scientific insights. It helps to think about things, such as 'hinge'-ing receptors.",
+        "textOriginal": "@\u4e00\u4e09Gnefitisis I remember doing some nucleic acid 'sim' using Pelkin Elmer ChemOffice software after drawing some base pairs in Chem Draw. Stack of 3. I think it used SE or HF STO,  might be interesting to look into how - they - do it for what. As you go beyond 6 nucleic acids I think you have to make approximations on either physics (just use max 2 body e- interactions) or the time scale you can simulate.\nIt is not bad science, rough simulations should not be bashed, frawned upon by experimental people. It is hard enough to do right, best as possible, as is. Hell, even animations can lead to new scientific insights. It helps to think about things, such as 'hinge'-ing receptors.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "V Blaas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYQKRk_6z1ik8o1CAybojFacwysL_chsRLcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oW3S9TA8h_ZVkkqlqxexg",
+        "authorChannelId": {
+          "value": "UC_oW3S9TA8h_ZVkkqlqxexg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-16T08:28:04Z",
+        "updatedAt": "2021-03-16T08:28:04Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "fFn-NtaaS5W3y5pmE4-I83cFceU",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9Kvzpjha-bo",
+      "snippet": {
+        "textDisplay": "@V Blaas Right, like a good interdisciplinary scientist of my day, I also have interests in macromolecules... but instead nucleic acids.\n\nI think the issue I'm describing is the DFT isn't completely computationally free like HF STOs methods, but SE methods seem to be limited to parametrization for fields that you can use to drive MM. Since I'm not interested in dynamics that sucks, since I would like full electronic treatments on molecules, including expanded basis sets with heavier halides and D orbitals... but I'm not sure if SE is as honest as a full simulation for non small molecules.",
+        "textOriginal": "@V Blaas Right, like a good interdisciplinary scientist of my day, I also have interests in macromolecules... but instead nucleic acids.\n\nI think the issue I'm describing is the DFT isn't completely computationally free like HF STOs methods, but SE methods seem to be limited to parametrization for fields that you can use to drive MM. Since I'm not interested in dynamics that sucks, since I would like full electronic treatments on molecules, including expanded basis sets with heavier halides and D orbitals... but I'm not sure if SE is as honest as a full simulation for non small molecules.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-16T01:10:45Z",
+        "updatedAt": "2021-03-16T01:10:45Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "4s3HFWj8tpzIEevYQBSBUF6Ictg",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9Kvof-r9L32",
+      "snippet": {
+        "textDisplay": "@\u4e00\u4e09Gnefitisis Ok. I have been to EPFL, LCBC, CECAM workshop. DFT is powerful but a bit painful to me to be honest with you. As I see it, DFT is really a great workhorse, literally 'functional', and SE the holy grail that you shouldn't consider for macromolecules such as proteins. (would be interested). Proteins need to be modelled on different timescales. Ligands bind and react on picosecond timescales, proteins fold on microsecond timescales. Which is one reason why CPMD, Car-Parinello QM/MM exists at all, where the QM part uses DFT. Still research in directed evolution of proteins seems more sensible. QM/MM is more usefull for predicting properties of perovskites for solar panels. Electron-electron, multi-body interactions are a pain in the but.. Sad, because I really liked simulating protein dynamics even if it got over my head.",
+        "textOriginal": "@\u4e00\u4e09Gnefitisis Ok. I have been to EPFL, LCBC, CECAM workshop. DFT is powerful but a bit painful to me to be honest with you. As I see it, DFT is really a great workhorse, literally 'functional', and SE the holy grail that you shouldn't consider for macromolecules such as proteins. (would be interested). Proteins need to be modelled on different timescales. Ligands bind and react on picosecond timescales, proteins fold on microsecond timescales. Which is one reason why CPMD, Car-Parinello QM/MM exists at all, where the QM part uses DFT. Still research in directed evolution of proteins seems more sensible. QM/MM is more usefull for predicting properties of perovskites for solar panels. Electron-electron, multi-body interactions are a pain in the but.. Sad, because I really liked simulating protein dynamics even if it got over my head.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "V Blaas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYQKRk_6z1ik8o1CAybojFacwysL_chsRLcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oW3S9TA8h_ZVkkqlqxexg",
+        "authorChannelId": {
+          "value": "UC_oW3S9TA8h_ZVkkqlqxexg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-15T23:33:10Z",
+        "updatedAt": "2021-03-15T23:41:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "2-YXbR29WBAYVddy18wbm9hBb1o",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KunKQlaukL",
+      "snippet": {
+        "textDisplay": "@V Blaas You don't need to explain me these topics. I have also been to grad school. xD\nDon't get me wrong, FRET is interesting and a useful tool for understanding how proteins, and consequently cells, communicate to better understand the interactome.  But, since I am not a metabolic or neuroscientist, my uses are currently  limited.\n\nMy interests currently are more chemical in nature.... or you could say more naturally chemical. If you could explain me QM basis sets and which to use when, then we can gladly talk! Still have trouble deciding between when to use SE vs. DFT calculations.",
+        "textOriginal": "@V Blaas You don't need to explain me these topics. I have also been to grad school. xD\nDon't get me wrong, FRET is interesting and a useful tool for understanding how proteins, and consequently cells, communicate to better understand the interactome.  But, since I am not a metabolic or neuroscientist, my uses are currently  limited.\n\nMy interests currently are more chemical in nature.... or you could say more naturally chemical. If you could explain me QM basis sets and which to use when, then we can gladly talk! Still have trouble deciding between when to use SE vs. DFT calculations.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-15T14:02:14Z",
+        "updatedAt": "2021-03-15T14:02:14Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "4-Y6NnPfXLesyYneJnebjTd3ZHQ",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KucTqopOA3",
+      "snippet": {
+        "textDisplay": "@\u4e00\u4e09Gnefitisis I just thought you interested. FRET is used in studying real time protein-protein interactions and tracking locations and movement within cells. In-vivo. Using engineered, attached, fluorescent barrel proteins e.g. GFP.",
+        "textOriginal": "@\u4e00\u4e09Gnefitisis I just thought you interested. FRET is used in studying real time protein-protein interactions and tracking locations and movement within cells. In-vivo. Using engineered, attached, fluorescent barrel proteins e.g. GFP.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "V Blaas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYQKRk_6z1ik8o1CAybojFacwysL_chsRLcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oW3S9TA8h_ZVkkqlqxexg",
+        "authorChannelId": {
+          "value": "UC_oW3S9TA8h_ZVkkqlqxexg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-15T12:27:24Z",
+        "updatedAt": "2021-03-15T12:27:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "YxLbwUOtW7tJ-UOmXMPK-lqKg0g",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KtGIL7D-nH",
+      "snippet": {
+        "textDisplay": "@V BlaasRight, NMR is usually shit and contains architefacts, but can still be used for molecular dynamics (MD).\n\n I don't see how this is related to FRET at all. Also, FRET is fine for verifying hits, but not my interest.",
+        "textOriginal": "@V BlaasRight, NMR is usually shit and contains architefacts, but can still be used for molecular dynamics (MD).\n\n I don't see how this is related to FRET at all. Also, FRET is fine for verifying hits, but not my interest.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T23:45:37Z",
+        "updatedAt": "2021-03-14T23:46:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "quHC2kLMMTJuMu1oGUq7TUmiVJI",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KtFjtTtEW3",
+      "snippet": {
+        "textDisplay": "@\u4e00\u4e09Gnefitisis Protease or not. Definitely.\nBtw NMR will always be worse in spatial resolution. Unrelated to resolving structures you might be interested FRET protein interaction (dynamics) research.",
+        "textOriginal": "@\u4e00\u4e09Gnefitisis Protease or not. Definitely.\nBtw NMR will always be worse in spatial resolution. Unrelated to resolving structures you might be interested FRET protein interaction (dynamics) research.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "V Blaas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYQKRk_6z1ik8o1CAybojFacwysL_chsRLcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oW3S9TA8h_ZVkkqlqxexg",
+        "authorChannelId": {
+          "value": "UC_oW3S9TA8h_ZVkkqlqxexg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-14T23:40:46Z",
+        "updatedAt": "2021-03-14T23:40:46Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "WfHq3mhQtBLWEKkizZYF5-csal0",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9Kt1kPQpA9c",
+      "snippet": {
+        "textDisplay": "@V Blaas On second thought, it's a protease. So this could just be XRD, if they used metal dopants corresponding to the cofactor, right?",
+        "textOriginal": "@V Blaas On second thought, it's a protease. So this could just be XRD, if they used metal dopants corresponding to the cofactor, right?",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "\u4e00\u4e09Gnefitisis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnXUXu-yz1jDE8CXLfM0R-HZA4qYLStIphD8KvRQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYd6PVtKh3FSPocxjBKL9IA",
+        "authorChannelId": {
+          "value": "UCYd6PVtKh3FSPocxjBKL9IA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T21:38:31Z",
+        "updatedAt": "2021-03-14T21:38:31Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "apkCvkLDAq-4oDhNdiCLjynk194",
+      "id": "UgypK2aUpmj4B_2GOp94AaABAg.9HL4gujYRmL9KsqiZFH-2H",
+      "snippet": {
+        "textDisplay": "Cryo-EM is mostly used for hard-to-crystalize proteins  (e.g. transmembrane).\nX-ray crystalography is the more appropriate method here I think.",
+        "textOriginal": "Cryo-EM is mostly used for hard-to-crystalize proteins  (e.g. transmembrane).\nX-ray crystalography is the more appropriate method here I think.",
+        "parentId": "UgypK2aUpmj4B_2GOp94AaABAg",
+        "authorDisplayName": "V Blaas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYQKRk_6z1ik8o1CAybojFacwysL_chsRLcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_oW3S9TA8h_ZVkkqlqxexg",
+        "authorChannelId": {
+          "value": "UC_oW3S9TA8h_ZVkkqlqxexg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-14T19:53:24Z",
+        "updatedAt": "2021-03-14T19:53:24Z"
+      }
+    }
+  ]
+}

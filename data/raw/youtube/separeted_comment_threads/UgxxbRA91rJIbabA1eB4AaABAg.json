@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nS7m-ER8uC9u7vXf7lRQd43ugbI",
+  "id": "UgxxbRA91rJIbabA1eB4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IyQlo42STQflyGnVaN0GjF8btS8",
+      "id": "UgxxbRA91rJIbabA1eB4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "\"\" gratuito\"\"",
+        "textOriginal": "\"\" gratuito\"\"",
+        "authorDisplayName": "Significantes Michele",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xLNg5JSGqxw0ju-W5MeuhPnoo5zfdYe25FuxouLbmGmWVedLoYlZ-3kS8A0xyx8d0sf_mzZY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCU7yl9CkXoAxtLgWSSFTWjg",
+        "authorChannelId": {
+          "value": "UCU7yl9CkXoAxtLgWSSFTWjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-07T15:16:47Z",
+        "updatedAt": "2020-10-07T15:16:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EQJsF1holTHEbUWJppS7K3Lt-iQ",
+      "id": "UgxxbRA91rJIbabA1eB4AaABAg.9EWWTDj8R409EYzQ86Ni3I",
+      "snippet": {
+        "textDisplay": "obrigado michele! ainda estou aprendendo a pronunciar esta palavra corretamente kkkkk",
+        "textOriginal": "obrigado michele! ainda estou aprendendo a pronunciar esta palavra corretamente kkkkk",
+        "parentId": "UgxxbRA91rJIbabA1eB4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-08T14:16:59Z",
+        "updatedAt": "2020-10-08T14:16:59Z"
+      }
+    }
+  ]
+}

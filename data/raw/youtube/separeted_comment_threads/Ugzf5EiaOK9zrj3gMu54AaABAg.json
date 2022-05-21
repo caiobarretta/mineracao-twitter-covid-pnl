@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "K2cxm5pjW1BN98HnwS3AtnUuz-8",
+  "id": "Ugzf5EiaOK9zrj3gMu54AaABAg",
+  "snippet": {
+    "videoId": "QY9aGw046TY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DKn0fi8RpkrNqgc09DF1CyA7ImQ",
+      "id": "Ugzf5EiaOK9zrj3gMu54AaABAg",
+      "snippet": {
+        "videoId": "QY9aGw046TY",
+        "textDisplay": "Alex quero saber sobre Whatsapp corporativo sim",
+        "textOriginal": "Alex quero saber sobre Whatsapp corporativo sim",
+        "authorDisplayName": "CARLOS ALBERTO MACHADO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlZTEVQv0D8AHkulCTF-ehAMI3sKo50I7bhfqM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3q__QX9WKAP0jwe4CTU0Hg",
+        "authorChannelId": {
+          "value": "UC3q__QX9WKAP0jwe4CTU0Hg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-04T15:04:17Z",
+        "updatedAt": "2020-04-04T15:04:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wiqjw1ZKmZWXD5gG7Kbl7R1nIy4",
+      "id": "Ugzf5EiaOK9zrj3gMu54AaABAg.971ZAvIGhvv971i_uo-JLz",
+      "snippet": {
+        "textDisplay": "Opa pode deixar que vou gravar",
+        "textOriginal": "Opa pode deixar que vou gravar",
+        "parentId": "Ugzf5EiaOK9zrj3gMu54AaABAg",
+        "authorDisplayName": "ComunidadeWEB Sublima\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ80Bo0lQzPSY41dnlYsn8qbBMQMcyP4KeQpaqb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyqAT5gKaxGjrxbCBLG6QJg",
+        "authorChannelId": {
+          "value": "UCyqAT5gKaxGjrxbCBLG6QJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-04T16:35:12Z",
+        "updatedAt": "2020-04-04T16:35:12Z"
+      }
+    }
+  ]
+}

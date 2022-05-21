@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7O7FH2lazNDx3baOZeWT7ljyoW4",
+  "id": "Ugy7Uj1-A3VjV2atbol4AaABAg",
+  "snippet": {
+    "videoId": "s_UJsJcPi-A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6efD0eCp7nI5blrS6DD2ou6ql5k",
+      "id": "Ugy7Uj1-A3VjV2atbol4AaABAg",
+      "snippet": {
+        "videoId": "s_UJsJcPi-A",
+        "textDisplay": "This video predicted covid-19 by 4-5 years",
+        "textOriginal": "This video predicted covid-19 by 4-5 years",
+        "authorDisplayName": "Blessing Matadi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7XGXON6oNYLkC73OFufMYAY0p0w-ougbeqw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL8BEE795aRwRQ7B2FaIm1g",
+        "authorChannelId": {
+          "value": "UCL8BEE795aRwRQ7B2FaIm1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-13T14:02:37Z",
+        "updatedAt": "2020-03-13T14:02:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8Lsz947udzxv0lvoo26WuISjdqw",
+      "id": "Ugy7Uj1-A3VjV2atbol4AaABAg.968nd1JW8iu96In42Iex1N",
+      "snippet": {
+        "textDisplay": "Blessing Matadi no it didnt",
+        "textOriginal": "Blessing Matadi no it didnt",
+        "parentId": "Ugy7Uj1-A3VjV2atbol4AaABAg",
+        "authorDisplayName": "Phantom siber",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBR1p0R71M6R06Iae8QgFyW_y2fsV_uaQqjxFokg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSlN5m9y8OMZlND9BA3tPGQ",
+        "authorChannelId": {
+          "value": "UCSlN5m9y8OMZlND9BA3tPGQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-03-17T11:10:06Z",
+        "updatedAt": "2020-03-17T11:10:06Z"
+      }
+    }
+  ]
+}

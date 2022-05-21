@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z37eTLjDRfnpA8gW0qX-mb39fbU",
+  "id": "UgzLoKGFgdeSPlGj-i14AaABAg",
+  "snippet": {
+    "videoId": "-jMprgneXe4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OsfL4-Kc7--fcQ2E8Wnvb_a37no",
+      "id": "UgzLoKGFgdeSPlGj-i14AaABAg",
+      "snippet": {
+        "videoId": "-jMprgneXe4",
+        "textDisplay": "Que v\u00eddeo excelente !!!",
+        "textOriginal": "Que v\u00eddeo excelente !!!",
+        "authorDisplayName": "Robson Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9a5VFfQeZDwyD6_Vm2Zn93NUAhk-yNhGGbVkfrQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOcFCMJXWYCxveJcsuK6GpA",
+        "authorChannelId": {
+          "value": "UCOcFCMJXWYCxveJcsuK6GpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-08-23T17:37:49Z",
+        "updatedAt": "2021-08-23T17:37:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CKcwaUWLdw6sgZiMvq-hfXQ1OEM",
+      "id": "UgzLoKGFgdeSPlGj-i14AaABAg.9ROjzBy2pSz9RRGOuqoZLj",
+      "snippet": {
+        "textDisplay": "obrigada, Robson, compartilhe nas tuas redes pra nos ajudar a furar a bolha :)",
+        "textOriginal": "obrigada, Robson, compartilhe nas tuas redes pra nos ajudar a furar a bolha :)",
+        "parentId": "UgzLoKGFgdeSPlGj-i14AaABAg",
+        "authorDisplayName": "TV Grabois",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVoXS0NtgXCmSK8nFAWT0WcbQi30OXnsfPmIHJbw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ83chf0Yg1yt5Hrya1uVWQ",
+        "authorChannelId": {
+          "value": "UCQ83chf0Yg1yt5Hrya1uVWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-24T17:08:18Z",
+        "updatedAt": "2021-08-24T17:08:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uJGYrWIJIbcWHTaaysZ7NpgvegM",
+  "id": "UgwsRZttyX4HiSW1LZJ4AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3nFjggN2R6sgNZdzO5mzzUOD9V8",
+      "id": "UgwsRZttyX4HiSW1LZJ4AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Nice Dr good information\ud83d\ude4f",
+        "textOriginal": "Nice Dr good information\ud83d\ude4f",
+        "authorDisplayName": "Selvi R",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4EDyNFy9-0ck1g0dDlN_axie8fo-GZxEnNmBnwY1SCzpEbfAgkFG0gMI5eC_C=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqgSRZSMfP_kRrBaXeIYW8g",
+        "authorChannelId": {
+          "value": "UCqgSRZSMfP_kRrBaXeIYW8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T11:31:57Z",
+        "updatedAt": "2022-01-06T11:31:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "a24B0yqcrnESWqkZW7yOimmjA9w",
+      "id": "UgwsRZttyX4HiSW1LZJ4AaABAg.9WrHDZlK4LW9Ws1jRs69MG",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "UgwsRZttyX4HiSW1LZJ4AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T18:35:52Z",
+        "updatedAt": "2022-01-06T18:35:52Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Vm5aW8cxMA4Mgj0HWI8pCxAiZPc",
+  "id": "UgxCFNELXC1lMEUaM0h4AaABAg",
+  "snippet": {
+    "videoId": "4sMkPEO3tYM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3WSA4MJSYYMdCudp79F27veYReo",
+      "id": "UgxCFNELXC1lMEUaM0h4AaABAg",
+      "snippet": {
+        "videoId": "4sMkPEO3tYM",
+        "textDisplay": "Video quality is low...only 144p and 240p are available....\ud83d\ude11",
+        "textOriginal": "Video quality is low...only 144p and 240p are available....\ud83d\ude11",
+        "authorDisplayName": "ROHIT PATHAK",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSr6mIf6JiniBC1S583rmVE2teSd7ZTbPT_dy9P9GU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWYkm0Kw1p_1-j9we-X-Dyw",
+        "authorChannelId": {
+          "value": "UCWYkm0Kw1p_1-j9we-X-Dyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-10T03:17:37Z",
+        "updatedAt": "2020-10-10T03:17:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "F38aXu56T50GTiejBtasmhUMYJc",
+      "id": "UgxCFNELXC1lMEUaM0h4AaABAg.9EbxYaCyxdg9Eje0mk6JyU",
+      "snippet": {
+        "textDisplay": "Change your mobile",
+        "textOriginal": "Change your mobile",
+        "parentId": "UgxCFNELXC1lMEUaM0h4AaABAg",
+        "authorDisplayName": "Siri Krishana Math(SKM) Academy for CSIR-NET/ GATE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTknmE6Y9uYLR5Pk-zNo4iuyrqyin3MYVHOTQH2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNPhrkLAORgzLrllpFjM4UA",
+        "authorChannelId": {
+          "value": "UCNPhrkLAORgzLrllpFjM4UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-13T03:00:54Z",
+        "updatedAt": "2020-10-13T03:00:54Z"
+      }
+    }
+  ]
+}

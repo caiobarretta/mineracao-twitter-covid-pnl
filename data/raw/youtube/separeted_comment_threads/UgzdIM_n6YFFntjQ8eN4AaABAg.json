@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OuNc9syof3AMFrI7r1u0UMSO8f0",
+  "id": "UgzdIM_n6YFFntjQ8eN4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "krwxaGtgKGwdyecoZepET7pnG00",
+      "id": "UgzdIM_n6YFFntjQ8eN4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Estou com esse estou gr\u00e1vida de 4 meses",
+        "textOriginal": "Estou com esse estou gr\u00e1vida de 4 meses",
+        "authorDisplayName": "Joania Arruda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQH13AODejPp-Wex8jLEWAhzqr1t12-tSeuUgZi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeZ3va-RsB2Wr-HO5nYzccQ",
+        "authorChannelId": {
+          "value": "UCeZ3va-RsB2Wr-HO5nYzccQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-06T14:17:47Z",
+        "updatedAt": "2021-03-06T14:17:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DPANHh0zXR2svePqwfXqcOvIX-s",
+      "id": "UgzdIM_n6YFFntjQ8eN4AaABAg.9KYdxSAT3UA9LPR4LyOZg7",
+      "snippet": {
+        "textDisplay": "Oi Joania, como vc est\u00e1? E seu BB? Espero que ambos estejam bem",
+        "textOriginal": "Oi Joania, como vc est\u00e1? E seu BB? Espero que ambos estejam bem",
+        "parentId": "UgzdIM_n6YFFntjQ8eN4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-27T20:54:46Z",
+        "updatedAt": "2021-03-27T20:54:46Z"
+      }
+    }
+  ]
+}

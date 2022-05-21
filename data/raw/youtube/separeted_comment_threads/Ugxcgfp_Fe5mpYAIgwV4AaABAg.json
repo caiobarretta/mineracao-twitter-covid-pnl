@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uqWD6BApl5Bx5uUZWcZuCKmf6xY",
+  "id": "Ugxcgfp_Fe5mpYAIgwV4AaABAg",
+  "snippet": {
+    "videoId": "n0wEYE90O9E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "I4MsS8Fu4zq7G3WwzdUtYrfIMJM",
+      "id": "Ugxcgfp_Fe5mpYAIgwV4AaABAg",
+      "snippet": {
+        "videoId": "n0wEYE90O9E",
+        "textDisplay": "1:44 Aquela casinha ali do lado \u00e9 sus",
+        "textOriginal": "1:44 Aquela casinha ali do lado \u00e9 sus",
+        "authorDisplayName": "Paulo Dreemurr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/33YyPDn0e4LpL4PJ8tVWpweVlo7i1jWo1AcKMRa4w79XHpGKK8VXO1MK5RxzboENVK2cUIxirA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7I3gsdnIbXPsFr0yKP9-LQ",
+        "authorChannelId": {
+          "value": "UC7I3gsdnIbXPsFr0yKP9-LQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-05-12T12:13:55Z",
+        "updatedAt": "2021-05-12T12:13:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5ul0qQgvNsZz3gnbLssApcZ-CgY",
+      "id": "Ugxcgfp_Fe5mpYAIgwV4AaABAg.9NEx1n8i69h9NqoA4sQ3Ft",
+      "snippet": {
+        "textDisplay": "Amogus",
+        "textOriginal": "Amogus",
+        "parentId": "Ugxcgfp_Fe5mpYAIgwV4AaABAg",
+        "authorDisplayName": "Henri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mSZ70rm6QfCYc-npr5iHj1EQ-AR-5wl-w5E0rpc629Wc76Q5YjPMnQ8b6aGnhGz6J9c4CugQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5WNi_d-kf3W9YmvJPdwCbQ",
+        "authorChannelId": {
+          "value": "UC5WNi_d-kf3W9YmvJPdwCbQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-27T14:26:47Z",
+        "updatedAt": "2021-05-27T14:26:47Z"
+      }
+    }
+  ]
+}

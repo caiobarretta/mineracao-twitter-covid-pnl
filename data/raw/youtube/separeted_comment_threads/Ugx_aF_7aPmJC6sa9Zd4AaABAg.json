@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WRLg98OapRv7eiqUisZNmpjL4S8",
+  "id": "Ugx_aF_7aPmJC6sa9Zd4AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fRpH9Sq9mfT6PEbTvP6fsDZVs9U",
+      "id": "Ugx_aF_7aPmJC6sa9Zd4AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Compartilhandoooo.. Muito bom!!!",
+        "textOriginal": "Compartilhandoooo.. Muito bom!!!",
+        "authorDisplayName": "Luba Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuDDMdQUzdG181UglMvMYZUpr8JHCinSgUHLLLDAE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCs0Yx_OpAUvRWVFqRHiwIhA",
+        "authorChannelId": {
+          "value": "UCs0Yx_OpAUvRWVFqRHiwIhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-24T18:14:41Z",
+        "updatedAt": "2020-10-24T18:14:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TjDdFKEtRCTRV6uoPRu5OMVHN1Y",
+      "id": "Ugx_aF_7aPmJC6sa9Zd4AaABAg.9FCbL3z_p8Y9FD37ruqFit",
+      "snippet": {
+        "textDisplay": "Ei, n\u00e3o nos conhecemos de algum lugar? Hahahhahaha",
+        "textOriginal": "Ei, n\u00e3o nos conhecemos de algum lugar? Hahahhahaha",
+        "parentId": "Ugx_aF_7aPmJC6sa9Zd4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-24T22:26:17Z",
+        "updatedAt": "2020-10-24T22:26:17Z"
+      }
+    }
+  ]
+}

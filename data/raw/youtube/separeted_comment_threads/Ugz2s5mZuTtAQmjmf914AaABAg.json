@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YxzLJZcatWFeVOAXbYqsF7M-F_s",
+  "id": "Ugz2s5mZuTtAQmjmf914AaABAg",
+  "snippet": {
+    "videoId": "BWbDwsHkM9A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "f2mAKJIcJaEj3jMLl8XZc1xaRqU",
+      "id": "Ugz2s5mZuTtAQmjmf914AaABAg",
+      "snippet": {
+        "videoId": "BWbDwsHkM9A",
+        "textDisplay": "Cade voce ?",
+        "textOriginal": "Cade voce ?",
+        "authorDisplayName": "Lucas Roschel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGH57S648LJtJ2NJBzG1-7ELMeVOwVxNPsYdtQVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg2C4pkO9CtqJxOrcJM-ShA",
+        "authorChannelId": {
+          "value": "UCg2C4pkO9CtqJxOrcJM-ShA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-16T16:19:10Z",
+        "updatedAt": "2022-03-16T16:19:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iRC4LEHANHT9-rDAt8FV6CsKldw",
+      "id": "Ugz2s5mZuTtAQmjmf914AaABAg.9ZdSwXxxNCa9a2x0ndSw9h",
+      "snippet": {
+        "textDisplay": "Acabei de ver ela no insta, acho que ela n\u00e3o fez bari\u00e1trica . E tamb\u00e9m n\u00e3o fala nada sobre o assunto.",
+        "textOriginal": "Acabei de ver ela no insta, acho que ela n\u00e3o fez bari\u00e1trica . E tamb\u00e9m n\u00e3o fala nada sobre o assunto.",
+        "parentId": "Ugz2s5mZuTtAQmjmf914AaABAg",
+        "authorDisplayName": "sky",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/a96uN8_t7Us5XiGYGFatkRq32HGEwE-LClG0GU9pS1gbQbc1pA4gSKQkgjUBobzwjueZRbjFng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdshQ0BnAY3rDObwmDVx8Sw",
+        "authorChannelId": {
+          "value": "UCdshQ0BnAY3rDObwmDVx8Sw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-20T19:42:24Z",
+        "updatedAt": "2022-04-20T19:44:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R9-PjlsabYlI8cHSPufl6pX6JoQ",
+  "id": "Ugzw0CnJaGeaBKIIpe94AaABAg",
+  "snippet": {
+    "videoId": "_PgMipbhnEw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lBW_Ie3y5-b7XapznOZxnTClwBc",
+      "id": "Ugzw0CnJaGeaBKIIpe94AaABAg",
+      "snippet": {
+        "videoId": "_PgMipbhnEw",
+        "textDisplay": "Useful info. This is all we need. Stay safe everyone!",
+        "textOriginal": "Useful info. This is all we need. Stay safe everyone!",
+        "authorDisplayName": "Invisible Travellers",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnGwTqfaKhmsClV_38qLP36Aws5vqagA1eezyB=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfbpNyYRuRx_KzUHMScOjeQ",
+        "authorChannelId": {
+          "value": "UCfbpNyYRuRx_KzUHMScOjeQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-22T11:16:36Z",
+        "updatedAt": "2020-03-22T11:16:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PEBIl-oRq3hLBsffs_WiO_BS7Xo",
+      "id": "Ugzw0CnJaGeaBKIIpe94AaABAg.96VfmyAFQPX96Z7p1SRoE5",
+      "snippet": {
+        "textDisplay": "Thanks and take care!",
+        "textOriginal": "Thanks and take care!",
+        "parentId": "Ugzw0CnJaGeaBKIIpe94AaABAg",
+        "authorDisplayName": "AcrossThePlanet",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR07EHP2l0NcLoBPecPba8wFg7JnxDMnZw9woFL6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQv5IZ3nroNEkMCb7dcfSUA",
+        "authorChannelId": {
+          "value": "UCQv5IZ3nroNEkMCb7dcfSUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T19:28:00Z",
+        "updatedAt": "2020-03-23T19:28:00Z"
+      }
+    }
+  ]
+}

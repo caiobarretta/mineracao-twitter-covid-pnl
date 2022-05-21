@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6M2t_qtpffkefAK-TRNJkzLNtqo",
+  "id": "UgyYxO1bLd19lekpexh4AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lxn0ueP8SbW7iDv_46nKkgJuX1w",
+      "id": "UgyYxO1bLd19lekpexh4AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Muito bom esse canal, compartilhando\ud83d\udcaf",
+        "textOriginal": "Muito bom esse canal, compartilhando\ud83d\udcaf",
+        "authorDisplayName": "Rosangela Rom\u00e3o dos Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScFTGgb-RQzroEv1t-BNQeCuL6zBLum97w1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMxJwGho7lFyJZ2x55NXDVA",
+        "authorChannelId": {
+          "value": "UCMxJwGho7lFyJZ2x55NXDVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-24T18:25:13Z",
+        "updatedAt": "2020-10-24T18:25:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j0yXbrwXPOdCpQrVej31qkShPeo",
+      "id": "UgyYxO1bLd19lekpexh4AaABAg.9FCcYJuXoy09FD33OojBPe",
+      "snippet": {
+        "textDisplay": "Valeuuu",
+        "textOriginal": "Valeuuu",
+        "parentId": "UgyYxO1bLd19lekpexh4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-24T22:25:40Z",
+        "updatedAt": "2020-10-24T22:25:40Z"
+      }
+    }
+  ]
+}

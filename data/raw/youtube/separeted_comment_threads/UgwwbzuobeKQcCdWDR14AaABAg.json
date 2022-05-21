@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DzfsPZ3tppR4TPGaFrbjXDbJ3qQ",
+  "id": "UgwwbzuobeKQcCdWDR14AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LniK4KygrvKWknau5ZRIxRYmcTU",
+      "id": "UgwwbzuobeKQcCdWDR14AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "Parab\u00e9ns pelo conte\u00fado... \u00d3tima aula!",
+        "textOriginal": "Parab\u00e9ns pelo conte\u00fado... \u00d3tima aula!",
+        "authorDisplayName": "Esau Fonseca",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8XmBgxAX3fZJkjVR2uGH_ukoXp3iaYluwlvGOqA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4Mv4iEavp40cuSurBC1ljA",
+        "authorChannelId": {
+          "value": "UC4Mv4iEavp40cuSurBC1ljA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-25T20:25:35Z",
+        "updatedAt": "2022-01-25T20:25:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SP-VfBV3Gvndv_7z-aFbEnM_OZ4",
+      "id": "UgwwbzuobeKQcCdWDR14AaABAg.9Xd9OZu-yW99XyTmpEp_Cj",
+      "snippet": {
+        "textDisplay": "Muito obrigado! \nSe quiser deixar uma sugest\u00e3o de tema, agrade\u00e7o.",
+        "textOriginal": "Muito obrigado! \nSe quiser deixar uma sugest\u00e3o de tema, agrade\u00e7o.",
+        "parentId": "UgwwbzuobeKQcCdWDR14AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-03T03:07:50Z",
+        "updatedAt": "2022-02-03T03:07:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2WOwzWT1Bws_J8euS2y_3eWcGDQ",
+  "id": "Ugx07Omi_ZoJYMm17px4AaABAg",
+  "snippet": {
+    "videoId": "wPRGiDBN1Po",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cVXjyDtWhYSIhRyzRHqPfR_0Nj4",
+      "id": "Ugx07Omi_ZoJYMm17px4AaABAg",
+      "snippet": {
+        "videoId": "wPRGiDBN1Po",
+        "textDisplay": "Lindo a reflex\u00e3o \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "textOriginal": "Lindo a reflex\u00e3o \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+        "authorDisplayName": "Ilda Maria Alvarez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRGahU7KHGwVEWfuP3mdwONWQFd2HqulkuohKa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm-fXH4bvLmZ2gM6Qgx_YQw",
+        "authorChannelId": {
+          "value": "UCm-fXH4bvLmZ2gM6Qgx_YQw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-07-06T18:16:51Z",
+        "updatedAt": "2020-07-06T18:16:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iRvPKg3waZcb79KNoLFOId8ID2g",
+      "id": "Ugx07Omi_ZoJYMm17px4AaABAg.9AmN8i-PWBt9AuiQ5Jt_AD",
+      "snippet": {
+        "textDisplay": "Am\u00e9m, irm\u00e3! \ud83d\ude4f",
+        "textOriginal": "Am\u00e9m, irm\u00e3! \ud83d\ude4f",
+        "parentId": "Ugx07Omi_ZoJYMm17px4AaABAg",
+        "authorDisplayName": "Primeiro Passo Oficial",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQaklgbricpcqz6sgpHn1-GorPhIOMGObkTP54SkA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIucjkd1RZExX_tFDGigFJw",
+        "authorChannelId": {
+          "value": "UCIucjkd1RZExX_tFDGigFJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-10T00:05:23Z",
+        "updatedAt": "2020-07-10T00:05:23Z"
+      }
+    }
+  ]
+}

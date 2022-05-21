@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-a3mGBR7sTtBK6OhlnLDtnmGHvE",
+  "id": "UgwjLJmhWXl3HMfeQqN4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EMThRgnjtpEjZxbTz10fv1isa9c",
+      "id": "UgwjLJmhWXl3HMfeQqN4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Muito interessante! Amei o v\u00eddeo\ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "Muito interessante! Amei o v\u00eddeo\ud83d\udc4f\ud83c\udffc",
+        "authorDisplayName": "Luzia da Silva Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQs4p7juC9BkgJ_6lgGEnuFYJugeSS4vws3JwvQTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIyhiOQW8yae7i_bwkUNiqg",
+        "authorChannelId": {
+          "value": "UCIyhiOQW8yae7i_bwkUNiqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-21T15:50:17Z",
+        "updatedAt": "2020-05-21T15:50:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XjhSJmoTEg5k3Nh1nD8ZhscRtiU",
+      "id": "UgwjLJmhWXl3HMfeQqN4AaABAg.98veo1fSX7r99-tJKeybX0",
+      "snippet": {
+        "textDisplay": "Que bom que vc gostou, seja bem vinda \u00e0 Nave.",
+        "textOriginal": "Que bom que vc gostou, seja bem vinda \u00e0 Nave.",
+        "parentId": "UgwjLJmhWXl3HMfeQqN4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-23T16:33:14Z",
+        "updatedAt": "2020-05-23T16:33:14Z"
+      }
+    }
+  ]
+}

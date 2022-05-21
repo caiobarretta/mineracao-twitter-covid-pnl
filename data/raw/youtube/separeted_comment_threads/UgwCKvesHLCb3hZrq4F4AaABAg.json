@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lImMRhGlJMkTY4e9qd_fIT56qo4",
+  "id": "UgwCKvesHLCb3hZrq4F4AaABAg",
+  "snippet": {
+    "videoId": "bJPgQlqkQxI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2NSD5L6uhQ13658qMxwyzDuv-sQ",
+      "id": "UgwCKvesHLCb3hZrq4F4AaABAg",
+      "snippet": {
+        "videoId": "bJPgQlqkQxI",
+        "textDisplay": "This is the closest thing we will see to a completion for LONG TIME",
+        "textOriginal": "This is the closest thing we will see to a completion for LONG TIME",
+        "authorDisplayName": "nubwieg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/scXUw-Yq_LAKpik5bBmToV30pmLZj_icXKxzM1zFLR7_-opyJIhgEgTA5af6xMhU9qlEUQHe3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdqdDVpxiczdNhKBJjL1D1Q",
+        "authorChannelId": {
+          "value": "UCdqdDVpxiczdNhKBJjL1D1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-07-22T02:34:52Z",
+        "updatedAt": "2021-07-22T02:34:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1JBZLiSui7TNZM92A7EXFWLzIkw",
+      "id": "UgwCKvesHLCb3hZrq4F4AaABAg.9Q4jCnwO2xz9SRULnKiOzP",
+      "snippet": {
+        "textDisplay": "yup",
+        "textOriginal": "yup",
+        "parentId": "UgwCKvesHLCb3hZrq4F4AaABAg",
+        "authorDisplayName": "robinisaiah10",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSgMxPYEeyqKeiQqDQ5fP1ppzwAe0XUb6RxnKcnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Q_MdDBKLy64CWhWjgAaJg",
+        "authorChannelId": {
+          "value": "UC2Q_MdDBKLy64CWhWjgAaJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-18T15:41:36Z",
+        "updatedAt": "2021-09-18T15:41:36Z"
+      }
+    }
+  ]
+}

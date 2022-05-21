@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "COiYwbx01dxPr5D3tAtTmuTtjSs",
+  "id": "UgxoZKsPCRy94W_Zhld4AaABAg",
+  "snippet": {
+    "videoId": "1BNFZCBCwOY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "s9RKIk9lWeSjxxi2FPbkEcLQkMk",
+      "id": "UgxoZKsPCRy94W_Zhld4AaABAg",
+      "snippet": {
+        "videoId": "1BNFZCBCwOY",
+        "textDisplay": "und wo seh ich den punktestand?\ngute besserung!",
+        "textOriginal": "und wo seh ich den punktestand?\ngute besserung!",
+        "authorDisplayName": "geminischweiz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjGhCwWUSz7nbTuozl0t3gIxv62d0EZFcEDQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-YpmAsRkIHKVRM_Pc5yzFw",
+        "authorChannelId": {
+          "value": "UC-YpmAsRkIHKVRM_Pc5yzFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T20:41:36Z",
+        "updatedAt": "2022-05-20T20:41:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SQ5OTNgBBhNfUA13qf-um2nC3L0",
+      "id": "UgxoZKsPCRy94W_Zhld4AaABAg.9bGIdZrz4X09bHVpQW8EU8",
+      "snippet": {
+        "textDisplay": "Punktestandz\u00e4hler kommt im Laufe der Woche. Und danke \ud83d\ude4f",
+        "textOriginal": "Punktestandz\u00e4hler kommt im Laufe der Woche. Und danke \ud83d\ude4f",
+        "parentId": "UgxoZKsPCRy94W_Zhld4AaABAg",
+        "authorDisplayName": "The Fearless Engineer (E-Technik & Programmieren)",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/W-__NA3G44YG-mIKqSBSCpdbi49VDSoM6fQJsK2Q95qAJco-_6Ay3y3xouf2-x9PIKgj2Wg0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrpxk6aT_DxRzYJz_LDVwUQ",
+        "authorChannelId": {
+          "value": "UCrpxk6aT_DxRzYJz_LDVwUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T07:56:03Z",
+        "updatedAt": "2022-05-21T07:56:03Z"
+      }
+    }
+  ]
+}

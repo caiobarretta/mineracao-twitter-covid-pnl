@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jTgE6fg6xHcLTlA8waBWdyW4_eA",
+  "id": "UgzBu9daMKal2RahjKZ4AaABAg",
+  "snippet": {
+    "videoId": "FZugIb3-CpI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "X-cI7dZrRPdNl-PHyTlOzagNe2E",
+      "id": "UgzBu9daMKal2RahjKZ4AaABAg",
+      "snippet": {
+        "videoId": "FZugIb3-CpI",
+        "textDisplay": "Muito bom, gostei das informa\u00e7\u00f5es!!!\ud83e\udd70",
+        "textOriginal": "Muito bom, gostei das informa\u00e7\u00f5es!!!\ud83e\udd70",
+        "authorDisplayName": "Barbara Amaral",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTSILlZNkKs5nhYhfj9zkGXCDfer2MI1YoANw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsKxQuviCT3TOC8kqR5YddQ",
+        "authorChannelId": {
+          "value": "UCsKxQuviCT3TOC8kqR5YddQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-05T19:30:47Z",
+        "updatedAt": "2020-07-05T19:30:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ToCneKdQUxrmWqS7MU1IzmGmD60",
+      "id": "UgzBu9daMKal2RahjKZ4AaABAg.9AjvoR9o-xk9AlwrQiYyYe",
+      "snippet": {
+        "textDisplay": "Obrigaaada \ud83e\udd70\u2665\ufe0f",
+        "textOriginal": "Obrigaaada \ud83e\udd70\u2665\ufe0f",
+        "parentId": "UgzBu9daMKal2RahjKZ4AaABAg",
+        "authorDisplayName": "Keka Mallon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGlPUgaq1HevJQ4YW07HaJ27k_V-7cAIp_YszHvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvNPV1jLteAPNaC2YSG4dZw",
+        "authorChannelId": {
+          "value": "UCvNPV1jLteAPNaC2YSG4dZw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-06T14:18:25Z",
+        "updatedAt": "2020-07-06T14:18:25Z"
+      }
+    }
+  ]
+}

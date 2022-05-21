@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nIdXd0NtHp5bb6mTIxrGJlzAD-s",
+  "id": "UgyBoxcpc77DXHeIj1Z4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sBWUtlzGrJxh-5QQalbv68miWeA",
+      "id": "UgyBoxcpc77DXHeIj1Z4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "Eu estou com uma d\u00favida... A fatura da taxa moderadora \u00e9 emitida na hora ou \u00e9 entregue em casa?",
+        "textOriginal": "Eu estou com uma d\u00favida... A fatura da taxa moderadora \u00e9 emitida na hora ou \u00e9 entregue em casa?",
+        "authorDisplayName": "Joao Pedro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRSgKajgiExwn9QfG0mDOjsRfEp8SEIAG0Jw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTJ4jb6amRXUbw3JBCnR7_w",
+        "authorChannelId": {
+          "value": "UCTJ4jb6amRXUbw3JBCnR7_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-06T03:01:14Z",
+        "updatedAt": "2022-03-06T03:01:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "I3qAEsXH7H5Ckz75LQ0jVizH3wA",
+      "id": "UgyBoxcpc77DXHeIj1Z4AaABAg.9ZDHfYi_WAV9__X7RvBCNU",
+      "snippet": {
+        "textDisplay": "@Vagas pelo Mundo quem lhe disse isso ?",
+        "textOriginal": "@Vagas pelo Mundo quem lhe disse isso ?",
+        "parentId": "UgyBoxcpc77DXHeIj1Z4AaABAg",
+        "authorDisplayName": "Z\u00e9 Camolas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/IQZmEXYT7tMipN-BGJu0nZ7HSEBEIB7TPN_9z-uB6tgkU7R_ewXwNPYZ1m5ovXXGm4ZBHNzDQQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAfx3BtXbcTjMfsSB9Yy8Xg",
+        "authorChannelId": {
+          "value": "UCAfx3BtXbcTjMfsSB9Yy8Xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-09T00:10:10Z",
+        "updatedAt": "2022-04-09T00:10:10Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "29xvDgKbH92_2JQnnM1QU3aJV2U",
+      "id": "UgyBoxcpc77DXHeIj1Z4AaABAg.9ZDHfYi_WAV9ZFDnCcHeQl",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Jo\u00e3o Pedro!!! \u00c9 pago na hora antes da consulta. Um abra\u00e7o!!!",
+        "textOriginal": "Ol\u00e1 Jo\u00e3o Pedro!!! \u00c9 pago na hora antes da consulta. Um abra\u00e7o!!!",
+        "parentId": "UgyBoxcpc77DXHeIj1Z4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-06T21:05:48Z",
+        "updatedAt": "2022-03-06T21:05:48Z"
+      }
+    }
+  ]
+}

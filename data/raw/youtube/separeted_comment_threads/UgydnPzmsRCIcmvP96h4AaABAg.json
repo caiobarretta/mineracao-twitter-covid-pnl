@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hZJwqvZfGv6pWNho4qJBhqWt5Cg",
+  "id": "UgydnPzmsRCIcmvP96h4AaABAg",
+  "snippet": {
+    "videoId": "QY9aGw046TY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gq7qwMxTYS4DVvUVEbU4L8yN6Gs",
+      "id": "UgydnPzmsRCIcmvP96h4AaABAg",
+      "snippet": {
+        "videoId": "QY9aGw046TY",
+        "textDisplay": "Vem com o titio que a gente aprende",
+        "textOriginal": "Vem com o titio que a gente aprende",
+        "authorDisplayName": "Neide",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ZyNCGg6SMeh6yu5csyecgck3qz9bS6PzC9poaMpyCkwVjydwUK9F6So7pyZB6CeOfbRABkjc4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5VTfm-UpL0qcHb21H9hBDQ",
+        "authorChannelId": {
+          "value": "UC5VTfm-UpL0qcHb21H9hBDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-09T04:38:34Z",
+        "updatedAt": "2020-04-09T04:38:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SM8y-bdGGXPbuobYvz5HyaTsEt8",
+      "id": "UgydnPzmsRCIcmvP96h4AaABAg.97DJYPRtkmu97EV4rPCvZu",
+      "snippet": {
+        "textDisplay": "Obrigado pela visita",
+        "textOriginal": "Obrigado pela visita",
+        "parentId": "UgydnPzmsRCIcmvP96h4AaABAg",
+        "authorDisplayName": "ComunidadeWEB Sublima\u00e7\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ80Bo0lQzPSY41dnlYsn8qbBMQMcyP4KeQpaqb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyqAT5gKaxGjrxbCBLG6QJg",
+        "authorChannelId": {
+          "value": "UCyqAT5gKaxGjrxbCBLG6QJg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-09T15:38:37Z",
+        "updatedAt": "2020-04-09T15:38:37Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LCwMQMGmRAJhCBYN6IsaXj6jNXg",
+  "id": "Ugwjg3vDeP_iVifoT3F4AaABAg",
+  "snippet": {
+    "videoId": "fJEIpwsb6Yk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2CzBwo4o0n8s_kWP3F5udCloNmM",
+      "id": "Ugwjg3vDeP_iVifoT3F4AaABAg",
+      "snippet": {
+        "videoId": "fJEIpwsb6Yk",
+        "textDisplay": "Is this as accurate as PCR test?",
+        "textOriginal": "Is this as accurate as PCR test?",
+        "authorDisplayName": "franc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZ4k6f1xpz2I7euGkvjBpf6Q2AnCs__5bMDwHLIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaDD6MXWkV1OBujjEaRqbcw",
+        "authorChannelId": {
+          "value": "UCaDD6MXWkV1OBujjEaRqbcw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-07-26T02:16:15Z",
+        "updatedAt": "2021-07-26T02:16:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AAaxsQlL9rlYCbNLRZl2UZ881DY",
+      "id": "Ugwjg3vDeP_iVifoT3F4AaABAg.9QF-G0s1-Tu9SG6MpapSBB",
+      "snippet": {
+        "textDisplay": "This test is used to trace negative and positive cases. However if positive, a PCR test is required to test the positive trace again .",
+        "textOriginal": "This test is used to trace negative and positive cases. However if positive, a PCR test is required to test the positive trace again .",
+        "parentId": "Ugwjg3vDeP_iVifoT3F4AaABAg",
+        "authorDisplayName": "Nope65z",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQezPGuxYv6W0jLSf3YNNWEU2-396bxt2dl2YoTMg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCebCWddBXmyLjOBgpVZIAGA",
+        "authorChannelId": {
+          "value": "UCebCWddBXmyLjOBgpVZIAGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-14T05:40:23Z",
+        "updatedAt": "2021-09-14T05:40:23Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "rhjUp1Jwg7KMeKQjfyRThif4Dlk",
+      "id": "Ugwjg3vDeP_iVifoT3F4AaABAg.9QF-G0s1-Tu9QHAEyikPcu",
+      "snippet": {
+        "textDisplay": "i dont think so.",
+        "textOriginal": "i dont think so.",
+        "parentId": "Ugwjg3vDeP_iVifoT3F4AaABAg",
+        "authorDisplayName": "mz quel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSB7HGM7DsFXdBHzJ0C_GjDkHH1Lk6Ukw08DAQuliV38pJaZnrrNYXZeQp2t8Uf=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmEAQFQ25Xpgt4wsKbXhaEw",
+        "authorChannelId": {
+          "value": "UCmEAQFQ25Xpgt4wsKbXhaEw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-26T22:30:43Z",
+        "updatedAt": "2021-07-26T22:30:43Z"
+      }
+    }
+  ]
+}

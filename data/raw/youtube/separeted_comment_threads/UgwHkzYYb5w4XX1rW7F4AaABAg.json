@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8GGgrEBosFNgtsuIDFucvlc2C_E",
+  "id": "UgwHkzYYb5w4XX1rW7F4AaABAg",
+  "snippet": {
+    "videoId": "FgihY3XOLEg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dJbVfFd_EPQFgcBg7Bw4S62Xito",
+      "id": "UgwHkzYYb5w4XX1rW7F4AaABAg",
+      "snippet": {
+        "videoId": "FgihY3XOLEg",
+        "textDisplay": "Mat\u00e9ria interessante Doug funnie",
+        "textOriginal": "Mat\u00e9ria interessante Doug funnie",
+        "authorDisplayName": "JaYmZ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBqVOO7gNsz_pj9LBEL_HjsJjHZ3WJd0BOHnCjoQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCc0ehjzr0TTRPopAlX8ix4A",
+        "authorChannelId": {
+          "value": "UCc0ehjzr0TTRPopAlX8ix4A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-08-28T13:07:34Z",
+        "updatedAt": "2021-08-28T13:07:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "F8R9h1SSjE5LuumAO35u2Tzpp3E",
+      "id": "UgwHkzYYb5w4XX1rW7F4AaABAg.9Ra81EIwKQd9Ra93xDyNQ2",
+      "snippet": {
+        "textDisplay": "Veremos quando a Paty maionese aparece",
+        "textOriginal": "Veremos quando a Paty maionese aparece",
+        "parentId": "UgwHkzYYb5w4XX1rW7F4AaABAg",
+        "authorDisplayName": "Alexandre Rt",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJlGJZJ9IraS-9YZ_1BUQXhFJLH9e1jPwbZ90SyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvHAQezLkDuz-RRXNqlHKcA",
+        "authorChannelId": {
+          "value": "UCvHAQezLkDuz-RRXNqlHKcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-28T13:16:40Z",
+        "updatedAt": "2021-08-28T13:16:40Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HVeNZKTcoxd5zJ0D8oXe6jIqOM8",
+  "id": "UgwpOMU85yRsafYftLl4AaABAg",
+  "snippet": {
+    "videoId": "2l2FkU006bU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iZVwgHFVctvmfLMRMOETkFc_MUk",
+      "id": "UgwpOMU85yRsafYftLl4AaABAg",
+      "snippet": {
+        "videoId": "2l2FkU006bU",
+        "textDisplay": "Obrigado pelas informa\u00e7\u00f5es me ajudou muito no meu trabalho de escola",
+        "textOriginal": "Obrigado pelas informa\u00e7\u00f5es me ajudou muito no meu trabalho de escola",
+        "authorDisplayName": "Ana Paula Fernandes Pontes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnnZMQH2PRrz69BVGGLDHzhxMMpeNugU7RKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkeMgO7SOuUKXa_KDk0NOlQ",
+        "authorChannelId": {
+          "value": "UCkeMgO7SOuUKXa_KDk0NOlQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-13T02:51:07Z",
+        "updatedAt": "2021-08-13T02:51:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DF9AjbCK0BK7pqnCSFErdnYvjMw",
+      "id": "UgwpOMU85yRsafYftLl4AaABAg.9QyPZ3PHWyW9Wol5acVMI5",
+      "snippet": {
+        "textDisplay": "Cuidado enlouquecer",
+        "textOriginal": "Cuidado enlouquecer",
+        "parentId": "UgwpOMU85yRsafYftLl4AaABAg",
+        "authorDisplayName": "Leandro Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmDkR_MLYX7JAUpqmHm08-u68DN64vabwqROMhGH51Z-csbdGdU6bu6GODfQDO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_J4Hl9zKAftEmLCpMiOd-Q",
+        "authorChannelId": {
+          "value": "UC_J4Hl9zKAftEmLCpMiOd-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-05T12:04:01Z",
+        "updatedAt": "2022-01-05T12:04:01Z"
+      }
+    }
+  ]
+}

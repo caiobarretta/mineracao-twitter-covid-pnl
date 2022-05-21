@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FcFVLV4LueXlB4ZMBIIfQ7RUY40",
+  "id": "UgzPXOLUdvRtYsmoynx4AaABAg",
+  "snippet": {
+    "videoId": "iX7V8JLUE54",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oZ9T0hJ1lmnYZfKuL2Ppvyn7ykw",
+      "id": "UgzPXOLUdvRtYsmoynx4AaABAg",
+      "snippet": {
+        "videoId": "iX7V8JLUE54",
+        "textDisplay": "Very nyc",
+        "textOriginal": "Very nyc",
+        "authorDisplayName": "Anjali Khanna",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0IW6tn4uu-F592os6yWC-dJj7RhTHJhUbnw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1ZgoVJAfb7G9s2nre3QsAQ",
+        "authorChannelId": {
+          "value": "UC1ZgoVJAfb7G9s2nre3QsAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-04T14:36:39Z",
+        "updatedAt": "2020-12-04T14:36:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3aYM6Bo9kuzF5dQNREdGzAkAG0c",
+      "id": "UgzPXOLUdvRtYsmoynx4AaABAg.9Gqmz0ubkv79GsPaV2ribM",
+      "snippet": {
+        "textDisplay": "thank you",
+        "textOriginal": "thank you",
+        "parentId": "UgzPXOLUdvRtYsmoynx4AaABAg",
+        "authorDisplayName": "VIJAY SIR NURSING CLASSES",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRs9KsuX2nRlYGh1nre_stTDYkoJ0v_zBbstIqU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfZ5JRXzeukE0hsV0xoa3zw",
+        "authorChannelId": {
+          "value": "UCfZ5JRXzeukE0hsV0xoa3zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-05T05:42:03Z",
+        "updatedAt": "2020-12-05T05:42:03Z"
+      }
+    }
+  ]
+}

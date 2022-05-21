@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4S9IhzzB2Hwtpy7CsDVc4KcPhEE",
+  "id": "Ugz3SNAHKxYsMyuFj7Z4AaABAg",
+  "snippet": {
+    "videoId": "Shg28SoUbA8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fi89nHJcUNwqYo-rVExEwQ0mWIo",
+      "id": "Ugz3SNAHKxYsMyuFj7Z4AaABAg",
+      "snippet": {
+        "videoId": "Shg28SoUbA8",
+        "textDisplay": "Oiii",
+        "textOriginal": "Oiii",
+        "authorDisplayName": "Izabele Learsi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-C0m1zsHkIguTaWmDC_dpAqrMyFNnBd4mo2a-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQ2R_qBckVTyhZZHEN1JtuA",
+        "authorChannelId": {
+          "value": "UCQ2R_qBckVTyhZZHEN1JtuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-25T03:30:12Z",
+        "updatedAt": "2020-08-25T03:30:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "21YxUujrtI2odIH7WUsMKn5RGFY",
+      "id": "Ugz3SNAHKxYsMyuFj7Z4AaABAg.9ClXQQyLwb-9HbbJZqxxj6",
+      "snippet": {
+        "textDisplay": "Ol\u00e1, Izabele. Bom dia!\nBAIXE O PDF DA AULA:\nhttps://romulopassos.com.br/noticia/313-baixe-os-pdfs-das-aulas-gratuitas-do-site-romulo-passos\nINSCREVA-SE E ATIVE O SININHO PARA RECEBER AS NOVIDADES\nhttps://www.youtube.com/c/ProfRomuloPassos\nwww.romulopassos.com.br\nBons estudos!",
+        "textOriginal": "Ol\u00e1, Izabele. Bom dia!\nBAIXE O PDF DA AULA:\nhttps://romulopassos.com.br/noticia/313-baixe-os-pdfs-das-aulas-gratuitas-do-site-romulo-passos\nINSCREVA-SE E ATIVE O SININHO PARA RECEBER AS NOVIDADES\nhttps://www.youtube.com/c/ProfRomuloPassos\nwww.romulopassos.com.br\nBons estudos!",
+        "parentId": "Ugz3SNAHKxYsMyuFj7Z4AaABAg",
+        "authorDisplayName": "Prof. R\u00f4mulo Passos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWRB_O-O1QToh98wUmSAR4YHPaJHDNLqk3Bru9MA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH25QzGyR3c0i7krBlx4W-Q",
+        "authorChannelId": {
+          "value": "UCH25QzGyR3c0i7krBlx4W-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-23T13:37:31Z",
+        "updatedAt": "2020-12-23T13:37:31Z"
+      }
+    }
+  ]
+}

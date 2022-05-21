@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "guuzy2K62okZfcLZqJ3egqAfLrg",
+  "id": "UgwAnUCMMyZ-A9ziN_p4AaABAg",
+  "snippet": {
+    "videoId": "Rexk5rb4xCg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Hig9V3kLh_PcyTWtVFLZwq1Cv6U",
+      "id": "UgwAnUCMMyZ-A9ziN_p4AaABAg",
+      "snippet": {
+        "videoId": "Rexk5rb4xCg",
+        "textDisplay": "Quem acredita nesta informa\u00e7\u00e3o???veio da Coreia???duvide",
+        "textOriginal": "Quem acredita nesta informa\u00e7\u00e3o???veio da Coreia???duvide",
+        "authorDisplayName": "Maria Simon Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhaX6o3vEHDPfLLpmgqBiw7IdfGIQ9VqmD6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvNDxatGshkfV2PyGKVQQWQ",
+        "authorChannelId": {
+          "value": "UCvNDxatGshkfV2PyGKVQQWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2022-05-15T12:49:56Z",
+        "updatedAt": "2022-05-15T12:49:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8k9unr5tMiKN1bghNSkSY0VtUgM",
+      "id": "UgwAnUCMMyZ-A9ziN_p4AaABAg.9b2_gYjnoCx9b3NNorjfE4",
+      "snippet": {
+        "textDisplay": "Kkkkkkk",
+        "textOriginal": "Kkkkkkk",
+        "parentId": "UgwAnUCMMyZ-A9ziN_p4AaABAg",
+        "authorDisplayName": "Wesley Parker",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Jm4NzFyWwLy3aWZMQzaFx_0SxgqVWT8ihPgTY-sdTe678ct3t6bflcQxAORc5Hm0UiXtQ5l5IQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiZMK-u50iGdjkc_h-iwTmw",
+        "authorChannelId": {
+          "value": "UCiZMK-u50iGdjkc_h-iwTmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-15T20:12:53Z",
+        "updatedAt": "2022-05-15T20:12:53Z"
+      }
+    }
+  ]
+}

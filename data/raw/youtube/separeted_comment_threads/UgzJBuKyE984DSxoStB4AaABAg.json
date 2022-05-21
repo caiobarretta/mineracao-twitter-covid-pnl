@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yK0CBCEtXrhwRGMTN_ecRPddrs8",
+  "id": "UgzJBuKyE984DSxoStB4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "U9ND7whVZ-2OitX4bGmGJe4r4uw",
+      "id": "UgzJBuKyE984DSxoStB4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "Oi amigo.\nQuero saber, quais assunto de matem\u00e1tica mais cai.",
+        "textOriginal": "Oi amigo.\nQuero saber, quais assunto de matem\u00e1tica mais cai.",
+        "authorDisplayName": "Geilson Reis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRX_KYxRUdsSrtO43Z9EUWxM2TpM4vjLIHgknrG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNDpcSudGwcE1XCQFxsZE5A",
+        "authorChannelId": {
+          "value": "UCNDpcSudGwcE1XCQFxsZE5A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-11T13:41:44Z",
+        "updatedAt": "2020-03-11T13:41:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WuSK_h5cPhPoMjVCfYmt_C9ZGRA",
+      "id": "UgzJBuKyE984DSxoStB4AaABAg.963beNHs7Yy96JitOkC6Qe",
+      "snippet": {
+        "textDisplay": "farei v\u00eddeos sobre os assuntos que mais caem em matem\u00e1tica! pode deixar!!",
+        "textOriginal": "farei v\u00eddeos sobre os assuntos que mais caem em matem\u00e1tica! pode deixar!!",
+        "parentId": "UgzJBuKyE984DSxoStB4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-17T19:52:48Z",
+        "updatedAt": "2020-03-17T19:52:48Z"
+      }
+    }
+  ]
+}

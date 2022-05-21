@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "69XmFjDJoKF3mHNeCxw-mKVhaV0",
+  "id": "UgweRxHbw1VyTlyH5fF4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QHW_PUwwZqxUSML3k9tL1NKNi8Y",
+      "id": "UgweRxHbw1VyTlyH5fF4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "V\u00eddeo bem elucidativo. Excelente!!!",
+        "textOriginal": "V\u00eddeo bem elucidativo. Excelente!!!",
+        "authorDisplayName": "Cleison Uliana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXrxMmBA-rhzvG6iQdYGmglEvgJE3OCQkogFVOJg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2yL2qzlTrauGegTfv-CRgw",
+        "authorChannelId": {
+          "value": "UC2yL2qzlTrauGegTfv-CRgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-10-19T15:17:52Z",
+        "updatedAt": "2021-10-19T15:17:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "6GwW_i6erm71sjkAdNgtCZT3fJI",
+      "id": "UgweRxHbw1VyTlyH5fF4AaABAg.9TgGH8g8GYR9TgGiPdw7F7",
+      "snippet": {
+        "textDisplay": "Muito obrigada Cleison!!! Beijos pra voc\u00eas!!!",
+        "textOriginal": "Muito obrigada Cleison!!! Beijos pra voc\u00eas!!!",
+        "parentId": "UgweRxHbw1VyTlyH5fF4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-19T15:21:44Z",
+        "updatedAt": "2021-10-19T15:21:44Z"
+      }
+    }
+  ]
+}

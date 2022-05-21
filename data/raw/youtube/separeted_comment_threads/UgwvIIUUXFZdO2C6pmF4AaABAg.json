@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3BK2mqmPkLbkbAasfMmbUatxcKw",
+  "id": "UgwvIIUUXFZdO2C6pmF4AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OULUbm88xcJFPszDPDt8gVesN9Q",
+      "id": "UgwvIIUUXFZdO2C6pmF4AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "Excelente aula. Clara e objetiva.",
+        "textOriginal": "Excelente aula. Clara e objetiva.",
+        "authorDisplayName": "Vania Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0sbsv0tFbcfemv10Xzx_8sJNIDWO_y0uvXWsO1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrQmYfJxGwAPu6YAEkQvK0Q",
+        "authorChannelId": {
+          "value": "UCrQmYfJxGwAPu6YAEkQvK0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-12T16:05:14Z",
+        "updatedAt": "2021-11-12T16:05:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Xixmu3JhegdJox1cJSR7kDjabbg",
+      "id": "UgwvIIUUXFZdO2C6pmF4AaABAg.9Ue8m-d6DUc9VRJd3jgH0I",
+      "snippet": {
+        "textDisplay": "Obrigado !",
+        "textOriginal": "Obrigado !",
+        "parentId": "UgwvIIUUXFZdO2C6pmF4AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-02T03:42:09Z",
+        "updatedAt": "2021-12-02T03:42:09Z"
+      }
+    }
+  ]
+}

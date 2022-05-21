@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "e7fdL9GTiuuJW_a7-Lgkvy6V6CE",
+  "id": "UgxDzWaTY__P5Aj7TQx4AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Pa97iaPhC6s11xQhihIRMGtwsuE",
+      "id": "UgxDzWaTY__P5Aj7TQx4AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "Gostei muitooo, parab\u00e9ns pelo v\u00eddeo !!\nAssocia\u00e7\u00e3o de conte\u00fado ir\u00e1 me ajudar \ud83e\udd70",
+        "textOriginal": "Gostei muitooo, parab\u00e9ns pelo v\u00eddeo !!\nAssocia\u00e7\u00e3o de conte\u00fado ir\u00e1 me ajudar \ud83e\udd70",
+        "authorDisplayName": "Kamilla Maiza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfiWB-BDZB-xYKzxgbt3nVCTco-eKTeUtLEY4Nog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZmcvTkoEtZficL6gFmspdA",
+        "authorChannelId": {
+          "value": "UCZmcvTkoEtZficL6gFmspdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-10-14T20:17:05Z",
+        "updatedAt": "2020-10-14T20:17:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tV-a5Xm6ChrupIOUqrEYlJl2uq8",
+      "id": "UgxDzWaTY__P5Aj7TQx4AaABAg.9Eo4Onyy37R9F-seho2QuM",
+      "snippet": {
+        "textDisplay": "Obrigado Kamilla",
+        "textOriginal": "Obrigado Kamilla",
+        "parentId": "UgxDzWaTY__P5Aj7TQx4AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-19T19:35:55Z",
+        "updatedAt": "2020-10-19T19:35:55Z"
+      }
+    }
+  ]
+}

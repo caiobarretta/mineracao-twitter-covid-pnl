@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a8tnjY47WSvd7D3k5iRUAyYnJgg",
+  "id": "UgzPZByuXUHZABcyr2J4AaABAg",
+  "snippet": {
+    "videoId": "RENmKoP1zu4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KL5enUaZaVRxRBJnt-Ia1vVmt_g",
+      "id": "UgzPZByuXUHZABcyr2J4AaABAg",
+      "snippet": {
+        "videoId": "RENmKoP1zu4",
+        "textDisplay": "Pero un ejercito para una enfermedad..\nY es una guerra fisica?",
+        "textOriginal": "Pero un ejercito para una enfermedad..\nY es una guerra fisica?",
+        "authorDisplayName": "Carolina rosario sanchez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShEuKYZSXIrp6yIUCaTLvVbkDaQANgwxXFrnhLug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQfgYxlPgKLQwmBEONwI3wA",
+        "authorChannelId": {
+          "value": "UCQfgYxlPgKLQwmBEONwI3wA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-05-18T18:22:23Z",
+        "updatedAt": "2022-05-18T18:22:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CJ5qHbDeM1DA-778yj20_8S-C04",
+      "id": "UgzPZByuXUHZABcyr2J4AaABAg.9bAu79QyRbK9bBu4QFBuzq",
+      "snippet": {
+        "textDisplay": "No entendiste nada amiha..",
+        "textOriginal": "No entendiste nada amiha..",
+        "parentId": "UgzPZByuXUHZABcyr2J4AaABAg",
+        "authorDisplayName": "DO NOT STRESS! THE DAY WILL ALWAYS HAVE 24 HOURS!",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBX195vYKzzFso5joVFAu9lBoUrwQcvFkQt-YaWg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3xDlVWvK1y4_-2R9SgoccQ",
+        "authorChannelId": {
+          "value": "UC3xDlVWvK1y4_-2R9SgoccQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T03:41:15Z",
+        "updatedAt": "2022-05-19T03:41:15Z"
+      }
+    }
+  ]
+}

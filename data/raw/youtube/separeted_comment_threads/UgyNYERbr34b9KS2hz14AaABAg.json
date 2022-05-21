@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FYg_QZxwo2D0FUvg0ATrmWhaeM0",
+  "id": "UgyNYERbr34b9KS2hz14AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E7diwRtKUkWRTksPEMEn-ZsreYc",
+      "id": "UgyNYERbr34b9KS2hz14AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "Dia 6 tenho prova aqui na minha cidade. Quero muito passar...",
+        "textOriginal": "Dia 6 tenho prova aqui na minha cidade. Quero muito passar...",
+        "authorDisplayName": "Franciele Menezes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTM53iF2JWEcTftrCvBHGXdZhfqAqUDL7wHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwO3EC75Y-s-EHEAbsFurUA",
+        "authorChannelId": {
+          "value": "UCwO3EC75Y-s-EHEAbsFurUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-25T16:57:29Z",
+        "updatedAt": "2020-08-25T16:57:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XoW1xpnpdQyIanZjxCZaJsbFzOA",
+      "id": "UgyNYERbr34b9KS2hz14AaABAg.9CmyoFlknyY9Cp6Hd-Cf9H",
+      "snippet": {
+        "textDisplay": "e voce vai sim!! s\u00f3 continue focada!!",
+        "textOriginal": "e voce vai sim!! s\u00f3 continue focada!!",
+        "parentId": "UgyNYERbr34b9KS2hz14AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-26T12:50:01Z",
+        "updatedAt": "2020-08-26T12:50:01Z"
+      }
+    }
+  ]
+}

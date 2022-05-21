@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QpsXI2OHaRfwkaMHbwDSc1DGnUk",
+  "id": "Ugz2XPRIu4y4uurbPX54AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NqdwK6ManmAdr9raPo1aqB18TgI",
+      "id": "Ugz2XPRIu4y4uurbPX54AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Nice sir",
+        "textOriginal": "Nice sir",
+        "authorDisplayName": "SANKAR GANESH",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSAg8qAuFt8SJ1-PzxeRyiQsp6JRqDIrnKiQMva=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2ZcnMn-KIpB1GLbRfdWlyw",
+        "authorChannelId": {
+          "value": "UC2ZcnMn-KIpB1GLbRfdWlyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T10:29:22Z",
+        "updatedAt": "2022-01-06T10:29:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "G7s7VwKz1rgTyLyVIPKl9VuFulQ",
+      "id": "Ugz2XPRIu4y4uurbPX54AaABAg.9WrA3CYmg0y9Ws1ootbzMd",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "Ugz2XPRIu4y4uurbPX54AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T18:36:36Z",
+        "updatedAt": "2022-01-06T18:36:36Z"
+      }
+    }
+  ]
+}

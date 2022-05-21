@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "a8R4v2NmbneBfwiD_IpK1IOLt7g",
+  "id": "UgwZNXisdTRgc_zoWJx4AaABAg",
+  "snippet": {
+    "videoId": "HTupMCzjHXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YGWEd09jiR9GRAk0C8JPWRfX1Mc",
+      "id": "UgwZNXisdTRgc_zoWJx4AaABAg",
+      "snippet": {
+        "videoId": "HTupMCzjHXM",
+        "textDisplay": "Professor excelente!!!",
+        "textOriginal": "Professor excelente!!!",
+        "authorDisplayName": "lisandra karine assun\u00e7\u00e3o da silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRHNEE_Toy87hSawDFYhd7azREmzrF6iMx6Ba32Bw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi3crgzXoyfOULdMmYZ_OnQ",
+        "authorChannelId": {
+          "value": "UCi3crgzXoyfOULdMmYZ_OnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-07-17T18:13:11Z",
+        "updatedAt": "2021-07-17T18:13:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cJgFcv2cA66OYJo0n4KlFhRSot4",
+      "id": "UgwZNXisdTRgc_zoWJx4AaABAg.9PuXbuVEUTu9V_KkfvlQFA",
+      "snippet": {
+        "textDisplay": "promo\u00e7ao, prote\u00e7\u00e3o e recupera\u00e7a\u00f5.",
+        "textOriginal": "promo\u00e7ao, prote\u00e7\u00e3o e recupera\u00e7a\u00f5.",
+        "parentId": "UgwZNXisdTRgc_zoWJx4AaABAg",
+        "authorDisplayName": "Beatriz Poitevin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTv5z2zeeWk-_6ZNb3ttLSgPSdPTsF9UgFfDg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKLa0rvB4cckNGqSli99CNg",
+        "authorChannelId": {
+          "value": "UCKLa0rvB4cckNGqSli99CNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-05T15:45:06Z",
+        "updatedAt": "2021-12-05T15:45:06Z"
+      }
+    }
+  ]
+}

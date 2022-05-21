@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H5IJZw3gA8AP_oDTgXGy_3EcAlY",
+  "id": "UgyQ7TdAQ-7_Pt5Emzp4AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zvLx2SyyPPH79JOIadOeg7nlTUg",
+      "id": "UgyQ7TdAQ-7_Pt5Emzp4AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "Excelente aula!!! Obrigada pelo conte\u00fado \u2665",
+        "textOriginal": "Excelente aula!!! Obrigada pelo conte\u00fado \u2665",
+        "authorDisplayName": "Ananda Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIzfyQS2sSRL6IXKOLuwejuL5WenKk7JsxrlMvOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSFZq6y-ynysVM3g2jwzYqQ",
+        "authorChannelId": {
+          "value": "UCSFZq6y-ynysVM3g2jwzYqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-20T13:16:31Z",
+        "updatedAt": "2021-08-20T13:16:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "t63VjhyWF0QkxbBP3CQlZb-F5S8",
+      "id": "UgyQ7TdAQ-7_Pt5Emzp4AaABAg.9RGYgl06Uf99RMtJVpL6bZ",
+      "snippet": {
+        "textDisplay": "Obrigado Ananda! Disponha!",
+        "textOriginal": "Obrigado Ananda! Disponha!",
+        "parentId": "UgyQ7TdAQ-7_Pt5Emzp4AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-23T00:20:53Z",
+        "updatedAt": "2021-08-23T00:20:53Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iZwmW8FpDP_ROfo4FMG925MCFFc",
+  "id": "UgyhsvBRc7sURIX5d_p4AaABAg",
+  "snippet": {
+    "videoId": "FgihY3XOLEg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sbJAFXh1t43GzG-3mvXdgsh-CqI",
+      "id": "UgyhsvBRc7sURIX5d_p4AaABAg",
+      "snippet": {
+        "videoId": "FgihY3XOLEg",
+        "textDisplay": "At\u00e9 hoje limpo as compras...",
+        "textOriginal": "At\u00e9 hoje limpo as compras...",
+        "authorDisplayName": "marta beatriz gallo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgLy6-DiB8gA8ZJHcy5Rzx8Od90BDkHTt4vg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLaAvMgHA1_L3I55XR5yHXA",
+        "authorChannelId": {
+          "value": "UCLaAvMgHA1_L3I55XR5yHXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-29T11:53:28Z",
+        "updatedAt": "2021-08-29T11:53:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XysK08wr97_P1zrew98gttkJTDU",
+      "id": "UgyhsvBRc7sURIX5d_p4AaABAg.9Rc_LL9S_o_9Rd-xQQ5Hg7",
+      "snippet": {
+        "textDisplay": "N\u00e3o chego a ter essa paran\u00f3ia imposta pela m\u00eddia suja.",
+        "textOriginal": "N\u00e3o chego a ter essa paran\u00f3ia imposta pela m\u00eddia suja.",
+        "parentId": "UgyhsvBRc7sURIX5d_p4AaABAg",
+        "authorDisplayName": "paulo roberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVk8PsJAnm6QJuVZwQq9ezcsHFIyU66uJmQ1PN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCvkYhQaWS8Q9tcD1LP66Lg",
+        "authorChannelId": {
+          "value": "UCCvkYhQaWS8Q9tcD1LP66Lg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-29T15:54:43Z",
+        "updatedAt": "2021-08-29T15:54:43Z"
+      }
+    }
+  ]
+}

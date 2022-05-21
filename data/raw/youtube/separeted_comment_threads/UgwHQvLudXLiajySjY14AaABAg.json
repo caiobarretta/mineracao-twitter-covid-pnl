@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IOOhlJ5hAjFhj2F0_7Mk1fmtwbY",
+  "id": "UgwHQvLudXLiajySjY14AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NSElS3n1NsmWKvW95STNwGV1lJA",
+      "id": "UgwHQvLudXLiajySjY14AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "\u00d3timo e certeiro! J\u00e1 estou repassando.",
+        "textOriginal": "\u00d3timo e certeiro! J\u00e1 estou repassando.",
+        "authorDisplayName": "Ana Lee Gigio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8XkmBQxLervbSsAwebV8NovUAskwrJvUhS1yLVmTnKLR1PO8dr4sUH7rJlboG5lr9QjRiz-aI9o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UColfawt4f1vpcYjgr-6Q2Aw",
+        "authorChannelId": {
+          "value": "UColfawt4f1vpcYjgr-6Q2Aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-03T22:39:43Z",
+        "updatedAt": "2020-12-03T22:39:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xZh4mjQONhguEdx-sex4hE-MVl0",
+      "id": "UgwHQvLudXLiajySjY14AaABAg.9Gp4TGsnZdo9JIrbRD9Zs4",
+      "snippet": {
+        "textDisplay": ":)",
+        "textOriginal": ":)",
+        "parentId": "UgwHQvLudXLiajySjY14AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-03T14:37:52Z",
+        "updatedAt": "2021-02-03T14:37:52Z"
+      }
+    }
+  ]
+}

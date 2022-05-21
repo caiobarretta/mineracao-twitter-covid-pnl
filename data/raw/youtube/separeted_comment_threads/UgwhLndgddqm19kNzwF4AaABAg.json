@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9r8zpief8aLnM2kdgwq7z9D_ip4",
+  "id": "UgwhLndgddqm19kNzwF4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J4MXqicuOm6Qt89JfIUuoh3mdPE",
+      "id": "UgwhLndgddqm19kNzwF4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "Voc\u00ea paga impostos em Portugal?",
+        "textOriginal": "Voc\u00ea paga impostos em Portugal?",
+        "authorDisplayName": "Ros\u00e1rio Norte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROiVWkWTeZFKY7BnzD5fYzOqZJ_rpA93ZXjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKQ0X26QpHcLthxElL17JYw",
+        "authorChannelId": {
+          "value": "UCKQ0X26QpHcLthxElL17JYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-13T14:00:38Z",
+        "updatedAt": "2022-05-13T14:00:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "t6YURylSoZm6v7bBQXlNRkRP4KE",
+      "id": "UgwhLndgddqm19kNzwF4AaABAg.9ayZBhMS4dJ9b-c6AWq1P8",
+      "snippet": {
+        "textDisplay": "\u00c9 CLARO QUE PAGO",
+        "textOriginal": "\u00c9 CLARO QUE PAGO",
+        "parentId": "UgwhLndgddqm19kNzwF4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-14T09:13:19Z",
+        "updatedAt": "2022-05-14T09:13:19Z"
+      }
+    }
+  ]
+}

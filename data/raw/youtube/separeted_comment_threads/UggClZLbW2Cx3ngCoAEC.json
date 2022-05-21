@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "d9p7li_vgD3jCM6tHFRKZcI66R4",
+  "id": "UggClZLbW2Cx3ngCoAEC",
+  "snippet": {
+    "videoId": "D9BzFBiP5gs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZEvr2CWvqCpstqInIAt05HOGtsA",
+      "id": "UggClZLbW2Cx3ngCoAEC",
+      "snippet": {
+        "videoId": "D9BzFBiP5gs",
+        "textDisplay": "Muito bom seu v\u00eddeo! Parab\u00e9ns!",
+        "textOriginal": "Muito bom seu v\u00eddeo! Parab\u00e9ns!",
+        "authorDisplayName": "Jamile D.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSo8ASJ19yLpIPtt-L9faF1HglfF-LKa2Cb0N47120=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48qOnC_-5Jdjs02jpBd_KQ",
+        "authorChannelId": {
+          "value": "UC48qOnC_-5Jdjs02jpBd_KQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2014-05-27T13:58:45Z",
+        "updatedAt": "2014-05-27T13:58:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MJ58Ioiz9KUi8aNnOVWpUh12tOY",
+      "id": "UggClZLbW2Cx3ngCoAEC.7-H0Z7-6nvR7-HCdfNQRqX",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "UggClZLbW2Cx3ngCoAEC",
+        "authorDisplayName": "Mandy e Mais no Canad\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmdvzA0I7gIz1dMwdjy9uwyYHnaNk7HY9-8rkftg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbywcUPto84tYC2xD4pjSnQ",
+        "authorChannelId": {
+          "value": "UCbywcUPto84tYC2xD4pjSnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2014-05-27T15:44:22Z",
+        "updatedAt": "2014-05-27T15:44:22Z"
+      }
+    }
+  ]
+}

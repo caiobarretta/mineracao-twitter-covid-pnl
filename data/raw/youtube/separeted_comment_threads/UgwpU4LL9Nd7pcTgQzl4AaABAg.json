@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QMzOTY8Ohez_kxzCJLFcG2J9hKM",
+  "id": "UgwpU4LL9Nd7pcTgQzl4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3nXMm4oHAZrVkOfSCDx3QTvFoo8",
+      "id": "UgwpU4LL9Nd7pcTgQzl4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Me ajudou muitooo!",
+        "textOriginal": "Me ajudou muitooo!",
+        "authorDisplayName": "aline martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3DcT-qdZcn9xXF5G_2vDxoOTUrdi4SyoXa5qjGJc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChT9OEf2NTs8YDVcVOF6dew",
+        "authorChannelId": {
+          "value": "UChT9OEf2NTs8YDVcVOF6dew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-18T14:48:20Z",
+        "updatedAt": "2021-03-18T14:48:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yWZc1Ldi-Ygm73IBZckW-nh5gnA",
+      "id": "UgwpU4LL9Nd7pcTgQzl4AaABAg.9L1azdWDE7T9L1iQ6MfQtv",
+      "snippet": {
+        "textDisplay": "Que bom\ud83d\udc4d",
+        "textOriginal": "Que bom\ud83d\udc4d",
+        "parentId": "UgwpU4LL9Nd7pcTgQzl4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-18T15:53:15Z",
+        "updatedAt": "2021-03-18T15:53:15Z"
+      }
+    }
+  ]
+}

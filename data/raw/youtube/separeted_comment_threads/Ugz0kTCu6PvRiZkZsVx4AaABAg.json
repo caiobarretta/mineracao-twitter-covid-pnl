@@ -1,0 +1,33 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KlCVcgEOoMn9oxwuNglu7ADtBps",
+  "id": "Ugz0kTCu6PvRiZkZsVx4AaABAg",
+  "snippet": {
+    "videoId": "uAmmMebmpWc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xK60rEzZRqKMJ5pP4NIAUuOg5DE",
+      "id": "Ugz0kTCu6PvRiZkZsVx4AaABAg",
+      "snippet": {
+        "videoId": "uAmmMebmpWc",
+        "textDisplay": "hola",
+        "textOriginal": "hola",
+        "authorDisplayName": "Greassi Ibarra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK9pOBbPVOiJptgqu7xnxLcBxdhe8r834xXA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb2YUrQhhBogiGrpriL7y4g",
+        "authorChannelId": {
+          "value": "UCb2YUrQhhBogiGrpriL7y4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-17T12:34:28Z",
+        "updatedAt": "2020-04-17T12:34:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+  },
+  "comments": []
+}

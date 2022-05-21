@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "p2JoppaeaIZ_hdfYsD3zsX6yrUk",
+  "id": "UgwgnwhOlCubGBegj9F4AaABAg",
+  "snippet": {
+    "videoId": "V_0Jwk_loo8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iem8OZCbL2t_cy3vMk30ZZOyRV4",
+      "id": "UgwgnwhOlCubGBegj9F4AaABAg",
+      "snippet": {
+        "videoId": "V_0Jwk_loo8",
+        "textDisplay": "Is Hong Kong and North Korea the same country ?",
+        "textOriginal": "Is Hong Kong and North Korea the same country ?",
+        "authorDisplayName": "Cuon Ly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnpgngHEnqhjU4MM4aRGhFoRCRjvs8Mo3WKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuU1H1ywKo34gTvSEub7hjA",
+        "authorChannelId": {
+          "value": "UCuU1H1ywKo34gTvSEub7hjA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T14:40:59Z",
+        "updatedAt": "2022-05-20T14:40:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YO9lQYfPsyxT-NhRpI370eLL03E",
+      "id": "UgwgnwhOlCubGBegj9F4AaABAg.9bFeNH4IWRf9bGCrhmG7bd",
+      "snippet": {
+        "textDisplay": "Pretty much",
+        "textOriginal": "Pretty much",
+        "parentId": "UgwgnwhOlCubGBegj9F4AaABAg",
+        "authorDisplayName": "BigMerkGee",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTxED8xbSu4EbcFcSKpMp9KMkAuXJjQHwXDPOMpEQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCutP-6-HKi-SjUBdHlsX95Q",
+        "authorChannelId": {
+          "value": "UCutP-6-HKi-SjUBdHlsX95Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T19:51:06Z",
+        "updatedAt": "2022-05-20T19:51:06Z"
+      }
+    }
+  ]
+}

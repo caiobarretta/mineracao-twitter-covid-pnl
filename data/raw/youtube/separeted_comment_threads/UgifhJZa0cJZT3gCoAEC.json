@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1fXQ0XLHxveTqHE0BDasZr8YRl0",
+  "id": "UgifhJZa0cJZT3gCoAEC",
+  "snippet": {
+    "videoId": "UsKb1z8f2iE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ASQwyPViK7h6tpiiIRHjg8j-GzE",
+      "id": "UgifhJZa0cJZT3gCoAEC",
+      "snippet": {
+        "videoId": "UsKb1z8f2iE",
+        "textDisplay": "kreteni",
+        "textOriginal": "kreteni",
+        "authorDisplayName": "Josip Dolen\u010di\u0107",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQV5dL3EsLC1pfY8DYIsE2uUoL6PCR9-AETtI4N=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe7Lme7F508hk83Qh472vGg",
+        "authorChannelId": {
+          "value": "UCe7Lme7F508hk83Qh472vGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-06-04T09:53:07Z",
+        "updatedAt": "2016-06-04T09:53:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "quYyVFjBfvaiRd-glr78AItjzWo",
+      "id": "UgifhJZa0cJZT3gCoAEC.8Eh6fvZikjo8_iUfU3pgrn",
+      "snippet": {
+        "textDisplay": "po \u0107emu su kreteni ;)",
+        "textOriginal": "po \u0107emu su kreteni ;)",
+        "parentId": "UgifhJZa0cJZT3gCoAEC",
+        "authorDisplayName": "Sini\u0161a Ba\u0111ek",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDMUv5NHeVb5m-5x99wX10A19Hfb8ZitECig98Zg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-U2tWePsDr7jVlCmTuXKyw",
+        "authorChannelId": {
+          "value": "UC-U2tWePsDr7jVlCmTuXKyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-12-03T18:12:41Z",
+        "updatedAt": "2017-12-03T18:12:41Z"
+      }
+    }
+  ]
+}

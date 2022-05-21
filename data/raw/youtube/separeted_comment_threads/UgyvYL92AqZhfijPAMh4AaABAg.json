@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jtVVa_3sYjOxR5Cmu3b5VCXoTNk",
+  "id": "UgyvYL92AqZhfijPAMh4AaABAg",
+  "snippet": {
+    "videoId": "iX7V8JLUE54",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wndERuaQ7Tqbld2BplvSOONcYqI",
+      "id": "UgyvYL92AqZhfijPAMh4AaABAg",
+      "snippet": {
+        "videoId": "iX7V8JLUE54",
+        "textDisplay": "Thank you so much Sir",
+        "textOriginal": "Thank you so much Sir",
+        "authorDisplayName": "Rathwa Dipika",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4gOoRLb3LHGxSWScDohrJ2U4mvN4t36WRsTuNAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkzyw3tCNQopwkr9KNCEbwQ",
+        "authorChannelId": {
+          "value": "UCkzyw3tCNQopwkr9KNCEbwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-04T17:08:10Z",
+        "updatedAt": "2020-12-04T17:08:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-TeWLWgWRyRGhBEngrNsLTYs3gU",
+      "id": "UgyvYL92AqZhfijPAMh4AaABAg.9Gr3Jrtrxu79GsPbsA8ClS",
+      "snippet": {
+        "textDisplay": "thank you",
+        "textOriginal": "thank you",
+        "parentId": "UgyvYL92AqZhfijPAMh4AaABAg",
+        "authorDisplayName": "VIJAY SIR NURSING CLASSES",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRs9KsuX2nRlYGh1nre_stTDYkoJ0v_zBbstIqU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfZ5JRXzeukE0hsV0xoa3zw",
+        "authorChannelId": {
+          "value": "UCfZ5JRXzeukE0hsV0xoa3zw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-05T05:42:15Z",
+        "updatedAt": "2020-12-05T05:42:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1vKEVl3de4UHFxLEtnecVVlmWM0",
+  "id": "UgySY-TSpgnMOaZ7NQV4AaABAg",
+  "snippet": {
+    "videoId": "2l2FkU006bU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KpfEc5wobZkhdRg2RuzPYbe_JyQ",
+      "id": "UgySY-TSpgnMOaZ7NQV4AaABAg",
+      "snippet": {
+        "videoId": "2l2FkU006bU",
+        "textDisplay": "Muito obrigado mim ajudou muito",
+        "textOriginal": "Muito obrigado mim ajudou muito",
+        "authorDisplayName": "uma _aleatoria_ 457",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/elBN6Vd7e9GrHRPEw40r-Y8G8BLCXKtScLubEKF3QGrkEF6FgQ2SjPqm-lH6UISf6-rny_qD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbkc5PtiwFZPWtSzuwKAuWQ",
+        "authorChannelId": {
+          "value": "UCbkc5PtiwFZPWtSzuwKAuWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-12T17:22:58Z",
+        "updatedAt": "2021-03-12T17:22:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "T0uW5iO43AqsIH60kFULsctPmXA",
+      "id": "UgySY-TSpgnMOaZ7NQV4AaABAg.9KnQv0YDVCR9WolCAC3eoE",
+      "snippet": {
+        "textDisplay": "Cuidado enlouquecer \ud83d\ude91",
+        "textOriginal": "Cuidado enlouquecer \ud83d\ude91",
+        "parentId": "UgySY-TSpgnMOaZ7NQV4AaABAg",
+        "authorDisplayName": "Leandro Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmDkR_MLYX7JAUpqmHm08-u68DN64vabwqROMhGH51Z-csbdGdU6bu6GODfQDO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_J4Hl9zKAftEmLCpMiOd-Q",
+        "authorChannelId": {
+          "value": "UC_J4Hl9zKAftEmLCpMiOd-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-05T12:04:55Z",
+        "updatedAt": "2022-01-05T12:04:55Z"
+      }
+    }
+  ]
+}

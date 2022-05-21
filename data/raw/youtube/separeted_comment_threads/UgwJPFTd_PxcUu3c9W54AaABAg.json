@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SaGWytqhpJ6u5o4CVz6nSlJsTF0",
+  "id": "UgwJPFTd_PxcUu3c9W54AaABAg",
+  "snippet": {
+    "videoId": "kyLOoN8_FEc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Snx2Gb9T2SeWNOmk2eHoxcTwRKs",
+      "id": "UgwJPFTd_PxcUu3c9W54AaABAg",
+      "snippet": {
+        "videoId": "kyLOoN8_FEc",
+        "textDisplay": "Keep up the good spirits.",
+        "textOriginal": "Keep up the good spirits.",
+        "authorDisplayName": "Bryan Felver",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQY0wv22sdGYB-e7btjrYJRl4a1BF7JHpF8_w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1CQOEPGsMks-pS0P3bwSzA",
+        "authorChannelId": {
+          "value": "UC1CQOEPGsMks-pS0P3bwSzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-17T00:43:27Z",
+        "updatedAt": "2021-04-17T00:43:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iQH1DvjiF0qgyqrcRWR5TJYmhew",
+      "id": "UgwJPFTd_PxcUu3c9W54AaABAg.9MDL8mL9TOC9MDOcyCP0fb",
+      "snippet": {
+        "textDisplay": "Thanks, will do!",
+        "textOriginal": "Thanks, will do!",
+        "parentId": "UgwJPFTd_PxcUu3c9W54AaABAg",
+        "authorDisplayName": "Bridgeport's Brightest Lights",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-b3Pitpc8_Z9Q3DwbdXH0nRAV0rXCSaISY55uHbb9WgmYjDXibz7KPPWgI1gpdVUnI9_H4zIPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfiw2tftrvcjR2tpC_E3zFA",
+        "authorChannelId": {
+          "value": "UCfiw2tftrvcjR2tpC_E3zFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-17T01:13:55Z",
+        "updatedAt": "2021-04-17T01:13:55Z"
+      }
+    }
+  ]
+}

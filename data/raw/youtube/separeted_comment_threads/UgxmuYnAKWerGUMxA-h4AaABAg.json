@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M3kxYTmMw9wZ4xKfXhsttveNn6E",
+  "id": "UgxmuYnAKWerGUMxA-h4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SVZnyJ0VPijDnPT7UFwQ2eHaiAE",
+      "id": "UgxmuYnAKWerGUMxA-h4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Virginia Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMccoW6BTGsksL6ygCLr88fk3eUTgLy2qMZH2R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYSSZlDByJi2c85MYEDGwxQ",
+        "authorChannelId": {
+          "value": "UCYSSZlDByJi2c85MYEDGwxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-04T12:54:37Z",
+        "updatedAt": "2020-11-04T12:54:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zCQzK5bvvLTGZtHro8SbEPCtNgk",
+      "id": "UgxmuYnAKWerGUMxA-h4AaABAg.9FdMS_Lg_AP9FdOcGoQOVc",
+      "snippet": {
+        "textDisplay": "o/",
+        "textOriginal": "o/",
+        "parentId": "UgxmuYnAKWerGUMxA-h4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-04T13:13:34Z",
+        "updatedAt": "2020-11-04T13:13:34Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jzRBcEs5A1fGhJrC4nkzoPOwoCs",
+  "id": "UgzhwAySQoI4ys2wGZR4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_9ksnUJ2o5TIv5vSZLuTfoeyFjY",
+      "id": "UgzhwAySQoI4ys2wGZR4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "Obrigado pela aula.",
+        "textOriginal": "Obrigado pela aula.",
+        "authorDisplayName": "Thiago Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTDII2vwrP5uMXakXmokhaxRZYkzBEexUMim2iKwQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMkcVE2akP7Y0L4OtVQbLgw",
+        "authorChannelId": {
+          "value": "UCMkcVE2akP7Y0L4OtVQbLgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-14T19:46:02Z",
+        "updatedAt": "2022-03-14T19:46:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kJWxYj2_7vwaoU-TT3zuLSDGzAA",
+      "id": "UgzhwAySQoI4ys2wGZR4AaABAg.9ZZg0w3wzWk9ZbXWrcCcYr",
+      "snippet": {
+        "textDisplay": "Valeu, Thiago! Eu que agrade\u00e7o!",
+        "textOriginal": "Valeu, Thiago! Eu que agrade\u00e7o!",
+        "parentId": "UgzhwAySQoI4ys2wGZR4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-15T22:20:44Z",
+        "updatedAt": "2022-03-15T22:20:44Z"
+      }
+    }
+  ]
+}

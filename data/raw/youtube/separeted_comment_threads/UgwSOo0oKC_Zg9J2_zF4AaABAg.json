@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KMhvmxQxTl3aaHZifM6ouqHZYao",
+  "id": "UgwSOo0oKC_Zg9J2_zF4AaABAg",
+  "snippet": {
+    "videoId": "FRlIW1SWFGY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_ezInAt6soTDZwQG5ypTK8PzmgY",
+      "id": "UgwSOo0oKC_Zg9J2_zF4AaABAg",
+      "snippet": {
+        "videoId": "FRlIW1SWFGY",
+        "textDisplay": "Deus estar no controle",
+        "textOriginal": "Deus estar no controle",
+        "authorDisplayName": "Celina Nunes Trindade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZlu9dYaHKlcfV9qRmpjCXxey1BER55RECyw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCDwsrPh9JRhzNrBq-HTwPw",
+        "authorChannelId": {
+          "value": "UCCDwsrPh9JRhzNrBq-HTwPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-28T15:00:21Z",
+        "updatedAt": "2021-11-28T15:00:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wYvDXUvFdJTYQQwDtuAQHR_bk2o",
+      "id": "UgwSOo0oKC_Zg9J2_zF4AaABAg.9VIE3qfE31M9VIpkUJ2TUS",
+      "snippet": {
+        "textDisplay": "Esse deus deve t\u00e1 de f\u00e9rias e, faz tempo.",
+        "textOriginal": "Esse deus deve t\u00e1 de f\u00e9rias e, faz tempo.",
+        "parentId": "UgwSOo0oKC_Zg9J2_zF4AaABAg",
+        "authorDisplayName": "Luciane Suiton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfVqFArUW4DwIBREwpmtnRYDt3TyT5nG23FEce0Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcZ4BTlYE-E0AzJO88rWp-A",
+        "authorChannelId": {
+          "value": "UCcZ4BTlYE-E0AzJO88rWp-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-28T20:38:22Z",
+        "updatedAt": "2021-11-28T20:38:22Z"
+      }
+    }
+  ]
+}

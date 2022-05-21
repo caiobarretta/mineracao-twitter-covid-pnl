@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JtEjTZ7zkItoXuFjzaFV9n1N0j4",
+  "id": "Ugw3wnro5JYtnbsMB7t4AaABAg",
+  "snippet": {
+    "videoId": "_TwjOF4auWI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zsBexarAVH_06zDvmjS74GidrPQ",
+      "id": "Ugw3wnro5JYtnbsMB7t4AaABAg",
+      "snippet": {
+        "videoId": "_TwjOF4auWI",
+        "textDisplay": "Querer o Lula de novo \u00e9 a solu\u00e7\u00e3o? \u00d1 existe uma alma mais honesta.",
+        "textOriginal": "Querer o Lula de novo \u00e9 a solu\u00e7\u00e3o? \u00d1 existe uma alma mais honesta.",
+        "authorDisplayName": "Carlos Cenez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSB3Oemi8m7K4B2tqAIrej33-3NcO9c5NGP-zdH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO1ROcvEJu7RVSWtvI2kgfQ",
+        "authorChannelId": {
+          "value": "UCO1ROcvEJu7RVSWtvI2kgfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-11T22:21:51Z",
+        "updatedAt": "2022-03-11T22:21:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dYCduxngukpukaFvPtLV5zebHB0",
+      "id": "Ugw3wnro5JYtnbsMB7t4AaABAg.9ZSETXXWGFD9ZTEAqDuMV1",
+      "snippet": {
+        "textDisplay": "CONCERTEZA !!",
+        "textOriginal": "CONCERTEZA !!",
+        "parentId": "Ugw3wnro5JYtnbsMB7t4AaABAg",
+        "authorDisplayName": "Maria Augusta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLzs6zjHcmqH22yAYxr6W-4JXVtqFaUSPj-dSgDQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpVx2nFRASEwF-SNig7VJCA",
+        "authorChannelId": {
+          "value": "UCpVx2nFRASEwF-SNig7VJCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-12T07:38:32Z",
+        "updatedAt": "2022-03-12T07:38:32Z"
+      }
+    }
+  ]
+}

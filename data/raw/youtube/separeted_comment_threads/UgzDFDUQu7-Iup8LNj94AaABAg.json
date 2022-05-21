@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DdDf91m4La8aZnbf6RP8Ntcg_0s",
+  "id": "UgzDFDUQu7-Iup8LNj94AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OmQYHZZT_2Gn8MUftqFCTIBvcag",
+      "id": "UgzDFDUQu7-Iup8LNj94AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "Aulas toop!!",
+        "textOriginal": "Aulas toop!!",
+        "authorDisplayName": "maria santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0BLLOdfotE5EiqGlPq02P2yNidFQr0UgYOXGw-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaOo8Ejb6jUrft93Rb5Lq9A",
+        "authorChannelId": {
+          "value": "UCaOo8Ejb6jUrft93Rb5Lq9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-12T00:09:31Z",
+        "updatedAt": "2020-03-12T00:09:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kxdZuYbjeY0z1sHv9m-RuQaOhyY",
+      "id": "UgzDFDUQu7-Iup8LNj94AaABAg.964jVMbNIaJ966iLQpm8zD",
+      "snippet": {
+        "textDisplay": "valeuuuuu!!",
+        "textOriginal": "valeuuuuu!!",
+        "parentId": "UgzDFDUQu7-Iup8LNj94AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-12T18:37:54Z",
+        "updatedAt": "2020-03-12T18:37:54Z"
+      }
+    }
+  ]
+}

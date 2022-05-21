@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hAOIA_vSETSFQzo8mZ4JXmJw7Zo",
+  "id": "UgyxYcLKdRunBQ8HHBV4AaABAg",
+  "snippet": {
+    "videoId": "8LoQpn1I6V0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cIo3k3Y3C55qPjc9129fZut1lh8",
+      "id": "UgyxYcLKdRunBQ8HHBV4AaABAg",
+      "snippet": {
+        "videoId": "8LoQpn1I6V0",
+        "textDisplay": "\u00d3timo video, super necess\u00e1rio",
+        "textOriginal": "\u00d3timo video, super necess\u00e1rio",
+        "authorDisplayName": "Sara Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTVZ9o7HnxoEzPlBdHoOIm_NXIi3NHUvDnp8eoCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDaTkVoo_1o-uSLAkSxIxxw",
+        "authorChannelId": {
+          "value": "UCDaTkVoo_1o-uSLAkSxIxxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-29T10:57:32Z",
+        "updatedAt": "2021-03-29T10:57:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HshO-gdYmr87ef1vPuhf0GJU5Zg",
+      "id": "UgyxYcLKdRunBQ8HHBV4AaABAg.9LTWJoazD-99M9eojJxHvt",
+      "snippet": {
+        "textDisplay": "Obrigado \ud83d\ude4f\ud83c\udffe",
+        "textOriginal": "Obrigado \ud83d\ude4f\ud83c\udffe",
+        "parentId": "UgyxYcLKdRunBQ8HHBV4AaABAg",
+        "authorDisplayName": "Casamos e Mudamos - Irlanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSy6uN1c26dn229zdusWKx8FIDapsGmMvaiqKOcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnVMC2vVIJXlcjTetYxcPwQ",
+        "authorChannelId": {
+          "value": "UCnVMC2vVIJXlcjTetYxcPwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T14:27:07Z",
+        "updatedAt": "2021-04-15T14:27:07Z"
+      }
+    }
+  ]
+}

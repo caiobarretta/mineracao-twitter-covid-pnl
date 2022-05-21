@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZDLw0JtaayrpMa1wwJ4GEY6MKn4",
+  "id": "UgzIVZC74ALrTH51zzB4AaABAg",
+  "snippet": {
+    "videoId": "6xKGVLCwNCw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1kkIwPJ9Dm08rkZhPoVPEnnhQFw",
+      "id": "UgzIVZC74ALrTH51zzB4AaABAg",
+      "snippet": {
+        "videoId": "6xKGVLCwNCw",
+        "textDisplay": "Eu amei galeraaaa",
+        "textOriginal": "Eu amei galeraaaa",
+        "authorDisplayName": "joao gui jogui",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ58peTLuEVuwqT7o_WTWDs8CYJRlilmps2CoEG9BM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl6Wgx0bw6VsXlLMy8ZTvzw",
+        "authorChannelId": {
+          "value": "UCl6Wgx0bw6VsXlLMy8ZTvzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-18T16:39:44Z",
+        "updatedAt": "2021-06-18T16:39:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oitnAVaSq6AoNYEO_76DU6eBslA",
+      "id": "UgzIVZC74ALrTH51zzB4AaABAg.9Ojgs1QeI3Z9OjkGuLh0aV",
+      "snippet": {
+        "textDisplay": "\ud83d\ude48\ud83d\ude48",
+        "textOriginal": "\ud83d\ude48\ud83d\ude48",
+        "parentId": "UgzIVZC74ALrTH51zzB4AaABAg",
+        "authorDisplayName": "Gustavo Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCTvA51NyRnpR68cqxDejatCBQf-lRiEeH52LgIm8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiEXLJVuEMq2RDxXR3J9e1g",
+        "authorChannelId": {
+          "value": "UCiEXLJVuEMq2RDxXR3J9e1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-18T17:09:28Z",
+        "updatedAt": "2021-06-18T17:09:28Z"
+      }
+    }
+  ]
+}

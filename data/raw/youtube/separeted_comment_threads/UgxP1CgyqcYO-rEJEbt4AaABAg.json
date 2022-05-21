@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "muV0brmYzk6yu_EmSfC59aChpzY",
+  "id": "UgxP1CgyqcYO-rEJEbt4AaABAg",
+  "snippet": {
+    "videoId": "DwQoHbHwA1A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UBs6HRhHG3JcqiLbNszjai9Rvco",
+      "id": "UgxP1CgyqcYO-rEJEbt4AaABAg",
+      "snippet": {
+        "videoId": "DwQoHbHwA1A",
+        "textDisplay": "\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11",
+        "textOriginal": "\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11",
+        "authorDisplayName": "Lena Botier",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5tueLAb8GuAzS4WF-LR5EWf-3h8JVpbxEM-5W7A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbcATUaAtUr44CLNmi70QaQ",
+        "authorChannelId": {
+          "value": "UCbcATUaAtUr44CLNmi70QaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-18T16:45:41Z",
+        "updatedAt": "2022-05-18T16:45:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1-L4-5mpxGfEbVps6p2xsNzxrrE",
+      "id": "UgxP1CgyqcYO-rEJEbt4AaABAg.9bAj2qvLc-s9bBUa8gG_Mp",
+      "snippet": {
+        "textDisplay": "Very educated response. So profound and full of facts. (Said bleeding with sarcasm)",
+        "textOriginal": "Very educated response. So profound and full of facts. (Said bleeding with sarcasm)",
+        "parentId": "UgxP1CgyqcYO-rEJEbt4AaABAg",
+        "authorDisplayName": "Nate Winter",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_hrAS-PlqaWlc5NYjtb5KebtBB_dY86dLC1lF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ypW3Bm0aBreXCj09HMgOw",
+        "authorChannelId": {
+          "value": "UC-ypW3Bm0aBreXCj09HMgOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-18T23:49:47Z",
+        "updatedAt": "2022-05-18T23:49:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zYGpsqpd-Dmft-6LLpyfhNPpLck",
+  "id": "Ugxz-oUAZrz5lMT040J4AaABAg",
+  "snippet": {
+    "videoId": "-y7e2kRv1lo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sboId5YjvB_r8ZYmGC0e6rd-lUY",
+      "id": "Ugxz-oUAZrz5lMT040J4AaABAg",
+      "snippet": {
+        "videoId": "-y7e2kRv1lo",
+        "textDisplay": "Ytsduzindo quando morrer o mundo todo ok",
+        "textOriginal": "Ytsduzindo quando morrer o mundo todo ok",
+        "authorDisplayName": "Pedro Braz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyz1xVNAUDnoWgypd19eSG9GXzGwpNQaHQog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9GuE8MO_iXfqtSGqpbafFw",
+        "authorChannelId": {
+          "value": "UC9GuE8MO_iXfqtSGqpbafFw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T23:57:18Z",
+        "updatedAt": "2021-04-15T23:57:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mfqV8xM6BxHxi0Mqg7Txwrndm68",
+      "id": "Ugxz-oUAZrz5lMT040J4AaABAg.9MAg3uK1nB39MCvmId1p8g",
+      "snippet": {
+        "textDisplay": "que exagero",
+        "textOriginal": "que exagero",
+        "parentId": "Ugxz-oUAZrz5lMT040J4AaABAg",
+        "authorDisplayName": "Gato fumante\u30fb",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7hZElIKFuEvz9yEFbNPa6teJS36tN3EbPdO8T_M6daAlhH0dJBxj3I-NQmAIl0uXQ_UymNLXsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwThkkCu6JbxyvUDUVfiyog",
+        "authorChannelId": {
+          "value": "UCwThkkCu6JbxyvUDUVfiyog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-16T20:53:03Z",
+        "updatedAt": "2021-04-16T20:53:03Z"
+      }
+    }
+  ]
+}

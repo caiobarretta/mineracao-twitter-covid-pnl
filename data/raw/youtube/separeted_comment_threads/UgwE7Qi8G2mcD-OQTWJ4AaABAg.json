@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8OHo0ugy7-DvvzgwU1X5jmITBsE",
+  "id": "UgwE7Qi8G2mcD-OQTWJ4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FxwgdEQpEgJaSRE0QtXdiql-mew",
+      "id": "UgwE7Qi8G2mcD-OQTWJ4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "H\u00e9lder Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0YHceLIiqtwlOLODDUmElu2sjee9ue7UuEG3-yQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYjDnC58tTzIxOnQFRQv4Hg",
+        "authorChannelId": {
+          "value": "UCYjDnC58tTzIxOnQFRQv4Hg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-19T16:49:51Z",
+        "updatedAt": "2021-10-19T16:49:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_Dl6hF1CLOHT1191_Qix0zLOUQ8",
+      "id": "UgwE7Qi8G2mcD-OQTWJ4AaABAg.9TgQnjweh7q9TgumWPrW-5",
+      "snippet": {
+        "textDisplay": "Muito obrigada H\u00e9lder!!! Beijos, Amanda",
+        "textOriginal": "Muito obrigada H\u00e9lder!!! Beijos, Amanda",
+        "parentId": "UgwE7Qi8G2mcD-OQTWJ4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-19T21:20:33Z",
+        "updatedAt": "2021-10-19T21:20:33Z"
+      }
+    }
+  ]
+}

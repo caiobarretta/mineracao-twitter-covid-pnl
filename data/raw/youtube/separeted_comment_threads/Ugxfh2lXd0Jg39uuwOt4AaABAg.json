@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Lv163Lo9-7wPOVnpzlKccRQ9DwM",
+  "id": "Ugxfh2lXd0Jg39uuwOt4AaABAg",
+  "snippet": {
+    "videoId": "6IOS7-4n12c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B_yXy3ViloFvm8kgM9NGr20fWWI",
+      "id": "Ugxfh2lXd0Jg39uuwOt4AaABAg",
+      "snippet": {
+        "videoId": "6IOS7-4n12c",
+        "textDisplay": "What an awful voice, had to cut it short. Does anyone know how to verify her licensing writes or is she violating copywrite laws?",
+        "textOriginal": "What an awful voice, had to cut it short. Does anyone know how to verify her licensing writes or is she violating copywrite laws?",
+        "authorDisplayName": "D L",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVuSoMfk5p94ZYe0arVeUgYTVlukN7ClTHQg-GGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-nTjaaSd-VBkGgSgWjdjYA",
+        "authorChannelId": {
+          "value": "UC-nTjaaSd-VBkGgSgWjdjYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-11T01:22:26Z",
+        "updatedAt": "2020-03-11T01:22:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4fcCLftupMks7gki9JxY_JA8Mn8",
+      "id": "Ugxfh2lXd0Jg39uuwOt4AaABAg.962I2ZHm8rf966FuzzTq7O",
+      "snippet": {
+        "textDisplay": "Shut up..its a parody",
+        "textOriginal": "Shut up..its a parody",
+        "parentId": "Ugxfh2lXd0Jg39uuwOt4AaABAg",
+        "authorDisplayName": "SIMPL3 TV",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2PYZ3qJqYpuQtKk_seoPNN3W6ghk2bKMRZE92=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJfWXoDTtCWdzGLjI0Gvd8A",
+        "authorChannelId": {
+          "value": "UCJfWXoDTtCWdzGLjI0Gvd8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-12T14:20:45Z",
+        "updatedAt": "2020-03-12T14:20:45Z"
+      }
+    }
+  ]
+}

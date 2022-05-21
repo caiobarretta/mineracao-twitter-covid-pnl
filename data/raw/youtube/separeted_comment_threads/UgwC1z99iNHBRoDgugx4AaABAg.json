@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "f2DKyy22g3FYogOgOXf_knVZl3M",
+  "id": "UgwC1z99iNHBRoDgugx4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "slMLmEI9yGAV68tz6-v5g1VrI4s",
+      "id": "UgwC1z99iNHBRoDgugx4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "Profissional impec\u00e1vel!",
+        "textOriginal": "Profissional impec\u00e1vel!",
+        "authorDisplayName": "Sara Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9fF2OTHwMnm-ABs95FYNLA1gsAJJEFvhC-daR10w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-8DMdxkIJXq0jL420ZQiNQ",
+        "authorChannelId": {
+          "value": "UC-8DMdxkIJXq0jL420ZQiNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-19T16:40:16Z",
+        "updatedAt": "2021-10-19T16:40:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TVLdQS-LScsqJAavATPVp1nWPLo",
+      "id": "UgwC1z99iNHBRoDgugx4AaABAg.9TgPhbHxMO99TgRUgbs6zl",
+      "snippet": {
+        "textDisplay": "Eba! Que bom ler um coment\u00e1rio desse!!! Muito obrigada!!! beijos Sara!!!",
+        "textOriginal": "Eba! Que bom ler um coment\u00e1rio desse!!! Muito obrigada!!! beijos Sara!!!",
+        "parentId": "UgwC1z99iNHBRoDgugx4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-19T16:55:51Z",
+        "updatedAt": "2021-10-19T16:55:51Z"
+      }
+    }
+  ]
+}

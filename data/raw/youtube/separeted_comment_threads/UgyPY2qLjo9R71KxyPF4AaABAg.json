@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Fu32STKEOey3-YfHKsnEdzAVgZE",
+  "id": "UgyPY2qLjo9R71KxyPF4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HZh-pPNyzEZw74Duc9lM0nj9Ujs",
+      "id": "UgyPY2qLjo9R71KxyPF4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "Come\u00e7a gravar aulas de inform\u00e1tica.",
+        "textOriginal": "Come\u00e7a gravar aulas de inform\u00e1tica.",
+        "authorDisplayName": "maria santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0BLLOdfotE5EiqGlPq02P2yNidFQr0UgYOXGw-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaOo8Ejb6jUrft93Rb5Lq9A",
+        "authorChannelId": {
+          "value": "UCaOo8Ejb6jUrft93Rb5Lq9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-12T00:09:53Z",
+        "updatedAt": "2020-03-12T00:09:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PNKcxJwaHPwqpspHrOC0WfYFm_A",
+      "id": "UgyPY2qLjo9R71KxyPF4AaABAg.964jY5UhncQ9673eEAr0NU",
+      "snippet": {
+        "textDisplay": "@Gustavo Almeida Camargo Fechado!!",
+        "textOriginal": "@Gustavo Almeida Camargo Fechado!!",
+        "parentId": "UgyPY2qLjo9R71KxyPF4AaABAg",
+        "authorDisplayName": "maria santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0BLLOdfotE5EiqGlPq02P2yNidFQr0UgYOXGw-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaOo8Ejb6jUrft93Rb5Lq9A",
+        "authorChannelId": {
+          "value": "UCaOo8Ejb6jUrft93Rb5Lq9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-12T21:52:50Z",
+        "updatedAt": "2020-03-12T21:52:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "z8CioGTR9Tb1U6AQ6bRv9MuOw1A",
+      "id": "UgyPY2qLjo9R71KxyPF4AaABAg.964jY5UhncQ966iM9gN9RV",
+      "snippet": {
+        "textDisplay": "farei em breve!!",
+        "textOriginal": "farei em breve!!",
+        "parentId": "UgyPY2qLjo9R71KxyPF4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-12T18:38:00Z",
+        "updatedAt": "2020-03-12T18:38:00Z"
+      }
+    }
+  ]
+}

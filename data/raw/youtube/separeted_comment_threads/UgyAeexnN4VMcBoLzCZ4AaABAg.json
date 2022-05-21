@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dc440Ihib1XS8f_dzgHFQKlaS5I",
+  "id": "UgyAeexnN4VMcBoLzCZ4AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hg9JO2bjxgf0QH4BcRuG-YPyZbM",
+      "id": "UgyAeexnN4VMcBoLzCZ4AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "Perfeito. AMEI A AULA.",
+        "textOriginal": "Perfeito. AMEI A AULA.",
+        "authorDisplayName": "Diana Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK6zWjgEa-OTG6wQiyKZjLrOHU5TjBvd3Kom5v-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgxOjBGQ_3KWd5GBdnqtLjg",
+        "authorChannelId": {
+          "value": "UCgxOjBGQ_3KWd5GBdnqtLjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-02T16:25:38Z",
+        "updatedAt": "2021-10-02T16:25:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fhYuuj-3OCLC6exZq79IfOicU-c",
+      "id": "UgyAeexnN4VMcBoLzCZ4AaABAg.9T-bWZWpDx39VRJaNZvJyl",
+      "snippet": {
+        "textDisplay": "Fico feliz !",
+        "textOriginal": "Fico feliz !",
+        "parentId": "UgyAeexnN4VMcBoLzCZ4AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-02T03:41:47Z",
+        "updatedAt": "2021-12-02T03:41:47Z"
+      }
+    }
+  ]
+}

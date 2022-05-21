@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Y62npyLBTiDpApkLkj4AqVk_yIA",
+  "id": "UgwXT2vmAmdUQdGi5ON4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RkEPzPcOk5BtTv3FztBUJu7k5zs",
+      "id": "UgwXT2vmAmdUQdGi5ON4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Uma pena Saude na China n\u00e3o e gratuita",
+        "textOriginal": "Uma pena Saude na China n\u00e3o e gratuita",
+        "authorDisplayName": "Muzan Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqlXnilzPTYWspLwU6DfPF-3oaIydqUgKO4ikz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTl2Bnqqxhrx2N0966E6CqQ",
+        "authorChannelId": {
+          "value": "UCTl2Bnqqxhrx2N0966E6CqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-03T13:02:34Z",
+        "updatedAt": "2021-03-03T13:02:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pJcANNZ4UPOs2zbGQYqv4b_R2Ro",
+      "id": "UgwXT2vmAmdUQdGi5ON4AaABAg.9KQmxqd3L-79KRu5bjYLV8",
+      "snippet": {
+        "textDisplay": "pois \u00e9, mta coisa pra melhorar ainda",
+        "textOriginal": "pois \u00e9, mta coisa pra melhorar ainda",
+        "parentId": "UgwXT2vmAmdUQdGi5ON4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-03T23:24:10Z",
+        "updatedAt": "2021-03-03T23:24:10Z"
+      }
+    }
+  ]
+}

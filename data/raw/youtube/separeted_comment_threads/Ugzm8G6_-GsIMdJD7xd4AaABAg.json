@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ATwwscsR3ezOXwV93J6odEMKWCY",
+  "id": "Ugzm8G6_-GsIMdJD7xd4AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-Cekw4opgf2LwrHhig4oNOirg-g",
+      "id": "Ugzm8G6_-GsIMdJD7xd4AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "Muito bom!!!",
+        "textOriginal": "Muito bom!!!",
+        "authorDisplayName": "Gabriel \u00c1lvares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSi1bVux3CTMp0vaq9OU7EiofD3ZCM-es1Q3uGAWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzPIZoLgc8TBxrpP6rWkoHg",
+        "authorChannelId": {
+          "value": "UCzPIZoLgc8TBxrpP6rWkoHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-25T00:20:05Z",
+        "updatedAt": "2021-01-25T00:20:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IHVWjgAQdoDHozmFnQnmGY28OTU",
+      "id": "Ugzm8G6_-GsIMdJD7xd4AaABAg.9Iv9HrHoy579JIrQFlMATC",
+      "snippet": {
+        "textDisplay": "valeu!!",
+        "textOriginal": "valeu!!",
+        "parentId": "Ugzm8G6_-GsIMdJD7xd4AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-03T14:36:12Z",
+        "updatedAt": "2021-02-03T14:36:12Z"
+      }
+    }
+  ]
+}

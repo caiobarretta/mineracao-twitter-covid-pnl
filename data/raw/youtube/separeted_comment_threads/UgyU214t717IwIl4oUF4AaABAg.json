@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O-XlH_yBJCHEBU9DbX1Y_o4LwxI",
+  "id": "UgyU214t717IwIl4oUF4AaABAg",
+  "snippet": {
+    "videoId": "Ug1afVJD298",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EIP4bf9bhZSDfrusfgpTbckDVb0",
+      "id": "UgyU214t717IwIl4oUF4AaABAg",
+      "snippet": {
+        "videoId": "Ug1afVJD298",
+        "textDisplay": "\u00d3timo !",
+        "textOriginal": "\u00d3timo !",
+        "authorDisplayName": "Andre Luis Stacciarini Machado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqa9rNuRp0H8noUgCArDG7Eay1CyYwHGImDC_IDpo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5k7jD5pr6cE_ChuhPBe4qQ",
+        "authorChannelId": {
+          "value": "UC5k7jD5pr6cE_ChuhPBe4qQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-09T13:05:59Z",
+        "updatedAt": "2022-01-09T13:05:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2nKVONtNXqM12iMUvKaCzPVmCbo",
+      "id": "UgyU214t717IwIl4oUF4AaABAg.9WzAMtePMtK9WzNFESVT4_",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "\ud83d\ude0d\ud83d\ude0d",
+        "parentId": "UgyU214t717IwIl4oUF4AaABAg",
+        "authorDisplayName": "Amantes da Argentina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vdvpHSjZotUvgfdtrefr6EyQI9-bmic0XUFAshlIxqAMF8IZcfJNmT9dEKT1Da9fJvWNmiN_Uw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ2FxEZDN-aRa73seGfaiTA",
+        "authorChannelId": {
+          "value": "UCJ2FxEZDN-aRa73seGfaiTA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T14:58:32Z",
+        "updatedAt": "2022-01-09T14:58:32Z"
+      }
+    }
+  ]
+}

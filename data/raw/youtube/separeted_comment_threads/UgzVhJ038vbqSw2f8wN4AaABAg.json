@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "q85rsyn7iM7et9ZAOa-fc6i81KM",
+  "id": "UgzVhJ038vbqSw2f8wN4AaABAg",
+  "snippet": {
+    "videoId": "Nw1Q3O9t5zQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4FgK8SzIZ5vAQCiZkKOWL5BiKKA",
+      "id": "UgzVhJ038vbqSw2f8wN4AaABAg",
+      "snippet": {
+        "videoId": "Nw1Q3O9t5zQ",
+        "textDisplay": "I've already sent thoughts and prayers. Everything is fine.",
+        "textOriginal": "I've already sent thoughts and prayers. Everything is fine.",
+        "authorDisplayName": "Tim Feeley ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Sn7Q5bKpwPHEMWI1msFKzn0ItUBzG8Ohd0NAidWURp7DF0iS3MrG-ymcZ4rYe3UHC3YztE2iFQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZverjJzdcYwf57_oz03uHA",
+        "authorChannelId": {
+          "value": "UCZverjJzdcYwf57_oz03uHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-17T11:29:28Z",
+        "updatedAt": "2022-05-17T11:29:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qE5ADA94w7xi6O3eUTeS5LxRmEo",
+      "id": "UgzVhJ038vbqSw2f8wN4AaABAg.9b7a4-_-DkJ9b7e2ktzrl1",
+      "snippet": {
+        "textDisplay": "Poda loosu punda",
+        "textOriginal": "Poda loosu punda",
+        "parentId": "UgzVhJ038vbqSw2f8wN4AaABAg",
+        "authorDisplayName": "Ajay Kumar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjCa93_Lflm7xBEx69pVvcNceBzqdyGlAKDHdApA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuHfKKGuspkjK_ZVmMCxUgw",
+        "authorChannelId": {
+          "value": "UCuHfKKGuspkjK_ZVmMCxUgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-17T12:04:15Z",
+        "updatedAt": "2022-05-17T12:04:15Z"
+      }
+    }
+  ]
+}

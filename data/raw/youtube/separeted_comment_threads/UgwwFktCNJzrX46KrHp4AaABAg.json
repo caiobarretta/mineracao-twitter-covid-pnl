@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bEvY1o9xxJh3TjkRr8Zrnilkivo",
+  "id": "UgwwFktCNJzrX46KrHp4AaABAg",
+  "snippet": {
+    "videoId": "sV1DK1mVy5g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Hk5rzbD6__kLTjoatadw_lJWyv4",
+      "id": "UgwwFktCNJzrX46KrHp4AaABAg",
+      "snippet": {
+        "videoId": "sV1DK1mVy5g",
+        "textDisplay": "Bobku, bardzo \u0142adnie :-)",
+        "textOriginal": "Bobku, bardzo \u0142adnie :-)",
+        "authorDisplayName": "Katarzyna Pielaszkiewicz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQs4ykuVBs6hqIVieVeu7NSVxBmWRhR7s6vLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQAuVGm7pde1mLnHDGW7dcA",
+        "authorChannelId": {
+          "value": "UCQAuVGm7pde1mLnHDGW7dcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-06T12:50:01Z",
+        "updatedAt": "2020-04-06T12:50:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fXwmtEx1hXvE73Mm5oLUMoXSsvw",
+      "id": "UgwwFktCNJzrX46KrHp4AaABAg.976TPKXyXe0978ZCBN4Nr-",
+      "snippet": {
+        "textDisplay": "Dzi\u0119kuj\u0119.",
+        "textOriginal": "Dzi\u0119kuj\u0119.",
+        "parentId": "UgwwFktCNJzrX46KrHp4AaABAg",
+        "authorDisplayName": "\u0141ukasz Sobkowiak",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTPpRDLUSHiG78c-ZS9OKUPFIdn7rbxTx9IWlLjDg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVNlBTS0N8qxAbNP_rwEw8A",
+        "authorChannelId": {
+          "value": "UCVNlBTS0N8qxAbNP_rwEw8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-07T08:19:08Z",
+        "updatedAt": "2020-04-07T08:19:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "S-8ewf8TCecqEWxnjbfZpz0xDKM",
+  "id": "UgxNkxBK3_IUlGFH7UV4AaABAg",
+  "snippet": {
+    "videoId": "oTcyEevmI_Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Bl9GHQ5ah1YTob09tLQQJM15nkw",
+      "id": "UgxNkxBK3_IUlGFH7UV4AaABAg",
+      "snippet": {
+        "videoId": "oTcyEevmI_Q",
+        "textDisplay": "Deixaram o v\u00edrus entrar ou entrou ilegalmente?",
+        "textOriginal": "Deixaram o v\u00edrus entrar ou entrou ilegalmente?",
+        "authorDisplayName": "Eduardo kiev",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/o17vvNj4nyijlvKjXucsQxp7EkV1itw6lvgYRQBIsl9oqGd3kl72nw0Cs-5qC-x1XU__uZVJvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqoaHOf7nP4V02NzkhQEMkw",
+        "authorChannelId": {
+          "value": "UCqoaHOf7nP4V02NzkhQEMkw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-14T16:31:26Z",
+        "updatedAt": "2022-05-14T16:31:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HTuXzIupKUEgU_pEzo8j5HPVxTE",
+      "id": "UgxNkxBK3_IUlGFH7UV4AaABAg.9b0PF2jbyXu9b0WxTbquf0",
+      "snippet": {
+        "textDisplay": "Na sua cara.",
+        "textOriginal": "Na sua cara.",
+        "parentId": "UgxNkxBK3_IUlGFH7UV4AaABAg",
+        "authorDisplayName": "Eduardo kiev",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/JkVQ0L9HPJOdV185oqI4nNAnDzy0ZFpTp-GLsqh7KE_EkRWqF9e5S5EC9f7ggp4teitZwlc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEgeUB_TzNOvgjHDxxluxVA",
+        "authorChannelId": {
+          "value": "UCEgeUB_TzNOvgjHDxxluxVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-14T17:38:48Z",
+        "updatedAt": "2022-05-14T17:38:48Z"
+      }
+    }
+  ]
+}

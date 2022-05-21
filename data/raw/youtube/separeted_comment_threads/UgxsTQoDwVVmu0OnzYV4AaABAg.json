@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0b7A0lIji0CeahItGp5r_wWgvRE",
+  "id": "UgxsTQoDwVVmu0OnzYV4AaABAg",
+  "snippet": {
+    "videoId": "vmHCX9-t3TA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "szA74cVoylv-XT5J9SEbX0GJ49c",
+      "id": "UgxsTQoDwVVmu0OnzYV4AaABAg",
+      "snippet": {
+        "videoId": "vmHCX9-t3TA",
+        "textDisplay": "Como que voc\u00ea errou a escada rolante doido? rsrs",
+        "textOriginal": "Como que voc\u00ea errou a escada rolante doido? rsrs",
+        "authorDisplayName": "Mr Alfarr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtXio5zapbfbz1Ww-9RytjhkZmhRJXWwH5n_0_fw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ISYXjZTiosL_8LuovwZHw",
+        "authorChannelId": {
+          "value": "UC-ISYXjZTiosL_8LuovwZHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-16T13:57:46Z",
+        "updatedAt": "2020-02-16T13:57:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "O2j9Blueai0GcfhouD8V3kWDe-Y",
+      "id": "UgxsTQoDwVVmu0OnzYV4AaABAg.955qPlEBbHb95XtSwI2bR6",
+      "snippet": {
+        "textDisplay": "@Maria Ribeiro Silva Ribeiro Silva Falei brincando pow, sei que qualquer um erraria!",
+        "textOriginal": "@Maria Ribeiro Silva Ribeiro Silva Falei brincando pow, sei que qualquer um erraria!",
+        "parentId": "UgxsTQoDwVVmu0OnzYV4AaABAg",
+        "authorDisplayName": "Mr Alfarr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtXio5zapbfbz1Ww-9RytjhkZmhRJXWwH5n_0_fw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ISYXjZTiosL_8LuovwZHw",
+        "authorChannelId": {
+          "value": "UC-ISYXjZTiosL_8LuovwZHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-27T11:23:09Z",
+        "updatedAt": "2020-02-27T11:23:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "JdCoy3PtG61578QBvWQyLAngIK0",
+      "id": "UgxsTQoDwVVmu0OnzYV4AaABAg.955qPlEBbHb95Xt1z_ni8Z",
+      "snippet": {
+        "textDisplay": "Qualquer um erraria\n se tivesse distra\u00edda com a c\u00e2mera",
+        "textOriginal": "Qualquer um erraria\n se tivesse distra\u00edda com a c\u00e2mera",
+        "parentId": "UgxsTQoDwVVmu0OnzYV4AaABAg",
+        "authorDisplayName": "Maria Ribeiro Silva Ribeiro Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVpVdNCY9Tjvis7GZ_DNP_Wrb4rhRv_x4p0gWGkg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeoeg5sv9TA4LSciZEcln1Q",
+        "authorChannelId": {
+          "value": "UCeoeg5sv9TA4LSciZEcln1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-27T11:19:28Z",
+        "updatedAt": "2020-02-27T11:19:28Z"
+      }
+    }
+  ]
+}

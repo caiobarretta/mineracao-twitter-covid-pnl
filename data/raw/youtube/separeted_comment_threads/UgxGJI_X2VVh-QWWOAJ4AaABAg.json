@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tVINcHiHOV-kjgnQnIETH6RYgho",
+  "id": "UgxGJI_X2VVh-QWWOAJ4AaABAg",
+  "snippet": {
+    "videoId": "4sMkPEO3tYM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IZORIaodAe8WJmxi1wRVuN5MhP0",
+      "id": "UgxGJI_X2VVh-QWWOAJ4AaABAg",
+      "snippet": {
+        "videoId": "4sMkPEO3tYM",
+        "textDisplay": "Video clear nahi aa raha h",
+        "textOriginal": "Video clear nahi aa raha h",
+        "authorDisplayName": "GAURI SHANKAR DANODIYA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR40d4Mw2R9MyIZaBXz36bN80lGBA8kBj0BQI3O=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVpkIInkMLh2cqjUVdXEdsg",
+        "authorChannelId": {
+          "value": "UCVpkIInkMLh2cqjUVdXEdsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-02T01:14:06Z",
+        "updatedAt": "2020-10-02T01:14:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9mq43r16m44EOfso_3MHYp47-wY",
+      "id": "UgxGJI_X2VVh-QWWOAJ4AaABAg.9EI82rmlwy09EJu8zDtpiO",
+      "snippet": {
+        "textDisplay": "Increase ur video quality to 480p",
+        "textOriginal": "Increase ur video quality to 480p",
+        "parentId": "UgxGJI_X2VVh-QWWOAJ4AaABAg",
+        "authorDisplayName": "Siri Krishana Math(SKM) Academy for CSIR-NET/ GATE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTknmE6Y9uYLR5Pk-zNo4iuyrqyin3MYVHOTQH2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNPhrkLAORgzLrllpFjM4UA",
+        "authorChannelId": {
+          "value": "UCNPhrkLAORgzLrllpFjM4UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-02T17:42:20Z",
+        "updatedAt": "2020-10-02T17:42:20Z"
+      }
+    }
+  ]
+}

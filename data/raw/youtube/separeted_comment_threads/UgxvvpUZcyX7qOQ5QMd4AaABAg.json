@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Db-uftq1x7n_TURkWrOOISbq6aE",
+  "id": "UgxvvpUZcyX7qOQ5QMd4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "m2FgZU4VX_NlYk6JK4TdHZOM610",
+      "id": "UgxvvpUZcyX7qOQ5QMd4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Marlise Schneider",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOEazMx0yzUFTBKF1Twzh2rj4pBbLCZO9D7pXO2_EJTSzTHMt1Ops-ngzguAQr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCycutcgg-sBk9m-gcdLCxFg",
+        "authorChannelId": {
+          "value": "UCycutcgg-sBk9m-gcdLCxFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-19T18:05:47Z",
+        "updatedAt": "2021-10-19T18:05:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PA_FiYilfFaGlkj_pn_wq-5KfWE",
+      "id": "UgxvvpUZcyX7qOQ5QMd4AaABAg.9TgZUunzcVW9TgukZY9A2y",
+      "snippet": {
+        "textDisplay": "Muito obrigada Ise!!! Beijosss",
+        "textOriginal": "Muito obrigada Ise!!! Beijosss",
+        "parentId": "UgxvvpUZcyX7qOQ5QMd4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-19T21:20:17Z",
+        "updatedAt": "2021-10-19T21:20:17Z"
+      }
+    }
+  ]
+}

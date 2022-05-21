@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BZzLrGwXeq6oP61nJXdNXW8chV0",
+  "id": "Ugz0KLBA565Zk_tB9Wd4AaABAg",
+  "snippet": {
+    "videoId": "ak7LF6tg28w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "s5ioECcUNpiPINvOnbK5esO0BdQ",
+      "id": "Ugz0KLBA565Zk_tB9Wd4AaABAg",
+      "snippet": {
+        "videoId": "ak7LF6tg28w",
+        "textDisplay": "Vim pela maria",
+        "textOriginal": "Vim pela maria",
+        "authorDisplayName": "Maria Eduarda Andrade do Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcRRkqG4RmBcqwrlV5tjgfWvTYLuMbICXQgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCObFPMl9BUzg8leMdzOa5eg",
+        "authorChannelId": {
+          "value": "UCObFPMl9BUzg8leMdzOa5eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-18T13:33:55Z",
+        "updatedAt": "2020-08-18T13:33:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_de-Q0Mm7aMy8YmUNjAdCWoxDsQ",
+      "id": "Ugz0KLBA565Zk_tB9Wd4AaABAg.9CV_x54yqJu9CWPFPUOmAw",
+      "snippet": {
+        "textDisplay": "FDS ningu\u00e9m quer saber",
+        "textOriginal": "FDS ningu\u00e9m quer saber",
+        "parentId": "Ugz0KLBA565Zk_tB9Wd4AaABAg",
+        "authorDisplayName": "Josue Silva Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTI6RIRsEH02-TIDRydsV1j_7e-8PkwveBYB0EI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTvl6LBKm6AyryV4A66Fv_Q",
+        "authorChannelId": {
+          "value": "UCTvl6LBKm6AyryV4A66Fv_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-18T21:10:56Z",
+        "updatedAt": "2020-08-18T21:10:56Z"
+      }
+    }
+  ]
+}

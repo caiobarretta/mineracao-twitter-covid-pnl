@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DAeYwmsieTDi27zMjaeZjolW9gU",
+  "id": "Ugx3hHvQtdgOJxpy9u14AaABAg",
+  "snippet": {
+    "videoId": "sC8wzo_EHhU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xT6byvU_cWYH-Tklq7v5413JBJI",
+      "id": "Ugx3hHvQtdgOJxpy9u14AaABAg",
+      "snippet": {
+        "videoId": "sC8wzo_EHhU",
+        "textDisplay": "V\u00eddeo excelente e objetivo.",
+        "textOriginal": "V\u00eddeo excelente e objetivo.",
+        "authorDisplayName": "Amanda Lins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfpnB1vfB9i1a77h2FbNeue9lfqkvJ323EITcp=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOz1dsgYyPfDeHtRgl2ek0A",
+        "authorChannelId": {
+          "value": "UCOz1dsgYyPfDeHtRgl2ek0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-17T01:35:58Z",
+        "updatedAt": "2021-10-17T01:35:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pjVJbF6rtCSvHWScit_Omz5pH7Q",
+      "id": "Ugx3hHvQtdgOJxpy9u14AaABAg.9T_dc_ZMH3e9Tasc-D588t",
+      "snippet": {
+        "textDisplay": "Obrigado, Amanda. Est\u00e1 inscrita em nosso canal?",
+        "textOriginal": "Obrigado, Amanda. Est\u00e1 inscrita em nosso canal?",
+        "parentId": "Ugx3hHvQtdgOJxpy9u14AaABAg",
+        "authorDisplayName": "seriesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gp0YrzhZiK7DjDlndzz-4d9sv_Z2ktfZ4yG_hLOc3ZOYNy5zEKdLcRGkrkgWsadOc8XJ9Wiliw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7p_rNpzJmlIQp2xFMMtk_g",
+        "authorChannelId": {
+          "value": "UC7p_rNpzJmlIQp2xFMMtk_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-17T13:06:12Z",
+        "updatedAt": "2021-10-17T13:06:12Z"
+      }
+    }
+  ]
+}

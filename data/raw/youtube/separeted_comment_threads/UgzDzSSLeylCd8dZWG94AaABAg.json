@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gZ1ol0luzrc3gcCeAn6EhlQGhHU",
+  "id": "UgzDzSSLeylCd8dZWG94AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AMZOM6FlsmY7twvU1EWVROuNgrI",
+      "id": "UgzDzSSLeylCd8dZWG94AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Muito bom! Amando aprender hist\u00f3ria que a gente n\u00e3o aprende convencional mente!",
+        "textOriginal": "Muito bom! Amando aprender hist\u00f3ria que a gente n\u00e3o aprende convencional mente!",
+        "authorDisplayName": "Caio Zambori",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6gwWOAf5eYH4cxxQumOgT8SBIch5nPb6TTyvS8Tk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVg2Wr2d6cbV7VhmlROfi5Q",
+        "authorChannelId": {
+          "value": "UCVg2Wr2d6cbV7VhmlROfi5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-10-21T23:52:36Z",
+        "updatedAt": "2020-10-21T23:52:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rbhqlj1SLL-bAnK3NK3IDTZB1K8",
+      "id": "UgzDzSSLeylCd8dZWG94AaABAg.9F5UcX5Zlyl9F5X2Cr9tjy",
+      "snippet": {
+        "textDisplay": "Opaa, obrigado por sua participa\u00e7\u00e3o!!",
+        "textOriginal": "Opaa, obrigado por sua participa\u00e7\u00e3o!!",
+        "parentId": "UgzDzSSLeylCd8dZWG94AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-22T00:13:43Z",
+        "updatedAt": "2020-10-22T00:13:43Z"
+      }
+    }
+  ]
+}

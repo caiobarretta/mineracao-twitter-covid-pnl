@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "n5fB-itYR9v2kRgzB342dDho7lY",
+  "id": "UgyBc5INkSsneBPsRVZ4AaABAg",
+  "snippet": {
+    "videoId": "wPRGiDBN1Po",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Xlxo5-0bK3LDk93kiCJ1vCkhLTA",
+      "id": "UgyBc5INkSsneBPsRVZ4AaABAg",
+      "snippet": {
+        "videoId": "wPRGiDBN1Po",
+        "textDisplay": "APRENDI NADA",
+        "textOriginal": "APRENDI NADA",
+        "authorDisplayName": "FELIPE WINIARSKI PADILHA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3xBNVn6K3k_OL3VEK6ySb_ekpeaOS1Ud2zLKzzQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnCrAXnQs1uhGxzKCAbYamQ",
+        "authorChannelId": {
+          "value": "UCnCrAXnQs1uhGxzKCAbYamQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-09T18:40:57Z",
+        "updatedAt": "2020-11-09T18:40:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DdYNqf10NC9b-k7GjauNmYjyHi4",
+      "id": "UgyBc5INkSsneBPsRVZ4AaABAg.9Fqr3VlhGRY9K8_YoYsWoc",
+      "snippet": {
+        "textDisplay": "Nem eu",
+        "textOriginal": "Nem eu",
+        "parentId": "UgyBc5INkSsneBPsRVZ4AaABAg",
+        "authorDisplayName": "Brenna B.k",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1gbvkflVIxmGWzzExnLOgyZfY1qFGI1BrVrLF6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtGBh8jVdaYJ3OLrmG78_jQ",
+        "authorChannelId": {
+          "value": "UCtGBh8jVdaYJ3OLrmG78_jQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-24T11:19:05Z",
+        "updatedAt": "2021-02-24T11:19:05Z"
+      }
+    }
+  ]
+}

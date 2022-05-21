@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lPPTRzB3ERiGcF57iDjhEn1uSFQ",
+  "id": "UgyN5IoWBx1VFW1XMxN4AaABAg",
+  "snippet": {
+    "videoId": "LCHiHjLBhHw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FoERJ9xb7yDQiSCh0Q_x7_zgZpQ",
+      "id": "UgyN5IoWBx1VFW1XMxN4AaABAg",
+      "snippet": {
+        "videoId": "LCHiHjLBhHw",
+        "textDisplay": "0:57 o mussomano usando 100% da sua capacidade de rima",
+        "textOriginal": "0:57 o mussomano usando 100% da sua capacidade de rima",
+        "authorDisplayName": "Van",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/wH7DFYmNot-o43G2NKNu0TfdDZNHEA6Sixpjr5vxCW65D9pLPXgiWusrCxRlPn5BSzq1SwbmRg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZClbz0MOCWS14NPNnkXRYg",
+        "authorChannelId": {
+          "value": "UCZClbz0MOCWS14NPNnkXRYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2020-12-21T18:02:33Z",
+        "updatedAt": "2020-12-21T18:02:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "L-kxjJxax-j2IXYMox8RBUWEL6I",
+      "id": "UgyN5IoWBx1VFW1XMxN4AaABAg.9HXw30Z6-Vr9Hrc0XGaYKz",
+      "snippet": {
+        "textDisplay": "Kkk sim verdade",
+        "textOriginal": "Kkk sim verdade",
+        "parentId": "UgyN5IoWBx1VFW1XMxN4AaABAg",
+        "authorDisplayName": "jogos de simulac\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6gAgJM4qBRkYYXN3cxEG-9em7Q2O3XdiLxfpB2WyTylKXv_JrEHwfBbQFo-g1U27J3J3oDON=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJfPPH4qbBd7w0vDwJIu7zA",
+        "authorChannelId": {
+          "value": "UCJfPPH4qbBd7w0vDwJIu7zA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-29T18:51:30Z",
+        "updatedAt": "2020-12-29T18:51:30Z"
+      }
+    }
+  ]
+}

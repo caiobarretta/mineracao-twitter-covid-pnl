@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "h9sfcw5nGXkfSdBSgcpuGIPiZt4",
+  "id": "Ugyp_s7aMU3GfGebiHJ4AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PSB6_iMP5FI9PCKt49Zp6zm-zz0",
+      "id": "Ugyp_s7aMU3GfGebiHJ4AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Nice\ud83d\udc4d sir",
+        "textOriginal": "Nice\ud83d\udc4d sir",
+        "authorDisplayName": "Raja Gopal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnjJp89NWn17KguFykNrsTPM9CTHRQw4htwsZekA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtGpkvJhrgQOB2U8jg1A9tw",
+        "authorChannelId": {
+          "value": "UCtGpkvJhrgQOB2U8jg1A9tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T10:34:18Z",
+        "updatedAt": "2022-01-06T10:34:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FN2xtLDXaGPXmT-nsUYksOr4UXo",
+      "id": "Ugyp_s7aMU3GfGebiHJ4AaABAg.9WrAcFEaNFD9Ws1noNMiaA",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "Ugyp_s7aMU3GfGebiHJ4AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-06T18:36:28Z",
+        "updatedAt": "2022-01-06T18:36:28Z"
+      }
+    }
+  ]
+}

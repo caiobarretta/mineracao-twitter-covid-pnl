@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aSHGrzLpmifVZvJDlhxU6IfP33A",
+  "id": "UgyOD9w-d4j-puZmp3t4AaABAg",
+  "snippet": {
+    "videoId": "N6CmrZkff5Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VKE_GAikrEaNCSeiIwSTzlRNaFk",
+      "id": "UgyOD9w-d4j-puZmp3t4AaABAg",
+      "snippet": {
+        "videoId": "N6CmrZkff5Y",
+        "textDisplay": "Hola doctora! Buen v\u00eddeo! Una pregunta... lo de los pangolines tengo entendido que ya fue descartado, \u00bfes as\u00ed?",
+        "textOriginal": "Hola doctora! Buen v\u00eddeo! Una pregunta... lo de los pangolines tengo entendido que ya fue descartado, \u00bfes as\u00ed?",
+        "authorDisplayName": "Gl\u00f3buloAzul",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRD1hSmIN4F1aalkE7m-kTBTqk9K1vSvAvWEED8Jw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNoYp3IUVPGowDEqDp3RvBQ",
+        "authorChannelId": {
+          "value": "UCNoYp3IUVPGowDEqDp3RvBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-02T16:17:01Z",
+        "updatedAt": "2020-03-02T16:17:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JNMgPFnYoMpZ1E8EIusZRKvcn5k",
+      "id": "UgyOD9w-d4j-puZmp3t4AaABAg.95hiGq1E21696ZJtl1RFe9",
+      "snippet": {
+        "textDisplay": "S\u00ed, me parece que ya fue, aunque no ha dicho cu\u00e1l fue el medio de contagio con exactitud.",
+        "textOriginal": "S\u00ed, me parece que ya fue, aunque no ha dicho cu\u00e1l fue el medio de contagio con exactitud.",
+        "parentId": "UgyOD9w-d4j-puZmp3t4AaABAg",
+        "authorDisplayName": "Salud en Corto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Y3svZZc4w7x9oA8Fox9fCioJFETvujtrSx1YKudDb9CWXaLtgMCdsxQ220VNfUjXJ737Qvrd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdtlLlFp91hOHG9_te0cFUQ",
+        "authorChannelId": {
+          "value": "UCdtlLlFp91hOHG9_te0cFUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T21:13:30Z",
+        "updatedAt": "2020-03-23T21:13:30Z"
+      }
+    }
+  ]
+}

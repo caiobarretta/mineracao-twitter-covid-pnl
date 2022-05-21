@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ip3w1CqDG3OF5CCS8g6CaLruXhk",
+  "id": "UgztHBteDIH15dWTxr14AaABAg",
+  "snippet": {
+    "videoId": "FZugIb3-CpI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WI9kRx966QLvtGYczOIYcXzngrA",
+      "id": "UgztHBteDIH15dWTxr14AaABAg",
+      "snippet": {
+        "videoId": "FZugIb3-CpI",
+        "textDisplay": "V\u00eddeos incr\u00edveis e com conte\u00fado necess\u00e1rio demais!!! Perfeita como sempre",
+        "textOriginal": "V\u00eddeos incr\u00edveis e com conte\u00fado necess\u00e1rio demais!!! Perfeita como sempre",
+        "authorDisplayName": "Carol Macedo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgCC0GlJqh6GhSMXAhMrMeC2rUH9849TpKx_1Dhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCK7XVuTqZ6S3vZNIu40Y4pA",
+        "authorChannelId": {
+          "value": "UCK7XVuTqZ6S3vZNIu40Y4pA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-07-05T18:37:57Z",
+        "updatedAt": "2020-07-05T18:37:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "iwdHAFHsMbTT1rHWiiECjEFGY_I",
+      "id": "UgztHBteDIH15dWTxr14AaABAg.9AjplSYMr_49AlwqNjJukU",
+      "snippet": {
+        "textDisplay": "Muito obrigada!! Que feliz que gostem do conte\u00fado \u263a\ufe0f",
+        "textOriginal": "Muito obrigada!! Que feliz que gostem do conte\u00fado \u263a\ufe0f",
+        "parentId": "UgztHBteDIH15dWTxr14AaABAg",
+        "authorDisplayName": "Keka Mallon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGlPUgaq1HevJQ4YW07HaJ27k_V-7cAIp_YszHvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvNPV1jLteAPNaC2YSG4dZw",
+        "authorChannelId": {
+          "value": "UCvNPV1jLteAPNaC2YSG4dZw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-06T14:18:16Z",
+        "updatedAt": "2020-07-06T14:18:16Z"
+      }
+    }
+  ]
+}

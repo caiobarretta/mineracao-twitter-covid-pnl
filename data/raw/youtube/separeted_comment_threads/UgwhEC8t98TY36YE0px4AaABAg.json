@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zyLIhvOnbV3JqO3ijlkdjXp65Fs",
+  "id": "UgwhEC8t98TY36YE0px4AaABAg",
+  "snippet": {
+    "videoId": "Q4bLSVG9i-U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7ak2tmY8Br9jqbDUDmdcjkUwdLs",
+      "id": "UgwhEC8t98TY36YE0px4AaABAg",
+      "snippet": {
+        "videoId": "Q4bLSVG9i-U",
+        "textDisplay": "Legal Mel, muito bom!!!",
+        "textOriginal": "Legal Mel, muito bom!!!",
+        "authorDisplayName": "Daniela Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ15qcmGKy1jx3KQaSqZatE-PE4PsIXRonsDy-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcSY9miVTX1yH_SnrhOplvQ",
+        "authorChannelId": {
+          "value": "UCcSY9miVTX1yH_SnrhOplvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-23T00:33:56Z",
+        "updatedAt": "2020-11-23T00:33:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jHEZEB-YSllXn3Z3V9LSq50dLz8",
+      "id": "UgwhEC8t98TY36YE0px4AaABAg.9GNxn9w3u3Y9GQBK0m5seo",
+      "snippet": {
+        "textDisplay": "Obrigada Dani \u2764\ufe0f",
+        "textOriginal": "Obrigada Dani \u2764\ufe0f",
+        "parentId": "UgwhEC8t98TY36YE0px4AaABAg",
+        "authorDisplayName": "Psiu London",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRPGr-YnbwmLQPCeaoFRlw-EyQB4cyDUjMcl0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCARL335Qwmiy0fN02LAYMkg",
+        "authorChannelId": {
+          "value": "UCARL335Qwmiy0fN02LAYMkg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-23T21:19:22Z",
+        "updatedAt": "2020-11-23T21:19:22Z"
+      }
+    }
+  ]
+}

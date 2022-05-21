@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6UIJ4352MPSE5sYsk0bUzYFBB3o",
+  "id": "Ugxb-qPYQm6UeEjNZb94AaABAg",
+  "snippet": {
+    "videoId": "DQ3WhStJed8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2zoCY12Xv_p3KDCFiNR6YK3KWNk",
+      "id": "Ugxb-qPYQm6UeEjNZb94AaABAg",
+      "snippet": {
+        "videoId": "DQ3WhStJed8",
+        "textDisplay": "Miseric\u00f3rdia 2024\ud83d\ude22",
+        "textOriginal": "Miseric\u00f3rdia 2024\ud83d\ude22",
+        "authorDisplayName": "Paula M\u00e9rcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFfMNyz_mTZ_w2m2suPp1KVS4vxbzirp-S-8ql=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdUkUfp-INoe2tsc38rWDiQ",
+        "authorChannelId": {
+          "value": "UCdUkUfp-INoe2tsc38rWDiQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2021-10-09T15:06:51Z",
+        "updatedAt": "2021-10-09T15:06:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "j9KrJOIiIHwg3MFaOy67Wn6knds",
+      "id": "Ugxb-qPYQm6UeEjNZb94AaABAg.9THV3dvy4b_9TPPavW_8AJ",
+      "snippet": {
+        "textDisplay": "Pra que dar esse spoiler? Mizeraaa",
+        "textOriginal": "Pra que dar esse spoiler? Mizeraaa",
+        "parentId": "Ugxb-qPYQm6UeEjNZb94AaABAg",
+        "authorDisplayName": "Gabriel Moura",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfJIQUfFjgZ-ksnEx0uhBtoKW84oZ4fbd6gv21YYiYzVuTzlC0lMHfjHHpUTGN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXo1SJiaL4PRhztydaK1LDQ",
+        "authorChannelId": {
+          "value": "UCXo1SJiaL4PRhztydaK1LDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-12T16:53:01Z",
+        "updatedAt": "2021-10-12T16:53:01Z"
+      }
+    }
+  ]
+}

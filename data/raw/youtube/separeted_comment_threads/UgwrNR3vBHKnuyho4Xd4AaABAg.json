@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "06wqKGtvSpu2Od9b5Hmv69qQCxE",
+  "id": "UgwrNR3vBHKnuyho4Xd4AaABAg",
+  "snippet": {
+    "videoId": "B93uZPvThKc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TFJpvW5Yrx5wFgdVNg94wmOnxhU",
+      "id": "UgwrNR3vBHKnuyho4Xd4AaABAg",
+      "snippet": {
+        "videoId": "B93uZPvThKc",
+        "textDisplay": "Respect for the doctor who sacrificed his life for dealing with the patients.\ud83d\ude4f\ud83c\udffb",
+        "textOriginal": "Respect for the doctor who sacrificed his life for dealing with the patients.\ud83d\ude4f\ud83c\udffb",
+        "authorDisplayName": "Gokul Gopinath",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZbRGaz_tfk5lyCDUIXof5DgS7pIggjcGFjVW5P2o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu9pJ_gw_kzFMlnPo1GDDUw",
+        "authorChannelId": {
+          "value": "UCu9pJ_gw_kzFMlnPo1GDDUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 40,
+        "publishedAt": "2020-02-16T18:43:00Z",
+        "updatedAt": "2020-02-16T18:43:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DPZH8gSZBY8BR5YnxmSmcfjmZAY",
+      "id": "UgwrNR3vBHKnuyho4Xd4AaABAg.956M2v9GJlT9ZHIujfxOS8",
+      "snippet": {
+        "textDisplay": "There have been many of them",
+        "textOriginal": "There have been many of them",
+        "parentId": "UgwrNR3vBHKnuyho4Xd4AaABAg",
+        "authorDisplayName": "Tony Saladino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlAP2VXDQQKUd_l3g9IZiUnQreaQdH-6C0A6aS_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQuhXrJMa_eSlQT7vlUGBSQ",
+        "authorChannelId": {
+          "value": "UCQuhXrJMa_eSlQT7vlUGBSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-03-07T16:29:00Z",
+        "updatedAt": "2022-03-07T16:29:00Z"
+      }
+    }
+  ]
+}

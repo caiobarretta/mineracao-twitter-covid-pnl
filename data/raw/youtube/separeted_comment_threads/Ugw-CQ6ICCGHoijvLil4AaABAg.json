@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "64G9O0_5W3FniIiBrq8Zr8Ylg3M",
+  "id": "Ugw-CQ6ICCGHoijvLil4AaABAg",
+  "snippet": {
+    "videoId": "2HpNfUhHV3M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HJNmf1N1qJoorkVPKXhShOZykGo",
+      "id": "Ugw-CQ6ICCGHoijvLil4AaABAg",
+      "snippet": {
+        "videoId": "2HpNfUhHV3M",
+        "textDisplay": "Isto \u00e9 fant\u00e1stico! Obrigado! Das ist toll!!!",
+        "textOriginal": "Isto \u00e9 fant\u00e1stico! Obrigado! Das ist toll!!!",
+        "authorDisplayName": "Jos\u00e9 Joel Pimentel de Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJxE9m_zhzUsIxAgpf_g1nt3ySo3QQKvQToQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOUopYNWgQjKfdfiodpG2pg",
+        "authorChannelId": {
+          "value": "UCOUopYNWgQjKfdfiodpG2pg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-17T18:19:00Z",
+        "updatedAt": "2021-06-17T18:19:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RnDXPo10CkY_Sa79c2hccC3sDR0",
+      "id": "Ugw-CQ6ICCGHoijvLil4AaABAg.9OhIREgpA859OhPwTsdF9F",
+      "snippet": {
+        "textDisplay": "Sehr gerne",
+        "textOriginal": "Sehr gerne",
+        "parentId": "Ugw-CQ6ICCGHoijvLil4AaABAg",
+        "authorDisplayName": "Deutsch und Deutschland",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3AnTIE9TqmolovkMAkhmJh5_7iFqvv_g0_QTvKTXpZeHWyx6hxBc6NQh7HUOxXIzmAcMR3To=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsquXBGEDONI_hKQmPBCJzA",
+        "authorChannelId": {
+          "value": "UCsquXBGEDONI_hKQmPBCJzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-17T19:24:34Z",
+        "updatedAt": "2021-06-17T19:24:34Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "5XkYOknc-wWlrWV8JfcQW-mL4fA",
+      "id": "Ugw-CQ6ICCGHoijvLil4AaABAg.9OhIREgpA859OhIW4sN2h1",
+      "snippet": {
+        "textDisplay": "Danke!!!",
+        "textOriginal": "Danke!!!",
+        "parentId": "Ugw-CQ6ICCGHoijvLil4AaABAg",
+        "authorDisplayName": "Jos\u00e9 Joel Pimentel de Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJxE9m_zhzUsIxAgpf_g1nt3ySo3QQKvQToQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOUopYNWgQjKfdfiodpG2pg",
+        "authorChannelId": {
+          "value": "UCOUopYNWgQjKfdfiodpG2pg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-17T18:19:39Z",
+        "updatedAt": "2021-06-17T18:19:39Z"
+      }
+    }
+  ]
+}

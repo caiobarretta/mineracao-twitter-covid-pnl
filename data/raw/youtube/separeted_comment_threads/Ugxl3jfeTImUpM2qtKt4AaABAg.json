@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "x_xLzCRtdUIlvGWPa6VKNoq1YCY",
+  "id": "Ugxl3jfeTImUpM2qtKt4AaABAg",
+  "snippet": {
+    "videoId": "RjNik9p7cS0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yJRMyM7Mluo67GmQWwJCFUdRMWE",
+      "id": "Ugxl3jfeTImUpM2qtKt4AaABAg",
+      "snippet": {
+        "videoId": "RjNik9p7cS0",
+        "textDisplay": "Ivermictina \u00e9 o Melhor, Nitazoxadina",
+        "textOriginal": "Ivermictina \u00e9 o Melhor, Nitazoxadina",
+        "authorDisplayName": "Luiz Carlos Ferrari",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1Jkhs2Pj24ngj3mMOVn1MEV0Nz1MF58jNZA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxCxmS37l9fSNwZdKXx189A",
+        "authorChannelId": {
+          "value": "UCxCxmS37l9fSNwZdKXx189A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-03T19:25:07Z",
+        "updatedAt": "2022-01-03T19:25:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i907JmNsWyemm9BYYVEQ8hqhhZQ",
+      "id": "Ugxl3jfeTImUpM2qtKt4AaABAg.9WkOzW9a-yG9WkeIDVI7tk",
+      "snippet": {
+        "textDisplay": "Pra gado \u00e9 sim",
+        "textOriginal": "Pra gado \u00e9 sim",
+        "parentId": "Ugxl3jfeTImUpM2qtKt4AaABAg",
+        "authorDisplayName": "Fabr\u00edcio Queiroz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TO4V91NgfTTVKfLflBmGrCNwwzUgBfdtjymcvseyiENmj6oKRCa0Km42wG75bYCwRMQhcd6llb8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChwB68KXxUQ9yTx0yayv-tQ",
+        "authorChannelId": {
+          "value": "UChwB68KXxUQ9yTx0yayv-tQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-01-03T21:47:37Z",
+        "updatedAt": "2022-01-03T21:47:37Z"
+      }
+    }
+  ]
+}

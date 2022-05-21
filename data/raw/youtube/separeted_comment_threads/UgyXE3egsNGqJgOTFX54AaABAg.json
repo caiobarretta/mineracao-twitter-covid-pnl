@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Nyu4ZRdVHV7xZIpqjWngD_McrQw",
+  "id": "UgyXE3egsNGqJgOTFX54AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2cTyIEBZjAjoM4ff13jclfmTW6A",
+      "id": "UgyXE3egsNGqJgOTFX54AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Baita servi\u00e7o de informa\u00e7\u00e3o que voc\u00ea faz! \u00d3timo v\u00eddeo.",
+        "textOriginal": "Baita servi\u00e7o de informa\u00e7\u00e3o que voc\u00ea faz! \u00d3timo v\u00eddeo.",
+        "authorDisplayName": "overtheunknown",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTb3-lEVfOQ74oa6kuOEmjpLA9-YSjc_PJLGDTq4Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw-4BM_vOSx4Mrhoshb_Y3w",
+        "authorChannelId": {
+          "value": "UCw-4BM_vOSx4Mrhoshb_Y3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2020-11-03T00:59:50Z",
+        "updatedAt": "2020-11-03T00:59:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Tfd5uoyv1F06gKX2yxfJ26Fhjac",
+      "id": "UgyXE3egsNGqJgOTFX54AaABAg.9F_VrShSct79F_WnJs5Dc3",
+      "snippet": {
+        "textDisplay": "Valeu! manda pros amigos no zap ai pra ajudar a espalhar!",
+        "textOriginal": "Valeu! manda pros amigos no zap ai pra ajudar a espalhar!",
+        "parentId": "UgyXE3egsNGqJgOTFX54AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-03T01:08:01Z",
+        "updatedAt": "2020-11-03T01:08:01Z"
+      }
+    }
+  ]
+}

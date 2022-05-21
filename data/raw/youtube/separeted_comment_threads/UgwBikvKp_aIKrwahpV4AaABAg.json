@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1Z3xB4laoqMmHdOILEENiE1Tk3o",
+  "id": "UgwBikvKp_aIKrwahpV4AaABAg",
+  "snippet": {
+    "videoId": "sC8wzo_EHhU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "75XRACytuyyVEb7hWmVeZTRSQ1M",
+      "id": "UgwBikvKp_aIKrwahpV4AaABAg",
+      "snippet": {
+        "videoId": "sC8wzo_EHhU",
+        "textDisplay": "muito bom",
+        "textOriginal": "muito bom",
+        "authorDisplayName": "Andrey Paradela de Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5zHJbIWBRS1U3y9jqXzDsMc1Z1RbPkzvEQaO_2g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCif7NlI5-Fp4C9XJMjqk6-g",
+        "authorChannelId": {
+          "value": "UCif7NlI5-Fp4C9XJMjqk6-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-10-30T17:57:55Z",
+        "updatedAt": "2020-10-30T17:57:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "D3ovmyxK2lvxyw80c3bhBhdZuOw",
+      "id": "UgwBikvKp_aIKrwahpV4AaABAg.9FS1BanSaix9FSfUr_57mi",
+      "snippet": {
+        "textDisplay": "Obrigado, Andrey, j\u00e1 se inscreveu no canal, conhece nossos outros v\u00eddeos?",
+        "textOriginal": "Obrigado, Andrey, j\u00e1 se inscreveu no canal, conhece nossos outros v\u00eddeos?",
+        "parentId": "UgwBikvKp_aIKrwahpV4AaABAg",
+        "authorDisplayName": "seriesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gp0YrzhZiK7DjDlndzz-4d9sv_Z2ktfZ4yG_hLOc3ZOYNy5zEKdLcRGkrkgWsadOc8XJ9Wiliw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7p_rNpzJmlIQp2xFMMtk_g",
+        "authorChannelId": {
+          "value": "UC7p_rNpzJmlIQp2xFMMtk_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-30T23:58:49Z",
+        "updatedAt": "2020-10-30T23:58:49Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aMbJuNEJw7ruXb0o6ozZUAtTP3A",
+  "id": "UgxHddEfnvFZ0R8rATB4AaABAg",
+  "snippet": {
+    "videoId": "HTupMCzjHXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gDTtoQJNVqSFz2QIT0GbKbyYuTU",
+      "id": "UgxHddEfnvFZ0R8rATB4AaABAg",
+      "snippet": {
+        "videoId": "HTupMCzjHXM",
+        "textDisplay": "\u00d3timas quest\u00f5es errei todas",
+        "textOriginal": "\u00d3timas quest\u00f5es errei todas",
+        "authorDisplayName": "Let\u00edcia Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhI0AR2qg4Mf7hZlxXPlTzQa4ma4pdociqjKp2MA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFHY-eR4LVxtkeafVNUrNyQ",
+        "authorChannelId": {
+          "value": "UCFHY-eR4LVxtkeafVNUrNyQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-07-29T17:16:49Z",
+        "updatedAt": "2021-07-29T17:16:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EuMtSDhhUCmK0b5R-orlDOGRzTo",
+      "id": "UgxHddEfnvFZ0R8rATB4AaABAg.9QOKhX-xzgT9ZdScM5R_pZ",
+      "snippet": {
+        "textDisplay": "kkkk",
+        "textOriginal": "kkkk",
+        "parentId": "UgxHddEfnvFZ0R8rATB4AaABAg",
+        "authorDisplayName": "Kelly costa Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQftEbp7VXXzUULd-MiQ3Zbwt6KPzdToUPq=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnmJsVt6NUGoVcEbSeoBXGA",
+        "authorChannelId": {
+          "value": "UCnmJsVt6NUGoVcEbSeoBXGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-16T16:16:24Z",
+        "updatedAt": "2022-03-16T16:16:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MKwBN45558tXe19IR1qTHtqmjFw",
+      "id": "UgxHddEfnvFZ0R8rATB4AaABAg.9QOKhX-xzgT9QONvvZUf_R",
+      "snippet": {
+        "textDisplay": "kkkkkkk ",
+        "textOriginal": "kkkkkkk ",
+        "parentId": "UgxHddEfnvFZ0R8rATB4AaABAg",
+        "authorDisplayName": "Psicologia Nova",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR88QbmGqzDjU3AHyC1X3BFUyoZMVxhzvm90d1Hng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCExmnwF51FJgg8GGo6GWfVQ",
+        "authorChannelId": {
+          "value": "UCExmnwF51FJgg8GGo6GWfVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-29T17:44:59Z",
+        "updatedAt": "2021-07-29T17:44:59Z"
+      }
+    }
+  ]
+}

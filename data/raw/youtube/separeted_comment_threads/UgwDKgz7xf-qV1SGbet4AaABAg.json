@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gZf3qSVtrjXcwrQKc11T0akIGf4",
+  "id": "UgwDKgz7xf-qV1SGbet4AaABAg",
+  "snippet": {
+    "videoId": "zQaCquww9uk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0XL3IeAn9i3x0a2lEh1WTpMqcNU",
+      "id": "UgwDKgz7xf-qV1SGbet4AaABAg",
+      "snippet": {
+        "videoId": "zQaCquww9uk",
+        "textDisplay": "U\u00e9... e as vacinas? N\u00e3o deu muito certo? Ohhhh",
+        "textOriginal": "U\u00e9... e as vacinas? N\u00e3o deu muito certo? Ohhhh",
+        "authorDisplayName": "Soll",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIwffGnYbMiBGwwtMq_g_uP1CElXrqCqZVM9Hp=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyV31GEZsZf3PwggZooaYgQ",
+        "authorChannelId": {
+          "value": "UCyV31GEZsZf3PwggZooaYgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2022-04-27T02:34:20Z",
+        "updatedAt": "2022-04-27T02:34:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 5,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "qRCB5NN3tJ9qd7pKi16J_uDZH38",
+      "id": "UgwDKgz7xf-qV1SGbet4AaABAg.9aJ7w1IyvTB9aPay4aqYbA",
+      "snippet": {
+        "textDisplay": "claro que nao deram certo",
+        "textOriginal": "claro que nao deram certo",
+        "parentId": "UgwDKgz7xf-qV1SGbet4AaABAg",
+        "authorDisplayName": "Marrom",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AwEQxLlglBuS_ILqQnKVXpb2prVyfMBZ8QfK8wDrtaqvz0Ikt4yQ9Zf3SR7q5pjaIsbTI8_qvsU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5jE_74kz23ho90jDn5KbdQ",
+        "authorChannelId": {
+          "value": "UC5jE_74kz23ho90jDn5KbdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-04-29T14:52:12Z",
+        "updatedAt": "2022-04-29T14:52:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "JGLtFqB-CCDyILvVnNgTM74hdN8",
+      "id": "UgwDKgz7xf-qV1SGbet4AaABAg.9aJ7w1IyvTB9aKITl5Z_ON",
+      "snippet": {
+        "textDisplay": "Imaginem o eco que as vozes fazem nessa sua cabe\u00e7a. \ud83e\udd23",
+        "textOriginal": "Imaginem o eco que as vozes fazem nessa sua cabe\u00e7a. \ud83e\udd23",
+        "parentId": "UgwDKgz7xf-qV1SGbet4AaABAg",
+        "authorDisplayName": "Igor Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRC-oRYRk8OgcCGEm8cd64n9oaGPh_AIze5mc7X=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnTze_doOggHaw7soGEr7XA",
+        "authorChannelId": {
+          "value": "UCnTze_doOggHaw7soGEr7XA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-27T13:25:42Z",
+        "updatedAt": "2022-04-27T13:25:51Z"
+      }
+    }
+  ]
+}

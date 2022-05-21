@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3lNEH2KWYxeZ-QLdx0HWpOp0cO4",
+  "id": "UgyUdE9BiN2Chsaz0SZ4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "y9M8615kA2IMMLkSuminEa7JpS8",
+      "id": "UgyUdE9BiN2Chsaz0SZ4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Felipe vc est\u00e1 solteiro? Vc \u00e9 m\u00f3 gatinho",
+        "textOriginal": "Felipe vc est\u00e1 solteiro? Vc \u00e9 m\u00f3 gatinho",
+        "authorDisplayName": "Willian Vaniel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0t86fRq63p53EGsgFMXBrSHt89_Ott9Ybhr5xWYo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNfGH1hLTj2v7vdnvVPvB3w",
+        "authorChannelId": {
+          "value": "UCNfGH1hLTj2v7vdnvVPvB3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-02T23:18:57Z",
+        "updatedAt": "2020-11-02T23:18:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0qnSCzUTTuIjjp7WGU1kp7widY8",
+      "id": "UgyUdE9BiN2Chsaz0SZ4AaABAg.9F_KJZXT4x29F_MePE9KWX",
+      "snippet": {
+        "textDisplay": "@Felipe Durante vem de WeChat",
+        "textOriginal": "@Felipe Durante vem de WeChat",
+        "parentId": "UgyUdE9BiN2Chsaz0SZ4AaABAg",
+        "authorDisplayName": "Willian Vaniel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0t86fRq63p53EGsgFMXBrSHt89_Ott9Ybhr5xWYo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNfGH1hLTj2v7vdnvVPvB3w",
+        "authorChannelId": {
+          "value": "UCNfGH1hLTj2v7vdnvVPvB3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-02T23:39:25Z",
+        "updatedAt": "2020-11-02T23:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "KPsJlJ6650OY_dgkKe8jGNV75AE",
+      "id": "UgyUdE9BiN2Chsaz0SZ4AaABAg.9F_KJZXT4x29F_LcVywnTb",
+      "snippet": {
+        "textDisplay": "Brigado!",
+        "textOriginal": "Brigado!",
+        "parentId": "UgyUdE9BiN2Chsaz0SZ4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-11-02T23:30:25Z",
+        "updatedAt": "2020-11-02T23:30:25Z"
+      }
+    }
+  ]
+}

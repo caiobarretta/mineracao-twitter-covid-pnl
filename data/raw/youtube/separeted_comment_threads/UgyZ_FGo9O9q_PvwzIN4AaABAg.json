@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Bbrz3CeqWaQplwFAJE8dAceI-zU",
+  "id": "UgyZ_FGo9O9q_PvwzIN4AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lB482PjYJxOXo_3ypGsp5W-nZMI",
+      "id": "UgyZ_FGo9O9q_PvwzIN4AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Que maravilha esclarecedor  muito bom. Amei",
+        "textOriginal": "Que maravilha esclarecedor  muito bom. Amei",
+        "authorDisplayName": "Urides Furquim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPcwqguXGnF7T5SNv1nT1Ga7QRlREiOQVp7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC25OkNyV5GviAADhiYxMsDA",
+        "authorChannelId": {
+          "value": "UC25OkNyV5GviAADhiYxMsDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-27T00:22:51Z",
+        "updatedAt": "2020-10-27T00:22:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "L5JPLSlXrgrltQ_gFL85QhyZRlg",
+      "id": "UgyZ_FGo9O9q_PvwzIN4AaABAg.9FIQ3OiZXjq9FJyp9znUMe",
+      "snippet": {
+        "textDisplay": "Opa, que bom que gostou!",
+        "textOriginal": "Opa, que bom que gostou!",
+        "parentId": "UgyZ_FGo9O9q_PvwzIN4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-27T14:54:35Z",
+        "updatedAt": "2020-10-27T14:54:35Z"
+      }
+    }
+  ]
+}

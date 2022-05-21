@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ydfylc92M6XZFEE4QsY-g22taIM",
+  "id": "UgjswaPk7hJKLXgCoAEC",
+  "snippet": {
+    "videoId": "UsKb1z8f2iE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GRHq78RxTX3He8GxYLwSE7HwF3o",
+      "id": "UgjswaPk7hJKLXgCoAEC",
+      "snippet": {
+        "videoId": "UsKb1z8f2iE",
+        "textDisplay": "Iskreno mogli ste i bolje malo jaci ritam",
+        "textOriginal": "Iskreno mogli ste i bolje malo jaci ritam",
+        "authorDisplayName": "Veljko Radovanovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeH8rwi8eQVzSUmKgajqU5ZqaKY0RWv7KF6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuDkjjOiE-zvzlDkYq5BJYQ",
+        "authorChannelId": {
+          "value": "UCuDkjjOiE-zvzlDkYq5BJYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2015-07-27T20:07:47Z",
+        "updatedAt": "2015-07-27T20:07:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RTmkin7hYIh7QFEBDP1vgGm2qKk",
+      "id": "UgjswaPk7hJKLXgCoAEC.827GCwarBzV8Tu_-Bc_7K8",
+      "snippet": {
+        "textDisplay": "Veljko Radovanovic O\u010digledno se vidi da ne ceni\u0161 tu\u0111i trud....",
+        "textOriginal": "Veljko Radovanovic O\u010digledno se vidi da ne ceni\u0161 tu\u0111i trud....",
+        "parentId": "UgjswaPk7hJKLXgCoAEC",
+        "authorDisplayName": "Vesna Stojkovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3h9OfOvZ5MZ3dBFwJ0JClKNwt_0wY5gJjCg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCif7f8cxKIlT3OSQ0UjWeyQ",
+        "authorChannelId": {
+          "value": "UCif7f8cxKIlT3OSQ0UjWeyQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2017-06-17T11:10:20Z",
+        "updatedAt": "2017-06-17T11:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "zH1kyLdULlPcGjqK-vVdpw9Ea-k",
+      "id": "UgjswaPk7hJKLXgCoAEC.827GCwarBzV7-iQJam1s0S",
+      "snippet": {
+        "textDisplay": "@Veljko Zivkovic dali sam ja postavio tu pesmu? ",
+        "textOriginal": "@Veljko Zivkovic dali sam ja postavio tu pesmu? ",
+        "parentId": "UgjswaPk7hJKLXgCoAEC",
+        "authorDisplayName": "Veljko Radovanovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeH8rwi8eQVzSUmKgajqU5ZqaKY0RWv7KF6g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuDkjjOiE-zvzlDkYq5BJYQ",
+        "authorChannelId": {
+          "value": "UCuDkjjOiE-zvzlDkYq5BJYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2015-08-07T20:51:35Z",
+        "updatedAt": "2015-08-07T20:51:35Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Q3qVzruec3jQR4F998asL7OrlbQ",
+  "id": "UgwenBfhnbJjkAmALtN4AaABAg",
+  "snippet": {
+    "videoId": "mWZsEHQK3Wc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MDTOsvLsuqPw39xntvxJ3IIBn4A",
+      "id": "UgwenBfhnbJjkAmALtN4AaABAg",
+      "snippet": {
+        "videoId": "mWZsEHQK3Wc",
+        "textDisplay": "Que Dios los proteja",
+        "textOriginal": "Que Dios los proteja",
+        "authorDisplayName": "Roger Balajar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJTxbb3D-0URzAS9B0qcwZdNAiDFkKIOLKbHUK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8RvkUyszgXST_6J0U_zgRg",
+        "authorChannelId": {
+          "value": "UC8RvkUyszgXST_6J0U_zgRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-15T21:36:25Z",
+        "updatedAt": "2022-05-15T21:36:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "km6rOFXqhfHN7zqyBVtRQVkV3jk",
+      "id": "UgwenBfhnbJjkAmALtN4AaABAg.9b3WwhycGlj9b7P5aOUgqo",
+      "snippet": {
+        "textDisplay": "Am\u00e9n \ud83d\ude4f",
+        "textOriginal": "Am\u00e9n \ud83d\ude4f",
+        "parentId": "UgwenBfhnbJjkAmALtN4AaABAg",
+        "authorDisplayName": "Eri Vera",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXpyYh8CR-z2US3a1GUNO63Laipv2iWumKsymr3xiPUq4KBVrGAc96VESU37Bz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQFrF1dbjNqxQCdaQcFrDJw",
+        "authorChannelId": {
+          "value": "UCQFrF1dbjNqxQCdaQcFrDJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-17T09:44:50Z",
+        "updatedAt": "2022-05-17T09:44:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ni0q_Z2cws6sYxhMuLmqNrDvCE4",
+  "id": "UgzIXN0_CrFTWz5j7EJ4AaABAg",
+  "snippet": {
+    "videoId": "xCp9zEHJp_s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kOneyuJfdQvi7JHM6L-kObNya_4",
+      "id": "UgzIXN0_CrFTWz5j7EJ4AaABAg",
+      "snippet": {
+        "videoId": "xCp9zEHJp_s",
+        "textDisplay": "Muito bom, parab\u00e9ns!!",
+        "textOriginal": "Muito bom, parab\u00e9ns!!",
+        "authorDisplayName": "Jesse Silva Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZCmFkhXdsLJbd9GDavSSLTbcDLiX6lf7fAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwJ7fJngb6W7-OuY2WvamEQ",
+        "authorChannelId": {
+          "value": "UCwJ7fJngb6W7-OuY2WvamEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-25T12:15:00Z",
+        "updatedAt": "2020-02-25T12:15:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SnUKxg7T19fZceJd4QQNxMClxA4",
+      "id": "UgzIXN0_CrFTWz5j7EJ4AaABAg.95Spo19ftyM95TmAWe3KEG",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\u270d\ud83c\udffc\ud83e\udd70",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\u270d\ud83c\udffc\ud83e\udd70",
+        "parentId": "UgzIXN0_CrFTWz5j7EJ4AaABAg",
+        "authorDisplayName": "Anii G.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhxqycWDcJ3oSObILaW4fUQnOKaU0Z8VvVeJ6XTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq8ChnGCYMVCzDgGMK9e91A",
+        "authorChannelId": {
+          "value": "UCq8ChnGCYMVCzDgGMK9e91A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-25T21:02:30Z",
+        "updatedAt": "2020-02-25T21:02:30Z"
+      }
+    }
+  ]
+}

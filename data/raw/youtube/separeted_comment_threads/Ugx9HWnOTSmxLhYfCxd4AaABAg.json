@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QoqlzoCLR8shpmN3F3yVHI_pYMU",
+  "id": "Ugx9HWnOTSmxLhYfCxd4AaABAg",
+  "snippet": {
+    "videoId": "mSceG-_G0t8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AR4M1eo0BqOJD92Su7wufMFyM6c",
+      "id": "Ugx9HWnOTSmxLhYfCxd4AaABAg",
+      "snippet": {
+        "videoId": "mSceG-_G0t8",
+        "textDisplay": "Tomar ch\u00e1 de boldo",
+        "textOriginal": "Tomar ch\u00e1 de boldo",
+        "authorDisplayName": "Matheus Biebe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0h3_AVSKMroEPcK7MhigsyfHp01Vc5PmlevVreZsGBygZwT66FiwdsNMZvz-7Sl4J24-xGIQEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClTNOY8aqWDoIxk6_xKu2DA",
+        "authorChannelId": {
+          "value": "UClTNOY8aqWDoIxk6_xKu2DA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-11-22T05:57:37Z",
+        "updatedAt": "2020-11-22T05:57:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tAAgI7JFSLiVtMRFyc7HoveAlzM",
+      "id": "Ugx9HWnOTSmxLhYfCxd4AaABAg.9GLy24Phxbp9TvglaSoOmR",
+      "snippet": {
+        "textDisplay": "Boldo \u00e9 pro f\u00edgado",
+        "textOriginal": "Boldo \u00e9 pro f\u00edgado",
+        "parentId": "Ugx9HWnOTSmxLhYfCxd4AaABAg",
+        "authorDisplayName": "S\u00f4nia Aparecida da Silva Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUSkvMWg8H_Gti_Pe1uFC71emGMVvki58jvA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHs67ixInGAxZ0_oY89qELA",
+        "authorChannelId": {
+          "value": "UCHs67ixInGAxZ0_oY89qELA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-25T15:06:42Z",
+        "updatedAt": "2021-10-25T15:06:42Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "YHtR0BqXbk3bYw1MXT_8Y5Uj9_k",
+      "id": "Ugx9HWnOTSmxLhYfCxd4AaABAg.9GLy24Phxbp9O8LI1nUavb",
+      "snippet": {
+        "textDisplay": "Esse \u00e9  o melhor . ... muita gente curada aqui aonde moro.",
+        "textOriginal": "Esse \u00e9  o melhor . ... muita gente curada aqui aonde moro.",
+        "parentId": "Ugx9HWnOTSmxLhYfCxd4AaABAg",
+        "authorDisplayName": "junior silva Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAWyDVQYD-HqBBgXIp2Q0BI76HqhfKzPHo1SsxPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC80P0WD9DZhmAXSOcq1hMUQ",
+        "authorChannelId": {
+          "value": "UC80P0WD9DZhmAXSOcq1hMUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-03T19:11:18Z",
+        "updatedAt": "2021-06-03T19:11:18Z"
+      }
+    }
+  ]
+}

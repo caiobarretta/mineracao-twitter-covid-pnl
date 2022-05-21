@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-Ir6KIj5fsXAGRTyw4hLyL7zCoM",
+  "id": "UgyNYhL8hSJHJM75h3l4AaABAg",
+  "snippet": {
+    "videoId": "mSceG-_G0t8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "G1TOPMnv-j8WXZ6XIka-42P6mhA",
+      "id": "UgyNYhL8hSJHJM75h3l4AaABAg",
+      "snippet": {
+        "videoId": "mSceG-_G0t8",
+        "textDisplay": "Excelente explica\u00e7\u00e3o",
+        "textOriginal": "Excelente explica\u00e7\u00e3o",
+        "authorDisplayName": "erick santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIWbVEKeDFXN5hCi3brb9bZPMSoHWx0b2Siw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCx9D09SBWdRTt1Vq6hxXhRQ",
+        "authorChannelId": {
+          "value": "UCx9D09SBWdRTt1Vq6hxXhRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-23T20:27:14Z",
+        "updatedAt": "2021-06-23T20:27:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cLX625ijPL3lX6IA4tbGnO_t5ss",
+      "id": "UgyNYhL8hSJHJM75h3l4AaABAg.9OwysfYhR2E9YZP4B5FNyN",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgyNYhL8hSJHJM75h3l4AaABAg",
+        "authorDisplayName": "Adriana messiaa De matos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTz2-nc7K-C_LqrTgmEKEBXOV3dkMSGJuntpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKdamXVEfqWOU0weSIuv8Wg",
+        "authorChannelId": {
+          "value": "UCKdamXVEfqWOU0weSIuv8Wg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-17T20:37:48Z",
+        "updatedAt": "2022-02-17T20:37:48Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MayImXfaVqgpc2tDDSvqbMUolAM",
+      "id": "UgyNYhL8hSJHJM75h3l4AaABAg.9OwysfYhR2E9Qq3RdHBcuY",
+      "snippet": {
+        "textDisplay": "Espero ter ajudado",
+        "textOriginal": "Espero ter ajudado",
+        "parentId": "UgyNYhL8hSJHJM75h3l4AaABAg",
+        "authorDisplayName": "Unesc TV",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/OLkeFCz8n7G_QW17kP9_OwYd4msc43Auw5-Y3XD77t7l_24lWZUBoG5P5QwACnUc8ZFpymwb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXS9StZfctFfZxbuzttkIHA",
+        "authorChannelId": {
+          "value": "UCXS9StZfctFfZxbuzttkIHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-09T21:03:56Z",
+        "updatedAt": "2021-08-09T21:03:56Z"
+      }
+    }
+  ]
+}

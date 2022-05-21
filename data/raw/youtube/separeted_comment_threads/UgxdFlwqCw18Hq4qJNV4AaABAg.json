@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H1V1T7ZsKZiyLgg1nLwPnnNscw4",
+  "id": "UgxdFlwqCw18Hq4qJNV4AaABAg",
+  "snippet": {
+    "videoId": "Hj4K-twu5sQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "O5pZaw_ZCvDoVwUZiKm-0X6bkEs",
+      "id": "UgxdFlwqCw18Hq4qJNV4AaABAg",
+      "snippet": {
+        "videoId": "Hj4K-twu5sQ",
+        "textDisplay": "Muito bom!!! Vcs t\u00eam v\u00eddeos ou apostilas com quest\u00f5es espec\u00edficas para o cargo de T\u00e9cnico superior bi\u00f3logo?",
+        "textOriginal": "Muito bom!!! Vcs t\u00eam v\u00eddeos ou apostilas com quest\u00f5es espec\u00edficas para o cargo de T\u00e9cnico superior bi\u00f3logo?",
+        "authorDisplayName": "S\u00e9rgio Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/in0xuuGMl1cWSrcMiAfY7uBlxMeLRbgYSkTZ9m1Dzo2prkSR8Erhw3tylMl4Av2ZRPkcJNkSzg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWl5paNOFlDuFqguGVTxNZQ",
+        "authorChannelId": {
+          "value": "UCWl5paNOFlDuFqguGVTxNZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-31T05:30:57Z",
+        "updatedAt": "2021-01-31T05:30:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H9HJ4c6JuY7cPWqx1g_cVaLCGuE",
+      "id": "UgxdFlwqCw18Hq4qJNV4AaABAg.9JA9d-Uqxya9JBAEucf3IM",
+      "snippet": {
+        "textDisplay": "Em breve terei apostila de exerc\u00edcios para bi\u00f3logo!",
+        "textOriginal": "Em breve terei apostila de exerc\u00edcios para bi\u00f3logo!",
+        "parentId": "UgxdFlwqCw18Hq4qJNV4AaABAg",
+        "authorDisplayName": "Eldon Queres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3qVIZBhwYcCBNl5C2eKJ50aXmv7dGUMcljsXtLDsoTsUrWRsjKbHRRCrKagVrbUUlSYbb5qUjQ4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdVwnuxr7y3WZnYPZn_uqmw",
+        "authorChannelId": {
+          "value": "UCdVwnuxr7y3WZnYPZn_uqmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-31T14:55:30Z",
+        "updatedAt": "2021-01-31T14:55:30Z"
+      }
+    }
+  ]
+}

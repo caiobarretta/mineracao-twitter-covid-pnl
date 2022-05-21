@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "clTndlxYf0axr3YLFlADP97PoN4",
+  "id": "UgxIUwJgxlS-MnMI2Xd4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TAvwzSiE4ZxWzvjsiYOscsytZFU",
+      "id": "UgxIUwJgxlS-MnMI2Xd4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Melhor canal! s2",
+        "textOriginal": "Melhor canal! s2",
+        "authorDisplayName": "Caio F\u00e1bio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vW5h4CX1kLpoL_aFzB1spcdzM0cAZCuMly3piouGk2KBV0xTak3voy8aFTn3fjg2kEUKm5kINSk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpXny60Lpb_kWQCSLt9Ai7w",
+        "authorChannelId": {
+          "value": "UCpXny60Lpb_kWQCSLt9Ai7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-07-10T19:48:58Z",
+        "updatedAt": "2020-07-10T19:48:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bDQIFimoTu7_7CFjDvcm7QJCVzE",
+      "id": "UgxIUwJgxlS-MnMI2Xd4AaABAg.9AwprzunJqx9BNktK-s5nV",
+      "snippet": {
+        "textDisplay": "Obrigada",
+        "textOriginal": "Obrigada",
+        "parentId": "UgxIUwJgxlS-MnMI2Xd4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-21T16:04:12Z",
+        "updatedAt": "2020-07-21T16:04:12Z"
+      }
+    }
+  ]
+}

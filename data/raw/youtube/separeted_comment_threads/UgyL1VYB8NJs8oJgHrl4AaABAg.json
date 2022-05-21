@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kSYpA9n5vygCXAhhZ4yUjy-Kp0M",
+  "id": "UgyL1VYB8NJs8oJgHrl4AaABAg",
+  "snippet": {
+    "videoId": "Kuj0TFj_e0U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6rxBNTKPkbtOGdksJVQhcsp4fIQ",
+      "id": "UgyL1VYB8NJs8oJgHrl4AaABAg",
+      "snippet": {
+        "videoId": "Kuj0TFj_e0U",
+        "textDisplay": "Jogada pol\u00edtica tudo marmota",
+        "textOriginal": "Jogada pol\u00edtica tudo marmota",
+        "authorDisplayName": "Leandro Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYxEz1k__4IX_1YINMNrei7VfV4BaM_IXq-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKARSQho9CYkZzLOdG1JiEg",
+        "authorChannelId": {
+          "value": "UCKARSQho9CYkZzLOdG1JiEg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-20T15:32:55Z",
+        "updatedAt": "2022-05-20T15:32:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UcCfWzLXd-sFbPs3Gvv-uPH7JKk",
+      "id": "UgyL1VYB8NJs8oJgHrl4AaABAg.9bFkJibbia-9bGFHw3zsOg",
+      "snippet": {
+        "textDisplay": "Diga isso ent\u00e3o para as fam\u00edlias e amigos vitimas da doen\u00e7a ent\u00e3o.Duvido vc ter essa coragem.Duvido eles n\u00e3o te xingarem e querem bater em voc\u00ea.",
+        "textOriginal": "Diga isso ent\u00e3o para as fam\u00edlias e amigos vitimas da doen\u00e7a ent\u00e3o.Duvido vc ter essa coragem.Duvido eles n\u00e3o te xingarem e querem bater em voc\u00ea.",
+        "parentId": "UgyL1VYB8NJs8oJgHrl4AaABAg",
+        "authorDisplayName": "Espartano X",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJrHKnzKM-jUMQI7Ipvb3b6hcEDCnH4RxtIUPpjXM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLaYc8YIKBM9at34HsLzPMA",
+        "authorChannelId": {
+          "value": "UCLaYc8YIKBM9at34HsLzPMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T20:12:18Z",
+        "updatedAt": "2022-05-20T20:12:18Z"
+      }
+    }
+  ]
+}

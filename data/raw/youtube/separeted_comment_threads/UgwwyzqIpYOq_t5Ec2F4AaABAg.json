@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GletqxigMof1tiWrSFA1lJbubRE",
+  "id": "UgwwyzqIpYOq_t5Ec2F4AaABAg",
+  "snippet": {
+    "videoId": "mwaaY2S-ZMw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bQegs8qHLrxEJZAKu9HRuhh6eX8",
+      "id": "UgwwyzqIpYOq_t5Ec2F4AaABAg",
+      "snippet": {
+        "videoId": "mwaaY2S-ZMw",
+        "textDisplay": "Guerra mundial z vem a\u00ed",
+        "textOriginal": "Guerra mundial z vem a\u00ed",
+        "authorDisplayName": "um monte de gente",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F2VO4q6QE7LqjJUFshcrKOJlMLqfyGBBgssltxIZph66As_NS4pP6KR376IZT4VXQrtaO7laEA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1JfD7lOY9chYndAi5w2lQQ",
+        "authorChannelId": {
+          "value": "UC1JfD7lOY9chYndAi5w2lQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-01-22T23:21:50Z",
+        "updatedAt": "2020-01-22T23:21:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B5urZo7jGdBWwbD8i23oOf9IdJ0",
+      "id": "UgwwyzqIpYOq_t5Ec2F4AaABAg.946U5E5HTPd946YE7IH09i",
+      "snippet": {
+        "textDisplay": "Nunca seria possivel",
+        "textOriginal": "Nunca seria possivel",
+        "parentId": "UgwwyzqIpYOq_t5Ec2F4AaABAg",
+        "authorDisplayName": "Jk 2106",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRT6jcPC25QlzCMkOI23Q8qP73cbWDeQ7qAAFUFaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWvkvMGfg49a-fg24Fj6POQ",
+        "authorChannelId": {
+          "value": "UCWvkvMGfg49a-fg24Fj6POQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-01-22T23:58:00Z",
+        "updatedAt": "2020-01-22T23:58:00Z"
+      }
+    }
+  ]
+}

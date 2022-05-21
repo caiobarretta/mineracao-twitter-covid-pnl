@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8Rblsx-WiYDpLQs9R3oVGg39f9E",
+  "id": "UgzMyD4ZB9giel204ll4AaABAg",
+  "snippet": {
+    "videoId": "9iJ1jEqn_fU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NHJPfbw0Ka9P5EPGkRjXJZ1qBGE",
+      "id": "UgzMyD4ZB9giel204ll4AaABAg",
+      "snippet": {
+        "videoId": "9iJ1jEqn_fU",
+        "textDisplay": "Oooh Gl\u00f3ria",
+        "textOriginal": "Oooh Gl\u00f3ria",
+        "authorDisplayName": "Fernando Sanabria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_fsCTGtwm_49FC9SZ2bUNMBAQ_QQhcqPCZQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9S83I6V9PNhpeR1hVSV_hQ",
+        "authorChannelId": {
+          "value": "UC9S83I6V9PNhpeR1hVSV_hQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-01-13T02:55:25Z",
+        "updatedAt": "2022-01-13T02:55:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "f45GHCt4aJ_mZztL3D5xur8YT1c",
+      "id": "UgzMyD4ZB9giel204ll4AaABAg.9X7NfXIg_jY9XMN40aPsgQ",
+      "snippet": {
+        "textDisplay": "Am\u00e9m , que Deus tenha miseric\u00f3rdia de n\u00f3s e consigamos ser seres humanos melhores .",
+        "textOriginal": "Am\u00e9m , que Deus tenha miseric\u00f3rdia de n\u00f3s e consigamos ser seres humanos melhores .",
+        "parentId": "UgzMyD4ZB9giel204ll4AaABAg",
+        "authorDisplayName": "Deus \u00e9 o segredo .",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/DXzcnHuXSXr3MJ8hszVa3aXLr0D-I9RAER6EDtMWdKqR7g6N3E9lQxCdeIACfmluF0SczzxgGqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChQC1cOU5P2UzZNbfUGoKLw",
+        "authorChannelId": {
+          "value": "UChQC1cOU5P2UzZNbfUGoKLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T22:38:46Z",
+        "updatedAt": "2022-01-18T22:38:46Z"
+      }
+    }
+  ]
+}

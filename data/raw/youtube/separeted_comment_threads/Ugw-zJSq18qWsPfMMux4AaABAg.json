@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Aph3-CZgrXXVrmp9Y0oaru_MgLU",
+  "id": "Ugw-zJSq18qWsPfMMux4AaABAg",
+  "snippet": {
+    "videoId": "B93uZPvThKc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RgsaUpe7rAzZFim8xs3216OsD_0",
+      "id": "Ugw-zJSq18qWsPfMMux4AaABAg",
+      "snippet": {
+        "videoId": "B93uZPvThKc",
+        "textDisplay": "Imagine just having a regular day of work at the hospital, you\u2019re exhausted, and then your patient\u2019s dying words are I have a new deadly pneumonia.",
+        "textOriginal": "Imagine just having a regular day of work at the hospital, you\u2019re exhausted, and then your patient\u2019s dying words are I have a new deadly pneumonia.",
+        "authorDisplayName": "Charlie C",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKNWBrCA0y1_KZ7LLUTIVVixi4snkS8swjTVbwTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb_p7g4i4I379UX6639KQFg",
+        "authorChannelId": {
+          "value": "UCb_p7g4i4I379UX6639KQFg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 41,
+        "publishedAt": "2020-01-26T01:06:13Z",
+        "updatedAt": "2020-01-26T01:06:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SbvjP7WXpUkyHVJK_rcpqkQtW6U",
+      "id": "Ugw-zJSq18qWsPfMMux4AaABAg.94EOQNS7xX094jQCvVWdFo",
+      "snippet": {
+        "textDisplay": "Charlie C hello",
+        "textOriginal": "Charlie C hello",
+        "parentId": "Ugw-zJSq18qWsPfMMux4AaABAg",
+        "authorDisplayName": "SahilKhan OzTurrk",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0r4Yk0C6LvqshHPUDp99uv2psK_m6AF2Tww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClDKibDQwz3VKlCr11pyscg",
+        "authorChannelId": {
+          "value": "UClDKibDQwz3VKlCr11pyscg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-07T11:37:33Z",
+        "updatedAt": "2020-02-07T11:37:33Z"
+      }
+    }
+  ]
+}

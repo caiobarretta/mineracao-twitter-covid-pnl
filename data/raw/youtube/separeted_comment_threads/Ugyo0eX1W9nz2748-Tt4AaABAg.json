@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3CdYO6tTPH-GY_4BAHFINT3uHTE",
+  "id": "Ugyo0eX1W9nz2748-Tt4AaABAg",
+  "snippet": {
+    "videoId": "j5zwWPGWOWU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hSF9ttGTk7pZ-uf6b0WwXNzshCw",
+      "id": "Ugyo0eX1W9nz2748-Tt4AaABAg",
+      "snippet": {
+        "videoId": "j5zwWPGWOWU",
+        "textDisplay": "Uraaaa",
+        "textOriginal": "Uraaaa",
+        "authorDisplayName": "Ali Usnadi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHEroUhgoEhQv7aJpp5aMUlT8vfRX64lc9tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoh0EWwRP43-pt492XikB4g",
+        "authorChannelId": {
+          "value": "UCoh0EWwRP43-pt492XikB4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T13:10:55Z",
+        "updatedAt": "2022-05-21T13:10:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KfDZjSLGb6q6PNut3Zz5ygJv7wA",
+      "id": "Ugyo0eX1W9nz2748-Tt4AaABAg.9bI3rZ9AGBO9bI5MhgGqXQ",
+      "snippet": {
+        "textDisplay": "Di hapus aja",
+        "textOriginal": "Di hapus aja",
+        "parentId": "Ugyo0eX1W9nz2748-Tt4AaABAg",
+        "authorDisplayName": "Tes Sajo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJKCtMZVPUP72L3prvIGCo9V-BPi5XNBJ8LcrF9QBDIimoYsDfCk6txTiskIty=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRCU5d0zj0ekss8ouV40R7Q",
+        "authorChannelId": {
+          "value": "UCRCU5d0zj0ekss8ouV40R7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T13:24:03Z",
+        "updatedAt": "2022-05-21T13:24:03Z"
+      }
+    }
+  ]
+}

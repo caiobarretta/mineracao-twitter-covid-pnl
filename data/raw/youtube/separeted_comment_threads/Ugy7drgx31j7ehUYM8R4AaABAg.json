@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WL_t7bA_DULT0wbabKbEFr3EYU4",
+  "id": "Ugy7drgx31j7ehUYM8R4AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6Zk3BT_1zScHqLP25qNqxzANpO8",
+      "id": "Ugy7drgx31j7ehUYM8R4AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "Canal top!",
+        "textOriginal": "Canal top!",
+        "authorDisplayName": "Zenilda Florencio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMAPCSXj1xzYzsK_Eqn5KqqK7E1hy7PCuUpg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WWd1gGVB76r37yR0UFSVg",
+        "authorChannelId": {
+          "value": "UC2WWd1gGVB76r37yR0UFSVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-06-21T01:14:07Z",
+        "updatedAt": "2020-06-21T01:14:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "M0Pnyecfdd9tCizW-XKVuZDH1-w",
+      "id": "Ugy7drgx31j7ehUYM8R4AaABAg.9A8vAvvKXXw9AIIyDCjliD",
+      "snippet": {
+        "textDisplay": "Obrigado Zenilda",
+        "textOriginal": "Obrigado Zenilda",
+        "parentId": "Ugy7drgx31j7ehUYM8R4AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-24T16:43:52Z",
+        "updatedAt": "2020-06-24T16:43:52Z"
+      }
+    }
+  ]
+}

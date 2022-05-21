@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iEUwQyIgJozC0ro-WmiFuXhEg00",
+  "id": "UgwX2ObaHqdWTPPQl8h4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5mpyB1nm---aBlxFC6R_HUlJrw0",
+      "id": "UgwX2ObaHqdWTPPQl8h4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "Obrigada, professor Al\u00ea!",
+        "textOriginal": "Obrigada, professor Al\u00ea!",
+        "authorDisplayName": "Ori Pombal Franco",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1-LW0V-E9Glz5HgimPlDopDbCNYauVRqaO19phvU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeYlLRx1C07qdgBqBQWu74Q",
+        "authorChannelId": {
+          "value": "UCeYlLRx1C07qdgBqBQWu74Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-05T19:02:13Z",
+        "updatedAt": "2022-02-05T19:02:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8q9PHwLNeldzP14Yyi3g5ulCNDM",
+      "id": "UgwX2ObaHqdWTPPQl8h4AaABAg.9Y4Kabi5lXu9Y956fRX2xn",
+      "snippet": {
+        "textDisplay": "Ori, eu que agrade\u00e7o! \u263a\ufe0f",
+        "textOriginal": "Ori, eu que agrade\u00e7o! \u263a\ufe0f",
+        "parentId": "UgwX2ObaHqdWTPPQl8h4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-07T15:23:07Z",
+        "updatedAt": "2022-02-07T15:23:07Z"
+      }
+    }
+  ]
+}

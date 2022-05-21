@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HT3eI1rdnE1YVLP46-kBOI858Dc",
+  "id": "UgzI1msYSO6B1pmD0C14AaABAg",
+  "snippet": {
+    "videoId": "2l2FkU006bU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0bxelXwEq6Co4Y9DdKhx9PJqDqU",
+      "id": "UgzI1msYSO6B1pmD0C14AaABAg",
+      "snippet": {
+        "videoId": "2l2FkU006bU",
+        "textDisplay": "Muito obrigada Dr.  pelas informa\u00e7\u00f5es esclarecedoras.",
+        "textOriginal": "Muito obrigada Dr.  pelas informa\u00e7\u00f5es esclarecedoras.",
+        "authorDisplayName": "Yolanda Aguiar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYax3bIeTEh2k-1qaGXX5QwLL_zkNTgF8y23_6Tg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAhTPjJ--NNxrV16d5pSMsA",
+        "authorChannelId": {
+          "value": "UCAhTPjJ--NNxrV16d5pSMsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-08-02T17:38:54Z",
+        "updatedAt": "2020-08-02T17:38:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VeAUEvrFAMjnjzynWnwjpwGeWYk",
+      "id": "UgzI1msYSO6B1pmD0C14AaABAg.9BrpGQN-Ulr9Wol0waxMvF",
+      "snippet": {
+        "textDisplay": "Cuidado enlouquecer",
+        "textOriginal": "Cuidado enlouquecer",
+        "parentId": "UgzI1msYSO6B1pmD0C14AaABAg",
+        "authorDisplayName": "Leandro Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmDkR_MLYX7JAUpqmHm08-u68DN64vabwqROMhGH51Z-csbdGdU6bu6GODfQDO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_J4Hl9zKAftEmLCpMiOd-Q",
+        "authorChannelId": {
+          "value": "UC_J4Hl9zKAftEmLCpMiOd-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-05T12:03:23Z",
+        "updatedAt": "2022-01-05T12:03:23Z"
+      }
+    }
+  ]
+}

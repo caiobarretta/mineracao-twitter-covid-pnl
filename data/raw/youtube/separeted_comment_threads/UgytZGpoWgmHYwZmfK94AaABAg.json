@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0LI5an_5Wg0UDlVqc45F_PCu180",
+  "id": "UgytZGpoWgmHYwZmfK94AaABAg",
+  "snippet": {
+    "videoId": "BWbDwsHkM9A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "i1D9Wp5Ki_eYzUTMTwvPGfRkYPQ",
+      "id": "UgytZGpoWgmHYwZmfK94AaABAg",
+      "snippet": {
+        "videoId": "BWbDwsHkM9A",
+        "textDisplay": "N\u00e3o estou te achando no insta. Bjo",
+        "textOriginal": "N\u00e3o estou te achando no insta. Bjo",
+        "authorDisplayName": "Jennifer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/0Up70TsLl2qW2raFyGrXyTrWXxMlrdD9maj3SC-Hz_mJYQ_Hcg_3liGw9xsEPZ98kQ8Toovgtnw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCba7fqqYLRDJZJK1F4Iro4g",
+        "authorChannelId": {
+          "value": "UCba7fqqYLRDJZJK1F4Iro4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-08T10:56:28Z",
+        "updatedAt": "2022-05-08T10:56:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QZhoUi4PDDzOoIzK-aO4SC658eY",
+      "id": "UgytZGpoWgmHYwZmfK94AaABAg.9alM8P-Ic1P9b83xSu9_Zi",
+      "snippet": {
+        "textDisplay": "Clica no link do perfil \ud83d\udc95",
+        "textOriginal": "Clica no link do perfil \ud83d\udc95",
+        "parentId": "UgytZGpoWgmHYwZmfK94AaABAg",
+        "authorDisplayName": "Digo E Jess",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bhOjKwgHhyhKPNK5mKhkOJghJgWlIM-aeN7JEn_ilG4xeqQQYVNkMG_CiHOF3IW5Gn7Rv4Gc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPVeRPtTc61l5ykcihUGArA",
+        "authorChannelId": {
+          "value": "UCPVeRPtTc61l5ykcihUGArA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T15:59:19Z",
+        "updatedAt": "2022-05-17T15:59:19Z"
+      }
+    }
+  ]
+}

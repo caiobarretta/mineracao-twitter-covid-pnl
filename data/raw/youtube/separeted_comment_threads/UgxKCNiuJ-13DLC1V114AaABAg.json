@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "71aXs0qLPFzIRT3rInfdZshZd4s",
+  "id": "UgxKCNiuJ-13DLC1V114AaABAg",
+  "snippet": {
+    "videoId": "Nw1Q3O9t5zQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xlvsDbD0Edr5-Tf3Ymh60BDA4fI",
+      "id": "UgxKCNiuJ-13DLC1V114AaABAg",
+      "snippet": {
+        "videoId": "Nw1Q3O9t5zQ",
+        "textDisplay": "Yes they can. They have icbm remember.",
+        "textOriginal": "Yes they can. They have icbm remember.",
+        "authorDisplayName": "Z - Juan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS890R2qhZLzYQFSB4LUWShXYV4T9gcStY-9Wgw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtFT4u4G0ZzjxKkR1wbs3Kg",
+        "authorChannelId": {
+          "value": "UCtFT4u4G0ZzjxKkR1wbs3Kg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T10:06:10Z",
+        "updatedAt": "2022-05-17T10:06:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rFAMiB6-gdEx70W_zChRYv7bCng",
+      "id": "UgxKCNiuJ-13DLC1V114AaABAg.9b7RXsY1ZlB9b7e7meCA9l",
+      "snippet": {
+        "textDisplay": "Poda kena koodhi punda",
+        "textOriginal": "Poda kena koodhi punda",
+        "parentId": "UgxKCNiuJ-13DLC1V114AaABAg",
+        "authorDisplayName": "Ajay Kumar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjCa93_Lflm7xBEx69pVvcNceBzqdyGlAKDHdApA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuHfKKGuspkjK_ZVmMCxUgw",
+        "authorChannelId": {
+          "value": "UCuHfKKGuspkjK_ZVmMCxUgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-17T12:04:56Z",
+        "updatedAt": "2022-05-17T12:04:56Z"
+      }
+    }
+  ]
+}

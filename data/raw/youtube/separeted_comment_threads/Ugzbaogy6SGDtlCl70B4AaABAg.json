@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "di8C0keFEHq9gGBuM228ZGOeioo",
+  "id": "Ugzbaogy6SGDtlCl70B4AaABAg",
+  "snippet": {
+    "videoId": "kNOurPLbpG4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FLIV64oC-BMVWuUr0aa-jHk4C1Y",
+      "id": "Ugzbaogy6SGDtlCl70B4AaABAg",
+      "snippet": {
+        "videoId": "kNOurPLbpG4",
+        "textDisplay": "Amanda.        Sousa.       R\u00eago",
+        "textOriginal": "Amanda.        Sousa.       R\u00eago",
+        "authorDisplayName": "Samuel Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJlNiB1pu_wA27P7mfOMEpD_N6k2vTBpp1hw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdYlLWL5d3FhbmIIMISB9jA",
+        "authorChannelId": {
+          "value": "UCdYlLWL5d3FhbmIIMISB9jA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-29T01:52:39Z",
+        "updatedAt": "2020-09-29T01:52:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-d6kJ0VGDp5chSYLTUDOuaGGg0g",
+      "id": "Ugzbaogy6SGDtlCl70B4AaABAg.9EAU4auRmP49EAUI7BaDKX",
+      "snippet": {
+        "textDisplay": "\u00c9.   Muito.    Ingrasado.      ParaBebs",
+        "textOriginal": "\u00c9.   Muito.    Ingrasado.      ParaBebs",
+        "parentId": "Ugzbaogy6SGDtlCl70B4AaABAg",
+        "authorDisplayName": "Samuel Sousa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJlNiB1pu_wA27P7mfOMEpD_N6k2vTBpp1hw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdYlLWL5d3FhbmIIMISB9jA",
+        "authorChannelId": {
+          "value": "UCdYlLWL5d3FhbmIIMISB9jA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-29T01:54:29Z",
+        "updatedAt": "2020-09-29T01:54:29Z"
+      }
+    }
+  ]
+}

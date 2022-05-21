@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_LLmB7HFYJSbe0JujhJsNp6-B2o",
+  "id": "UgzVB3-2uk61_jgcvd14AaABAg",
+  "snippet": {
+    "videoId": "aFPyYoGViZs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kN7TDsfcAJoOOWAPbOLxtL7Vw1g",
+      "id": "UgzVB3-2uk61_jgcvd14AaABAg",
+      "snippet": {
+        "videoId": "aFPyYoGViZs",
+        "textDisplay": "Excellent series of videos on Coronaviruses and COVID-19. Can I ask, what in particular about MERS, or its mechanism of action, accounts for its high mortality rate in comparison with SARS/COVID-19? The mortality rate is also much more stable across age groups, in contrast to the bias seen in SARS/COVID-19.",
+        "textOriginal": "Excellent series of videos on Coronaviruses and COVID-19. Can I ask, what in particular about MERS, or its mechanism of action, accounts for its high mortality rate in comparison with SARS/COVID-19? The mortality rate is also much more stable across age groups, in contrast to the bias seen in SARS/COVID-19.",
+        "authorDisplayName": "T K",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBnwTnnoAZSFWTIpnWabFIJhYG0msKVDVliA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7tR9g-5RfzJ8fNdo_xgH1Q",
+        "authorChannelId": {
+          "value": "UC7tR9g-5RfzJ8fNdo_xgH1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-03-13T02:46:28Z",
+        "updatedAt": "2020-03-13T02:47:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_sCVqEvoypIDOeIZgm-YwOSMOt0",
+      "id": "UgzVB3-2uk61_jgcvd14AaABAg.967aFpygH-I96Q-zXTSYHb",
+      "snippet": {
+        "textDisplay": "I wouldn't go for mortality rates. Not everyone with it exhibits symptoms or severe enough ones to call for a test. Only ones with more severe symptoms are typically tested so that artificially spikes death rates.",
+        "textOriginal": "I wouldn't go for mortality rates. Not everyone with it exhibits symptoms or severe enough ones to call for a test. Only ones with more severe symptoms are typically tested so that artificially spikes death rates.",
+        "parentId": "UgzVB3-2uk61_jgcvd14AaABAg",
+        "authorDisplayName": "Fred Harvey",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmesYJQ6ZUtckYPn3_bQD1hAs8lab9eykWdkxIWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYS9-k1_EGbMtAbQR1Hyn-w",
+        "authorChannelId": {
+          "value": "UCYS9-k1_EGbMtAbQR1Hyn-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-20T06:26:22Z",
+        "updatedAt": "2020-03-20T06:26:22Z"
+      }
+    }
+  ]
+}

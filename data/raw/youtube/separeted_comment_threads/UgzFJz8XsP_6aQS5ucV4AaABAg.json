@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uYhScmkq26j7TYDOP6nJnR3e4cY",
+  "id": "UgzFJz8XsP_6aQS5ucV4AaABAg",
+  "snippet": {
+    "videoId": "9iJ1jEqn_fU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UXfaLswJH3938p67KuSlJ_R0Uo4",
+      "id": "UgzFJz8XsP_6aQS5ucV4AaABAg",
+      "snippet": {
+        "videoId": "9iJ1jEqn_fU",
+        "textDisplay": "J\u00e1 existe o deltacron",
+        "textOriginal": "J\u00e1 existe o deltacron",
+        "authorDisplayName": "Alexandra Cristina Fermino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrGwxdcclsUchcFiFkmv_95D3mVuYRV_K2T4CcQnE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7IkqhAZCroTgNZgX-ZkXcg",
+        "authorChannelId": {
+          "value": "UC7IkqhAZCroTgNZgX-ZkXcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-13T01:12:11Z",
+        "updatedAt": "2022-01-13T01:12:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HN0AFBc3qeTqiFByvTkqOv664nk",
+      "id": "UgzFJz8XsP_6aQS5ucV4AaABAg.9X7BrKi-xgf9XArDMpR9qp",
+      "snippet": {
+        "textDisplay": "Sifuder",
+        "textOriginal": "Sifuder",
+        "parentId": "UgzFJz8XsP_6aQS5ucV4AaABAg",
+        "authorDisplayName": "M S P",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/5ZVWoJbzPb2xx2BDxZc0k58cxGZFLK-u6B9RVv0cuNGu1K_mxr79ToXiN5KmFVoBTRF7kvjz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSCjb7Iiej1ORh4Y20j9_JQ",
+        "authorChannelId": {
+          "value": "UCSCjb7Iiej1ORh4Y20j9_JQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-14T11:20:02Z",
+        "updatedAt": "2022-01-14T11:20:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "33YsSozuHTSBJ3p_GAaUKZ04GqI",
+      "id": "UgzFJz8XsP_6aQS5ucV4AaABAg.9X7BrKi-xgf9X7Eiw56Az6",
+      "snippet": {
+        "textDisplay": "@Alexandrina Cristina Firmino E a variante \u201ctoscatron\u201d tamb\u00e9m.",
+        "textOriginal": "@Alexandrina Cristina Firmino E a variante \u201ctoscatron\u201d tamb\u00e9m.",
+        "parentId": "UgzFJz8XsP_6aQS5ucV4AaABAg",
+        "authorDisplayName": "Maur\u00edcio Pires Natorp",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfLSQC8be1x3_awlKYCyJJgPzDmJZg75AOsw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzgGtrFjD8XFYrYKhf5nqgA",
+        "authorChannelId": {
+          "value": "UCzgGtrFjD8XFYrYKhf5nqgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-13T01:37:15Z",
+        "updatedAt": "2022-01-13T01:37:15Z"
+      }
+    }
+  ]
+}

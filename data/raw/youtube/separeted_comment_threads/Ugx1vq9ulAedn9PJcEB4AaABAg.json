@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QLXUMu9_gWXlquJoQk9Dg2uCTLs",
+  "id": "Ugx1vq9ulAedn9PJcEB4AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Qe040l_md41_nPKdmGe6G0XgGRE",
+      "id": "Ugx1vq9ulAedn9PJcEB4AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Excellent explanation sir.....very useful \ud83d\udc4d \ud83d\udc4c",
+        "textOriginal": "Excellent explanation sir.....very useful \ud83d\udc4d \ud83d\udc4c",
+        "authorDisplayName": "guna sekaran Dharmarajan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQzzsFKHywAtwsd4nrIH6M70gwEidRh_xLIThuSEhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCh3J0MRZPL_iKk5PbhnLcTQ",
+        "authorChannelId": {
+          "value": "UCh3J0MRZPL_iKk5PbhnLcTQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T12:34:35Z",
+        "updatedAt": "2022-01-06T12:34:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "A0C44kGLDxpHtLbGnqpG5BFh6QU",
+      "id": "Ugx1vq9ulAedn9PJcEB4AaABAg.9WrOOJaFD5F9Ws1VZTV57k",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "Ugx1vq9ulAedn9PJcEB4AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T18:33:50Z",
+        "updatedAt": "2022-01-06T18:33:50Z"
+      }
+    }
+  ]
+}

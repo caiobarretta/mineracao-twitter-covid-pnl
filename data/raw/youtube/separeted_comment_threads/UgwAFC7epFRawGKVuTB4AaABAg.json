@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YL4Yr6eR1Y-gR96TPJSf-Fe7E5Y",
+  "id": "UgwAFC7epFRawGKVuTB4AaABAg",
+  "snippet": {
+    "videoId": "sbU3XAE0ApI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zY9aBpCJGINwOSUMGoHL_PIP3as",
+      "id": "UgwAFC7epFRawGKVuTB4AaABAg",
+      "snippet": {
+        "videoId": "sbU3XAE0ApI",
+        "textDisplay": "the gas prices went up 55% too. what a joke",
+        "textOriginal": "the gas prices went up 55% too. what a joke",
+        "authorDisplayName": "austin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSb2qiBylPOvMFE9TlQzv_-EF6FwLaMkSPlQkXehA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrfzdCLgUj6F3V_zw4Aq1VQ",
+        "authorChannelId": {
+          "value": "UCrfzdCLgUj6F3V_zw4Aq1VQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2022-05-20T00:56:06Z",
+        "updatedAt": "2022-05-20T00:56:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Gpf83dbB8DIUoWnD3eG4ZLLZ6z8",
+      "id": "UgwAFC7epFRawGKVuTB4AaABAg.9bEAygnSJhE9bEBUgNHwTm",
+      "snippet": {
+        "textDisplay": "Who cares, I'm a billionaire.  It's like half a penny for me. Lol",
+        "textOriginal": "Who cares, I'm a billionaire.  It's like half a penny for me. Lol",
+        "parentId": "UgwAFC7epFRawGKVuTB4AaABAg",
+        "authorDisplayName": "Huan Wei Li",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/h-Yy-9vYzmMricmBqayTHQ3OVUU3SKVndHfljLdWNpOIBR1PcT0_DeZWBwXowB1gG4_mJbnM7w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9Et5bOj29BvemPkbN7N5EQ",
+        "authorChannelId": {
+          "value": "UC9Et5bOj29BvemPkbN7N5EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-20T01:00:36Z",
+        "updatedAt": "2022-05-20T01:00:36Z"
+      }
+    }
+  ]
+}

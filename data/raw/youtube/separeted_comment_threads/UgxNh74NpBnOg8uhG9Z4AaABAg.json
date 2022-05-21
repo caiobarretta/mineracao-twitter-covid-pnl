@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ug5ob1ZkagEHkmHMfwSzgTbXREg",
+  "id": "UgxNh74NpBnOg8uhG9Z4AaABAg",
+  "snippet": {
+    "videoId": "5Mnzdx9RDKU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Uf-Iz6kDzy5ElNcTZpV_hCPtfQI",
+      "id": "UgxNh74NpBnOg8uhG9Z4AaABAg",
+      "snippet": {
+        "videoId": "5Mnzdx9RDKU",
+        "textDisplay": "Essa mulher n\u00e3o sabe de nada",
+        "textOriginal": "Essa mulher n\u00e3o sabe de nada",
+        "authorDisplayName": "Wagner Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStTyCVpTA6rizKhafZAbcPeG7YGIECxIj2x2YY79pGKDeVJ356-G82mEHUHCoY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDFUFpsMoemEF8IZ2Eq4bMg",
+        "authorChannelId": {
+          "value": "UCDFUFpsMoemEF8IZ2Eq4bMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-18T00:38:21Z",
+        "updatedAt": "2022-01-18T00:38:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wgmhtHBdSHb4BsfWVzOUZXJUjZU",
+      "id": "UgxNh74NpBnOg8uhG9Z4AaABAg.9XK-xy3sbdW9XS205_0N09",
+      "snippet": {
+        "textDisplay": "Quem sabe \u00e9 tu n\u00e9 Wagner",
+        "textOriginal": "Quem sabe \u00e9 tu n\u00e9 Wagner",
+        "parentId": "UgxNh74NpBnOg8uhG9Z4AaABAg",
+        "authorDisplayName": "Marcos \u2022 h\u00e1 701 anos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Gqn2abkUtTb3GooL1EzMl9rsAGlXCJMHw2C1nr5QjBb0pND-3sDXg5E-GX7NH5JAYjrujnvxjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNNzwQbCi44K6ryeZZBYaBQ",
+        "authorChannelId": {
+          "value": "UCNNzwQbCi44K6ryeZZBYaBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-21T03:30:11Z",
+        "updatedAt": "2022-01-21T03:30:11Z"
+      }
+    }
+  ]
+}

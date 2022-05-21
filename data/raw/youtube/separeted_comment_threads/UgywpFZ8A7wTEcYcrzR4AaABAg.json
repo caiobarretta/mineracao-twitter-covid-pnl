@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "I2FLFQbY010fpi3m4jBfs-DojsQ",
+  "id": "UgywpFZ8A7wTEcYcrzR4AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HkIbi5p7VGFd1TBzHlvNm7Ukd_4",
+      "id": "UgywpFZ8A7wTEcYcrzR4AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Very useful information thank you so much bala sir",
+        "textOriginal": "Very useful information thank you so much bala sir",
+        "authorDisplayName": "S. Balaji Rohit",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/8wYXKNiVwLUIX0srwRpMn4_K4r8H4PClTOLTxthFzmGSQ8zj5jsjbXZYr1411_PweTBHtlCTmw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChNnSQZ8QlSle96Wna1iSLQ",
+        "authorChannelId": {
+          "value": "UChNnSQZ8QlSle96Wna1iSLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T17:19:48Z",
+        "updatedAt": "2022-01-06T17:19:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ajuhsIKYW_ZWpwtJh_PGJ91JgHI",
+      "id": "UgywpFZ8A7wTEcYcrzR4AaABAg.9Wru1Fqoukg9Ws1sDhRqfF",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "UgywpFZ8A7wTEcYcrzR4AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T18:37:04Z",
+        "updatedAt": "2022-01-06T18:37:04Z"
+      }
+    }
+  ]
+}

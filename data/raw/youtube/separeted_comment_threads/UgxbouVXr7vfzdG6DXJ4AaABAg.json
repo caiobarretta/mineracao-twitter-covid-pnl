@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xGW1eMZDjcACqDiBBK5F7fEe5vw",
+  "id": "UgxbouVXr7vfzdG6DXJ4AaABAg",
+  "snippet": {
+    "videoId": "BU5VYECOVZY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UUj5m8Arin_RycguI2X_w4RS1sw",
+      "id": "UgxbouVXr7vfzdG6DXJ4AaABAg",
+      "snippet": {
+        "videoId": "BU5VYECOVZY",
+        "textDisplay": "N\u00e3o costei",
+        "textOriginal": "N\u00e3o costei",
+        "authorDisplayName": "NIMJA BRANCO Gabriel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMIx0G5MJSqYsM_txWLLEikvzqhQEnS3Jj2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9YLL9_o9uB0MeRqbVXa13Q",
+        "authorChannelId": {
+          "value": "UC9YLL9_o9uB0MeRqbVXa13Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-10T17:26:01Z",
+        "updatedAt": "2020-08-10T17:26:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tTp1QhLqyt6zBsWIw32_k6VXLXI",
+      "id": "UgxbouVXr7vfzdG6DXJ4AaABAg.9CBP9-hSiUK9D4XWQUlldO",
+      "snippet": {
+        "textDisplay": "@Silvana Leite da Costa kkkkkkkkkk.... \u00e9 gostei ela deve ter escrito errado sem quere",
+        "textOriginal": "@Silvana Leite da Costa kkkkkkkkkk.... \u00e9 gostei ela deve ter escrito errado sem quere",
+        "parentId": "UgxbouVXr7vfzdG6DXJ4AaABAg",
+        "authorDisplayName": "Rosiane Costa ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfIX3bk-WAneLDNM1OyjS1WU-jtE_LSk6sJQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyAC8yYVJHtJDcJ6h65qHGA",
+        "authorChannelId": {
+          "value": "UCyAC8yYVJHtJDcJ6h65qHGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-01T21:55:49Z",
+        "updatedAt": "2020-09-01T21:55:49Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MXI5f4QQUmETL6mOBr53e7kpABs",
+      "id": "UgxbouVXr7vfzdG6DXJ4AaABAg.9CBP9-hSiUK9C_evRYyvYp",
+      "snippet": {
+        "textDisplay": "o que \u00e9 costei?",
+        "textOriginal": "o que \u00e9 costei?",
+        "parentId": "UgxbouVXr7vfzdG6DXJ4AaABAg",
+        "authorDisplayName": "Silvana Leite da Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4YXocATFZ3pnH2ZdQ3sRKo0apWszZNV7Pnquv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFHTUQ3ThF4KhlhqCyLR1UQ",
+        "authorChannelId": {
+          "value": "UCFHTUQ3ThF4KhlhqCyLR1UQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-08-20T12:53:35Z",
+        "updatedAt": "2020-08-20T12:53:35Z"
+      }
+    }
+  ]
+}

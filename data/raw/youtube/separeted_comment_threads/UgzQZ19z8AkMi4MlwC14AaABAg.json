@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AjS56Zu6z3RhjFMxrcDgwsubMyE",
+  "id": "UgzQZ19z8AkMi4MlwC14AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yjoIt3_9YAEAateEFMGd9eCxsG0",
+      "id": "UgzQZ19z8AkMi4MlwC14AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Otima explica\u00e7\u00e3o, parab\u00e9ns! Aonde esta a continua\u00e7ao?",
+        "textOriginal": "Otima explica\u00e7\u00e3o, parab\u00e9ns! Aonde esta a continua\u00e7ao?",
+        "authorDisplayName": "Claudia Brown Nabuco",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhwUiTACxFzabuI0yYutzzvH-D8ddPWSG_osIR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcRQYewAeqRR7ge0r6iGOvg",
+        "authorChannelId": {
+          "value": "UCcRQYewAeqRR7ge0r6iGOvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-20T11:22:59Z",
+        "updatedAt": "2020-05-20T11:22:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kOJ3kPi_m-yPjY6CTtiKd5nGC9o",
+      "id": "UgzQZ19z8AkMi4MlwC14AaABAg.98sbQQUBuvx98sy7tDFjxc",
+      "snippet": {
+        "textDisplay": "Agrade\u00e7o o interesse.",
+        "textOriginal": "Agrade\u00e7o o interesse.",
+        "parentId": "UgzQZ19z8AkMi4MlwC14AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-20T14:41:26Z",
+        "updatedAt": "2020-05-20T14:41:26Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "dK7Ik-PGzKMZg5tAqGs1_2DrQJ4",
+      "id": "UgzQZ19z8AkMi4MlwC14AaABAg.98sbQQUBuvx98sy4tp4vth",
+      "snippet": {
+        "textDisplay": "Estou subindo 1 v\u00eddeo por semana. Na segunda ter\u00e1 a continua\u00e7\u00e3o.",
+        "textOriginal": "Estou subindo 1 v\u00eddeo por semana. Na segunda ter\u00e1 a continua\u00e7\u00e3o.",
+        "parentId": "UgzQZ19z8AkMi4MlwC14AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-20T14:41:01Z",
+        "updatedAt": "2020-05-20T14:41:01Z"
+      }
+    }
+  ]
+}

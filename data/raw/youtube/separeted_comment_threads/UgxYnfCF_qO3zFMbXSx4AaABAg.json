@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5NWQfCKQKwCx1exfkaWv2DkogeQ",
+  "id": "UgxYnfCF_qO3zFMbXSx4AaABAg",
+  "snippet": {
+    "videoId": "hKZJIb5FMRg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kVamBKNlruw7kJJBHhnBxxja8e0",
+      "id": "UgxYnfCF_qO3zFMbXSx4AaABAg",
+      "snippet": {
+        "videoId": "hKZJIb5FMRg",
+        "textDisplay": "Excelente como sempre Camila! Parab\u00e9ns!",
+        "textOriginal": "Excelente como sempre Camila! Parab\u00e9ns!",
+        "authorDisplayName": "Vanessa Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTDJcU4hXSnpfpPIvO3ZKJ50gnG_iMVKt73ak17X8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAyaKHV2EJNbdMKNQzQdFvg",
+        "authorChannelId": {
+          "value": "UCAyaKHV2EJNbdMKNQzQdFvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-04-13T15:36:29Z",
+        "updatedAt": "2021-04-15T18:12:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tFJ_6R_qroOORR4yVFrfPpHlSvc",
+      "id": "UgxYnfCF_qO3zFMbXSx4AaABAg.9M4dA5N0ywX9MA3duIVejO",
+      "snippet": {
+        "textDisplay": "@Vanda Vandinha obrigada! J\u00e1 corrigi",
+        "textOriginal": "@Vanda Vandinha obrigada! J\u00e1 corrigi",
+        "parentId": "UgxYnfCF_qO3zFMbXSx4AaABAg",
+        "authorDisplayName": "Vanessa Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTDJcU4hXSnpfpPIvO3ZKJ50gnG_iMVKt73ak17X8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAyaKHV2EJNbdMKNQzQdFvg",
+        "authorChannelId": {
+          "value": "UCAyaKHV2EJNbdMKNQzQdFvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-15T18:12:49Z",
+        "updatedAt": "2021-04-15T18:12:49Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "0Uf4tT7TVNZABcV_yvnDSqdlKmw",
+      "id": "UgxYnfCF_qO3zFMbXSx4AaABAg.9M4dA5N0ywX9M4wF7mj3Na",
+      "snippet": {
+        "textDisplay": "O nome dela \u00e9 Camila",
+        "textOriginal": "O nome dela \u00e9 Camila",
+        "parentId": "UgxYnfCF_qO3zFMbXSx4AaABAg",
+        "authorDisplayName": "Vanda Vandinha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfjuD_7eBTVbPHz9nWp8AhxeZq6Mh0P3VDNg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCos_vQ8VqI7u6gj-q4TVn6A",
+        "authorChannelId": {
+          "value": "UCos_vQ8VqI7u6gj-q4TVn6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-13T18:23:12Z",
+        "updatedAt": "2021-04-13T18:23:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "g94l4fEukHJ7NR-qWme_ndLxc7U",
+  "id": "UgxAz-rfWFLW5Zns7aR4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WL2e7xMtIT3X-U-FwOkmNayeink",
+      "id": "UgxAz-rfWFLW5Zns7aR4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Boa tarde",
+        "textOriginal": "Boa tarde",
+        "authorDisplayName": "Jose Orlando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDUwJFJ2UpB8L-6NOUWys3NenIwNgyEr5i-UbQgvE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjbpnJo_g8zdEi_VclRprSQ",
+        "authorChannelId": {
+          "value": "UCjbpnJo_g8zdEi_VclRprSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-01T18:45:56Z",
+        "updatedAt": "2020-08-01T18:45:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "XWTB5R12k_og0tShDhG0ftS4Zmc",
+      "id": "UgxAz-rfWFLW5Zns7aR4AaABAg.9BpN8V3tB7I9BpNpWwz7P1",
+      "snippet": {
+        "textDisplay": "Boa Tarde!",
+        "textOriginal": "Boa Tarde!",
+        "parentId": "UgxAz-rfWFLW5Zns7aR4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-01T18:51:56Z",
+        "updatedAt": "2020-08-01T18:51:56Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0t_XAWA34yXEydH6hSzTkg2rR_s",
+  "id": "UgxG4sq9tH_f2K0kUhl4AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xksxCxxQxhoRTNtkJ5LDt8yLm8g",
+      "id": "UgxG4sq9tH_f2K0kUhl4AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Parab\u00e9ns pelo v\u00eddeo e canal \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "textOriginal": "Parab\u00e9ns pelo v\u00eddeo e canal \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+        "authorDisplayName": "Luana Belem",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR74f_957zkV0C7Uk1my9QoDUZaUc2ClvDs1eqj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHE5jToeDSLwisZksPNWegw",
+        "authorChannelId": {
+          "value": "UCHE5jToeDSLwisZksPNWegw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-26T13:34:45Z",
+        "updatedAt": "2020-10-26T13:34:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dFW_5HNjdi1Z2t4Jh-49p1_ulAw",
+      "id": "UgxG4sq9tH_f2K0kUhl4AaABAg.9FHFtdQcGPI9FHYTC6gYAy",
+      "snippet": {
+        "textDisplay": "Super \ud83d\ude04 obrigado!",
+        "textOriginal": "Super \ud83d\ude04 obrigado!",
+        "parentId": "UgxG4sq9tH_f2K0kUhl4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-26T16:17:02Z",
+        "updatedAt": "2020-10-26T16:17:02Z"
+      }
+    }
+  ]
+}

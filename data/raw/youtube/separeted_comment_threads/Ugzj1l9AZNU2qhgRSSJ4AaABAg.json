@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "G6O8KdCX1sYUHR2EYnQCbW3i8tY",
+  "id": "Ugzj1l9AZNU2qhgRSSJ4AaABAg",
+  "snippet": {
+    "videoId": "PPdi5d4I1Zg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MJy_pTMpHhGIqZgDGieL2SCpv24",
+      "id": "Ugzj1l9AZNU2qhgRSSJ4AaABAg",
+      "snippet": {
+        "videoId": "PPdi5d4I1Zg",
+        "textDisplay": "Adorei o v\u00eddeo, obrigada \u2764\ufe0f\u2764\ufe0f",
+        "textOriginal": "Adorei o v\u00eddeo, obrigada \u2764\ufe0f\u2764\ufe0f",
+        "authorDisplayName": "finding hope",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiexbzgkkcrUCBiirzmJnqUl2bq_NXyzZs7hXxH7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVLIGxJH6xlmg4U4JwartFQ",
+        "authorChannelId": {
+          "value": "UCVLIGxJH6xlmg4U4JwartFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-09-13T21:20:17Z",
+        "updatedAt": "2020-09-13T21:20:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "O1eIb_yj0jeXqxu0s6MvZNxFmko",
+      "id": "Ugzj1l9AZNU2qhgRSSJ4AaABAg.9DZMzfQbWG59D_axpAt0NB",
+      "snippet": {
+        "textDisplay": "Que bom que gostou \ud83d\ude01",
+        "textOriginal": "Que bom que gostou \ud83d\ude01",
+        "parentId": "Ugzj1l9AZNU2qhgRSSJ4AaABAg",
+        "authorDisplayName": "Camila Martinelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_HG6NgbsdEILezi47EHFSVUH51ZPyb2BB3sZVMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdBs7jBAc8IxhoHE-rGswmw",
+        "authorChannelId": {
+          "value": "UCdBs7jBAc8IxhoHE-rGswmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-14T08:50:21Z",
+        "updatedAt": "2020-09-14T08:50:21Z"
+      }
+    }
+  ]
+}

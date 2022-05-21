@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tpIN3Tw9lRa3nkqOaMtDLIGTVOM",
+  "id": "UgxvekwFG8WQaME3Eoh4AaABAg",
+  "snippet": {
+    "videoId": "cS8ngaVDi7Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yD55za5TJ5SyrFFMZycM8eO5dOo",
+      "id": "UgxvekwFG8WQaME3Eoh4AaABAg",
+      "snippet": {
+        "videoId": "cS8ngaVDi7Q",
+        "textDisplay": "Em fevereiro come\u00e7ar\u00e1 o pico aqui no Brasil.",
+        "textOriginal": "Em fevereiro come\u00e7ar\u00e1 o pico aqui no Brasil.",
+        "authorDisplayName": "Aarnold John",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ6DstxwDY9xN24n3qXDFBX9wkWeqGEqvjlHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEZOoMaYpJQ6zzNQtYfuPUA",
+        "authorChannelId": {
+          "value": "UCEZOoMaYpJQ6zzNQtYfuPUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2022-01-05T14:00:04Z",
+        "updatedAt": "2022-01-05T14:00:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "120HcfKpoKxBG_SVBpxgXFPyo88",
+      "id": "UgxvekwFG8WQaME3Eoh4AaABAg.9WoyNTu5KYe9Y12t16omRX",
+      "snippet": {
+        "textDisplay": "300 k de casos.",
+        "textOriginal": "300 k de casos.",
+        "parentId": "UgxvekwFG8WQaME3Eoh4AaABAg",
+        "authorDisplayName": "Paulo Andr\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhtwOeZNPxQnxIO7w0TMet1tGGXrTnc7GWJVLoww=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGGHRMrcEiKdWT4hf-UbFAA",
+        "authorChannelId": {
+          "value": "UCGGHRMrcEiKdWT4hf-UbFAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-04T12:29:43Z",
+        "updatedAt": "2022-02-04T12:29:43Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8kwDP_QZF-d5tNcx5dd3dAoMgho",
+      "id": "UgxvekwFG8WQaME3Eoh4AaABAg.9WoyNTu5KYe9X-HHo2J6Kt",
+      "snippet": {
+        "textDisplay": "eba sem aulas",
+        "textOriginal": "eba sem aulas",
+        "parentId": "UgxvekwFG8WQaME3Eoh4AaABAg",
+        "authorDisplayName": "Welly Moder11",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6RQHvTc9cq0Pz8UMX_yFXuiQcIPNWj6noEiJcjzoMu73ppZNy2FiGhTFqQCFKpTTfWbV1PtWsQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5roTlWqVWNvv60BYVUxl0g",
+        "authorChannelId": {
+          "value": "UC5roTlWqVWNvv60BYVUxl0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-09T23:25:42Z",
+        "updatedAt": "2022-01-09T23:25:42Z"
+      }
+    }
+  ]
+}

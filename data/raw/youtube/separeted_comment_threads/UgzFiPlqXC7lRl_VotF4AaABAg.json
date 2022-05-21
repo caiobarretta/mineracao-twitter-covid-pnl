@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "BLHUGHayC3EhMigBYLiUluMt1f0",
+  "id": "UgzFiPlqXC7lRl_VotF4AaABAg",
+  "snippet": {
+    "videoId": "9iJ1jEqn_fU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UArjsJ7sOq3PfVQfUwBAy3hzvqQ",
+      "id": "UgzFiPlqXC7lRl_VotF4AaABAg",
+      "snippet": {
+        "videoId": "9iJ1jEqn_fU",
+        "textDisplay": "S\u00f3 Deus sabe  quando vai acabar ou nao",
+        "textOriginal": "S\u00f3 Deus sabe  quando vai acabar ou nao",
+        "authorDisplayName": "Marcelo Augusto Pinto Pereira Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqbN1I-mS-jD3CFp9rQu_V85_LSuyhZCRMdg2U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5h9YfSQWpNdzWbCEGw1iig",
+        "authorChannelId": {
+          "value": "UC5h9YfSQWpNdzWbCEGw1iig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2022-01-13T01:52:59Z",
+        "updatedAt": "2022-01-13T01:52:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aiOw942FXPDGwiKP0OeNXBMVP1k",
+      "id": "UgzFiPlqXC7lRl_VotF4AaABAg.9X7GX8JJE2d9XB1g1O4buN",
+      "snippet": {
+        "textDisplay": "Vdd",
+        "textOriginal": "Vdd",
+        "parentId": "UgzFiPlqXC7lRl_VotF4AaABAg",
+        "authorDisplayName": "Armanda Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT27HBZfAywf-OU2KipQXc4WY-RZrmOZ1l43km_PylHga6HW3Txfugs79EFEUKs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwPHvP-jylMHmzMfelJc91Q",
+        "authorChannelId": {
+          "value": "UCwPHvP-jylMHmzMfelJc91Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-14T13:00:13Z",
+        "updatedAt": "2022-01-14T13:00:13Z"
+      }
+    }
+  ]
+}

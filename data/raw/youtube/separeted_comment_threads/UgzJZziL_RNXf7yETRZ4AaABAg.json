@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qZb-b63pD12Hqw0k_yUN3-PelFo",
+  "id": "UgzJZziL_RNXf7yETRZ4AaABAg",
+  "snippet": {
+    "videoId": "uAmmMebmpWc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DQZt-0qV9klVgQ4oZJGWFnyqDP0",
+      "id": "UgzJZziL_RNXf7yETRZ4AaABAg",
+      "snippet": {
+        "videoId": "uAmmMebmpWc",
+        "textDisplay": "muchas gracias,",
+        "textOriginal": "muchas gracias,",
+        "authorDisplayName": "Anajimena Blanco",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYDkrleq9N51qbrs_l3O_lh9UxYZNrT68kYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwozvzGyak4iojuTsVHBcsA",
+        "authorChannelId": {
+          "value": "UCwozvzGyak4iojuTsVHBcsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-03T10:10:08Z",
+        "updatedAt": "2020-04-03T10:10:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-CQ_IAyn0ykwcnxyHxfU6fU7RW8",
+      "id": "UgzJZziL_RNXf7yETRZ4AaABAg.96zSihkaVpD974-X32FE0w",
+      "snippet": {
+        "textDisplay": "Cd4",
+        "textOriginal": "Cd4",
+        "parentId": "UgzJZziL_RNXf7yETRZ4AaABAg",
+        "authorDisplayName": "Jorge juarez baltierrez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCr1cjR-0DTfMH5ycab1ubnOqnW8uf_SaNfpcnbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgxR6r88yyvtICKArPBIEUQ",
+        "authorChannelId": {
+          "value": "UCgxR6r88yyvtICKArPBIEUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-05T13:50:27Z",
+        "updatedAt": "2020-04-05T13:50:27Z"
+      }
+    }
+  ]
+}

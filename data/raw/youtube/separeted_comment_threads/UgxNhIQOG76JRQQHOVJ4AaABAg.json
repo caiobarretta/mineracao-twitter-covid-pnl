@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4NDudYlQbzoTqAULHVTKbgIJ2gM",
+  "id": "UgxNhIQOG76JRQQHOVJ4AaABAg",
+  "snippet": {
+    "videoId": "0N7SBfTsI3s",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Blp1SKjnif9z9_cD5OL5y9vVjwg",
+      "id": "UgxNhIQOG76JRQQHOVJ4AaABAg",
+      "snippet": {
+        "videoId": "0N7SBfTsI3s",
+        "textDisplay": "*Castanha, entenda: VOC\u00ca E SEUS V\u00cdDEOS S\u00c3O PERFEITOS*",
+        "textOriginal": "*Castanha, entenda: VOC\u00ca E SEUS V\u00cdDEOS S\u00c3O PERFEITOS*",
+        "authorDisplayName": "Daniel Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EFNv7qxWHRQnuRHdKyykEMRYAhJY50hwuf2PgqLOTCjjbDF8SUpSNrpkc4AdqOgyxQeNeDjiOQU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJRRRmsSjoIue3UquZugeQA",
+        "authorChannelId": {
+          "value": "UCJRRRmsSjoIue3UquZugeQA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 59,
+        "publishedAt": "2020-06-09T16:13:27Z",
+        "updatedAt": "2020-06-09T16:13:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-AXzA-xayD6j7AbIdyfAKLyQ-qA",
+      "id": "UgxNhIQOG76JRQQHOVJ4AaABAg.99gcZMQcZ049F7N7zZ3hXe",
+      "snippet": {
+        "textDisplay": "@Ade0x ??????",
+        "textOriginal": "@Ade0x ??????",
+        "parentId": "UgxNhIQOG76JRQQHOVJ4AaABAg",
+        "authorDisplayName": "\u91d1\u5217\u4f0a\u7279\u7f57\u6c99\ud83d\udd95*UCHIHA*\ud83d\udd95",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xaUPaUIulFmbS23B02gfROaE-ZKSSxMLg3hxykTeG3hIY--wB3236uTEZRcVSmrXF7p2eIgh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnMnmOR9HLkHZKaIzZbi0lA",
+        "authorChannelId": {
+          "value": "UCnMnmOR9HLkHZKaIzZbi0lA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-22T17:25:37Z",
+        "updatedAt": "2020-10-22T17:25:37Z"
+      }
+    }
+  ]
+}

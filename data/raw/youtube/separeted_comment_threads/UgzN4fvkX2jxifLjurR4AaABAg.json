@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eCqaqHR2PLwF1PvrbmDFKJZfsI4",
+  "id": "UgzN4fvkX2jxifLjurR4AaABAg",
+  "snippet": {
+    "videoId": "PPdi5d4I1Zg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Rzwo41cDvQ9B70VvcNNHDIVFu0c",
+      "id": "UgzN4fvkX2jxifLjurR4AaABAg",
+      "snippet": {
+        "videoId": "PPdi5d4I1Zg",
+        "textDisplay": "Muito bem explicado, voc\u00ea apresenta muito bem seus v\u00eddeos. I\u2019m very impressed!",
+        "textOriginal": "Muito bem explicado, voc\u00ea apresenta muito bem seus v\u00eddeos. I\u2019m very impressed!",
+        "authorDisplayName": "Wesley",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSo7LUQttFJjqCun6NmDH3TC8ATh7kMoxIbgLSQrQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZNgVmwFGRGc8_mZU6Rn6qA",
+        "authorChannelId": {
+          "value": "UCZNgVmwFGRGc8_mZU6Rn6qA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-14T02:35:41Z",
+        "updatedAt": "2020-09-14T02:35:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xo9DPQQtJ8rumoXIdR3hlSB3Xfw",
+      "id": "UgzN4fvkX2jxifLjurR4AaABAg.9DZw4fl8oLP9D_YGzfLTn_",
+      "snippet": {
+        "textDisplay": "Muito obrigada, Wesley!",
+        "textOriginal": "Muito obrigada, Wesley!",
+        "parentId": "UgzN4fvkX2jxifLjurR4AaABAg",
+        "authorDisplayName": "Camila Martinelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_HG6NgbsdEILezi47EHFSVUH51ZPyb2BB3sZVMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdBs7jBAc8IxhoHE-rGswmw",
+        "authorChannelId": {
+          "value": "UCdBs7jBAc8IxhoHE-rGswmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-14T08:18:09Z",
+        "updatedAt": "2020-09-14T08:18:09Z"
+      }
+    }
+  ]
+}

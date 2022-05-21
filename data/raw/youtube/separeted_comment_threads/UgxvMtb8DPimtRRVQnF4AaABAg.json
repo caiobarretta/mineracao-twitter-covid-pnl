@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6DeviHp06DPlNOOzo6keHU3RINY",
+  "id": "UgxvMtb8DPimtRRVQnF4AaABAg",
+  "snippet": {
+    "videoId": "JpY99JvJtkU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TOBGq6bTBL0Tzoo7IqSBipDPPxs",
+      "id": "UgxvMtb8DPimtRRVQnF4AaABAg",
+      "snippet": {
+        "videoId": "JpY99JvJtkU",
+        "textDisplay": "J\u00e1 chegou aqui e o \u00fanico que pode nos salvar \u00e9 o Lula",
+        "textOriginal": "J\u00e1 chegou aqui e o \u00fanico que pode nos salvar \u00e9 o Lula",
+        "authorDisplayName": "Thiago Schmitz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRODJe61whGQI7ztOpZup2EtosF96S3BtKRqg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZNc4MjYfLHWftggHGuFRoQ",
+        "authorChannelId": {
+          "value": "UCZNc4MjYfLHWftggHGuFRoQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-27T18:01:19Z",
+        "updatedAt": "2021-11-27T18:01:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MXCHR1gUxjmrudIUcWz84enRGKc",
+      "id": "UgxvMtb8DPimtRRVQnF4AaABAg.9VFyzL0sgmI9VG8vJ8qC61",
+      "snippet": {
+        "textDisplay": "roubou mais faz n\u00e9",
+        "textOriginal": "roubou mais faz n\u00e9",
+        "parentId": "UgxvMtb8DPimtRRVQnF4AaABAg",
+        "authorDisplayName": "samuel maciel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXlknZLUWAPjPd3ztCPvrw9IMPsu0z8g1caA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClHVtl8e2evS8_eg9thiIow",
+        "authorChannelId": {
+          "value": "UClHVtl8e2evS8_eg9thiIow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-27T19:36:53Z",
+        "updatedAt": "2021-11-27T19:36:53Z"
+      }
+    }
+  ]
+}

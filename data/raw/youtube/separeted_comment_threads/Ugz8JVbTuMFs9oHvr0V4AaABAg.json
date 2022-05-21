@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A0Zn48f-bW_ghp6wsqVE3WcojiM",
+  "id": "Ugz8JVbTuMFs9oHvr0V4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3ok6-QgAu6YKp5Uh7TEwzwHZ2tc",
+      "id": "Ugz8JVbTuMFs9oHvr0V4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Obrigado pelos v\u00eddeos :)",
+        "textOriginal": "Obrigado pelos v\u00eddeos :)",
+        "authorDisplayName": "Maykon Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Hi4OF-AGJAeovp42UWbkOB8mrqRya5PwfXq_fpdZWofoIL8bFbDg_Pn4w3bPyxzl0hdOoAWpFaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ8rWdsU29d6_bAzeSzugkA",
+        "authorChannelId": {
+          "value": "UCJ8rWdsU29d6_bAzeSzugkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-23T02:35:48Z",
+        "updatedAt": "2020-08-23T02:35:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RKP2NSJXx7RdmD2uFSrj1vVCfTA",
+      "id": "Ugz8JVbTuMFs9oHvr0V4AaABAg.9CgHbGxO5a_9Ci17FrFYah",
+      "snippet": {
+        "textDisplay": "Obrigada, fico feliz que tenha gostado.",
+        "textOriginal": "Obrigada, fico feliz que tenha gostado.",
+        "parentId": "Ugz8JVbTuMFs9oHvr0V4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-23T18:50:14Z",
+        "updatedAt": "2020-08-23T18:50:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Rxd2rpVzFclwWo3LQW99MAWpYc8",
+  "id": "UgwZF4AJrIipHnxeOhh4AaABAg",
+  "snippet": {
+    "videoId": "fcn84XRpVjM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7jWLZp2MDvAxp1w2cuhCktblWtg",
+      "id": "UgwZF4AJrIipHnxeOhh4AaABAg",
+      "snippet": {
+        "videoId": "fcn84XRpVjM",
+        "textDisplay": "\u00c1tila t\u00e1 com ci\u00fames pq n\u00e3o tem ilha. Invejoso",
+        "textOriginal": "\u00c1tila t\u00e1 com ci\u00fames pq n\u00e3o tem ilha. Invejoso",
+        "authorDisplayName": "Ricardo Cadu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhNI0Qw80f2i0F9uya_kUyDVIz5bou2VjbIlV5rg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRc2kHv7OWQp7DLaZmt4Y5g",
+        "authorChannelId": {
+          "value": "UCRc2kHv7OWQp7DLaZmt4Y5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-17T03:01:06Z",
+        "updatedAt": "2022-02-17T03:01:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kZO8LPTdg-E8rcaThH63e_xUpGk",
+      "id": "UgwZF4AJrIipHnxeOhh4AaABAg.9YXW8lAiJj39YYTLDaLoEB",
+      "snippet": {
+        "textDisplay": "Kkkkk quanta idiotice....",
+        "textOriginal": "Kkkkk quanta idiotice....",
+        "parentId": "UgwZF4AJrIipHnxeOhh4AaABAg",
+        "authorDisplayName": "Shalimar da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQUnmQdTeT1uT2ftWGdQrLSXnu-CQTWDzeYJK2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLsB44tlxvb0xLbSdJQYTJw",
+        "authorChannelId": {
+          "value": "UCLsB44tlxvb0xLbSdJQYTJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-17T11:55:50Z",
+        "updatedAt": "2022-02-17T11:55:50Z"
+      }
+    }
+  ]
+}

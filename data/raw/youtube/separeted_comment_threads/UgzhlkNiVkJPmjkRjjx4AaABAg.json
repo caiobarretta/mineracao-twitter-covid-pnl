@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Tu6qGsCkwNrq1UL-I3_sCg2GlhI",
+  "id": "UgzhlkNiVkJPmjkRjjx4AaABAg",
+  "snippet": {
+    "videoId": "zwX1Tbxyo2U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zvMK_ZhHb8pB6uhJmvwEFsIw4Lo",
+      "id": "UgzhlkNiVkJPmjkRjjx4AaABAg",
+      "snippet": {
+        "videoId": "zwX1Tbxyo2U",
+        "textDisplay": "Good content \u2764\ufe0f thanks for sharing",
+        "textOriginal": "Good content \u2764\ufe0f thanks for sharing",
+        "authorDisplayName": "SUBHA MUKHERJEE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0h0rFShvDPRT5aTAQ_0pUhxEr6KDeG7S0MUnJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8h2MIYU1YoON_QLeQhakZA",
+        "authorChannelId": {
+          "value": "UC8h2MIYU1YoON_QLeQhakZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-22T21:30:12Z",
+        "updatedAt": "2020-03-22T21:30:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Au_19UFdAqu55bkaXes9WQcWRjo",
+      "id": "UgzhlkNiVkJPmjkRjjx4AaABAg.96Wm09_yKh596XUQlafgzZ",
+      "snippet": {
+        "textDisplay": "Be safe",
+        "textOriginal": "Be safe",
+        "parentId": "UgzhlkNiVkJPmjkRjjx4AaABAg",
+        "authorDisplayName": "PHARMA NOTES",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYJleKnq7kRsZj-t1nt7kJfK5rv-mynREl9DwGGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBx7nZGYMmeiG7FMT7s2DEA",
+        "authorChannelId": {
+          "value": "UCBx7nZGYMmeiG7FMT7s2DEA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-23T04:07:03Z",
+        "updatedAt": "2020-03-23T04:07:03Z"
+      }
+    }
+  ]
+}

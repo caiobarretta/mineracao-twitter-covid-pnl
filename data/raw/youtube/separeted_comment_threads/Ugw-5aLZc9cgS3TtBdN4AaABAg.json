@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EIm_OhDGPdFPaLWtZaoC_eveY_g",
+  "id": "Ugw-5aLZc9cgS3TtBdN4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rf93MFSiBnWlIge4M-AkKOx60Is",
+      "id": "Ugw-5aLZc9cgS3TtBdN4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "muito bom",
+        "textOriginal": "muito bom",
+        "authorDisplayName": "Grazy Garcia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNky_hmSA6zKGpa5xwC6aner2ago9zwDfOXIQHiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6NPOVYhFHo_PYkC1U2GAGw",
+        "authorChannelId": {
+          "value": "UC6NPOVYhFHo_PYkC1U2GAGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-17T20:46:08Z",
+        "updatedAt": "2022-02-17T20:46:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GVMTTeFBG7h2l_hRWpx7Mrtwwlk",
+      "id": "Ugw-5aLZc9cgS3TtBdN4AaABAg.9YZQ1EymwkX9Yaxn1Qc0oS",
+      "snippet": {
+        "textDisplay": "obrigado grazy!!",
+        "textOriginal": "obrigado grazy!!",
+        "parentId": "Ugw-5aLZc9cgS3TtBdN4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-18T20:28:22Z",
+        "updatedAt": "2022-02-18T20:28:22Z"
+      }
+    }
+  ]
+}

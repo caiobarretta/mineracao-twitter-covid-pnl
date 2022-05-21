@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qSdU27DmobYJw7WTL3CGZsBqTqw",
+  "id": "Ugw2QbiWXNCn18CbZB14AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8GOvQ9GE6c4kRmaXQRQjnIHUUQI",
+      "id": "Ugw2QbiWXNCn18CbZB14AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "Gostei muito\u2764",
+        "textOriginal": "Gostei muito\u2764",
+        "authorDisplayName": "Evelin Gissele Pereira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIgQ2qqP8qFLCHZMt23CdMGC93VkHu_kjShQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMalNkO9LLWYwFvA65KUGHQ",
+        "authorChannelId": {
+          "value": "UCMalNkO9LLWYwFvA65KUGHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-25T15:01:35Z",
+        "updatedAt": "2020-03-25T15:01:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nJaFqnLOgHWYXJUCuY5vC1d5IZk",
+      "id": "Ugw2QbiWXNCn18CbZB14AaABAg.96cnvPb3wlJ96vNi3dm-Mp",
+      "snippet": {
+        "textDisplay": "obrigado!",
+        "textOriginal": "obrigado!",
+        "parentId": "Ugw2QbiWXNCn18CbZB14AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-01T20:09:24Z",
+        "updatedAt": "2020-04-01T20:09:24Z"
+      }
+    }
+  ]
+}

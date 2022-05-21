@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "74Uo0H6-IqReS-Hb1k4NuPU7Vcs",
+  "id": "UgyDD5ptzyPTZWlYbkF4AaABAg",
+  "snippet": {
+    "videoId": "qYPZA1k7sCI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "84-0nkRWRrB5sKgxlLhBhXg_UFs",
+      "id": "UgyDD5ptzyPTZWlYbkF4AaABAg",
+      "snippet": {
+        "videoId": "qYPZA1k7sCI",
+        "textDisplay": "WHO manages politics and global economy, not the health of people.",
+        "textOriginal": "WHO manages politics and global economy, not the health of people.",
+        "authorDisplayName": "E O",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcvLRKBPhoUMwc0YjgVMnKgYO2XZwVRAS6UqsxQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCML_w74y3_r6-q5bQLPTbHg",
+        "authorChannelId": {
+          "value": "UCML_w74y3_r6-q5bQLPTbHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-02-10T01:34:52Z",
+        "updatedAt": "2020-02-10T01:34:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YD73lWMzT9pmljjA6HfcA75ztps",
+      "id": "UgyDD5ptzyPTZWlYbkF4AaABAg.94q3cQP5Pmi94qCniwb7W9",
+      "snippet": {
+        "textDisplay": "\ud83d\ude02\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02\ud83d\ude02",
+        "parentId": "UgyDD5ptzyPTZWlYbkF4AaABAg",
+        "authorDisplayName": "Shelby Jennings",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRp_Prm_5Hc6-mBy6HGj_kis6lNmC8DaoC1Fw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO8pJcpT0kSZzd82jgOmX3A",
+        "authorChannelId": {
+          "value": "UCO8pJcpT0kSZzd82jgOmX3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-10T02:55:03Z",
+        "updatedAt": "2020-02-10T02:55:03Z"
+      }
+    }
+  ]
+}

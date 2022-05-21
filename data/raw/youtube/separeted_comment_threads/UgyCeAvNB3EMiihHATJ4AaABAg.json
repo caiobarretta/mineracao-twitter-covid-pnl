@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_xFfTcYqpYvM9xPEpM_GHDCXAGQ",
+  "id": "UgyCeAvNB3EMiihHATJ4AaABAg",
+  "snippet": {
+    "videoId": "biCe-xShXxw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4Iwo7ZC6vO8fbb_HqscPUHd98iM",
+      "id": "UgyCeAvNB3EMiihHATJ4AaABAg",
+      "snippet": {
+        "videoId": "biCe-xShXxw",
+        "textDisplay": "Visto de trabalho tamb\u00e9m precisa pagar?",
+        "textOriginal": "Visto de trabalho tamb\u00e9m precisa pagar?",
+        "authorDisplayName": "Laura Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQL1uWbCV_x2tslopIEFYMltzmLS1ns-1rxl8OJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC51un8rOw6bNZN63RJ_knDw",
+        "authorChannelId": {
+          "value": "UC51un8rOw6bNZN63RJ_knDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-02T22:11:10Z",
+        "updatedAt": "2021-04-02T22:11:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0jWvR4y84tsiYT46OLalNyrLlxQ",
+      "id": "UgyCeAvNB3EMiihHATJ4AaABAg.9Le0aD1fVX49LfLCJytxY7",
+      "snippet": {
+        "textDisplay": "Precisa.",
+        "textOriginal": "Precisa.",
+        "parentId": "UgyCeAvNB3EMiihHATJ4AaABAg",
+        "authorDisplayName": "Vanessa Signori",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFzM8lLSH4ZGoktaZi3Rxl8Dt18FbvlZU05BXPOBc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjB5exiABfIrWHqciICEhrg",
+        "authorChannelId": {
+          "value": "UCjB5exiABfIrWHqciICEhrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-03T10:30:31Z",
+        "updatedAt": "2021-04-03T10:30:31Z"
+      }
+    }
+  ]
+}

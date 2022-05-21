@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "t4hljk4yrdU7MVZhxHVbaDl6zLk",
+  "id": "UgyELBi2_cvXqykCpG14AaABAg",
+  "snippet": {
+    "videoId": "QDyGDal5kC8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "f9j4EOBFgJlmcY4kC5FWxOthRr4",
+      "id": "UgyELBi2_cvXqykCpG14AaABAg",
+      "snippet": {
+        "videoId": "QDyGDal5kC8",
+        "textDisplay": "Very well described.  Thanks .",
+        "textOriginal": "Very well described.  Thanks .",
+        "authorDisplayName": "P M",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTl6WJnZS5VCdyWjhqOE3xAwN3pPrxHpy1eZHHSEw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-GWzFuAIGNqb2CyMJ9w4rg",
+        "authorChannelId": {
+          "value": "UC-GWzFuAIGNqb2CyMJ9w4rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-12-30T06:08:55Z",
+        "updatedAt": "2020-12-30T06:08:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "p7dTHlInrBwrSKI0EnCwa1Xl0iw",
+      "id": "UgyELBi2_cvXqykCpG14AaABAg.9HspY8FmLmM9PISkcwQps3",
+      "snippet": {
+        "textDisplay": "We are glad you liked the video. Subscribe to our channel https://bit.ly/30zJeig to get the best content on healthcare.",
+        "textOriginal": "We are glad you liked the video. Subscribe to our channel https://bit.ly/30zJeig to get the best content on healthcare.",
+        "parentId": "UgyELBi2_cvXqykCpG14AaABAg",
+        "authorDisplayName": "Practo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTjWFNdLPjJAxFU17Ga-_xC5kUeVGwHIqKiXd0dQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGlsl2YPuCvklhbUWu1vuqQ",
+        "authorChannelId": {
+          "value": "UCGlsl2YPuCvklhbUWu1vuqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-02T14:00:18Z",
+        "updatedAt": "2021-07-02T14:00:18Z"
+      }
+    }
+  ]
+}

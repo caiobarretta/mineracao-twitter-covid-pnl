@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YfFWop0G0FRg4oZ0X4Jml2FJ7J8",
+  "id": "UgylVGApZfrbZR8czDB4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "n202x_2ZG6vOGaLxypRbTheOcqw",
+      "id": "UgylVGApZfrbZR8czDB4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "v\u00eddeo muito importante e explicativo. adorei!",
+        "textOriginal": "v\u00eddeo muito importante e explicativo. adorei!",
+        "authorDisplayName": "Brenda Emery",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQacSmaPTCg_k9-MAa3ZYE4pJLoFp5QdQq8Th50_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWx3hjXdD789Ln1W-e9CnqQ",
+        "authorChannelId": {
+          "value": "UCWx3hjXdD789Ln1W-e9CnqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-05-18T16:58:21Z",
+        "updatedAt": "2020-05-18T16:58:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0NF4kXK4C4uqQUqqIz9uKmkT7XE",
+      "id": "UgylVGApZfrbZR8czDB4AaABAg.98o3Cwb3rPO98oGSJyVDbW",
+      "snippet": {
+        "textDisplay": "Que bom que vc gostou. Em breve darei sequ\u00eancia ao assunto.",
+        "textOriginal": "Que bom que vc gostou. Em breve darei sequ\u00eancia ao assunto.",
+        "parentId": "UgylVGApZfrbZR8czDB4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-18T18:54:03Z",
+        "updatedAt": "2020-05-18T18:54:03Z"
+      }
+    }
+  ]
+}

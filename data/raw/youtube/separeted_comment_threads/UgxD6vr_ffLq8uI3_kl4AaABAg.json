@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mfBV3g55NwUbswatF90nb-xjgio",
+  "id": "UgxD6vr_ffLq8uI3_kl4AaABAg",
+  "snippet": {
+    "videoId": "ak7LF6tg28w",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E_0fwgGaNhi1L5P5rn5wNqYxTCg",
+      "id": "UgxD6vr_ffLq8uI3_kl4AaABAg",
+      "snippet": {
+        "videoId": "ak7LF6tg28w",
+        "textDisplay": "Cringe",
+        "textOriginal": "Cringe",
+        "authorDisplayName": "el\u00f8pr\u00f8320",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/2A52DKVjXsl4ZilbttrnzpQC6wtHdffeYXVnNHkJWHbD2ttRHnM_ybaPCSIEc6l6tt30aUnF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcGgLwznF2_l-lUW0efVh5w",
+        "authorChannelId": {
+          "value": "UCcGgLwznF2_l-lUW0efVh5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-01T12:43:47Z",
+        "updatedAt": "2021-09-01T12:43:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rPoVIsN5w4I7lByhsGo6L4Cd9k0",
+      "id": "UgxD6vr_ffLq8uI3_kl4AaABAg.9RkOUVjC6cE9SrFlIXr78F",
+      "snippet": {
+        "textDisplay": "Cu",
+        "textOriginal": "Cu",
+        "parentId": "UgxD6vr_ffLq8uI3_kl4AaABAg",
+        "authorDisplayName": "Luiz Henrique Carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ9oACIuXE6XKTclWBo8flN6tAmyjGy0HlN9_9g1g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWe714Mgx2LecVtfjT9ql5Q",
+        "authorChannelId": {
+          "value": "UCWe714Mgx2LecVtfjT9ql5Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-29T01:13:38Z",
+        "updatedAt": "2021-09-29T01:13:38Z"
+      }
+    }
+  ]
+}

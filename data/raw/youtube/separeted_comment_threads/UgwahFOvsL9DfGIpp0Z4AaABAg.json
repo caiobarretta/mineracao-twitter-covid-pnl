@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jgqOCgRi0PHsqYOq6AJzavLz5jg",
+  "id": "UgwahFOvsL9DfGIpp0Z4AaABAg",
+  "snippet": {
+    "videoId": "-gSIBFcnCIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4qyglDVzGJwy8R3XPj6BULx7lGc",
+      "id": "UgwahFOvsL9DfGIpp0Z4AaABAg",
+      "snippet": {
+        "videoId": "-gSIBFcnCIs",
+        "textDisplay": "Esse document\u00e1rio \u00e9 fascinante. Sou professora de enfermagem sempre falo para os meus alunos verem",
+        "textOriginal": "Esse document\u00e1rio \u00e9 fascinante. Sou professora de enfermagem sempre falo para os meus alunos verem",
+        "authorDisplayName": "Thaisa Lacerda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFcmzBjs6U2BTVmzwMN30G7Q3pQ4jgV2zMSL9UI5k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjIweE6Siq0l3vRG_aeqBVg",
+        "authorChannelId": {
+          "value": "UCjIweE6Siq0l3vRG_aeqBVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2021-01-26T03:11:06Z",
+        "updatedAt": "2021-01-26T03:11:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nSdDbcuLHMFnNAYw2bKkzisY8W4",
+      "id": "UgwahFOvsL9DfGIpp0Z4AaABAg.9Iy1eNMfjQ39J6A2BxGxKa",
+      "snippet": {
+        "textDisplay": "@Kaylane Fernandes oi",
+        "textOriginal": "@Kaylane Fernandes oi",
+        "parentId": "UgwahFOvsL9DfGIpp0Z4AaABAg",
+        "authorDisplayName": "Thaisa Lacerda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFcmzBjs6U2BTVmzwMN30G7Q3pQ4jgV2zMSL9UI5k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjIweE6Siq0l3vRG_aeqBVg",
+        "authorChannelId": {
+          "value": "UCjIweE6Siq0l3vRG_aeqBVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-29T16:17:34Z",
+        "updatedAt": "2021-01-29T16:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "ZMScfzeESzKmVOUuXSwIZYyNplA",
+      "id": "UgwahFOvsL9DfGIpp0Z4AaABAg.9Iy1eNMfjQ39J4FqxOshYz",
+      "snippet": {
+        "textDisplay": "Ei prof",
+        "textOriginal": "Ei prof",
+        "parentId": "UgwahFOvsL9DfGIpp0Z4AaABAg",
+        "authorDisplayName": "Kaylane Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/SkQIKrB_6XKHio3YnwF3QhbnQqgMwTORVKugBn2xcsNzRnuhOlOAn9kO_PSox5khfJstjefcTRI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkQqMdQMtjS5wddQVSBj-qw",
+        "authorChannelId": {
+          "value": "UCkQqMdQMtjS5wddQVSBj-qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-28T22:29:50Z",
+        "updatedAt": "2021-01-28T22:29:50Z"
+      }
+    }
+  ]
+}

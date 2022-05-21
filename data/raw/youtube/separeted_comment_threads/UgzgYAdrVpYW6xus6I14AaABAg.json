@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1sC5esAYCWeaW6mev37I8Uiqyvw",
+  "id": "UgzgYAdrVpYW6xus6I14AaABAg",
+  "snippet": {
+    "videoId": "Jm58Hgab-Kc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-t7yPrDicQWXh27K-vuHkARoxjY",
+      "id": "UgzgYAdrVpYW6xus6I14AaABAg",
+      "snippet": {
+        "videoId": "Jm58Hgab-Kc",
+        "textDisplay": "\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5",
+        "textOriginal": "\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5\ud83c\uddf3\ud83c\uddf5",
+        "authorDisplayName": "NP Gaire",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0v38-WiAOY0YTpYnzluI2FTKgdLdQHUXFLXND=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCex8Pz_XokZbKjUHRLHenhg",
+        "authorChannelId": {
+          "value": "UCex8Pz_XokZbKjUHRLHenhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-19T12:54:25Z",
+        "updatedAt": "2022-05-19T12:54:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zNHijPkRE3sh4OcF9DEVmSd1kS0",
+      "id": "UgzgYAdrVpYW6xus6I14AaABAg.9bCtNrsoOvK9bCuoC3GCtM",
+      "snippet": {
+        "textDisplay": "Aapko Urdu aati hai kya \ud83e\udd14",
+        "textOriginal": "Aapko Urdu aati hai kya \ud83e\udd14",
+        "parentId": "UgzgYAdrVpYW6xus6I14AaABAg",
+        "authorDisplayName": "British Broadcasting Comedy  Reel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/R8-0KLnyRrnu5rE1kYIGgY0HDC6pmyF0G-VP1Iv32iOSmxOzldwJQZNyg1ksmNXYuD1gN7grNnY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMXhDfwmyYWKO5SELd1QK5g",
+        "authorChannelId": {
+          "value": "UCMXhDfwmyYWKO5SELd1QK5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-19T13:06:53Z",
+        "updatedAt": "2022-05-19T13:06:53Z"
+      }
+    }
+  ]
+}

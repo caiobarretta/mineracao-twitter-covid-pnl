@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A0HgwqvdzyJCgLHFw83uYJaTWQM",
+  "id": "UgxMkD_gFFVBStkoWvx4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6G13LaMjR2r2hVbDBP7NZKjFz7Y",
+      "id": "UgxMkD_gFFVBStkoWvx4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "Aula maravilhosa!!!! Parab\u00e9ns!",
+        "textOriginal": "Aula maravilhosa!!!! Parab\u00e9ns!",
+        "authorDisplayName": "Miguel Teixeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYzA5MEIyB28X1JBna-7dRbiMZ1JZFEtlg7nKN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8LKhlFSou7GdIHz-o8mvtw",
+        "authorChannelId": {
+          "value": "UC8LKhlFSou7GdIHz-o8mvtw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-28T19:42:14Z",
+        "updatedAt": "2020-05-28T19:42:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gkuaEeqWvL_hxf7L6pAlA_U-HrI",
+      "id": "UgxMkD_gFFVBStkoWvx4AaABAg.99D5v2QgvWk99DoMy_RNI7",
+      "snippet": {
+        "textDisplay": "Obrigada Miguel, seja muito bem vindo \u00e0 Nave.",
+        "textOriginal": "Obrigada Miguel, seja muito bem vindo \u00e0 Nave.",
+        "parentId": "UgxMkD_gFFVBStkoWvx4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-29T02:19:24Z",
+        "updatedAt": "2020-05-29T02:19:24Z"
+      }
+    }
+  ]
+}

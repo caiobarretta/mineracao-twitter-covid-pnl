@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kJz6JOVguQQbnpIZ4CSXEbEeulo",
+  "id": "UgylFEuukNpRyKb-k-x4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "r_9BaW9gJdwIRUTMZa4z8p5b-68",
+      "id": "UgylFEuukNpRyKb-k-x4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "\u00d3tima aula Professora! obrigada",
+        "textOriginal": "\u00d3tima aula Professora! obrigada",
+        "authorDisplayName": "Lacyane Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkE7LdHZEPnViIV2QI5qKOagycEeDg30Nw7Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCixnf6eJ2tGFm472gcYfsVA",
+        "authorChannelId": {
+          "value": "UCixnf6eJ2tGFm472gcYfsVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-15T16:16:36Z",
+        "updatedAt": "2020-07-15T16:16:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-Wa-AUwTR4voUF-YqR6myF447uk",
+      "id": "UgylFEuukNpRyKb-k-x4AaABAg.9B8KXqBxPWN9B9P5A2nzL9",
+      "snippet": {
+        "textDisplay": "Que bom que gostou. Eu fico feliz",
+        "textOriginal": "Que bom que gostou. Eu fico feliz",
+        "parentId": "UgylFEuukNpRyKb-k-x4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-16T02:15:36Z",
+        "updatedAt": "2020-07-16T02:15:36Z"
+      }
+    }
+  ]
+}

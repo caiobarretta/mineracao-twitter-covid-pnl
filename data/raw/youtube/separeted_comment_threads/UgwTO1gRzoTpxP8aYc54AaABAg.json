@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7tzvjahrtLWc67X5mD2Qfrjxjkg",
+  "id": "UgwTO1gRzoTpxP8aYc54AaABAg",
+  "snippet": {
+    "videoId": "lDXkbkXYtjo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1HQtRG8mAMYJB883_-xz9SC15dc",
+      "id": "UgwTO1gRzoTpxP8aYc54AaABAg",
+      "snippet": {
+        "videoId": "lDXkbkXYtjo",
+        "textDisplay": "El presidente de Corea del Norte es igual a Garfield.",
+        "textOriginal": "El presidente de Corea del Norte es igual a Garfield.",
+        "authorDisplayName": "Carlos Salvo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiwmzgvli0XANmZtgQAyJJDg_QNanYHhcGmQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOBY9uwf4_4ErVfPlE0KA3g",
+        "authorChannelId": {
+          "value": "UCOBY9uwf4_4ErVfPlE0KA3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-19T17:37:27Z",
+        "updatedAt": "2022-05-19T17:37:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Kzvz5giOVpmMKvDPl4F-1sWWGjI",
+      "id": "UgwTO1gRzoTpxP8aYc54AaABAg.9bDOlv7awXE9bDXypW2SA6",
+      "snippet": {
+        "textDisplay": "Por favor, m\u00e1s respeto con \u00e9l gordito rocket man.",
+        "textOriginal": "Por favor, m\u00e1s respeto con \u00e9l gordito rocket man.",
+        "parentId": "UgwTO1gRzoTpxP8aYc54AaABAg",
+        "authorDisplayName": "Alexsandro Silvestre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTtcqCxS_t3u93ok-7D-G4ec_WZj66-GBpzCIc-dw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCd09poG-wjDfB1eZL-06-Nw",
+        "authorChannelId": {
+          "value": "UCd09poG-wjDfB1eZL-06-Nw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T18:57:51Z",
+        "updatedAt": "2022-05-19T18:57:51Z"
+      }
+    }
+  ]
+}

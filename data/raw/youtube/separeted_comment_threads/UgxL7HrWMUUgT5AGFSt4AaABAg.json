@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "U7tVMuD2TnbVmDMV0m9RW4zAjiI",
+  "id": "UgxL7HrWMUUgT5AGFSt4AaABAg",
+  "snippet": {
+    "videoId": "GQUCCkHNjN8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TMX1UI7FaEQRwPZGB3ooGL_dMkc",
+      "id": "UgxL7HrWMUUgT5AGFSt4AaABAg",
+      "snippet": {
+        "videoId": "GQUCCkHNjN8",
+        "textDisplay": "Thanks so much for this video! It's good to inform people about the pathology and clinical effects. Let's spread the word!",
+        "textOriginal": "Thanks so much for this video! It's good to inform people about the pathology and clinical effects. Let's spread the word!",
+        "authorDisplayName": "Doornroosje",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAClL3HmUrJPJhCnpZKiiWlp6ipd4gf-HswhQqyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxQAx_k6SSugUC3lRBul1Ww",
+        "authorChannelId": {
+          "value": "UCxQAx_k6SSugUC3lRBul1Ww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 52,
+        "publishedAt": "2020-04-03T19:11:08Z",
+        "updatedAt": "2020-04-03T19:11:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tp3bnCdPDbBViObwcuTELzT8tMM",
+      "id": "UgxL7HrWMUUgT5AGFSt4AaABAg.97-Qd3-x8Md99mKyZhNrUG",
+      "snippet": {
+        "textDisplay": "spread the word; not the virus :-)",
+        "textOriginal": "spread the word; not the virus :-)",
+        "parentId": "UgxL7HrWMUUgT5AGFSt4AaABAg",
+        "authorDisplayName": "Verge Lab",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNllrqmeTOlfNL-5aFz55qJHNLI7iih9d4JQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw-0Zn5WU_P5LDZEnEpVrwA",
+        "authorChannelId": {
+          "value": "UCw-0Zn5WU_P5LDZEnEpVrwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-11T21:26:27Z",
+        "updatedAt": "2020-06-11T21:26:27Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TW7O0rwoyKKaJnFBmJH9Osq9MpQ",
+  "id": "UgxGGl4-xKcpgI8OoEB4AaABAg",
+  "snippet": {
+    "videoId": "dPNBrCb9wVY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k7BJSp4LMVtxQPVIsLzmfB-ezCQ",
+      "id": "UgxGGl4-xKcpgI8OoEB4AaABAg",
+      "snippet": {
+        "videoId": "dPNBrCb9wVY",
+        "textDisplay": "em breve\n",
+        "textOriginal": "em breve\n",
+        "authorDisplayName": "Alexandre Aguiar QuimiNutri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2w5fUPsDG_az_GIvkqyVBhtWFxjiGnlLVdkWV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRhjnLE24kkitn4EFn4Iokw",
+        "authorChannelId": {
+          "value": "UCRhjnLE24kkitn4EFn4Iokw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2013-10-07T16:56:50Z",
+        "updatedAt": "2013-10-07T16:56:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "QAXoBsIbmzyDyNbXV20_zDNAfvc",
+      "id": "UgxGGl4-xKcpgI8OoEB4AaABAg.8GccXY8IWpF95fEUAgX82C",
+      "snippet": {
+        "textDisplay": "Pode me passar o restante da aula?",
+        "textOriginal": "Pode me passar o restante da aula?",
+        "parentId": "UgxGGl4-xKcpgI8OoEB4AaABAg",
+        "authorDisplayName": "Angelina Reis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTyxM0gjMT0VDJ9MevZPW0v2SraZiuEq0jK3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT7JyOaqhS2BFvmglB35mTw",
+        "authorChannelId": {
+          "value": "UCT7JyOaqhS2BFvmglB35mTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-01T17:09:28Z",
+        "updatedAt": "2020-03-01T17:09:28Z"
+      }
+    }
+  ]
+}

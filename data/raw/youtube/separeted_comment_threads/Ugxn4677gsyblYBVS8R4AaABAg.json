@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gUGBNhFJ8I28WZFvLTlNSeUOTlo",
+  "id": "Ugxn4677gsyblYBVS8R4AaABAg",
+  "snippet": {
+    "videoId": "-gSIBFcnCIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q88HKCPZeWQY3A-bR0ehHsdV5UY",
+      "id": "Ugxn4677gsyblYBVS8R4AaABAg",
+      "snippet": {
+        "videoId": "-gSIBFcnCIs",
+        "textDisplay": "Excelente document\u00e1rio, todos os brasileiros deveriam v\u00ea-lo.",
+        "textOriginal": "Excelente document\u00e1rio, todos os brasileiros deveriam v\u00ea-lo.",
+        "authorDisplayName": "Devaneios em v\u00eddeo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQs2ZFswT7UtviPs8JKeZdeZmy-WvdrHOJ9SGMGvw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYlhHVnX_F2oqVI5YURqKiQ",
+        "authorChannelId": {
+          "value": "UCYlhHVnX_F2oqVI5YURqKiQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 38,
+        "publishedAt": "2019-12-30T15:23:57Z",
+        "updatedAt": "2019-12-30T15:23:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xQ3VFamwmRW7Ln35EMa1qoG8yVo",
+      "id": "Ugxn4677gsyblYBVS8R4AaABAg.93AP6x_ZhWq96JdJ-iEsmw",
+      "snippet": {
+        "textDisplay": "@Raquel Bueno Correa sim! Especialmente agora, nessa pandemia.",
+        "textOriginal": "@Raquel Bueno Correa sim! Especialmente agora, nessa pandemia.",
+        "parentId": "Ugxn4677gsyblYBVS8R4AaABAg",
+        "authorDisplayName": "Devaneios em v\u00eddeo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQs2ZFswT7UtviPs8JKeZdeZmy-WvdrHOJ9SGMGvw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYlhHVnX_F2oqVI5YURqKiQ",
+        "authorChannelId": {
+          "value": "UCYlhHVnX_F2oqVI5YURqKiQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-17T19:04:00Z",
+        "updatedAt": "2020-03-17T19:04:00Z"
+      }
+    }
+  ]
+}

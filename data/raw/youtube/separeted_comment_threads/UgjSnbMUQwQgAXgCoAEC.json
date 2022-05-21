@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uCHVGRl-MHF5BYY-WRuK9cnoQkc",
+  "id": "UgjSnbMUQwQgAXgCoAEC",
+  "snippet": {
+    "videoId": "dPNBrCb9wVY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cRVmDIApIbVwMCQKRhcTxKaqcps",
+      "id": "UgjSnbMUQwQgAXgCoAEC",
+      "snippet": {
+        "videoId": "dPNBrCb9wVY",
+        "textDisplay": "aula \u00f3tima! Parab\u00e9ns, professor!",
+        "textOriginal": "aula \u00f3tima! Parab\u00e9ns, professor!",
+        "authorDisplayName": "Matheus Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjBL_Th00KXeObpOv8zSHByjNcIFpRXgeayQoPwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPUR7h4IEruzBMzqyBWhG7g",
+        "authorChannelId": {
+          "value": "UCPUR7h4IEruzBMzqyBWhG7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-12-16T20:16:36Z",
+        "updatedAt": "2016-12-16T20:16:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hxbduYaWSbxFZrxP1uVEBOPY2go",
+      "id": "UgjSnbMUQwQgAXgCoAEC.8MZL20Kw7t28MZL8r52gGi",
+      "snippet": {
+        "textDisplay": "Matheus Rodrigues  valeu, obrigado!",
+        "textOriginal": "Matheus Rodrigues  valeu, obrigado!",
+        "parentId": "UgjSnbMUQwQgAXgCoAEC",
+        "authorDisplayName": "Alexandre Aguiar QuimiNutri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2w5fUPsDG_az_GIvkqyVBhtWFxjiGnlLVdkWV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRhjnLE24kkitn4EFn4Iokw",
+        "authorChannelId": {
+          "value": "UCRhjnLE24kkitn4EFn4Iokw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-12-16T20:17:31Z",
+        "updatedAt": "2016-12-16T20:17:31Z"
+      }
+    }
+  ]
+}

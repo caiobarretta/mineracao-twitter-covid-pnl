@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qFavU4PqbiCXmaoJ74fdE2pWK2I",
+  "id": "UgyQoBTEIepculmSG954AaABAg",
+  "snippet": {
+    "videoId": "VS3BTrbrbqo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NgITyx9Pl_QiaUl5fT3En3bPbdI",
+      "id": "UgyQoBTEIepculmSG954AaABAg",
+      "snippet": {
+        "videoId": "VS3BTrbrbqo",
+        "textDisplay": "N\u00e3o vejo a hora de acabar...\nObrigada Dr J\u00falio, por nos informar sem desespero...Deus te aben\u00e7oe \ud83d\ude4f\ud83c\udffb",
+        "textOriginal": "N\u00e3o vejo a hora de acabar...\nObrigada Dr J\u00falio, por nos informar sem desespero...Deus te aben\u00e7oe \ud83d\ude4f\ud83c\udffb",
+        "authorDisplayName": "Cris Taborda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlBK4g7RwGpinyPOx4hPqOg9pwU9zs99uIZV5wHEK-xWx5VRZ9itAjaVGucov-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvlJVks9ubwa98Rc0X1ywNQ",
+        "authorChannelId": {
+          "value": "UCvlJVks9ubwa98Rc0X1ywNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 34,
+        "publishedAt": "2022-02-17T12:35:54Z",
+        "updatedAt": "2022-02-17T12:35:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R3rkrnYE_V1FV4ZWuL53QNo9jd8",
+      "id": "UgyQoBTEIepculmSG954AaABAg.9YYXvdMS8L-9YYu5kJ0_HE",
+      "snippet": {
+        "textDisplay": "Estava pensando nisso enquanto assistia. Ele fala sempre com muita calma. Ajuda a gente",
+        "textOriginal": "Estava pensando nisso enquanto assistia. Ele fala sempre com muita calma. Ajuda a gente",
+        "parentId": "UgyQoBTEIepculmSG954AaABAg",
+        "authorDisplayName": "Ana Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYjobQ_B_FoxzISBD9sMpFGk4noGwPz3WAUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMvL3yKW40XWRXetonsobWg",
+        "authorChannelId": {
+          "value": "UCMvL3yKW40XWRXetonsobWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-02-17T15:58:23Z",
+        "updatedAt": "2022-02-17T15:58:23Z"
+      }
+    }
+  ]
+}

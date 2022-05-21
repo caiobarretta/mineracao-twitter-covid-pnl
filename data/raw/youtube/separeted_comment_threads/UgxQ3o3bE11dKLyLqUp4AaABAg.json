@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "waUL-8oUKnNkSyRxPKXR2mkXFD4",
+  "id": "UgxQ3o3bE11dKLyLqUp4AaABAg",
+  "snippet": {
+    "videoId": "2l2FkU006bU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "us6Vamd82OcJCgUxR7OujhCu5Yc",
+      "id": "UgxQ3o3bE11dKLyLqUp4AaABAg",
+      "snippet": {
+        "videoId": "2l2FkU006bU",
+        "textDisplay": "Obrigada por suas informa\u00e7\u00f5es.",
+        "textOriginal": "Obrigada por suas informa\u00e7\u00f5es.",
+        "authorDisplayName": "carmen linda Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8vaOC6FNkU6aMFC35-tVeB4MzFaArelOshY8B5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUey2vDGxhjnUkaAiCdPo3g",
+        "authorChannelId": {
+          "value": "UCUey2vDGxhjnUkaAiCdPo3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-13T15:51:56Z",
+        "updatedAt": "2021-05-13T15:51:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lnFM9R-EsuJcOSklbmRGQoknVuo",
+      "id": "UgxQ3o3bE11dKLyLqUp4AaABAg.9NHumQIErgT9Wol2FYzQyu",
+      "snippet": {
+        "textDisplay": "Cuidado enlouquecer",
+        "textOriginal": "Cuidado enlouquecer",
+        "parentId": "UgxQ3o3bE11dKLyLqUp4AaABAg",
+        "authorDisplayName": "Leandro Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmDkR_MLYX7JAUpqmHm08-u68DN64vabwqROMhGH51Z-csbdGdU6bu6GODfQDO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_J4Hl9zKAftEmLCpMiOd-Q",
+        "authorChannelId": {
+          "value": "UC_J4Hl9zKAftEmLCpMiOd-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-05T12:03:34Z",
+        "updatedAt": "2022-01-05T12:03:34Z"
+      }
+    }
+  ]
+}

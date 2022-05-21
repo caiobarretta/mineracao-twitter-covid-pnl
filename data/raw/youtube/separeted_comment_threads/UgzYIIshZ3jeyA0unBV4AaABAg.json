@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sAyX_SorUK-bwWIqxVWLZG2pthk",
+  "id": "UgzYIIshZ3jeyA0unBV4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vbwrujctzyvfXglgpiUib5lF5eo",
+      "id": "UgzYIIshZ3jeyA0unBV4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "N\u00e3o entendi muito mais gostei",
+        "textOriginal": "N\u00e3o entendi muito mais gostei",
+        "authorDisplayName": "Silvio Nogueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuBm54kN6TND1V71y7Wb504N8P_I5jlh2w-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS42YSABoFtCtgeecEFODTA",
+        "authorChannelId": {
+          "value": "UCS42YSABoFtCtgeecEFODTA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-12T16:52:53Z",
+        "updatedAt": "2021-02-12T16:52:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "R0ScTXNeuRc3vQXNoTC7eynKn98",
+      "id": "UgzYIIshZ3jeyA0unBV4AaABAg.9JfHD4z7rKy9JfsCayQOPK",
+      "snippet": {
+        "textDisplay": "Estou por aqui se quiser tirar d\u00favidas.",
+        "textOriginal": "Estou por aqui se quiser tirar d\u00favidas.",
+        "parentId": "UgzYIIshZ3jeyA0unBV4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-12T22:24:51Z",
+        "updatedAt": "2021-02-12T22:24:51Z"
+      }
+    }
+  ]
+}

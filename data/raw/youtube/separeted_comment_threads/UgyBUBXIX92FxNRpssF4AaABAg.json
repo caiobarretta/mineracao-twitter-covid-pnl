@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yJ0lRYOCugsWDhjpToEZiLAdZkY",
+  "id": "UgyBUBXIX92FxNRpssF4AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9JtqvsJKrB7s5PPZNqYbLj_XIgc",
+      "id": "UgyBUBXIX92FxNRpssF4AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "Aula top, me ajudou demais, aula bem organizada, simplificada e ao mesmo tempo completa.",
+        "textOriginal": "Aula top, me ajudou demais, aula bem organizada, simplificada e ao mesmo tempo completa.",
+        "authorDisplayName": "Mikaele Menezes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEMAiO8mGbBZ1rPsVqNTR9A7azwAfzOBChZUIbrA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBUSbBV5z6c74B6g4BvQHlg",
+        "authorChannelId": {
+          "value": "UCBUSbBV5z6c74B6g4BvQHlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-09-21T21:04:15Z",
+        "updatedAt": "2021-09-21T21:04:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "f0rdjBYDv9qyrpfRDJthPDnfvVQ",
+      "id": "UgyBUBXIX92FxNRpssF4AaABAg.9SZme_7_EKA9SpkSgwcZ9Q",
+      "snippet": {
+        "textDisplay": "Muito obrigado!",
+        "textOriginal": "Muito obrigado!",
+        "parentId": "UgyBUBXIX92FxNRpssF4AaABAg",
+        "authorDisplayName": "Cristiane Bourscheid",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQtSQyRfRnzJ8LEuRrgOVWwkZXBSn8ILw7zL70FQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcJ6A02XHafuqHhl6thYu0A",
+        "authorChannelId": {
+          "value": "UCcJ6A02XHafuqHhl6thYu0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-28T11:12:06Z",
+        "updatedAt": "2021-09-28T11:12:06Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0S8FrKpBqEZ_DTi3DA1NV2lN20A",
+  "id": "UgyymdhKR-_0eeZrTBl4AaABAg",
+  "snippet": {
+    "videoId": "WU3w_kijMjs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EhL9I_fxefsmqdnWF5i1e9WFaSc",
+      "id": "UgyymdhKR-_0eeZrTBl4AaABAg",
+      "snippet": {
+        "videoId": "WU3w_kijMjs",
+        "textDisplay": "como pode acabar uma coisa que nunca come\u00e7ou?",
+        "textOriginal": "como pode acabar uma coisa que nunca come\u00e7ou?",
+        "authorDisplayName": "Ivan Maldonado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuj8REh-Y7TkdkLdKw8K1AL8rqweCOgLzGF03c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNz4L-Z1qCuZVpInEc-0eIg",
+        "authorChannelId": {
+          "value": "UCNz4L-Z1qCuZVpInEc-0eIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-11T23:10:42Z",
+        "updatedAt": "2021-12-11T23:10:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GRQfNzcVmhiDN3xWKc0zZ5YtSBQ",
+      "id": "UgyymdhKR-_0eeZrTBl4AaABAg.9Vp_WXyFUiE9VpaLnAKg_v",
+      "snippet": {
+        "textDisplay": "S\u00e9rio?",
+        "textOriginal": "S\u00e9rio?",
+        "parentId": "UgyymdhKR-_0eeZrTBl4AaABAg",
+        "authorDisplayName": "Sonegett Sonegett",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_8mE3XPiqAhsFaf5fmVNonyDuu0hGXjiGTsmA7CGqW7HPcxi6FCrWAJrAlGL9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2eWPJGcf98dMrTJ4aXI7Jw",
+        "authorChannelId": {
+          "value": "UC2eWPJGcf98dMrTJ4aXI7Jw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-11T23:17:58Z",
+        "updatedAt": "2021-12-11T23:17:58Z"
+      }
+    }
+  ]
+}

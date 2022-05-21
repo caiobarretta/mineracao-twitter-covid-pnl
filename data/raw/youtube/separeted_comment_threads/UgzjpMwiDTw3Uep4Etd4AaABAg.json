@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7zggkL8X2gWDmq37qPlB3ktwb5c",
+  "id": "UgzjpMwiDTw3Uep4Etd4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Vlh22xxO9YTqegjY2wXAMAb8ibY",
+      "id": "UgzjpMwiDTw3Uep4Etd4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "Oi, boa noite!!!",
+        "textOriginal": "Oi, boa noite!!!",
+        "authorDisplayName": "FALANDO DE TUDO A TODA HORA.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yIj3H_H44LKCzdRbzz98naqPUoO8pRTaBy508yyo9sa_tNjdrN8CZ5l5ouPEat7njEpWSsviRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChPPtQEus28aPJuemZIqrmA",
+        "authorChannelId": {
+          "value": "UChPPtQEus28aPJuemZIqrmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-23T22:09:40Z",
+        "updatedAt": "2021-09-23T22:09:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2kaFASip04V0ZGYYTPJcniswRck",
+      "id": "UgzjpMwiDTw3Uep4Etd4AaABAg.9Se2jRvcGUj9Se33FiG9ly",
+      "snippet": {
+        "textDisplay": "Boa noite! \ud83d\ude0a",
+        "textOriginal": "Boa noite! \ud83d\ude0a",
+        "parentId": "UgzjpMwiDTw3Uep4Etd4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-23T22:12:30Z",
+        "updatedAt": "2021-09-23T22:12:30Z"
+      }
+    }
+  ]
+}

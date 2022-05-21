@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Szb_AzNJgYmNaTFCokRwXQ0dR4s",
+  "id": "UghVB3PO-uusnngCoAEC",
+  "snippet": {
+    "videoId": "D9BzFBiP5gs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XS9RAzfJT8aSiD2pq9ywk9siecg",
+      "id": "UghVB3PO-uusnngCoAEC",
+      "snippet": {
+        "videoId": "D9BzFBiP5gs",
+        "textDisplay": "Ol\u00e1, voc\u00ea poderia fazer um v\u00eddeo falando como s\u00e3o as farm\u00e1cias do Canada? Sou estudante de farm\u00e1cia e tenho muita curiosidade de saber.",
+        "textOriginal": "Ol\u00e1, voc\u00ea poderia fazer um v\u00eddeo falando como s\u00e3o as farm\u00e1cias do Canada? Sou estudante de farm\u00e1cia e tenho muita curiosidade de saber.",
+        "authorDisplayName": "Jairlon Albino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKUsvceF5Ay9iSRhAnawzvTq1ghU8jg11e8Fkt=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2vihvWMWZtZCitoBagfHZg",
+        "authorChannelId": {
+          "value": "UC2vihvWMWZtZCitoBagfHZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2014-05-27T22:45:04Z",
+        "updatedAt": "2014-05-27T22:45:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8cRt8i5aXnZm9Gfq9nV3i7MrBUc",
+      "id": "UghVB3PO-uusnngCoAEC.7-H0Z7-UFsu7-H27IqWzgm",
+      "snippet": {
+        "textDisplay": "Oi Jairlon, o tema fara parte da serie de videos sobre saude no Canada.",
+        "textOriginal": "Oi Jairlon, o tema fara parte da serie de videos sobre saude no Canada.",
+        "parentId": "UghVB3PO-uusnngCoAEC",
+        "authorDisplayName": "Mandy e Mais no Canad\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmdvzA0I7gIz1dMwdjy9uwyYHnaNk7HY9-8rkftg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbywcUPto84tYC2xD4pjSnQ",
+        "authorChannelId": {
+          "value": "UCbywcUPto84tYC2xD4pjSnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2014-05-27T22:58:45Z",
+        "updatedAt": "2014-05-27T22:58:45Z"
+      }
+    }
+  ]
+}

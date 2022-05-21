@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "gVL7WjNWfpwBPkAztyL7WO782A0",
+  "id": "UgyX4mKKTCEQRG0_17N4AaABAg",
+  "snippet": {
+    "videoId": "t4n8MMaPd_E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "F0nov-ohOirNHCYVvzaK3eGqlpg",
+      "id": "UgyX4mKKTCEQRG0_17N4AaABAg",
+      "snippet": {
+        "videoId": "t4n8MMaPd_E",
+        "textDisplay": "This is so sad.  These people are still wearing masks.",
+        "textOriginal": "This is so sad.  These people are still wearing masks.",
+        "authorDisplayName": "Gifted Green",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQFTOL55rGnVBJcVEqp1wkgs8_L0lseN3B8G-mGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEpKlHXW8hNESeS_0XfKiHA",
+        "authorChannelId": {
+          "value": "UCEpKlHXW8hNESeS_0XfKiHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2022-05-18T01:36:31Z",
+        "updatedAt": "2022-05-18T01:36:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 4,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ICDAsPDQOfFq9-YPrMpD1Y-b8XQ",
+      "id": "UgyX4mKKTCEQRG0_17N4AaABAg.9b96-xh8Bjm9b96NQ4Slii",
+      "snippet": {
+        "textDisplay": "If you notice. Not the reporter/reporters whose reporting on this story.  \ud83d\ude02",
+        "textOriginal": "If you notice. Not the reporter/reporters whose reporting on this story.  \ud83d\ude02",
+        "parentId": "UgyX4mKKTCEQRG0_17N4AaABAg",
+        "authorDisplayName": "Paul Begley",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTafsejziaMY08ya3yKxl2SrK-jNybLy1Ik8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1YAjgs7LNCpSxKlL8knb8A",
+        "authorChannelId": {
+          "value": "UC1YAjgs7LNCpSxKlL8knb8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-18T01:39:43Z",
+        "updatedAt": "2022-05-18T01:39:43Z"
+      }
+    }
+  ]
+}

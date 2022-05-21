@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RMV8IrqeWwX9tx9FDpooGWcjyFI",
+  "id": "UgwGyVKehnXw6ubzzuR4AaABAg",
+  "snippet": {
+    "videoId": "tNKef7ZVuc0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AeZ3WQRQciVz_0LTXhMeujhdy_Q",
+      "id": "UgwGyVKehnXw6ubzzuR4AaABAg",
+      "snippet": {
+        "videoId": "tNKef7ZVuc0",
+        "textDisplay": "\"Literal stream of data\"  Took such a nice approach to that.  I'd have gone with something like \"Crapload of data\"",
+        "textOriginal": "\"Literal stream of data\"  Took such a nice approach to that.  I'd have gone with something like \"Crapload of data\"",
+        "authorDisplayName": "Ryan Post",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjRlqnURLtPGs_ZFde0fkQr53uXjT98QRxtz7G8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0nbvUe0PTff2AllA3xledA",
+        "authorChannelId": {
+          "value": "UC0nbvUe0PTff2AllA3xledA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-05-17T15:55:58Z",
+        "updatedAt": "2022-05-17T15:55:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H6f078U8hOKEbUjadgzYqyKR6C0",
+      "id": "UgwGyVKehnXw6ubzzuR4AaABAg.9b83ZqDbvub9bAXJxbVZTU",
+      "snippet": {
+        "textDisplay": "*no pun intended",
+        "textOriginal": "*no pun intended",
+        "parentId": "UgwGyVKehnXw6ubzzuR4AaABAg",
+        "authorDisplayName": "Aditya Raka",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrfiDD9UjUKui1HWhEb64mh9qFagJ8fsZCa8tBMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC02jHFEeFlQln23oNtCbCuA",
+        "authorChannelId": {
+          "value": "UC02jHFEeFlQln23oNtCbCuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-18T14:54:25Z",
+        "updatedAt": "2022-05-18T14:54:25Z"
+      }
+    }
+  ]
+}

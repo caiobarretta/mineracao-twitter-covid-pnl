@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "EohGTJ1wjzXWRIxeOqdHS88zfpQ",
+  "id": "Ugxt8ecvWYkOtdGdCTF4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "b5PKzJlkk87zWtj0n0ci02LXWx4",
+      "id": "Ugxt8ecvWYkOtdGdCTF4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "Muito bom!! Obrigada!",
+        "textOriginal": "Muito bom!! Obrigada!",
+        "authorDisplayName": "Alice Rosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkt7vkaCxUjnHHAJslRRfPz-nVFM6kuB-pdAenP-4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCktVRJwVWhB1EJd2746A1HQ",
+        "authorChannelId": {
+          "value": "UCktVRJwVWhB1EJd2746A1HQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-24T13:47:23Z",
+        "updatedAt": "2021-09-24T13:47:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FlVKDpUNm3UyGk6pa8LGOv7-Lis",
+      "id": "Ugxt8ecvWYkOtdGdCTF4AaABAg.9Sfj2VKR4lM9SgVu9_O71M",
+      "snippet": {
+        "textDisplay": "Alice, eu que agrade\u00e7o! Seu coment\u00e1rio ajuda demais!",
+        "textOriginal": "Alice, eu que agrade\u00e7o! Seu coment\u00e1rio ajuda demais!",
+        "parentId": "Ugxt8ecvWYkOtdGdCTF4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-24T21:03:01Z",
+        "updatedAt": "2021-09-24T21:03:01Z"
+      }
+    }
+  ]
+}

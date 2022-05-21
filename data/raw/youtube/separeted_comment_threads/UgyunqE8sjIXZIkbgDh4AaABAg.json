@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HsltRw6MS0rzUmhSNcWTFYp3yeY",
+  "id": "UgyunqE8sjIXZIkbgDh4AaABAg",
+  "snippet": {
+    "videoId": "GG8eDFjgFiM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Mv4ph6V708IU2ZKmdS7p-wJG-z0",
+      "id": "UgyunqE8sjIXZIkbgDh4AaABAg",
+      "snippet": {
+        "videoId": "GG8eDFjgFiM",
+        "textDisplay": "Gustavo que me mandou ver",
+        "textOriginal": "Gustavo que me mandou ver",
+        "authorDisplayName": "Ohelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTG5cz5b0hxN2-IPmSdRNWQ_HzAtO7FiOiIHqIwwg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2-_caUvMN8ngDflu9FzwZg",
+        "authorChannelId": {
+          "value": "UC2-_caUvMN8ngDflu9FzwZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-16T18:09:30Z",
+        "updatedAt": "2021-03-16T18:09:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7MT-NY9QvKhI7nnGuni3EDqKiEE",
+      "id": "UgyunqE8sjIXZIkbgDh4AaABAg.9KxoQLpPnJr9QJ0V8eDNHe",
+      "snippet": {
+        "textDisplay": "Vc \u00e9 de que escola",
+        "textOriginal": "Vc \u00e9 de que escola",
+        "parentId": "UgyunqE8sjIXZIkbgDh4AaABAg",
+        "authorDisplayName": "LILO-XP",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/hzN6jtVNUdUABGZZpBPhgxhKwQhz6yGzPat_Olr9tC7gzmY1GBpzvxGOJG4Y6rfso2gqZz_L-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJup7ZECVbw2uPDETdsBmzA",
+        "authorChannelId": {
+          "value": "UCJup7ZECVbw2uPDETdsBmzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-27T15:44:01Z",
+        "updatedAt": "2021-07-27T15:44:01Z"
+      }
+    }
+  ]
+}

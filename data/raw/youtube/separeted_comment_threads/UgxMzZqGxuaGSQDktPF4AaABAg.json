@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZKAtx10kBBOZpXWp629wUX_cx9o",
+  "id": "UgxMzZqGxuaGSQDktPF4AaABAg",
+  "snippet": {
+    "videoId": "8LoQpn1I6V0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k8pfDK9UJWKkjLRINnVQxD2XhSI",
+      "id": "UgxMzZqGxuaGSQDktPF4AaABAg",
+      "snippet": {
+        "videoId": "8LoQpn1I6V0",
+        "textDisplay": "V\u00eddeo \u00fatil e informativo. Muito obrigado e sucesso na jornada!",
+        "textOriginal": "V\u00eddeo \u00fatil e informativo. Muito obrigado e sucesso na jornada!",
+        "authorDisplayName": "mateustanure",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQg7S5dq0PzfA03K951MHOhj2jcTVDNReevHA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf60WXubD4qQ7KgrJroh6bw",
+        "authorChannelId": {
+          "value": "UCf60WXubD4qQ7KgrJroh6bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-22T01:44:50Z",
+        "updatedAt": "2020-06-22T01:44:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BDcUIXI-5fyK4AJsYNyyECEzfM4",
+      "id": "UgxMzZqGxuaGSQDktPF4AaABAg.9ABYUknHcIW9ACL2NsYvJR",
+      "snippet": {
+        "textDisplay": "mateustanure vlw",
+        "textOriginal": "mateustanure vlw",
+        "parentId": "UgxMzZqGxuaGSQDktPF4AaABAg",
+        "authorDisplayName": "Casamos e Mudamos - Irlanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSy6uN1c26dn229zdusWKx8FIDapsGmMvaiqKOcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnVMC2vVIJXlcjTetYxcPwQ",
+        "authorChannelId": {
+          "value": "UCnVMC2vVIJXlcjTetYxcPwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-22T09:06:36Z",
+        "updatedAt": "2020-06-22T09:06:36Z"
+      }
+    }
+  ]
+}

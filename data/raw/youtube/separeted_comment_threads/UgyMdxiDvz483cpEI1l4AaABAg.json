@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zsZOetCgnTxnyod6r-dIb803Dq0",
+  "id": "UgyMdxiDvz483cpEI1l4AaABAg",
+  "snippet": {
+    "videoId": "BWbDwsHkM9A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KKB-S7qf0ztJzeXRGrx2BhSXRDw",
+      "id": "UgyMdxiDvz483cpEI1l4AaABAg",
+      "snippet": {
+        "videoId": "BWbDwsHkM9A",
+        "textDisplay": "Onde vc passou com o cirurgi\u00e3o bari\u00e1trico?",
+        "textOriginal": "Onde vc passou com o cirurgi\u00e3o bari\u00e1trico?",
+        "authorDisplayName": "Roseli Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8kQKlpHY3M_3BcPuDiayx_IWppJ-XF6y8syg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClmNO2ED22wfU2crX7vO1Pw",
+        "authorChannelId": {
+          "value": "UClmNO2ED22wfU2crX7vO1Pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-07T03:25:30Z",
+        "updatedAt": "2022-03-07T03:25:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JwWSOQ-JA_sL1O4QV2kpIJEft60",
+      "id": "UgyMdxiDvz483cpEI1l4AaABAg.9ZFuFD6Fscb9b84Aok5DC7",
+      "snippet": {
+        "textDisplay": "Hospital Santa Catarina",
+        "textOriginal": "Hospital Santa Catarina",
+        "parentId": "UgyMdxiDvz483cpEI1l4AaABAg",
+        "authorDisplayName": "Digo E Jess",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bhOjKwgHhyhKPNK5mKhkOJghJgWlIM-aeN7JEn_ilG4xeqQQYVNkMG_CiHOF3IW5Gn7Rv4Gc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPVeRPtTc61l5ykcihUGArA",
+        "authorChannelId": {
+          "value": "UCPVeRPtTc61l5ykcihUGArA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-17T16:01:17Z",
+        "updatedAt": "2022-05-17T16:01:17Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "J1CNTrff3q_sxUi9N20pei87GPg",
+  "id": "UgyfNhvpdso71UpsGZR4AaABAg",
+  "snippet": {
+    "videoId": "fJEIpwsb6Yk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NEmTa1b7jzVBLaZUnJSaePlFqf8",
+      "id": "UgyfNhvpdso71UpsGZR4AaABAg",
+      "snippet": {
+        "videoId": "fJEIpwsb6Yk",
+        "textDisplay": "Can someone tell me what are the abbreviations of C and T ?",
+        "textOriginal": "Can someone tell me what are the abbreviations of C and T ?",
+        "authorDisplayName": "Lil Fl\u00f8ttante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS32lYyDYWx9wHShioHE6RWIf0FN3f2gSRA2Zr2ng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQlSjz5mYjTvwwH_kCPKz3w",
+        "authorChannelId": {
+          "value": "UCQlSjz5mYjTvwwH_kCPKz3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-12T11:02:24Z",
+        "updatedAt": "2021-06-12T11:02:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nhwbtXB8euY5gFJ4BIKSqJVVylM",
+      "id": "UgyfNhvpdso71UpsGZR4AaABAg.9OUdV7_Nrp19OYDzn292Bq",
+      "snippet": {
+        "textDisplay": "C stands for \"the control line\". T for \"test line\".",
+        "textOriginal": "C stands for \"the control line\". T for \"test line\".",
+        "parentId": "UgyfNhvpdso71UpsGZR4AaABAg",
+        "authorDisplayName": "Eric Mars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTB1nTOdNHDm4F6-MzAUdLfZmu0_KQTYvue_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp8qn1L_XG2vkad6mOr-54A",
+        "authorChannelId": {
+          "value": "UCp8qn1L_XG2vkad6mOr-54A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-06-13T20:27:45Z",
+        "updatedAt": "2021-06-13T20:27:45Z"
+      }
+    }
+  ]
+}

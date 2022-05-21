@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "t_5Ht6HTOR35fDzibHEfuLlxt_c",
+  "id": "UgxSojlX9gXEX5Cdafp4AaABAg",
+  "snippet": {
+    "videoId": "PPrzZw8JOh0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XFjDDp6TSAjl27HpD_bNp-HiYtc",
+      "id": "UgxSojlX9gXEX5Cdafp4AaABAg",
+      "snippet": {
+        "videoId": "PPrzZw8JOh0",
+        "textDisplay": "\u00d3timo video!",
+        "textOriginal": "\u00d3timo video!",
+        "authorDisplayName": "Felipe Arbigaus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9AGHY0SJyBP92PT7BzJIWtNWI3g6Pjf_dAxNR5hw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIhEuvBSgYzTZ1AZ0h8C32w",
+        "authorChannelId": {
+          "value": "UCIhEuvBSgYzTZ1AZ0h8C32w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-02T10:56:57Z",
+        "updatedAt": "2022-05-02T10:56:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "O1BM3p2XkMOCneMQcEIQg_5UJ-Y",
+      "id": "UgxSojlX9gXEX5Cdafp4AaABAg.9aWuQks5kiy9aWzV-43t4Q",
+      "snippet": {
+        "textDisplay": "Muito obrigado Felip\u00e3o",
+        "textOriginal": "Muito obrigado Felip\u00e3o",
+        "parentId": "UgxSojlX9gXEX5Cdafp4AaABAg",
+        "authorDisplayName": "Leo do Canad\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7ZVbEnm6eILgjGrPDZAUm9Wnb-ZRE6JSJ3D4X=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQlEO1lBzSawf10_czKolzQ",
+        "authorChannelId": {
+          "value": "UCQlEO1lBzSawf10_czKolzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-02T11:41:14Z",
+        "updatedAt": "2022-05-02T11:41:14Z"
+      }
+    }
+  ]
+}

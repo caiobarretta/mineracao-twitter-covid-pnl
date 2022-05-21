@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9Zjd3NPSmp0o2SO42hKVrmASy94",
+  "id": "UgyHSddsjlWYZZZtAot4AaABAg",
+  "snippet": {
+    "videoId": "BWbDwsHkM9A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_lAUHWfetdkDB4-L6bhLGAwciBA",
+      "id": "UgyHSddsjlWYZZZtAot4AaABAg",
+      "snippet": {
+        "videoId": "BWbDwsHkM9A",
+        "textDisplay": "O processo todo at\u00e9 te chamarem foi quanto tempo",
+        "textOriginal": "O processo todo at\u00e9 te chamarem foi quanto tempo",
+        "authorDisplayName": "bruninho 160",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgvO-1QAEvr6KzKKnmd6m5Lph2jwdCpSYndJrT8SE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXZmTGnChF10dbeOv4O9XPQ",
+        "authorChannelId": {
+          "value": "UCXZmTGnChF10dbeOv4O9XPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-03-18T00:46:10Z",
+        "updatedAt": "2022-03-18T00:46:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d_UMGmxcQ760J0dFmYTWiLY-Q7s",
+      "id": "UgyHSddsjlWYZZZtAot4AaABAg.9ZgwksOx_Jj9amaKqhJCUS",
+      "snippet": {
+        "textDisplay": "Nao adianta perg ela n responde ja perg no insta ela nem da bola",
+        "textOriginal": "Nao adianta perg ela n responde ja perg no insta ela nem da bola",
+        "parentId": "UgyHSddsjlWYZZZtAot4AaABAg",
+        "authorDisplayName": "Lucas Roschel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGH57S648LJtJ2NJBzG1-7ELMeVOwVxNPsYdtQVQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCg2C4pkO9CtqJxOrcJM-ShA",
+        "authorChannelId": {
+          "value": "UCg2C4pkO9CtqJxOrcJM-ShA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-08T22:28:28Z",
+        "updatedAt": "2022-05-08T22:28:28Z"
+      }
+    }
+  ]
+}

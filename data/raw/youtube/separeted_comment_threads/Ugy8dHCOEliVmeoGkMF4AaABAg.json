@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TRP5RQrhEchDo9a9zw2txE6Dy8M",
+  "id": "Ugy8dHCOEliVmeoGkMF4AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UtVGWgNf9IgNBUS39qzuNKCi-d4",
+      "id": "Ugy8dHCOEliVmeoGkMF4AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "\u00f3tima aula.",
+        "textOriginal": "\u00f3tima aula.",
+        "authorDisplayName": "Matheus Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0cx3XGRiL-_VPb3Ehwvu52kyzrbusbieP7CHkdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ0Hi2k8hoUmksjjJeaxW6g",
+        "authorChannelId": {
+          "value": "UCZ0Hi2k8hoUmksjjJeaxW6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-31T21:49:59Z",
+        "updatedAt": "2021-05-31T21:49:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ObaiF5aiXRbTK4Hl68indezbnGk",
+      "id": "Ugy8dHCOEliVmeoGkMF4AaABAg.9O0u3fYU4BF9OIgZqgf5BG",
+      "snippet": {
+        "textDisplay": "Obrigado \ud83d\ude03",
+        "textOriginal": "Obrigado \ud83d\ude03",
+        "parentId": "Ugy8dHCOEliVmeoGkMF4AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-07T19:38:22Z",
+        "updatedAt": "2021-06-07T19:38:22Z"
+      }
+    }
+  ]
+}

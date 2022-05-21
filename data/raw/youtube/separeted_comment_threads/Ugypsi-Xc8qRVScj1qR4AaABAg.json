@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ueARf-5vLhX3wpUBIvYTf0t2XMQ",
+  "id": "Ugypsi-Xc8qRVScj1qR4AaABAg",
+  "snippet": {
+    "videoId": "4aVLltbDCKc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "C64rx1m3O03g_BUjhBEMxqFWA4U",
+      "id": "Ugypsi-Xc8qRVScj1qR4AaABAg",
+      "snippet": {
+        "videoId": "4aVLltbDCKc",
+        "textDisplay": "how can u give this effect on blender software ur pdb files?",
+        "textOriginal": "how can u give this effect on blender software ur pdb files?",
+        "authorDisplayName": "Giovanni k",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPbQAHRA3_48ZiEj___dsyweJOigQhPzqsiP8GWJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6to_fOKlENoRVpqRKj3h8A",
+        "authorChannelId": {
+          "value": "UC6to_fOKlENoRVpqRKj3h8A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-08T12:18:02Z",
+        "updatedAt": "2020-05-08T12:18:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TeTjyyU3x8jITSzgMEQzddsaI-A",
+      "id": "Ugypsi-Xc8qRVScj1qR4AaABAg.98OoB2SqomI98kSeiGLb1g",
+      "snippet": {
+        "textDisplay": "Do you already have your Chimera program installed?",
+        "textOriginal": "Do you already have your Chimera program installed?",
+        "parentId": "Ugypsi-Xc8qRVScj1qR4AaABAg",
+        "authorDisplayName": "Alejandro Mart\u00ednez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMF8UmnVvEHr4I-lEKIkF2TdSlAvzg0Vi2xXYJLgM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCES-8tCC7gAhTOiDp2hvoMw",
+        "authorChannelId": {
+          "value": "UCES-8tCC7gAhTOiDp2hvoMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-17T07:23:46Z",
+        "updatedAt": "2020-05-17T07:23:46Z"
+      }
+    }
+  ]
+}

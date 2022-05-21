@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A9oBm9gf2WjIZ-aTf55xBFLQdUA",
+  "id": "UgytMd_6pUSEaaJb7Kl4AaABAg",
+  "snippet": {
+    "videoId": "tFnA4d3bAQU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "jr0W3AddXtNp9BVzzZdHxeg75aQ",
+      "id": "UgytMd_6pUSEaaJb7Kl4AaABAg",
+      "snippet": {
+        "videoId": "tFnA4d3bAQU",
+        "textDisplay": "Gente, por hj acabou ou a prof ir\u00e1 voltar?",
+        "textOriginal": "Gente, por hj acabou ou a prof ir\u00e1 voltar?",
+        "authorDisplayName": "Rute Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8yA4zuYMIRYBbvGlQagrt1y-XzS5Zohuhtkjo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxWwfV6KV6dLgtZg95sV8yA",
+        "authorChannelId": {
+          "value": "UCxWwfV6KV6dLgtZg95sV8yA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-07T21:36:52Z",
+        "updatedAt": "2022-04-07T21:36:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k1dVvNs1lL4hvkPfpFoAH9_B2zY",
+      "id": "UgytMd_6pUSEaaJb7Kl4AaABAg.9_Xfmgc5bmq9_XgcSTq5Z0",
+      "snippet": {
+        "textDisplay": "T\u00f4 na espera tbm",
+        "textOriginal": "T\u00f4 na espera tbm",
+        "parentId": "UgytMd_6pUSEaaJb7Kl4AaABAg",
+        "authorDisplayName": "Priscila Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStPDnBhaidoCs3VtDWY7zBE0enLp8T2nv-hCIE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1VkLlZjfpwoDMCirhOWOKQ",
+        "authorChannelId": {
+          "value": "UC1VkLlZjfpwoDMCirhOWOKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-07T21:44:12Z",
+        "updatedAt": "2022-04-07T21:44:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "33YtZXjk1SlVPoYtXX4irBeuUhM",
+  "id": "UgxmHFTLtF0oZO-Gabl4AaABAg",
+  "snippet": {
+    "videoId": "Rg9a-Al6T4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YK_khNyzlIWg9jhrkMeqOfrZusU",
+      "id": "UgxmHFTLtF0oZO-Gabl4AaABAg",
+      "snippet": {
+        "videoId": "Rg9a-Al6T4E",
+        "textDisplay": "n\u00e3o entendi nada",
+        "textOriginal": "n\u00e3o entendi nada",
+        "authorDisplayName": "Valeria Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMrMoB_srdjbQNXqvQ9kJc59arAsGYhTMv5Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5ceqrwIpiaLN-XH409KgPQ",
+        "authorChannelId": {
+          "value": "UC5ceqrwIpiaLN-XH409KgPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T16:46:16Z",
+        "updatedAt": "2022-05-20T16:46:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4L5CrdZfpqO5sd5px7aWlZOSZLw",
+      "id": "UgxmHFTLtF0oZO-Gabl4AaABAg.9bFshrduCiD9bGRlZevXdr",
+      "snippet": {
+        "textDisplay": "O que vc n\u00e3o entendeu?",
+        "textOriginal": "O que vc n\u00e3o entendeu?",
+        "parentId": "UgxmHFTLtF0oZO-Gabl4AaABAg",
+        "authorDisplayName": "Gabriel P.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vWEOv7GAggcuXrzv3bbpBjW2byoHXtUArMn7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxw9FggVCBk3JgN-_9gUt9w",
+        "authorChannelId": {
+          "value": "UCxw9FggVCBk3JgN-_9gUt9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T22:01:20Z",
+        "updatedAt": "2022-05-20T22:01:20Z"
+      }
+    }
+  ]
+}

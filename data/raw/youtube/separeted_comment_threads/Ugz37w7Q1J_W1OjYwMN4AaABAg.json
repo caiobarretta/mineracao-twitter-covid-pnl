@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VSdgwdb42LcdXpoGYV3WvSwecIs",
+  "id": "Ugz37w7Q1J_W1OjYwMN4AaABAg",
+  "snippet": {
+    "videoId": "optecDQPvFY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "bzvYWjYThrPJ6ZDjiNpa0H1LyKQ",
+      "id": "Ugz37w7Q1J_W1OjYwMN4AaABAg",
+      "snippet": {
+        "videoId": "optecDQPvFY",
+        "textDisplay": "Nice sir",
+        "textOriginal": "Nice sir",
+        "authorDisplayName": "ASURAN GAMING",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwqxgPWZj2VUoH2A7sH85Rqx6gQ3OPFKL5Uze7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYdPFPARCP0lmWuP40wc9Vg",
+        "authorChannelId": {
+          "value": "UCYdPFPARCP0lmWuP40wc9Vg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T10:26:52Z",
+        "updatedAt": "2022-01-06T10:26:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NijIct33CPLvSkGahyMucBVz-4o",
+      "id": "Ugz37w7Q1J_W1OjYwMN4AaABAg.9Wr9ltqDTxX9Ws1pruG6LK",
+      "snippet": {
+        "textDisplay": "THANK YOU VERY MUCH",
+        "textOriginal": "THANK YOU VERY MUCH",
+        "parentId": "Ugz37w7Q1J_W1OjYwMN4AaABAg",
+        "authorDisplayName": "Dr Balasubramanian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GiF0BsDmUB_gViTcZGiF-6PNQOTcOxYH_gwxjp8tJDw34HkQGPTM_OvGWCpxhRNwRFG-btsTVoE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2eZpWuGFhMOXNRHw4DWXw",
+        "authorChannelId": {
+          "value": "UCL2eZpWuGFhMOXNRHw4DWXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T18:36:45Z",
+        "updatedAt": "2022-01-06T18:36:45Z"
+      }
+    }
+  ]
+}

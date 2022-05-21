@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tKUZv0AZ-jbCgN2RqiMW4rbWKz4",
+  "id": "Ugwlk-qQy3dI0F15glt4AaABAg",
+  "snippet": {
+    "videoId": "XQHq2jPG2bY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NWwYYAZEXt9y5xu7Qhl_IaYcgJs",
+      "id": "Ugwlk-qQy3dI0F15glt4AaABAg",
+      "snippet": {
+        "videoId": "XQHq2jPG2bY",
+        "textDisplay": "Bom dia !!!",
+        "textOriginal": "Bom dia !!!",
+        "authorDisplayName": "Cristina F\u00e1tima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMsy0-S_yy6DUfHB3DL26Kv33WT53N0Cp_Cw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCytLe53ojmYGGaQwb2VUkXQ",
+        "authorChannelId": {
+          "value": "UCytLe53ojmYGGaQwb2VUkXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-09T13:55:51Z",
+        "updatedAt": "2021-11-09T13:55:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lFm7sYYCey-X2iLVtwf341t5kuo",
+      "id": "Ugwlk-qQy3dI0F15glt4AaABAg.9UXB_iBsGGS9UXDsnykSAq",
+      "snippet": {
+        "textDisplay": "So vejo o dr Juliano falando em fim da pandemia.",
+        "textOriginal": "So vejo o dr Juliano falando em fim da pandemia.",
+        "parentId": "Ugwlk-qQy3dI0F15glt4AaABAg",
+        "authorDisplayName": "Maria Helena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROB8_WXI_DVHmA4oqcRDOmIFnW2FUlCwnNfD-PqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0AdKfpz0KFHX-uoYpnhtxg",
+        "authorChannelId": {
+          "value": "UC0AdKfpz0KFHX-uoYpnhtxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-09T14:15:55Z",
+        "updatedAt": "2021-11-09T14:15:55Z"
+      }
+    }
+  ]
+}

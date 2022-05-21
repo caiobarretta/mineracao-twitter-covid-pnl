@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "oD_fpc7B460oHb36rQkppBNyYic",
+  "id": "UgzEhWFnW5BdElVWRy54AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vvFwfacl88XAE1Jgql5PF3Ry7FA",
+      "id": "UgzEhWFnW5BdElVWRy54AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "top parabens muito bom suas dicas",
+        "textOriginal": "top parabens muito bom suas dicas",
+        "authorDisplayName": "Entorno News",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlCh8rnEVaElp9fZqHYf9nr07DGm1Twq2nZ70I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjTNpjREV6xHWea8nZxUpUQ",
+        "authorChannelId": {
+          "value": "UCjTNpjREV6xHWea8nZxUpUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-19T13:41:38Z",
+        "updatedAt": "2021-03-19T13:41:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3T1gYyBxgK2cBEZVz_0i5g6g0Zs",
+      "id": "UgzEhWFnW5BdElVWRy54AaABAg.9L4392e4ky89L4Amixx_f9",
+      "snippet": {
+        "textDisplay": "Obrigado!\ud83d\udc4a",
+        "textOriginal": "Obrigado!\ud83d\udc4a",
+        "parentId": "UgzEhWFnW5BdElVWRy54AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-19T14:48:21Z",
+        "updatedAt": "2021-03-19T14:48:21Z"
+      }
+    }
+  ]
+}

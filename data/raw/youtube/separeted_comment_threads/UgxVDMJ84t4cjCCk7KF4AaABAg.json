@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LjnfEEE0m8Qqte89xBulXyV7leY",
+  "id": "UgxVDMJ84t4cjCCk7KF4AaABAg",
+  "snippet": {
+    "videoId": "UYF_dHARXGo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "On3hrwwxTuVoU3YFvZ9zUj4Petg",
+      "id": "UgxVDMJ84t4cjCCk7KF4AaABAg",
+      "snippet": {
+        "videoId": "UYF_dHARXGo",
+        "textDisplay": "They refused sincere help from mainland China, they asked for it.",
+        "textOriginal": "They refused sincere help from mainland China, they asked for it.",
+        "authorDisplayName": "JEFFREY ANG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAN4qePi96a1tRtEzhrdSkH24JjremyO9ET6Bc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcrFDeKxpgXMqA0I_RsllvA",
+        "authorChannelId": {
+          "value": "UCcrFDeKxpgXMqA0I_RsllvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-19T15:41:00Z",
+        "updatedAt": "2022-05-19T15:41:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EtJP4OjAIo4lXbcA9WrrR-9qUh0",
+      "id": "UgxVDMJ84t4cjCCk7KF4AaABAg.9bDBRzpAOIM9bDCaRqrcj5",
+      "snippet": {
+        "textDisplay": "99% of cases are asymptomatic, their policy seems to have struck a balance between mitigating severe illness and disrupting everyones lives",
+        "textOriginal": "99% of cases are asymptomatic, their policy seems to have struck a balance between mitigating severe illness and disrupting everyones lives",
+        "parentId": "UgxVDMJ84t4cjCCk7KF4AaABAg",
+        "authorDisplayName": "Runtao Yang",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTXZEEdYagcRKORZImpO5z4GcE0-j2DOGEqWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7SapaiBlzFdIV8PK2mcGg",
+        "authorChannelId": {
+          "value": "UCw7SapaiBlzFdIV8PK2mcGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-19T15:51:01Z",
+        "updatedAt": "2022-05-19T15:51:01Z"
+      }
+    }
+  ]
+}

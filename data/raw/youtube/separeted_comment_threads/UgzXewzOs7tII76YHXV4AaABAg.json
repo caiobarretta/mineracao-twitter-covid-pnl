@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nXm79Ue0gpnxnkjdHVpDySv9w4k",
+  "id": "UgzXewzOs7tII76YHXV4AaABAg",
+  "snippet": {
+    "videoId": "aFPyYoGViZs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gy_CLcVokdf3q5xij00maBOvo6Q",
+      "id": "UgzXewzOs7tII76YHXV4AaABAg",
+      "snippet": {
+        "videoId": "aFPyYoGViZs",
+        "textDisplay": "Thank you so much for this information. This video was really informative.",
+        "textOriginal": "Thank you so much for this information. This video was really informative.",
+        "authorDisplayName": "Rizwer and Baddadcha_D are ass Godzilla",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRZPDahcyW_U83hUKrjZOTHv9Qr51Uhvcg6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmt4ko-_TS-V-mf6m9PFhxg",
+        "authorChannelId": {
+          "value": "UCmt4ko-_TS-V-mf6m9PFhxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-02-15T19:46:33Z",
+        "updatedAt": "2020-02-15T19:46:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dq48KTPxf2jWQ9Z529OjgeBze9M",
+      "id": "UgzXewzOs7tII76YHXV4AaABAg.953tXTj6Uxh954J0hPPD_j",
+      "snippet": {
+        "textDisplay": "Hey Mike! You're very welcome - glad you found it helpful and informative :)",
+        "textOriginal": "Hey Mike! You're very welcome - glad you found it helpful and informative :)",
+        "parentId": "UgzXewzOs7tII76YHXV4AaABAg",
+        "authorDisplayName": "JJ Medicine",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0QHywnw5ZVqbCSc5OhfUsUnyC5DkoMOMR9Yc0YQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFPvnkCZbHfBvV8ApBBE0vA",
+        "authorChannelId": {
+          "value": "UCFPvnkCZbHfBvV8ApBBE0vA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-15T23:38:00Z",
+        "updatedAt": "2020-02-15T23:38:00Z"
+      }
+    }
+  ]
+}

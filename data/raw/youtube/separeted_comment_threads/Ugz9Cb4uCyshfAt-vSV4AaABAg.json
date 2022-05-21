@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ARbyWvPBMrsshuxR7sQ71C-AASk",
+  "id": "Ugz9Cb4uCyshfAt-vSV4AaABAg",
+  "snippet": {
+    "videoId": "PYmI5TK88IA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Mxdheq6a07Rgi-5QozoBfhO3HCQ",
+      "id": "Ugz9Cb4uCyshfAt-vSV4AaABAg",
+      "snippet": {
+        "videoId": "PYmI5TK88IA",
+        "textDisplay": "\u00d3timo t\u00f3pico e \u00f3timo v\u00eddeo, parabens!",
+        "textOriginal": "\u00d3timo t\u00f3pico e \u00f3timo v\u00eddeo, parabens!",
+        "authorDisplayName": "Everson Correia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSpjno82qlfZFapd3cIHgNJW600Hfgz1sk4ynXzSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRV8sY5hclvYkC1b8uhpeVA",
+        "authorChannelId": {
+          "value": "UCRV8sY5hclvYkC1b8uhpeVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-10T22:39:33Z",
+        "updatedAt": "2020-03-10T22:39:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tj2Ft1_Y1f3FwfqrwBBlWcouPGA",
+      "id": "Ugz9Cb4uCyshfAt-vSV4AaABAg.962-PXxZDjM962ILT5bInV",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "Ugz9Cb4uCyshfAt-vSV4AaABAg",
+        "authorDisplayName": "Casal Nerd no Canad\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7ppxEFKmgNJFddovKmJ756id0Ty-At4k8lFBKSIclCAuJEVbcjUNdQwssrozNtT93PltiTjDBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6pK5DDCC2jIzPzpHYWZEUQ",
+        "authorChannelId": {
+          "value": "UC6pK5DDCC2jIzPzpHYWZEUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-11T01:25:01Z",
+        "updatedAt": "2020-03-11T01:25:01Z"
+      }
+    }
+  ]
+}

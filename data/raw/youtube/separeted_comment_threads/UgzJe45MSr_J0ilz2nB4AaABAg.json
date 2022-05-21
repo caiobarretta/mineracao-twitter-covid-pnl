@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9kYmvkVrYclLUepEddOW_U1vXSA",
+  "id": "UgzJe45MSr_J0ilz2nB4AaABAg",
+  "snippet": {
+    "videoId": "Uzii-tpWtHw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MwiKjYWdIeatXkIvlu5GpQmHNsw",
+      "id": "UgzJe45MSr_J0ilz2nB4AaABAg",
+      "snippet": {
+        "videoId": "Uzii-tpWtHw",
+        "textDisplay": "Amei a blusa!! Onde voc\u00ea comprou?",
+        "textOriginal": "Amei a blusa!! Onde voc\u00ea comprou?",
+        "authorDisplayName": "Juliana Camolese",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSn_-koyDgkMG7WPtqF_xr83OB8wRUX0j8Tg3KF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFZ_MjJwjfZ479RaWau1vmA",
+        "authorChannelId": {
+          "value": "UCFZ_MjJwjfZ479RaWau1vmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-11-20T14:38:16Z",
+        "updatedAt": "2019-11-20T14:38:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KSR6ZQm6V8APiR0iGjzmlyk93Nw",
+      "id": "UgzJe45MSr_J0ilz2nB4AaABAg.91ZK5Qx1Gsh91ZLpy2142P",
+      "snippet": {
+        "textDisplay": "Zara :)",
+        "textOriginal": "Zara :)",
+        "parentId": "UgzJe45MSr_J0ilz2nB4AaABAg",
+        "authorDisplayName": "Coisas que eu sei",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzNjYs0MJTDJe72OvtJda_jqk7H0LPBShYPGNInQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEw17H1rRG0Kh5RsAvECXxQ",
+        "authorChannelId": {
+          "value": "UCEw17H1rRG0Kh5RsAvECXxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2019-11-20T14:53:30Z",
+        "updatedAt": "2019-11-20T14:53:30Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nbwwHOnUhlrMLfMi27IQ1X3oCTc",
+  "id": "UgyzfXktBZepo9N80PZ4AaABAg",
+  "snippet": {
+    "videoId": "20EmigTxQvg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "d8LtOEsxFCqaPEpv7poLeg7FluY",
+      "id": "UgyzfXktBZepo9N80PZ4AaABAg",
+      "snippet": {
+        "videoId": "20EmigTxQvg",
+        "textDisplay": "\ud83d\udc89\ud83d\udc89\ud83d\udc89",
+        "textOriginal": "\ud83d\udc89\ud83d\udc89\ud83d\udc89",
+        "authorDisplayName": "Millionaire Mallory",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Nwp_rLEgrDVsTbJy4Du2s2dztgSoGwSplb60-ROQ6uFPd3Bt0XP-UnYpqFnueBVYqJqix2gjHQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4CASbHHhw5C2GpMmVeuasw",
+        "authorChannelId": {
+          "value": "UC4CASbHHhw5C2GpMmVeuasw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-05-18T22:08:26Z",
+        "updatedAt": "2022-05-18T22:08:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "E3ibhm5c_2L3nn51R6cC1onLaXg",
+      "id": "UgyzfXktBZepo9N80PZ4AaABAg.9bBIzmEKHyv9bBNX6mptp0",
+      "snippet": {
+        "textDisplay": "lol yup",
+        "textOriginal": "lol yup",
+        "parentId": "UgyzfXktBZepo9N80PZ4AaABAg",
+        "authorDisplayName": "Business Frameworks",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1QRQeTx5dcOjY0e6aY0Eztvkr5wzRHxA1ZaIk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0buI-S95_gTlYCSCB4eSzQ",
+        "authorChannelId": {
+          "value": "UC0buI-S95_gTlYCSCB4eSzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-18T22:48:04Z",
+        "updatedAt": "2022-05-18T22:48:04Z"
+      }
+    }
+  ]
+}

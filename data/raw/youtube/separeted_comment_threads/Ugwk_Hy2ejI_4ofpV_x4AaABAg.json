@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1AJhzuCQhmuveTLHdFt4m_uzJjU",
+  "id": "Ugwk_Hy2ejI_4ofpV_x4AaABAg",
+  "snippet": {
+    "videoId": "XlQYObR5E2M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6-mRfaiVuNg5QPM9uewlTQn4g24",
+      "id": "Ugwk_Hy2ejI_4ofpV_x4AaABAg",
+      "snippet": {
+        "videoId": "XlQYObR5E2M",
+        "textDisplay": "Que maravilha esse v\u00eddeo!\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
+        "textOriginal": "Que maravilha esse v\u00eddeo!\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
+        "authorDisplayName": "M\u00e1rcia Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqu_bTbWi7nNtdK4w1_N9U7_32VTiSuHqlZK32Og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC39GzZE4wAHsHUVuvxEfI_g",
+        "authorChannelId": {
+          "value": "UC39GzZE4wAHsHUVuvxEfI_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-24T13:44:30Z",
+        "updatedAt": "2020-10-24T13:44:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3W4ADIFvzBsZocEcHLThZwMTPFw",
+      "id": "Ugwk_Hy2ejI_4ofpV_x4AaABAg.9FC7QEk36jA9FC9OhXVMhe",
+      "snippet": {
+        "textDisplay": "Obrigado por seu retorno!!",
+        "textOriginal": "Obrigado por seu retorno!!",
+        "parentId": "Ugwk_Hy2ejI_4ofpV_x4AaABAg",
+        "authorDisplayName": "Canal P\u00e9 de Lim\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAr5uNgkKYDKjwez9T1rJlqnBFkVeILvcWE8YpqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoim8Dlgl7YylxOqtouEBMw",
+        "authorChannelId": {
+          "value": "UCoim8Dlgl7YylxOqtouEBMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-24T14:01:46Z",
+        "updatedAt": "2020-10-24T14:01:46Z"
+      }
+    }
+  ]
+}

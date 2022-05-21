@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O7smDbkBOVTkOg7Ar6BFG_3LJnM",
+  "id": "UgxerWHwycD9KVhJMuB4AaABAg",
+  "snippet": {
+    "videoId": "HTupMCzjHXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DOYvmfYVLJXo7W3fapvbBIC7S7U",
+      "id": "UgxerWHwycD9KVhJMuB4AaABAg",
+      "snippet": {
+        "videoId": "HTupMCzjHXM",
+        "textDisplay": "Bom dia! Por favor quero o PDF!",
+        "textOriginal": "Bom dia! Por favor quero o PDF!",
+        "authorDisplayName": "Thiago Eugenio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRN5kGXt8rVRayMdAkIHuq8QzcTjEvinIn2zyudNyJQl6AIUpNYnV5RisnHa04s=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1aRcWjH4g2LbBqrXn8UaYQ",
+        "authorChannelId": {
+          "value": "UC1aRcWjH4g2LbBqrXn8UaYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-14T10:05:36Z",
+        "updatedAt": "2022-02-14T10:05:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "e0WPRRN1VSuN_cacLlheK01uh7E",
+      "id": "UgxerWHwycD9KVhJMuB4AaABAg.9YQYLGT_-PK9YR1NiuiyWi",
+      "snippet": {
+        "textDisplay": "dentro dos nossos cursos. =]",
+        "textOriginal": "dentro dos nossos cursos. =]",
+        "parentId": "UgxerWHwycD9KVhJMuB4AaABAg",
+        "authorDisplayName": "Psicologia Nova",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR88QbmGqzDjU3AHyC1X3BFUyoZMVxhzvm90d1Hng=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCExmnwF51FJgg8GGo6GWfVQ",
+        "authorChannelId": {
+          "value": "UCExmnwF51FJgg8GGo6GWfVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-14T14:36:49Z",
+        "updatedAt": "2022-02-14T14:36:49Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "09ugDieBP1UZgNG0aK6b94BJlrk",
+  "id": "UgyD6Tuuw3VCNLhuEIB4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "falSD3yo-YinSQhncb4LU-FFxgI",
+      "id": "UgyD6Tuuw3VCNLhuEIB4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "um inferno recuperar uma senha nesse site",
+        "textOriginal": "um inferno recuperar uma senha nesse site",
+        "authorDisplayName": "Washington Santos Carneiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQr8eKonxtzP7LKuDAJaFxys0F-8-FXw5-9Sg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbrepU3a_ZP0yjQpG2JF0jA",
+        "authorChannelId": {
+          "value": "UCbrepU3a_ZP0yjQpG2JF0jA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-02T13:20:07Z",
+        "updatedAt": "2021-03-02T13:20:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "laoVv4vn1iwOXkC3IfViRqcsVbc",
+      "id": "UgyD6Tuuw3VCNLhuEIB4AaABAg.9KOFAZofgBD9RGFzTRU0QH",
+      "snippet": {
+        "textDisplay": "Isso \u00e9 verdade. Eu s\u00f3 consegui recuperar pelo computador.",
+        "textOriginal": "Isso \u00e9 verdade. Eu s\u00f3 consegui recuperar pelo computador.",
+        "parentId": "UgyD6Tuuw3VCNLhuEIB4AaABAg",
+        "authorDisplayName": "Joao Victor Alves Vieira de Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRT8EJRWQlUJ9mf6JAzI5y7yYa6-wl4aevvDmOc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCz4WdPLyIjCdG3I2Byhaw0A",
+        "authorChannelId": {
+          "value": "UCz4WdPLyIjCdG3I2Byhaw0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-20T10:33:02Z",
+        "updatedAt": "2021-08-20T10:33:02Z"
+      }
+    }
+  ]
+}

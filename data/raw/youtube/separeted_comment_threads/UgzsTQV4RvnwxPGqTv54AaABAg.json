@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sFyk7L5IR181oJEf4xG2luMwXcA",
+  "id": "UgzsTQV4RvnwxPGqTv54AaABAg",
+  "snippet": {
+    "videoId": "-gSIBFcnCIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FKYyHlQEZZuAlAZe2gRuk1ayovU",
+      "id": "UgzsTQV4RvnwxPGqTv54AaABAg",
+      "snippet": {
+        "videoId": "-gSIBFcnCIs",
+        "textDisplay": "Document\u00e1rio incr\u00edvel \nHoje tenho muito orgulho de defender o SUS",
+        "textOriginal": "Document\u00e1rio incr\u00edvel \nHoje tenho muito orgulho de defender o SUS",
+        "authorDisplayName": "Marcos Rangel Rangel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBUwrWdUaj0iEm5rxu9nJXS8lFS7JBIyHnB8952w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0bn5sjpeV4QtjO3GZE4iqQ",
+        "authorChannelId": {
+          "value": "UC0bn5sjpeV4QtjO3GZE4iqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2021-02-24T21:53:09Z",
+        "updatedAt": "2021-02-24T21:53:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zld__CWjbh_6JBQ1-C4RdSl3mJE",
+      "id": "UgzsTQV4RvnwxPGqTv54AaABAg.9K9i6oYo8I89LWhJbWJXVk",
+      "snippet": {
+        "textDisplay": "perguntei?",
+        "textOriginal": "perguntei?",
+        "parentId": "UgzsTQV4RvnwxPGqTv54AaABAg",
+        "authorDisplayName": "Rodrigo Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaa2MVyIpowg71Al1qOcnz3zfSNVTkeOKdXIJG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ7iYrGGpo-0cA5P0145_Vg",
+        "authorChannelId": {
+          "value": "UCZ7iYrGGpo-0cA5P0145_Vg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-30T16:40:05Z",
+        "updatedAt": "2021-03-30T16:40:05Z"
+      }
+    }
+  ]
+}

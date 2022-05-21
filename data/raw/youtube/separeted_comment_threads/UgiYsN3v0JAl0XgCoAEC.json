@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2MN1m2eqByAPBxf-W7WErIsD0z0",
+  "id": "UgiYsN3v0JAl0XgCoAEC",
+  "snippet": {
+    "videoId": "UsKb1z8f2iE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_vWfjTdb7OBUvW2zwR4BBokFSXA",
+      "id": "UgiYsN3v0JAl0XgCoAEC",
+      "snippet": {
+        "videoId": "UsKb1z8f2iE",
+        "textDisplay": "odlicna pjesma, spot los... realno, potrudite se malo jbg",
+        "textOriginal": "odlicna pjesma, spot los... realno, potrudite se malo jbg",
+        "authorDisplayName": "Covjek Od Celika",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSg7ve_fn9s7n5BY7DJRcD59c95AWx8k5aGk863=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxCQ8R_Fyy9QdszJUJ1XacA",
+        "authorChannelId": {
+          "value": "UCxCQ8R_Fyy9QdszJUJ1XacA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2015-07-28T00:31:51Z",
+        "updatedAt": "2015-07-28T00:31:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DoK86Eec_6r2ODlc0A_b4UE6Xec",
+      "id": "UgiYsN3v0JAl0XgCoAEC.827jR1bhneJ8Us_CdaG0MQ",
+      "snippet": {
+        "textDisplay": "Covjek Od Celika spot je fenomenalan!",
+        "textOriginal": "Covjek Od Celika spot je fenomenalan!",
+        "parentId": "UgiYsN3v0JAl0XgCoAEC",
+        "authorDisplayName": "Dragan Jelovac",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVQaiPmC0p4eecimntXLruUq3tpHVTghtIKuRE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwbRDYH2k3J-1NbG402_oxQ",
+        "authorChannelId": {
+          "value": "UCwbRDYH2k3J-1NbG402_oxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-07-11T13:05:05Z",
+        "updatedAt": "2017-07-11T13:05:05Z"
+      }
+    }
+  ]
+}

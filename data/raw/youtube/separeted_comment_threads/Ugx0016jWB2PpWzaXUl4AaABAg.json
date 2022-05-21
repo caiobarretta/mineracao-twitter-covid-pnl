@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6MiG96EE9uY7Lh4CwrGI_qnjCpI",
+  "id": "Ugx0016jWB2PpWzaXUl4AaABAg",
+  "snippet": {
+    "videoId": "8LoQpn1I6V0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9kE5IQCbFhTBiJkHSHXYtFQAJRM",
+      "id": "Ugx0016jWB2PpWzaXUl4AaABAg",
+      "snippet": {
+        "videoId": "8LoQpn1I6V0",
+        "textDisplay": "muito bom o v\u00eddeo, parab\u00e9ns",
+        "textOriginal": "muito bom o v\u00eddeo, parab\u00e9ns",
+        "authorDisplayName": "Wilson Holanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kn9mSbGi4JACbPHSwATRkijbNwqfAB3fMPv_y9eAmC_nErh73SmBP_ps4F7ESaJWAI5JewNzcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYGR8cX9gcFpcnGp5tmdydQ",
+        "authorChannelId": {
+          "value": "UCYGR8cX9gcFpcnGp5tmdydQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-17T20:33:33Z",
+        "updatedAt": "2022-04-17T20:33:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nkFZc-1m4fCpj2WOK3IhAj38RY0",
+      "id": "Ugx0016jWB2PpWzaXUl4AaABAg.9_wJUgPw18j9_yfdnIo31H",
+      "snippet": {
+        "textDisplay": "Obrigadooo",
+        "textOriginal": "Obrigadooo",
+        "parentId": "Ugx0016jWB2PpWzaXUl4AaABAg",
+        "authorDisplayName": "Casamos e Mudamos - Irlanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSy6uN1c26dn229zdusWKx8FIDapsGmMvaiqKOcA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnVMC2vVIJXlcjTetYxcPwQ",
+        "authorChannelId": {
+          "value": "UCnVMC2vVIJXlcjTetYxcPwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T18:34:23Z",
+        "updatedAt": "2022-04-18T18:34:23Z"
+      }
+    }
+  ]
+}

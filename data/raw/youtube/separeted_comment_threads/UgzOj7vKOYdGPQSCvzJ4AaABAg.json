@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_NmonXe7ouZZHBAQGOk6MrDAb_s",
+  "id": "UgzOj7vKOYdGPQSCvzJ4AaABAg",
+  "snippet": {
+    "videoId": "fcn84XRpVjM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ut-FRT4ajoOyWYQiTiEQNlBzcK0",
+      "id": "UgzOj7vKOYdGPQSCvzJ4AaABAg",
+      "snippet": {
+        "videoId": "fcn84XRpVjM",
+        "textDisplay": "1st",
+        "textOriginal": "1st",
+        "authorDisplayName": "Belial",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfCRxTOMTCA-znes3fPvamgO2BnSyNQojW4lXG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdcZdiaolQa6HuTmwunH1uQ",
+        "authorChannelId": {
+          "value": "UCdcZdiaolQa6HuTmwunH1uQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-17T01:09:44Z",
+        "updatedAt": "2022-02-17T01:09:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GjIHTFRPyN7E3EfNsfmDCGRe8f8",
+      "id": "UgzOj7vKOYdGPQSCvzJ4AaABAg.9YXJP2f1h2t9YXJYFbOKga",
+      "snippet": {
+        "textDisplay": "andra",
+        "textOriginal": "andra",
+        "parentId": "UgzOj7vKOYdGPQSCvzJ4AaABAg",
+        "authorDisplayName": "Matheus Braz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6MF8nG2PZwLhnSqKS-tVtI4s4g1q8e0g4qKF5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClBDkQrMl9sKB9-KEKRkt0A",
+        "authorChannelId": {
+          "value": "UClBDkQrMl9sKB9-KEKRkt0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-17T01:10:59Z",
+        "updatedAt": "2022-02-17T01:10:59Z"
+      }
+    }
+  ]
+}

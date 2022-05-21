@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dIzP8QbQYLias23QbyyuF8QCtic",
+  "id": "UgwrPsA8Hw4ukviZqkZ4AaABAg",
+  "snippet": {
+    "videoId": "MAybbmP4VOE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Szm88o5OcZbyIeVWN4_ZsadlA3g",
+      "id": "UgwrPsA8Hw4ukviZqkZ4AaABAg",
+      "snippet": {
+        "videoId": "MAybbmP4VOE",
+        "textDisplay": "Pero dice Gattel que ya todo paso y pueden quitarse el cubrebocas",
+        "textOriginal": "Pero dice Gattel que ya todo paso y pueden quitarse el cubrebocas",
+        "authorDisplayName": "Luisa Juarico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRhFa9GdkK22ojCPv7-VeSDp4SysrP-Zn38Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV9g3SKoFlP62qIlBFZs1NA",
+        "authorChannelId": {
+          "value": "UCV9g3SKoFlP62qIlBFZs1NA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-18T21:49:53Z",
+        "updatedAt": "2022-05-18T21:49:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "J6O-IqG3zqpREjsBNiH2yRnlENQ",
+      "id": "UgwrPsA8Hw4ukviZqkZ4AaABAg.9bBGruZ3Op69bCPGuofy6s",
+      "snippet": {
+        "textDisplay": "Porque as\u00ed es sumisa si t\u00fa quieres llevar tu mordaza adelante",
+        "textOriginal": "Porque as\u00ed es sumisa si t\u00fa quieres llevar tu mordaza adelante",
+        "parentId": "UgwrPsA8Hw4ukviZqkZ4AaABAg",
+        "authorDisplayName": "Jose Arias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0kfVv9nfIQe6ntlLgu1K1k5W7T7DO2zMC1B7F=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmLHsYNk4Eh6PYYb13feedw",
+        "authorChannelId": {
+          "value": "UCmLHsYNk4Eh6PYYb13feedw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T08:22:35Z",
+        "updatedAt": "2022-05-19T08:22:35Z"
+      }
+    }
+  ]
+}

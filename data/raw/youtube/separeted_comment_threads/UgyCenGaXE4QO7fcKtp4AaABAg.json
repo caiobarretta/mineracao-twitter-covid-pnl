@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hUSRHMCXXFPZkmm73xcDoBLsYP0",
+  "id": "UgyCenGaXE4QO7fcKtp4AaABAg",
+  "snippet": {
+    "videoId": "c_JoC8dZbS4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tUd30-a2CDepyP7RBXjWXxgo0IQ",
+      "id": "UgyCenGaXE4QO7fcKtp4AaABAg",
+      "snippet": {
+        "videoId": "c_JoC8dZbS4",
+        "textDisplay": "Boa noite meu amigo Marcos, estava com saudades dos seus v\u00eddeos. Estarei na acompanhando o v\u00eddeo",
+        "textOriginal": "Boa noite meu amigo Marcos, estava com saudades dos seus v\u00eddeos. Estarei na acompanhando o v\u00eddeo",
+        "authorDisplayName": "Cicero Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ93sq1Xv2335zcOZo6OXXfUltyt0NrmSzTlah9=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRoMM40wE3mV2PDCOpLMIvQ",
+        "authorChannelId": {
+          "value": "UCRoMM40wE3mV2PDCOpLMIvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-02-06T22:33:25Z",
+        "updatedAt": "2021-02-06T22:33:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eBsaa-PCTIN8n7XxlO6ih78NIhY",
+      "id": "UgyCenGaXE4QO7fcKtp4AaABAg.9JRRPyy_N589JR_OemBQ24",
+      "snippet": {
+        "textDisplay": "Muito obrigado! Um abra\u00e7o, C\u00edcero!",
+        "textOriginal": "Muito obrigado! Um abra\u00e7o, C\u00edcero!",
+        "parentId": "UgyCenGaXE4QO7fcKtp4AaABAg",
+        "authorDisplayName": "Viver no M\u00e9xico",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLOl381eidCgUv7VIlJsnDJQglCIKcma9jSf3gYQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_GTkZDeJMG_iHVyXH2CAZQ",
+        "authorChannelId": {
+          "value": "UC_GTkZDeJMG_iHVyXH2CAZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-06T23:51:52Z",
+        "updatedAt": "2021-02-06T23:51:52Z"
+      }
+    }
+  ]
+}

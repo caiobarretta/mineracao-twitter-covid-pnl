@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cuDfvURDb0XLbVWVRn9ZvpSk22w",
+  "id": "UgwOYR-6hVyLlqNskcl4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "no3vjaOyFGeKFobWjHfqMfT4JIQ",
+      "id": "UgwOYR-6hVyLlqNskcl4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Muito obrigada\ud83d\udc96",
+        "textOriginal": "Muito obrigada\ud83d\udc96",
+        "authorDisplayName": "Filha do Rei Jesus100%",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/FALe421g6YXtiss7mOIIy02m1-YrJkllOrrTzESMAbzBwLYZMmvHYJF1AQ4GEjkBa8jqJje5_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsdJ5bPqhN5if7OdaY3-jGA",
+        "authorChannelId": {
+          "value": "UCsdJ5bPqhN5if7OdaY3-jGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-10-12T18:36:24Z",
+        "updatedAt": "2020-10-12T18:36:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UcTzvSKCQqgTVM37JXESZgv-k8A",
+      "id": "UgwOYR-6hVyLlqNskcl4AaABAg.9EikHcjSLh29EildfJWmdW",
+      "snippet": {
+        "textDisplay": "De nada!\ud83d\udc4d",
+        "textOriginal": "De nada!\ud83d\udc4d",
+        "parentId": "UgwOYR-6hVyLlqNskcl4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-12T18:48:16Z",
+        "updatedAt": "2020-10-12T18:48:16Z"
+      }
+    }
+  ]
+}

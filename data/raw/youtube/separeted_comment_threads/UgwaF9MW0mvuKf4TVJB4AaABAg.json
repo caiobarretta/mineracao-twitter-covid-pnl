@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "N7HBV_nTApDXwBAEcIAtYXWQ9bc",
+  "id": "UgwaF9MW0mvuKf4TVJB4AaABAg",
+  "snippet": {
+    "videoId": "6R2BLjkdfBA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qja7I25XNyu1LeQjEIaQHoDo5RM",
+      "id": "UgwaF9MW0mvuKf4TVJB4AaABAg",
+      "snippet": {
+        "videoId": "6R2BLjkdfBA",
+        "textDisplay": "ela fala com sorisso no rosto kkkk",
+        "textOriginal": "ela fala com sorisso no rosto kkkk",
+        "authorDisplayName": "cesinhauk aleatorio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BG1BT6YDZixW--1pQw55n_f6In2pzW9sORuppsY-Y1wSTrBRTC2pRwGOzCuN8gfyXZoRdTso33Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVH8vkNsYP8CkKus_ELD59g",
+        "authorChannelId": {
+          "value": "UCVH8vkNsYP8CkKus_ELD59g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-27T23:48:36Z",
+        "updatedAt": "2021-02-27T23:48:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "r6MxZdU_06DO8yOTuJgYsqhPw_g",
+      "id": "UgwaF9MW0mvuKf4TVJB4AaABAg.9KHdi3NltIc9KM4yWlo1Py",
+      "snippet": {
+        "textDisplay": "Kkk",
+        "textOriginal": "Kkk",
+        "parentId": "UgwaF9MW0mvuKf4TVJB4AaABAg",
+        "authorDisplayName": "cidya makeup",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9myNgsAdXrL_1OFdDR9EFkyEVkQgS52BnT9Yp4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRzilb7FdgcjaTs__UCj1yQ",
+        "authorChannelId": {
+          "value": "UCRzilb7FdgcjaTs__UCj1yQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-01T17:12:28Z",
+        "updatedAt": "2021-03-01T17:12:28Z"
+      }
+    }
+  ]
+}

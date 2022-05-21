@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A3i5Lm1k2Kn2irToAH0uGVWSc-c",
+  "id": "UgxQK7B8ZUdt5cfP_RV4AaABAg",
+  "snippet": {
+    "videoId": "5ftewn-T51o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ms6YMXaj4_gHI28zQKMlMgYX-CY",
+      "id": "UgxQK7B8ZUdt5cfP_RV4AaABAg",
+      "snippet": {
+        "videoId": "5ftewn-T51o",
+        "textDisplay": "Fear mongering",
+        "textOriginal": "Fear mongering",
+        "authorDisplayName": "Kevin St.Denis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQmrCYeQIEiBDfMB0hYz5boU_J9Oz42_obwkU6h8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL2ehtz7_S0OjFvZGb616BA",
+        "authorChannelId": {
+          "value": "UCL2ehtz7_S0OjFvZGb616BA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-05-14T04:13:22Z",
+        "updatedAt": "2022-05-14T04:13:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4eMB_3XyVYC-7--XujLVircaTHI",
+      "id": "UgxQK7B8ZUdt5cfP_RV4AaABAg.9b-4mIATqkH9b-80DOk5gA",
+      "snippet": {
+        "textDisplay": "Facts",
+        "textOriginal": "Facts",
+        "parentId": "UgxQK7B8ZUdt5cfP_RV4AaABAg",
+        "authorDisplayName": "nosuchthing8",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1waXSiPVpPrje4nycyCJl2LdfxSYCxBe-kQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXLVss4ZlfiIuTsncJAofag",
+        "authorChannelId": {
+          "value": "UCXLVss4ZlfiIuTsncJAofag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-14T04:41:37Z",
+        "updatedAt": "2022-05-14T04:41:37Z"
+      }
+    }
+  ]
+}

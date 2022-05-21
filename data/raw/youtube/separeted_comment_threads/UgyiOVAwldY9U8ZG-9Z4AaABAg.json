@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sd72Ldx-8DYkNEWX3sB7VDA3Nfg",
+  "id": "UgyiOVAwldY9U8ZG-9Z4AaABAg",
+  "snippet": {
+    "videoId": "tNKef7ZVuc0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zJjXqXsgkIQq8xOJyZ8Mge4o9QU",
+      "id": "UgyiOVAwldY9U8ZG-9Z4AaABAg",
+      "snippet": {
+        "videoId": "tNKef7ZVuc0",
+        "textDisplay": "Is that legal",
+        "textOriginal": "Is that legal",
+        "authorDisplayName": "Shane Mcfarlane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjO27Ob6U3wa69ENsZk416zZPED1wVZW1XTYrV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdgu-5yxh2Nd8fBJRFkEjgQ",
+        "authorChannelId": {
+          "value": "UCdgu-5yxh2Nd8fBJRFkEjgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-17T12:26:32Z",
+        "updatedAt": "2022-05-17T12:26:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dC5JAYt9y38WsLq15FDApIEk_Gg",
+      "id": "UgyiOVAwldY9U8ZG-9Z4AaABAg.9b7gaw_37OX9b9JT9u_j07",
+      "snippet": {
+        "textDisplay": "Yes.",
+        "textOriginal": "Yes.",
+        "parentId": "UgyiOVAwldY9U8ZG-9Z4AaABAg",
+        "authorDisplayName": "J ay",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQC3bzR1Dnpj_7TKBm4bvyVafdLlVLysK2pcdxpOg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIK91tPEJwaea9n_V6CDIgw",
+        "authorChannelId": {
+          "value": "UCIK91tPEJwaea9n_V6CDIgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-18T03:34:06Z",
+        "updatedAt": "2022-05-18T03:34:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "onj3HmyWZ9bwM7BFFhNon8ImotA",
+      "id": "UgyiOVAwldY9U8ZG-9Z4AaABAg.9b7gaw_37OX9b7hkg7cL_n",
+      "snippet": {
+        "textDisplay": "Yes. Waste that enters a municipal sewer system is public domain, meaning the owner of said waste gave up his right to it the minute he/she flushed it into the system.",
+        "textOriginal": "Yes. Waste that enters a municipal sewer system is public domain, meaning the owner of said waste gave up his right to it the minute he/she flushed it into the system.",
+        "parentId": "UgyiOVAwldY9U8ZG-9Z4AaABAg",
+        "authorDisplayName": "Naptowns Classic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgILqOCvqcxG8_rG9CX5mU4dGGZ_eDo6Ji0g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ5iimzkY-MRJlbryW2YGJw",
+        "authorChannelId": {
+          "value": "UCJ5iimzkY-MRJlbryW2YGJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T12:36:36Z",
+        "updatedAt": "2022-05-17T12:36:36Z"
+      }
+    }
+  ]
+}

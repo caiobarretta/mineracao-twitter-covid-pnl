@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mDR8gSlwFsQmPJyqvFld7dtdfds",
+  "id": "UgzGKIsyFdnEdUWHt1V4AaABAg",
+  "snippet": {
+    "videoId": "4sMkPEO3tYM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pB-1tFRfEMbbSeq_uecBqAlzz9A",
+      "id": "UgzGKIsyFdnEdUWHt1V4AaABAg",
+      "snippet": {
+        "videoId": "4sMkPEO3tYM",
+        "textDisplay": "Mam admissible function kya hota hai",
+        "textOriginal": "Mam admissible function kya hota hai",
+        "authorDisplayName": "Preeti Rana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMIpA8jVDd45fiKddSs73J051_EIokdUWXYg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCITMCcdVg9xKdX3shhE49aA",
+        "authorChannelId": {
+          "value": "UCITMCcdVg9xKdX3shhE49aA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-09-30T13:56:42Z",
+        "updatedAt": "2020-09-30T13:56:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Qi3l_bdTwOSgL6fPw66PCBr67pc",
+      "id": "UgzGKIsyFdnEdUWHt1V4AaABAg.9EELjat5mlo9EJuDIgfSth",
+      "snippet": {
+        "textDisplay": "Explained in lecture...",
+        "textOriginal": "Explained in lecture...",
+        "parentId": "UgzGKIsyFdnEdUWHt1V4AaABAg",
+        "authorDisplayName": "Siri Krishana Math(SKM) Academy for CSIR-NET/ GATE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTknmE6Y9uYLR5Pk-zNo4iuyrqyin3MYVHOTQH2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNPhrkLAORgzLrllpFjM4UA",
+        "authorChannelId": {
+          "value": "UCNPhrkLAORgzLrllpFjM4UA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-02T17:42:55Z",
+        "updatedAt": "2020-10-02T17:42:55Z"
+      }
+    }
+  ]
+}

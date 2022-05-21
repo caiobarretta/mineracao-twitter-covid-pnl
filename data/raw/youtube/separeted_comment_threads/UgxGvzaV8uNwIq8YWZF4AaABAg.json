@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZxIvipub5zK_FeCDQrzv6ze1O0I",
+  "id": "UgxGvzaV8uNwIq8YWZF4AaABAg",
+  "snippet": {
+    "videoId": "PPdi5d4I1Zg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lQ4RPx2Z-q53yDCZ9PVsGyc_nUg",
+      "id": "UgxGvzaV8uNwIq8YWZF4AaABAg",
+      "snippet": {
+        "videoId": "PPdi5d4I1Zg",
+        "textDisplay": "Emprego na \u00e1rea de engenharia de produ\u00e7\u00e3o \u00e9 f\u00e1cil?",
+        "textOriginal": "Emprego na \u00e1rea de engenharia de produ\u00e7\u00e3o \u00e9 f\u00e1cil?",
+        "authorDisplayName": "Wilson Junior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKNOQkUtTFDOWyMjbL3IkqkuoQi-cO72lRfkYUrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPdLNmHs-DUODF9kcllJavA",
+        "authorChannelId": {
+          "value": "UCPdLNmHs-DUODF9kcllJavA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-01T16:06:29Z",
+        "updatedAt": "2020-10-01T16:06:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zsB1ZjYXzWSA0-ROQwBLQZTZI5Q",
+      "id": "UgxGvzaV8uNwIq8YWZF4AaABAg.9EH9NzrLbPQ9E_juTSKAtj",
+      "snippet": {
+        "textDisplay": "Eu diria que sim, provavelmente deve ter um bom mercado de trabalho, mas realmente n\u00e3o tenho muita certeza, infelizmente :/",
+        "textOriginal": "Eu diria que sim, provavelmente deve ter um bom mercado de trabalho, mas realmente n\u00e3o tenho muita certeza, infelizmente :/",
+        "parentId": "UgxGvzaV8uNwIq8YWZF4AaABAg",
+        "authorDisplayName": "Camila Martinelli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_HG6NgbsdEILezi47EHFSVUH51ZPyb2BB3sZVMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdBs7jBAc8IxhoHE-rGswmw",
+        "authorChannelId": {
+          "value": "UCdBs7jBAc8IxhoHE-rGswmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-09T06:39:56Z",
+        "updatedAt": "2020-10-09T06:39:56Z"
+      }
+    }
+  ]
+}

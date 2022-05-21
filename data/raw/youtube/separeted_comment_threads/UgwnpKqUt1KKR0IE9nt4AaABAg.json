@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M8Gqz_XZNuncOWdxLrj4e1yfRg4",
+  "id": "UgwnpKqUt1KKR0IE9nt4AaABAg",
+  "snippet": {
+    "videoId": "6R2BLjkdfBA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-3YRkD0gOuFSzzRzR-XwURDjwOk",
+      "id": "UgwnpKqUt1KKR0IE9nt4AaABAg",
+      "snippet": {
+        "videoId": "6R2BLjkdfBA",
+        "textDisplay": "S\u00f3 no Brasil que tem essa \u201cVariante?\u201d",
+        "textOriginal": "S\u00f3 no Brasil que tem essa \u201cVariante?\u201d",
+        "authorDisplayName": "Marcos Vin\u00edcius Verardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6B43PpOWdJPY8u1a11mO3xmBuBv7EWokzlA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4ZOug1PjMXun3Dnz3xvn5w",
+        "authorChannelId": {
+          "value": "UC4ZOug1PjMXun3Dnz3xvn5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-22T18:45:24Z",
+        "updatedAt": "2021-03-22T18:45:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BpCncfv5poN7lhn2CsBt7JZR8rw",
+      "id": "UgwnpKqUt1KKR0IE9nt4AaABAg.9LCKITt9sP59NqbHPD-MP4",
+      "snippet": {
+        "textDisplay": "N em outros pa\u00edses tbm",
+        "textOriginal": "N em outros pa\u00edses tbm",
+        "parentId": "UgwnpKqUt1KKR0IE9nt4AaABAg",
+        "authorDisplayName": "MariadeLourdesFreiredePontes Pontes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7J8z3fgdrxBlTHVqUHK6FobvRx2MQfgBy-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxEjsk3LY0_oGp2k8so013A",
+        "authorChannelId": {
+          "value": "UCxEjsk3LY0_oGp2k8so013A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-27T12:34:11Z",
+        "updatedAt": "2021-05-27T12:34:11Z"
+      }
+    }
+  ]
+}

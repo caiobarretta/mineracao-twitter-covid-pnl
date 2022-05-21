@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OWMfrrpB_Dx38cbU--sszxpjxno",
+  "id": "UgxXi8c025s32b6TZkB4AaABAg",
+  "snippet": {
+    "videoId": "-gSIBFcnCIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7huVoXeo48jh2SBXDY3WFaF2aC0",
+      "id": "UgxXi8c025s32b6TZkB4AaABAg",
+      "snippet": {
+        "videoId": "-gSIBFcnCIs",
+        "textDisplay": "nao aguento esse mlk do jornal gritando pqp",
+        "textOriginal": "nao aguento esse mlk do jornal gritando pqp",
+        "authorDisplayName": "nic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ShXb4c0gFf2gxFrUnp3zUTIar4-C_M5MH-EpeukYigrymTxiLyBBTyf4m1m6IdzlbtbRPzVwfg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmzAhh8kfqw5zxai2rbTFzQ",
+        "authorChannelId": {
+          "value": "UCmzAhh8kfqw5zxai2rbTFzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 28,
+        "publishedAt": "2019-02-12T21:42:31Z",
+        "updatedAt": "2019-02-12T21:42:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "AJW_gEfbI7pfyyT-cJFo4cuL6rI",
+      "id": "UgxXi8c025s32b6TZkB4AaABAg.8rGXGsGNf9P9CFRy0DGQyn",
+      "snippet": {
+        "textDisplay": "Kkkkkkk",
+        "textOriginal": "Kkkkkkk",
+        "parentId": "UgxXi8c025s32b6TZkB4AaABAg",
+        "authorDisplayName": "Arthur Matheus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSF8GeRJP645tE5JItAX6Y_RtP6bzYy62lWyhk_4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEMHMrZ59mcVlyEzXBgyp6A",
+        "authorChannelId": {
+          "value": "UCEMHMrZ59mcVlyEzXBgyp6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-12T07:07:33Z",
+        "updatedAt": "2020-08-12T07:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Wq70zk15zzs6Ur43xxMT2sWKWZ4",
+      "id": "UgxXi8c025s32b6TZkB4AaABAg.8rGXGsGNf9P98bSDoX-e_N",
+      "snippet": {
+        "textDisplay": "percebeu que ele nao envelhece? kkk",
+        "textOriginal": "percebeu que ele nao envelhece? kkk",
+        "parentId": "UgxXi8c025s32b6TZkB4AaABAg",
+        "authorDisplayName": "Rosi Queiroz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSq02z4XTS5s6gyMeMs-VI4steGaXbIPKMDmo1yIU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_OiDOnisrEa5dBZRV1T6MA",
+        "authorChannelId": {
+          "value": "UC_OiDOnisrEa5dBZRV1T6MA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-13T19:26:48Z",
+        "updatedAt": "2020-05-13T19:26:48Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ec0S1q28WboXv4jjz2O9HVWZmYY",
+  "id": "UgzsdwQsX13alSYMC954AaABAg",
+  "snippet": {
+    "videoId": "YuAuyp8JD8A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rk1xFI_lV4DZDxhl8jGoAsNgYZ8",
+      "id": "UgzsdwQsX13alSYMC954AaABAg",
+      "snippet": {
+        "videoId": "YuAuyp8JD8A",
+        "textDisplay": "A coisa \u00e9 s\u00e9ria,mas fazer o que se as festas esta ai.",
+        "textOriginal": "A coisa \u00e9 s\u00e9ria,mas fazer o que se as festas esta ai.",
+        "authorDisplayName": "A palavra nunca volta vazia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/O-2d7x617cHj3gZxoNAtWw-UETVf8sTUbaeAInVUfxFmk_yOjPJU7fPSKEwBfKpjPmItktDU3Xk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgOiMa1i3drgK6TFeKSzoXg",
+        "authorChannelId": {
+          "value": "UCgOiMa1i3drgK6TFeKSzoXg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-05-19T15:52:07Z",
+        "updatedAt": "2022-05-19T15:52:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "n_p-psVnJkm2VVdZwwgmS4Pp0HA",
+      "id": "UgzsdwQsX13alSYMC954AaABAg.9bDCiUvUaR49bFGKNGjvRf",
+      "snippet": {
+        "textDisplay": "Festas e outros lugares...",
+        "textOriginal": "Festas e outros lugares...",
+        "parentId": "UgzsdwQsX13alSYMC954AaABAg",
+        "authorDisplayName": "Hilda Lopes Dias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJV_INeNL1VVEtEPmP1Tc225HdTqLo9gf-TUBC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClx_UwtE75H8WqpJ5yxTRUg",
+        "authorChannelId": {
+          "value": "UClx_UwtE75H8WqpJ5yxTRUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T11:02:08Z",
+        "updatedAt": "2022-05-20T11:02:08Z"
+      }
+    }
+  ]
+}

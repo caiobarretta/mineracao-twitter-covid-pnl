@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PdfYEw0FLKFgN1vKuRJfhg7S83w",
+  "id": "UgwcIhiw2wspD8DTtdN4AaABAg",
+  "snippet": {
+    "videoId": "33KGBq58O-Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ud1g3gJI39VDG5m6xHoDDafqOVI",
+      "id": "UgwcIhiw2wspD8DTtdN4AaABAg",
+      "snippet": {
+        "videoId": "33KGBq58O-Q",
+        "textDisplay": "Excelente reportagem!\nInformativa e direta.",
+        "textOriginal": "Excelente reportagem!\nInformativa e direta.",
+        "authorDisplayName": "Wilson Santiago da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGQbnTGkF_FI99DQtyzKMQcOl2CYvqZKbBdcRISw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeLG2ONTZKKUgnOIWsfjc5g",
+        "authorChannelId": {
+          "value": "UCeLG2ONTZKKUgnOIWsfjc5g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 260,
+        "publishedAt": "2022-01-26T21:12:57Z",
+        "updatedAt": "2022-01-26T21:12:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kCp3qcx5sL0DVQu-x6sExBkIUQA",
+      "id": "UgwcIhiw2wspD8DTtdN4AaABAg.9XfobOg5HFV9XhF7cTAXfB",
+      "snippet": {
+        "textDisplay": "Mais um exemplo da distribui\u00e7\u00e3o Pareto",
+        "textOriginal": "Mais um exemplo da distribui\u00e7\u00e3o Pareto",
+        "parentId": "UgwcIhiw2wspD8DTtdN4AaABAg",
+        "authorDisplayName": "john: the native",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR38V6sf1Xh76P7ONWK92W0TUNH2vioF3WGp9HX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtzzwWNyow1vbCqGxJz0ATw",
+        "authorChannelId": {
+          "value": "UCtzzwWNyow1vbCqGxJz0ATw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-27T10:32:39Z",
+        "updatedAt": "2022-01-27T10:32:39Z"
+      }
+    }
+  ]
+}

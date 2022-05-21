@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vdX115tmM5m94hPiYwLxRtEqHLM",
+  "id": "UgyKDlxvLyJENV4uKf94AaABAg",
+  "snippet": {
+    "videoId": "fQCl2Y20DuQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2X6bkOgvPQ-bE-qOi6qB2WbyGXk",
+      "id": "UgyKDlxvLyJENV4uKf94AaABAg",
+      "snippet": {
+        "videoId": "fQCl2Y20DuQ",
+        "textDisplay": "The video should say January 2020, not 2019, when mentioning the travel ban.",
+        "textOriginal": "The video should say January 2020, not 2019, when mentioning the travel ban.",
+        "authorDisplayName": "Darlene Ingram",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8rvfAs8MyR9lx8nsPex8PWrkaMaPdAP16cLv_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUyyzjMZHHz2_dhJPXGPL2w",
+        "authorChannelId": {
+          "value": "UCUyyzjMZHHz2_dhJPXGPL2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 19,
+        "publishedAt": "2020-08-20T03:25:56Z",
+        "updatedAt": "2020-08-20T03:25:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FVRtxcG4WcoJCcPsMyDzdPCLxPU",
+      "id": "UgyKDlxvLyJENV4uKf94AaABAg.9CZdxnK75sI9N87_sN_q1u",
+      "snippet": {
+        "textDisplay": "Why bother ? When you already know the correct answer.",
+        "textOriginal": "Why bother ? When you already know the correct answer.",
+        "parentId": "UgyKDlxvLyJENV4uKf94AaABAg",
+        "authorDisplayName": "mouse+Cheese = Vax*Scenes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/YZYmlTsjuW25GXGQDYGXt1QB6hZaUglMJ5GBWLKefmRGP72ZZwNDeg9-uQF4IZk0fnUO-4XC4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIwrQPdKyLLwqJEGyiny7hA",
+        "authorChannelId": {
+          "value": "UCIwrQPdKyLLwqJEGyiny7hA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-09T20:40:08Z",
+        "updatedAt": "2021-05-09T20:40:08Z"
+      }
+    }
+  ]
+}

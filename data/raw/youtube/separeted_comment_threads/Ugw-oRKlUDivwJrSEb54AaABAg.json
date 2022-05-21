@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4RftKhv6r0X7wPoYF0GnDnQcwog",
+  "id": "Ugw-oRKlUDivwJrSEb54AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XQ4Hth-KcB407S8EbxBfkvly_H0",
+      "id": "Ugw-oRKlUDivwJrSEb54AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "DEU CERTO. OBRIGADA. AJUDOU MUITO;",
+        "textOriginal": "DEU CERTO. OBRIGADA. AJUDOU MUITO;",
+        "authorDisplayName": "Anis Nahssen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWiIdc8659wIIgsMpBy6KiT1CT4Fb0043inQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD1uUZexvVCkFWJpIlewwSQ",
+        "authorChannelId": {
+          "value": "UCD1uUZexvVCkFWJpIlewwSQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-30T19:26:31Z",
+        "updatedAt": "2020-10-30T19:26:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HeTbQwhJUPjW6iJNUqGutLR4UqA",
+      "id": "Ugw-oRKlUDivwJrSEb54AaABAg.9FSBKYT4uaH9FSQyBaVBy1",
+      "snippet": {
+        "textDisplay": "De nada! Que bom que deu certo\ud83d\udc4d",
+        "textOriginal": "De nada! Que bom que deu certo\ud83d\udc4d",
+        "parentId": "Ugw-oRKlUDivwJrSEb54AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-30T21:43:08Z",
+        "updatedAt": "2020-10-30T21:43:08Z"
+      }
+    }
+  ]
+}

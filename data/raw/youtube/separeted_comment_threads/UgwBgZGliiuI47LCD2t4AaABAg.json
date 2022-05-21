@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3El7uFTEkwIRZE9BzBjOT-P_6vQ",
+  "id": "UgwBgZGliiuI47LCD2t4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "aPokdrwW_KmgiyqVwiuS3EBRZWQ",
+      "id": "UgwBgZGliiuI47LCD2t4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "a entrada do COVID pode ser por endocitose ?",
+        "textOriginal": "a entrada do COVID pode ser por endocitose ?",
+        "authorDisplayName": "MARIA ELIZA SILVA DOS SANTOS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/me-LP7NWL_gE8eFasOolE_hIAb0SURPBa_ss5t4yW8AO9aouB75vUvHaGbNMV0W-bk94HKWe=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEYTNHCRnMYHdGXc6S6Copg",
+        "authorChannelId": {
+          "value": "UCEYTNHCRnMYHdGXc6S6Copg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-16T13:12:13Z",
+        "updatedAt": "2021-08-16T13:12:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bo_F53yMABY4d47YllokPiDLZAw",
+      "id": "UgwBgZGliiuI47LCD2t4AaABAg.9R6F0qMEDx59SnOU3GTlgN",
+      "snippet": {
+        "textDisplay": "Parece que sim. J\u00e1 foi evidenciado endicitose mediada por receptor para o sarscov2",
+        "textOriginal": "Parece que sim. J\u00e1 foi evidenciado endicitose mediada por receptor para o sarscov2",
+        "parentId": "UgwBgZGliiuI47LCD2t4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T13:12:50Z",
+        "updatedAt": "2021-09-27T13:12:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "c7J7uvlD4dVprpuVikapHqqDiyE",
+      "id": "UgwBgZGliiuI47LCD2t4AaABAg.9R6F0qMEDx59SnJgznXxox",
+      "snippet": {
+        "textDisplay": "N\u00e3o que eu saiba.",
+        "textOriginal": "N\u00e3o que eu saiba.",
+        "parentId": "UgwBgZGliiuI47LCD2t4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T12:31:02Z",
+        "updatedAt": "2021-09-27T12:31:02Z"
+      }
+    }
+  ]
+}

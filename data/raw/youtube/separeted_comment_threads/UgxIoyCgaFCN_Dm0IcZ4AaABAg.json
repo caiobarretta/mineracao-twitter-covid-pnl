@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AxZELGmRkAzGkrlysvczOL-7hNU",
+  "id": "UgxIoyCgaFCN_Dm0IcZ4AaABAg",
+  "snippet": {
+    "videoId": "fJEIpwsb6Yk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GrMlHJkfZ6YRtPKieBrhsj68iss",
+      "id": "UgxIoyCgaFCN_Dm0IcZ4AaABAg",
+      "snippet": {
+        "videoId": "fJEIpwsb6Yk",
+        "textDisplay": "Is any item on this test kit temperature sensitive??",
+        "textOriginal": "Is any item on this test kit temperature sensitive??",
+        "authorDisplayName": "john smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQObJEHAliFBoVu41nt0bmiGm8_lkgMWlW99r9GxA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmEHg7xzCAibg9I0Op4FcOw",
+        "authorChannelId": {
+          "value": "UCmEHg7xzCAibg9I0Op4FcOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-07T10:27:40Z",
+        "updatedAt": "2022-01-07T10:27:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PAh1tvD_Wmx61ec90-VWBvHHGQI",
+      "id": "UgxIoyCgaFCN_Dm0IcZ4AaABAg.9WtjeaBKh2T9YLocBECvNK",
+      "snippet": {
+        "textDisplay": "Store between 2-30 degrees celsius , cod weather will make it invalid.",
+        "textOriginal": "Store between 2-30 degrees celsius , cod weather will make it invalid.",
+        "parentId": "UgxIoyCgaFCN_Dm0IcZ4AaABAg",
+        "authorDisplayName": "Martha Tessema",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRLrY3SsJPtfR_p8_X6ZM5g5kFETeHXlSVoUdeoNmE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3J38f34DNTlApqN9xkvmZQ",
+        "authorChannelId": {
+          "value": "UC3J38f34DNTlApqN9xkvmZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-12T14:00:24Z",
+        "updatedAt": "2022-02-12T14:00:24Z"
+      }
+    }
+  ]
+}

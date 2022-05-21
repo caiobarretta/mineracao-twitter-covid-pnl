@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ahDSfvrMsOL3N5GNz4lr8wvZ5Y0",
+  "id": "Ugx4bDy494f0h5JqgmB4AaABAg",
+  "snippet": {
+    "videoId": "_omQNMrhWBc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "REBBVJEq49xoG24MxrJS3IOmNdg",
+      "id": "Ugx4bDy494f0h5JqgmB4AaABAg",
+      "snippet": {
+        "videoId": "_omQNMrhWBc",
+        "textDisplay": "Muito inteligente, dedicada",
+        "textOriginal": "Muito inteligente, dedicada",
+        "authorDisplayName": "Ros\u00e2ngela Figueira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjle-vphcsSrobXmeihr8_-yKDYnxD-RDFgrZxzHI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfrde0sNUlR1160PZHKq-Cg",
+        "authorChannelId": {
+          "value": "UCfrde0sNUlR1160PZHKq-Cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-03-02T10:17:53Z",
+        "updatedAt": "2021-03-02T10:17:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VeulVVSefigQfzgqn3RhqBg6qO0",
+      "id": "Ugx4bDy494f0h5JqgmB4AaABAg.9KNvJnPyg9y9MZ7wzyJwPE",
+      "snippet": {
+        "textDisplay": "Ficamos felizes que estejam gostando \ud83d\ude03",
+        "textOriginal": "Ficamos felizes que estejam gostando \ud83d\ude03",
+        "parentId": "Ugx4bDy494f0h5JqgmB4AaABAg",
+        "authorDisplayName": "Curso MS - Cursos na Sa\u00fade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BNXd0LAkoTLHHQVkL6lKU0I9Divb0p0tqWsGNNiysVK8j2kgNwmOqyR7CqgM3xf7XdfuSXOr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAYzA8spH3lWfTz8JGQtSoA",
+        "authorChannelId": {
+          "value": "UCAYzA8spH3lWfTz8JGQtSoA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-25T11:51:24Z",
+        "updatedAt": "2021-04-25T11:51:24Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "N5mfIZDTBkp3Gwycv4DfFgpBO2k",
+  "id": "Ugxsg8hchgoURi96oXN4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cyiaA5rAGum8KiCxx2EsylOrbNg",
+      "id": "Ugxsg8hchgoURi96oXN4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Como sempre \"cir\u00fargico\"",
+        "textOriginal": "Como sempre \"cir\u00fargico\"",
+        "authorDisplayName": "Stevan Mendes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSku6F3UsduA8a-9RLT0xmzTJN3uU7knUssQ_CRTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9RXFGMylBtWleHgAJOIzrQ",
+        "authorChannelId": {
+          "value": "UC9RXFGMylBtWleHgAJOIzrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-11-04T02:53:16Z",
+        "updatedAt": "2020-11-04T02:53:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4a1uSduTB6IZIoAW73wITJzGfXA",
+      "id": "Ugxsg8hchgoURi96oXN4AaABAg.9FcHd9TlvA09FcKGAyui8K",
+      "snippet": {
+        "textDisplay": "Valeu!",
+        "textOriginal": "Valeu!",
+        "parentId": "Ugxsg8hchgoURi96oXN4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-04T03:16:13Z",
+        "updatedAt": "2020-11-04T03:16:13Z"
+      }
+    }
+  ]
+}

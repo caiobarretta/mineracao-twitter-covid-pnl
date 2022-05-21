@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Y0n5XZV-qp3lVrO2wgBG_FB6LHk",
+  "id": "Ugw3ghQBYjA1l2YFa3l4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oUQwnvPeYjYqpXWYafY-zCUQTys",
+      "id": "Ugw3ghQBYjA1l2YFa3l4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Obrigado!",
+        "textOriginal": "Obrigado!",
+        "authorDisplayName": "Ronaldo Orlando Vieira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_5rEbIrPUG_I53lhnCH6RN7XuyQiFi3eywfCj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmRle7rBzOnXVewD7cprukg",
+        "authorChannelId": {
+          "value": "UCmRle7rBzOnXVewD7cprukg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-07T16:00:28Z",
+        "updatedAt": "2020-10-07T16:00:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wuIpktoJ928Gwh5I8Eo3Cyz-sac",
+      "id": "Ugw3ghQBYjA1l2YFa3l4AaABAg.9EWaTBgWq8Q9EWboYXEJDs",
+      "snippet": {
+        "textDisplay": "De nada!\ud83d\udc4d",
+        "textOriginal": "De nada!\ud83d\udc4d",
+        "parentId": "Ugw3ghQBYjA1l2YFa3l4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-07T16:12:15Z",
+        "updatedAt": "2020-10-07T16:12:15Z"
+      }
+    }
+  ]
+}

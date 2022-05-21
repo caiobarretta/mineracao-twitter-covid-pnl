@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "X0WbIay7_A4KeKsuZnpV-Gw5XiM",
+  "id": "Ugy5StegzUPmYebPn894AaABAg",
+  "snippet": {
+    "videoId": "kJWv1QXyFXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "c-uo3MNZhVC-0l7e7EDf1mxYXKI",
+      "id": "Ugy5StegzUPmYebPn894AaABAg",
+      "snippet": {
+        "videoId": "kJWv1QXyFXM",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4fExcelente",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4fExcelente",
+        "authorDisplayName": "mayara lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMA39g82TRe6B9sDnGU0lVieDAOXYng9rAUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqZugNuhF2bivU6om9p5zWg",
+        "authorChannelId": {
+          "value": "UCqZugNuhF2bivU6om9p5zWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-08T22:01:23Z",
+        "updatedAt": "2021-09-08T22:01:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pBI3iUlucT1_lxD2sDhKdG04FnI",
+      "id": "Ugy5StegzUPmYebPn894AaABAg.9S2PrfmfVSE9S457D--jfA",
+      "snippet": {
+        "textDisplay": "Obrigado!!!",
+        "textOriginal": "Obrigado!!!",
+        "parentId": "Ugy5StegzUPmYebPn894AaABAg",
+        "authorDisplayName": "Dr. Asdrubal Cesar - MD Expert",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/amYNxa-8tYs5KCsFyKc9Z9hnrj0sf_AI_Sh-zLnnduFXymwvuNzI4uOVoWVxR4wlU3YXwn5h6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0TW7wRktftjTMbzSjOOJww",
+        "authorChannelId": {
+          "value": "UC0TW7wRktftjTMbzSjOOJww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-09T13:38:37Z",
+        "updatedAt": "2021-09-09T13:38:37Z"
+      }
+    }
+  ]
+}

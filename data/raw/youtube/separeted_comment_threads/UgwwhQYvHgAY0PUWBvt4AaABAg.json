@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PTiIqy93yNimfKKdiIPX03bde38",
+  "id": "UgwwhQYvHgAY0PUWBvt4AaABAg",
+  "snippet": {
+    "videoId": "Rexk5rb4xCg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L5SbfuqhNtTRqoEYP_WiOYzZ6uU",
+      "id": "UgwwhQYvHgAY0PUWBvt4AaABAg",
+      "snippet": {
+        "videoId": "Rexk5rb4xCg",
+        "textDisplay": "E mentira, e mentira. A Corei tem bommmm, nao  e pobre",
+        "textOriginal": "E mentira, e mentira. A Corei tem bommmm, nao  e pobre",
+        "authorDisplayName": "grafWeb",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/1zt4JJCX50uM9f6J4pTQKbS2jUl-MNT3QxcP96GpB2_DluasDM3c_TrJ6NArgguUzLIvStudhg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7hDxW4uRF4zbp2QO7XGBzA",
+        "authorChannelId": {
+          "value": "UC7hDxW4uRF4zbp2QO7XGBzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-14T09:57:15Z",
+        "updatedAt": "2022-05-14T09:57:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hhbo_ZoZ6mD84HO0gOQUxLRsOXw",
+      "id": "UgwwhQYvHgAY0PUWBvt4AaABAg.9b-h7t9a6UP9b3MBcdTi0g",
+      "snippet": {
+        "textDisplay": "Oi?",
+        "textOriginal": "Oi?",
+        "parentId": "UgwwhQYvHgAY0PUWBvt4AaABAg",
+        "authorDisplayName": "Andr\u00e9 Hoffmann",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/IgP_E7fQsm9ESTTYHvcNluP-BXYM_ook8OSywHV15rJzRPt84D0B3J0p5S1iR_teHM8ph0u1tw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWgBIU9HS5dhnxnu3P4b7wQ",
+        "authorChannelId": {
+          "value": "UCWgBIU9HS5dhnxnu3P4b7wQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-15T20:02:28Z",
+        "updatedAt": "2022-05-15T20:02:28Z"
+      }
+    }
+  ]
+}

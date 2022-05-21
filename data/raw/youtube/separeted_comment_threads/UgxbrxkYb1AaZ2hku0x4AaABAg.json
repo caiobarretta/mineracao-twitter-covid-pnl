@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "TDHIkpFpIUB7WXWLndsEJOhYZek",
+  "id": "UgxbrxkYb1AaZ2hku0x4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3DN0_CWusRGIcHHj1x-GBcZ9bss",
+      "id": "UgxbrxkYb1AaZ2hku0x4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "Bem explicado! Obrigado!!",
+        "textOriginal": "Bem explicado! Obrigado!!",
+        "authorDisplayName": "Wilton An",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSugrqQv0TSwA-dhyGXfvB6hcxLMJz8OXesRyFRGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPCp3zHbh5TPXq3CkjQGveQ",
+        "authorChannelId": {
+          "value": "UCPCp3zHbh5TPXq3CkjQGveQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-18T00:05:53Z",
+        "updatedAt": "2022-04-18T00:05:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vAEXZwdALvn2SUoSzM_VzP_8kis",
+      "id": "UgxbrxkYb1AaZ2hku0x4AaABAg.9_wgmux1L_P9_yArf9thMB",
+      "snippet": {
+        "textDisplay": "Muito obrigada pelo elogio!!! Um grande abra\u00e7o! Amanda",
+        "textOriginal": "Muito obrigada pelo elogio!!! Um grande abra\u00e7o! Amanda",
+        "parentId": "UgxbrxkYb1AaZ2hku0x4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T13:56:39Z",
+        "updatedAt": "2022-04-18T13:56:39Z"
+      }
+    }
+  ]
+}

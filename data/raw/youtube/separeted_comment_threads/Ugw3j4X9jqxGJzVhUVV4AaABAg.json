@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "n95V0htEPFAxoX15fcHxjE5cw3A",
+  "id": "Ugw3j4X9jqxGJzVhUVV4AaABAg",
+  "snippet": {
+    "videoId": "DwQoHbHwA1A",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oOWIiLctALRZtCa-YxJHSdupeVI",
+      "id": "Ugw3j4X9jqxGJzVhUVV4AaABAg",
+      "snippet": {
+        "videoId": "DwQoHbHwA1A",
+        "textDisplay": "All BS",
+        "textOriginal": "All BS",
+        "authorDisplayName": "C G",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/oA0xJ7VKg_ZxofHD_LEdDl1r1Nw7P7Retdj0-kle1hsJ7ubEzUhWE_-wDZVGa3ft5r1ucoZRig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVkvsByRFOzCUXahpl0m_6g",
+        "authorChannelId": {
+          "value": "UCVkvsByRFOzCUXahpl0m_6g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-18T19:49:43Z",
+        "updatedAt": "2022-05-18T19:49:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cSjL_wf5-01p-jaRIi20UcmA3Q4",
+      "id": "Ugw3j4X9jqxGJzVhUVV4AaABAg.9bB36kMDd5o9bBKXRTUjxF",
+      "snippet": {
+        "textDisplay": "Then stop listening. Go listen to your own chosen future.",
+        "textOriginal": "Then stop listening. Go listen to your own chosen future.",
+        "parentId": "Ugw3j4X9jqxGJzVhUVV4AaABAg",
+        "authorDisplayName": "Nate Winter",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_hrAS-PlqaWlc5NYjtb5KebtBB_dY86dLC1lF=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-ypW3Bm0aBreXCj09HMgOw",
+        "authorChannelId": {
+          "value": "UC-ypW3Bm0aBreXCj09HMgOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-18T22:21:54Z",
+        "updatedAt": "2022-05-18T22:21:54Z"
+      }
+    }
+  ]
+}

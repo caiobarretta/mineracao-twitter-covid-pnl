@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "l-5D9C9Gomr7sxciJvHE4waUUvE",
+  "id": "UgxR6dFrm6URTRXwDAF4AaABAg",
+  "snippet": {
+    "videoId": "dPNBrCb9wVY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Pwzr4uLspdTo0KCnCqano6KrNkw",
+      "id": "UgxR6dFrm6URTRXwDAF4AaABAg",
+      "snippet": {
+        "videoId": "dPNBrCb9wVY",
+        "textDisplay": "Porque parou de gravar aulas ?",
+        "textOriginal": "Porque parou de gravar aulas ?",
+        "authorDisplayName": "Gilcelio Nunes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyNOfb_uzLmr-XwoPAV51NOAlGcMZCnRmQLgFWdQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbcMhzX4Ya7iP6uJCTEBe2g",
+        "authorChannelId": {
+          "value": "UCbcMhzX4Ya7iP6uJCTEBe2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-04T11:03:24Z",
+        "updatedAt": "2020-02-04T11:03:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "tz2Sbsl9QM6koklKvq1UePg5nzg",
+      "id": "UgxR6dFrm6URTRXwDAF4AaABAg.94bcvD66Jvn94jLYooH7zM",
+      "snippet": {
+        "textDisplay": "Ol\u00e1, estou fazendo novas edi\u00e7\u00f5es e em breve v\u00e1rias aulas novas",
+        "textOriginal": "Ol\u00e1, estou fazendo novas edi\u00e7\u00f5es e em breve v\u00e1rias aulas novas",
+        "parentId": "UgxR6dFrm6URTRXwDAF4AaABAg",
+        "authorDisplayName": "Alexandre Aguiar QuimiNutri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2w5fUPsDG_az_GIvkqyVBhtWFxjiGnlLVdkWV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRhjnLE24kkitn4EFn4Iokw",
+        "authorChannelId": {
+          "value": "UCRhjnLE24kkitn4EFn4Iokw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-07T10:56:51Z",
+        "updatedAt": "2020-02-07T10:56:51Z"
+      }
+    }
+  ]
+}

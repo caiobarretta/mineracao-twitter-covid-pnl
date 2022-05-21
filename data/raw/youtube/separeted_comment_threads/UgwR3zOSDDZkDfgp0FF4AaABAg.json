@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O83YgBvrV2fqJ5emC2IaZ27h0rM",
+  "id": "UgwR3zOSDDZkDfgp0FF4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fdq6LscMo6XBpcigUGG0JC8I8KM",
+      "id": "UgwR3zOSDDZkDfgp0FF4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "oi Gustavo, te passei um email para adquirir o material para ACS estou no aguardo da sua resposta.",
+        "textOriginal": "oi Gustavo, te passei um email para adquirir o material para ACS estou no aguardo da sua resposta.",
+        "authorDisplayName": "Rosangela Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7XZ8_1x2rNbsEbBOdtQwPQhuLdmM-bBc8058Syw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-6g6Wt8NAYzTQuJZ4UTRxA",
+        "authorChannelId": {
+          "value": "UC-6g6Wt8NAYzTQuJZ4UTRxA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-11T16:18:40Z",
+        "updatedAt": "2020-03-11T16:18:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "LLxaPeP2RglrqvBs-P3L47cIGus",
+      "id": "UgwR3zOSDDZkDfgp0FF4AaABAg.963tbjorfSU963u5hqyJb7",
+      "snippet": {
+        "textDisplay": "Acabei de te mandar msg!",
+        "textOriginal": "Acabei de te mandar msg!",
+        "parentId": "UgwR3zOSDDZkDfgp0FF4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-11T16:22:53Z",
+        "updatedAt": "2020-03-11T16:22:53Z"
+      }
+    }
+  ]
+}

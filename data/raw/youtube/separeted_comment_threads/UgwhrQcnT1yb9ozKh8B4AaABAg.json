@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iWxsDMzHgZr4qkV5AN6ZteFH_Ow",
+  "id": "UgwhrQcnT1yb9ozKh8B4AaABAg",
+  "snippet": {
+    "videoId": "Kuj0TFj_e0U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4LPrqkojqOe2qYqQig3gRu9u2t0",
+      "id": "UgwhrQcnT1yb9ozKh8B4AaABAg",
+      "snippet": {
+        "videoId": "Kuj0TFj_e0U",
+        "textDisplay": "Isso a\u00ed \u00e9 efeito p\u00f3s-carnaval...",
+        "textOriginal": "Isso a\u00ed \u00e9 efeito p\u00f3s-carnaval...",
+        "authorDisplayName": "JORGE NASCIMENTO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXZQmeWUFW1qpSYM59hLVURi9kucDr9GvHs2JfkA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO4UTSy-7qMUfT6nMZj24hA",
+        "authorChannelId": {
+          "value": "UCO4UTSy-7qMUfT6nMZj24hA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-20T14:39:48Z",
+        "updatedAt": "2022-05-20T14:39:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xwcvZ4KlcnwKvCWBVfBzBzQoK9E",
+      "id": "UgwhrQcnT1yb9ozKh8B4AaABAg.9bFeEbdx1cJ9bHu8lSk5Ek",
+      "snippet": {
+        "textDisplay": "@Ada Sarmento Marques tem gente grudada umas nas outras, gritando, beijando muitos, compartilhando garrafas e copos, cigarros etc",
+        "textOriginal": "@Ada Sarmento Marques tem gente grudada umas nas outras, gritando, beijando muitos, compartilhando garrafas e copos, cigarros etc",
+        "parentId": "UgwhrQcnT1yb9ozKh8B4AaABAg",
+        "authorDisplayName": "Ana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkBUF0MjsSqdc1vgzdXUNY369QUall4Nvjgh5jUEbd3MTpkHY1y_UV_REK5b1c=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChCPyJOSnw-VqahFJhQpd_w",
+        "authorChannelId": {
+          "value": "UChCPyJOSnw-VqahFJhQpd_w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T11:37:17Z",
+        "updatedAt": "2022-05-21T11:37:17Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "aqNoCP7Wjj8B3f9Hf_bVDhvTyV0",
+      "id": "UgwhrQcnT1yb9ozKh8B4AaABAg.9bFeEbdx1cJ9bFtPgQo_8U",
+      "snippet": {
+        "textDisplay": "Ah sim... S\u00f3 no carnaval tem aglomera\u00e7\u00e3o de pessoas \ud83d\ude44",
+        "textOriginal": "Ah sim... S\u00f3 no carnaval tem aglomera\u00e7\u00e3o de pessoas \ud83d\ude44",
+        "parentId": "UgwhrQcnT1yb9ozKh8B4AaABAg",
+        "authorDisplayName": "Ada Sarmento Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/nt9k7CwWpjhRO6_jWWdv-Xqa8ipj7Rcaek9aH26AufUc-h51Jcp-tGZtQYilWep1Tz8nK_L1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPx_WD8wNow7M0ZdJkUh6Qg",
+        "authorChannelId": {
+          "value": "UCPx_WD8wNow7M0ZdJkUh6Qg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-20T16:52:23Z",
+        "updatedAt": "2022-05-20T16:52:23Z"
+      }
+    }
+  ]
+}

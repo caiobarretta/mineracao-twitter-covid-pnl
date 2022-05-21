@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SQtv4ANCwTdygPvHuK4CVEwafrI",
+  "id": "UgxEUsW2giNGTdnNGvd4AaABAg",
+  "snippet": {
+    "videoId": "LRshvx5XeL4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ejdP9LsCMjA6QZXq3mTaOACEKy4",
+      "id": "UgxEUsW2giNGTdnNGvd4AaABAg",
+      "snippet": {
+        "videoId": "LRshvx5XeL4",
+        "textDisplay": "Eu j\u00e1...fiquei com nariz intupido at\u00e9 hoje.",
+        "textOriginal": "Eu j\u00e1...fiquei com nariz intupido at\u00e9 hoje.",
+        "authorDisplayName": "Marcelo Teixeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLThaq9B4UKIfVRkKEhqzSIEr5-LpKBKjKc5AA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3GcuGawvGtRYOpGQQ1uM2Q",
+        "authorChannelId": {
+          "value": "UC3GcuGawvGtRYOpGQQ1uM2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-05-22T13:16:11Z",
+        "updatedAt": "2021-05-22T13:16:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "MwSV6XL4NN2VUOj-lKJbEyJ0yxo",
+      "id": "UgxEUsW2giNGTdnNGvd4AaABAg.9Ndo6dD0SF69UJ8fdFkFmk",
+      "snippet": {
+        "textDisplay": "@Marcelo Teixeira mais vc respira como antes",
+        "textOriginal": "@Marcelo Teixeira mais vc respira como antes",
+        "parentId": "UgxEUsW2giNGTdnNGvd4AaABAg",
+        "authorDisplayName": "Luiz Paulo Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSglGraTkh-gRbRDWznDmr60aHZB3voA97HZ0yEP_EKpYIoyXQ8N-9Rzs6IW81_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF2gAaUqn87qYAcKhgyJoUg",
+        "authorChannelId": {
+          "value": "UCF2gAaUqn87qYAcKhgyJoUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-04T03:01:04Z",
+        "updatedAt": "2021-11-04T03:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "_oiVjal7CYbCD43ZRm6X_UnDWcY",
+      "id": "UgxEUsW2giNGTdnNGvd4AaABAg.9Ndo6dD0SF69UJ6UQ9YFsG",
+      "snippet": {
+        "textDisplay": "@Luiz Paulo Souza sim",
+        "textOriginal": "@Luiz Paulo Souza sim",
+        "parentId": "UgxEUsW2giNGTdnNGvd4AaABAg",
+        "authorDisplayName": "Marcelo Teixeira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLThaq9B4UKIfVRkKEhqzSIEr5-LpKBKjKc5AA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3GcuGawvGtRYOpGQQ1uM2Q",
+        "authorChannelId": {
+          "value": "UC3GcuGawvGtRYOpGQQ1uM2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-04T02:41:55Z",
+        "updatedAt": "2021-11-04T02:41:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "jLJL-wk6NBc3zvTqtUkf5mnoZss",
+      "id": "UgxEUsW2giNGTdnNGvd4AaABAg.9Ndo6dD0SF69UJ6BHHHksZ",
+      "snippet": {
+        "textDisplay": "Vc consegue respirar normal?",
+        "textOriginal": "Vc consegue respirar normal?",
+        "parentId": "UgxEUsW2giNGTdnNGvd4AaABAg",
+        "authorDisplayName": "Luiz Paulo Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSglGraTkh-gRbRDWznDmr60aHZB3voA97HZ0yEP_EKpYIoyXQ8N-9Rzs6IW81_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF2gAaUqn87qYAcKhgyJoUg",
+        "authorChannelId": {
+          "value": "UCF2gAaUqn87qYAcKhgyJoUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-04T02:39:19Z",
+        "updatedAt": "2021-11-04T02:39:19Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5yntSc5PCpP1r6gZOJ02r5puzis",
+  "id": "Ugy9kRTZ4iAgE2PbXx54AaABAg",
+  "snippet": {
+    "videoId": "bJPgQlqkQxI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sxGmwFD-cdAc7Wfmf1PLE6MA5RQ",
+      "id": "Ugy9kRTZ4iAgE2PbXx54AaABAg",
+      "snippet": {
+        "videoId": "bJPgQlqkQxI",
+        "textDisplay": "The dude even went the \u201cwrong ways\u201d to show us where to go, insane dedication",
+        "textOriginal": "The dude even went the \u201cwrong ways\u201d to show us where to go, insane dedication",
+        "authorDisplayName": "PhantomBoi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zkswLNflHHgsLIY_YnaVz6ZkLg8qE1mZ8D54IyLgdqEFxdUWPznkZWv0F4TwkECMtddrREbfEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0vkt8ZykpnXm4Y2xRVEPug",
+        "authorChannelId": {
+          "value": "UC0vkt8ZykpnXm4Y2xRVEPug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-11-11T14:52:15Z",
+        "updatedAt": "2021-11-11T14:52:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aFTCvZgRvF3JVvcAbebOXL88Qy4",
+      "id": "Ugy9kRTZ4iAgE2PbXx54AaABAg.9UbRcaYrLit9WwvIyrtAgu",
+      "snippet": {
+        "textDisplay": "2:02:28",
+        "textOriginal": "2:02:28",
+        "parentId": "Ugy9kRTZ4iAgE2PbXx54AaABAg",
+        "authorDisplayName": "Autism",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-kTfzLqjNtaNU-ZvDB0aI9umxyzupxbCPcCyLfwPxpB-6Vn-9tb0XxXtmxLtvNZgc8ROpoarBhw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ2-O_tWjOnF2wMcfxreqKg",
+        "authorChannelId": {
+          "value": "UCJ2-O_tWjOnF2wMcfxreqKg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-08T16:07:09Z",
+        "updatedAt": "2022-01-08T16:07:09Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "9RUe2QLFzvyBuUmoFLAwGHijxCY",
+      "id": "Ugy9kRTZ4iAgE2PbXx54AaABAg.9UbRcaYrLit9Ubc0TWWqAn",
+      "snippet": {
+        "textDisplay": "yes",
+        "textOriginal": "yes",
+        "parentId": "Ugy9kRTZ4iAgE2PbXx54AaABAg",
+        "authorDisplayName": "nubwieg",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/scXUw-Yq_LAKpik5bBmToV30pmLZj_icXKxzM1zFLR7_-opyJIhgEgTA5af6xMhU9qlEUQHe3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdqdDVpxiczdNhKBJjL1D1Q",
+        "authorChannelId": {
+          "value": "UCdqdDVpxiczdNhKBJjL1D1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-11T16:31:46Z",
+        "updatedAt": "2021-11-11T16:31:46Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "SRUZULPs4JvyP3vTvsj8oBEHxuE",
+  "id": "UgyoZj-U18lp4Vz642h4AaABAg",
+  "snippet": {
+    "videoId": "33KGBq58O-Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dw6B6UaYs9GQ7ooFQYxqB4Ns2Ns",
+      "id": "UgyoZj-U18lp4Vz642h4AaABAg",
+      "snippet": {
+        "videoId": "33KGBq58O-Q",
+        "textDisplay": "A mesma dist\u00e2ncia de renda que existe entre os 2% e os 98% existe dentro dos 2%.",
+        "textOriginal": "A mesma dist\u00e2ncia de renda que existe entre os 2% e os 98% existe dentro dos 2%.",
+        "authorDisplayName": "Kevin Nicoletti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqZDVe43y2HO03xRXtaXW-1cKFl5zTwI2DMndnqw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2tgXWVwiVe-Hsb0HICCNaA",
+        "authorChannelId": {
+          "value": "UC2tgXWVwiVe-Hsb0HICCNaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 65,
+        "publishedAt": "2022-01-26T23:29:44Z",
+        "updatedAt": "2022-01-26T23:29:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hcAmLt2-MChyswYNOSfYQUOzatI",
+      "id": "UgyoZj-U18lp4Vz642h4AaABAg.9Xg3GH3gaxp9b1W4mBtjxl",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgyoZj-U18lp4Vz642h4AaABAg",
+        "authorDisplayName": "Davi Almeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRI8dg0l6pM1XOuKTQMKTy4GyASyLbXQZM4peUUlwU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnK3QHUATQbf6icyuNHplkA",
+        "authorChannelId": {
+          "value": "UCnK3QHUATQbf6icyuNHplkA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-15T02:50:26Z",
+        "updatedAt": "2022-05-15T02:50:26Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "P3n31eruuV6PsyappNBxrzeiZ3U",
+      "id": "UgyoZj-U18lp4Vz642h4AaABAg.9Xg3GH3gaxp9Z9FBFGl1Id",
+      "snippet": {
+        "textDisplay": "Coment\u00e1rio sensato",
+        "textOriginal": "Coment\u00e1rio sensato",
+        "parentId": "UgyoZj-U18lp4Vz642h4AaABAg",
+        "authorDisplayName": "William Paiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStIsOnxSo79eytdvQzJYJtSNiD_ZOT1UlUye3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvsVCh1YuE3GDAzfse1E0Fg",
+        "authorChannelId": {
+          "value": "UCvsVCh1YuE3GDAzfse1E0Fg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-04T13:22:31Z",
+        "updatedAt": "2022-03-04T13:22:31Z"
+      }
+    }
+  ]
+}

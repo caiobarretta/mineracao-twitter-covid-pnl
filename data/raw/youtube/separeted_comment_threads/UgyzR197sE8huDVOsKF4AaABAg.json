@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VqDFJbI6LWZ88iFS0zabZYillc0",
+  "id": "UgyzR197sE8huDVOsKF4AaABAg",
+  "snippet": {
+    "videoId": "pr2BzG3702U",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mzqPt1N7Hs7OiEg_LnVtudKLbYM",
+      "id": "UgyzR197sE8huDVOsKF4AaABAg",
+      "snippet": {
+        "videoId": "pr2BzG3702U",
+        "textDisplay": "Antibodies can rest in the body up to 8 months after the infection.",
+        "textOriginal": "Antibodies can rest in the body up to 8 months after the infection.",
+        "authorDisplayName": "Okba Cherboub",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMT35AvkROOBrZVU1a_BInUOhGqRMeenQM5GNy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdgLRy7lPAAeafoHE2A9JLw",
+        "authorChannelId": {
+          "value": "UCdgLRy7lPAAeafoHE2A9JLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-07-30T17:30:04Z",
+        "updatedAt": "2021-07-30T17:30:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TPwtZdkmCS-qhpeihOI0bkIc1Ec",
+      "id": "UgyzR197sE8huDVOsKF4AaABAg.9QQw0T3-r9Z9QmY84sPqRR",
+      "snippet": {
+        "textDisplay": "Which means a lot of people infected in the first and second waves around the world are able to be infected again.",
+        "textOriginal": "Which means a lot of people infected in the first and second waves around the world are able to be infected again.",
+        "parentId": "UgyzR197sE8huDVOsKF4AaABAg",
+        "authorDisplayName": "Matt",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQUD_Sgp6x7-abO_ylrXDoVFRTI2F08KYP10g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtRJZMG-2irhxFAa9gWemMw",
+        "authorChannelId": {
+          "value": "UCtRJZMG-2irhxFAa9gWemMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-08T12:15:11Z",
+        "updatedAt": "2021-08-08T12:15:11Z"
+      }
+    }
+  ]
+}

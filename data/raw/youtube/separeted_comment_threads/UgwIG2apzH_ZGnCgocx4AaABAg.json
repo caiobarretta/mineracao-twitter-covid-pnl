@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3mpBacmmUXdOJsamL4hwy-dTmPU",
+  "id": "UgwIG2apzH_ZGnCgocx4AaABAg",
+  "snippet": {
+    "videoId": "-y7e2kRv1lo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fe7ku14og25vVVrYVAckig7UY3c",
+      "id": "UgwIG2apzH_ZGnCgocx4AaABAg",
+      "snippet": {
+        "videoId": "-y7e2kRv1lo",
+        "textDisplay": "x\u00f4 coron\u00e1rias",
+        "textOriginal": "x\u00f4 coron\u00e1rias",
+        "authorDisplayName": "Angelica Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoJlX8Abk-rgmaQNHT-iwxvw_MDsahH8dCMDV_Tw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8UfmXyKmeNYHyxMgRkOPsA",
+        "authorChannelId": {
+          "value": "UC8UfmXyKmeNYHyxMgRkOPsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-12-31T22:35:01Z",
+        "updatedAt": "2020-12-31T22:35:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z-tRnTkOx58eLGCZKBrDcnZ7f9U",
+      "id": "UgwIG2apzH_ZGnCgocx4AaABAg.9HxABMyJe_W9JzzyxWTx01",
+      "snippet": {
+        "textDisplay": "x\u00f4 coronavirus",
+        "textOriginal": "x\u00f4 coronavirus",
+        "parentId": "UgwIG2apzH_ZGnCgocx4AaABAg",
+        "authorDisplayName": "Angelica Nascimento",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoJlX8Abk-rgmaQNHT-iwxvw_MDsahH8dCMDV_Tw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8UfmXyKmeNYHyxMgRkOPsA",
+        "authorChannelId": {
+          "value": "UC8UfmXyKmeNYHyxMgRkOPsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-20T17:57:34Z",
+        "updatedAt": "2021-02-20T17:57:34Z"
+      }
+    }
+  ]
+}

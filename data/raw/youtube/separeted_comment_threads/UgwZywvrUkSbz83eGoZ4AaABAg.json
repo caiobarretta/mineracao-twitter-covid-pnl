@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Vq1JHlwEqLRJH6c-I4SzDtjAUrg",
+  "id": "UgwZywvrUkSbz83eGoZ4AaABAg",
+  "snippet": {
+    "videoId": "y-jej_QTzE0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0oQC_3PMOvfAXbWSKtX1bGnyX8c",
+      "id": "UgwZywvrUkSbz83eGoZ4AaABAg",
+      "snippet": {
+        "videoId": "y-jej_QTzE0",
+        "textDisplay": "incr\u00edvel ! muito bom",
+        "textOriginal": "incr\u00edvel ! muito bom",
+        "authorDisplayName": "B\u00e1rbara Paiva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRS7Kq1y7qnxhWn336zP_7fcSEzIvhCi7RPhNski3k=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxR-Z63CsG3rKWviDSDsrPw",
+        "authorChannelId": {
+          "value": "UCxR-Z63CsG3rKWviDSDsrPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-26T21:49:06Z",
+        "updatedAt": "2021-04-26T21:49:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ehNQMJzfd97szuvLfksNhG-SZqU",
+      "id": "UgwZywvrUkSbz83eGoZ4AaABAg.9Mbm8c-UqnM9SnVrRcyEOf",
+      "snippet": {
+        "textDisplay": "Muito obrigada pelo feedback",
+        "textOriginal": "Muito obrigada pelo feedback",
+        "parentId": "UgwZywvrUkSbz83eGoZ4AaABAg",
+        "authorDisplayName": "Nave Qu\u00edmica Fisiol\u00f3gica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSP63WSXcqFh-M7rpDhWqYLq38biEik6SD0YCxi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfIkKVuPHagduJ2x46DWTw",
+        "authorChannelId": {
+          "value": "UCYfIkKVuPHagduJ2x46DWTw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-27T14:17:20Z",
+        "updatedAt": "2021-09-27T14:17:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-RxjFr-8Lp4VC_uYUk2bUTTAEuk",
+  "id": "Ugw8SDUOJGFH52_wrOR4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-6bJtBt82Zl8rXv6h1PM2Oh4pog",
+      "id": "Ugw8SDUOJGFH52_wrOR4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "ol\u00e1, qual o nome no telegram?",
+        "textOriginal": "ol\u00e1, qual o nome no telegram?",
+        "authorDisplayName": "Jhenyfer Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTbNREndl1gj8_4bUa18vMX6onU9h7bIvB2hFYmZNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCouY5CdYi5qtCKuFEo1I-fg",
+        "authorChannelId": {
+          "value": "UCouY5CdYi5qtCKuFEo1I-fg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-24T13:39:13Z",
+        "updatedAt": "2022-01-24T13:39:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Al5X6EE8ZVuc7Nq6xCkzDSLOHaA",
+      "id": "Ugw8SDUOJGFH52_wrOR4AaABAg.9X_r5T8U64o9Xb76BxWNwT",
+      "snippet": {
+        "textDisplay": "Ol\u00e1, Jhenyfer! Segue o link: https://t.me/leidosus",
+        "textOriginal": "Ol\u00e1, Jhenyfer! Segue o link: https://t.me/leidosus",
+        "parentId": "Ugw8SDUOJGFH52_wrOR4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-25T01:27:06Z",
+        "updatedAt": "2022-01-25T01:27:06Z"
+      }
+    }
+  ]
+}

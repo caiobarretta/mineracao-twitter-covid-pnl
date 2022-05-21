@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8M1EDNru5F92qcc1H9wVqMC43gU",
+  "id": "Ugy0FcCd_XvTTVBwJLt4AaABAg",
+  "snippet": {
+    "videoId": "H-NDmGHQ9vk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_hJhYvUMGRIfEsWNex9U0OMcGbA",
+      "id": "Ugy0FcCd_XvTTVBwJLt4AaABAg",
+      "snippet": {
+        "videoId": "H-NDmGHQ9vk",
+        "textDisplay": "Great video. Very informative.",
+        "textOriginal": "Great video. Very informative.",
+        "authorDisplayName": "Moneymyke357",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFzhXekhhSwIl2yiSvoAmXmYfPEsaFAizAgQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzRiYYgAOJTk_Wr1f9JZizA",
+        "authorChannelId": {
+          "value": "UCzRiYYgAOJTk_Wr1f9JZizA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-04-19T03:07:26Z",
+        "updatedAt": "2020-04-19T03:07:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "P_zhPgGs2RJ8y3YavwGlUQHKPUU",
+      "id": "Ugy0FcCd_XvTTVBwJLt4AaABAg.97bu3hP2XwK9BnTtJ2iLX8",
+      "snippet": {
+        "textDisplay": "@JJ Medicine Thank you very much for this video it was extremely helpful \ud83d\udcaf\ud83d\ude01",
+        "textOriginal": "@JJ Medicine Thank you very much for this video it was extremely helpful \ud83d\udcaf\ud83d\ude01",
+        "parentId": "Ugy0FcCd_XvTTVBwJLt4AaABAg",
+        "authorDisplayName": "Ashley Webb",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwnC-uBd0fNC7-vEbZmC87EVVfI8o-US4-XK-T=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMuBI802W72X7ncfbbX6Rqg",
+        "authorChannelId": {
+          "value": "UCMuBI802W72X7ncfbbX6Rqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-01T01:06:24Z",
+        "updatedAt": "2020-08-01T01:06:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7YI6U8_3o5pYtGDkhXg8fGXcALg",
+      "id": "Ugy0FcCd_XvTTVBwJLt4AaABAg.97bu3hP2XwK97dV4bl7oLU",
+      "snippet": {
+        "textDisplay": "Glad it was helpful!",
+        "textOriginal": "Glad it was helpful!",
+        "parentId": "Ugy0FcCd_XvTTVBwJLt4AaABAg",
+        "authorDisplayName": "JJ Medicine",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0QHywnw5ZVqbCSc5OhfUsUnyC5DkoMOMR9Yc0YQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFPvnkCZbHfBvV8ApBBE0vA",
+        "authorChannelId": {
+          "value": "UCFPvnkCZbHfBvV8ApBBE0vA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-04-19T17:58:50Z",
+        "updatedAt": "2020-04-19T17:58:50Z"
+      }
+    }
+  ]
+}

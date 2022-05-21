@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ScTISp8HMdw28hMfZF4HJ4Qd43w",
+  "id": "Ugw_j2tDMvd0CtLtKxh4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "k60dPGHMh2okWCGZgXGyq3ikj0s",
+      "id": "Ugw_j2tDMvd0CtLtKxh4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "authorDisplayName": "Claudio Abdo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRMo41WtLEbdV_6KAxsxAlEVOITFMqEoXDLtsOCOQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfe7SezdF5CrCR8e41F_DAA",
+        "authorChannelId": {
+          "value": "UCfe7SezdF5CrCR8e41F_DAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-19T15:00:30Z",
+        "updatedAt": "2021-10-19T15:00:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gumV4Pef_dQhyUf1RCLW1McCFmg",
+      "id": "Ugw_j2tDMvd0CtLtKxh4AaABAg.9TgEHuYmaOU9TgGjvA5AnR",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "parentId": "Ugw_j2tDMvd0CtLtKxh4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-19T15:21:56Z",
+        "updatedAt": "2021-10-19T15:21:56Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dbzuy-bFUYz7LiHkIAxRUxaTEcE",
+  "id": "UgykgxtZNGjKpq0W5C54AaABAg",
+  "snippet": {
+    "videoId": "PYmI5TK88IA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8lkogySypSFaEncamkwnY3sGA3o",
+      "id": "UgykgxtZNGjKpq0W5C54AaABAg",
+      "snippet": {
+        "videoId": "PYmI5TK88IA",
+        "textDisplay": "Nossa, muito bom saber!!! Obrigada demais \ud83d\ude07\ud83d\ude4f\u2728",
+        "textOriginal": "Nossa, muito bom saber!!! Obrigada demais \ud83d\ude07\ud83d\ude4f\u2728",
+        "authorDisplayName": "Mylena",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTS3imPJKV0G9vBahAMwypPb8xA5063BknZpicxwE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCR7aaUL1yrWC6XZ84qc4DeA",
+        "authorChannelId": {
+          "value": "UCR7aaUL1yrWC6XZ84qc4DeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-11T01:29:24Z",
+        "updatedAt": "2020-03-11T01:29:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jo7UI3DvDjbVdg4tZHQr27eS4ck",
+      "id": "UgykgxtZNGjKpq0W5C54AaABAg.962IqaST4QU963ynnY6YW4",
+      "snippet": {
+        "textDisplay": "De nada! \u2763\ufe0f",
+        "textOriginal": "De nada! \u2763\ufe0f",
+        "parentId": "UgykgxtZNGjKpq0W5C54AaABAg",
+        "authorDisplayName": "Casal Nerd no Canad\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7ppxEFKmgNJFddovKmJ756id0Ty-At4k8lFBKSIclCAuJEVbcjUNdQwssrozNtT93PltiTjDBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6pK5DDCC2jIzPzpHYWZEUQ",
+        "authorChannelId": {
+          "value": "UC6pK5DDCC2jIzPzpHYWZEUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-11T17:04:00Z",
+        "updatedAt": "2020-03-11T17:04:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vj0qziv7OrNO7TISTGcMQSdoCzI",
+  "id": "UgxgaiCxz7DOJbNM0UR4AaABAg",
+  "snippet": {
+    "videoId": "hKZJIb5FMRg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vTg3slea3FHF9oXYzzXRq0mDEho",
+      "id": "UgxgaiCxz7DOJbNM0UR4AaABAg",
+      "snippet": {
+        "videoId": "hKZJIb5FMRg",
+        "textDisplay": "Gado VaChinado Gado \ud83d\udc02\ud83d\udc89 Feliz \ud83d\ude03",
+        "textOriginal": "Gado VaChinado Gado \ud83d\udc02\ud83d\udc89 Feliz \ud83d\ude03",
+        "authorDisplayName": "Luiz Carlos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9E-AFd4K5tCFvFp-REVC3hZp0QHkR1l8fjA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0jJsgc-LlL3DMEngBi5cdA",
+        "authorChannelId": {
+          "value": "UC0jJsgc-LlL3DMEngBi5cdA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-12T22:08:37Z",
+        "updatedAt": "2021-04-12T22:08:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gCtHMwLeSfSDdZ3lsXT7eio5ElM",
+      "id": "UgxgaiCxz7DOJbNM0UR4AaABAg.9M2lFD-pYdt9M2qr_a2sBI",
+      "snippet": {
+        "textDisplay": "@TRAVEL RS14 Aprenda a interpretar um texto. \"Mesmo vacinada\", n\u00e3o pela vacina.",
+        "textOriginal": "@TRAVEL RS14 Aprenda a interpretar um texto. \"Mesmo vacinada\", n\u00e3o pela vacina.",
+        "parentId": "UgxgaiCxz7DOJbNM0UR4AaABAg",
+        "authorDisplayName": "Diego Predator",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQrV9QI-oLtzKlLrGGisZRsajr8QhZQ43Ufss-nQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2QKK7TMUFTnLQgzzyphx0w",
+        "authorChannelId": {
+          "value": "UC2QKK7TMUFTnLQgzzyphx0w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T22:57:40Z",
+        "updatedAt": "2021-04-12T22:57:40Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "4sqoPRyGvLMX0uB3FglOh06bM54",
+      "id": "UgxgaiCxz7DOJbNM0UR4AaABAg.9M2lFD-pYdt9M2q7trn4SP",
+      "snippet": {
+        "textDisplay": "@Diego Predator Se morreu de vacina, n\u00e3o morreu da doen\u00e7a. \ud83e\udd26",
+        "textOriginal": "@Diego Predator Se morreu de vacina, n\u00e3o morreu da doen\u00e7a. \ud83e\udd26",
+        "parentId": "UgxgaiCxz7DOJbNM0UR4AaABAg",
+        "authorDisplayName": "TRAVEL RS14",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQN_WqgbiNvAMD4i8QC4vYlmTtIvz0rAhV9fsCb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLdXup5gZo6dytYWIPnrfYQ",
+        "authorChannelId": {
+          "value": "UCLdXup5gZo6dytYWIPnrfYQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T22:51:18Z",
+        "updatedAt": "2021-04-12T22:51:18Z"
+      }
+    }
+  ]
+}

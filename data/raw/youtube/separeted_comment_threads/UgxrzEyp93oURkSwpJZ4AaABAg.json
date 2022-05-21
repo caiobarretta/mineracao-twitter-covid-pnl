@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zGydz2yIqclRJavnqKElkYD1u4c",
+  "id": "UgxrzEyp93oURkSwpJZ4AaABAg",
+  "snippet": {
+    "videoId": "6xKGVLCwNCw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3IgBsKJo-qd4zyUwGdOQOE7pIH8",
+      "id": "UgxrzEyp93oURkSwpJZ4AaABAg",
+      "snippet": {
+        "videoId": "6xKGVLCwNCw",
+        "textDisplay": "QM CANTOU ESSE REFR\u00c3O",
+        "textOriginal": "QM CANTOU ESSE REFR\u00c3O",
+        "authorDisplayName": "Gustavo Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCTvA51NyRnpR68cqxDejatCBQf-lRiEeH52LgIm8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiEXLJVuEMq2RDxXR3J9e1g",
+        "authorChannelId": {
+          "value": "UCiEXLJVuEMq2RDxXR3J9e1g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-18T05:27:37Z",
+        "updatedAt": "2021-06-18T05:27:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9LSgq0eGjbf7j9sldgj3qMJWRVw",
+      "id": "UgxrzEyp93oURkSwpJZ4AaABAg.9OiUxHvmN4j9OjfOPXNHPY",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0f\ud83d\ude0f",
+        "textOriginal": "\ud83d\ude0f\ud83d\ude0f",
+        "parentId": "UgxrzEyp93oURkSwpJZ4AaABAg",
+        "authorDisplayName": "Thayn\u00e1 TV",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bAC3Be4trqMf4No--jfdGKaLFY9c41j3X3X_5tKhzL9ZCPkpacZj503YsL0bMmunmHsi7BrExg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeQHgewRtykS4QNziK5xf3A",
+        "authorChannelId": {
+          "value": "UCeQHgewRtykS4QNziK5xf3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-18T16:26:48Z",
+        "updatedAt": "2021-06-18T16:26:48Z"
+      }
+    }
+  ]
+}

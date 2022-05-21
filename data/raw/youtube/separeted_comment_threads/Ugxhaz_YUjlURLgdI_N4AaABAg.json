@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Mpkla_rWimhhATGaKyI3979luHA",
+  "id": "Ugxhaz_YUjlURLgdI_N4AaABAg",
+  "snippet": {
+    "videoId": "mwaaY2S-ZMw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wPwFTfPMoDiFvNRXK9Y7A9jKS70",
+      "id": "Ugxhaz_YUjlURLgdI_N4AaABAg",
+      "snippet": {
+        "videoId": "mwaaY2S-ZMw",
+        "textDisplay": "mais vacina pra gado",
+        "textOriginal": "mais vacina pra gado",
+        "authorDisplayName": "bob",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS09SvCRSGpScc8dPi898OzGmn9k2K6F3ZFMi14Qak=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZadz5POECKFKLDm4P1fzpQ",
+        "authorChannelId": {
+          "value": "UCZadz5POECKFKLDm4P1fzpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-25T00:21:10Z",
+        "updatedAt": "2020-01-25T00:21:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pFabhGvZss2U37PoMI1urhzUx9M",
+      "id": "Ugxhaz_YUjlURLgdI_N4AaABAg.94BjTbAbqWZ94BjbJF4tOE",
+      "snippet": {
+        "textDisplay": "todo ano e sempre alguma coisa",
+        "textOriginal": "todo ano e sempre alguma coisa",
+        "parentId": "Ugxhaz_YUjlURLgdI_N4AaABAg",
+        "authorDisplayName": "bob",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS09SvCRSGpScc8dPi898OzGmn9k2K6F3ZFMi14Qak=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZadz5POECKFKLDm4P1fzpQ",
+        "authorChannelId": {
+          "value": "UCZadz5POECKFKLDm4P1fzpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-25T00:22:21Z",
+        "updatedAt": "2020-01-25T00:22:21Z"
+      }
+    }
+  ]
+}

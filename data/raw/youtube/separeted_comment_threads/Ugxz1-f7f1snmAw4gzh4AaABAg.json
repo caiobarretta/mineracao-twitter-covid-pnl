@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kKY_KLtpMSJKNOWiaNAXOyp-e9U",
+  "id": "Ugxz1-f7f1snmAw4gzh4AaABAg",
+  "snippet": {
+    "videoId": "33KGBq58O-Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tSvMiRG-vG9vaNYujsSuZAa5rpg",
+      "id": "Ugxz1-f7f1snmAw4gzh4AaABAg",
+      "snippet": {
+        "videoId": "33KGBq58O-Q",
+        "textDisplay": "O problema dos pobres \u00e9 o Estado.",
+        "textOriginal": "O problema dos pobres \u00e9 o Estado.",
+        "authorDisplayName": "Irvson Santos.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/N1tlW7ZLbY9pFqPOQCQ9qobO_Wq1-Swz_hKYEWDM_ud-Z7S_KJjv5ReDYGMZIwEPaEw6Q9VY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEPYPzFN1WQ3eVbB-V640Kw",
+        "authorChannelId": {
+          "value": "UCEPYPzFN1WQ3eVbB-V640Kw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-26T20:25:19Z",
+        "updatedAt": "2022-01-26T20:25:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pXaaKx1jqczI790UU5aK606CEvM",
+      "id": "Ugxz1-f7f1snmAw4gzh4AaABAg.9Xfj9_I8vp59Xfk2MSkhjK",
+      "snippet": {
+        "textDisplay": "@grandexu exato.",
+        "textOriginal": "@grandexu exato.",
+        "parentId": "Ugxz1-f7f1snmAw4gzh4AaABAg",
+        "authorDisplayName": "Irvson Santos.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/N1tlW7ZLbY9pFqPOQCQ9qobO_Wq1-Swz_hKYEWDM_ud-Z7S_KJjv5ReDYGMZIwEPaEw6Q9VY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEPYPzFN1WQ3eVbB-V640Kw",
+        "authorChannelId": {
+          "value": "UCEPYPzFN1WQ3eVbB-V640Kw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-26T20:33:04Z",
+        "updatedAt": "2022-01-26T20:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "XuKjtmhQjZCKP_yZ6mqW4-LZaSc",
+      "id": "Ugxz1-f7f1snmAw4gzh4AaABAg.9Xfj9_I8vp59XfjlqlpVMK",
+      "snippet": {
+        "textDisplay": "mas \u00e9 a solu\u00e7\u00e3o dos ricos",
+        "textOriginal": "mas \u00e9 a solu\u00e7\u00e3o dos ricos",
+        "parentId": "Ugxz1-f7f1snmAw4gzh4AaABAg",
+        "authorDisplayName": "grandexu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSf4Y_5bsT1NogSKc7DtTNlMwvTwLZMNDrW2b8P=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWz3xBVorAxP2VF6GgOKemg",
+        "authorChannelId": {
+          "value": "UCWz3xBVorAxP2VF6GgOKemg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-26T20:30:41Z",
+        "updatedAt": "2022-01-26T20:30:41Z"
+      }
+    }
+  ]
+}

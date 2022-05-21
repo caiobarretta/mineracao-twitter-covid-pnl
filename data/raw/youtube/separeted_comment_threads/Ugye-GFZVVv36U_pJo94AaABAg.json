@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "B4jvHqZtLqhSDozeb4nOr3FwFtg",
+  "id": "Ugye-GFZVVv36U_pJo94AaABAg",
+  "snippet": {
+    "videoId": "WciF0b4OTgE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tOH2k41iogdRD9k29JahaZASNKE",
+      "id": "Ugye-GFZVVv36U_pJo94AaABAg",
+      "snippet": {
+        "videoId": "WciF0b4OTgE",
+        "textDisplay": "O foda \u00e9 q dps pega e morre",
+        "textOriginal": "O foda \u00e9 q dps pega e morre",
+        "authorDisplayName": "Dereck",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Lg_pAYvriHNVzRdnWLLko_oh46ZCYdwR1v9kszNZ8bx-Vslf09ucsla778jxAEFWZqf-vzMs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt0qJEzMH2U3pda4W7XFC2w",
+        "authorChannelId": {
+          "value": "UCt0qJEzMH2U3pda4W7XFC2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-07T22:12:05Z",
+        "updatedAt": "2021-04-07T22:12:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "awMCSdIfpj-jRPA9oXrIaX8vzgA",
+      "id": "Ugye-GFZVVv36U_pJo94AaABAg.9LqtfKM0zF_9NR91NU6ssx",
+      "snippet": {
+        "textDisplay": "E mano e ele morreu coitado dele nunca mais fala isso",
+        "textOriginal": "E mano e ele morreu coitado dele nunca mais fala isso",
+        "parentId": "Ugye-GFZVVv36U_pJo94AaABAg",
+        "authorDisplayName": "kennedy richard",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRDrLuRJTskoN0Wq-0eFuwXB0lGoPHyuJqZq4v=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRhDqmPvDefzqLJYnIAkdCA",
+        "authorChannelId": {
+          "value": "UCRhDqmPvDefzqLJYnIAkdCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-17T05:58:20Z",
+        "updatedAt": "2021-05-17T05:58:20Z"
+      }
+    }
+  ]
+}

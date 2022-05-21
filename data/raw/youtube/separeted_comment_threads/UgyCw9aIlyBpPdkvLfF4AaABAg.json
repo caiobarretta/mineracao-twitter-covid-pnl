@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5DB_e0CisCND5ktMIq2dJh7AuUo",
+  "id": "UgyCw9aIlyBpPdkvLfF4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "rk91M6-QP_XTvYrBm_MQbtjdX-Y",
+      "id": "UgyCw9aIlyBpPdkvLfF4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "Muito bom \ud83e\udd29\ud83e\udd29",
+        "textOriginal": "Muito bom \ud83e\udd29\ud83e\udd29",
+        "authorDisplayName": "Luana Luvizotto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ75Ef0h52KK-auRTkDg67ozDnoxSaSqDw0LA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLwR1o7yT80Nsw617dDrQUg",
+        "authorChannelId": {
+          "value": "UCLwR1o7yT80Nsw617dDrQUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-19T18:08:21Z",
+        "updatedAt": "2021-11-19T18:08:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bD9rdbgjaeccFzdqeG8YVQJJza4",
+      "id": "UgyCw9aIlyBpPdkvLfF4AaABAg.9UwOQqe2TGS9V2WLZJ8PIO",
+      "snippet": {
+        "textDisplay": "Muito obrigada!!! Beijosss L\u00fa!!!",
+        "textOriginal": "Muito obrigada!!! Beijosss L\u00fa!!!",
+        "parentId": "UgyCw9aIlyBpPdkvLfF4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-22T12:32:13Z",
+        "updatedAt": "2021-11-22T12:32:13Z"
+      }
+    }
+  ]
+}

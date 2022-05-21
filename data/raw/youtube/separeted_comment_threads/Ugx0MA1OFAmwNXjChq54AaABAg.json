@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DTZgFntJ651ewQnByDQlVrT1Huo",
+  "id": "Ugx0MA1OFAmwNXjChq54AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YElzlM3WIM0ci67DAx2zbr51chM",
+      "id": "Ugx0MA1OFAmwNXjChq54AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "achei tudo, ajudou muito",
+        "textOriginal": "achei tudo, ajudou muito",
+        "authorDisplayName": "isabel crystina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR76xF2AeMEAHKjSwrTG-yjTzm02AaLyK7dcKwuunY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHe-meSUcOmVfcHvWuNK9Ug",
+        "authorChannelId": {
+          "value": "UCHe-meSUcOmVfcHvWuNK9Ug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-10T22:34:52Z",
+        "updatedAt": "2020-11-10T22:34:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z57Hr-ihFPVK8CrqSHWlUbDFwAY",
+      "id": "Ugx0MA1OFAmwNXjChq54AaABAg.9FtqcaMuLa09FxoK2P6hSh",
+      "snippet": {
+        "textDisplay": "fico feliz em ter ajudado!!",
+        "textOriginal": "fico feliz em ter ajudado!!",
+        "parentId": "Ugx0MA1OFAmwNXjChq54AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-12T11:31:40Z",
+        "updatedAt": "2020-11-12T11:31:40Z"
+      }
+    }
+  ]
+}

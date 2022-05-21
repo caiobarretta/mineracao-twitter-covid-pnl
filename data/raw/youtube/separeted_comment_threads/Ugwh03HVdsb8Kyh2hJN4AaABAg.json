@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "UWauAWDAcHl7wIyIu-sriPAsjL0",
+  "id": "Ugwh03HVdsb8Kyh2hJN4AaABAg",
+  "snippet": {
+    "videoId": "jLnhPkSuW94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fiPf--NjjzfNZLy1LfRt5oiBEZ8",
+      "id": "Ugwh03HVdsb8Kyh2hJN4AaABAg",
+      "snippet": {
+        "videoId": "jLnhPkSuW94",
+        "textDisplay": "Uma dica \u00e9 sempre deixar a fonte das informa\u00e7\u00f5es.",
+        "textOriginal": "Uma dica \u00e9 sempre deixar a fonte das informa\u00e7\u00f5es.",
+        "authorDisplayName": "\u00cdtalo Yann",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/WMeE5FV0ywOWCBbA1C5I3YV2jgO0JQ2XOLjWeyhXOYyUuVXVuE-BdUc7eLd6Zgi1QFDlbzO2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfKaDuyYChlvP2qIbp2v1_Q",
+        "authorChannelId": {
+          "value": "UCfKaDuyYChlvP2qIbp2v1_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-26T22:05:26Z",
+        "updatedAt": "2021-02-26T22:05:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "W4PMNndt40OXazK1mMa5LOO2PSk",
+      "id": "Ugwh03HVdsb8Kyh2hJN4AaABAg.9KEt6WJY3uC9Khx0lw2G__",
+      "snippet": {
+        "textDisplay": "valeuuuuu",
+        "textOriginal": "valeuuuuu",
+        "parentId": "Ugwh03HVdsb8Kyh2hJN4AaABAg",
+        "authorDisplayName": "Gustavo Almeida Camargo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqAvXwvUxJyOFvwDbr11IR86R0Uxp4f1EK7hvPvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2WVquqPd5x2WqIPEa-LQog",
+        "authorChannelId": {
+          "value": "UC2WVquqPd5x2WqIPEa-LQog"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-10T14:16:48Z",
+        "updatedAt": "2021-03-10T14:16:48Z"
+      }
+    }
+  ]
+}

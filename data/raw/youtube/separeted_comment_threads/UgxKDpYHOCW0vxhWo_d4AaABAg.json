@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YNeH1LgQ6P9m8HvBPvV7oVDjcjM",
+  "id": "UgxKDpYHOCW0vxhWo_d4AaABAg",
+  "snippet": {
+    "videoId": "Jtzags4n7as",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pgNpiD9hDKFZuoMsOz4vfhH4mTI",
+      "id": "UgxKDpYHOCW0vxhWo_d4AaABAg",
+      "snippet": {
+        "videoId": "Jtzags4n7as",
+        "textDisplay": "Primeiro a chegar, parab\u00e9ns pelas informa\u00e7\u00f5es!",
+        "textOriginal": "Primeiro a chegar, parab\u00e9ns pelas informa\u00e7\u00f5es!",
+        "authorDisplayName": "Bruno Brito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAuC83ETC9XGCWBAaOr4A8jGvVm394tV8FOmef=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_6pRm99Gf4-lanMmGrA6eg",
+        "authorChannelId": {
+          "value": "UC_6pRm99Gf4-lanMmGrA6eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-16T16:01:49Z",
+        "updatedAt": "2021-09-16T16:01:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ks2N4DQ8blCm7XBZmTD_WX4JFW4",
+      "id": "UgxKDpYHOCW0vxhWo_d4AaABAg.9SMN47UK_o-9SMOdFa5wsJ",
+      "snippet": {
+        "textDisplay": "hahahahah mais rapido de todos!! Obrigada por acompanhar!! :)",
+        "textOriginal": "hahahahah mais rapido de todos!! Obrigada por acompanhar!! :)",
+        "parentId": "UgxKDpYHOCW0vxhWo_d4AaABAg",
+        "authorDisplayName": "Noelia Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mDi4MT7f0wsXL068keNYSTUbQ0jTqvu8lAHDLG-Pa8Yz7lwls6tSZbSv3-aqsfrd3Gm3SXCr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJFdcwwZSsW8wf44zuAYo4w",
+        "authorChannelId": {
+          "value": "UCJFdcwwZSsW8wf44zuAYo4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-16T16:15:29Z",
+        "updatedAt": "2021-09-16T16:15:29Z"
+      }
+    }
+  ]
+}

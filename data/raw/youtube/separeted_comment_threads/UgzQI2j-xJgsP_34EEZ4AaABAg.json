@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4A4qLandw_c7S7z_PYUj7VcKCPo",
+  "id": "UgzQI2j-xJgsP_34EEZ4AaABAg",
+  "snippet": {
+    "videoId": "FZugIb3-CpI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "m1Tzv-JMCZHe83icf8LONJIV_48",
+      "id": "UgzQI2j-xJgsP_34EEZ4AaABAg",
+      "snippet": {
+        "videoId": "FZugIb3-CpI",
+        "textDisplay": "Confuso n\u00e9 \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+        "textOriginal": "Confuso n\u00e9 \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+        "authorDisplayName": "Stefany Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMvG159dFN4mbYJCpKxepwtY8mh-9N39Pn7rZQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_1AY1PMfQjVPzQvzo4BExg",
+        "authorChannelId": {
+          "value": "UC_1AY1PMfQjVPzQvzo4BExg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-10-10T11:26:18Z",
+        "updatedAt": "2020-10-10T11:26:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "idQUbiEJCiV8YVnDuQ9g_8mpAgM",
+      "id": "UgzQI2j-xJgsP_34EEZ4AaABAg.9EcpTo9w8R-9F0bAhdUl5N",
+      "snippet": {
+        "textDisplay": "Pois \u00e9! Aqui as coisas s\u00e3o bem complicadas com essa quest\u00e3o de sa\u00fade!",
+        "textOriginal": "Pois \u00e9! Aqui as coisas s\u00e3o bem complicadas com essa quest\u00e3o de sa\u00fade!",
+        "parentId": "UgzQI2j-xJgsP_34EEZ4AaABAg",
+        "authorDisplayName": "Keka Mallon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGlPUgaq1HevJQ4YW07HaJ27k_V-7cAIp_YszHvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvNPV1jLteAPNaC2YSG4dZw",
+        "authorChannelId": {
+          "value": "UCvNPV1jLteAPNaC2YSG4dZw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-20T02:22:22Z",
+        "updatedAt": "2020-10-20T02:22:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5FtqLCC9SIoklbNUSEz7hQSeVC4",
+  "id": "UgyWcSEcSPYh30qH4NB4AaABAg",
+  "snippet": {
+    "videoId": "ZMynIFuyFIs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UwxZxFg1Ndji5jULqI-rMqhco5E",
+      "id": "UgyWcSEcSPYh30qH4NB4AaABAg",
+      "snippet": {
+        "videoId": "ZMynIFuyFIs",
+        "textDisplay": "Ela fala demais coisas fora mat\u00e9ria",
+        "textOriginal": "Ela fala demais coisas fora mat\u00e9ria",
+        "authorDisplayName": "Izabel Eloi dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-x0cszp8ri9lIKJWNYRmA5I2SDbk55PTJq-gjWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD_mTpl__jcjsi1CRWe1-kQ",
+        "authorChannelId": {
+          "value": "UCD_mTpl__jcjsi1CRWe1-kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-03T15:42:35Z",
+        "updatedAt": "2022-03-03T15:42:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0RtImR5Mj_wZ0DtpJ5RDvTAD7yU",
+      "id": "UgyWcSEcSPYh30qH4NB4AaABAg.9Z6vQCXwgW49_FjgOiYJYI",
+      "snippet": {
+        "textDisplay": "S\u00f3 n\u00e3o assistir.",
+        "textOriginal": "S\u00f3 n\u00e3o assistir.",
+        "parentId": "UgyWcSEcSPYh30qH4NB4AaABAg",
+        "authorDisplayName": "Prof\u00aa Natale Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWIMsF7Z2TRA8ew9bm7--wHqvNNWtaHYSajohpObw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGwgJgO8FgXLGo1ElbQYbgQ",
+        "authorChannelId": {
+          "value": "UCGwgJgO8FgXLGo1ElbQYbgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-31T22:24:37Z",
+        "updatedAt": "2022-03-31T22:24:37Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4Twf5gMoZWirD5__rDvyxN3Qkko",
+  "id": "Ugx5aONDSpQblYv-jQF4AaABAg",
+  "snippet": {
+    "videoId": "9iJ1jEqn_fU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Sb3mGKBXcTU3k9JmjBaB2cy45Y8",
+      "id": "Ugx5aONDSpQblYv-jQF4AaABAg",
+      "snippet": {
+        "videoId": "9iJ1jEqn_fU",
+        "textDisplay": "Ser\u00e1 que o Brasil est\u00e1 preparado ???",
+        "textOriginal": "Ser\u00e1 que o Brasil est\u00e1 preparado ???",
+        "authorDisplayName": "Adilson Ribeiro dos Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTSPF27LJZ3Aub3yP1A_tUVA8APxXlM0UDMA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdwWAnJEdVIZYTLYTOTtmXA",
+        "authorChannelId": {
+          "value": "UCdwWAnJEdVIZYTLYTOTtmXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-15T13:16:55Z",
+        "updatedAt": "2022-01-15T13:16:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-d689ki56F3uLNDHAA77rdJL__w",
+      "id": "Ugx5aONDSpQblYv-jQF4AaABAg.9XDdODXKO3l9XEgwdrhmyp",
+      "snippet": {
+        "textDisplay": "Sera kkkkk",
+        "textOriginal": "Sera kkkkk",
+        "parentId": "Ugx5aONDSpQblYv-jQF4AaABAg",
+        "authorDisplayName": "Cris Ane",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcbCksgaX7YVU7Pt4clIFXPmbSE-iwwXxvU5XDP_5cfpMqhBOlq4VVEGoEhUO-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH-wyd_47ravDTXcli9Ku5w",
+        "authorChannelId": {
+          "value": "UCH-wyd_47ravDTXcli9Ku5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-15T23:07:12Z",
+        "updatedAt": "2022-01-15T23:07:12Z"
+      }
+    }
+  ]
+}

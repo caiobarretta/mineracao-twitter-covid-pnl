@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "r-wx6AV2dQoPXb_i6qglG9yyu8U",
+  "id": "UgzVJWCQH4hY2C6hYIV4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XTBsikz37e_mMFRWw05-Nxr0nt0",
+      "id": "UgzVJWCQH4hY2C6hYIV4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Bem diferente do que eu imaginava.\nVc sabe se existem m\u00e9dicos virtuais (intelig\u00eancia artificial) atendendo e dando diagn\u00f3stico  via celular ?\nObrigado pelo v\u00eddeo.",
+        "textOriginal": "Bem diferente do que eu imaginava.\nVc sabe se existem m\u00e9dicos virtuais (intelig\u00eancia artificial) atendendo e dando diagn\u00f3stico  via celular ?\nObrigado pelo v\u00eddeo.",
+        "authorDisplayName": "Paulo Issao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNrjk1XQaxJZaLtWMiFLFgDHIyn28dCuJNsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSzJFmG7LgDMVMONDAwb1yg",
+        "authorChannelId": {
+          "value": "UCSzJFmG7LgDMVMONDAwb1yg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-03T15:26:28Z",
+        "updatedAt": "2020-11-03T15:26:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2-oOWO5GENbOd21MQX8SZ2-XYCI",
+      "id": "UgzVJWCQH4hY2C6hYIV4AaABAg.9Fb31lXvFm_9Fb5VQhAYVF",
+      "snippet": {
+        "textDisplay": "@Felipe Durante \nObg.",
+        "textOriginal": "@Felipe Durante \nObg.",
+        "parentId": "UgzVJWCQH4hY2C6hYIV4AaABAg",
+        "authorDisplayName": "Paulo Issao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNrjk1XQaxJZaLtWMiFLFgDHIyn28dCuJNsg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSzJFmG7LgDMVMONDAwb1yg",
+        "authorChannelId": {
+          "value": "UCSzJFmG7LgDMVMONDAwb1yg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-03T15:47:59Z",
+        "updatedAt": "2020-11-03T15:47:59Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "4iRhVIPc2O3xOMqFzKjruFmilvM",
+      "id": "UgzVJWCQH4hY2C6hYIV4AaABAg.9Fb31lXvFm_9Fb4jIWLko5",
+      "snippet": {
+        "textDisplay": "Tem mtos hospitais j\u00e1 usando AI pra atendimentos, mas n\u00e3o sei qual a extens\u00e3o e se substituiu o m\u00e9dico",
+        "textOriginal": "Tem mtos hospitais j\u00e1 usando AI pra atendimentos, mas n\u00e3o sei qual a extens\u00e3o e se substituiu o m\u00e9dico",
+        "parentId": "UgzVJWCQH4hY2C6hYIV4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-03T15:41:16Z",
+        "updatedAt": "2020-11-03T15:41:16Z"
+      }
+    }
+  ]
+}

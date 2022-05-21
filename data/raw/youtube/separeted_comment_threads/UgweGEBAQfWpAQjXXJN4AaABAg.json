@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aymri6F_ov6TkON4rpEAE_q9D3M",
+  "id": "UgweGEBAQfWpAQjXXJN4AaABAg",
+  "snippet": {
+    "videoId": "EFDlL4pYJZY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YVxm5TTQM3Re898HdvMlSPpdpCk",
+      "id": "UgweGEBAQfWpAQjXXJN4AaABAg",
+      "snippet": {
+        "videoId": "EFDlL4pYJZY",
+        "textDisplay": "Indonesia sebagai negara yg berhasil harus membantu.",
+        "textOriginal": "Indonesia sebagai negara yg berhasil harus membantu.",
+        "authorDisplayName": "Coocaa Yt",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRQtru-b0Hdx0RrOwRpHnTNYZo27D-2-VdGCHTpn1hX7NITvc0tx5QiFnb140m=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5lLk_iwij_KJcbwxb8s8sg",
+        "authorChannelId": {
+          "value": "UC5lLk_iwij_KJcbwxb8s8sg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-18T20:14:14Z",
+        "updatedAt": "2022-05-18T20:14:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bq7K9dvRJtYY3kOU2LL89QYuj00",
+      "id": "UgweGEBAQfWpAQjXXJN4AaABAg.9bB5vP95dRt9bFvzhTY8kC",
+      "snippet": {
+        "textDisplay": "Korut gabakal mau dibantu.",
+        "textOriginal": "Korut gabakal mau dibantu.",
+        "parentId": "UgweGEBAQfWpAQjXXJN4AaABAg",
+        "authorDisplayName": "Adam Krishna",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkKERDbwT5vukdFbYrafYLPExcQyUJBCS7rpbl4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUokrfGuGDxuHbEWL8OtpYA",
+        "authorChannelId": {
+          "value": "UCUokrfGuGDxuHbEWL8OtpYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T17:14:54Z",
+        "updatedAt": "2022-05-20T17:14:54Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AN2QHSpxF5rbgYwfxpbCbYbSHNU",
+  "id": "UghvPUVqaMI92ngCoAEC",
+  "snippet": {
+    "videoId": "UsKb1z8f2iE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FN2MCcr8gELFp-bBorxzZz9g4mA",
+      "id": "UghvPUVqaMI92ngCoAEC",
+      "snippet": {
+        "videoId": "UsKb1z8f2iE",
+        "textDisplay": "Sta je ljubav...Pesma je divna.\u263a",
+        "textOriginal": "Sta je ljubav...Pesma je divna.\u263a",
+        "authorDisplayName": "Bojana Galonja",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGNEYG0nTHtgAcEwyCcE9VdDdMNHeGefk_Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZzT5JbKvBzbfWdOyl5dJLA",
+        "authorChannelId": {
+          "value": "UCZzT5JbKvBzbfWdOyl5dJLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2015-09-27T09:19:48Z",
+        "updatedAt": "2015-09-27T09:19:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-_XWI-3bLybu3IYgkzVfRA2p43A",
+      "id": "UghvPUVqaMI92ngCoAEC.84akLDGhbBQ8Bzu0v-M6jy",
+      "snippet": {
+        "textDisplay": "+Goxy TV cuj je",
+        "textOriginal": "+Goxy TV cuj je",
+        "parentId": "UghvPUVqaMI92ngCoAEC",
+        "authorDisplayName": "Goxy TV",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7AoJznLRd0pp2-3C3AvQmnyNK2jhrWReURYFd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHnLlcgsiNfToizuQYX02iQ",
+        "authorChannelId": {
+          "value": "UCHnLlcgsiNfToizuQYX02iQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-03-29T03:25:10Z",
+        "updatedAt": "2016-03-29T03:25:10Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "h7NlhZXJRa3kTdYkLYLtFXpqPaw",
+      "id": "UghvPUVqaMI92ngCoAEC.84akLDGhbBQ8Bzty9Q0WBZ",
+      "snippet": {
+        "textDisplay": "+Bojana Galonja bjesovi  bolje ti isto",
+        "textOriginal": "+Bojana Galonja bjesovi  bolje ti isto",
+        "parentId": "UghvPUVqaMI92ngCoAEC",
+        "authorDisplayName": "Goxy TV",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7AoJznLRd0pp2-3C3AvQmnyNK2jhrWReURYFd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHnLlcgsiNfToizuQYX02iQ",
+        "authorChannelId": {
+          "value": "UCHnLlcgsiNfToizuQYX02iQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-03-29T03:24:39Z",
+        "updatedAt": "2016-03-29T03:24:39Z"
+      }
+    }
+  ]
+}

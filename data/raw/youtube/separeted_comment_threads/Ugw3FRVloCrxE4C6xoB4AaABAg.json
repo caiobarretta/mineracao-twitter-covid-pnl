@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bIOEzTi1-p6zkXk1BnC8kM-aZtI",
+  "id": "Ugw3FRVloCrxE4C6xoB4AaABAg",
+  "snippet": {
+    "videoId": "knLGIRB0aPo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CFrZ1yCjEDy2M9oiJJMbH9epmRE",
+      "id": "Ugw3FRVloCrxE4C6xoB4AaABAg",
+      "snippet": {
+        "videoId": "knLGIRB0aPo",
+        "textDisplay": "Q merda em",
+        "textOriginal": "Q merda em",
+        "authorDisplayName": "Almir dias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLDJ83I6ZTosBEQMGnxw6h4QrkShBSCpj2WgaHAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeHHgHS19t802BHrHzIAiZA",
+        "authorChannelId": {
+          "value": "UCeHHgHS19t802BHrHzIAiZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-05T00:57:46Z",
+        "updatedAt": "2020-11-05T00:57:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wgBvcrK4JJyuzssZG6Fbq75H4Og",
+      "id": "Ugw3FRVloCrxE4C6xoB4AaABAg.9FeeD3z6yq29FelfAMQMyS",
+      "snippet": {
+        "textDisplay": "Almir vc aq",
+        "textOriginal": "Almir vc aq",
+        "parentId": "Ugw3FRVloCrxE4C6xoB4AaABAg",
+        "authorDisplayName": "Vagaba Assassina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuFbNKoDfdTLQqetRrVZ-Knwswzwh7M7ta0enk_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCk50gT4fqD5E2H5Riet7MpQ",
+        "authorChannelId": {
+          "value": "UCk50gT4fqD5E2H5Riet7MpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-05T02:02:55Z",
+        "updatedAt": "2020-11-05T02:02:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MuWboxbE-9xgRO0ZN095cC6iWeU",
+      "id": "Ugw3FRVloCrxE4C6xoB4AaABAg.9FeeD3z6yq29Fef1pyWOxQ",
+      "snippet": {
+        "textDisplay": "\u00e9, se der algo grave, j\u00e1 era",
+        "textOriginal": "\u00e9, se der algo grave, j\u00e1 era",
+        "parentId": "Ugw3FRVloCrxE4C6xoB4AaABAg",
+        "authorDisplayName": "Felipe Durante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KH3G6074CyV62rV37uqoJGkIV9vSPwoSaoFwNf4h6riNiG4At6bSgcLxLKe11CrWXmtHeGsvRWA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuVuYmvwHJLtRfpXphPFm2w",
+        "authorChannelId": {
+          "value": "UCuVuYmvwHJLtRfpXphPFm2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-05T01:04:58Z",
+        "updatedAt": "2020-11-05T01:04:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1HjTys8NrBiPmgHio-z1G289hTU",
+  "id": "UgyI3ow07-u4433fD2h4AaABAg",
+  "snippet": {
+    "videoId": "a3jGzr52k18",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IsfH9un_P1-2mKX5le_UnuCFJ_E",
+      "id": "UgyI3ow07-u4433fD2h4AaABAg",
+      "snippet": {
+        "videoId": "a3jGzr52k18",
+        "textDisplay": "showww",
+        "textOriginal": "showww",
+        "authorDisplayName": "Vinicius Figueiredo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtsumaDUZ9J4a7HCUVL8X8jECIszcuUOPrA5UWtQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-xtNsJ01DF_RNajED2DptA",
+        "authorChannelId": {
+          "value": "UC-xtNsJ01DF_RNajED2DptA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-10-19T15:16:25Z",
+        "updatedAt": "2021-10-19T15:16:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "utLyY9Q7AeXIpxfiahOSqYX8Hjs",
+      "id": "UgyI3ow07-u4433fD2h4AaABAg.9TgG6VhWXYW9TgGgviWQYv",
+      "snippet": {
+        "textDisplay": "Obrigada Vini!!!",
+        "textOriginal": "Obrigada Vini!!!",
+        "parentId": "UgyI3ow07-u4433fD2h4AaABAg",
+        "authorDisplayName": "Vagas pelo Mundo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F54h4DlYWAws1uc4PvA0EFC_TwaXK_3cKGIr4KK-FpZnnXthOoxOIsBVAS_E_iaFD0kIreAsmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwa_IFjd-xY-5f_mkIRvD4Q",
+        "authorChannelId": {
+          "value": "UCwa_IFjd-xY-5f_mkIRvD4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-19T15:21:32Z",
+        "updatedAt": "2021-10-19T15:21:32Z"
+      }
+    }
+  ]
+}

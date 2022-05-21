@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wUcLvBx6y-XisganMrxAOkxSMHg",
+  "id": "UgycS14NwDb6kx2hFzB4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "fzWdv2uwcOBRXAw8TN4mfsvFGNQ",
+      "id": "UgycS14NwDb6kx2hFzB4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Obrigada me ajudou muito",
+        "textOriginal": "Obrigada me ajudou muito",
+        "authorDisplayName": "Adriana Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIT-u-Bwsss0UyCjCKEadk-URyOBGzlu_2OQz9XzU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTqjC9EJTiAivhu84GenBfQ",
+        "authorChannelId": {
+          "value": "UCTqjC9EJTiAivhu84GenBfQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-10T12:15:50Z",
+        "updatedAt": "2020-11-10T12:15:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0CKTtx2o0048Qdq8sptqFmG6SNw",
+      "id": "UgycS14NwDb6kx2hFzB4AaABAg.9FsjmkAVoRi9FsxBGFaumS",
+      "snippet": {
+        "textDisplay": "De nada! Que bom que o video te ajudou!\ud83d\udc4d",
+        "textOriginal": "De nada! Que bom que o video te ajudou!\ud83d\udc4d",
+        "parentId": "UgycS14NwDb6kx2hFzB4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-10T14:12:55Z",
+        "updatedAt": "2020-11-10T14:12:55Z"
+      }
+    }
+  ]
+}

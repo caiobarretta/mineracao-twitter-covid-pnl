@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Tu1oNbyH7BZmhdOkUPuwjTpr6ss",
+  "id": "Ugwd2iLfvznmNI3Z1uh4AaABAg",
+  "snippet": {
+    "videoId": "HTupMCzjHXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vBxc4SSUrTSjypz-0axZmxbYD_E",
+      "id": "Ugwd2iLfvznmNI3Z1uh4AaABAg",
+      "snippet": {
+        "videoId": "HTupMCzjHXM",
+        "textDisplay": "Amei \ud83d\ude3b\ud83d\ude3b muito obrigada!",
+        "textOriginal": "Amei \ud83d\ude3b\ud83d\ude3b muito obrigada!",
+        "authorDisplayName": "Grazi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSB2CJ5vLFFssK0cQMuQEOuBMzxsMP5dzxXCJBuEh4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_4w8enXlmQcZdsFbzd6yew",
+        "authorChannelId": {
+          "value": "UC_4w8enXlmQcZdsFbzd6yew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-09T05:02:05Z",
+        "updatedAt": "2021-06-09T05:02:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SQksBDQLUXlUPoVZN2fV311A5YQ",
+      "id": "Ugwd2iLfvznmNI3Z1uh4AaABAg.9OMGsOen1fs9WVndaD6eOt",
+      "snippet": {
+        "textDisplay": "Parab\u00e9ns muito boa.  Explica\u00e7\u00f5es",
+        "textOriginal": "Parab\u00e9ns muito boa.  Explica\u00e7\u00f5es",
+        "parentId": "Ugwd2iLfvznmNI3Z1uh4AaABAg",
+        "authorDisplayName": "Eli Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbGF12EvyVvFDc-shaCaKZWY0BazCTujJfDQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFfC_Z45VQS4kR5C3FYQ8Vw",
+        "authorChannelId": {
+          "value": "UCFfC_Z45VQS4kR5C3FYQ8Vw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-28T18:01:28Z",
+        "updatedAt": "2021-12-28T18:01:28Z"
+      }
+    }
+  ]
+}

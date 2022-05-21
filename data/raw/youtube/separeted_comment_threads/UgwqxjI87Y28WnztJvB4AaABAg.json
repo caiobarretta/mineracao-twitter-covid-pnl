@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "31_hyi1nNZ4shqotUNQYS4UqYOQ",
+  "id": "UgwqxjI87Y28WnztJvB4AaABAg",
+  "snippet": {
+    "videoId": "sC8wzo_EHhU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IP3R-n2uN9G4vCG_23jV2kwffoA",
+      "id": "UgwqxjI87Y28WnztJvB4AaABAg",
+      "snippet": {
+        "videoId": "sC8wzo_EHhU",
+        "textDisplay": "A troca dos conselheiros acontece de 4 em 4 anos ou 2 em 2 anos?",
+        "textOriginal": "A troca dos conselheiros acontece de 4 em 4 anos ou 2 em 2 anos?",
+        "authorDisplayName": "Tania Cristina Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOE8HmiQSAFkN1433BLn5XSpmdWWk7E-ZK2g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPVB0Sz2BpPl2IfGLvSEvYw",
+        "authorChannelId": {
+          "value": "UCPVB0Sz2BpPl2IfGLvSEvYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-24T17:20:37Z",
+        "updatedAt": "2020-01-24T17:20:37Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wQLjfDMpbFXoubkcaPhIoVeU0ac",
+      "id": "UgwqxjI87Y28WnztJvB4AaABAg.94AzLO5ce4r99SzYqm2cxq",
+      "snippet": {
+        "textDisplay": "2 em2",
+        "textOriginal": "2 em2",
+        "parentId": "UgwqxjI87Y28WnztJvB4AaABAg",
+        "authorDisplayName": "Felipe Ernesto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5VXdWUuNBzfQdpHP3v21I6lAC6I-Dnfxnt0bH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWIzJ644bV4pr5WpaL19MjQ",
+        "authorChannelId": {
+          "value": "UCWIzJ644bV4pr5WpaL19MjQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-03T23:45:45Z",
+        "updatedAt": "2020-06-03T23:45:45Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8XPUkTzJ3n8rDZ4ZpVMGPhJ0NlQ",
+      "id": "UgwqxjI87Y28WnztJvB4AaABAg.94AzLO5ce4r95-Mj5Jw4qQ",
+      "snippet": {
+        "textDisplay": "4 anos",
+        "textOriginal": "4 anos",
+        "parentId": "UgwqxjI87Y28WnztJvB4AaABAg",
+        "authorDisplayName": "Gilsa Cuttrim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwZrKVPHmRLvrogJX6vBjJxV8r3VXCKiVtaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjYsI_fv9jOC0Uf0GU7CWBw",
+        "authorChannelId": {
+          "value": "UCjYsI_fv9jOC0Uf0GU7CWBw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-02-14T01:34:13Z",
+        "updatedAt": "2020-02-14T01:34:13Z"
+      }
+    }
+  ]
+}

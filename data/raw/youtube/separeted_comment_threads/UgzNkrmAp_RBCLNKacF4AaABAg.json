@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lYF0tyg_pnoM5j1O26TfLlrV1xY",
+  "id": "UgzNkrmAp_RBCLNKacF4AaABAg",
+  "snippet": {
+    "videoId": "VS3BTrbrbqo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TCarm8Z0yPDwy2D8vhEdgIrJCQI",
+      "id": "UgzNkrmAp_RBCLNKacF4AaABAg",
+      "snippet": {
+        "videoId": "VS3BTrbrbqo",
+        "textDisplay": "Que assim seja!\ud83d\ude4c",
+        "textOriginal": "Que assim seja!\ud83d\ude4c",
+        "authorDisplayName": "Jesus Negao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdV0cAg-u6Xwst3r5ueC_m3s3Qe9fPnAO72w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWleXtoHVr4uvdntD5HVQzQ",
+        "authorChannelId": {
+          "value": "UCWleXtoHVr4uvdntD5HVQzQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2022-02-17T12:10:35Z",
+        "updatedAt": "2022-02-17T12:10:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Jqf28vfCl0ekzkCw4FkwFbFDBa4",
+      "id": "UgzNkrmAp_RBCLNKacF4AaABAg.9YYV1JYxoeW9YaRBHw3_sR",
+      "snippet": {
+        "textDisplay": "AM\u00c9M \ud83d\ude4f\ud83d\ude4c\ud83c\udf3b",
+        "textOriginal": "AM\u00c9M \ud83d\ude4f\ud83d\ude4c\ud83c\udf3b",
+        "parentId": "UgzNkrmAp_RBCLNKacF4AaABAg",
+        "authorDisplayName": "BEATRIZ NARDIM NARDIM FREIRE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnb1wwSBVwYyzfPQ7Afziqfd5x2oKgidZaxA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWs3gpVRh_MPQsGgHLibjXA",
+        "authorChannelId": {
+          "value": "UCWs3gpVRh_MPQsGgHLibjXA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-02-18T15:34:43Z",
+        "updatedAt": "2022-02-18T15:34:43Z"
+      }
+    }
+  ]
+}

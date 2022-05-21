@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iLg3evaiva9J1i3zQEMXmXHoFjg",
+  "id": "UgwKdGeBEGN92tkrZCN4AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R2zUcAynbFKlUvCB23P_hc_it5E",
+      "id": "UgwKdGeBEGN92tkrZCN4AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Gosto desses v\u00eddeos \u00fateis! \nObrigado mesmo!",
+        "textOriginal": "Gosto desses v\u00eddeos \u00fateis! \nObrigado mesmo!",
+        "authorDisplayName": "SagaGameplay",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/am9_x71IfMxIu5DaShIPM8LyidS5eZhpYA6TSNSYsB6D1TEHavo1BM-foQ3jijxclrc37lnNOA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1N_UKQp8xUX1SmKPn1xXHg",
+        "authorChannelId": {
+          "value": "UC1N_UKQp8xUX1SmKPn1xXHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-19T13:38:32Z",
+        "updatedAt": "2021-01-19T13:39:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5N1akkmc4-qW7lTnh-jOubskTPQ",
+      "id": "UgwKdGeBEGN92tkrZCN4AaABAg.9Ih7teTjtAk9IhAjQiaoet",
+      "snippet": {
+        "textDisplay": "De nada! Que bom que gostou\ud83d\udc4d",
+        "textOriginal": "De nada! Que bom que gostou\ud83d\udc4d",
+        "parentId": "UgwKdGeBEGN92tkrZCN4AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-19T14:03:21Z",
+        "updatedAt": "2021-01-19T14:03:21Z"
+      }
+    }
+  ]
+}

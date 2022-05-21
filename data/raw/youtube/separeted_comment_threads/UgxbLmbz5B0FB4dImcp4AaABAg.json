@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ruMBw7V3rw1b0tKjfFwU0tKBSm0",
+  "id": "UgxbLmbz5B0FB4dImcp4AaABAg",
+  "snippet": {
+    "videoId": "G1FIlvZTmWo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vSAcvkI8oxrKx0puo4R1TsXKgXE",
+      "id": "UgxbLmbz5B0FB4dImcp4AaABAg",
+      "snippet": {
+        "videoId": "G1FIlvZTmWo",
+        "textDisplay": "EXCELENTE!",
+        "textOriginal": "EXCELENTE!",
+        "authorDisplayName": "amanda de marchi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReraxVFpltjq1eihdU0MuGY8ayBXvxWVUCWg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsl6DJWLVfaKINQxSMSAW9g",
+        "authorChannelId": {
+          "value": "UCsl6DJWLVfaKINQxSMSAW9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-09-24T23:37:39Z",
+        "updatedAt": "2020-09-24T23:37:39Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NGmDfxGvjIE1iWgA8LfndlwF2wA",
+      "id": "UgxbLmbz5B0FB4dImcp4AaABAg.9E-wSKqTWCq9F-sbzQS2Me",
+      "snippet": {
+        "textDisplay": "Obrigado Amanda!!",
+        "textOriginal": "Obrigado Amanda!!",
+        "parentId": "UgxbLmbz5B0FB4dImcp4AaABAg",
+        "authorDisplayName": "SabLab Educa\u00e7\u00e3o a dist\u00e2ncia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vJ80NhvQkkJxHDk0EstAirutKMEQXHBibway=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCii0PAyHQ8HMo0cArijxTcg",
+        "authorChannelId": {
+          "value": "UCii0PAyHQ8HMo0cArijxTcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-19T19:35:32Z",
+        "updatedAt": "2020-10-19T19:35:32Z"
+      }
+    }
+  ]
+}

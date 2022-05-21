@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "sb37hs9jnv9rZrugJICTYRbIN4w",
+  "id": "Ugz2ourCr9nVDVZSBbh4AaABAg",
+  "snippet": {
+    "videoId": "tkCFJipRhPw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tUQdTgjq2K6J8Mfv64HugjzaKwo",
+      "id": "Ugz2ourCr9nVDVZSBbh4AaABAg",
+      "snippet": {
+        "videoId": "tkCFJipRhPw",
+        "textDisplay": "Sjajna pesma. Nije mi jasno zasto je nema na Spotify O.o",
+        "textOriginal": "Sjajna pesma. Nije mi jasno zasto je nema na Spotify O.o",
+        "authorDisplayName": "Marko Stanoj\u010di\u0107",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRX00QZhx8a2nErkcx-Uk3gv4McDPbSI4RXI_9R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzPRSxJH11JUCHE297SczEQ",
+        "authorChannelId": {
+          "value": "UCzPRSxJH11JUCHE297SczEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-02T09:14:24Z",
+        "updatedAt": "2021-03-02T09:14:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DZWCZOv00ekDD1kD7UZPtTgV5Fc",
+      "id": "Ugz2ourCr9nVDVZSBbh4AaABAg.9KNo2oY8bc29W6BPkkW_gv",
+      "snippet": {
+        "textDisplay": "@Ksenija Davidovic hvala na odgovoru.",
+        "textOriginal": "@Ksenija Davidovic hvala na odgovoru.",
+        "parentId": "Ugz2ourCr9nVDVZSBbh4AaABAg",
+        "authorDisplayName": "Marko Stanoj\u010di\u0107",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRX00QZhx8a2nErkcx-Uk3gv4McDPbSI4RXI_9R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzPRSxJH11JUCHE297SczEQ",
+        "authorChannelId": {
+          "value": "UCzPRSxJH11JUCHE297SczEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-18T19:17:38Z",
+        "updatedAt": "2021-12-18T19:17:38Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "wJU60H5MngGvt8BRUfrh35V-6_U",
+      "id": "Ugz2ourCr9nVDVZSBbh4AaABAg.9KNo2oY8bc29W6-QROSyM9",
+      "snippet": {
+        "textDisplay": "Imaju spor sa bivsim izdavacem zbog toga je nema na platformama.",
+        "textOriginal": "Imaju spor sa bivsim izdavacem zbog toga je nema na platformama.",
+        "parentId": "Ugz2ourCr9nVDVZSBbh4AaABAg",
+        "authorDisplayName": "Ksenija Davidovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUM6GvV0TyxQ0Obx_BtMdKVUSyysKKHivGv7ZJ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmXG7yXfPZkRNoXACHO9emA",
+        "authorChannelId": {
+          "value": "UCmXG7yXfPZkRNoXACHO9emA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-18T17:32:53Z",
+        "updatedAt": "2021-12-18T17:32:53Z"
+      }
+    }
+  ]
+}

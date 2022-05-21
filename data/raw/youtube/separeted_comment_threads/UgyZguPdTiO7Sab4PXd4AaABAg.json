@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XS9JuzlRPtoplvPnT3mkQVXC2zA",
+  "id": "UgyZguPdTiO7Sab4PXd4AaABAg",
+  "snippet": {
+    "videoId": "wfQpPpG3rbA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SznZC82dIRd7SX1TpG4jv_hQTjQ",
+      "id": "UgyZguPdTiO7Sab4PXd4AaABAg",
+      "snippet": {
+        "videoId": "wfQpPpG3rbA",
+        "textDisplay": "Obrigada pela aula!!!!",
+        "textOriginal": "Obrigada pela aula!!!!",
+        "authorDisplayName": "Ellen Raquel Lima Santana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTIeMzolYqbE38IUpdwk5ClgELBdBGVMjjQYXHAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCW16bg4hJIEZD2t-FRESsug",
+        "authorChannelId": {
+          "value": "UCW16bg4hJIEZD2t-FRESsug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-22T22:19:01Z",
+        "updatedAt": "2021-11-22T22:19:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dr3mkeqZKRJXgW52Fyk2U4OYRLM",
+      "id": "UgyZguPdTiO7Sab4PXd4AaABAg.9V3ZVSRaujj9V975h_9Eiy",
+      "snippet": {
+        "textDisplay": "Ellen, eu que agrade\u00e7o! \ud83d\ude0a",
+        "textOriginal": "Ellen, eu que agrade\u00e7o! \ud83d\ude0a",
+        "parentId": "UgyZguPdTiO7Sab4PXd4AaABAg",
+        "authorDisplayName": "Professor Al\u00ea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/QYFfuv4VNSByal2zkBKL-A-p7_KHobUSzJFOFIjHaqCjLTnsf3kTkvNUJc6KQKheWiGe8MmpwmM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC48QSklf23x45mjLUlHi98Q",
+        "authorChannelId": {
+          "value": "UC48QSklf23x45mjLUlHi98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-25T02:06:17Z",
+        "updatedAt": "2021-11-25T02:06:17Z"
+      }
+    }
+  ]
+}

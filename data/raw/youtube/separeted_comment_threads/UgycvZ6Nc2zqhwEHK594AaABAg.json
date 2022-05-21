@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4UojY8VqeLLrySOe6gvVlZmRZhQ",
+  "id": "UgycvZ6Nc2zqhwEHK594AaABAg",
+  "snippet": {
+    "videoId": "-NEfSjW27yU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ntEp1qt9eT2T9WGXq_pV7rOtvPo",
+      "id": "UgycvZ6Nc2zqhwEHK594AaABAg",
+      "snippet": {
+        "videoId": "-NEfSjW27yU",
+        "textDisplay": "Excelente! utilidade p\u00fablica.",
+        "textOriginal": "Excelente! utilidade p\u00fablica.",
+        "authorDisplayName": "Lair Leme",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvltHF7n-dcScXt2Nb0WdVYu4K_eo6sUu3jpx4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgv2rKb60DbHrFubHsJNKsA",
+        "authorChannelId": {
+          "value": "UCgv2rKb60DbHrFubHsJNKsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-09T10:22:24Z",
+        "updatedAt": "2021-02-09T10:22:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "we29TUYCKObWCDXchOM1m3S0LjM",
+      "id": "UgycvZ6Nc2zqhwEHK594AaABAg.9JXr8UDtSdR9JY9e8twScB",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d\ud83d\udc4d",
+        "textOriginal": "\ud83d\udc4d\ud83d\udc4d",
+        "parentId": "UgycvZ6Nc2zqhwEHK594AaABAg",
+        "authorDisplayName": "Olho Na Dica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-qTbyMndrt-yEBYeiKjZ3wbb9FE_CILVbVTezUQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCI_OFpj4959MWfED-pq7Oew",
+        "authorChannelId": {
+          "value": "UCI_OFpj4959MWfED-pq7Oew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-09T13:12:53Z",
+        "updatedAt": "2021-02-09T13:12:53Z"
+      }
+    }
+  ]
+}

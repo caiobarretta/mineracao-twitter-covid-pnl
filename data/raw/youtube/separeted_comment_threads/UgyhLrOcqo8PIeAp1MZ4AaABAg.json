@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "hLyPsbTesjm1JnEAaiDLzkuUCTg",
+  "id": "UgyhLrOcqo8PIeAp1MZ4AaABAg",
+  "snippet": {
+    "videoId": "VS3BTrbrbqo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7wqKLjo_HkNGTMNx4uMHIF62Jco",
+      "id": "UgyhLrOcqo8PIeAp1MZ4AaABAg",
+      "snippet": {
+        "videoId": "VS3BTrbrbqo",
+        "textDisplay": "Boa tarde Dr J\u00falio. Estou sempre acompanhado seus v\u00eddeos e eles me acalmam. Que Deus te aben\u00e7oe.",
+        "textOriginal": "Boa tarde Dr J\u00falio. Estou sempre acompanhado seus v\u00eddeos e eles me acalmam. Que Deus te aben\u00e7oe.",
+        "authorDisplayName": "Larissa Matias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrg-Qnsg-FGS5yZhZmcnyxt4OKOv8S3xV9WA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbmo_8mqpw5bgeVRdkdwAug",
+        "authorChannelId": {
+          "value": "UCbmo_8mqpw5bgeVRdkdwAug"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-02-17T14:43:41Z",
+        "updatedAt": "2022-02-17T14:43:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OQjKis1sQuPv7Te1BPsB_wJA8Ec",
+      "id": "UgyhLrOcqo8PIeAp1MZ4AaABAg.9YYlYcOp-rv9YZ31LPDV2S",
+      "snippet": {
+        "textDisplay": "Verdade,ele fala com muita seguran\u00e7a!",
+        "textOriginal": "Verdade,ele fala com muita seguran\u00e7a!",
+        "parentId": "UgyhLrOcqo8PIeAp1MZ4AaABAg",
+        "authorDisplayName": "Izabel Cristiane Costa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNoKnoKQ9Y3HYZX_5tFw_wqWfkjTzoKNvMUy9_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpcE07voLQUUAxwOGLhG8Tg",
+        "authorChannelId": {
+          "value": "UCpcE07voLQUUAxwOGLhG8Tg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-17T17:25:10Z",
+        "updatedAt": "2022-02-17T17:25:10Z"
+      }
+    }
+  ]
+}
