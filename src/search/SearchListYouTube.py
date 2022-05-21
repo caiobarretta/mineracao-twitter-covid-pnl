@@ -33,11 +33,11 @@ class SearchListYouTube(SearchBase):
     
 
 def main():
-    search = SearchListYouTube()
-    file_credentials = 'src/search/credentials.yaml'
+    search = SearchListYouTube(True, 100000)
+    file_credentials = 'src/credentials.yaml'
 
     func_get_new_instance_api = search.get_new_instance_api
-    func_get_query_to_search = SearchKeys('pt').get_youtube_search_list_query_covid
+    func_get_query_to_search = SearchKeys('pt').get_youtube_search_list_separeted_query_covid
     func_get_and_save_data = search.get_and_save_search_list
 
     pesquisa = search.load_search_query_list_dict(func_get_query_to_search)

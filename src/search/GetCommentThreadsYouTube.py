@@ -70,7 +70,7 @@ class SearchListYouTube(SearchBase):
     
 def main():
     search = SearchListYouTube(False)
-    file_credentials = 'src/credentials.yaml'
+    file_credentials = 'src/search/credentials.yaml'
 
     search_keys = SearchKeys('pt')
 
