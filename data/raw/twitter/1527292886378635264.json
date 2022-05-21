@@ -1,0 +1,143 @@
+{
+  "created_at": "Thu May 19 14:19:34 +0000 2022",
+  "id": 1527292886378635264,
+  "id_str": "1527292886378635264",
+  "full_text": "@azturian Fora isso pegar dinheiro dos sus  em meio uma pandemia pra comprar o centr\u00e3o \ud83d\udc40",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    88
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "azturian",
+        "name": "Bruno de Paula",
+        "id": 2262686573,
+        "id_str": "2262686573",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1527292532916363266,
+  "in_reply_to_status_id_str": "1527292532916363266",
+  "in_reply_to_user_id": 2262686573,
+  "in_reply_to_user_id_str": "2262686573",
+  "in_reply_to_screen_name": "azturian",
+  "user": {
+    "id": 1106419478,
+    "id_str": "1106419478",
+    "name": "\ud835\udd04 \ud835\udd20 \ud835\udd22 \ud835\udd2f \ud835\udd2c \ud835\udd29 \ud835\udd1e \ud835\udd05 \ud835\udd29 \ud835\udd1e \ud835\udd20 \ud835\udd28 \ud83d\udc51",
+    "screen_name": "andersonjsilva2",
+    "location": "S\u00e3o Paulo, Brasil",
+    "description": "Acerola BlacK f\u00e3 de #Gears\n@WakandaStreamer\n\nConfie no seu poder!",
+    "url": "https://t.co/jCWy9rwODF",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/jCWy9rwODF",
+            "expanded_url": "https://apxgears.com.br/",
+            "display_url": "apxgears.com.br",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1126,
+    "friends_count": 1600,
+    "listed_count": 2,
+    "created_at": "Sun Jan 20 14:42:51 +0000 2013",
+    "favourites_count": 39620,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12433,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1525063529035874305/3T_MSsT-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525063529035874305/3T_MSsT-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106419478/1652298385",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "68e019afec7d0ba5",
+    "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+    "place_type": "city",
+    "name": "Sao Paulo",
+    "full_name": "Sao Paulo, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -46.826039,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -23.356792
+          ],
+          [
+            -46.826039,
+            -23.356792
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}
