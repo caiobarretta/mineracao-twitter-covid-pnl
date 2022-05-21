@@ -6,8 +6,9 @@ from api.YouTubeAPI import YouTubeAPI
 
 
 class SearchListYouTube(SearchBase):
-    def __init__(self, quantidade_maxima_resultados = 1000) -> None:
+    def __init__(self, replace_existing_file = True, quantidade_maxima_resultados = 1000) -> None:
         super().__init__()
+        self.replace_existing_file = replace_existing_file
         self.quantidade_maxima_resultados = quantidade_maxima_resultados
     
     def save_search_list(self, search_list):
@@ -18,7 +19,7 @@ class SearchListYouTube(SearchBase):
             print(f'salvando video pesquisa: {videoId} para arquivo.')
             file_name = f'data/raw/youtube/search_list/{videoId}.json'
             content = search_list
-            self.save_json(file_name, content)
+            self.save_json(file_name, content, self.replace_existing_file)
             time.sleep(1)
 
     def get_and_save_search_list(self, api, query, lang):
