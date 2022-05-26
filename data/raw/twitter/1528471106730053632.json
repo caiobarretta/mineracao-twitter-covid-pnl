@@ -1,0 +1,130 @@
+{
+  "created_at": "Sun May 22 20:21:24 +0000 2022",
+  "id": 1528471106730053632,
+  "id_str": "1528471106730053632",
+  "full_text": "@DFDaDepre Pol\u00edtica de sa\u00fade p\u00fablica: COVID!",
+  "truncated": false,
+  "display_text_range": [
+    11,
+    44
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DFDaDepre",
+        "name": "DF da Depr\u00ea",
+        "id": 1296136665640185857,
+        "id_str": "1296136665640185857",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1528437469154267136,
+  "in_reply_to_status_id_str": "1528437469154267136",
+  "in_reply_to_user_id": 1296136665640185857,
+  "in_reply_to_user_id_str": "1296136665640185857",
+  "in_reply_to_screen_name": "DFDaDepre",
+  "user": {
+    "id": 1186715764805505025,
+    "id_str": "1186715764805505025",
+    "name": "Adriana Lula 13",
+    "screen_name": "AdrianaEleuter6",
+    "location": "Bras\u00edlia, Brasil",
+    "description": "Educa\u00e7\u00e3o p\u00fablica e de qualidade,qualquer forma de amor,direitos humanos #Fora Bolsonaro#antifascista Lula presidente 13",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2994,
+    "friends_count": 4999,
+    "listed_count": 1,
+    "created_at": "Tue Oct 22 18:48:20 +0000 2019",
+    "favourites_count": 89488,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 66406,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1295834840340803586/zCwLeS7e_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295834840340803586/zCwLeS7e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186715764805505025/1642895289",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5722ff20ba67083b",
+    "url": "https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json",
+    "place_type": "city",
+    "name": "Bras\u00edlia",
+    "full_name": "Bras\u00edlia, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -48.285982,
+            -16.0524045
+          ],
+          [
+            -47.307264,
+            -16.0524045
+          ],
+          [
+            -47.307264,
+            -15.5001029
+          ],
+          [
+            -48.285982,
+            -15.5001029
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}
