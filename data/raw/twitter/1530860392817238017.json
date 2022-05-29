@@ -1,0 +1,166 @@
+{
+  "created_at": "Sun May 29 10:35:34 +0000 2022",
+  "id": 1530860392817238017,
+  "id_str": "1530860392817238017",
+  "full_text": "Vamos vacinar!\nTomei a 4a. dose da vacina contra a COVID-19. Todos precisamos completar o esquema vacinal.\nObrigado @monicameloenf por ter aplicado todas as quatro doses. Gratid\u00e3o ao SUS! em Manaus, Brazil https://t.co/RjHj5CV036",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    229
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "monicameloenf",
+        "name": "M\u00f4nica Melo",
+        "id": 57120398,
+        "id_str": "57120398",
+        "indices": [
+          116,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/RjHj5CV036",
+        "expanded_url": "https://www.instagram.com/p/CeI4kQruAyH/?igshid=YTgzYjQ4ZTY=",
+        "display_url": "instagram.com/p/CeI4kQruAyH/\u2026",
+        "indices": [
+          206,
+          229
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1333471653955821572,
+    "id_str": "1333471653955821572",
+    "name": "Marcellus Camp\u00ealo",
+    "screen_name": "MarcellusJBC",
+    "location": "Manaus, Brasil",
+    "description": "Engenheiro Civil. Marido da Fernanda B\u00e1rtholo, pai do Pedro Camp\u00ealo e da Marcella B\u00e1rtholo. Coordenador Executivo da Unidade Gestora de Projetos Especiais - AM.",
+    "url": "https://t.co/Bfnu9dOR86",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Bfnu9dOR86",
+            "expanded_url": "http://www.ugpe.am.gov.br",
+            "display_url": "ugpe.am.gov.br",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 177,
+    "friends_count": 725,
+    "listed_count": 0,
+    "created_at": "Mon Nov 30 18:03:26 +0000 2020",
+    "favourites_count": 468,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 379,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1479984899704737792/m7Vvo8J9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479984899704737792/m7Vvo8J9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1333471653955821572/1634321382",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -3.11333,
+      -60.0253
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -60.0253,
+      -3.11333
+    ]
+  },
+  "place": {
+    "id": "45e3bce63f2beeee",
+    "url": "https://api.twitter.com/1.1/geo/id/45e3bce63f2beeee.json",
+    "place_type": "city",
+    "name": "Manaus",
+    "full_name": "Manaus, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.802071,
+            -3.221228
+          ],
+          [
+            -59.15858,
+            -3.221228
+          ],
+          [
+            -59.15858,
+            -1.923622
+          ],
+          [
+            -60.802071,
+            -1.923622
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "pt"
+}
