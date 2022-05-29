@@ -7,9 +7,9 @@ from SearchKeys import SearchKeys
 from api.TweepyAPI import TweepyAPI
 
 class SearchTweets(SearchBase):
-    def __init__(self, replace_existing_tweets = True, yt_time_sleep_load_search = 20):
+    def __init__(self, replace_existing_tweets = True, time_sleep_load_search = 20):
         self.replace_existing_tweets = replace_existing_tweets
-        super().__init__(yt_time_sleep_load_search)
+        super().__init__(time_sleep_load_search)
 
     def save_tweets(self, tweets):
         try:
@@ -32,7 +32,7 @@ class SearchTweets(SearchBase):
         return TweepyAPI(file_credentials)
 
 def main():
-    search = SearchTweets(False)
+    search = SearchTweets(False, 5)
     file_credentials = 'src/credentials.yaml'
 
     func_get_new_instance_api = search.get_new_instance_api

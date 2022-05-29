@@ -28,6 +28,7 @@ def retona_texto_json(path, extension, tipo_arquivo, data):
     file_list = get_file_list(path, extension)
     for file in file_list:
         content = read_json(file)
+        print(f'processando arquivo: {file}')
         json = get_json_by_filetype(content, tipo_arquivo)
         data.append(json)
 
