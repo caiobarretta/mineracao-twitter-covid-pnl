@@ -1,6 +1,40 @@
 [
   {
     "kind": "youtube#searchResult",
+    "etag": "1WbHUvHFa4uHG-SmCFbjDhVksag",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HPd2hiYreyc"
+    },
+    "snippet": {
+      "publishedAt": "2021-03-17T14:27:39Z",
+      "channelId": "UCnEYekfQHxW1VEW4oecaWcA",
+      "title": "Amogus",
+      "description": "Want to support the channel AND get perks? https://www.patreon.com/breaddefender?fan_landing=1 The best thing you can do ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bread Defender",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-03-17T14:27:39Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "spm_yIU1ydXD0Ys4hn_TAeBFp00",
     "id": {
       "kind": "youtube#video",
@@ -31,176 +65,6 @@
       "channelTitle": "Enfermundo - O mundo da enfermagem",
       "liveBroadcastContent": "none",
       "publishTime": "2017-12-08T23:44:21Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "UZtk6vmWqFlLpW4yRpvI2_8ypAk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "gV7gjHEmDyc"
-    },
-    "snippet": {
-      "publishedAt": "2020-05-30T21:57:19Z",
-      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "Aul\u00e3o de Legisla\u00e7\u00e3o do SUS - Atualizada",
-      "description": "Material Apoio: - Natale Souza: https://bit.ly/AulaoLegislacao_SUS_NataleSouza \u2757 Assinatura Ilimitada com mais de 18.600 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Gran Cursos Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-05-30T21:57:19Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "_3D9hDTRRyo34a64eYPUA18IYoU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "xoXTo82hScQ"
-    },
-    "snippet": {
-      "publishedAt": "2019-04-06T22:49:53Z",
-      "channelId": "UCvNIq9u4Bba7L62Kdxe8k3g",
-      "title": "Entendendo o SUS - Princ\u00edpios Doutrin\u00e1rios",
-      "description": "\"N\u00e3o entendo nada de SUS\", \u00e9 uma das frases que mais ou\u00e7o dos alunos! Mas seus dias de d\u00favidas acabaram, people!!!! Saindo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Quero uma vaga na Enfermagem",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-04-06T22:49:53Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "cR_mVB0qD4OuuzHqsoQ2Mxod6RA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "_GKse_BCAWU"
-    },
-    "snippet": {
-      "publishedAt": "2014-04-11T18:37:11Z",
-      "channelId": "UCzVthHpKYLqsJqDmmTIoZNQ",
-      "title": "SUS - Sistema \u00danico de Sa\u00fade",
-      "description": "Este v\u00eddeo foi produzido pelo CIAR / UFG como ferramenta de apoio pedag\u00f3gico ao curso de Licenciatura em Ci\u00eancias ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CIAR UFG",
-      "liveBroadcastContent": "none",
-      "publishTime": "2014-04-11T18:37:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Kcpf3kTBOWZBaWM-aBRRBrSTpgI",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "25qLsya2HbE"
-    },
-    "snippet": {
-      "publishedAt": "2021-02-03T16:00:20Z",
-      "channelId": "UCQjVM9M1rvPjiidoqTQ0z8g",
-      "title": "COMO EMITIR O CART\u00c3O DO SUS PELA INTERNET 2022",
-      "description": "Neste v\u00eddeo vamos te mostrar como voc\u00ea pode imprimir seu Cart\u00e3o do SUS pela internet de maneira f\u00e1cil e r\u00e1pida. Link do App: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/25qLsya2HbE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/25qLsya2HbE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/25qLsya2HbE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Emerson Carvalho - PontoCanal",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-02-03T16:00:20Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "N21w5WEGO2MwvrUB3uxiuCv43rk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "wfQpPpG3rbA"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-23T21:58:08Z",
-      "channelId": "UC48QSklf23x45mjLUlHi98Q",
-      "title": "Aula 25 - Lei do SUS - Lei 8.142-90 - Aula \u00fanica da Lei 8.142-90 completa e com quest\u00f5es",
-      "description": "Vamos aprender nessa videoaula \u00fanica e completa (com quest\u00f5es) sobre a Lei 8.142/90, que trata da participa\u00e7\u00e3o da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wfQpPpG3rbA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wfQpPpG3rbA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wfQpPpG3rbA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Professor Al\u00ea",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-23T21:58:08Z"
     }
   },
   {
@@ -239,104 +103,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "UT0gxU3Kfdkv8Lngd0aqaLd1kp4",
+    "etag": "9l7mCXRB3hJ3GP5bQrKEAQyspDM",
     "id": {
       "kind": "youtube#video",
-      "videoId": "dsXvFGQBKUU"
+      "videoId": "Zh6-9q5raf8"
     },
     "snippet": {
-      "publishedAt": "2020-03-16T13:00:12Z",
-      "channelId": "UC8IbAhPglJ1OeC44A_Gtmqg",
-      "title": "Os princ\u00edpios do SUS | Aprendendo com exemplos",
-      "description": "ENFERMUNDO #ENFERMAGEM #SUS Ol\u00e1 equipe! Sejam bem-vindos novamente ao Enfermundo! Nessa aula vamos falar ...",
+      "publishedAt": "2021-06-21T12:17:21Z",
+      "channelId": "UCxPF6voz9tN-kGS7lHIN-DA",
+      "title": "Don&#39;t Say SUS While Watching This Video...(Impossible)!",
+      "description": "Anonify #sus #meme #ok sus,amogus,amongus,among us lessons in meme culture,meme analysis,meme explained,2020 meme ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/default.jpg",
+          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Enfermundo - O mundo da enfermagem",
+      "channelTitle": "Anonify",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-16T13:00:12Z"
+      "publishTime": "2021-06-21T12:17:21Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "XdmArN2ufWOFmyBBMdSAwALfNhE",
+    "etag": "mpR2wzbfoniuSd377ctZ90VuoWQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "E09lo76Dv_I"
+      "videoId": "gV7gjHEmDyc"
     },
     "snippet": {
-      "publishedAt": "2021-08-11T23:02:51Z",
+      "publishedAt": "2020-05-30T21:57:19Z",
       "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "Quest\u00f5es de Alto N\u00edvel - Sa\u00fade P\u00fablica, Pol\u00edticas de Sa\u00fade e SUS com Natale Souza",
-      "description": "Quest\u00f5es de Alto N\u00edvel - Sa\u00fade P\u00fablica, Pol\u00edticas de Sa\u00fade e SUS com Natale Souza In\u00edcio: 00:22 Material de Apoio: ...",
+      "title": "Aul\u00e3o de Legisla\u00e7\u00e3o do SUS - Atualizada",
+      "description": "Material Apoio: - Natale Souza: https://bit.ly/AulaoLegislacao_SUS_NataleSouza \u2757 Assinatura Ilimitada com mais de 18.600 ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/default.jpg",
+          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gV7gjHEmDyc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Gran Cursos Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-08-11T23:02:51Z"
+      "publishTime": "2020-05-30T21:57:19Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "K__PtEuwI67J37iRc4e2pSZZeN0",
+    "etag": "C1_xY5Hb4MrCwV4vZdg_e_vqesc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "EgMkicTkeh0"
+      "videoId": "gLBhFqOq_RI"
     },
     "snippet": {
-      "publishedAt": "2020-05-21T22:32:24Z",
-      "channelId": "UCnU_8ovaM-lltVmXGY9JPUw",
-      "title": "Hist\u00f3ria do SUS e da sa\u00fade no Brasil",
-      "description": "Nesta aula fazemos um breve percurso sobre a Hist\u00f3ria do SUS e suas bases legais e tamb\u00e9m sobre a Hist\u00f3ria da sa\u00fade no ...",
+      "publishedAt": "2022-02-09T14:25:14Z",
+      "channelId": "UCAZdV9MjDM3tKXJ2jlaiq4g",
+      "title": "Minions are sus",
+      "description": "Minions are sus discord: https://discord.gg/5S9qyUbx #meme #minions #sus minions are meme,meme,minions,minions are kinda ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EgMkicTkeh0/default.jpg",
+          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EgMkicTkeh0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EgMkicTkeh0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Prof. Basilio Historiando",
+      "channelTitle": "Pudgy",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-05-21T22:32:24Z"
+      "publishTime": "2022-02-09T14:25:14Z"
     }
   },
   {
@@ -375,142 +239,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "9l7mCXRB3hJ3GP5bQrKEAQyspDM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Zh6-9q5raf8"
-    },
-    "snippet": {
-      "publishedAt": "2021-06-21T12:17:21Z",
-      "channelId": "UCxPF6voz9tN-kGS7lHIN-DA",
-      "title": "Don&#39;t Say SUS While Watching This Video...(Impossible)!",
-      "description": "Anonify #sus #meme #ok sus,amogus,amongus,among us lessons in meme culture,meme analysis,meme explained,2020 meme ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Zh6-9q5raf8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Anonify",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-06-21T12:17:21Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rVH07ZVm_5G2pP7jzfr0tHhsJis",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "NzZYt0SZANs"
-    },
-    "snippet": {
-      "publishedAt": "2018-11-26T15:18:31Z",
-      "channelId": "UCoGDzJkGOb2YfM-VQ9rJyMg",
-      "title": "Sistema \u00danico de Sa\u00fade - Hist\u00f3ria antes do SUS",
-      "description": "A professora Camila Sanchez, al\u00e9m de explicar todo o contexto hist\u00f3rico da \u00e9poca, conta um pouco sobre as formas de sa\u00fade ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NzZYt0SZANs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NzZYt0SZANs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NzZYt0SZANs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jaleko Acad\u00eamicos",
-      "liveBroadcastContent": "none",
-      "publishTime": "2018-11-26T15:18:31Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "BmK8JcRtxk39YGP_obORRueb5z4",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ZMynIFuyFIs"
-    },
-    "snippet": {
-      "publishedAt": "2021-06-19T21:11:15Z",
-      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "S.U.S com Natale Souza - Hist\u00f3ria das pol\u00edticas de Sa\u00fade  Prof\u00aa. Natale Souza",
-      "description": "S.U.S com Natale Souza - Hist\u00f3ria das pol\u00edticas de Sa\u00fade :Prof\u00aa. Natale Souza In\u00edcio: Material ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Gran Cursos Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-06-19T21:11:15Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "KKk2f2opBy2gOfugN6Q0Oy0THOQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "RfXeB75iJH4"
-    },
-    "snippet": {
-      "publishedAt": "2019-03-06T01:11:39Z",
-      "channelId": "UCD9kk0EUEtflrRl6TV0lDyA",
-      "title": "Princ\u00edpios e Diretrizes do SUS (Lei 8.080/1990 Atualizada) - Profa. Juliana Mello",
-      "description": "Apostilas Digitais em PDF com foco nos Concursos P\u00fablicos e Resid\u00eancias, para Enfermeiros e T\u00e9cnicos de Enfermagem ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/RfXeB75iJH4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/RfXeB75iJH4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/RfXeB75iJH4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "ENFrente Enfermagem Continuada",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-03-06T01:11:39Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "FsqMf_pYkvIi3PLaJUKF-KdEtPU",
     "id": {
       "kind": "youtube#video",
@@ -541,482 +269,6 @@
       "channelTitle": "Nukerz",
       "liveBroadcastContent": "none",
       "publishTime": "2021-03-31T01:19:09Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "uuWfvhaYRMMESXmqLaZmNJPL6w0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "PzVxQkNyqLs"
-    },
-    "snippet": {
-      "publishedAt": "2015-07-07T20:19:25Z",
-      "channelId": "UC7p_rNpzJmlIQp2xFMMtk_g",
-      "title": "Os princ\u00edpios do SUS",
-      "description": "Os princ\u00edpios doutrin\u00e1rio do SUS s\u00e3o explicitados: Universalidade, Integralidade, Participa\u00e7\u00e3o Popular e Controle Social, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PzVxQkNyqLs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PzVxQkNyqLs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PzVxQkNyqLs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "seriesus",
-      "liveBroadcastContent": "none",
-      "publishTime": "2015-07-07T20:19:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "E3x3wCTtB-y8_p7pM0cDU4skC-M",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "gLBhFqOq_RI"
-    },
-    "snippet": {
-      "publishedAt": "2022-02-09T14:25:14Z",
-      "channelId": "UCAZdV9MjDM3tKXJ2jlaiq4g",
-      "title": "Minions are sus",
-      "description": "Minions are sus #meme #minions #sus minions are meme,meme,minions,minions are kinda sus,minions are kinda sussy,sus ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gLBhFqOq_RI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Pudgy",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-02-09T14:25:14Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Tl4qISHy0v2zfsueq_yQWgNxBXQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "qgnavwui-ws"
-    },
-    "snippet": {
-      "publishedAt": "2020-06-14T14:00:13Z",
-      "channelId": "UCQRPDZMSwXFEDS67uc7kIdg",
-      "title": "DA SANTA CASA AO SUS - A HIST\u00d3RIA DA SA\u00daDE P\u00daBLICA NO BRASIL - BUENAS RESPOSTAS COM EDUARDO BUENO",
-      "description": "\u00c0 sua sa\u00fade, Buenas Respostas! Como voc\u00ea talvez j\u00e1 saiba, Eduardo Bueno tem respondido \u00e0s perguntas dos membros em ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qgnavwui-ws/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qgnavwui-ws/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qgnavwui-ws/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Buenas Ideias",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-06-14T14:00:13Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "EllVz1UAsw66ixMgCpH2_6c2qi4",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "JhmtMsV2coY"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-20T18:47:11Z",
-      "channelId": "UCQjVM9M1rvPjiidoqTQ0z8g",
-      "title": "COMO EMITIR O CART\u00c3O DO SUS PELA INTERNET",
-      "description": "Caso voc\u00ea necessite emitir seu Cart\u00e3o do SUS e n\u00e3o pode ir at\u00e9 uma unidade da Secretaria de Sa\u00fade do seu Munic\u00edpio, saiba ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Emerson Carvalho - PontoCanal",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-20T18:47:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "NtwUP3NtYLSqUHpQjs59PvQbr2Q",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "1PRkmBx9OkU"
-    },
-    "snippet": {
-      "publishedAt": "2020-09-28T17:15:01Z",
-      "channelId": "UClLMpgF1_FrRHOy8H-iQ-fg",
-      "title": "Princ\u00edpios, Diretrizes e Arcabou\u00e7o Legal - Parte 1",
-      "description": "Outro tema bastante relevante nas provas de concursos p\u00fablicos onde o Sistema \u00danico de Sa\u00fade \u00e9 cobrado s\u00e3o os princ\u00edpios, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1PRkmBx9OkU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1PRkmBx9OkU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1PRkmBx9OkU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Aprova Concursos",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-09-28T17:15:01Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "MmNlzzFVHblfx170wNnC-gHTBuw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "bzzXnHexcU0"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T12:00:31Z",
-      "channelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-      "title": "Telessa\u00fade: proposta em an\u00e1lise no Senado prev\u00ea modalidade no SUS e setor privado",
-      "description": "O Senado analisa o PL 4223/2021, que regulamenta os servi\u00e7os de telemedicina no pa\u00eds. A proposta \u00e9 do senador Esperidi\u00e3o ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bzzXnHexcU0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bzzXnHexcU0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bzzXnHexcU0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TV Senado",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T12:00:31Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "S9Xja3cYfhnYq3BsYG2I1NQEQr4",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "QAyiYu1iuzE"
-    },
-    "snippet": {
-      "publishedAt": "2021-12-10T19:02:26Z",
-      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "SUS em Mapas - Conceitos Importantes com Natale Souza",
-      "description": "LAN\u00c7AMENTO de novos cursos GRAN P\u00d3S-GRADUA\u00c7\u00c3O. Inscreva-se \u27a1\ufe0f https://bit.ly/3xX66Xw SUS em Mapas - Conceitos ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QAyiYu1iuzE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QAyiYu1iuzE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QAyiYu1iuzE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Gran Cursos Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-12-10T19:02:26Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ogvtJvH7pz_8p5QO-uM-lEILSUE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "xqkPexqq9nk"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-18T13:00:29Z",
-      "channelId": "UC8IbAhPglJ1OeC44A_Gtmqg",
-      "title": "PRINC\u00cdPIOS ORGANIZATIVOS DO SUS",
-      "description": "ENFERMUNDO #ENFERMAGEM #SUS Ol\u00e1 equipe! Sejam bem-vindos novamente ao Enfermundo! Nessa aula vamos falar ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Enfermundo - O mundo da enfermagem",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-18T13:00:29Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "DIpxRRFZSYsDnyHAKcLS5r8TwSg",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ikNncgXnne8"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-01T23:06:59Z",
-      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "Quest\u00f5es de Alto N\u00edvel - Sa\u00fade P\u00fablica, Pol\u00edticas de Sa\u00fade e SUS com Natale Souza",
-      "description": "A Nova Era de Ouro dos Concursos: Aproveite o MAIOR DESCONTO da nossa hist\u00f3ria.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ikNncgXnne8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ikNncgXnne8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ikNncgXnne8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Gran Cursos Sa\u00fade",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-01T23:06:59Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "W9DQBRABPr-W6fiB7PU_IgtBdkQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "9GKceP35sec"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-04T20:47:38Z",
-      "channelId": "UCuW2aWW7_PyCkjUev8HDy5g",
-      "title": "Relato de parto cesariana e laqueadura . #relatodeparto #sus",
-      "description": "Relato de parto pelo cesariana e laqueadura pelo #SUS.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9GKceP35sec/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9GKceP35sec/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9GKceP35sec/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal da Jessi",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-04T20:47:38Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fEQ--L_bKKbrAHEVCIZwbg3yoQk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "LIL7qeLqTDk"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T05:15:30Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LIL7qeLqTDk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LIL7qeLqTDk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LIL7qeLqTDk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:15:30Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "p5vKx3Q6IeWAKjc_tMYpzPp1vnY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "RHzq8dr5bB0"
-    },
-    "snippet": {
-      "publishedAt": "2019-12-05T22:00:07Z",
-      "channelId": "UCY74yEzjqgfB45j1AerKNdw",
-      "title": "SUS: hist\u00f3rico, diretrizes e princ\u00edpios - EBSERH",
-      "description": "Gostou desse Conte\u00fado? Vem conosco!! Somos especialistas em Ebserh. 372 aprovados no \u00faltimo concurso e diversos ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/RHzq8dr5bB0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/RHzq8dr5bB0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/RHzq8dr5bB0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Logos Concursos",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-12-05T22:00:07Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "dnSKwyZA0ul2ozyV8mX5OOxnp08",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "UGSYtGvEm70"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T05:18:56Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "what a cute movement #minecraftanimation #minecraftmeme #sus #minecraftshorts #algrow #shorts #short",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UGSYtGvEm70/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UGSYtGvEm70/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UGSYtGvEm70/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:18:56Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "tVqBMgTKxiSotjmedUqMAOEaD9A",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "HTupMCzjHXM"
-    },
-    "snippet": {
-      "publishedAt": "2020-10-21T13:15:13Z",
-      "channelId": "UCExmnwF51FJgg8GGo6GWfVQ",
-      "title": "Quest\u00f5es SUS 2020 Parte 1 - Estudo Sistematizado do SUS 2021",
-      "description": "psicologianova #concursospsicologia #psiconcursos ESTUDO SISTEMATIZADO DO SUS 2021: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HTupMCzjHXM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HTupMCzjHXM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HTupMCzjHXM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Psicologia Nova",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-10-21T13:15:13Z"
     }
   },
   {
@@ -1055,240 +307,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "RDVoe_1B2Rx09-ISMxxPmK1NHbU",
+    "etag": "8zvTfpjzPg2H_jyX-uQuHsJTFM8",
     "id": {
       "kind": "youtube#video",
-      "videoId": "BWbDwsHkM9A"
+      "videoId": "YqcDK4MQnak"
     },
     "snippet": {
-      "publishedAt": "2022-01-30T01:08:54Z",
-      "channelId": "UCPVeRPtTc61l5ykcihUGArA",
-      "title": "Passei com no cirurgi\u00e3o Bari\u00e1trico!!! Di\u00e1rio da minha bari\u00e1trica pelo SUS #sus #bari\u00e1trica #s\u00e3opaulo",
-      "description": "N\u00e3o se esque\u00e7am de me seguir nas minhas redes sociais: Tiktok: @jessylaiane Instagram: @jessylaiane Kwai: @jessylaiane Um ...",
+      "publishedAt": "2022-04-16T15:41:04Z",
+      "channelId": "UCKYKMQHUqAPH9TyGzjFiT3A",
+      "title": "Sr Incr\u00edvel Sus - Coisas Sus - Parte 5",
+      "description": "RUMO 18K GALERAAAAAAAA Valeuuuuuuuu #srincrivel #srincrivelsus #sus #amongus #amogus #srincrivelforever.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BWbDwsHkM9A/default.jpg",
+          "url": "https://i.ytimg.com/vi/YqcDK4MQnak/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BWbDwsHkM9A/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YqcDK4MQnak/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BWbDwsHkM9A/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YqcDK4MQnak/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Digo E Jess",
+      "channelTitle": "Jonzin",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-30T01:08:54Z"
+      "publishTime": "2022-04-16T15:41:04Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "1WbHUvHFa4uHG-SmCFbjDhVksag",
+    "etag": "BmK8JcRtxk39YGP_obORRueb5z4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "HPd2hiYreyc"
+      "videoId": "ZMynIFuyFIs"
     },
     "snippet": {
-      "publishedAt": "2021-03-17T14:27:39Z",
-      "channelId": "UCnEYekfQHxW1VEW4oecaWcA",
-      "title": "Amogus",
-      "description": "Want to support the channel AND get perks? https://www.patreon.com/breaddefender?fan_landing=1 The best thing you can do ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HPd2hiYreyc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Bread Defender",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-03-17T14:27:39Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "1GN2Y2GTl2OiDUBqEKrIArJZpDA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "sC8wzo_EHhU"
-    },
-    "snippet": {
-      "publishedAt": "2019-05-21T23:14:37Z",
-      "channelId": "UC7p_rNpzJmlIQp2xFMMtk_g",
-      "title": "Qual a import\u00e2ncia da Lei 8.142/90 para o SUS?",
-      "description": "A lei 8.142/90 \u00e9 complementar a Lei 8.080/90. Ela normatiza como deve ser acontecer as transfer\u00eancias de recursos financeiros ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "seriesus",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-05-21T23:14:37Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "j8I-K5D9tayR8GiQHP-NDlUc93Y",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "m12tE8lXB8M"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T06:03:49Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "what a cute movement #minecraftanimation #minecraftmeme #sus #minecraftshorts #algrow #shorts #short",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/m12tE8lXB8M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/m12tE8lXB8M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/m12tE8lXB8M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T06:03:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "3cEK2XKCd3DZqzPrQ_bQ1Dhvk-I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "ga7QPMP0WUE"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T05:12:26Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ga7QPMP0WUE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ga7QPMP0WUE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ga7QPMP0WUE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:12:26Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Yfju7X-uYAL1_nVybvsoeMZsT7A",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "42OrUvmzy-4"
-    },
-    "snippet": {
-      "publishedAt": "2020-10-17T21:06:23Z",
+      "publishedAt": "2021-06-19T21:11:15Z",
       "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
-      "title": "Descomplicando o SUS - Lei 8080/90 - Atualiza\u00e7\u00e3o 2020: Prof\u00aa. Natale Souza",
-      "description": "O DOBRO do MAIOR desconto - Dia 19/10. Inscreva-se: https://bit.ly/3ntDgZd Material de apoio: ...",
+      "title": "S.U.S com Natale Souza - Hist\u00f3ria das pol\u00edticas de Sa\u00fade  Prof\u00aa. Natale Souza",
+      "description": "S.U.S com Natale Souza - Hist\u00f3ria das pol\u00edticas de Sa\u00fade :Prof\u00aa. Natale Souza In\u00edcio: Material ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/42OrUvmzy-4/default.jpg",
+          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/42OrUvmzy-4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/42OrUvmzy-4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZMynIFuyFIs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Gran Cursos Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-10-17T21:06:23Z"
+      "publishTime": "2021-06-19T21:11:15Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "FUrjDS9L10UoZgSoLQuwi56bmAw",
+    "etag": "cd4buWC12h26CpJ9AeVB6Or095g",
     "id": {
       "kind": "youtube#video",
-      "videoId": "9HniPPAMXNY"
+      "videoId": "cTHZQJvWU9E"
     },
     "snippet": {
-      "publishedAt": "2022-05-21T05:20:50Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "what a cute movement #minecraftanimation #minecraftmeme #sus #minecraftshorts #algrow #shorts #short",
-      "description": "",
+      "publishedAt": "2021-12-13T01:15:29Z",
+      "channelId": "UC_mOFYv7CJaARGkXgbuJkvg",
+      "title": "sus minions",
+      "description": "the rock suspected something.. thanks for watching :) wow, did you really decide to read the description? well then don't forget to ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9HniPPAMXNY/default.jpg",
+          "url": "https://i.ytimg.com/vi/cTHZQJvWU9E/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9HniPPAMXNY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cTHZQJvWU9E/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9HniPPAMXNY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cTHZQJvWU9E/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "miner tuber",
+      "channelTitle": "trashmemes",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:20:50Z"
+      "publishTime": "2021-12-13T01:15:29Z"
     }
   },
   {
@@ -1327,6 +443,346 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "PMWPIOoDwJuNNN1tcPDQvnndT5k",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lAQ5-RvnjhU"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-08T22:45:09Z",
+      "channelId": "UCE35DWkNj7PpaecE8D2ZqaA",
+      "title": "SUS ROBLOX 2",
+      "description": "SUS ROBLOX 2 Hiruko's Channel:https://www.youtube.com/channel/UCFImNFUPPZKAmoiPJDDmWMw n\u00f8nexistent_w\u00f8lfy's ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lAQ5-RvnjhU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lAQ5-RvnjhU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lAQ5-RvnjhU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "sus minion",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-08T22:45:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "59ouE7BUQGYDqkogoUmi0HJ-k80",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "s-KAyN408-8"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-06T05:00:10Z",
+      "channelId": "UCE35DWkNj7PpaecE8D2ZqaA",
+      "title": "sus minions 18",
+      "description": "sus minions 18 Join My Roblox Group:https://web.roblox.com/groups/9545356/sus-minions-Fans#!/about #minions #meme #sus ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s-KAyN408-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s-KAyN408-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s-KAyN408-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "sus minion",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-06T05:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "13uqdTzNMSCndsc1EriCenvRirs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BStAd7K94_c"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-20T15:00:06Z",
+      "channelId": "UCIYjO2af2IL-k0Qjl_Q9h8w",
+      "title": "SUS Adventures in the Woods.. Steve Bites Alex, Steve I&#39;m Stuck (Minecraft Monster School Animation)",
+      "description": "Steve Bites Alex, Steve I'm Stuck and Biting Twins (Minecraft Monster School Animation) ------- \u25bb Subscribe for more ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BStAd7K94_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BStAd7K94_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BStAd7K94_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Minecraft Nation ",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-20T15:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "oPAyHiYxbwJOtJS1PWV_TZ4qZxk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lC4qTgXG7FY"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-24T15:16:29Z",
+      "channelId": "UCGPCO1PVeWZ-egT6F2wKnaw",
+      "title": "A M\u00c3E INTERROGAT\u00d3RIO! (Um grande SUS) #m\u00e3e #sus #shorts",
+      "description": "A M\u00c3E INTERROGAT\u00d3RIO! (Um grande SUS) #m\u00e3e #sus #shorts Ativa o sininho da notifica\u00e7\u00e3o ou TA DE CASTIGO! hehe ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lC4qTgXG7FY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lC4qTgXG7FY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lC4qTgXG7FY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "O Victor Magalh\u00e3es",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-24T15:16:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UT0gxU3Kfdkv8Lngd0aqaLd1kp4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dsXvFGQBKUU"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-16T13:00:12Z",
+      "channelId": "UC8IbAhPglJ1OeC44A_Gtmqg",
+      "title": "Os princ\u00edpios do SUS | Aprendendo com exemplos",
+      "description": "ENFERMUNDO #ENFERMAGEM #SUS Ol\u00e1 equipe! Sejam bem-vindos novamente ao Enfermundo! Nessa aula vamos falar ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dsXvFGQBKUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Enfermundo - O mundo da enfermagem",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-16T13:00:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vswHqUukEU-gp63uDNKFFJXju3c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0XjaiKOaWoo"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-18T22:07:17Z",
+      "channelId": "UCBC-WNoG1Y25kmprqhcngXQ",
+      "title": "Minecraft is SUS (AMOGUS)",
+      "description": "This Minecraft video is extra SUS ~~~~~~~~~~ Liking my content will support this channel a lot Subscribe if you like my ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0XjaiKOaWoo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0XjaiKOaWoo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0XjaiKOaWoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Not Safe",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-18T22:07:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Ue5JJK1MwAasXyFk75aoa5bfEFg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FnHGDVS2fE8"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-23T10:58:01Z",
+      "channelId": "UCXOAVXh-ztV2ziqcAEZzv4Q",
+      "title": "SUS cartoon moments",
+      "description": "meme #cartoon #SUSmoment #suscartoon #SUSmoments #memes #sus #suscartoons.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FnHGDVS2fE8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FnHGDVS2fE8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FnHGDVS2fE8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gchmch",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-23T10:58:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Np3w9TgqrFzJMPOFxtnzXS769So",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vGN5pBDaAaQ"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-27T02:13:03Z",
+      "channelId": "UCD9kk0EUEtflrRl6TV0lDyA",
+      "title": "SUS FACILITADO (Ep 1): Diretrizes e Bases de implanta\u00e7\u00e3o do Sistema \u00danico de Sa\u00fade",
+      "description": "Apostilas Digitais em PDF com foco nos Concursos P\u00fablicos e Resid\u00eancias, para Enfermeiros e T\u00e9cnicos de Enfermagem ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vGN5pBDaAaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vGN5pBDaAaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vGN5pBDaAaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ENFrente Enfermagem Continuada",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-27T02:13:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pyDWGelkTNWFfqhnkmqrugYs1Ac",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ld_fQPVYOd0"
+    },
+    "snippet": {
+      "publishedAt": "2021-09-26T13:00:43Z",
+      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
+      "title": "SUS em Mapas - Redes de Aten\u00e7\u00e3o \u00e0 Saude com Natale Souza",
+      "description": "Vote Gran no Pr\u00eamio ReclameAQUI 2021! Voc\u00ea faz parte de nossa conquista: https://bit.ly/votegran2021 SUS em Mapas - Redes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ld_fQPVYOd0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ld_fQPVYOd0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ld_fQPVYOd0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gran Cursos Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-26T13:00:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Kcpf3kTBOWZBaWM-aBRRBrSTpgI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "25qLsya2HbE"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-03T16:00:20Z",
+      "channelId": "UCQjVM9M1rvPjiidoqTQ0z8g",
+      "title": "COMO EMITIR O CART\u00c3O DO SUS PELA INTERNET 2022",
+      "description": "Neste v\u00eddeo vamos te mostrar como voc\u00ea pode imprimir seu Cart\u00e3o do SUS pela internet de maneira f\u00e1cil e r\u00e1pida. Link do App: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/25qLsya2HbE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/25qLsya2HbE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/25qLsya2HbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Emerson Carvalho - PontoCanal",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-03T16:00:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "3b8Q3hnwBVBuMMNkS8buGt1ooWg",
     "id": {
       "kind": "youtube#video",
@@ -1361,240 +817,138 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "IB6uxagt7Hbg51ApJt6etGoQ4P0",
+    "etag": "JvApHkkYQXtktUJOU12u8F8twsQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "s2FrLO8b7Ws"
+      "videoId": "lZQt3vTUqUY"
     },
     "snippet": {
-      "publishedAt": "2022-05-21T06:05:14Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "what a cute movement #minecraftanimation #minecraftmeme #sus #minecraftshorts #algrow #shorts #short",
-      "description": "",
+      "publishedAt": "2021-07-17T21:08:06Z",
+      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
+      "title": "SUS com Natale Souza - Constitui\u00e7\u00e3o Federal - arts 196 a 200",
+      "description": "A Grande Retomada: Aproveite o MAIOR DESCONTO da nossa hist\u00f3ria.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/s2FrLO8b7Ws/default.jpg",
+          "url": "https://i.ytimg.com/vi/lZQt3vTUqUY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/s2FrLO8b7Ws/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lZQt3vTUqUY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/s2FrLO8b7Ws/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lZQt3vTUqUY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "miner tuber",
+      "channelTitle": "Gran Cursos Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T06:05:14Z"
+      "publishTime": "2021-07-17T21:08:06Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "BvRVEgkYr2eGa_Qbo-ldlQR7uKo",
+    "etag": "U9SWAhoBcjckzz1hwIjACRUwl-U",
     "id": {
       "kind": "youtube#video",
-      "videoId": "jt1LG0Va6f0"
+      "videoId": "R_A472g6pF0"
     },
     "snippet": {
-      "publishedAt": "2022-05-21T04:26:51Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
+      "publishedAt": "2022-04-29T15:17:51Z",
+      "channelId": "UCGPCO1PVeWZ-egT6F2wKnaw",
+      "title": "O SUS DA TAXINHA NA CADEIRA DA PROFESSORA #escola #sus #shorts",
+      "description": "O SUS DA TAXINHA NA CADEIRA DA PROFESSORA #escola #sus #shorts Ativa o sininho da notifica\u00e7\u00e3o ou TA DE CASTIGO!",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jt1LG0Va6f0/default.jpg",
+          "url": "https://i.ytimg.com/vi/R_A472g6pF0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jt1LG0Va6f0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/R_A472g6pF0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jt1LG0Va6f0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/R_A472g6pF0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "miner tuber",
+      "channelTitle": "O Victor Magalh\u00e3es",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T04:26:51Z"
+      "publishTime": "2022-04-29T15:17:51Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "paYmFMntmkHKvqVZ7HQLYdSxiHQ",
+    "etag": "RRuJnkHSRTt570I8U0uNP5LzZjY",
     "id": {
       "kind": "youtube#video",
-      "videoId": "3lx_wliYwiM"
+      "videoId": "KhOVpMboAxA"
     },
     "snippet": {
-      "publishedAt": "2022-05-21T05:19:30Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "what a cute movement #minecraftanimation #minecraftmeme #sus #minecraftshorts #algrow #shorts #short",
-      "description": "",
+      "publishedAt": "2022-02-19T19:43:40Z",
+      "channelId": "UCE35DWkNj7PpaecE8D2ZqaA",
+      "title": "sus minions\ud83d\ude33",
+      "description": "sus minions   #meme #minions #sus #susminions My roblox group ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3lx_wliYwiM/default.jpg",
+          "url": "https://i.ytimg.com/vi/KhOVpMboAxA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3lx_wliYwiM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KhOVpMboAxA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3lx_wliYwiM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KhOVpMboAxA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "miner tuber",
+      "channelTitle": "sus minion",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:19:30Z"
+      "publishTime": "2022-02-19T19:43:40Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "9vSxHoT8aWLMSDQTU1gZRNuWtt0",
+    "etag": "qFuh4yuig5U4zFoSDEKgk9kof-M",
     "id": {
       "kind": "youtube#video",
-      "videoId": "_UMlaWwg17Q"
+      "videoId": "KLoC0LBZ2Ws"
     },
     "snippet": {
-      "publishedAt": "2022-05-21T05:12:34Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
+      "publishedAt": "2022-01-18T06:36:36Z",
+      "channelId": "UCL-R6H88Ou6XsGx3zDus4IA",
+      "title": "Gregory, you&#39;ve been seeming sus lately",
+      "description": "BENBROS channel membership https://bit.ly/2HHWSIz \u25c5 \u25bb Join my Discord Server https://discord.gg/X3RvzVwVew ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_UMlaWwg17Q/default.jpg",
+          "url": "https://i.ytimg.com/vi/KLoC0LBZ2Ws/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_UMlaWwg17Q/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KLoC0LBZ2Ws/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_UMlaWwg17Q/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KLoC0LBZ2Ws/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "miner tuber",
+      "channelTitle": "BENBROS",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T05:12:34Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "-ygKTzqNknqIhweDwvEQZJ3UotU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "IA57aIn_XeE"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T04:25:33Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IA57aIn_XeE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IA57aIn_XeE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IA57aIn_XeE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T04:25:33Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "sLW4j0RCck1upNpJMOdeyw_pZMQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "3_lEo8iTlA8"
-    },
-    "snippet": {
-      "publishedAt": "2021-05-26T19:30:57Z",
-      "channelId": "UCOnuheHbS2DgZiAZFL0-Sbg",
-      "title": "Como era a sa\u00fade antes do SUS?",
-      "description": "At\u00e9 os anos 1980, o atendimento p\u00fablico de sa\u00fade era vinculado \u00e0 contribui\u00e7\u00e3o \u00e0 Previd\u00eancia Social. Quem n\u00e3o tivesse carteira ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3_lEo8iTlA8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3_lEo8iTlA8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3_lEo8iTlA8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Brasil de Fato",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-05-26T19:30:57Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "6Sgjr4DDydhoJHaKtomT2ovv8JY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Ms9SiNQTv7w"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-21T04:26:22Z",
-      "channelId": "UCieURY42yMNkFw6suHQeYBQ",
-      "title": "custom minecraft shouts #sus #short #shorts #minecraftmeme",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ms9SiNQTv7w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ms9SiNQTv7w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ms9SiNQTv7w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "miner tuber",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-21T04:26:22Z"
+      "publishTime": "2022-01-18T06:36:36Z"
     }
   },
   {
@@ -1633,70 +987,716 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "LH4CEG-Ns27WtAuT_hj1g9PyIW4",
+    "etag": "NWhtVV36pcefm3SRBHYle9eJJ0I",
     "id": {
       "kind": "youtube#video",
-      "videoId": "D9lnaILJuGc"
+      "videoId": "TtSJmJQfJhg"
     },
     "snippet": {
-      "publishedAt": "2019-05-14T18:34:20Z",
-      "channelId": "UCoGDzJkGOb2YfM-VQ9rJyMg",
-      "title": "Sistema \u00danico de Sa\u00fade: In\u00edcio do SUS - Leis 8080 e 8142",
-      "description": "A professora Camila Sanchez discorre sobre o in\u00edcio do SUS, mencionando a cria\u00e7\u00e3o das leis 8080 e 8142. Curtiu nosso v\u00eddeo?",
+      "publishedAt": "2021-03-25T14:47:07Z",
+      "channelId": "UCE44_IpvSrNMQhF1TLLUq2A",
+      "title": "mmm sus",
+      "description": "mmm cow but it's mmm amogus Discord: https://discord.gg/q3Mj3XzX93\u200b\u200b Hi, I am PepePeepo and i make meme videos daily!",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/D9lnaILJuGc/default.jpg",
+          "url": "https://i.ytimg.com/vi/TtSJmJQfJhg/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/D9lnaILJuGc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TtSJmJQfJhg/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/D9lnaILJuGc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TtSJmJQfJhg/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Jaleko Acad\u00eamicos",
+      "channelTitle": "PepePeepo",
       "liveBroadcastContent": "none",
-      "publishTime": "2019-05-14T18:34:20Z"
+      "publishTime": "2021-03-25T14:47:07Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Kb7vl25gHaA4FQ2uXd9PCQ_ykaY",
+    "etag": "ucJcaRH4Fj891fVssQ0GkjaZJBw",
     "id": {
       "kind": "youtube#video",
-      "videoId": "y3-lwNIpJOs"
+      "videoId": "jU0M9RP3sAc"
     },
     "snippet": {
-      "publishedAt": "2021-10-11T15:20:07Z",
-      "channelId": "UC7rWQG-gJg6AYInp5sLbQEA",
-      "title": "O PIETRO NASCEU \ud83d\udc76\ud83d\udc99PARTO NORMAL PELO SUS ( 39SEMANAS )",
-      "description": "Meu Instagram https://www.instagram.com/soniaalvessp/ #maternidade #partonormal #sus.",
+      "publishedAt": "2020-12-18T10:12:58Z",
+      "channelId": "UCzBBNKhXlIV2fmHW-HmF1jA",
+      "title": "When the imposter is SUS! \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\udc4c\ud83d\udc4c\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23LIKE AMONG US THE FUNNY GAME\ud83d\udc4c\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude02",
+      "description": "it was good at first but now its just kinda horrible.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/y3-lwNIpJOs/default.jpg",
+          "url": "https://i.ytimg.com/vi/jU0M9RP3sAc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/y3-lwNIpJOs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jU0M9RP3sAc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/y3-lwNIpJOs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jU0M9RP3sAc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "S\u00f4nia Alves",
+      "channelTitle": "LinkedJuggler",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-10-11T15:20:07Z"
+      "publishTime": "2020-12-18T10:12:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cR_mVB0qD4OuuzHqsoQ2Mxod6RA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_GKse_BCAWU"
+    },
+    "snippet": {
+      "publishedAt": "2014-04-11T18:37:11Z",
+      "channelId": "UCzVthHpKYLqsJqDmmTIoZNQ",
+      "title": "SUS - Sistema \u00danico de Sa\u00fade",
+      "description": "Este v\u00eddeo foi produzido pelo CIAR / UFG como ferramenta de apoio pedag\u00f3gico ao curso de Licenciatura em Ci\u00eancias ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_GKse_BCAWU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CIAR UFG",
+      "liveBroadcastContent": "none",
+      "publishTime": "2014-04-11T18:37:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Sueuloc6pqvLo4l7j1pZOMae2A4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dx46etw_-CQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-21T12:39:29Z",
+      "channelId": "UC8jCTABZF6txBY7tBlTqvLw",
+      "title": "TIK TOKS that are Extremely SUS (Not for Kids)\ud83d\ude20",
+      "description": "Shop Aesthetic Apparel: https://bit.ly/MarryAliceAestheticMerch Shop Dank Meme Apparel: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dx46etw_-CQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dx46etw_-CQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dx46etw_-CQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "MarryAlice",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-21T12:39:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9mKR4z6MDB05WDpo3tzaYa6o7Lw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qqRAKhjzxCQ"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-11T22:00:16Z",
+      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
+      "title": "SUS em Mapas com Natale Souza",
+      "description": "SUS em Mapas com Natale Souza In\u00edcio: 01:01 Material de Apoio: https://bit.ly/Sus_em_Mapas_Natale_Souza - Confira tamb\u00e9m ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qqRAKhjzxCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qqRAKhjzxCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qqRAKhjzxCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gran Cursos Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-11T22:00:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Yj_cy90rZWW7rCt1Wj1-gKQj7ts",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tqNCn6K020w"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-22T15:45:04Z",
+      "channelId": "UCXOAVXh-ztV2ziqcAEZzv4Q",
+      "title": "SUS cartoon moments",
+      "description": "meme #cartoon #SUSmoment #suscartoon #SUSmoments #memes #sus #suscartoons.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tqNCn6K020w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tqNCn6K020w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tqNCn6K020w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gchmch",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-22T15:45:04Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "XdmArN2ufWOFmyBBMdSAwALfNhE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "E09lo76Dv_I"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-11T23:02:51Z",
+      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
+      "title": "Quest\u00f5es de Alto N\u00edvel - Sa\u00fade P\u00fablica, Pol\u00edticas de Sa\u00fade e SUS com Natale Souza",
+      "description": "Quest\u00f5es de Alto N\u00edvel - Sa\u00fade P\u00fablica, Pol\u00edticas de Sa\u00fade e SUS com Natale Souza In\u00edcio: 00:22 Material de Apoio: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E09lo76Dv_I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gran Cursos Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-11T23:02:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "K2u0ZMEaRwYDrVH7_rA0bGXbEXw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-tRZTKKQFYI"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-01T04:53:02Z",
+      "channelId": "UCE35DWkNj7PpaecE8D2ZqaA",
+      "title": "sus minions 2",
+      "description": "sus minions 2 My roblox group link:https://web.roblox.com/groups/9545356/Catrain-playz-fan-group#!/about #susminions ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-tRZTKKQFYI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-tRZTKKQFYI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-tRZTKKQFYI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "sus minion",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-01T04:53:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IKx6hH4_ZfG6cWNNqZ4DcRHyjqw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "65pOa17oYeY"
+    },
+    "snippet": {
+      "publishedAt": "2021-07-03T21:05:29Z",
+      "channelId": "UCUZSCWf_u4Ojn5YK0AbcK2w",
+      "title": "SUS com Natale Souza  - Hist\u00f3ria das Pol\u00edticas de Sa\u00fade - Parte II com Natale Souza",
+      "description": "A Grande Retomada: Aproveite o MAIOR DESCONTO da nossa hist\u00f3ria.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/65pOa17oYeY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/65pOa17oYeY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/65pOa17oYeY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gran Cursos Sa\u00fade",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-07-03T21:05:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "CZIYcC5WoRr8s1bmDtV3L287Bq8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "0lgIUYggpls"
+    },
+    "snippet": {
+      "publishedAt": "2022-02-13T23:13:53Z",
+      "channelId": "UCKYKMQHUqAPH9TyGzjFiT3A",
+      "title": "Sr incr\u00edvel ficando SUS - meme sr incr\u00edvel (Sr incrivel)",
+      "description": "Sr incr\u00edvel ficando SUS Boi a noite Obrigado por chegar at\u00e9 aqui deixa o like ae namoralzin :) #srincrivel #sus #memesrincrivel ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0lgIUYggpls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0lgIUYggpls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0lgIUYggpls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jonzin",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-13T23:13:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "r6DJwfXh3L7p-lfImIf-raMhn_M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ImbMgkVbmZg"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-30T15:18:22Z",
+      "channelId": "UCGPCO1PVeWZ-egT6F2wKnaw",
+      "title": "O SUS DA TAXINHA REVELADO E O VERDADEIRO F( triste ;---;) |#escola #amor #sus #shorts",
+      "description": "O SUS DA TAXINHA REVELADO E O VERDADEIRO F( triste ;---;) |#escola #amor #sus #shorts Ativa o sininho da notifica\u00e7\u00e3o ou ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ImbMgkVbmZg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ImbMgkVbmZg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ImbMgkVbmZg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "O Victor Magalh\u00e3es",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-30T15:18:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZyV_Xw6FT-OkWiwbNRmwnrM_JMI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "znonrS1vyU8"
+    },
+    "snippet": {
+      "publishedAt": "2021-10-15T16:50:27Z",
+      "channelId": "UCGZy8uySf4UUlVt4qrV2V5g",
+      "title": "Eating only SUS foods for the whole day! #shorts #sus",
+      "description": "Instagram: @tommywinkler Snapchat: @tommy2910 Twitter: @tommy_winkler_ TikTok: @tommywinkler.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/znonrS1vyU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/znonrS1vyU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/znonrS1vyU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tommy Winkler",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-15T16:50:27Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mwRBbFLXkNuDombgEnXcOE_5p1A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xoXTo82hScQ"
+    },
+    "snippet": {
+      "publishedAt": "2019-04-06T22:49:53Z",
+      "channelId": "UCvNIq9u4Bba7L62Kdxe8k3g",
+      "title": "Entendendo o SUS - Princ\u00edpios Doutrin\u00e1rios",
+      "description": "\"N\u00e3o entendo nada de SUS\", \u00e9 uma das frases que mais ou\u00e7o dos alunos! Mas seus dias de d\u00favidas acabaram, people!!!! Saindo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xoXTo82hScQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Quero uma vaga na Enfermagem",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-04-06T22:49:53Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AQEvYAOmSd4OULltlycsgZ1mkPk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5oSOB5ygDOE"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-29T05:26:14Z",
+      "channelId": "UC3dlmqP77Ix-u9wVrAnmKCQ",
+      "title": "Vohrrr Sus Tiktok Complication Part 3",
+      "description": "https://glowupleds.com/collections/led-strip-lighting/products/glow-up-smart-led-strip-smartphone-wifi-controls?ref= ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5oSOB5ygDOE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5oSOB5ygDOE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5oSOB5ygDOE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tiktok Nerd",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-29T05:26:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "MCk6xIzRaDbdMI2L6HLVbfVfeRE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8hxLhlUrInU"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-23T18:16:33Z",
+      "channelId": "UCOjc2LTXq55J0HNUMvNhvYw",
+      "title": "memes that are sus",
+      "description": "Enjoy watching these funny memes. Try not to laugh as you watch these weekly dank videos. Like the video and Subscribe for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8hxLhlUrInU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8hxLhlUrInU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8hxLhlUrInU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "MemerMan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-23T18:16:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UsxHIETxFkKTNrGGM_-kmD2n3CA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "WRfZ9PsW6gY"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-30T19:00:09Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "DRAUZIO VARELLA: &quot;SE N\u00d3S N\u00c3O TIV\u00c9SSEMOS O SUS, SERIA BARB\u00c1RIE&quot; | SCHWARZA NA MOV",
+      "description": "Com a pandemia do coronav\u00edrus, estamos vendo o sistema de sa\u00fade brasileiro e ao redor do mundo ficar sobrecarregado.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WRfZ9PsW6gY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UOL",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-30T19:00:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "RLf1IUT-MTZV8mHDmNfZ_Vqcmro",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BHViOa0Wqb0"
+    },
+    "snippet": {
+      "publishedAt": "2022-05-29T21:39:44Z",
+      "channelId": "UC9NMy24YEZh20S38jFZAcNg",
+      "title": "when you have allergies #meme #tiktok #animated #shorts #animation #artmeme #viral #sus #funnyvideo",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BHViOa0Wqb0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BHViOa0Wqb0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BHViOa0Wqb0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Peppers Animations",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-05-29T21:39:44Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lUye2BG5RbGf7xibt46M_CP2UHs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wofij4Zc9nM"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-11T09:35:09Z",
+      "channelId": "UCKLiYw0x9PJ3afetCjdq_rA",
+      "title": "SUS - Sound Effect",
+      "description": "SUS #AMOGUS AMOGUS is SUS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wofij4Zc9nM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wofij4Zc9nM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wofij4Zc9nM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "REY MO",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-11T09:35:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qenCNKefRjE3_vHM48x8NkZ5eh4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "sC8wzo_EHhU"
+    },
+    "snippet": {
+      "publishedAt": "2019-05-21T23:14:37Z",
+      "channelId": "UC7p_rNpzJmlIQp2xFMMtk_g",
+      "title": "Qual a import\u00e2ncia da Lei 8.142/90 para o SUS?",
+      "description": "A lei 8.142/90 \u00e9 complementar a Lei 8.080/90. Ela normatiza como deve ser acontecer as transfer\u00eancias de recursos financeiros ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sC8wzo_EHhU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "seriesus",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-05-21T23:14:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ogvtJvH7pz_8p5QO-uM-lEILSUE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xqkPexqq9nk"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-18T13:00:29Z",
+      "channelId": "UC8IbAhPglJ1OeC44A_Gtmqg",
+      "title": "PRINC\u00cdPIOS ORGANIZATIVOS DO SUS",
+      "description": "ENFERMUNDO #ENFERMAGEM #SUS Ol\u00e1 equipe! Sejam bem-vindos novamente ao Enfermundo! Nessa aula vamos falar ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xqkPexqq9nk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Enfermundo - O mundo da enfermagem",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-18T13:00:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "EllVz1UAsw66ixMgCpH2_6c2qi4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JhmtMsV2coY"
+    },
+    "snippet": {
+      "publishedAt": "2020-07-20T18:47:11Z",
+      "channelId": "UCQjVM9M1rvPjiidoqTQ0z8g",
+      "title": "COMO EMITIR O CART\u00c3O DO SUS PELA INTERNET",
+      "description": "Caso voc\u00ea necessite emitir seu Cart\u00e3o do SUS e n\u00e3o pode ir at\u00e9 uma unidade da Secretaria de Sa\u00fade do seu Munic\u00edpio, saiba ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JhmtMsV2coY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Emerson Carvalho - PontoCanal",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-20T18:47:11Z"
     }
   }
 ]

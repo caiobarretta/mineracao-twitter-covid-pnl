@@ -1,6 +1,40 @@
 [
   {
     "kind": "youtube#searchResult",
+    "etag": "ggxbG7kHFFOsL6RzrXND871nVEE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mHWoUs--0Do"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-27T11:18:28Z",
+      "channelId": "UC4MWeXk20bRyIGQsiZXPe6Q",
+      "title": "COVID 19 - CORONAVI\u0301RUS | S\u00c9RIE SA\u00daDE BRASIL",
+      "description": "O ano de 2020 n\u00e3o ser\u00e1 esquecido na hist\u00f3ria da humanidade. Tudo por causa do surgimento de um v\u00edrus que tem vitimado ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Tv Sa\u00fade Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-27T11:18:28Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "72CpeAdINkK3hcoI8gnB3NTQd_I",
     "id": {
       "kind": "youtube#video",
@@ -35,70 +69,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "37-UJb_tv68aYiXGTT-DoJ4587c",
+    "etag": "8-EEVkjr0UZCUuJAHE9a2NDtHmc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "7CjBOajCSD4"
+      "videoId": "WnNENLMyqfA"
     },
     "snippet": {
-      "publishedAt": "2021-11-24T21:00:02Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Covid-19: como se determina o fim de uma pandemia",
-      "description": "A not\u00edcia de que S\u00e3o Paulo e outros oito Estados n\u00e3o registraram nenhuma morte por covid-19 foi recebida com muita ...",
+      "publishedAt": "2020-07-08T20:35:14Z",
+      "channelId": "UC1776BaMxEfOYH19UhsQ5Vw",
+      "title": "A pandemia do coronav\u00edrus | UNICEF Brasil",
+      "description": "Todo mundo j\u00e1 ouviu falar do novo coronav\u00edrus, mas voc\u00ea sabe o que \u00e9 uma pandemia e como voc\u00ea pode contribuir ativamente ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/default.jpg",
+          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WnNENLMyqfA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "BBC News Brasil",
+      "channelTitle": "UNICEF Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-11-24T21:00:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ggxbG7kHFFOsL6RzrXND871nVEE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "mHWoUs--0Do"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-27T11:18:28Z",
-      "channelId": "UC4MWeXk20bRyIGQsiZXPe6Q",
-      "title": "COVID 19 - CORONAVI\u0301RUS | S\u00c9RIE SA\u00daDE BRASIL",
-      "description": "O ano de 2020 n\u00e3o ser\u00e1 esquecido na hist\u00f3ria da humanidade. Tudo por causa do surgimento de um v\u00edrus que tem vitimado ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mHWoUs--0Do/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Tv Sa\u00fade Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-27T11:18:28Z"
+      "publishTime": "2020-07-08T20:35:14Z"
     }
   },
   {
@@ -171,41 +171,75 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ZPKbd5BgMtDs3al5jRHJb0SXSeo",
+    "etag": "H1jqtdDOlrbWhWUrrI0-8wzuwVc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "KJ4evTcrJSQ"
+      "videoId": "ZEzVvj8X0J8"
     },
     "snippet": {
-      "publishedAt": "2022-03-14T21:00:07Z",
-      "channelId": "UCOnuheHbS2DgZiAZFL0-Sbg",
-      "title": "China: surto de covid-19 mais grave desde o in\u00edcio da pandemia",
-      "description": "Na China, o aumento de casos de covid faz com que autoridades adotem medidas de confinamento e autorizem a venda de ...",
+      "publishedAt": "2021-11-26T21:49:56Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Covid: por que variante detectada na \u00c1frica do Sul pode ser &#39;pior j\u00e1 existente&#39;",
+      "description": "Uma nova variante do coronav\u00edrus detectada na \u00c1frica do Sul foi classificada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) como ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Brasil de Fato",
+      "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-03-14T21:00:07Z"
+      "publishTime": "2021-11-26T21:49:56Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "FVZ74QC9MNQ1WlRhY0YEXcnl1Cg",
+    "etag": "fJY-v8V1y2ArdwXWIeedRKMAhXo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "YwUu1aXWY7w"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-02T00:58:55Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Diretora-Geral da OMS diz que pandemia da Covid-19 n\u00e3o ir\u00e1 acabar 2022",
+      "description": "Em entrevista exclusiva ao #JornaldaCultura, Mari\u00e2ngela Sim\u00e3o, diretora-geral assistente da OMS diz que a pandemia n\u00e3o ir\u00e1 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YwUu1aXWY7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornalismo TV Cultura",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-02T00:58:55Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "81MNx62L3CTUmYhO_gjJJjsOVJU",
     "id": {
       "kind": "youtube#video",
       "videoId": "Kuj0TFj_e0U"
@@ -239,36 +273,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Vs6hiB59LeU8gUqb4hVGK4S8li4",
+    "etag": "37-UJb_tv68aYiXGTT-DoJ4587c",
     "id": {
       "kind": "youtube#video",
-      "videoId": "FvAUHiejE_Y"
+      "videoId": "7CjBOajCSD4"
     },
     "snippet": {
-      "publishedAt": "2022-04-13T14:34:43Z",
-      "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
-      "title": "Covid-19: Xangai vive a pior vaga desde o in\u00edcio da pandemia",
-      "description": "Xangai, a cidade mais rica da China, enfrenta a pior vaga de infe\u00e7\u00f5es por Sars-CoV2 desde o in\u00edcio da pandemia. H\u00e1 26 milh\u00f5es ...",
+      "publishedAt": "2021-11-24T21:00:02Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Covid-19: como se determina o fim de uma pandemia",
+      "description": "A not\u00edcia de que S\u00e3o Paulo e outros oito Estados n\u00e3o registraram nenhuma morte por covid-19 foi recebida com muita ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/FvAUHiejE_Y/default.jpg",
+          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/FvAUHiejE_Y/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/FvAUHiejE_Y/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7CjBOajCSD4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "euronews (em portugu\u00eas)",
+      "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-04-13T14:34:43Z"
+      "publishTime": "2021-11-24T21:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qK7BZoiPtdYHXaos6gGtTF3LeWQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "V15mqi3dWF4"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-10T19:00:09Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "COVID-19: O QUE \u00c9 O CORONAV\u00cdRUS E COMO ELE SURGIU | SCHWARZA",
+      "description": "Schwarza explica como surgiu o novo coronav\u00edrus e de que forma ele age. Confira! #Coronav\u00edrus #Pandemia #Covid19 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V15mqi3dWF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UOL",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-10T19:00:09Z"
     }
   },
   {
@@ -307,104 +375,308 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "VHBH0FSNYvvEV2nCa9-hb-jOWz8",
+    "etag": "VB8Oo-FP0p97GcfOMzqribBB3no",
     "id": {
       "kind": "youtube#video",
-      "videoId": "lItkCrbZhaE"
+      "videoId": "gJGX-4IgXvQ"
     },
     "snippet": {
-      "publishedAt": "2020-04-27T19:41:40Z",
+      "publishedAt": "2022-01-19T21:57:42Z",
       "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Coronav\u00edrus: impressionantes imagens de um mundo em quarentena visto de cima",
-      "description": "Para conter a pandemia causada pelo novo coronav\u00edrus, cerca de metade da popula\u00e7\u00e3o mundial vive hoje sob medidas de ...",
+      "title": "\u00d4micron \u00e9 fim da pandemia ou colapso dos hospitais? As inc\u00f3gnitas da variante",
+      "description": "A variante \u00f4micron do coronav\u00edrus gerou grande preocupa\u00e7\u00e3o por seu potencial de alastramento. Mas as observa\u00e7\u00f5es de que ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/default.jpg",
+          "url": "https://i.ytimg.com/vi/gJGX-4IgXvQ/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gJGX-4IgXvQ/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gJGX-4IgXvQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-04-27T19:41:40Z"
+      "publishTime": "2022-01-19T21:57:42Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "H1jqtdDOlrbWhWUrrI0-8wzuwVc",
+    "etag": "rK6QLNEVRNxf0PlU51r7gC9Uvkw",
     "id": {
       "kind": "youtube#video",
-      "videoId": "ZEzVvj8X0J8"
+      "videoId": "Wvzvp0HHu08"
     },
     "snippet": {
-      "publishedAt": "2021-11-26T21:49:56Z",
-      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
-      "title": "Covid: por que variante detectada na \u00c1frica do Sul pode ser &#39;pior j\u00e1 existente&#39;",
-      "description": "Uma nova variante do coronav\u00edrus detectada na \u00c1frica do Sul foi classificada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) como ...",
+      "publishedAt": "2020-12-23T11:00:21Z",
+      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+      "title": "Retrospectiva 2020: covid-19, a doen\u00e7a que paralisou a economia",
+      "description": "A pandemia obrigou governos de muitos pa\u00edses a tomar medidas radicais, como o confinamento da popula\u00e7\u00e3o, para evitar a ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/default.jpg",
+          "url": "https://i.ytimg.com/vi/Wvzvp0HHu08/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Wvzvp0HHu08/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZEzVvj8X0J8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Wvzvp0HHu08/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "UOL",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-12-23T11:00:21Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_vzgmiV2WjEgqTQ-Bhj0osZ8sVY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Le7jNJXSMlY"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-22T01:24:52Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Quando a pandemia vai acabar? Especialistas respondem as principais quest\u00f5es sobre a Covid-19",
+      "description": "O #JornaldaCultura foi as ruas para levantar as principais d\u00favidas da popula\u00e7\u00e3o sobre a pandemia da Covid-19. Especialistas ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Le7jNJXSMlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Le7jNJXSMlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Le7jNJXSMlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornalismo TV Cultura",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-22T01:24:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NRvnYJkLmUrC7E_ztgGplc1AT7U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rdgWewV54Wc"
+    },
+    "snippet": {
+      "publishedAt": "2020-09-18T13:00:29Z",
+      "channelId": "UCfFw6wqd0GfHOp0R2fv8U1Q",
+      "title": "COVID | Quando a pandemia do coronav\u00edrus vai acabar?",
+      "description": "O que todo mundo quer saber \u00e9 quando a pandemia de COVID19 vai acabar. Talvez a quest\u00e3o mais importante seja como ela ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rdgWewV54Wc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rdgWewV54Wc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rdgWewV54Wc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dr. Felipe Ades MD PhD",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-09-18T13:00:29Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZPKbd5BgMtDs3al5jRHJb0SXSeo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KJ4evTcrJSQ"
+    },
+    "snippet": {
+      "publishedAt": "2022-03-14T21:00:07Z",
+      "channelId": "UCOnuheHbS2DgZiAZFL0-Sbg",
+      "title": "China: surto de covid-19 mais grave desde o in\u00edcio da pandemia",
+      "description": "Na China, o aumento de casos de covid faz com que autoridades adotem medidas de confinamento e autorizem a venda de ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KJ4evTcrJSQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Brasil de Fato",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-14T21:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6OiuhgpOkex2824-LxYitslIaBE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hxZpWYwNo5M"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-12T00:39:21Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Coronav\u00edrus: o que significa a OMS declarar pandemia da nova doen\u00e7a",
+      "description": "Neste v\u00eddeo, a rep\u00f3rter Camilla Veras Mota, da BBC News Brasil, explica o que \u00e9 uma pandemia e o que representa a ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hxZpWYwNo5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hxZpWYwNo5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hxZpWYwNo5M/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-11-26T21:49:56Z"
+      "publishTime": "2020-03-12T00:39:21Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ZQGqi7dKTnOVand3H0XuoD5MQOo",
+    "etag": "-kINiVrso2Hp1v-b-L7Dj9tDIKE",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Jnm7vnqOgfE"
+      "videoId": "gFq-aX1E4l0"
     },
     "snippet": {
-      "publishedAt": "2022-02-11T18:08:16Z",
-      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "OMS aletra que pandemia do novo coronav\u00edrus n\u00e3o est\u00e1 no fim | LIVE CNN",
-      "description": "A cientista-chefe da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Soumya Swaminathan, disse nesta sexta-feira (11) que o mundo ...",
+      "publishedAt": "2021-04-27T21:30:11Z",
+      "channelId": "UCw7Scb4p32TrLWnzzhOIEOQ",
+      "title": "CORONAV\u00cdRUS EM 2003\u2502COMO FOI A PRIMEIRA EPIDEMIA? HIST\u00d3RIA DA SARS",
+      "description": "Neste v\u00eddeo eu te explico em detalhes como foi a Epidemia por Coronav\u00edrus ocorrida em 2003. Na oportunidade, a doen\u00e7a foi ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Jnm7vnqOgfE/default.jpg",
+          "url": "https://i.ytimg.com/vi/gFq-aX1E4l0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Jnm7vnqOgfE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gFq-aX1E4l0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Jnm7vnqOgfE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gFq-aX1E4l0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CNN Brasil",
+      "channelTitle": "DescomplicaMais",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-02-11T18:08:16Z"
+      "publishTime": "2021-04-27T21:30:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "S5DHctrergbNlDDy5cUIsSpJMh8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UeQyLgn_M2c"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-20T16:00:06Z",
+      "channelId": "UCYKeu41LiJOIoyEkStWqCLw",
+      "title": "O que \u00e9 coronav\u00edrus?  - Preven\u00e7\u00e3o e dicas para crian\u00e7as - COVID-19",
+      "description": "V\u00eddeo educativo para crian\u00e7as com o qual podem aprender o que \u00e9 o coronav\u00edrus e que medidas podem seguir para se ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UeQyLgn_M2c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UeQyLgn_M2c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UeQyLgn_M2c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Smile and Learn - Portugu\u00eas",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-20T16:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZFs0C3oCWtoOjRUOefAENOSiSwA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "B50e1shPp8g"
+    },
+    "snippet": {
+      "publishedAt": "2022-04-17T00:50:08Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "China vive novo surto de Covid-19 e v\u00ea casos aumentando mesmo com medidas restritivas",
+      "description": "A cidade de Xangai, a mais populosa do pa\u00eds, registrou recorde de casos em um \u00fanico dia. Mesmo o governo adotando ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B50e1shPp8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B50e1shPp8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B50e1shPp8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornalismo TV Cultura",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-17T00:50:08Z"
     }
   },
   {
@@ -443,36 +715,138 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "FFnNEAfoM57c4IIL2aG7EmgdeRg",
+    "etag": "ABHT1Z35yjk9bpWoteOy9u35gxk",
     "id": {
       "kind": "youtube#video",
-      "videoId": "EM0voDeMO9E"
+      "videoId": "UOkA2sBugf8"
     },
     "snippet": {
-      "publishedAt": "2021-04-22T21:16:24Z",
-      "channelId": "UC7tOeqLpmCejyymIyZlrWNQ",
-      "title": "Covid-19 \u2013 Tudo sobre coronav\u00edrus, como se proteger e enfrentar a pandemia",
-      "description": "A Covid-19 ainda tem muitas inc\u00f3gnitas, mas o mundo j\u00e1 aprendeu bastante com a pandemia. O HCor reuniu o m\u00e1ximo de ...",
+      "publishedAt": "2020-04-12T15:53:02Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Coronav\u00edrus: 5 poss\u00edveis efeitos negativos da pandemia no meio ambiente",
+      "description": "Imagens de lugares com menos polui\u00e7\u00e3o t\u00eam circulado no mundo, dando uma certa esperan\u00e7a de que a pandemia global do ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EM0voDeMO9E/default.jpg",
+          "url": "https://i.ytimg.com/vi/UOkA2sBugf8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EM0voDeMO9E/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UOkA2sBugf8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EM0voDeMO9E/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UOkA2sBugf8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Hcor",
+      "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-04-22T21:16:24Z"
+      "publishTime": "2020-04-12T15:53:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xlpn1t3A3x5ChZllZnsHSvEAuwo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_kbm0KZGLgY"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-23T01:31:45Z",
+      "channelId": "UCdLt2OhiWNLRsGNF-0DE4-A",
+      "title": "CORONAV\u00cdRUS - UMA PANDEMIA QUE EXIGE CONSCI\u00caNCIA",
+      "description": "CORONAV\u00cdRUS - A IMPORT\u00c2NCIA DA CI\u00caNCIA CONTRA A PANDEMIA O que podemos fazer contra essa pandemia que ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_kbm0KZGLgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_kbm0KZGLgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_kbm0KZGLgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Biologia com Samuel Cunha",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-23T01:31:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BP4nm7n6hRmGm1nThyh0IsEkPyg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "od-ORw3gO5g"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-02T02:40:42Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Opini\u00e3o | O impacto psicol\u00f3gico da pandemia de coronav\u00edrus | 01/04/2020",
+      "description": "A pandemia do Covid-19 vem mexendo com a vida e a rotina de cidad\u00e3os de todo o mundo. Diversos pa\u00edses, incluindo o Brasil, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/od-ORw3gO5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/od-ORw3gO5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/od-ORw3gO5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornalismo TV Cultura",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-02T02:40:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "kVm1khmbX1aOod6lZeO_2eseZQ8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "189hYByEGC4"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-14T11:45:19Z",
+      "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
+      "title": "Coronav\u00edrus: facetas da sa\u00fade, pol\u00edtica e economia",
+      "description": "Este mini document\u00e1rio mostra o in\u00edcio da covid-19 na China at\u00e9 sua chegada ao Brasil. Aspectos infectol\u00f3gicos, pol\u00edticos e ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/189hYByEGC4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/189hYByEGC4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/189hYByEGC4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Estad\u00e3o",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-14T11:45:19Z"
     }
   },
   {
@@ -511,376 +885,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "gdpvAkLjWIt87VCv2wQoNmbymr8",
+    "etag": "gFVgcqoccJG2G8KjamNindZhnCI",
     "id": {
       "kind": "youtube#video",
-      "videoId": "hOubJaN07-8"
+      "videoId": "lItkCrbZhaE"
     },
     "snippet": {
-      "publishedAt": "2022-01-15T12:19:06Z",
-      "channelId": "UCC1_Drela_P4MAW8pPcdjSw",
-      "title": "COVID-19 \u00d4MICRON : FIM DA PANDEMIA EM 2022",
-      "description": "WHO: 2022 can mark the end of COVID https://news.un.org/en/story/2021/12/1108932 Nossas M\u00eddias Sociais Blog: ...",
+      "publishedAt": "2020-04-27T19:41:40Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Coronav\u00edrus: impressionantes imagens de um mundo em quarentena visto de cima",
+      "description": "Para conter a pandemia causada pelo novo coronav\u00edrus, cerca de metade da popula\u00e7\u00e3o mundial vive hoje sob medidas de ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hOubJaN07-8/default.jpg",
+          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hOubJaN07-8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hOubJaN07-8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lItkCrbZhaE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Julio Pereira - Neurocirurgi\u00e3o",
+      "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-15T12:19:06Z"
+      "publishTime": "2020-04-27T19:41:40Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TurdQtAB1t8eD2rU-bJtHkakK8k",
+    "etag": "r1Ix0zetJlehqKj-vfaV1hFNJns",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Ap-WkLYrqUw"
+      "videoId": "-pKfXE8EMmw"
     },
     "snippet": {
-      "publishedAt": "2020-06-20T01:02:57Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "Retrospectiva da Covid-19 no Brasil: 1 milh\u00e3o de casos em quatro meses",
-      "description": "O Brasil bateu a triste marca de 1 milh\u00e3o de casos confirmados de Covid-19. E amanh\u00e3 deve alcan\u00e7ar tamb\u00e9m o n\u00famero de 50 ...",
+      "publishedAt": "2020-01-30T14:26:33Z",
+      "channelId": "UCLHicFZpTSMhdZXYjRIcGtw",
+      "title": "Coronav\u00edrus: SARS documentario",
+      "description": "Coronav\u00edrus: SARS document\u00e1rio. Quer saber mais sobre nossos cursos de p\u00f3s gradua\u00e7\u00e3o: - MBA Gest\u00e3o em Sa\u00fade e Controle ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/default.jpg",
+          "url": "https://i.ytimg.com/vi/-pKfXE8EMmw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-pKfXE8EMmw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-pKfXE8EMmw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Jornalismo TV Cultura",
+      "channelTitle": "CCIH Cursos MBA",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-06-20T01:02:57Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "bhDWXgKicEH9s-434mVGP1zcjHE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "jgXUKAnDJ00"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-13T17:30:03Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "NOVO SURTO DE COVID NA EUROPA E CHINA: O QUE EST\u00c1 ACONTECENDO",
-      "description": "Por que a Europa e a China vivem novo surto de COVID? Mesmo com as taxas de vacina\u00e7\u00e3o em alta, a Europa est\u00e1 sofrendo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jgXUKAnDJ00/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-13T17:30:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "C5hg-FPVJC-xH5DjdTdwLK2Per4",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "vRocWIpExSs"
-    },
-    "snippet": {
-      "publishedAt": "2022-04-18T00:15:24Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Queiroga anuncia o fim da emerg\u00eancia sanit\u00e1ria de Covid no Brasil; veja pronunciamento",
-      "description": "O ministro da Sa\u00fade, Marcelo Queiroga, disse na noite deste domingo (17), em cadeia de r\u00e1dio e TV, que o governo ir\u00e1 publicar ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vRocWIpExSs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vRocWIpExSs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vRocWIpExSs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "UOL",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-04-18T00:15:24Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "cL8f2-cG2EE6dnrE_9yyrqbqXgg",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "DQ3WhStJed8"
-    },
-    "snippet": {
-      "publishedAt": "2021-09-28T19:48:07Z",
-      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
-      "title": "Quando a pandemia vai acabar? CEO da Pfizer responde",
-      "description": "Depois de 18 intensos meses de pandemia, o assunto de quase todas as nossas conversas acaba sendo o mesmo: quando tudo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DQ3WhStJed8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DQ3WhStJed8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DQ3WhStJed8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "exame",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-09-28T19:48:07Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "OxqrFgeZ_n7JJ5FqAfsBlhSfDZo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Gn9g3NxjTBY"
-    },
-    "snippet": {
-      "publishedAt": "2020-02-27T00:34:56Z",
-      "channelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
-      "title": "Confirmado primeiro caso de covid-19 no Brasil",
-      "description": "26.02.2020 - O homem de 61 anos mora em S\u00e3o Paulo e esteve na It\u00e1lia recentemente. Ele est\u00e1 em isolamento domiciliar.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gn9g3NxjTBY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gn9g3NxjTBY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gn9g3NxjTBY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TV BrasilGov",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-02-27T00:34:56Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "xEfEl7MtKSxmkeIc6Xw_xS2OIvA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "sxHOOhVP5v4"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-22T23:33:22Z",
-      "channelId": "UC-6xqzMBF2CXTImn_a4aCVg",
-      "title": "Novo coronav\u00edrus j\u00e1 matou dezenas de pessoas e pode chegar ao Brasil",
-      "description": "Uma pneumonia de causa desconhecida provocada por um coronav\u00edrus come\u00e7ou a se espalhar por uma cidade da China no fim ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Jornal O Globo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-22T23:33:22Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "0WhUqOjtn7EtmSFuOWPGeQhEnXQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "uzYVpe9PJtg"
-    },
-    "snippet": {
-      "publishedAt": "2020-12-22T22:22:39Z",
-      "channelId": "UCVrKQMmA2ew9LFzeIDaOFgw",
-      "title": "Veja a primeira reportagem sobre a retrospectiva 2020: A pandemia",
-      "description": "Com 2020 chegando ao fim, a gente come\u00e7a a exibir a partir de hoje, a retrospectiva do ano. L\u00e1 em janeiro, a gente fazia um ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uzYVpe9PJtg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uzYVpe9PJtg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uzYVpe9PJtg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "TV Can\u00e7\u00e3o Nova",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-12-22T22:22:39Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "IP2BnJh2dCJWYE2el9VIhie8o9A",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "PZ59GWULgSE"
-    },
-    "snippet": {
-      "publishedAt": "2022-04-15T23:45:03Z",
-      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-      "title": "Entenda o atual cen\u00e1rio da pandemia",
-      "description": "O n\u00famero de novos casos de Covid-19 no mundo diminuiu pela terceira semana consecutiva. A redu\u00e7\u00e3o foi de 24% em ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PZ59GWULgSE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PZ59GWULgSE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PZ59GWULgSE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Record News",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-04-15T23:45:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "lOx0qGX1PmPAo1L0XAdSHrHzXZM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "pridTCJ0kHk"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-12T20:54:19Z",
-      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "Coreia do Norte decreta lockdown para conter a Covid-19 | CNN 360\u00ba",
-      "description": "Mais de dois anos ap\u00f3s o in\u00edcio da pandemia de Covid-19, a Coreia do Norte confirmou, nesta quinta-feira (12), o primeiro surto ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pridTCJ0kHk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pridTCJ0kHk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pridTCJ0kHk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CNN Brasil",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-12T20:54:19Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "OzHrp2fbEt9A9vXIRZhasffQI-o",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "XQHq2jPG2bY"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-09T13:35:04Z",
-      "channelId": "UCC1_Drela_P4MAW8pPcdjSw",
-      "title": "COVID-19: TODA PANDEMIA ACABA! O FIM EST\u00c1 PR\u00d3XIMO DESTA !!",
-      "description": "Nossas M\u00eddias Sociais Blog: http://www.neurocirurgiabr.com Instagram: http://www.instagram.com/neurocirurgiabr Twitter: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XQHq2jPG2bY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XQHq2jPG2bY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XQHq2jPG2bY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Julio Pereira - Neurocirurgi\u00e3o",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-09T13:35:04Z"
+      "publishTime": "2020-01-30T14:26:33Z"
     }
   },
   {
@@ -919,784 +987,716 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "hK_wJjXG9Oos0TrIZFQQeEuVqR8",
+    "etag": "Y9lw8wNjnxDQTSZVpHvKk1D_aDU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "NMre6IAAAiU"
+      "videoId": "haBbtpNEyE8"
     },
     "snippet": {
-      "publishedAt": "2020-04-17T12:57:56Z",
-      "channelId": "UCDGiCfCZIV5phsoGiPwIcyQ",
-      "title": "[LIVE] Coronavirus Pandemic: Real Time Dashboard, World Maps, Charts, News",
-      "description": "Coronavirus Live Streaming: Breaking news, world Map and live counter on total cases, death, recovered cases and vaccine ...",
+      "publishedAt": "2020-04-03T23:32:29Z",
+      "channelId": "UCSv9d0kQegylHWpP83jWSQg",
+      "title": "Veja a situa\u00e7\u00e3o da pandemia do coronav\u00edrus pelo mundo",
+      "description": "O n\u00famero de casos confirmados \u00e9 de quase 1,1milh\u00e3o e um quarto desses casos est\u00e1 nos Estados Unidos, que lidera essa lista.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NMre6IAAAiU/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/haBbtpNEyE8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NMre6IAAAiU/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/haBbtpNEyE8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NMre6IAAAiU/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/haBbtpNEyE8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Roylab Stats",
-      "liveBroadcastContent": "live",
-      "publishTime": "2020-04-17T12:57:56Z"
+      "channelTitle": "TV Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-03T23:32:29Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "lZtg0BlenF6ThUXysJV7ij3IiXc",
+    "etag": "xEfEl7MtKSxmkeIc6Xw_xS2OIvA",
     "id": {
       "kind": "youtube#video",
-      "videoId": "bVLUNSB7WP8"
+      "videoId": "sxHOOhVP5v4"
     },
     "snippet": {
-      "publishedAt": "2022-03-17T18:17:51Z",
-      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
-      "title": "Organiza\u00e7\u00e3o Mundial de Sa\u00fade alerta que pandemia ainda n\u00e3o acabou",
-      "description": "O aumento das infec\u00e7\u00f5es por covid-19 em v\u00e1rias partes do mundo \u00e9 \"uma advert\u00eancia\" para as Am\u00e9ricas de que o v\u00edrus n\u00e3o est\u00e1 ...",
+      "publishedAt": "2020-01-22T23:33:22Z",
+      "channelId": "UC-6xqzMBF2CXTImn_a4aCVg",
+      "title": "Novo coronav\u00edrus j\u00e1 matou dezenas de pessoas e pode chegar ao Brasil",
+      "description": "Uma pneumonia de causa desconhecida provocada por um coronav\u00edrus come\u00e7ou a se espalhar por uma cidade da China no fim ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bVLUNSB7WP8/default.jpg",
+          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bVLUNSB7WP8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bVLUNSB7WP8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sxHOOhVP5v4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jornal O Globo",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-22T23:33:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "FQ_56zCAjJVmnE7b7ixXaMgFT8s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "-y7e2kRv1lo"
+    },
+    "snippet": {
+      "publishedAt": "2020-10-17T14:00:01Z",
+      "channelId": "UCwqyQLi2oCU7VIAqnC2rzfQ",
+      "title": "Quando a pandemia do novo coronav\u00edrus vai acabar?",
+      "description": "Ap\u00f3s mais de seis meses de distanciamento social, voc\u00ea provavelmente deve estar se perguntando quando a pandemia do novo ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-y7e2kRv1lo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-y7e2kRv1lo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-y7e2kRv1lo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Showmetech",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-10-17T14:00:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BKbu-emZbrEI0t6DEOrUKSM2OdI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T_kl-EMGkOw"
+    },
+    "snippet": {
+      "publishedAt": "2020-05-02T13:20:51Z",
+      "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
+      "title": "Bolsonaro e o coronav\u00edrus: veja falas do presidente sobre a pandemia",
+      "description": "\"Histeria\" e \"gripezinha\" est\u00e3o entre as rea\u00e7\u00f5es do presidente Jair Bolsonaro \u00e0 pandemia de covid-19. Desde o in\u00edcio da crise, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T_kl-EMGkOw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T_kl-EMGkOw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T_kl-EMGkOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Estad\u00e3o",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-05-02T13:20:51Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8reuIOaRbgafe2suQRdk4VnbnuE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5NJaUIHtwOo"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-20T16:12:33Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Cronologia: de pneumonia misteriosa a mais de 150 mil mortes por covid-19",
+      "description": "Este v\u00eddeo, produzido pela BBC News Brasil, apresenta uma cronologia da maior crise de sa\u00fade enfrentada pelo mundo em um ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5NJaUIHtwOo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5NJaUIHtwOo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5NJaUIHtwOo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BBC News Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-20T16:12:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "OwNa1tR2c_uCzkUczGNh6N7npbU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "e-JaQOeFxtI"
+    },
+    "snippet": {
+      "publishedAt": "2020-02-06T14:33:37Z",
+      "channelId": "UClu474HMt895mVxZdlIHXEA",
+      "title": "O que \u00e9 o Coronav\u00edrus? | Nerdologia",
+      "description": "No Nerdologia de hoje, vamos entender o que \u00e9 o Coronav\u00edrus e o qu\u00e3o preocupante ele \u00e9. Apresenta\u00e7\u00e3o e Roteiro \u00c1tila ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e-JaQOeFxtI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e-JaQOeFxtI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e-JaQOeFxtI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Nerdologia",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-02-06T14:33:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AV6XokVleHb8VlA0-JD2phn7FW4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ap-WkLYrqUw"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-20T01:02:57Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Retrospectiva da Covid-19 no Brasil: 1 milh\u00e3o de casos em quatro meses",
+      "description": "O Brasil bateu a triste marca de 1 milh\u00e3o de casos confirmados de Covid-19. E amanh\u00e3 deve alcan\u00e7ar tamb\u00e9m o n\u00famero de 50 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ap-WkLYrqUw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Jornalismo TV Cultura",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-03-17T18:17:51Z"
+      "publishTime": "2020-06-20T01:02:57Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ta5ZSoG6fvIZbp39WTqBh9WZ2LU",
+    "etag": "vCFDbW7KVcxYvRGsFj2IVCx5WPU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "q6OiWbFG5pE"
+      "videoId": "sTPTBHs4oKs"
     },
     "snippet": {
-      "publishedAt": "2022-01-04T18:24:39Z",
-      "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
-      "title": "&quot;\u00d4micron pode ser in\u00edcio do fim da pandemia&quot;, diz a pneumologista Margareth Dalcomo",
-      "description": "Uma luz no fim do t\u00fanel. \u00c9 poss\u00edvel que a variante \u00f4micron seja o come\u00e7o do controle da pandemia de Covid-19. A afirma\u00e7\u00e3o \u00e9 ...",
+      "publishedAt": "2020-05-04T21:57:16Z",
+      "channelId": "UC12zKGLhMhDeDidoctM6BrA",
+      "title": "Idosos durante a pandemia de coronav\u00edrus",
+      "description": "Durante a pandemia de #coronavirus, pessoas idosas, principalmente aquelas que sofrem com condi\u00e7\u00f5es como a dem\u00eancia, ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/q6OiWbFG5pE/default.jpg",
+          "url": "https://i.ytimg.com/vi/sTPTBHs4oKs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/q6OiWbFG5pE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sTPTBHs4oKs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/q6OiWbFG5pE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sTPTBHs4oKs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Band Jornalismo",
+      "channelTitle": "Minist\u00e9rio da Sa\u00fade",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-04T18:24:39Z"
+      "publishTime": "2020-05-04T21:57:16Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "JrS60j7fi7-mPXtjHYYtDRgUHqA",
+    "etag": "Vqshg7hXpBpvVC9Jinj8X61_buI",
     "id": {
       "kind": "youtube#video",
-      "videoId": "3z-oNeCkbTc"
+      "videoId": "v7NkSPKyj0c"
     },
     "snippet": {
-      "publishedAt": "2022-05-12T02:38:35Z",
-      "channelId": "UCamgdcs45ToPrIV7wmT7iYg",
-      "title": "Coreia do Norte reconhece seu primeiro surto de covid-19 | AFP",
-      "description": "A Coreia do Norte reconheceu seu primeiro surto de covid-19 desde o come\u00e7o da pandemia. Enquanto isso, na ONU, ...",
+      "publishedAt": "2020-05-20T10:19:24Z",
+      "channelId": "UCP391YRAjSOdM_bwievgaZA",
+      "title": "Lula: &quot;Ainda bem que o monstro do coronav\u00edrus veio para demonstrar necessidade do Estado&quot;",
+      "description": "Lula: \"Ainda bem que o monstro do coronav\u00edrus veio para demonstrar necessidade do Estado\". Inscreva-se no nosso canal: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3z-oNeCkbTc/default.jpg",
+          "url": "https://i.ytimg.com/vi/v7NkSPKyj0c/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3z-oNeCkbTc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/v7NkSPKyj0c/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3z-oNeCkbTc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/v7NkSPKyj0c/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "AFP Portugu\u00eas",
+      "channelTitle": "Jovem Pan News",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-12T02:38:35Z"
+      "publishTime": "2020-05-20T10:19:24Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "pPAQg4YXXNsgE_tI3s6HhncgQJQ",
+    "etag": "hpP_j5ATxDmvNqktECseU1jLdM8",
     "id": {
       "kind": "youtube#video",
-      "videoId": "5Mnzdx9RDKU"
+      "videoId": "03vxzwEQHdU"
     },
     "snippet": {
-      "publishedAt": "2022-01-06T12:01:13Z",
-      "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
-      "title": "\u00d4micron indica o &#39;come\u00e7o do fim&#39; da pandemia?",
-      "description": "O Bora Brasil conversou com a pneumologista Margareth Dalcomo, pesquisadora da Fiocruz, que defende a tese de que o ...",
+      "publishedAt": "2020-04-22T21:00:00Z",
+      "channelId": "UCyTVL1r4WC8MqYOPvi3yAZw",
+      "title": "Os Simpsons previram o novo coronav\u00edrus? | A Hora Suave",
+      "description": "H\u00e1 mais de 30 anos no ar, a anima\u00e7\u00e3o Os Simpsons acertou muitas previs\u00f5es - e ficou ainda mais famosa por causa disso.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5Mnzdx9RDKU/default.jpg",
+          "url": "https://i.ytimg.com/vi/03vxzwEQHdU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5Mnzdx9RDKU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/03vxzwEQHdU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5Mnzdx9RDKU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/03vxzwEQHdU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Band Jornalismo",
+      "channelTitle": "O Liberal",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-06T12:01:13Z"
+      "publishTime": "2020-04-22T21:00:00Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "UW2IGTiyga8s8cf9kpx0Fc6vgQA",
+    "etag": "XPFTY-jrigN6t1sRY3BZvVl2xZk",
     "id": {
       "kind": "youtube#video",
-      "videoId": "lsBhB6cJX0U"
+      "videoId": "jcBoc6BAPww"
     },
     "snippet": {
-      "publishedAt": "2021-04-15T22:00:31Z",
+      "publishedAt": "2020-04-26T18:54:20Z",
+      "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
+      "title": "Coronavi\u0301rus: &#39;filme de terror&#39; em Manaus",
+      "description": "Manaus segue enterrando seus mortos \u00e0 medida que a capacidade de atendimento nos hospitais chega a 96%. A regi\u00e3o ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jcBoc6BAPww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jcBoc6BAPww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jcBoc6BAPww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Estad\u00e3o",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-26T18:54:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9dXNn4qC61nu3fpzqkItZndXnE0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S7wnY-SE094"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-01T23:43:58Z",
+      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+      "title": "Circula\u00e7\u00e3o do coronav\u00edrus deve continuar em 2022, diz infectologista | JORNAL DA CNN",
+      "description": "O m\u00e9dico infectologista do Instituto Em\u00edlio Ribas Jamal Suleiman afirmou neste s\u00e1bado (1\u00ba), \u00e0 CNN, que a circula\u00e7\u00e3o do ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S7wnY-SE094/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S7wnY-SE094/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S7wnY-SE094/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CNN Brasil",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-01T23:43:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Fpmsy8SmIGs_Bvk5VNxZgQgeUeI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5AY1kfmaA7w"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-25T23:04:54Z",
+      "channelId": "UCT0JugAtGmqiYkwxFZOwAtg",
+      "title": "CORONAV\u00cdRUS NA REDA\u00c7\u00c3O DO ENEM",
+      "description": "CURSO ENEM SEM DIST\u00c2NCIA \u00c9 GR\u00c1TIS E REFOR\u00c7A TUDO O QUE CAI NA PROVA Garanta j\u00e1 seu curso gr\u00e1tis em: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5AY1kfmaA7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5AY1kfmaA7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5AY1kfmaA7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Descomplica",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-25T23:04:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4SMy6Zjgt03R_O5RjdMxhrgf72Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4nF8NVGF-uM"
+    },
+    "snippet": {
+      "publishedAt": "2021-05-12T22:00:02Z",
       "channelId": "UC9zqTTVeClpqMQ5CLuJdWtw",
-      "title": "Depoimentos de pandemia | Comentando Coment\u00e1rios",
-      "description": "No m\u00eas que passamos dos 4 mil mortos di\u00e1rios pela pandemia de covid-19, Drauzio l\u00ea alguns desabafos enviados por voc\u00eas nos ...",
+      "title": "Coronav\u00edrus durar\u00e1 mais tempo",
+      "description": "Temos que nos habituar a conviver com o coronav\u00edrus por algum tempo, porque a epidemia n\u00e3o vai acabar de uma hora para ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lsBhB6cJX0U/default.jpg",
+          "url": "https://i.ytimg.com/vi/4nF8NVGF-uM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lsBhB6cJX0U/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4nF8NVGF-uM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lsBhB6cJX0U/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4nF8NVGF-uM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "Drauzio Varella",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-04-15T22:00:31Z"
+      "publishTime": "2021-05-12T22:00:02Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "77wa0-qgPFFQoT2gznb7Jr3KBKc",
+    "etag": "6_iI17CPf-0u1kpHmwJfHcvs7X8",
     "id": {
       "kind": "youtube#video",
-      "videoId": "DgHKVJ5T_Ro"
+      "videoId": "WdQ-GoDVyWo"
     },
     "snippet": {
-      "publishedAt": "2022-05-05T16:43:43Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Covid: Pandemia matou entre 13 e 16 milh\u00f5es de pessoas, diz OMS",
-      "description": "Entre 13,3 e 16,6 milh\u00f5es de pessoas morreram em todo o mundo v\u00edtimas da covid-19 nos anos de 2020 e 2021, segundo a OMS ...",
+      "publishedAt": "2020-01-23T11:59:39Z",
+      "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
+      "title": "Coronavi\u0301rus  estamos pro\u0301ximos de uma pandemia?",
+      "description": "Um novo v\u00edrus, que j\u00e1 vitimou mais de uma dezena de pessoas na China, se tornou motivo de preocupa\u00e7\u00e3o mundial ap\u00f3s casos ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DgHKVJ5T_Ro/default.jpg",
+          "url": "https://i.ytimg.com/vi/WdQ-GoDVyWo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DgHKVJ5T_Ro/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WdQ-GoDVyWo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DgHKVJ5T_Ro/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WdQ-GoDVyWo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UOL",
+      "channelTitle": "Estad\u00e3o",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-05T16:43:43Z"
+      "publishTime": "2020-01-23T11:59:39Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "RjPfzrLi5-84yxgCT9bIYwD7MCo",
+    "etag": "aC5cbcuXDCFTcQ-TzwY7s-9lgT4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "ksH_Yh-pSRE"
+      "videoId": "mVK0Fb125mc"
     },
     "snippet": {
-      "publishedAt": "2022-01-22T19:13:30Z",
-      "channelId": "UCC1_Drela_P4MAW8pPcdjSw",
-      "title": "Covid: pandemia n\u00e3o est\u00e1 nem perto do fim, adverte OMS \ud83e\udd14",
-      "description": "Nossas M\u00eddias Sociais Blog: http://www.neurocirurgiabr.com Instagram: http://www.instagram.com/neurocirurgiabr Twitter: ...",
+      "publishedAt": "2020-04-23T02:00:36Z",
+      "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+      "title": "Opini\u00e3o | Povos Ind\u00edgenas e a Pandemia de Coronav\u00edrus | 22/04/2020",
+      "description": "Na semana em que se comemora o Dia do \u00cdndio, o Opini\u00e3o aborda como os povos ind\u00edgenas brasileiros est\u00e3o enfrentando a ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ksH_Yh-pSRE/default.jpg",
+          "url": "https://i.ytimg.com/vi/mVK0Fb125mc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ksH_Yh-pSRE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mVK0Fb125mc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ksH_Yh-pSRE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mVK0Fb125mc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Julio Pereira - Neurocirurgi\u00e3o",
+      "channelTitle": "Jornalismo TV Cultura",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-01-22T19:13:30Z"
+      "publishTime": "2020-04-23T02:00:36Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "8vquxRYoL3o-n7JCXoBa5Zjas8U",
+    "etag": "qenHgjIlphsAa02GWYYzbSlac7o",
     "id": {
       "kind": "youtube#video",
-      "videoId": "mwaaY2S-ZMw"
+      "videoId": "YgW86N4rtpk"
     },
     "snippet": {
-      "publishedAt": "2020-01-22T19:35:24Z",
-      "channelId": "UCG-fFAxQjZgJmn0w7Brj5xQ",
-      "title": "Risco de pandemia: Corona v\u00edrus pode ter chegado no Brasil",
-      "description": "Uma mulher em Belo Horizonte est\u00e1 internada com suspeita de portar a doen\u00e7a. Ela passou recentemente por Xangai.",
+      "publishedAt": "2020-07-07T17:32:51Z",
+      "channelId": "UCSv9d0kQegylHWpP83jWSQg",
+      "title": "Desafios da educa\u00e7\u00e3o durante a pandemia do novo coronav\u00edrus",
+      "description": "Educa\u00e7\u00e3o \u00e9 o destaque do Sem Censura desta ter\u00e7a-feira, que mostra como est\u00e1 o planejamento da volta \u00e0s aulas e as ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/mwaaY2S-ZMw/default.jpg",
+          "url": "https://i.ytimg.com/vi/YgW86N4rtpk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/mwaaY2S-ZMw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YgW86N4rtpk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/mwaaY2S-ZMw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YgW86N4rtpk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Brasil Urgente",
+      "channelTitle": "TV Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-01-22T19:35:24Z"
+      "publishTime": "2020-07-07T17:32:51Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "vpxrTkw1mQgmPcDpU3OgHtppuCg",
+    "etag": "xXg-KtSefLGvgUFBM9FkABdQqzY",
     "id": {
       "kind": "youtube#video",
-      "videoId": "VS3BTrbrbqo"
+      "videoId": "UuIuL-TDHNs"
     },
     "snippet": {
-      "publishedAt": "2022-02-17T12:09:19Z",
-      "channelId": "UCC1_Drela_P4MAW8pPcdjSw",
-      "title": "FIM DA PANDEMIA: O que muda na pr\u00e1tica se Covid virar endemia?",
-      "description": "Nossas M\u00eddias Sociais Blog: http://www.neurocirurgiabr.com Instagram: http://www.instagram.com/neurocirurgiabr Twitter: ...",
+      "publishedAt": "2020-05-31T11:46:26Z",
+      "channelId": "UC6AycOmkmvR-flFyo9H8cMw",
+      "title": "Reda\u00e7\u00e3o - Coronav\u00edrus - vulnerabilidades e motiva\u00e7\u00f5es colaterais | Desenhando a Solu\u00e7\u00e3o",
+      "description": "Nesse v\u00eddeo \u00e9 elaborada uma disserta\u00e7\u00e3o/reda\u00e7\u00e3o argumentativa com um tema da atualidade (coronav\u00edrus) e tamb\u00e9m aborda as ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VS3BTrbrbqo/default.jpg",
+          "url": "https://i.ytimg.com/vi/UuIuL-TDHNs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VS3BTrbrbqo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UuIuL-TDHNs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VS3BTrbrbqo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UuIuL-TDHNs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Julio Pereira - Neurocirurgi\u00e3o",
+      "channelTitle": "Desenhando a Solu\u00e7\u00e3o",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-02-17T12:09:19Z"
+      "publishTime": "2020-05-31T11:46:26Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "RRxuBvrOGI8op8Vw65XoR7N1w7I",
+    "etag": "mwZ6ai6GDgwVgeVHhTsLv2R0d58",
     "id": {
       "kind": "youtube#video",
-      "videoId": "sO2ixUkrRes"
+      "videoId": "450EHuWhxww"
     },
     "snippet": {
-      "publishedAt": "2020-09-26T06:21:42Z",
-      "channelId": "UC0Q3GfF9amdyyjTA9DpTnyw",
-      "title": "BOLETIM CORONA - O PAPEL DA VIGIL\u00c2NCIA EPIDEMIOL\u00d3GICA DURANTE A PANDEMIA",
-      "description": "Boletim di\u00e1rio de atualiza\u00e7\u00e3o sobre a pandemia de Covid-19 do Canal Sa\u00fade. Nesta edi\u00e7\u00e3o, nosso convidado \u00e9 o vice-diretor do ...",
+      "publishedAt": "2020-05-21T00:43:41Z",
+      "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
+      "title": "Lula se desculpa ap\u00f3s repercuss\u00e3o negativa de frase sobre coronav\u00edrus dita em entrevista",
+      "description": "Lula conversava com o jornalista Mino Carta, da revista Carta Capital, sobre a import\u00e2ncia do estado, quando falou a frase: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sO2ixUkrRes/default.jpg",
+          "url": "https://i.ytimg.com/vi/450EHuWhxww/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sO2ixUkrRes/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/450EHuWhxww/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sO2ixUkrRes/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/450EHuWhxww/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Canal Sa\u00fade Oficial",
+      "channelTitle": "Jornal da Record",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-09-26T06:21:42Z"
+      "publishTime": "2020-05-21T00:43:41Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TyYlmCOX2qBKjUR3ObRvS-JTfdk",
+    "etag": "iaZl8hGnF7LJCjZI8CxjywdDlNc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "r55udsjMG8Q"
+      "videoId": "iBqtsdEnjnM"
     },
     "snippet": {
-      "publishedAt": "2021-11-22T13:51:49Z",
-      "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-      "title": "Nova onda de covid: Europa tem popula\u00e7\u00e3o mais suscet\u00edvel que o Brasil, explica m\u00e9dico",
-      "description": "O m\u00e9dico sanitarista e ex-presidente da Anvisa Gonzalo Vecina Neto analisou hoje, durante participa\u00e7\u00e3o no UOL News, ...",
+      "publishedAt": "2020-03-23T21:29:19Z",
+      "channelId": "UCGFNp4Pialo9wjT9Bo8wECA",
+      "title": "\u266b MESSI, CR7 E CRAQUES CONTRA A PANDEMIA | Par\u00f3dia Dance Monkey - Tones And I",
+      "description": "Uma par\u00f3dia de futebol da m\u00fasica \"Dance Monkey\" de Tones And I, com um servi\u00e7o de utilidade p\u00fablica: dicas de como ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/default.jpg",
+          "url": "https://i.ytimg.com/vi/iBqtsdEnjnM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iBqtsdEnjnM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/r55udsjMG8Q/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iBqtsdEnjnM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "UOL",
+      "channelTitle": "FutPar\u00f3dias",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-11-22T13:51:49Z"
+      "publishTime": "2020-03-23T21:29:19Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "SoKXlLQKdXRzRyQS_Xo786RpM9M",
+    "etag": "WJZsuYvxGd--h77UQBr-Mq2LN1g",
     "id": {
       "kind": "youtube#video",
-      "videoId": "-hGtaCuZPP8"
+      "videoId": "mjpc3FuWcFw"
     },
     "snippet": {
-      "publishedAt": "2020-03-20T19:46:00Z",
-      "channelId": "UCRwMRTPXdt8GjhvDWC0YwXw",
-      "title": "Corona V\u00edrus: Medidas Preventivas no Atendimento Odontol\u00f3gico em Tempo de Pandemia",
-      "description": "Ol\u00e1 pessoal, em \u00e9poca de pandemia resolvi fazer um v\u00eddeo sobre algumas medidas de seguran\u00e7a biol\u00f3gica para conter este ...",
+      "publishedAt": "2020-04-22T23:38:09Z",
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "Coronav\u00edrus: pandemia pode levar a &#39;fome de propor\u00e7\u00f5es b\u00edblicas&#39;, alerta ONU",
+      "description": "Neste v\u00eddeo, o rep\u00f3rter Ricardo Senra mostra como a fome j\u00e1 bate \u00e0 porta em lugares castigados por guerras, como I\u00eamen, ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-hGtaCuZPP8/default.jpg",
+          "url": "https://i.ytimg.com/vi/mjpc3FuWcFw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-hGtaCuZPP8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mjpc3FuWcFw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-hGtaCuZPP8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mjpc3FuWcFw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Adornare Odontologia Est\u00e9tica",
+      "channelTitle": "BBC News Brasil",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-20T19:46:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "IX-aixPZebFm-pfzoMGNKZrTFb0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Nw6G12TJiOw"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-16T02:02:49Z",
-      "channelId": "UC3O9y5JRSBqn4YhCEvBys_Q",
-      "title": "PANDEMIA COVID-19 | Amamenta\u00e7\u00e3o e Gravidez: recomenda\u00e7\u00f5es atualizadas",
-      "description": "A pandemia de coronav\u00edrus agora j\u00e1 avan\u00e7a rapidamente no Brasil. Mulheres gr\u00e1vidas ou no per\u00edodo p\u00f3s-parto e da ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Nw6G12TJiOw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Nw6G12TJiOw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Nw6G12TJiOw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Dr. Igor Padovesi",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-16T02:02:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "LaNHORmkk0_BhgYPxEHjMHM3vWA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "lDXkbkXYtjo"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-19T17:01:21Z",
-      "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
-      "title": "3 claves de la explosi\u00f3n de coronavirus en Corea del Norte, uno de los pa\u00edses m\u00e1s aislados del mundo",
-      "description": "El r\u00e9gimen de Kim Jong-un decret\u00f3 cuarentenas masivas y moviliz\u00f3 al ej\u00e9rcito para hacer frente a lo que llama \"la mayor ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lDXkbkXYtjo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lDXkbkXYtjo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lDXkbkXYtjo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BBC News Mundo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-19T17:01:21Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "eyiMO318Ean24pKjZbJRzSUNsK8",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "oTcyEevmI_Q"
-    },
-    "snippet": {
-      "publishedAt": "2022-05-14T15:20:53Z",
-      "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
-      "title": "Coreia do Norte enfrenta surto de covid-19",
-      "description": "Pyongyang confirma 21 mortes provocadas por \"febre de origem desconhecida\" LEIA MAIS ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oTcyEevmI_Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oTcyEevmI_Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oTcyEevmI_Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "euronews (em portugu\u00eas)",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-05-14T15:20:53Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fp3Ym__myRi31QvObkmRkXEyaEw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "yZIhvWJ2BwI"
-    },
-    "snippet": {
-      "publishedAt": "2021-12-08T12:30:25Z",
-      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-      "title": "Variante \u00d4micron pode acelerar o fim da pandemia?",
-      "description": "Ainda n\u00e3o h\u00e1 ind\u00edcios de que casos graves de Covid-19 e mortes estejam associadas diretamente \u00e0 variante \u00d4micron. Alguns ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yZIhvWJ2BwI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yZIhvWJ2BwI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yZIhvWJ2BwI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Record News",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-12-08T12:30:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "ZSqbYKwmVXSb3RhFTAuU21ztEZY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "lBhbUDwTndg"
-    },
-    "snippet": {
-      "publishedAt": "2021-11-23T16:17:37Z",
-      "channelId": "UC7egzWePnj13D7OsBVDFFFw",
-      "title": "OMS alerta que o mundo est\u00e1 entrando na quarta onda da covid 19",
-      "description": "O mundo est\u00e1 entrando em uma quarta onda da pandemia do novo coronav\u00edrus. A avalia\u00e7\u00e3o \u00e9 da diretora-geral adjunta de ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lBhbUDwTndg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lBhbUDwTndg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lBhbUDwTndg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "OCP NEWS",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-11-23T16:17:37Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "XZ23P17V7yNx3aRHuDV1TdsE05M",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "uAT8EEKBySM"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-10T21:45:11Z",
-      "channelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-      "title": "Covid-19: el virus que arras\u00f3 con todo",
-      "description": "UEtv, la productora audiovisual de Unidad Editorial, estrena este documental Covid-19: El virus que arras\u00f3 con todo. Un trabajo ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uAT8EEKBySM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uAT8EEKBySM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uAT8EEKBySM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "El Mundo",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-10T21:45:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "XiFEot-K11u8INq6XWSAwJU6X_I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "KW7azMpWYzw"
-    },
-    "snippet": {
-      "publishedAt": "2020-12-30T23:16:18Z",
-      "channelId": "UCUdOoVWuWmgo1wByzcsyKDQ",
-      "title": "Covid-19, la irrupci\u00f3n de una pandemia que cambi\u00f3 el mundo",
-      "description": "A finales de 2019, la aparici\u00f3n de casos de neumon\u00eda desconocida en Wuhan, una ciudad de 11.000.000 de habitantes ubicada ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KW7azMpWYzw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KW7azMpWYzw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KW7azMpWYzw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "FRANCE 24 Espa\u00f1ol",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-12-30T23:16:18Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Cm27Nh_kDZgucvA1513kaOlPhyc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "MdSTOal9dxA"
-    },
-    "snippet": {
-      "publishedAt": "2021-01-09T14:00:12Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "AS 5 MAIORES PANDEMIAS DA HIST\u00d3RIA",
-      "description": "Uma pandemia est\u00e1 acontecendo agora. E N\u00c3O \u00c9 COVID! Quais foram as MAIORES PANDEMIAS DA HIST\u00d3RIA?",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MdSTOal9dxA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MdSTOal9dxA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MdSTOal9dxA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-01-09T14:00:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "D-UNUfM_ChvH5PTdbpUQV09GbIQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "SnswNSqsvsY"
-    },
-    "snippet": {
-      "publishedAt": "2020-05-22T18:22:52Z",
-      "channelId": "UC0Q3GfF9amdyyjTA9DpTnyw",
-      "title": "Boletim Corona - Impactos Ambientais da Pandemia",
-      "description": "Boletim Corona - Boletim di\u00e1rio de atualiza\u00e7\u00e3o sobre a pandemia de Covid-19 do Canal Sa\u00fade. Nesta edi\u00e7\u00e3o, o convidado \u00e9 o ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SnswNSqsvsY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SnswNSqsvsY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SnswNSqsvsY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Canal Sa\u00fade Oficial",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-05-22T18:22:52Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "GerLEQTqhA8FKhyVaru0zHVwy2I",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "fKf1dTcZcO4"
-    },
-    "snippet": {
-      "publishedAt": "2022-03-04T00:05:14Z",
-      "channelId": "UCrSM1UV_KLAdTzgxyxl3POw",
-      "title": "COVID AP\u00d3S O CARNAVAL: VIROU ENDEMIA? | Plant\u00e3o COVID #40",
-      "description": "No Carnaval, as pessoas se esqueceram completamente da COVID. Ser\u00e1 que esse aumento de mobilidade extremo pode levar ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fKf1dTcZcO4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fKf1dTcZcO4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fKf1dTcZcO4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Ol\u00e1, Ci\u00eancia!",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-03-04T00:05:14Z"
+      "publishTime": "2020-04-22T23:38:09Z"
     }
   }
 ]
