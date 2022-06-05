@@ -1,0 +1,175 @@
+{
+  "created_at": "Mon May 30 12:27:23 +0000 2022",
+  "id": 1531250922646605824,
+  "id_str": "1531250922646605824",
+  "full_text": "@minsaude conecte SUS n\u00e3o funciona nada pra mostrar meu certificado de COVID 19, alinhamento pol\u00edtico ? https://t.co/nljnx9YAQr",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    103
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "minsaude",
+        "name": "Minist\u00e9rio da Sa\u00fade",
+        "id": 37717107,
+        "id_str": "37717107",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1531250914455171072,
+        "id_str": "1531250914455171072",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/FUAYmAIXsAAxUrU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FUAYmAIXsAAxUrU.jpg",
+        "url": "https://t.co/nljnx9YAQr",
+        "display_url": "pic.twitter.com/nljnx9YAQr",
+        "expanded_url": "https://twitter.com/Czar40025308/status/1531250922646605824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1531250914455171072,
+        "id_str": "1531250914455171072",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/FUAYmAIXsAAxUrU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FUAYmAIXsAAxUrU.jpg",
+        "url": "https://t.co/nljnx9YAQr",
+        "display_url": "pic.twitter.com/nljnx9YAQr",
+        "expanded_url": "https://twitter.com/Czar40025308/status/1531250922646605824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 576,
+            "h": 578,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1530958340804706304,
+  "in_reply_to_status_id_str": "1530958340804706304",
+  "in_reply_to_user_id": 37717107,
+  "in_reply_to_user_id_str": "37717107",
+  "in_reply_to_screen_name": "minsaude",
+  "user": {
+    "id": 1426961734003216388,
+    "id_str": "1426961734003216388",
+    "name": "C\u00e9zar",
+    "screen_name": "Czar40025308",
+    "location": "California",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1,
+    "friends_count": 15,
+    "listed_count": 0,
+    "created_at": "Sun Aug 15 17:39:50 +0000 2021",
+    "favourites_count": 153,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 150,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1426961845957632005/js9nM6gS_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426961845957632005/js9nM6gS_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "pt"
+}

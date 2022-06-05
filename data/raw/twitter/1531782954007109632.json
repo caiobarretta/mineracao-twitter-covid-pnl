@@ -1,0 +1,175 @@
+{
+  "created_at": "Tue May 31 23:41:30 +0000 2022",
+  "id": 1531782954007109632,
+  "id_str": "1531782954007109632",
+  "full_text": "\u00c9 a hora de reconhecer todo @GovernodoRN e especialmente os servidores e servidoras da @SesapRN pelo trabalho heroico, competente e correto que foi desenvolvido na pandemia focado \u00fanico e exclusivamente na miss\u00e3o de salvar vidas. Viva o SUS!!! #Saude #publica #SUS",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    264
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Saude",
+        "indices": [
+          244,
+          250
+        ]
+      },
+      {
+        "text": "publica",
+        "indices": [
+          251,
+          259
+        ]
+      },
+      {
+        "text": "SUS",
+        "indices": [
+          260,
+          264
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "GovernodoRN",
+        "name": "Governo do RN",
+        "id": 59546139,
+        "id_str": "59546139",
+        "indices": [
+          28,
+          40
+        ]
+      },
+      {
+        "screen_name": "SesapRN",
+        "name": "SesapRN",
+        "id": 163453188,
+        "id_str": "163453188",
+        "indices": [
+          87,
+          95
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1188191474636206082,
+    "id_str": "1188191474636206082",
+    "name": "Francisco do PT",
+    "screen_name": "FranciscodoPT13",
+    "location": "",
+    "description": "Professor de Geografia, Vereador, Prefeito de Parelhas e atualmente Deputado Estadual L\u00edder do Governo na Assembleia Legislativa do RN.",
+    "url": "https://t.co/3IkPlGHKp5",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3IkPlGHKp5",
+            "expanded_url": "http://www.franciscodopt.com.br",
+            "display_url": "franciscodopt.com.br",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3127,
+    "friends_count": 1188,
+    "listed_count": 11,
+    "created_at": "Sat Oct 26 20:32:01 +0000 2019",
+    "favourites_count": 19387,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10494,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1528349194179776512/5HrFSxa6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1528349194179776512/5HrFSxa6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1188191474636206082/1652985172",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "a4ddc3856053f7e1",
+    "url": "https://api.twitter.com/1.1/geo/id/a4ddc3856053f7e1.json",
+    "place_type": "city",
+    "name": "Natal",
+    "full_name": "Natal, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -35.2911777,
+            -5.897826
+          ],
+          [
+            -33.8094403,
+            -5.897826
+          ],
+          [
+            -33.8094403,
+            -3.8517709
+          ],
+          [
+            -35.2911777,
+            -3.8517709
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 16,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}
