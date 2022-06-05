@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OX-cxzY09fg0orINouAvJ0AB6hk",
+  "id": "Ugh77VdpH-qg6ngCoAEC",
+  "snippet": {
+    "videoId": "cbdSKUU8w_0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "q9Zz_o-OuTq5xcCOLqamfGeNelA",
+      "id": "Ugh77VdpH-qg6ngCoAEC",
+      "snippet": {
+        "videoId": "cbdSKUU8w_0",
+        "textDisplay": "yok guzel",
+        "textOriginal": "yok guzel",
+        "authorDisplayName": "MEHMET SEL\u00c7UK",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5uK7RYDsX-lQWWCx1DWGz79wBMG5Ud2Tbiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpcFNOZmRHM0ngknfK-JNGg",
+        "authorChannelId": {
+          "value": "UCpcFNOZmRHM0ngknfK-JNGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2017-07-20T14:37:27Z",
+        "updatedAt": "2017-07-20T14:37:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9x7mSaZIUJV4XZrrk-HvRVUSJhI",
+      "id": "Ugh77VdpH-qg6ngCoAEC.8VEuw65TxRV8VF1clrmDeK",
+      "snippet": {
+        "textDisplay": "???",
+        "textOriginal": "???",
+        "parentId": "Ugh77VdpH-qg6ngCoAEC",
+        "authorDisplayName": "XENO Entertainment",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvqbHYgPXGQbvD9ZPXf7H_Yljl8FG13X6o-BB57g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLYBbM5piEIuZ9ryOmkZKCA",
+        "authorChannelId": {
+          "value": "UCLYBbM5piEIuZ9ryOmkZKCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-07-20T15:44:43Z",
+        "updatedAt": "2017-07-20T15:44:43Z"
+      }
+    }
+  ]
+}

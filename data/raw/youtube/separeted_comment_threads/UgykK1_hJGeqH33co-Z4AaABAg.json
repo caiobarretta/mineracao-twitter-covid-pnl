@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ipjuv2mv912X0SphL-rEN4DqhGM",
+  "id": "UgykK1_hJGeqH33co-Z4AaABAg",
+  "snippet": {
+    "videoId": "lj_ICfXVykg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "c6bU6fWXpIJPciCYWGN-QnF7I34",
+      "id": "UgykK1_hJGeqH33co-Z4AaABAg",
+      "snippet": {
+        "videoId": "lj_ICfXVykg",
+        "textDisplay": "Kkkkkkkkkkkkkkkkkkque bosta e essa deve ser divertido fazer kkkkkkkkkkk",
+        "textOriginal": "Kkkkkkkkkkkkkkkkkkque bosta e essa deve ser divertido fazer kkkkkkkkkkk",
+        "authorDisplayName": "Bem Armada",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKl0j-r9Tg2HmbBf3fMpQFlXmf0Ifp61e_DA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEawYhnCgGGxe8IgE0R7qzA",
+        "authorChannelId": {
+          "value": "UCEawYhnCgGGxe8IgE0R7qzA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-01T20:32:08Z",
+        "updatedAt": "2021-02-01T20:32:08Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HyUswC_cEpkoDIQex1nJ71qDXug",
+      "id": "UgykK1_hJGeqH33co-Z4AaABAg.9JELZJJnZ8h9JmQ2QWPIYT",
+      "snippet": {
+        "textDisplay": "Estude mais meu bem.",
+        "textOriginal": "Estude mais meu bem.",
+        "parentId": "UgykK1_hJGeqH33co-Z4AaABAg",
+        "authorDisplayName": "Vanda Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYcMX_GztgZpU5hW0xJePMZySPLUIrF9EkUtqJJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC73DBzr4ehBqhzwaJAOsvNg",
+        "authorChannelId": {
+          "value": "UC73DBzr4ehBqhzwaJAOsvNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-15T11:24:45Z",
+        "updatedAt": "2021-02-15T11:24:45Z"
+      }
+    }
+  ]
+}

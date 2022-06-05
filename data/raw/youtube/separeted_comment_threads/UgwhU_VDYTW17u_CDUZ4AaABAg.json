@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3stP6KDESwx_qCi8Qz2tzd0rTrA",
+  "id": "UgwhU_VDYTW17u_CDUZ4AaABAg",
+  "snippet": {
+    "videoId": "nHI3EHCOBGI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZRfVrGJ26HBRYqTmtvJnW1Rh4t8",
+      "id": "UgwhU_VDYTW17u_CDUZ4AaABAg",
+      "snippet": {
+        "videoId": "nHI3EHCOBGI",
+        "textDisplay": "Esse brinco no nariz ? Kkkk",
+        "textOriginal": "Esse brinco no nariz ? Kkkk",
+        "authorDisplayName": "Tatiane carvalho",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGzkWwWxABWDW4SSgmuCAxVIbWEe8p9FmTI4hd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChHAsjXrIMMBqs9kL9r0tbA",
+        "authorChannelId": {
+          "value": "UChHAsjXrIMMBqs9kL9r0tbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-14T17:25:06Z",
+        "updatedAt": "2020-04-14T17:25:06Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "svt0C3Lxj7qLnzzF0pexmoF8evI",
+      "id": "UgwhU_VDYTW17u_CDUZ4AaABAg.97RZF81iKcC97RuipMVxBy",
+      "snippet": {
+        "textDisplay": "\u00c9 um piercing",
+        "textOriginal": "\u00c9 um piercing",
+        "parentId": "UgwhU_VDYTW17u_CDUZ4AaABAg",
+        "authorDisplayName": "Paula",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVLgffhQRmWrL6OYoctugP9mRxP57pqmnfIv1k_-upWnCm1x37F3VbzdbGsLt5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3AUOJDQi2iCjUdNQTQIteQ",
+        "authorChannelId": {
+          "value": "UC3AUOJDQi2iCjUdNQTQIteQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-04-14T20:41:32Z",
+        "updatedAt": "2020-04-14T20:41:32Z"
+      }
+    }
+  ]
+}

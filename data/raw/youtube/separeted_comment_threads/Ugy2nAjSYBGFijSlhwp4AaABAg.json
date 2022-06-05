@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1MLiaJ0o_6aeaEXomjUwYkqAKlA",
+  "id": "Ugy2nAjSYBGFijSlhwp4AaABAg",
+  "snippet": {
+    "videoId": "8uEsGwViXqc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NIcsqaFuGPP-9_KmeLnH0uXBkME",
+      "id": "Ugy2nAjSYBGFijSlhwp4AaABAg",
+      "snippet": {
+        "videoId": "8uEsGwViXqc",
+        "textDisplay": "Eu giulia eu tomei a vacina covid",
+        "textOriginal": "Eu giulia eu tomei a vacina covid",
+        "authorDisplayName": "Giulia Barbara",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/6yK3_5dd11hg1CWa_ryg8RyVnshk0Vwnoqsisk7CY-7fkTYbnol9n--NqZr1q7SHGm5a1mbEEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwxJ06YsuPrCV1hzT8YijVQ",
+        "authorChannelId": {
+          "value": "UCwxJ06YsuPrCV1hzT8YijVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-31T14:28:28Z",
+        "updatedAt": "2021-07-31T14:28:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FIIjk21tFHOdZNx4vj6TMNXaKJU",
+      "id": "Ugy2nAjSYBGFijSlhwp4AaABAg.9QTB1HR-ibX9TTs5UWUg6r",
+      "snippet": {
+        "textDisplay": "Parab\u00e9ns!",
+        "textOriginal": "Parab\u00e9ns!",
+        "parentId": "Ugy2nAjSYBGFijSlhwp4AaABAg",
+        "authorDisplayName": "GunaDelo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwI5s8En7nTH_tnTyxBmUI7xIz5CmIxYFk20a4_Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_Svf8bXt5SE9YYRu1z-w3w",
+        "authorChannelId": {
+          "value": "UC_Svf8bXt5SE9YYRu1z-w3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-14T10:27:42Z",
+        "updatedAt": "2021-10-14T10:27:42Z"
+      }
+    }
+  ]
+}

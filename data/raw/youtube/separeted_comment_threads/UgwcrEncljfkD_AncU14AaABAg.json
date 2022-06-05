@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QXwAJJe_M4O7QBFJpaKMdL0TitU",
+  "id": "UgwcrEncljfkD_AncU14AaABAg",
+  "snippet": {
+    "videoId": "uG4uSNqaB6I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ylsaivm9OZra-7xVEiPLQm2Ivgw",
+      "id": "UgwcrEncljfkD_AncU14AaABAg",
+      "snippet": {
+        "videoId": "uG4uSNqaB6I",
+        "textDisplay": "Nossa mais essa Affs \ud83d\ude44\ud83d\ude12 s\u00f3 Deus \ud83d\ude4f",
+        "textOriginal": "Nossa mais essa Affs \ud83d\ude44\ud83d\ude12 s\u00f3 Deus \ud83d\ude4f",
+        "authorDisplayName": "Cemy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXoctXk5g2rfL607n5-ed4gMpiJDRtqcwdZPo8Hpg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnlkOk9XeP46Fd29ctjFxKQ",
+        "authorChannelId": {
+          "value": "UCnlkOk9XeP46Fd29ctjFxKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-04T04:07:12Z",
+        "updatedAt": "2021-06-04T04:07:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KuJrDv25VVjJ-2dx7EvNB_X_cmA",
+      "id": "UgwcrEncljfkD_AncU14AaABAg.9O9Ic2YBj6K9OAtDQb7mqb",
+      "snippet": {
+        "textDisplay": "Ea besteira",
+        "textOriginal": "Ea besteira",
+        "parentId": "UgwcrEncljfkD_AncU14AaABAg",
+        "authorDisplayName": "Luiza Lopes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJNAFoEKPycev7ItcVCq72Jng2AuzcE1LZsA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsrUaQ6C0oHLE3qofcPf_Rg",
+        "authorChannelId": {
+          "value": "UCsrUaQ6C0oHLE3qofcPf_Rg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-04T18:54:59Z",
+        "updatedAt": "2021-06-04T18:54:59Z"
+      }
+    }
+  ]
+}

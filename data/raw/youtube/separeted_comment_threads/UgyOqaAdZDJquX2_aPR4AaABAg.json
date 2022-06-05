@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "J8LG6LcDyN0-NYihkBPrd01gCZQ",
+  "id": "UgyOqaAdZDJquX2_aPR4AaABAg",
+  "snippet": {
+    "videoId": "SmUjfaOo0MU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "h-I4Cq9vMm0zYhDemE-7OPuuGPk",
+      "id": "UgyOqaAdZDJquX2_aPR4AaABAg",
+      "snippet": {
+        "videoId": "SmUjfaOo0MU",
+        "textDisplay": "Dobro dru\u0161tvo, dobra muzika, a uz to mo\u017ee jedna dunjeva\u010da ! \u017diveli ! \ud83e\udd42",
+        "textOriginal": "Dobro dru\u0161tvo, dobra muzika, a uz to mo\u017ee jedna dunjeva\u010da ! \u017diveli ! \ud83e\udd42",
+        "authorDisplayName": "Sladjana Popovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_Lr0hed6Opal_3wOeJly0GNGw-Obk4Hq3rLsFKA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkjLRSma7LLLQcxcEw8pg7A",
+        "authorChannelId": {
+          "value": "UCkjLRSma7LLLQcxcEw8pg7A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 23,
+        "publishedAt": "2019-11-20T17:09:56Z",
+        "updatedAt": "2019-11-20T17:09:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vr41FOr7_YrufoYIXA-6BWLKbG4",
+      "id": "UgyOqaAdZDJquX2_aPR4AaABAg.91ZaSF4cVP_92AwAlqr8bk",
+      "snippet": {
+        "textDisplay": "Uzdravlje s pjesmom RAKHIA... a ima barem desetak grupa koje su opjevale to poznato visokoenergetsko pi\u0107e.",
+        "textOriginal": "Uzdravlje s pjesmom RAKHIA... a ima barem desetak grupa koje su opjevale to poznato visokoenergetsko pi\u0107e.",
+        "parentId": "UgyOqaAdZDJquX2_aPR4AaABAg",
+        "authorDisplayName": "roberto zakinja",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSph8EMQ1wBr7xU_Q__Xf2gd7VCseHjO4c6WA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFupBkVvx020uvSyhDLHcjg",
+        "authorChannelId": {
+          "value": "UCFupBkVvx020uvSyhDLHcjg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-12-05T23:50:10Z",
+        "updatedAt": "2019-12-05T23:50:10Z"
+      }
+    }
+  ]
+}

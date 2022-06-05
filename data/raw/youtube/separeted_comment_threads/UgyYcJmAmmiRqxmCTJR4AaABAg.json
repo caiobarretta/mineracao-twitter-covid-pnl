@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZjZWbEndDC8dR7vWsu3uCWk3QTo",
+  "id": "UgyYcJmAmmiRqxmCTJR4AaABAg",
+  "snippet": {
+    "videoId": "pjPJIa63Or0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tfm691st4I52EHJnjZkwhuP-Rcs",
+      "id": "UgyYcJmAmmiRqxmCTJR4AaABAg",
+      "snippet": {
+        "videoId": "pjPJIa63Or0",
+        "textDisplay": "mano eu acho que esse \u00e9 o senhor incrivel mais criativo que eu j\u00e1 vi!",
+        "textOriginal": "mano eu acho que esse \u00e9 o senhor incrivel mais criativo que eu j\u00e1 vi!",
+        "authorDisplayName": "Supply dog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/x41qu-YGv42r-13B82FXhtdLa34mCQ4yfjIOaMsU-mD5v_g9jffu6sJ_64CF04BOvYs4kk2Bi08=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfeh8TdKjcO2l6zbTKRnEPQ",
+        "authorChannelId": {
+          "value": "UCfeh8TdKjcO2l6zbTKRnEPQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 40,
+        "publishedAt": "2022-03-03T16:56:33Z",
+        "updatedAt": "2022-03-03T16:56:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fap_3pJu5sKjs0qR262bb32ZSIg",
+      "id": "UgyYcJmAmmiRqxmCTJR4AaABAg.9Z72t2O2-zK9ZHibHJTCg8",
+      "snippet": {
+        "textDisplay": "SUS",
+        "textOriginal": "SUS",
+        "parentId": "UgyYcJmAmmiRqxmCTJR4AaABAg",
+        "authorDisplayName": "SagaDoBot",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/OuIy8YwodzQgAq-HZu_LjfWKSEAzK_xte8n6oEq0a1w_QKKg6eJ7WlZCuIOb_a0lhJ0xojPw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCp1tEsU5cIZDqa_I6sJ4pAA",
+        "authorChannelId": {
+          "value": "UCp1tEsU5cIZDqa_I6sJ4pAA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-07T20:22:16Z",
+        "updatedAt": "2022-03-07T20:22:16Z"
+      }
+    }
+  ]
+}

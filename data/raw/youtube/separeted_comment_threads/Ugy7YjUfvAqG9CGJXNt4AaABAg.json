@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1H2XdAKg9F9plqq3B1CcNWLTeV0",
+  "id": "Ugy7YjUfvAqG9CGJXNt4AaABAg",
+  "snippet": {
+    "videoId": "R_A472g6pF0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1Nh-HWqvQZ_Jk1JJTZv0o8wU9R8",
+      "id": "Ugy7YjUfvAqG9CGJXNt4AaABAg",
+      "snippet": {
+        "videoId": "R_A472g6pF0",
+        "textDisplay": "Carlos Aluno!\n\nEle falou 'oxi que taxinha\"\nEnquanto os outros disseram \"n\u00e3o fui eu\"",
+        "textOriginal": "Carlos Aluno!\n\nEle falou 'oxi que taxinha\"\nEnquanto os outros disseram \"n\u00e3o fui eu\"",
+        "authorDisplayName": "\ud83c\udf65Vanny_rebaixada\ud83c\udf65",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/sAQi_As4hlxFf4TMTsXeqcZL1Wq4LR5wpkQ9ABCI8GkUEpASeltp4s9OpiE8Uk0F5Gl_PIDZBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSbiFOfLe_eThsH3MUsoybw",
+        "authorChannelId": {
+          "value": "UCSbiFOfLe_eThsH3MUsoybw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-14T14:08:07Z",
+        "updatedAt": "2022-05-14T14:08:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BtqTsz1xx-f-SyGcKzAVO8-tm9A",
+      "id": "Ugy7YjUfvAqG9CGJXNt4AaABAg.9b08qNnejft9bOGOX5eQJy",
+      "snippet": {
+        "textDisplay": "Concordo 100% \n\nQuem concorda clica aqui\n\ud83d\udc47",
+        "textOriginal": "Concordo 100% \n\nQuem concorda clica aqui\n\ud83d\udc47",
+        "parentId": "Ugy7YjUfvAqG9CGJXNt4AaABAg",
+        "authorDisplayName": "Anny game",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/naqo9T3B44_TJwE5KHsFhFTMkX5vfNMHenWVq9ankrSvlinlpyeV2ynufDpy72xInSp6grfxDA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG1WaTWSdAzoI3DowLWCfpQ",
+        "authorChannelId": {
+          "value": "UCG1WaTWSdAzoI3DowLWCfpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-23T22:55:51Z",
+        "updatedAt": "2022-05-23T22:55:51Z"
+      }
+    }
+  ]
+}

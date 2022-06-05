@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Y_cG-_JEE5s9X0CwaIp95kMJ1EQ",
+  "id": "UgxG1v7H7QQwTvhg4qt4AaABAg",
+  "snippet": {
+    "videoId": "QmHz-3Gcmhs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Xj7oOdxzdR-daAGffFKdiLlNubs",
+      "id": "UgxG1v7H7QQwTvhg4qt4AaABAg",
+      "snippet": {
+        "videoId": "QmHz-3Gcmhs",
+        "textDisplay": "obrigado, Mauro",
+        "textOriginal": "obrigado, Mauro",
+        "authorDisplayName": "rindu lib",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmzAVgaDqB56tDBk4-OsBXs7cAJ-YvdNamOQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtfaU1TikIcJczUjaIMOIaA",
+        "authorChannelId": {
+          "value": "UCtfaU1TikIcJczUjaIMOIaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-18T21:26:36Z",
+        "updatedAt": "2021-04-18T21:26:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "a-sOG4AR_TRASbi4T6yv6ogdUAM",
+      "id": "UgxG1v7H7QQwTvhg4qt4AaABAg.9MI8CmVW2mg9MIIsjKRsIl",
+      "snippet": {
+        "textDisplay": "Obrigado eu, rindu lb!",
+        "textOriginal": "Obrigado eu, rindu lb!",
+        "parentId": "UgxG1v7H7QQwTvhg4qt4AaABAg",
+        "authorDisplayName": "Destino: Berlim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6Es-sLPrOjprcLdUt5HmFNvP125HIsk6YYcc3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHJd8Np1fTwLUfBJsvH9RRA",
+        "authorChannelId": {
+          "value": "UCHJd8Np1fTwLUfBJsvH9RRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-18T22:59:51Z",
+        "updatedAt": "2021-04-18T22:59:51Z"
+      }
+    }
+  ]
+}

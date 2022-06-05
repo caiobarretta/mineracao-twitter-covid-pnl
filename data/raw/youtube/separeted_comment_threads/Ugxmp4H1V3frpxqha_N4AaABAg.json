@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "AyA3WKbP2UHpspdYeT2UjNZft9M",
+  "id": "Ugxmp4H1V3frpxqha_N4AaABAg",
+  "snippet": {
+    "videoId": "8Jd2PlCmZhA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FKshAQOKJpfPgQz1-pvyhFhQITE",
+      "id": "Ugxmp4H1V3frpxqha_N4AaABAg",
+      "snippet": {
+        "videoId": "8Jd2PlCmZhA",
+        "textDisplay": "EXURA GRAN MAS RES",
+        "textOriginal": "EXURA GRAN MAS RES",
+        "authorDisplayName": "Lucas Vascon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAOYdqUmwQP0jjDhCkiGDenhvuK4_Gy4JOMxq8sw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdZbm9LKwwvF4mgXrw0s9wQ",
+        "authorChannelId": {
+          "value": "UCdZbm9LKwwvF4mgXrw0s9wQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-17T15:58:18Z",
+        "updatedAt": "2022-02-17T15:58:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dWiIDSZnN_M1hEUXzYzrOXQrg1s",
+      "id": "Ugxmp4H1V3frpxqha_N4AaABAg.9YYu566FcGE9YYwRMKlFSv",
+      "snippet": {
+        "textDisplay": "Exura sio",
+        "textOriginal": "Exura sio",
+        "parentId": "Ugxmp4H1V3frpxqha_N4AaABAg",
+        "authorDisplayName": "Eduardo Fernando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHqPNIy3yp5d5W1LPJOxLoXPJCk1Hw60mChax0Gg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDzdos4yDToO2lf63ckJfmw",
+        "authorChannelId": {
+          "value": "UCDzdos4yDToO2lf63ckJfmw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-17T16:18:49Z",
+        "updatedAt": "2022-02-17T16:18:49Z"
+      }
+    }
+  ]
+}

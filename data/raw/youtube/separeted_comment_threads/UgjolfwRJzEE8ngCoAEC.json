@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YQKAOA8lxPH8RVTxcIzwHk_Lpcs",
+  "id": "UgjolfwRJzEE8ngCoAEC",
+  "snippet": {
+    "videoId": "91CGA_Js7SU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "FRLdXKTDBvw0_cpzpYuJtLjXU2w",
+      "id": "UgjolfwRJzEE8ngCoAEC",
+      "snippet": {
+        "videoId": "91CGA_Js7SU",
+        "textDisplay": "Dobra pesma! Zdrav\u00edm z \u010cech, brat\u0159i!",
+        "textOriginal": "Dobra pesma! Zdrav\u00edm z \u010cech, brat\u0159i!",
+        "authorDisplayName": "Sy Ky",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0XnDaIH3cCYo1xN2WTmsoYv9KED22Cp6YRmHuHg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCocUs-Hmgq0YXWQqB3kIYDw",
+        "authorChannelId": {
+          "value": "UCocUs-Hmgq0YXWQqB3kIYDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 68,
+        "publishedAt": "2017-05-19T16:27:38Z",
+        "updatedAt": "2017-05-19T16:27:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z6OQwgl7uFdZB9UKdnQF6tJT2oE",
+      "id": "UgjolfwRJzEE8ngCoAEC.8SkTFoQN_I38w_ESwKhkCe",
+      "snippet": {
+        "textDisplay": "Pozdrav za brata iz \u010ce\u0161ke \u2764",
+        "textOriginal": "Pozdrav za brata iz \u010ce\u0161ke \u2764",
+        "parentId": "UgjolfwRJzEE8ngCoAEC",
+        "authorDisplayName": "Dejan Zdravkovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ31QNW0FY36UL2aBVFBeHBgRr0Y01LvBL0EYAMOw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6CjTGm6LfOr_hx2RELi8_A",
+        "authorChannelId": {
+          "value": "UC6CjTGm6LfOr_hx2RELi8_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2019-06-24T19:59:55Z",
+        "updatedAt": "2019-06-24T19:59:55Z"
+      }
+    }
+  ]
+}

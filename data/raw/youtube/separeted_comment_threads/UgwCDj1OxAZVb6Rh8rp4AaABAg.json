@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-LNxjvOsv1s1J8ontZ1JawzTm60",
+  "id": "UgwCDj1OxAZVb6Rh8rp4AaABAg",
+  "snippet": {
+    "videoId": "dI4KyX6phRI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NLpeL69twQ4RiyHY8pMztXIGAhI",
+      "id": "UgwCDj1OxAZVb6Rh8rp4AaABAg",
+      "snippet": {
+        "videoId": "dI4KyX6phRI",
+        "textDisplay": "They obviously use painkillers, the permanent ones",
+        "textOriginal": "They obviously use painkillers, the permanent ones",
+        "authorDisplayName": "Adam Gonzales",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRM-1UWa2OXtBp58uwi7wMaegV948GCQF0SIRlF1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKiv709-0vONlHY_GiXd-Aw",
+        "authorChannelId": {
+          "value": "UCKiv709-0vONlHY_GiXd-Aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2022-05-28T03:04:36Z",
+        "updatedAt": "2022-05-28T03:04:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vFz9WKDId0Hf5-EYSVtqQLVcsZE",
+      "id": "UgwCDj1OxAZVb6Rh8rp4AaABAg.9bZ01twsEcy9bczu8v39-A",
+      "snippet": {
+        "textDisplay": "Like those in usa. Anti vax love em",
+        "textOriginal": "Like those in usa. Anti vax love em",
+        "parentId": "UgwCDj1OxAZVb6Rh8rp4AaABAg",
+        "authorDisplayName": "Zack Smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQurTDcOoony9Lm-7Ikw__OW4zF6DbPVohSRSGlBytndAIRQ_ovwJrKQissT_-S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl_ja1N30616RCYtbginlMQ",
+        "authorChannelId": {
+          "value": "UCl_ja1N30616RCYtbginlMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-30T01:30:52Z",
+        "updatedAt": "2022-05-30T01:30:52Z"
+      }
+    }
+  ]
+}

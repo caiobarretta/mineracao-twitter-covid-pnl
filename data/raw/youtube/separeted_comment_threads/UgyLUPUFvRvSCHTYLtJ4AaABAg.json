@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RkRo6wsuGrJL19KRvEPXg-XLStg",
+  "id": "UgyLUPUFvRvSCHTYLtJ4AaABAg",
+  "snippet": {
+    "videoId": "aBaVQAleeeg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HF0WQpA50uqA73BNj3qKlJ9N_nc",
+      "id": "UgyLUPUFvRvSCHTYLtJ4AaABAg",
+      "snippet": {
+        "videoId": "aBaVQAleeeg",
+        "textDisplay": "Muito bom! Parab\u00e9ns! S\u00f3 a m\u00fasica de fundo ficou um pouco alta.",
+        "textOriginal": "Muito bom! Parab\u00e9ns! S\u00f3 a m\u00fasica de fundo ficou um pouco alta.",
+        "authorDisplayName": "Karen Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQE3jR5QoiaM4x4wPPkIZnTBdLzekMkquUemQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqXyQPEi7IaOOvSrN8uEyBQ",
+        "authorChannelId": {
+          "value": "UCqXyQPEi7IaOOvSrN8uEyBQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-09-17T19:56:19Z",
+        "updatedAt": "2020-09-17T19:56:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zuMruP55xx_lfFwfxwP-jvpfWYc",
+      "id": "UgyLUPUFvRvSCHTYLtJ4AaABAg.9DiWZBIhcji9ITM-uaGlDg",
+      "snippet": {
+        "textDisplay": "Verdade amei, s\u00f3 a m\u00fasica que incomoda um pouco",
+        "textOriginal": "Verdade amei, s\u00f3 a m\u00fasica que incomoda um pouco",
+        "parentId": "UgyLUPUFvRvSCHTYLtJ4AaABAg",
+        "authorDisplayName": "Juliana Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGqr9jysLJSKTFw9b2GzsGsjMY1hCbqLBth1ey=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbYMrQqgsvuEghBbhtEYJFA",
+        "authorChannelId": {
+          "value": "UCbYMrQqgsvuEghBbhtEYJFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-13T19:53:15Z",
+        "updatedAt": "2021-01-13T19:53:15Z"
+      }
+    }
+  ]
+}

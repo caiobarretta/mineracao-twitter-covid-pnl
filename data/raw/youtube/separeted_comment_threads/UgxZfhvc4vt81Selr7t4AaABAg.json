@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zzxvoOxlGhRJs7zRDCp6H-dpBy8",
+  "id": "UgxZfhvc4vt81Selr7t4AaABAg",
+  "snippet": {
+    "videoId": "mQeYQ7e3EnQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IWvzbnRdq1C8p3cqt6QfsnXsO7U",
+      "id": "UgxZfhvc4vt81Selr7t4AaABAg",
+      "snippet": {
+        "videoId": "mQeYQ7e3EnQ",
+        "textDisplay": "\ud83d\ude43",
+        "textOriginal": "\ud83d\ude43",
+        "authorDisplayName": "erika Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgLM2IiVA_gEqej9QhBTgkQomI4qhYKnTbUw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCipjsDEw9eTeQf7FhmD_lQQ",
+        "authorChannelId": {
+          "value": "UCipjsDEw9eTeQf7FhmD_lQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-27T21:15:14Z",
+        "updatedAt": "2022-05-27T21:15:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mSIa-zFi27_y-MbqA6t19zIufHE",
+      "id": "UgxZfhvc4vt81Selr7t4AaABAg.9bYO3-K8mw39bYSJA3TPqx",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0d\ud83d\udc4d",
+        "textOriginal": "\ud83d\ude0d\ud83d\udc4d",
+        "parentId": "UgxZfhvc4vt81Selr7t4AaABAg",
+        "authorDisplayName": "Yanuari Reyes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlTgVEhAVoJYGFGuCjDEDmVqq0I2_MK_qJpZ-z=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzuMo_XccxtRK28UnyLt_DQ",
+        "authorChannelId": {
+          "value": "UCzuMo_XccxtRK28UnyLt_DQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-27T21:52:23Z",
+        "updatedAt": "2022-05-27T21:52:23Z"
+      }
+    }
+  ]
+}

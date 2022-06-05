@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NFRTZvuIeIfxh8gwbEGUUbSFZZw",
+  "id": "UgyVLOIs00hfE6y2iXB4AaABAg",
+  "snippet": {
+    "videoId": "QmHz-3Gcmhs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kVJuYH16ywZdSiZ9GQt2cCewspc",
+      "id": "UgyVLOIs00hfE6y2iXB4AaABAg",
+      "snippet": {
+        "videoId": "QmHz-3Gcmhs",
+        "textDisplay": "Sa\u00fade \u00e9 cara no mundo inteiro",
+        "textOriginal": "Sa\u00fade \u00e9 cara no mundo inteiro",
+        "authorDisplayName": "CP MODELS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRa1E4Z44p4ZMufa3YkGQBY_cczfxti0UHelVe_og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC30ascyCoPVJqsqW8bXD2Fw",
+        "authorChannelId": {
+          "value": "UC30ascyCoPVJqsqW8bXD2Fw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-07T23:30:19Z",
+        "updatedAt": "2021-06-07T23:30:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_-QyM7eRNTXA0mmur9fiRPJkaHE",
+      "id": "UgyVLOIs00hfE6y2iXB4AaABAg.9OJ66cWzW-v9OKS9SOcZ6p",
+      "snippet": {
+        "textDisplay": "Pois \u00e9...",
+        "textOriginal": "Pois \u00e9...",
+        "parentId": "UgyVLOIs00hfE6y2iXB4AaABAg",
+        "authorDisplayName": "Destino: Berlim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6Es-sLPrOjprcLdUt5HmFNvP125HIsk6YYcc3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHJd8Np1fTwLUfBJsvH9RRA",
+        "authorChannelId": {
+          "value": "UCHJd8Np1fTwLUfBJsvH9RRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-08T12:02:11Z",
+        "updatedAt": "2021-06-08T12:02:11Z"
+      }
+    }
+  ]
+}

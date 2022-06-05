@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0vmeWfDfyf2ZSwHwPinGOaI-x5w",
+  "id": "UgxMO7XIWUEgzaN37294AaABAg",
+  "snippet": {
+    "videoId": "clmqtxiziWg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-DLYJfF6LQdJjBRBJPapSeP6UTU",
+      "id": "UgxMO7XIWUEgzaN37294AaABAg",
+      "snippet": {
+        "videoId": "clmqtxiziWg",
+        "textDisplay": "Bruh coranavirus aint gonna take out the world",
+        "textOriginal": "Bruh coranavirus aint gonna take out the world",
+        "authorDisplayName": "Just A Pair of Legs",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/A8LhB4M5cD5YcLGASVsYGKQ3PKm3UZ4jKSylBqWLcJ7lps_39HtKSmjo7z7gMI5UZ0WC6aF0NQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVG97_pEC9_X99qwXUeRaPA",
+        "authorChannelId": {
+          "value": "UCVG97_pEC9_X99qwXUeRaPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-04T22:21:16Z",
+        "updatedAt": "2020-03-04T22:21:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aEsexkDk9Typ8QDNoD6LJ2A3k6g",
+      "id": "UgxMO7XIWUEgzaN37294AaABAg.95nWYO-_jK795nZvQA2GcE",
+      "snippet": {
+        "textDisplay": "nah but maybe yo mamma",
+        "textOriginal": "nah but maybe yo mamma",
+        "parentId": "UgxMO7XIWUEgzaN37294AaABAg",
+        "authorDisplayName": "Keefe 666",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQKYd9al6LmEVeG1oua63cZpZVjBdfIGQTYYp6PVA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVXk0u3aYbitNZLKnHvU3lQ",
+        "authorChannelId": {
+          "value": "UCVXk0u3aYbitNZLKnHvU3lQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-04T22:50:45Z",
+        "updatedAt": "2020-03-04T22:50:45Z"
+      }
+    }
+  ]
+}

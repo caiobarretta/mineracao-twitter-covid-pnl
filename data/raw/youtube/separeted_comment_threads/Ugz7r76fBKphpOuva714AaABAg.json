@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kGJKwh6SAwsb82P_sdp0_EA793s",
+  "id": "Ugz7r76fBKphpOuva714AaABAg",
+  "snippet": {
+    "videoId": "gJGX-4IgXvQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "P9_LgPJcCheyjhHtj3GOznNsUmE",
+      "id": "Ugz7r76fBKphpOuva714AaABAg",
+      "snippet": {
+        "videoId": "gJGX-4IgXvQ",
+        "textDisplay": "Nada do que sai da boca de Jair Bolsonaro \u00e9 justific\u00e1vel.",
+        "textOriginal": "Nada do que sai da boca de Jair Bolsonaro \u00e9 justific\u00e1vel.",
+        "authorDisplayName": "Aline Mrs",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0SPLUjtFYeX6YUj7zvhNRv8ybtz7VQ59H0g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0RGwf7YLlu83X0iPiAdPyw",
+        "authorChannelId": {
+          "value": "UC0RGwf7YLlu83X0iPiAdPyw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-01-20T01:46:12Z",
+        "updatedAt": "2022-01-20T01:46:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cc0sc6lpBt5eF6FBNDGnvpY5Hys",
+      "id": "Ugz7r76fBKphpOuva714AaABAg.9XPHJaFU6Md9XUr6yAtvmA",
+      "snippet": {
+        "textDisplay": "Ent\u00e3o justifica voc\u00ea.",
+        "textOriginal": "Ent\u00e3o justifica voc\u00ea.",
+        "parentId": "Ugz7r76fBKphpOuva714AaABAg",
+        "authorDisplayName": "Graziela Pirillo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSba9_lIf-pqgA9WEeTFHm_CHH0ORRUSwOm2gEk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiSmg3Wc58u1bNzeSMCe_dQ",
+        "authorChannelId": {
+          "value": "UCiSmg3Wc58u1bNzeSMCe_dQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-22T05:43:59Z",
+        "updatedAt": "2022-01-22T05:43:59Z"
+      }
+    }
+  ]
+}

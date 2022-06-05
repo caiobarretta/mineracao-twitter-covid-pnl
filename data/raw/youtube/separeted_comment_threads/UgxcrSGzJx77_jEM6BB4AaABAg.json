@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ODptRPWgFa47MTZ3_T9auinRMKo",
+  "id": "UgxcrSGzJx77_jEM6BB4AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "l8VadbUMn2v7_WAH2mQIQTM-LD0",
+      "id": "UgxcrSGzJx77_jEM6BB4AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "Bom dia amiga!",
+        "textOriginal": "Bom dia amiga!",
+        "authorDisplayName": "Simplesmente ANA.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0fK2AKvg_f8lanOcqfg_OAmM-VSQHE2ii71QSZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyGbEJRu_2wwoNn8XkmRb1Q",
+        "authorChannelId": {
+          "value": "UCyGbEJRu_2wwoNn8XkmRb1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-30T14:15:19Z",
+        "updatedAt": "2022-04-30T14:15:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5zIljBBpzthX3QBourtiD2Rzgiw",
+      "id": "UgxcrSGzJx77_jEM6BB4AaABAg.9aS6Xs-f8HK9aS9CMka7vp",
+      "snippet": {
+        "textDisplay": "Ola",
+        "textOriginal": "Ola",
+        "parentId": "UgxcrSGzJx77_jEM6BB4AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-30T14:38:36Z",
+        "updatedAt": "2022-04-30T14:38:36Z"
+      }
+    }
+  ]
+}

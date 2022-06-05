@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "C_lYmRiIVt9GkK_YwDZQr-j2Udk",
+  "id": "UgwvcF0gpL4jWBiXGVV4AaABAg",
+  "snippet": {
+    "videoId": "f-7pc-7rmko",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gvqQg4Gy46hG6yL0ILf66r9kS88",
+      "id": "UgwvcF0gpL4jWBiXGVV4AaABAg",
+      "snippet": {
+        "videoId": "f-7pc-7rmko",
+        "textDisplay": "Muito interessante esse assunto gostei \ud83d\udc4d",
+        "textOriginal": "Muito interessante esse assunto gostei \ud83d\udc4d",
+        "authorDisplayName": "Maria De Fatima Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJZkcFKgSPtADS84T4EuDlzwrLZOQC8aB_YY2n9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrNGZMNvDQoh76_SS2oN5pQ",
+        "authorChannelId": {
+          "value": "UCrNGZMNvDQoh76_SS2oN5pQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 32,
+        "publishedAt": "2020-05-02T12:14:48Z",
+        "updatedAt": "2020-05-02T12:14:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Mf2ha92lRycKN1RzYX5NIyH5daw",
+      "id": "UgwvcF0gpL4jWBiXGVV4AaABAg.989M299duT298AVA1Yu9DX",
+      "snippet": {
+        "textDisplay": "Que bom, Maria de Fatima. De que tipo de v\u00eddeo voc\u00ea gosta? A gente pode sugerir outros.",
+        "textOriginal": "Que bom, Maria de Fatima. De que tipo de v\u00eddeo voc\u00ea gosta? A gente pode sugerir outros.",
+        "parentId": "UgwvcF0gpL4jWBiXGVV4AaABAg",
+        "authorDisplayName": "Jornal O Globo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TicxOQ17nxLRnWaVlA_16uIK-pHiBTmb2wO53tEH3JQgYMRjUgr7_-AgXVGQiq-UuFLNy5S6Qw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-6xqzMBF2CXTImn_a4aCVg",
+        "authorChannelId": {
+          "value": "UC-6xqzMBF2CXTImn_a4aCVg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2020-05-02T22:53:45Z",
+        "updatedAt": "2020-05-02T22:53:45Z"
+      }
+    }
+  ]
+}

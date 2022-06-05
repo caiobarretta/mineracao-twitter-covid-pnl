@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IxDxq3WVETIW41arvwEhmdoQRMg",
+  "id": "UgxRgLyv0IGXkTnpvqN4AaABAg",
+  "snippet": {
+    "videoId": "heZcHPRi4Mc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DTKHMLTNhphVPsoufuucIqsTVIM",
+      "id": "UgxRgLyv0IGXkTnpvqN4AaABAg",
+      "snippet": {
+        "videoId": "heZcHPRi4Mc",
+        "textDisplay": "que video perfeito",
+        "textOriginal": "que video perfeito",
+        "authorDisplayName": "Gustavo Amarante",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSRc6di5Kf5brzMYnuU-TzanRo3U0q8zQCu8RXl4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNLzCfpg7m2yjCjn4bFD_wQ",
+        "authorChannelId": {
+          "value": "UCNLzCfpg7m2yjCjn4bFD_wQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-18T17:23:58Z",
+        "updatedAt": "2020-11-18T17:23:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "b-Ncsl34OXoNdZR74Ofcrzz-5Y8",
+      "id": "UgxRgLyv0IGXkTnpvqN4AaABAg.9GCtPXSdr739GtWtopO-5W",
+      "snippet": {
+        "textDisplay": "Que gado estatal perfeito.",
+        "textOriginal": "Que gado estatal perfeito.",
+        "parentId": "UgxRgLyv0IGXkTnpvqN4AaABAg",
+        "authorDisplayName": "V. Neto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsMLkB98gke6cSM6tafbUbncbx7k0QIvvGJ-hFjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPxyDtQeVZExL-rKyJe-gMg",
+        "authorChannelId": {
+          "value": "UCPxyDtQeVZExL-rKyJe-gMg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-05T16:05:06Z",
+        "updatedAt": "2020-12-05T16:05:06Z"
+      }
+    }
+  ]
+}

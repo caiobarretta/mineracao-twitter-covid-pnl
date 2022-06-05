@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j2d5BB6NNfjL3VFMrmxcz7pBT7A",
+  "id": "UgwDgbaRVIwGvjACG_p4AaABAg",
+  "snippet": {
+    "videoId": "hJjRAa_kSqM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kLLCbUCl3Cx4v5x9CS_fkmiKx3w",
+      "id": "UgwDgbaRVIwGvjACG_p4AaABAg",
+      "snippet": {
+        "videoId": "hJjRAa_kSqM",
+        "textDisplay": "Este Pa\u00eds  se merece todo \nlo que pasa qu\u00e9 no es nada, \npara la qu\u00e9 nos espera.",
+        "textOriginal": "Este Pa\u00eds  se merece todo \nlo que pasa qu\u00e9 no es nada, \npara la qu\u00e9 nos espera.",
+        "authorDisplayName": "M",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTPo43R0bmAcZGL5Ylgz4tI6J1HSaUuhum-v00-Bs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGIzPbSDyB3ehCFhjcf6QAg",
+        "authorChannelId": {
+          "value": "UCGIzPbSDyB3ehCFhjcf6QAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-30T07:07:39Z",
+        "updatedAt": "2022-05-30T08:02:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9FoskwzPGXt9XcHs7Q2QIT1v9-4",
+      "id": "UgwDgbaRVIwGvjACG_p4AaABAg.9bdaRlja5pe9bdqHXk6bjm",
+      "snippet": {
+        "textDisplay": "No es el Pa\u00eds qui\u00e9n se merece todo lo que pueda pasar, Somos quienes lo habitamos por cobardes.",
+        "textOriginal": "No es el Pa\u00eds qui\u00e9n se merece todo lo que pueda pasar, Somos quienes lo habitamos por cobardes.",
+        "parentId": "UgwDgbaRVIwGvjACG_p4AaABAg",
+        "authorDisplayName": "Montse Linapri",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyDj96EtuFmeN0vKcxtnBukfLgDJXQylGZzg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6UKSHKsOqVgMYi0eag8EVA",
+        "authorChannelId": {
+          "value": "UC6UKSHKsOqVgMYi0eag8EVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-30T09:26:04Z",
+        "updatedAt": "2022-05-30T09:26:04Z"
+      }
+    }
+  ]
+}

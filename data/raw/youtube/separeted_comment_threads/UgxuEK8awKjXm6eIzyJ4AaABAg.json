@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "umLUyfgcCT8AUzrnYxw1s1SKHq4",
+  "id": "UgxuEK8awKjXm6eIzyJ4AaABAg",
+  "snippet": {
+    "videoId": "IEeuzXK6j4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dBQ3ZbDH6LGHCFd1n2tL4gjy260",
+      "id": "UgxuEK8awKjXm6eIzyJ4AaABAg",
+      "snippet": {
+        "videoId": "IEeuzXK6j4E",
+        "textDisplay": "J\u00e1 acabou faz tempo agora \u00e9 politica",
+        "textOriginal": "J\u00e1 acabou faz tempo agora \u00e9 politica",
+        "authorDisplayName": "ana lucia schmidt",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRtoKAZmypHL8J1srYR3CDC6mxmbZ0vd602A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZNqHvduqGMI3pddIt1p9pQ",
+        "authorChannelId": {
+          "value": "UCZNqHvduqGMI3pddIt1p9pQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-15T14:40:43Z",
+        "updatedAt": "2022-02-15T14:40:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "nUAEIUJl5t70-5SWEB4mjlzvRCo",
+      "id": "UgxuEK8awKjXm6eIzyJ4AaABAg.9YTbcAG30zx9Ye2OZqcia7",
+      "snippet": {
+        "textDisplay": "Com certeza!",
+        "textOriginal": "Com certeza!",
+        "parentId": "UgxuEK8awKjXm6eIzyJ4AaABAg",
+        "authorDisplayName": "Cyntia Bandeira Lino",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zESXA3kfqzNdfz8Ibb0aApxx4edVNH3evzc4r9WafMXi9JR91MC8Zlx3ChVgQ-_xbcn3kwWzO5Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyZqvUWjTXz0T77pDPsjnAQ",
+        "authorChannelId": {
+          "value": "UCyZqvUWjTXz0T77pDPsjnAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-20T01:15:03Z",
+        "updatedAt": "2022-02-20T01:15:03Z"
+      }
+    }
+  ]
+}

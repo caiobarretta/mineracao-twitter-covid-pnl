@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "McqsqlDyyP4aNgK6FRpdNHFSB_w",
+  "id": "UgxJvNNFJiktZkuEaYt4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kPpBfPPV8HnSbaZsZmR4S0iz3NY",
+      "id": "UgxJvNNFJiktZkuEaYt4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "arek\" saking napi niki",
+        "textOriginal": "arek\" saking napi niki",
+        "authorDisplayName": "kadek Bagiarta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7Y9JpHZb7lWgZrLIblfR67zZcM8QzUyj0RGs0mA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFzAVjWDp-fQXA2sh5d9q_g",
+        "authorChannelId": {
+          "value": "UCFzAVjWDp-fQXA2sh5d9q_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-17T14:24:59Z",
+        "updatedAt": "2021-10-17T14:24:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k694nwMq1O3WUxbwTFlBoVlYIPY",
+      "id": "UgxJvNNFJiktZkuEaYt4AaABAg.9Tb0cyPyFzF9Tc4hJP8JzQ",
+      "snippet": {
+        "textDisplay": "Gianyar bli",
+        "textOriginal": "Gianyar bli",
+        "parentId": "UgxJvNNFJiktZkuEaYt4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T00:19:46Z",
+        "updatedAt": "2021-10-18T00:19:46Z"
+      }
+    }
+  ]
+}

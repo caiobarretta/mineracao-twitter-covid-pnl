@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "thCjLu5qGEcen8EscCMiLyqvHSk",
+  "id": "UgwiOAHMG0K829vxikB4AaABAg",
+  "snippet": {
+    "videoId": "f-7pc-7rmko",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ItMeEY1XIyehFM7Em2ZMOpHJ0cQ",
+      "id": "UgwiOAHMG0K829vxikB4AaABAg",
+      "snippet": {
+        "videoId": "f-7pc-7rmko",
+        "textDisplay": "Se o seu Jair fosse rei nessa \u00e9poca, imagina quanta gente ia pegar gripe espanhola",
+        "textOriginal": "Se o seu Jair fosse rei nessa \u00e9poca, imagina quanta gente ia pegar gripe espanhola",
+        "authorDisplayName": "Jamie Gioca",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYOF_P8TfEXtyMoItuLqx-1wXoc_ROjIMNORzDew=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiuMhuFd6b9hDAeTMOmj-qw",
+        "authorChannelId": {
+          "value": "UCiuMhuFd6b9hDAeTMOmj-qw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-05-06T15:28:50Z",
+        "updatedAt": "2020-05-06T15:28:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RS4o90uDm4LJD8_ZTCedESws_xM",
+      "id": "UgwiOAHMG0K829vxikB4AaABAg.98K-QlMOqJt9JLqZST9Wug",
+      "snippet": {
+        "textDisplay": "E tbm iam morrer milh\u00f5es de fome, j\u00e1 que n\u00e3o teria o aux\u00edlio.",
+        "textOriginal": "E tbm iam morrer milh\u00f5es de fome, j\u00e1 que n\u00e3o teria o aux\u00edlio.",
+        "parentId": "UgwiOAHMG0K829vxikB4AaABAg",
+        "authorDisplayName": "Aline Pimenta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQ6xCh9lwmn9XWjVRAUU24zDE2hV1thcvgpYbx3fI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4YxEghJcyN9n1JXAgqNNpQ",
+        "authorChannelId": {
+          "value": "UC4YxEghJcyN9n1JXAgqNNpQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-04T18:26:27Z",
+        "updatedAt": "2021-02-04T18:26:27Z"
+      }
+    }
+  ]
+}

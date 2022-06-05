@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "APt49TnluQ522q3DoyhdQ1M8XAY",
+  "id": "UgwdU1-Ujh99-jHOE9B4AaABAg",
+  "snippet": {
+    "videoId": "sHP0UIdZyI4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "n50DAioaSLSXmyKJp58nW9QjcDo",
+      "id": "UgwdU1-Ujh99-jHOE9B4AaABAg",
+      "snippet": {
+        "videoId": "sHP0UIdZyI4",
+        "textDisplay": "I had something last year that almost killed me , or it felt like I was going to die. \nI was sick for a month .",
+        "textOriginal": "I had something last year that almost killed me , or it felt like I was going to die. \nI was sick for a month .",
+        "authorDisplayName": "Dragon Heart",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLST5K9K48sGgx1_-YhjqkcGKWR0c-cGTztrmrLX-g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNO5kjBLmNmNs87KD9tO-uQ",
+        "authorChannelId": {
+          "value": "UCNO5kjBLmNmNs87KD9tO-uQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-03-18T19:12:12Z",
+        "updatedAt": "2020-03-18T19:12:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "A8jUPL6otYGTnitdNr168FS9Q04",
+      "id": "UgwdU1-Ujh99-jHOE9B4AaABAg.96ME1tM7ziM96WaNbtg9Ha",
+      "snippet": {
+        "textDisplay": "Hope you're safe now.",
+        "textOriginal": "Hope you're safe now.",
+        "parentId": "UgwdU1-Ujh99-jHOE9B4AaABAg",
+        "authorDisplayName": "Akshay",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnBajiizbAK0jvQsuie0dTIECTkcWtOOmhag-V0Wg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTM5gqAi7KwDYNWeR68GDKQ",
+        "authorChannelId": {
+          "value": "UCTM5gqAi7KwDYNWeR68GDKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-03-22T19:48:33Z",
+        "updatedAt": "2020-03-22T19:48:33Z"
+      }
+    }
+  ]
+}

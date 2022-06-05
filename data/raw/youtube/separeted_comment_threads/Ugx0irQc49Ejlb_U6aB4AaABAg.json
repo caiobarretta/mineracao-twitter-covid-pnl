@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "CdWobRY1KI54P1-IjsWixYncILg",
+  "id": "Ugx0irQc49Ejlb_U6aB4AaABAg",
+  "snippet": {
+    "videoId": "4nF8NVGF-uM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "f8xYQUa8vIeJ5z7aoYRbVmBR_jw",
+      "id": "Ugx0irQc49Ejlb_U6aB4AaABAg",
+      "snippet": {
+        "videoId": "4nF8NVGF-uM",
+        "textDisplay": "Primeiraaaaaaa",
+        "textOriginal": "Primeiraaaaaaa",
+        "authorDisplayName": "Larissa Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvFkEGAnDAsjMkIIlGCq9NxWI77Tx80hUfjF2-ag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNJKGAvt25Kg-yFBD8EQkuQ",
+        "authorChannelId": {
+          "value": "UCNJKGAvt25Kg-yFBD8EQkuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-12T22:00:27Z",
+        "updatedAt": "2021-05-12T22:00:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yh3wFK6EseAi4DT_-JHvBU6eCdo",
+      "id": "Ugx0irQc49Ejlb_U6aB4AaABAg.9NG-9go0P0z9NG16SHtV01",
+      "snippet": {
+        "textDisplay": "sqn",
+        "textOriginal": "sqn",
+        "parentId": "Ugx0irQc49Ejlb_U6aB4AaABAg",
+        "authorDisplayName": "Joan P Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSag3rHunKBsEh7xfEptZjSIw7c-pbA7Jp6DgTd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTitpHMSnhla-5U3FuBJVVA",
+        "authorChannelId": {
+          "value": "UCTitpHMSnhla-5U3FuBJVVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-12T22:17:29Z",
+        "updatedAt": "2021-05-12T22:17:29Z"
+      }
+    }
+  ]
+}

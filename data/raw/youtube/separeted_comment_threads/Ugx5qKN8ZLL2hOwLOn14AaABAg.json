@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8Xu6kDOW1rhtW9JIp8Mpg6IIcpk",
+  "id": "Ugx5qKN8ZLL2hOwLOn14AaABAg",
+  "snippet": {
+    "videoId": "hxZpWYwNo5M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VhVhncR9D--I8spxdGiOPH0TUB0",
+      "id": "Ugx5qKN8ZLL2hOwLOn14AaABAg",
+      "snippet": {
+        "videoId": "hxZpWYwNo5M",
+        "textDisplay": "3% de morte no mundo todo.  \u00c9 gente pra Cara\u00ed",
+        "textOriginal": "3% de morte no mundo todo.  \u00c9 gente pra Cara\u00ed",
+        "authorDisplayName": "Leonardo Borges",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/JjnqnDp6QqjEz7eT6FNMRc8ky9vseBg3BVVWfNCB-fArdrInuF70zaulHya5vcubjOB7PVq6DA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7LcX15la60y7QjnVIhLPjQ",
+        "authorChannelId": {
+          "value": "UC7LcX15la60y7QjnVIhLPjQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-12T01:02:53Z",
+        "updatedAt": "2020-03-12T01:02:53Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yq6CmYjG_N5rvHjHMwFHrqI6I44",
+      "id": "Ugx5qKN8ZLL2hOwLOn14AaABAg.964pbJCsz3w964rxVoYbZk",
+      "snippet": {
+        "textDisplay": "Boa cara, t\u00e1 sabendo...",
+        "textOriginal": "Boa cara, t\u00e1 sabendo...",
+        "parentId": "Ugx5qKN8ZLL2hOwLOn14AaABAg",
+        "authorDisplayName": "zambon\u0131",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/C9rD1sYv8Zq5_Htz85OGX3we7YAE04a0yEkfXH8K-535xRQkHS5cFiIVC8YKW9Zp8MFlnKqCLQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCR2EiSnuEiapCNwiIUVhVbA",
+        "authorChannelId": {
+          "value": "UCR2EiSnuEiapCNwiIUVhVbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-12T01:23:24Z",
+        "updatedAt": "2020-03-12T01:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7CRC9U0uMAAc7g73aS1iWfLAhZc",
+      "id": "Ugx5qKN8ZLL2hOwLOn14AaABAg.964pbJCsz3w964q597tWGN",
+      "snippet": {
+        "textDisplay": "\u00c9 3% dos infectados, 3% do mundo todo s\u00f3 aconteceria se o mundo todo estivesse infectado.",
+        "textOriginal": "\u00c9 3% dos infectados, 3% do mundo todo s\u00f3 aconteceria se o mundo todo estivesse infectado.",
+        "parentId": "Ugx5qKN8ZLL2hOwLOn14AaABAg",
+        "authorDisplayName": "Henrique Ritter",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZxzAhr9NOCTQA10aJZCQ07XdFwx46K5qfpCIlP6I=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCY9rhViBNEnEtzMgwq_nWGw",
+        "authorChannelId": {
+          "value": "UCY9rhViBNEnEtzMgwq_nWGw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-03-12T01:07:06Z",
+        "updatedAt": "2020-03-12T01:07:06Z"
+      }
+    }
+  ]
+}

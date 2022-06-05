@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y8hMh5pOM4P2S0Ipkse-j1OnLBU",
+  "id": "UgyO3I_SG79Qx1WIwRZ4AaABAg",
+  "snippet": {
+    "videoId": "-S4iHBcx0hE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "du6Qfur7_9TpzyDI44p9GItJTW8",
+      "id": "UgyO3I_SG79Qx1WIwRZ4AaABAg",
+      "snippet": {
+        "videoId": "-S4iHBcx0hE",
+        "textDisplay": "Maconha tb aumentou o consumo.......tem at\u00e9 fila na biqueira",
+        "textOriginal": "Maconha tb aumentou o consumo.......tem at\u00e9 fila na biqueira",
+        "authorDisplayName": "Lazlo Blast",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR-i9NX1aQ58WxmmCMLaRnhIJuL1gegKw0Pg6P2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCieRcgAVtJB6U-cpkz-9rBg",
+        "authorChannelId": {
+          "value": "UCieRcgAVtJB6U-cpkz-9rBg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2020-06-29T15:50:36Z",
+        "updatedAt": "2020-06-29T15:50:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZZdASXLQU6qG9RBmfDTeox2xChY",
+      "id": "UgyO3I_SG79Qx1WIwRZ4AaABAg.9AV4qSYStFa9AXLc5UUEFS",
+      "snippet": {
+        "textDisplay": "Essa foi boa kkk",
+        "textOriginal": "Essa foi boa kkk",
+        "parentId": "UgyO3I_SG79Qx1WIwRZ4AaABAg",
+        "authorDisplayName": "Tv Net",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS_7FjrUD7LZSwoltdRsdjgRv25Tap9VkRKBfw-754=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrh8tikqfBJbdpoPF0CSbNA",
+        "authorChannelId": {
+          "value": "UCrh8tikqfBJbdpoPF0CSbNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-30T12:55:40Z",
+        "updatedAt": "2020-06-30T12:55:40Z"
+      }
+    }
+  ]
+}

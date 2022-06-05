@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FIGsjnWk0Dta5YNXrF_Jkp51A9k",
+  "id": "UgyJn2xi-NVz7A1cQSN4AaABAg",
+  "snippet": {
+    "videoId": "ztD6FExoBmg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "_xUz3TXZxyUsScE2DtPJ_D93HKo",
+      "id": "UgyJn2xi-NVz7A1cQSN4AaABAg",
+      "snippet": {
+        "videoId": "ztD6FExoBmg",
+        "textDisplay": "ELES COBRAM PELA AMBUL\u00c2NCIA?????????\nGENTE???????",
+        "textOriginal": "ELES COBRAM PELA AMBUL\u00c2NCIA?????????\nGENTE???????",
+        "authorDisplayName": "Rodrigo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLREXzmNUoHnBxjMVfC0acaduUnJqc8wg-IF-i-m5Yc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCo2FiTDNsSBA41VSpM-GSaQ",
+        "authorChannelId": {
+          "value": "UCo2FiTDNsSBA41VSpM-GSaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-05-04T01:32:02Z",
+        "updatedAt": "2020-05-04T01:32:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eNRIhKRkmgMUB5AkuYnaVde5T7E",
+      "id": "UgyJn2xi-NVz7A1cQSN4AaABAg.98DM49EwwsG98GPllh7xtt",
+      "snippet": {
+        "textDisplay": "e n\u00e3o \u00e9 barato! \ud83e\udd11",
+        "textOriginal": "e n\u00e3o \u00e9 barato! \ud83e\udd11",
+        "parentId": "UgyJn2xi-NVz7A1cQSN4AaABAg",
+        "authorDisplayName": "Vamos Fugir Blog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8zt4n0G65CR8UiYAMNItKMYcLeqoxcwDHbhIhBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCngY-0fPeVYo-TdIBmj-hGg",
+        "authorChannelId": {
+          "value": "UCngY-0fPeVYo-TdIBmj-hGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-05T06:02:04Z",
+        "updatedAt": "2020-05-05T06:02:04Z"
+      }
+    }
+  ]
+}

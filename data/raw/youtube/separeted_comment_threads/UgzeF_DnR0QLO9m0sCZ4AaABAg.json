@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jKG9oN-fNq_jCXJFYBdlXhPrikc",
+  "id": "UgzeF_DnR0QLO9m0sCZ4AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1D8dEKPZqXxnFtdlJtuI9Wzj-8w",
+      "id": "UgzeF_DnR0QLO9m0sCZ4AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "At\u00e9 o pr\u00f3ximo v\u00eddeo abra\u00e7o Josi",
+        "textOriginal": "At\u00e9 o pr\u00f3ximo v\u00eddeo abra\u00e7o Josi",
+        "authorDisplayName": "Eletrica Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uARKR9VUUJsqhWkA96-HUoLM23TCfKlTb2lvNSjWossPKvUv-x53z2JFPxIb0Ngfl6Af-igQSf8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzzpooa6kP2T21J9BECNxJw",
+        "authorChannelId": {
+          "value": "UCzzpooa6kP2T21J9BECNxJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T15:03:45Z",
+        "updatedAt": "2022-04-28T15:03:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vMrtI2WWsq2mJYbU9qpRYjqSUG8",
+      "id": "UgzeF_DnR0QLO9m0sCZ4AaABAg.9aN2UrkOlU79aNXfwEETil",
+      "snippet": {
+        "textDisplay": "Valeu \ud83d\udc4d\ud83d\udc4d\ud83d\ude4f",
+        "textOriginal": "Valeu \ud83d\udc4d\ud83d\udc4d\ud83d\ude4f",
+        "parentId": "UgzeF_DnR0QLO9m0sCZ4AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T19:36:17Z",
+        "updatedAt": "2022-04-28T19:36:17Z"
+      }
+    }
+  ]
+}

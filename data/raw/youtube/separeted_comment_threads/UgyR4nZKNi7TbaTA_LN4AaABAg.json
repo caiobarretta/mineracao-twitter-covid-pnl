@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6ycV7GZ9QixYhiPUM_PvVMYeCbs",
+  "id": "UgyR4nZKNi7TbaTA_LN4AaABAg",
+  "snippet": {
+    "videoId": "DKEvFB0RCXM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yu_rBtpoF11A58IACcwwD3kNYfY",
+      "id": "UgyR4nZKNi7TbaTA_LN4AaABAg",
+      "snippet": {
+        "videoId": "DKEvFB0RCXM",
+        "textDisplay": "This was awesome, it was better than the actual Jurassic World sequel we got. My condolences to the people of the planet where infected Mosasaur lands.",
+        "textOriginal": "This was awesome, it was better than the actual Jurassic World sequel we got. My condolences to the people of the planet where infected Mosasaur lands.",
+        "authorDisplayName": "Dharmendra Oswal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQk0nlaCuRvozLwP7Lnz2kLKh81Q5lK1oAvmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOspbz7apeKvHGuV2njydjw",
+        "authorChannelId": {
+          "value": "UCOspbz7apeKvHGuV2njydjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 19,
+        "publishedAt": "2020-12-13T15:37:51Z",
+        "updatedAt": "2020-12-13T15:39:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H_0p00IRRG16mP7EuxguN_FwdLk",
+      "id": "UgyR4nZKNi7TbaTA_LN4AaABAg.9HD48B7lhcZ9bSYlNW5Jlj",
+      "snippet": {
+        "textDisplay": "How dare you",
+        "textOriginal": "How dare you",
+        "parentId": "UgyR4nZKNi7TbaTA_LN4AaABAg",
+        "authorDisplayName": "AnimalFinder 296",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3gJA15YUaUxRScqMqJYSgI38uTVVePaRXICcR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQMtugoM_mQT9eORlwrpFxQ",
+        "authorChannelId": {
+          "value": "UCQMtugoM_mQT9eORlwrpFxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T14:53:22Z",
+        "updatedAt": "2022-05-25T14:53:22Z"
+      }
+    }
+  ]
+}

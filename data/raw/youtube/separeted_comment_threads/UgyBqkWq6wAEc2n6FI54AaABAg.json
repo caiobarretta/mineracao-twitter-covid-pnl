@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "txLjybkB3UpFp-e6nvanDtE5dCs",
+  "id": "UgyBqkWq6wAEc2n6FI54AaABAg",
+  "snippet": {
+    "videoId": "6Tb5ysL9Jrg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "at_mJfxvHYdPGCOPLzAWcAtO7J4",
+      "id": "UgyBqkWq6wAEc2n6FI54AaABAg",
+      "snippet": {
+        "videoId": "6Tb5ysL9Jrg",
+        "textDisplay": "N\u00e3o gostei desse estilo de v\u00eddeo",
+        "textOriginal": "N\u00e3o gostei desse estilo de v\u00eddeo",
+        "authorDisplayName": "Re",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSA1yCvFDrrhDS0Jfd7ehSw_n0-phPNF3LWU5y_9Dc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_LNHCfA2wGDk-Kz8cua3CQ",
+        "authorChannelId": {
+          "value": "UC_LNHCfA2wGDk-Kz8cua3CQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-03T23:54:13Z",
+        "updatedAt": "2020-12-03T23:54:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1_My4tQ8SN3WHW4jDMoPhae84ps",
+      "id": "UgyBqkWq6wAEc2n6FI54AaABAg.9GpCzuxAyx09MCy4c39Zzt",
+      "snippet": {
+        "textDisplay": "Fa\u00e7a uma cr\u00edtica construtiva, e diga como eles podem melhorar, n\u00e3o comentar esse tipo de coisa,  chega ser muita ignor\u00e2ncia sua",
+        "textOriginal": "Fa\u00e7a uma cr\u00edtica construtiva, e diga como eles podem melhorar, n\u00e3o comentar esse tipo de coisa,  chega ser muita ignor\u00e2ncia sua",
+        "parentId": "UgyBqkWq6wAEc2n6FI54AaABAg",
+        "authorDisplayName": "Agatha Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShgWOX2yfspEgX6gi7_pFpRezflWU9Al14CbU6E8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj9wyoyAa82Aq0rvLF7ctMA",
+        "authorChannelId": {
+          "value": "UCj9wyoyAa82Aq0rvLF7ctMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-04-16T21:13:10Z",
+        "updatedAt": "2021-04-16T21:14:23Z"
+      }
+    }
+  ]
+}

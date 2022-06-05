@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "v56yeSWj-eN3IgpZSRnWR0NkoNA",
+  "id": "UgzicoRyoWDIw_SaniV4AaABAg",
+  "snippet": {
+    "videoId": "DgHKVJ5T_Ro",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "p7ubRZX1mJUC-LSzOo1W3DeMUjs",
+      "id": "UgzicoRyoWDIw_SaniV4AaABAg",
+      "snippet": {
+        "videoId": "DgHKVJ5T_Ro",
+        "textDisplay": "culpa de quem msm ?",
+        "textOriginal": "culpa de quem msm ?",
+        "authorDisplayName": "FbiLanGame",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJAhdjOTZ888zJWmJumM-t0Tii9rmof6gp07c-8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWN0LYxI9KsSWZ5oQY_5BIg",
+        "authorChannelId": {
+          "value": "UCWN0LYxI9KsSWZ5oQY_5BIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-05T19:28:14Z",
+        "updatedAt": "2022-05-05T19:28:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DwwUiJMi4OzSlDHalOUVuROZIA0",
+      "id": "UgzicoRyoWDIw_SaniV4AaABAg.9aeYK46k7mM9aelkNuorzi",
+      "snippet": {
+        "textDisplay": "@Renato Francisco muito bem meu caro ! \nmas para muitos aqui no brasil vc ja sabe neh ?!",
+        "textOriginal": "@Renato Francisco muito bem meu caro ! \nmas para muitos aqui no brasil vc ja sabe neh ?!",
+        "parentId": "UgzicoRyoWDIw_SaniV4AaABAg",
+        "authorDisplayName": "FbiLanGame",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJAhdjOTZ888zJWmJumM-t0Tii9rmof6gp07c-8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWN0LYxI9KsSWZ5oQY_5BIg",
+        "authorChannelId": {
+          "value": "UCWN0LYxI9KsSWZ5oQY_5BIg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-05T21:34:18Z",
+        "updatedAt": "2022-05-05T21:34:18Z"
+      }
+    }
+  ]
+}

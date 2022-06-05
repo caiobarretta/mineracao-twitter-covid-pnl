@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-zHvcLG83VmQsykSfXv4koO-xYk",
+  "id": "UgxoLeAiW136gIh6gOF4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MS2rjVWPlAcadOeg_otVcF9gWQA",
+      "id": "UgxoLeAiW136gIh6gOF4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "Merinding kak\u263a\ufe0f",
+        "textOriginal": "Merinding kak\u263a\ufe0f",
+        "authorDisplayName": "Nengah Sriati",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBL8GwWOJzzAxuYnVH7zHsZKBhc09Vn_qrcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2tMYv1T_daGKFSOylqM6aw",
+        "authorChannelId": {
+          "value": "UC2tMYv1T_daGKFSOylqM6aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-23T07:41:55Z",
+        "updatedAt": "2021-10-23T07:41:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-xxlFZpNFllh7FfaUPkHKFESVv0",
+      "id": "UgxoLeAiW136gIh6gOF4AaABAg.9TpkH9jse5N9TqVw8EkPZ7",
+      "snippet": {
+        "textDisplay": "Wah serem ya? \ud83d\ude02",
+        "textOriginal": "Wah serem ya? \ud83d\ude02",
+        "parentId": "UgxoLeAiW136gIh6gOF4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-23T14:47:05Z",
+        "updatedAt": "2021-10-23T14:47:05Z"
+      }
+    }
+  ]
+}

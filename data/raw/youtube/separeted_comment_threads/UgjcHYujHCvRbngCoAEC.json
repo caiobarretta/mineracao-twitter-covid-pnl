@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kgl_eXK1miMwtMUHHI6wKXwxSr4",
+  "id": "UgjcHYujHCvRbngCoAEC",
+  "snippet": {
+    "videoId": "AMlub5VqxYk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1UGjeDHtYPz43wCJoH2iWqiXnfo",
+      "id": "UgjcHYujHCvRbngCoAEC",
+      "snippet": {
+        "videoId": "AMlub5VqxYk",
+        "textDisplay": "N\u00e3o acho q seja tudo isso n\u00e3o, mas OK, bom v\u00eddeo.",
+        "textOriginal": "N\u00e3o acho q seja tudo isso n\u00e3o, mas OK, bom v\u00eddeo.",
+        "authorDisplayName": "EUA passo a passo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5ekD6wASCqD447giiK9Eaz7SKoD3zpQ9dPZg7lA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqpheOA8eCyLxSLf3mcd2ow",
+        "authorChannelId": {
+          "value": "UCqpheOA8eCyLxSLf3mcd2ow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2015-10-17T22:59:28Z",
+        "updatedAt": "2015-10-17T22:59:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "PtvqVyP5--fOyTXEwT_-dJKawho",
+      "id": "UgjcHYujHCvRbngCoAEC.85Qi2Dh0GRp703TpOxnl8M",
+      "snippet": {
+        "textDisplay": "+\u00c9der Ulysses Rodrigues Antonio Brum \"Atrasadinho\" n\u00e3o, eu moro aqui tamb\u00e9m e disse que n\u00e3o \u00e9 \"tudo isso\", existem alguns detalhes que n\u00e3o foram citados, mas claro que aqui as \"coisas funcionam\" em compara\u00e7\u00e3o com o Brasil.",
+        "textOriginal": "+\u00c9der Ulysses Rodrigues Antonio Brum \"Atrasadinho\" n\u00e3o, eu moro aqui tamb\u00e9m e disse que n\u00e3o \u00e9 \"tudo isso\", existem alguns detalhes que n\u00e3o foram citados, mas claro que aqui as \"coisas funcionam\" em compara\u00e7\u00e3o com o Brasil.",
+        "parentId": "UgjcHYujHCvRbngCoAEC",
+        "authorDisplayName": "EUA passo a passo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5ekD6wASCqD447giiK9Eaz7SKoD3zpQ9dPZg7lA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqpheOA8eCyLxSLf3mcd2ow",
+        "authorChannelId": {
+          "value": "UCqpheOA8eCyLxSLf3mcd2ow"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-11-06T13:17:16Z",
+        "updatedAt": "2015-11-06T13:17:16Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "L9d7SAiiC3ir8ss2u2m8rD4rJTA",
+      "id": "UgjcHYujHCvRbngCoAEC.85Qi2Dh0GRp703JbDO3ukL",
+      "snippet": {
+        "textDisplay": "ta um pouco atrazadinho meu amigo, l\u00e1 nao \u00e9 brasil l\u00e1 as coisas funciona.",
+        "textOriginal": "ta um pouco atrazadinho meu amigo, l\u00e1 nao \u00e9 brasil l\u00e1 as coisas funciona.",
+        "parentId": "UgjcHYujHCvRbngCoAEC",
+        "authorDisplayName": "\u00c9der Ulysses Rodrigues Antonio Brum",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR9NdnMcrGgaZPXSd_wUL_EOXouAuH6QhHDBOrgJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJrV_kHPSOOT8a69xMHd_7g",
+        "authorChannelId": {
+          "value": "UCJrV_kHPSOOT8a69xMHd_7g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2015-11-06T11:47:57Z",
+        "updatedAt": "2015-11-06T11:47:57Z"
+      }
+    }
+  ]
+}

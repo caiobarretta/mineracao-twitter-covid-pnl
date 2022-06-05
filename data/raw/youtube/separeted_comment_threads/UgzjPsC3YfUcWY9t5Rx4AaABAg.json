@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6aQOkxNxbzTCyz-BfkEkpFP8QWA",
+  "id": "UgzjPsC3YfUcWY9t5Rx4AaABAg",
+  "snippet": {
+    "videoId": "Xuc9D4LVJdg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gdvgytMqTWHhFJ1xs-p9on_xnHY",
+      "id": "UgzjPsC3YfUcWY9t5Rx4AaABAg",
+      "snippet": {
+        "videoId": "Xuc9D4LVJdg",
+        "textDisplay": "Hello, once the Transmembrane protease serine 2 has cut away at the spike protein, do you know what holds the virus in proximity to the cell? or perhaps it happens so quickly that it kind of harpoons the cell?",
+        "textOriginal": "Hello, once the Transmembrane protease serine 2 has cut away at the spike protein, do you know what holds the virus in proximity to the cell? or perhaps it happens so quickly that it kind of harpoons the cell?",
+        "authorDisplayName": "Neil Smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCek4qVj8PLPChF9nv19QYfgYtoIZ7QlQZaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCizFM-996U6bLD5o2wzJ98Q",
+        "authorChannelId": {
+          "value": "UCizFM-996U6bLD5o2wzJ98Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-07T15:18:02Z",
+        "updatedAt": "2022-01-07T15:18:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_aId-W7ptYsJTwqeWhyiNBGFAdM",
+      "id": "UgzjPsC3YfUcWY9t5Rx4AaABAg.9WuFtIbf3qf9XJmz31iQa8",
+      "snippet": {
+        "textDisplay": "I think you are asking about the S2 fusion membrane protein.. it's literally in the video",
+        "textOriginal": "I think you are asking about the S2 fusion membrane protein.. it's literally in the video",
+        "parentId": "UgzjPsC3YfUcWY9t5Rx4AaABAg",
+        "authorDisplayName": "Will R Thomson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUlwVlSlg11kP6aXgu47vqSLjbxR0os6N6bRhUylz312kGEEkhzJ47CmdYzBuS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqzIocOSytU2J2MDSoskofw",
+        "authorChannelId": {
+          "value": "UCqzIocOSytU2J2MDSoskofw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-17T22:36:10Z",
+        "updatedAt": "2022-01-17T22:36:10Z"
+      }
+    }
+  ]
+}

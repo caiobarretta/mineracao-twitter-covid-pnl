@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7W0pQhfEmsW9h_CAMEKF54Io_5c",
+  "id": "Ugz8w0IbDU80QqOaAT94AaABAg",
+  "snippet": {
+    "videoId": "R_A472g6pF0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XF359nOd_WP0o-E-BOQEPMvGAH0",
+      "id": "Ugz8w0IbDU80QqOaAT94AaABAg",
+      "snippet": {
+        "videoId": "R_A472g6pF0",
+        "textDisplay": "\"Carlos colocador de taxinha\" Muito SUS",
+        "textOriginal": "\"Carlos colocador de taxinha\" Muito SUS",
+        "authorDisplayName": "Dreks",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/rAzAh28fKGIqBRYOl9q8yUUOJICUfSv3ahhOVqwXTinVbW5kingUtGPz1cRuZQSejsvzewMvkA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCZINM5Hcs957MVrtXrCSEw",
+        "authorChannelId": {
+          "value": "UCCZINM5Hcs957MVrtXrCSEw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 25,
+        "publishedAt": "2022-05-25T16:28:04Z",
+        "updatedAt": "2022-05-25T16:28:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "k3rwcBtAbDXI_KXOkq5YzlDBbb8",
+      "id": "Ugz8w0IbDU80QqOaAT94AaABAg.9bSiawuCm6_9baEUlDzCX6",
+      "snippet": {
+        "textDisplay": "\u00c9 meu brother",
+        "textOriginal": "\u00c9 meu brother",
+        "parentId": "Ugz8w0IbDU80QqOaAT94AaABAg",
+        "authorDisplayName": "lucineide",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/jpY4WEagB2G40eiE8CqTyznYOjlyefgaz2iCax3KqcXa0uxyV320LO2L3A9dM06r1akItBYp=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4LET3lvl94cP-WfrRQgqjw",
+        "authorChannelId": {
+          "value": "UC4LET3lvl94cP-WfrRQgqjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-28T23:49:22Z",
+        "updatedAt": "2022-05-28T23:49:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3GpqRJdpjSCRC6GJd3BviEFChLg",
+  "id": "Ugx2fFIoN5d5LvlyRax4AaABAg",
+  "snippet": {
+    "videoId": "yDPw3Sl8Fsw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uDs-J5JoML0JlZ1JDzrqcBeMI9o",
+      "id": "Ugx2fFIoN5d5LvlyRax4AaABAg",
+      "snippet": {
+        "videoId": "yDPw3Sl8Fsw",
+        "textDisplay": "Que tristeza, que as pessoas desistem t\u00e3o f\u00e1cil do seu amor e fam\u00edlia...",
+        "textOriginal": "Que tristeza, que as pessoas desistem t\u00e3o f\u00e1cil do seu amor e fam\u00edlia...",
+        "authorDisplayName": "Angelina Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-TAWZhZ1H0FmLE0vBMEwwYSv2UVKo09Blaw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNdWFt79wgFPdq7yUbJDvhA",
+        "authorChannelId": {
+          "value": "UCNdWFt79wgFPdq7yUbJDvhA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2020-12-07T13:16:32Z",
+        "updatedAt": "2020-12-07T13:16:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Ubj1BnhTp5cVMTqH8THl3TkKEyE",
+      "id": "Ugx2fFIoN5d5LvlyRax4AaABAg.9GyNBvdlxNE9H65z6pRYJ3",
+      "snippet": {
+        "textDisplay": "Vrdd",
+        "textOriginal": "Vrdd",
+        "parentId": "Ugx2fFIoN5d5LvlyRax4AaABAg",
+        "authorDisplayName": "Ziene Jesus",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAs1ekOfrsfYkMcLTeFmH3P42eM7YU-B88Iw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkHp2YO3eQLIqwzzaWiaEiA",
+        "authorChannelId": {
+          "value": "UCkHp2YO3eQLIqwzzaWiaEiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-10T22:39:16Z",
+        "updatedAt": "2020-12-10T22:39:16Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "0xK-BVkF43DjeKEypdG2vbExTl8",
+      "id": "Ugx2fFIoN5d5LvlyRax4AaABAg.9GyNBvdlxNE9GzK5_GZq3Z",
+      "snippet": {
+        "textDisplay": "verdade",
+        "textOriginal": "verdade",
+        "parentId": "Ugx2fFIoN5d5LvlyRax4AaABAg",
+        "authorDisplayName": "Henrique Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStcKSxG5hChcYp4EHP-Zd0WXFJmfquhssEgGbtnA0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4SywCpI0EH7uD5MANiuEpg",
+        "authorChannelId": {
+          "value": "UC4SywCpI0EH7uD5MANiuEpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-07T22:08:42Z",
+        "updatedAt": "2020-12-07T22:08:42Z"
+      }
+    }
+  ]
+}

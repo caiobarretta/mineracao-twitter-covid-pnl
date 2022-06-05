@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XzyJrbIg-earhozXeH4UOefWwGE",
+  "id": "UgyhTRQ7b6ZuOmGGIt54AaABAg",
+  "snippet": {
+    "videoId": "w5YtF6fMPY0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VdFb1oDpPIoq-vp45zy1pPEXcbw",
+      "id": "UgyhTRQ7b6ZuOmGGIt54AaABAg",
+      "snippet": {
+        "videoId": "w5YtF6fMPY0",
+        "textDisplay": "Descanse em paz rei do funk q encantou a quebrada nunca vai se aquecido",
+        "textOriginal": "Descanse em paz rei do funk q encantou a quebrada nunca vai se aquecido",
+        "authorDisplayName": "Black Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMTNafC3GGyBLkVz3igpaexTjgM-9WQlK_OEJTHeeIxmLBntDMmHXONqd6K2rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCbgEB6nC93CV6YVeJ3GJlA",
+        "authorChannelId": {
+          "value": "UCCbgEB6nC93CV6YVeJ3GJlA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 21,
+        "publishedAt": "2021-12-01T09:28:05Z",
+        "updatedAt": "2021-12-01T09:28:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TERmvN7PX6DxolIkFI1vIhKekg4",
+      "id": "UgyhTRQ7b6ZuOmGGIt54AaABAg.9VPMQlrgk9r9X4CnfzJzGM",
+      "snippet": {
+        "textDisplay": "rei do funk foi foda",
+        "textOriginal": "rei do funk foi foda",
+        "parentId": "UgyhTRQ7b6ZuOmGGIt54AaABAg",
+        "authorDisplayName": "Jonathan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRv4iIwFSesieSxUbEmAJYPUKtMRVzLeksCBfYYaw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi5HPg7oLWJ_EZejH5_ZB3A",
+        "authorChannelId": {
+          "value": "UCi5HPg7oLWJ_EZejH5_ZB3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-11T21:22:42Z",
+        "updatedAt": "2022-01-11T21:22:42Z"
+      }
+    }
+  ]
+}

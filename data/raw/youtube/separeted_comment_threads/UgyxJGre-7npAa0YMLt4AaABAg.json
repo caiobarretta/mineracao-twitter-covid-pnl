@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ari436cX719DG_NY9YHHX8bSvac",
+  "id": "UgyxJGre-7npAa0YMLt4AaABAg",
+  "snippet": {
+    "videoId": "F_vd62RusVU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "puOyva0rbEtLhBKfGMGvJnhse1g",
+      "id": "UgyxJGre-7npAa0YMLt4AaABAg",
+      "snippet": {
+        "videoId": "F_vd62RusVU",
+        "textDisplay": "SARS 800 casos em 7 mil milhoes civis",
+        "textOriginal": "SARS 800 casos em 7 mil milhoes civis",
+        "authorDisplayName": "coletania momentos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSA_A8MJfPBd6gB7DXjmNSCkxH3w12s75ennw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6ZB_TQIywEePqwtbd_is4g",
+        "authorChannelId": {
+          "value": "UC6ZB_TQIywEePqwtbd_is4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-30T15:41:00Z",
+        "updatedAt": "2020-04-30T15:41:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZttosgTNYFEt9FGFZNFqgclfohM",
+      "id": "UgyxJGre-7npAa0YMLt4AaABAg.984_2b7kgd3996UM21oRzy",
+      "snippet": {
+        "textDisplay": "Y el sars 2 osea el coronavirus con mas de 300 000 muertes",
+        "textOriginal": "Y el sars 2 osea el coronavirus con mas de 300 000 muertes",
+        "parentId": "UgyxJGre-7npAa0YMLt4AaABAg",
+        "authorDisplayName": "David Fuentes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvNzfzNf0LY4tPtj4CTde84kVZ1l5N_00FPw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrTG7TljEcwtOzu37hl6v8Q",
+        "authorChannelId": {
+          "value": "UCrTG7TljEcwtOzu37hl6v8Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-26T06:01:06Z",
+        "updatedAt": "2020-05-26T06:01:06Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "nMHef1dzXKcFypOJSO0mt0MRQg0",
+  "id": "UgxYk4kGGNhiB41hw4B4AaABAg",
+  "snippet": {
+    "videoId": "ifLLH1XBeds",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QjcD35cRc_i2z_svAGy5_8SK7wI",
+      "id": "UgxYk4kGGNhiB41hw4B4AaABAg",
+      "snippet": {
+        "videoId": "ifLLH1XBeds",
+        "textDisplay": "Ne vorrei uno al giorno dei tuoi video Andrea! Mi piace troppo ascoltarti, bravo!\ud83d\ude0a",
+        "textOriginal": "Ne vorrei uno al giorno dei tuoi video Andrea! Mi piace troppo ascoltarti, bravo!\ud83d\ude0a",
+        "authorDisplayName": "Alberto Favaretto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-6FDyu7KBzV_9V0H5S-7DM0ypktUL9vowMLttlw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCn6vyg2QV3DjMXGaTHjLtjw",
+        "authorChannelId": {
+          "value": "UCn6vyg2QV3DjMXGaTHjLtjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-03-25T20:34:23Z",
+        "updatedAt": "2020-03-25T20:34:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "63xrPJnZWJH-I1Oe2Uk6xnMQvm4",
+      "id": "UgxYk4kGGNhiB41hw4B4AaABAg.96dP0-54PUg96dPJiVp1it",
+      "snippet": {
+        "textDisplay": "Grazie \u2764\ufe0f\ud83d\ude01",
+        "textOriginal": "Grazie \u2764\ufe0f\ud83d\ude01",
+        "parentId": "UgxYk4kGGNhiB41hw4B4AaABAg",
+        "authorDisplayName": "Vita A Zero Kelvin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpuvrzC_wtqSf88JvCvEiFPccR1rd3jBnq_Im9tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGDkFvYnK2TYvEhOkTZyXWg",
+        "authorChannelId": {
+          "value": "UCGDkFvYnK2TYvEhOkTZyXWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-25T20:37:05Z",
+        "updatedAt": "2020-03-25T20:37:05Z"
+      }
+    }
+  ]
+}

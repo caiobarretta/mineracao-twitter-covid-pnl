@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "n2pBkTfDZkMjVEEHOYhMskb8SkM",
+  "id": "UgwUp1Qf4hnSENKjRet4AaABAg",
+  "snippet": {
+    "videoId": "cSY-jOfICjw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ds2W8RrC7FTrRSDVa1e_kQZa8WM",
+      "id": "UgwUp1Qf4hnSENKjRet4AaABAg",
+      "snippet": {
+        "videoId": "cSY-jOfICjw",
+        "textDisplay": "Cara maluco",
+        "textOriginal": "Cara maluco",
+        "authorDisplayName": "Lucas Holanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2dLq6_epfaQsiUsXrGdevuoXDjWuMAD7GS9WE2Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVNMmPlMZmBi6U2QuUahsdw",
+        "authorChannelId": {
+          "value": "UCVNMmPlMZmBi6U2QuUahsdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-17T02:39:24Z",
+        "updatedAt": "2022-05-17T02:39:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hJU7a_1BScpygViZzUMmwfrtIGk",
+      "id": "UgwUp1Qf4hnSENKjRet4AaABAg.9b6dPhYLaKQ9b8yi1ieUuh",
+      "snippet": {
+        "textDisplay": "Igual o do Brasil",
+        "textOriginal": "Igual o do Brasil",
+        "parentId": "UgwUp1Qf4hnSENKjRet4AaABAg",
+        "authorDisplayName": "Gabriel P.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3vWEOv7GAggcuXrzv3bbpBjW2byoHXtUArMn7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxw9FggVCBk3JgN-_9gUt9w",
+        "authorChannelId": {
+          "value": "UCxw9FggVCBk3JgN-_9gUt9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-18T00:24:01Z",
+        "updatedAt": "2022-05-18T00:24:01Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "We5rZT3_ngJDcttNS_660Ztcypg",
+      "id": "UgwUp1Qf4hnSENKjRet4AaABAg.9b6dPhYLaKQ9b7rsnJo1kE",
+      "snippet": {
+        "textDisplay": "@\u6642\u4ee3\u30e8\u30a6\u30c0 Pior kkk",
+        "textOriginal": "@\u6642\u4ee3\u30e8\u30a6\u30c0 Pior kkk",
+        "parentId": "UgwUp1Qf4hnSENKjRet4AaABAg",
+        "authorDisplayName": "Lucas Holanda",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2dLq6_epfaQsiUsXrGdevuoXDjWuMAD7GS9WE2Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVNMmPlMZmBi6U2QuUahsdw",
+        "authorChannelId": {
+          "value": "UCVNMmPlMZmBi6U2QuUahsdw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T14:05:05Z",
+        "updatedAt": "2022-05-17T14:05:05Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "onuvty2MeYW7kM3MOQ9u-qUKWyg",
+      "id": "UgwUp1Qf4hnSENKjRet4AaABAg.9b6dPhYLaKQ9b7i_pZqS5h",
+      "snippet": {
+        "textDisplay": "Garanto que o meu Hamster era mais inteligente que ele.\ud83e\udd26\ud83d\udca8",
+        "textOriginal": "Garanto que o meu Hamster era mais inteligente que ele.\ud83e\udd26\ud83d\udca8",
+        "parentId": "UgwUp1Qf4hnSENKjRet4AaABAg",
+        "authorDisplayName": "\u6642\u4ee3\u30e8\u30a6\u30c0",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ-OW5LGe8xNAfIh_pbtwKZw_gF2e35kvpVMrd1=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCog8AtYFNa1YQYIuk7uIP3g",
+        "authorChannelId": {
+          "value": "UCog8AtYFNa1YQYIuk7uIP3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T12:43:51Z",
+        "updatedAt": "2022-05-17T12:43:51Z"
+      }
+    }
+  ]
+}

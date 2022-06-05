@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Gc5BzRLh3EVGgWzk2RQJ3PdINLk",
+  "id": "UgxzEGMqmxq4ns9bgdt4AaABAg",
+  "snippet": {
+    "videoId": "hxZpWYwNo5M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZR-rUHgtT88tPZWssJyfeVrSp8M",
+      "id": "UgxzEGMqmxq4ns9bgdt4AaABAg",
+      "snippet": {
+        "videoId": "hxZpWYwNo5M",
+        "textDisplay": "Obrigada BBC por esses \u00f3timos e informativos v\u00eddeos... Os seus conte\u00fados s\u00e3o realmente os melhores!! \u00d3timo trabalho!!!!",
+        "textOriginal": "Obrigada BBC por esses \u00f3timos e informativos v\u00eddeos... Os seus conte\u00fados s\u00e3o realmente os melhores!! \u00d3timo trabalho!!!!",
+        "authorDisplayName": "isis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4AE4jQnrH8J016ykYHaK5r_R1_D9TIxhMKSwSXA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2l7WCFREWHwWRVr6JyVV0Q",
+        "authorChannelId": {
+          "value": "UC2l7WCFREWHwWRVr6JyVV0Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 124,
+        "publishedAt": "2020-03-12T00:45:50Z",
+        "updatedAt": "2020-03-12T00:45:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ufrXMWURcF7qdmjXiltHPI179J8",
+      "id": "UgxzEGMqmxq4ns9bgdt4AaABAg.964neLx53JM966CLYiTc2k",
+      "snippet": {
+        "textDisplay": "Obrigada!",
+        "textOriginal": "Obrigada!",
+        "parentId": "UgxzEGMqmxq4ns9bgdt4AaABAg",
+        "authorDisplayName": "BBC News Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHZ4cwvhJrfPl2m7nOPujalJP811Q1lghY7qauYT0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q",
+        "authorChannelId": {
+          "value": "UCthbIFAxbXTTQEC7EcQvP1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-03-12T13:49:33Z",
+        "updatedAt": "2020-03-12T13:49:33Z"
+      }
+    }
+  ]
+}

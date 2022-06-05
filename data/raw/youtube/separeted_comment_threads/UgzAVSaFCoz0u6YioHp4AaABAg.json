@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "9c9cxliSXeSDNby1gtzj0S08ApM",
+  "id": "UgzAVSaFCoz0u6YioHp4AaABAg",
+  "snippet": {
+    "videoId": "0OGg3zKsxFM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "KwsBWHHRtBJRjwvmB_gdY3ynTM0",
+      "id": "UgzAVSaFCoz0u6YioHp4AaABAg",
+      "snippet": {
+        "videoId": "0OGg3zKsxFM",
+        "textDisplay": "Where is the rest I\u2019m not finding the link??",
+        "textOriginal": "Where is the rest I\u2019m not finding the link??",
+        "authorDisplayName": "Eliukcory",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYpmdSIaGGB0DnnB3SfJCEX4Rb28lAspvdQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnR9n9RAmADCOK14lO1Uzvw",
+        "authorChannelId": {
+          "value": "UCnR9n9RAmADCOK14lO1Uzvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-18T18:45:56Z",
+        "updatedAt": "2021-06-18T18:45:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9Z15-ttMfMu5styoGdB2qxAxQ2Q",
+      "id": "UgzAVSaFCoz0u6YioHp4AaABAg.9OjvJQfz_UY9Ojv_Ia22dn",
+      "snippet": {
+        "textDisplay": "O found it but it seems to be missing a bunch. Could you release a complete video without pause for me to share with as any as I know.",
+        "textOriginal": "O found it but it seems to be missing a bunch. Could you release a complete video without pause for me to share with as any as I know.",
+        "parentId": "UgzAVSaFCoz0u6YioHp4AaABAg",
+        "authorDisplayName": "Eliukcory",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYpmdSIaGGB0DnnB3SfJCEX4Rb28lAspvdQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnR9n9RAmADCOK14lO1Uzvw",
+        "authorChannelId": {
+          "value": "UCnR9n9RAmADCOK14lO1Uzvw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-18T18:48:14Z",
+        "updatedAt": "2021-06-18T18:48:14Z"
+      }
+    }
+  ]
+}

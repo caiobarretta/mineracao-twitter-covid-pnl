@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8AsRgyi0gzSIK_SsBd1keYteUWU",
+  "id": "UgjIx-fBNtT2f3gCoAEC",
+  "snippet": {
+    "videoId": "XSAVOo5472Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yPWYlcIL_VAglFRLF6bDYqAwifM",
+      "id": "UgjIx-fBNtT2f3gCoAEC",
+      "snippet": {
+        "videoId": "XSAVOo5472Q",
+        "textDisplay": "\u0160iroka ramena,a muda mala...",
+        "textOriginal": "\u0160iroka ramena,a muda mala...",
+        "authorDisplayName": "MININY 11",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEbAUkvrb2qDTPxgF2X_hhZOLaGKyV9KaexGQ_=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCngltGOXuvIvEpX7bRBCKpA",
+        "authorChannelId": {
+          "value": "UCngltGOXuvIvEpX7bRBCKpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-06-11T21:30:12Z",
+        "updatedAt": "2017-06-11T21:30:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mMlNDlq8gpVzboncdOXHJ4eroTo",
+      "id": "UgjIx-fBNtT2f3gCoAEC.8TgEA1KsJyO8_9pdK3iGbN",
+      "snippet": {
+        "textDisplay": "Teo Pazdrijan ne\u0161to on autobiografski, izgleda",
+        "textOriginal": "Teo Pazdrijan ne\u0161to on autobiografski, izgleda",
+        "parentId": "UgjIx-fBNtT2f3gCoAEC",
+        "authorDisplayName": "Robert M",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYXq_mPs2bv-B2oRdkyQBZK9vEn2n7v8DM8Ilg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCclSTosz4beuh5B-7lPUeLw",
+        "authorChannelId": {
+          "value": "UCclSTosz4beuh5B-7lPUeLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2017-11-19T21:51:58Z",
+        "updatedAt": "2017-11-19T21:51:58Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Ug1ursfOP4QUG1p8oqYNKDblz5o",
+      "id": "UgjIx-fBNtT2f3gCoAEC.8TgEA1KsJyO8U3kHDAKcwT",
+      "snippet": {
+        "textDisplay": "?",
+        "textOriginal": "?",
+        "parentId": "UgjIx-fBNtT2f3gCoAEC",
+        "authorDisplayName": "Teo Pazdrijan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/097ss6Udw3OZNLulNpzjljR5iF0NgWBX55FZ1W6PSvAs7UFSDSz8PJIMhvQU8muAA_MTaoU5Dg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClRlyv2pdcjtCsOwIfTezxw",
+        "authorChannelId": {
+          "value": "UClRlyv2pdcjtCsOwIfTezxw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2017-06-21T10:01:19Z",
+        "updatedAt": "2017-06-21T10:01:19Z"
+      }
+    }
+  ]
+}

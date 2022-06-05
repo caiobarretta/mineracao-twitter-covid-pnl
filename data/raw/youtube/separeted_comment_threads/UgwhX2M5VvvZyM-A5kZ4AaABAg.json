@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H5YmGxUDO0f8rT73MMZjV_c4zUo",
+  "id": "UgwhX2M5VvvZyM-A5kZ4AaABAg",
+  "snippet": {
+    "videoId": "jTPT70SFBoU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "LBBBJ37p6_2dwIgvaZLQ9JfoiF8",
+      "id": "UgwhX2M5VvvZyM-A5kZ4AaABAg",
+      "snippet": {
+        "videoId": "jTPT70SFBoU",
+        "textDisplay": "\ud83d\udc4c",
+        "textOriginal": "\ud83d\udc4c",
+        "authorDisplayName": "74 Maverick",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5fdBarQXUbudq8bXz-IDDBO477Q1R6TC6yp3J=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8nGs2e7m3SFEfC1pSeJywA",
+        "authorChannelId": {
+          "value": "UC8nGs2e7m3SFEfC1pSeJywA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-04T15:47:43Z",
+        "updatedAt": "2020-06-04T15:47:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cmLIvVrNforCsJ8LF7ZOZdBP59s",
+      "id": "UgwhX2M5VvvZyM-A5kZ4AaABAg.99UhdWdmaIr99Uidz2V2OL",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "textOriginal": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "parentId": "UgwhX2M5VvvZyM-A5kZ4AaABAg",
+        "authorDisplayName": "Charlie Spearfishing",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjhgI5zFMxdkdS3LNDor-E2skwGsXyjjxadICC2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOy1waRO6xc-Ltkezci1kvQ",
+        "authorChannelId": {
+          "value": "UCOy1waRO6xc-Ltkezci1kvQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-04T15:56:31Z",
+        "updatedAt": "2020-06-04T15:56:31Z"
+      }
+    }
+  ]
+}

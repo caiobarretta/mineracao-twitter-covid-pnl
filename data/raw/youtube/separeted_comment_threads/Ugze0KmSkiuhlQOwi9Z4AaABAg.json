@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8Ke8iDW9zzpCCT5AzmuiYyiZ-d4",
+  "id": "Ugze0KmSkiuhlQOwi9Z4AaABAg",
+  "snippet": {
+    "videoId": "Hk3_uNyBd0c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "wkZ550LgNHKy2Dz1QId05Ymbt30",
+      "id": "Ugze0KmSkiuhlQOwi9Z4AaABAg",
+      "snippet": {
+        "videoId": "Hk3_uNyBd0c",
+        "textDisplay": "Temos que voltar ao tempo primitivo . Ir pro mato viver em montanhas . Plantar e ca\u00e7ar .",
+        "textOriginal": "Temos que voltar ao tempo primitivo . Ir pro mato viver em montanhas . Plantar e ca\u00e7ar .",
+        "authorDisplayName": "Marcelo Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvNgNN57W3QjydBDFejWMdFfraRHl92vcc9Ra91Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ3O8C5zVdd2ERXslVlNC1Q",
+        "authorChannelId": {
+          "value": "UCJ3O8C5zVdd2ERXslVlNC1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2021-03-18T14:49:17Z",
+        "updatedAt": "2021-03-18T14:49:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ygcB98mbAGnK0qWJFQJV_MeL3i4",
+      "id": "Ugze0KmSkiuhlQOwi9Z4AaABAg.9L1b5b30eZh9QkZcHlLKRO",
+      "snippet": {
+        "textDisplay": "Exatamente",
+        "textOriginal": "Exatamente",
+        "parentId": "Ugze0KmSkiuhlQOwi9Z4AaABAg",
+        "authorDisplayName": "Sem Nome",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF3h0drZD-3lgaszsnozTffkKTkJ2VKcTt5ZjRQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZhnap-msBw2MCdnkObNiCQ",
+        "authorChannelId": {
+          "value": "UCZhnap-msBw2MCdnkObNiCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-07T17:49:42Z",
+        "updatedAt": "2021-08-07T17:49:42Z"
+      }
+    }
+  ]
+}

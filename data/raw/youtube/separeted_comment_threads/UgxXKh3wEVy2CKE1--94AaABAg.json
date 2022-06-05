@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "kBaYgMCuF2FvAJBMJaMfQ4Wu9Sw",
+  "id": "UgxXKh3wEVy2CKE1--94AaABAg",
+  "snippet": {
+    "videoId": "-scPSsRQ9Xg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eJVpyvmTcG-r0-Ro3DI5lUqhahM",
+      "id": "UgxXKh3wEVy2CKE1--94AaABAg",
+      "snippet": {
+        "videoId": "-scPSsRQ9Xg",
+        "textDisplay": "Hola guapa ambientador de los palos yo los compro en basal chinos",
+        "textOriginal": "Hola guapa ambientador de los palos yo los compro en basal chinos",
+        "authorDisplayName": "rinc\u00f3n de mis potis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ijFej77ljXbGrz2kU6CxBgSwLBDWPuQqp83ieUcm_VLWcl8bKOr6x1iNKeyCPEJSn0LM0XnUiA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCk8nsOmTIgkoYNxYL5M8WA",
+        "authorChannelId": {
+          "value": "UCCk8nsOmTIgkoYNxYL5M8WA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-28T20:51:33Z",
+        "updatedAt": "2022-05-28T20:51:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lb9f65rbhwkXtam-SU49HvRFrbY",
+      "id": "UgxXKh3wEVy2CKE1--94AaABAg.9b_v8QcMdso9b_wVZPvG09",
+      "snippet": {
+        "textDisplay": "Y huele igual de bien?",
+        "textOriginal": "Y huele igual de bien?",
+        "parentId": "UgxXKh3wEVy2CKE1--94AaABAg",
+        "authorDisplayName": "Inma y sus novedades",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQQMFSTDHzJXC5yIC8eUmM1lS91RKKsRtA_12S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO5Fad-VeFAJr2kRPnSV_oA",
+        "authorChannelId": {
+          "value": "UCO5Fad-VeFAJr2kRPnSV_oA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-28T21:03:27Z",
+        "updatedAt": "2022-05-28T21:03:27Z"
+      }
+    }
+  ]
+}

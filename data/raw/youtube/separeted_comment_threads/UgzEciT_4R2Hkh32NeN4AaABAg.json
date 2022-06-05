@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aHoNcRzuMzgUr6kisACxgsAw9Ug",
+  "id": "UgzEciT_4R2Hkh32NeN4AaABAg",
+  "snippet": {
+    "videoId": "J4w-2NoxLJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lPick5u5o9E-ITeTtH50JZjj9gE",
+      "id": "UgzEciT_4R2Hkh32NeN4AaABAg",
+      "snippet": {
+        "videoId": "J4w-2NoxLJk",
+        "textDisplay": "Curti a nova intro!",
+        "textOriginal": "Curti a nova intro!",
+        "authorDisplayName": "Henrique Fadoni",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReEuI05_EgILLSoBIRC3Eg2BgRWBZlZ-GvuUF3Oks=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyxTZ596I6RSKRwuqNLLaHA",
+        "authorChannelId": {
+          "value": "UCyxTZ596I6RSKRwuqNLLaHA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-29T15:49:13Z",
+        "updatedAt": "2018-07-29T15:49:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-g7_my-fBp5zqe2esZk9hS_vtcg",
+      "id": "UgzEciT_4R2Hkh32NeN4AaABAg.8jI3RyiOPGL8jIl6PsZEz1",
+      "snippet": {
+        "textDisplay": "Isso eh culpa do Caio rsrs Valeu Henrique!!!",
+        "textOriginal": "Isso eh culpa do Caio rsrs Valeu Henrique!!!",
+        "parentId": "UgzEciT_4R2Hkh32NeN4AaABAg",
+        "authorDisplayName": "Irm\u00e3os Prezia - Canada para Brasileiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJ4vyD0aKON8zEeYmG6dp8ixl8fuae31_2DSie=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC52m0Q5PEvFkeq51wbimj2g",
+        "authorChannelId": {
+          "value": "UC52m0Q5PEvFkeq51wbimj2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-07-29T22:19:29Z",
+        "updatedAt": "2018-07-29T22:19:29Z"
+      }
+    }
+  ]
+}

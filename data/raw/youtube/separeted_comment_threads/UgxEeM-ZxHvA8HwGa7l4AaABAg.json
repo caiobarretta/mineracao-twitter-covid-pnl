@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "z4D_nktLodB4lP-E-j9QERRyjeE",
+  "id": "UgxEeM-ZxHvA8HwGa7l4AaABAg",
+  "snippet": {
+    "videoId": "fZDO98kkSjA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vcbPZ_L5pEyci_u0xNSQVsAoqzo",
+      "id": "UgxEeM-ZxHvA8HwGa7l4AaABAg",
+      "snippet": {
+        "videoId": "fZDO98kkSjA",
+        "textDisplay": "7:40 I\u2019m literally dying \ud83d\ude02",
+        "textOriginal": "7:40 I\u2019m literally dying \ud83d\ude02",
+        "authorDisplayName": "WallacePlayzRBLX",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lQnFrRHw_QjrrlCoW1NOCMFwqkgwzxUJAmVxGR9OsEizhSYDDihJ3z-azcy1NObw5K5bVhWmQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjIXwDfCtT89EHkg6QSA23w",
+        "authorChannelId": {
+          "value": "UCjIXwDfCtT89EHkg6QSA23w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2022-05-28T22:53:13Z",
+        "updatedAt": "2022-05-28T22:53:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zJnUXx_TKOlBK6kZOyZy8uFw_WY",
+      "id": "UgxEeM-ZxHvA8HwGa7l4AaABAg.9ba83XSvu1f9beMnSRTxwH",
+      "snippet": {
+        "textDisplay": "IK",
+        "textOriginal": "IK",
+        "parentId": "UgxEeM-ZxHvA8HwGa7l4AaABAg",
+        "authorDisplayName": "Silvermoonx\ud83d\udc9c",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/RwShHCMmD0Z5gjvkr7HzTb778_7H0Chizmwhqv7WqV2nWVz2vx2qbuYwcQLlC2Ob1ZOXWHua=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1IHn8X5HC_oNOf3VA0PhTg",
+        "authorChannelId": {
+          "value": "UC1IHn8X5HC_oNOf3VA0PhTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T14:18:55Z",
+        "updatedAt": "2022-05-30T14:18:55Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "-ay8SyyjizgQDOfBXkd31TNxAO8",
+      "id": "UgxEeM-ZxHvA8HwGa7l4AaABAg.9ba83XSvu1f9beJki_cm06",
+      "snippet": {
+        "textDisplay": "LOl",
+        "textOriginal": "LOl",
+        "parentId": "UgxEeM-ZxHvA8HwGa7l4AaABAg",
+        "authorDisplayName": "Brewer Bros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/e29hts2ogA2LjfyuB86yWVRIDLyLLbksT44KEs0ZWnwGrhwTlXrg1qm9TwRqna3wjWk9dk9v=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtxPw12pAkab30lRfy3P8Kg",
+        "authorChannelId": {
+          "value": "UCtxPw12pAkab30lRfy3P8Kg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T13:52:20Z",
+        "updatedAt": "2022-05-30T13:52:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jInRGy5SoDJY4CZIA5cU3n0yri4",
+  "id": "UgwzIiZ6iSR76iufQox4AaABAg",
+  "snippet": {
+    "videoId": "YI8i_zyGP2E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MiOgbOBlnHzkt18uQsSyQCxJSkI",
+      "id": "UgwzIiZ6iSR76iufQox4AaABAg",
+      "snippet": {
+        "videoId": "YI8i_zyGP2E",
+        "textDisplay": "Her\u00f3is do Jacarezinho, os policiais",
+        "textOriginal": "Her\u00f3is do Jacarezinho, os policiais",
+        "authorDisplayName": "Leonardo Konarzewski",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtHDEaV4Qwe3x2iDiIu-scWTrygNV_4k16fmePWQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC87EKLSct6UCoLAwt8LIpew",
+        "authorChannelId": {
+          "value": "UC87EKLSct6UCoLAwt8LIpew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2021-12-29T06:46:19Z",
+        "updatedAt": "2021-12-29T06:46:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "X3hNuKng-QuPl2l8pGKJNuEMPFo",
+      "id": "UgwzIiZ6iSR76iufQox4AaABAg.9WXAASoWGwY9WYtANSFpnH",
+      "snippet": {
+        "textDisplay": "Sim.",
+        "textOriginal": "Sim.",
+        "parentId": "UgwzIiZ6iSR76iufQox4AaABAg",
+        "authorDisplayName": "MrKaianoS",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4N5qziMXdEVu1utNjCxm_1TJTavbFWqoTsj9xpA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCX6jLKNoAGEJW3Nh7p2DuLA",
+        "authorChannelId": {
+          "value": "UCX6jLKNoAGEJW3Nh7p2DuLA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-29T22:47:30Z",
+        "updatedAt": "2021-12-29T22:47:30Z"
+      }
+    }
+  ]
+}

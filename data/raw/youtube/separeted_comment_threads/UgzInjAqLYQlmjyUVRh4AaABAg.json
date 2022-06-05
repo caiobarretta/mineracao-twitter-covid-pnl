@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "dIxfQZz1k6lAk0Cs0WUkQ3yc8XE",
+  "id": "UgzInjAqLYQlmjyUVRh4AaABAg",
+  "snippet": {
+    "videoId": "dI4KyX6phRI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RM3BPF_m-fTDFdlX8gLabxNVypU",
+      "id": "UgzInjAqLYQlmjyUVRh4AaABAg",
+      "snippet": {
+        "videoId": "dI4KyX6phRI",
+        "textDisplay": "sadly the super poor country will lose millions to this virus",
+        "textOriginal": "sadly the super poor country will lose millions to this virus",
+        "authorDisplayName": "Ed Wilko",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQUDRAL1uzgkstuKwjuw9wK5CVrLD67GOrlTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV6YZ-iwCFVI6IuWZjtSeIw",
+        "authorChannelId": {
+          "value": "UCV6YZ-iwCFVI6IuWZjtSeIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-28T23:43:17Z",
+        "updatedAt": "2022-05-28T23:43:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RIvH0Pgu3LElCeMN_3LH4MDiVYU",
+      "id": "UgzInjAqLYQlmjyUVRh4AaABAg.9baDnGU45Gs9bczvQYvEOv",
+      "snippet": {
+        "textDisplay": "Just like usa did",
+        "textOriginal": "Just like usa did",
+        "parentId": "UgzInjAqLYQlmjyUVRh4AaABAg",
+        "authorDisplayName": "Zack Smith",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQurTDcOoony9Lm-7Ikw__OW4zF6DbPVohSRSGlBytndAIRQ_ovwJrKQissT_-S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl_ja1N30616RCYtbginlMQ",
+        "authorChannelId": {
+          "value": "UCl_ja1N30616RCYtbginlMQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-30T01:31:03Z",
+        "updatedAt": "2022-05-30T01:31:03Z"
+      }
+    }
+  ]
+}

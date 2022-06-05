@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "M6I17d95OXtX9iF4vEnEmhGn4uU",
+  "id": "UgykYdYQc5Q3lkb426x4AaABAg",
+  "snippet": {
+    "videoId": "8Jd2PlCmZhA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SW2CJ6D_xm1kCopVuMmgRTNoCNI",
+      "id": "UgykYdYQc5Q3lkb426x4AaABAg",
+      "snippet": {
+        "videoId": "8Jd2PlCmZhA",
+        "textDisplay": "Leeeeeerooooooyyyy",
+        "textOriginal": "Leeeeeerooooooyyyy",
+        "authorDisplayName": "Angelino Moreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQj1eePnonlSwB0gdCirE9Uhej0MhFg7JNFJIYT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf9wQQrX3v7FYOXVjqzjCxQ",
+        "authorChannelId": {
+          "value": "UCf9wQQrX3v7FYOXVjqzjCxQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-02-17T13:32:50Z",
+        "updatedAt": "2022-02-17T13:32:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NnflAQW58C_eansBgDc1dYWu7uY",
+      "id": "UgykYdYQc5Q3lkb426x4AaABAg.9YYdRhMpKdi9YYjCTLiDTn",
+      "snippet": {
+        "textDisplay": "JEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEENKINS!",
+        "textOriginal": "JEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEENKINS!",
+        "parentId": "UgykYdYQc5Q3lkb426x4AaABAg",
+        "authorDisplayName": "Paladino do Cerrado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStCY7BREJPmenFOneYmlDOvC3TqufmkbtVIUB7qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwx2KhUTa58Z50xGXcDegYw",
+        "authorChannelId": {
+          "value": "UCwx2KhUTa58Z50xGXcDegYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-02-17T14:23:11Z",
+        "updatedAt": "2022-02-17T14:23:11Z"
+      }
+    }
+  ]
+}

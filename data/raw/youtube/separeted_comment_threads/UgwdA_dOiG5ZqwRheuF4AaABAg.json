@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "q2Uo6VaWJVJqREq5WITAF9kS4TI",
+  "id": "UgwdA_dOiG5ZqwRheuF4AaABAg",
+  "snippet": {
+    "videoId": "ACZ7Dksu0nQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yZYTpGyC7AjJGTaMwT9Jz3nx8tU",
+      "id": "UgwdA_dOiG5ZqwRheuF4AaABAg",
+      "snippet": {
+        "videoId": "ACZ7Dksu0nQ",
+        "textDisplay": "Gosto muito desse v\u00eddeo \ud83d\ude03\ud83d\ude01\ud83d\ude03",
+        "textOriginal": "Gosto muito desse v\u00eddeo \ud83d\ude03\ud83d\ude01\ud83d\ude03",
+        "authorDisplayName": "Luciana Azevedo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSursCpOKH8tDld-31jxuAt648OfOs8U32D8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpw4L1b4o8-0PVMAJn4g-xA",
+        "authorChannelId": {
+          "value": "UCpw4L1b4o8-0PVMAJn4g-xA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-24T21:09:42Z",
+        "updatedAt": "2022-05-24T21:09:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wdQnEHDu7AkgIKMrJPEdl4wtQPU",
+      "id": "UgwdA_dOiG5ZqwRheuF4AaABAg.9bQe1shSjuS9bW6-J6N_t3",
+      "snippet": {
+        "textDisplay": "Yuuw",
+        "textOriginal": "Yuuw",
+        "parentId": "UgwdA_dOiG5ZqwRheuF4AaABAg",
+        "authorDisplayName": "Marluce Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGxTeXt2Et3vkvLGOgvCvwoNxzJELeNq9PvPMgajnRW12kq_snjqV7PqUxZE7p=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6YUyFG5ptzOY_YvYKObqHg",
+        "authorChannelId": {
+          "value": "UC6YUyFG5ptzOY_YvYKObqHg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-26T23:58:57Z",
+        "updatedAt": "2022-05-26T23:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "t8y01T9nD_lDv_AOnaGYeJA5uJw",
+      "id": "UgwdA_dOiG5ZqwRheuF4AaABAg.9bQe1shSjuS9bTNowLFuPW",
+      "snippet": {
+        "textDisplay": "Eu tamb\u00e9m",
+        "textOriginal": "Eu tamb\u00e9m",
+        "parentId": "UgwdA_dOiG5ZqwRheuF4AaABAg",
+        "authorDisplayName": "Jayneyne Yne",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxUPrnSR1sZDMWKT3AFdJy50NLJKWxuC1fQ-g0Ognr7OCxM5L5uspuWX0FIQ-y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8HOarE3YQ1hRSKCr0O36TA",
+        "authorChannelId": {
+          "value": "UC8HOarE3YQ1hRSKCr0O36TA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-25T22:36:58Z",
+        "updatedAt": "2022-05-25T22:36:58Z"
+      }
+    }
+  ]
+}

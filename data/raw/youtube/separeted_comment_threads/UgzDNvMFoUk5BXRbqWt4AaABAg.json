@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2I-mLeVhvSuLOE7TWCkOAYoTARA",
+  "id": "UgzDNvMFoUk5BXRbqWt4AaABAg",
+  "snippet": {
+    "videoId": "OFkNeFF-LKE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "OmDVhmef3OdZM3on_nwvF9d2NHE",
+      "id": "UgzDNvMFoUk5BXRbqWt4AaABAg",
+      "snippet": {
+        "videoId": "OFkNeFF-LKE",
+        "textDisplay": "Achei que a dublagem era o problema, mas me enganei. O filme superou...",
+        "textOriginal": "Achei que a dublagem era o problema, mas me enganei. O filme superou...",
+        "authorDisplayName": "Lucas Campos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRywjTmNrGH0KRm9AoyzMtSY-fXdc1KSg8l4b6qxg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUU7dcAynSIGf0sS0QdXKJA",
+        "authorChannelId": {
+          "value": "UCUU7dcAynSIGf0sS0QdXKJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-03-03T04:07:40Z",
+        "updatedAt": "2022-03-03T04:07:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "zKNe1fpAEaMjOaam5eWneA5vx34",
+      "id": "UgzDNvMFoUk5BXRbqWt4AaABAg.9Z5ftX6x4rn9_z8ABqaK_n",
+      "snippet": {
+        "textDisplay": "Kk",
+        "textOriginal": "Kk",
+        "parentId": "UgzDNvMFoUk5BXRbqWt4AaABAg",
+        "authorDisplayName": "Carla \u2665",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/enOt5PfpzDUWfmKoTD_1gOmBgOa0uSG5gGY8oUcYKsgCnqRLMygUBsgrCzBjIag0fmZy5WfHpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKNmb4uRbaWFdcek2OPD5mg",
+        "authorChannelId": {
+          "value": "UCKNmb4uRbaWFdcek2OPD5mg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T22:52:21Z",
+        "updatedAt": "2022-04-18T22:52:21Z"
+      }
+    }
+  ]
+}

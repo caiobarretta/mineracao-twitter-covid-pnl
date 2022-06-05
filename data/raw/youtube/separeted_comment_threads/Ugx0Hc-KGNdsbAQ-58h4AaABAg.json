@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A0KZIF97v26g-QdWPb_eUOBqzQ4",
+  "id": "Ugx0Hc-KGNdsbAQ-58h4AaABAg",
+  "snippet": {
+    "videoId": "PFYkKZ07hJQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eyrDARkSdE0yJGbma-_pjKg4NpM",
+      "id": "Ugx0Hc-KGNdsbAQ-58h4AaABAg",
+      "snippet": {
+        "videoId": "PFYkKZ07hJQ",
+        "textDisplay": "Parab\u00e9ns Professora,  pela conquista!",
+        "textOriginal": "Parab\u00e9ns Professora,  pela conquista!",
+        "authorDisplayName": "Lou Cherobim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDl4i0YjeUjozZZ3sf3GcpGBA85ga7MALewQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw11YAG7GQ75z_ezgVtmNMA",
+        "authorChannelId": {
+          "value": "UCw11YAG7GQ75z_ezgVtmNMA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-08T04:07:51Z",
+        "updatedAt": "2022-05-08T04:07:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o-0sojt8871EOLBFQ-b1mWzLHQY",
+      "id": "Ugx0Hc-KGNdsbAQ-58h4AaABAg.9akcNZBbd099amK1uZhSBL",
+      "snippet": {
+        "textDisplay": "Palestra maravilhosa",
+        "textOriginal": "Palestra maravilhosa",
+        "parentId": "Ugx0Hc-KGNdsbAQ-58h4AaABAg",
+        "authorDisplayName": "Rosita Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSu4ZbyufPjNcLFBfDtrmkudfSaAZe0a9-7SL3gdHDxtULMNdpqPkjG2VgcxsZo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB6F-TlIlBxg2axegXmibYw",
+        "authorChannelId": {
+          "value": "UCB6F-TlIlBxg2axegXmibYw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-08T19:57:20Z",
+        "updatedAt": "2022-05-08T19:57:20Z"
+      }
+    }
+  ]
+}

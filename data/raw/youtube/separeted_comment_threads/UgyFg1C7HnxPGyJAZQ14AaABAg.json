@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "1Iw21D7F3aOTn3TVV7GzJPpTo6w",
+  "id": "UgyFg1C7HnxPGyJAZQ14AaABAg",
+  "snippet": {
+    "videoId": "PYSHJ8UYJxE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HE8T02Ke0dYgOM6BHN7eWxHw_-E",
+      "id": "UgyFg1C7HnxPGyJAZQ14AaABAg",
+      "snippet": {
+        "videoId": "PYSHJ8UYJxE",
+        "textDisplay": "Muchas gracias por la info Lucas! \ud83d\ude4c",
+        "textOriginal": "Muchas gracias por la info Lucas! \ud83d\ude4c",
+        "authorDisplayName": "Guido Ruiz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvS0dS3uxiieqzXEinZKmSOl9gVH60OW6_0G3tNw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvrHajUg0AeRWDppu4_hN-g",
+        "authorChannelId": {
+          "value": "UCvrHajUg0AeRWDppu4_hN-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-12T15:11:54Z",
+        "updatedAt": "2021-08-12T15:11:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "o2TWcIcYyV2jW2zbPnMKWV9hyAI",
+      "id": "UgyFg1C7HnxPGyJAZQ14AaABAg.9Qx9XubAbY49QyCNAJtskf",
+      "snippet": {
+        "textDisplay": "Grande abra\u00e7o aqui de Bombinhas SC !!",
+        "textOriginal": "Grande abra\u00e7o aqui de Bombinhas SC !!",
+        "parentId": "UgyFg1C7HnxPGyJAZQ14AaABAg",
+        "authorDisplayName": "Lucas Silva O Corretor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/CvPt1zW-dcs16aWyw_au0KiXqP06lsqi50sbfc3N8lEw7MrfwpGBgX4JCt0Kkh8Qz-lHWQi-NQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChClUzEq57u4BcXUHbs5JaQ",
+        "authorChannelId": {
+          "value": "UChClUzEq57u4BcXUHbs5JaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-13T00:55:53Z",
+        "updatedAt": "2021-08-13T00:55:53Z"
+      }
+    }
+  ]
+}

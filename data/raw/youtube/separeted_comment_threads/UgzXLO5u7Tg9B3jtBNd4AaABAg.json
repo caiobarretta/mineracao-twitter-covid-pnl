@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mXukE77RbjsnshwAXhOwW8axEfA",
+  "id": "UgzXLO5u7Tg9B3jtBNd4AaABAg",
+  "snippet": {
+    "videoId": "JfaAdQV42og",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CmbE0JBZZotRuwpfJ8IPiCR4wuw",
+      "id": "UgzXLO5u7Tg9B3jtBNd4AaABAg",
+      "snippet": {
+        "videoId": "JfaAdQV42og",
+        "textDisplay": "Este senhor n\u00e3o sabe nada, vai pra casa.",
+        "textOriginal": "Este senhor n\u00e3o sabe nada, vai pra casa.",
+        "authorDisplayName": "Urbano Soares",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSq-z7w3s4hoPNz4Ohy7NV2HypZP3Cv_di2rw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_d_30_Cy_zoFH-01BckfdQ",
+        "authorChannelId": {
+          "value": "UC_d_30_Cy_zoFH-01BckfdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-25T14:20:56Z",
+        "updatedAt": "2020-05-25T14:20:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "25YGu-lTOPr15LnD3kCooP5mcTw",
+      "id": "UgzXLO5u7Tg9B3jtBNd4AaABAg.994nl3-cna6999lcrtsPH1",
+      "snippet": {
+        "textDisplay": "Ele \u00e9 m\u00e9dico e n\u00e3o sabe de nada? Quem sabe ent\u00e3o? voc\u00ea? hahahahaha n\u00e3o aguento",
+        "textOriginal": "Ele \u00e9 m\u00e9dico e n\u00e3o sabe de nada? Quem sabe ent\u00e3o? voc\u00ea? hahahahaha n\u00e3o aguento",
+        "parentId": "UgzXLO5u7Tg9B3jtBNd4AaABAg",
+        "authorDisplayName": "Ray mond",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TSW7Jk66hgpFEevrVAjpKBgtnAduAxQs7BLgeFY6OyHyAb9DLubb6_P9SI5y_MtCzXTTRIVWoA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmoYuDDDVwQZzmN4oxBkP2A",
+        "authorChannelId": {
+          "value": "UCmoYuDDDVwQZzmN4oxBkP2A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-27T12:38:32Z",
+        "updatedAt": "2020-05-27T12:38:32Z"
+      }
+    }
+  ]
+}

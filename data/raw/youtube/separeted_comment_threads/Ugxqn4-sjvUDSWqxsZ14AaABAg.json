@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j2vaFE3EJQedQInOraWnGIAwpIQ",
+  "id": "Ugxqn4-sjvUDSWqxsZ14AaABAg",
+  "snippet": {
+    "videoId": "aNFZxXCsS4o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Ovo3nzKHHv2N8amS3KiX4Pp0Sn4",
+      "id": "Ugxqn4-sjvUDSWqxsZ14AaABAg",
+      "snippet": {
+        "videoId": "aNFZxXCsS4o",
+        "textDisplay": "Show!",
+        "textOriginal": "Show!",
+        "authorDisplayName": "Vitor Vitor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSc0EHIA4ccryt5KhRoReXgWOO0ZXCu7tgu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFuj6FTMZAhbDao8c3OgYXg",
+        "authorChannelId": {
+          "value": "UCFuj6FTMZAhbDao8c3OgYXg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-02-25T23:12:16Z",
+        "updatedAt": "2021-02-25T23:12:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H5Z-B2i9BKDIw5NGEMW4oTjoYnA",
+      "id": "Ugxqn4-sjvUDSWqxsZ14AaABAg.9KCQyAMmtkH9M227WkDlf1",
+      "snippet": {
+        "textDisplay": "vlws, Vitor!",
+        "textOriginal": "vlws, Vitor!",
+        "parentId": "Ugxqn4-sjvUDSWqxsZ14AaABAg",
+        "authorDisplayName": "Professor Tiago Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSysqkyXpDo1mTXNlPq1rIYveXWDIFXZQ8NTHsxVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMIAzvrCpApjss0Gwd0u0kQ",
+        "authorChannelId": {
+          "value": "UCMIAzvrCpApjss0Gwd0u0kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T15:25:36Z",
+        "updatedAt": "2021-04-12T15:25:36Z"
+      }
+    }
+  ]
+}

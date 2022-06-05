@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "POf1KvuQOC67YzGHoGRZ9bBa3LU",
+  "id": "UgzeYkZ25Dk0dXG5Kn54AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "VnN_RyCyaeaOLFxcwBrCjRTwzD4",
+      "id": "UgzeYkZ25Dk0dXG5Kn54AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Adorei! Compartilhei com a minha turma\ud83d\ude09",
+        "textOriginal": "Adorei! Compartilhei com a minha turma\ud83d\ude09",
+        "authorDisplayName": "Rita Caroline",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSpYtJM4WhJRJTsx0JVSqMI5Bs2W7iXi-JhOD4G=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEJqHkX02Mu91TXph9m7k_A",
+        "authorChannelId": {
+          "value": "UCEJqHkX02Mu91TXph9m7k_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-11-24T17:16:59Z",
+        "updatedAt": "2021-11-24T17:16:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GAL7QBIisOXcZZNahZEXNgi3Z2w",
+      "id": "UgzeYkZ25Dk0dXG5Kn54AaABAg.9V8AWzcwZ7y9V8R_Q0fvm2",
+      "snippet": {
+        "textDisplay": "Estamos felizes por voc\u00ea ter gostado. Sucesso para voc\u00ea \ud83d\udcda\ud83d\udc4f",
+        "textOriginal": "Estamos felizes por voc\u00ea ter gostado. Sucesso para voc\u00ea \ud83d\udcda\ud83d\udc4f",
+        "parentId": "UgzeYkZ25Dk0dXG5Kn54AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-24T19:46:00Z",
+        "updatedAt": "2021-11-24T19:46:00Z"
+      }
+    }
+  ]
+}

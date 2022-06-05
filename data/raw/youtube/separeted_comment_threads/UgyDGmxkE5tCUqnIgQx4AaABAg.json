@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5wS-cqbXifEjewI0XMgCIe-nF8A",
+  "id": "UgyDGmxkE5tCUqnIgQx4AaABAg",
+  "snippet": {
+    "videoId": "lSyXNpY48yY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cpmGATyJUhbjgyk3iDlpoBfDm_0",
+      "id": "UgyDGmxkE5tCUqnIgQx4AaABAg",
+      "snippet": {
+        "videoId": "lSyXNpY48yY",
+        "textDisplay": "Em Portugal inicamos  a sexta vaga",
+        "textOriginal": "Em Portugal inicamos  a sexta vaga",
+        "authorDisplayName": "Sandra Valadao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROVGtsiAWATWKhYRVfXKBD4JU8Hpd83cMYXg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFRWxYcBxae6L75QnC8srOQ",
+        "authorChannelId": {
+          "value": "UCFRWxYcBxae6L75QnC8srOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-17T21:19:07Z",
+        "updatedAt": "2022-05-17T21:19:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2sbI0b-TJP3woi7Jeei1vCyqsAM",
+      "id": "UgyDGmxkE5tCUqnIgQx4AaABAg.9b8dYkkiNvg9bAkLQwVUgi",
+      "snippet": {
+        "textDisplay": "Mas pra quem tem comodidade ,e n\u00e3o pode tomar a vacina,se pegar essa.",
+        "textOriginal": "Mas pra quem tem comodidade ,e n\u00e3o pode tomar a vacina,se pegar essa.",
+        "parentId": "UgyDGmxkE5tCUqnIgQx4AaABAg",
+        "authorDisplayName": "Sandra Fraga",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTPNw_uQWQ1CWAO7BkmW0J4i-Npd6LCrfHq4w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNKsjTOU-HCXdNE5CbJ9e3g",
+        "authorChannelId": {
+          "value": "UCNKsjTOU-HCXdNE5CbJ9e3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-18T16:56:57Z",
+        "updatedAt": "2022-05-18T16:56:57Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Cw4iI9_Bjr-qpRAJF94ovkTor-o",
+      "id": "UgyDGmxkE5tCUqnIgQx4AaABAg.9b8dYkkiNvg9b8eGAEF5J3",
+      "snippet": {
+        "textDisplay": "Omicron \u00e9 mais transmiss\u00edvel mas \u00e9 mais branda.",
+        "textOriginal": "Omicron \u00e9 mais transmiss\u00edvel mas \u00e9 mais branda.",
+        "parentId": "UgyDGmxkE5tCUqnIgQx4AaABAg",
+        "authorDisplayName": "Renato Cassol - M\u00e9dico Infectologista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrcZVWOum_Cvnec_hNWTNeD5QGo4T46j0M0bEo1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxM5rESbIueKgZv9zqTquw",
+        "authorChannelId": {
+          "value": "UCOxM5rESbIueKgZv9zqTquw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-17T21:25:19Z",
+        "updatedAt": "2022-05-17T21:25:19Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fIZB2SPTy71_MSs7pvVkPkLCPGw",
+  "id": "UgzXjdObSk0o2c-GqAV4AaABAg",
+  "snippet": {
+    "videoId": "gFq-aX1E4l0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0Fp4_mQn6r-xJrbiCj8zUSuUm9U",
+      "id": "UgzXjdObSk0o2c-GqAV4AaABAg",
+      "snippet": {
+        "videoId": "gFq-aX1E4l0",
+        "textDisplay": "Curioso! O m\u00e9dico que identificou o atual tamb\u00e9m morreu.",
+        "textOriginal": "Curioso! O m\u00e9dico que identificou o atual tamb\u00e9m morreu.",
+        "authorDisplayName": "cris santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEZWyq1-WnYXM9elXcuHQZI2KYqnZSwDsR8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS-qcUDaA5njfRt46MmX0kg",
+        "authorChannelId": {
+          "value": "UCS-qcUDaA5njfRt46MmX0kg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-28T14:43:43Z",
+        "updatedAt": "2021-04-28T14:43:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "132aBEWTHkom8hwTPMdT7Nosi-4",
+      "id": "UgzXjdObSk0o2c-GqAV4AaABAg.9MgA2g6TmOh9Mk7o8PlCRX",
+      "snippet": {
+        "textDisplay": "@DescomplicaMais intrigante mesmo",
+        "textOriginal": "@DescomplicaMais intrigante mesmo",
+        "parentId": "UgzXjdObSk0o2c-GqAV4AaABAg",
+        "authorDisplayName": "Sidonia Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCrmcP1kcK0Gd3qF352bGOhaDsjEXpQp6yKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCP3lPaGH9qfIHXaO272j-Xw",
+        "authorChannelId": {
+          "value": "UCP3lPaGH9qfIHXaO272j-Xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-30T03:41:04Z",
+        "updatedAt": "2021-04-30T03:41:04Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "PUT2noXHar_XFBPIEoSx_wUF0fA",
+      "id": "UgzXjdObSk0o2c-GqAV4AaABAg.9MgA2g6TmOh9MgmiuYplMs",
+      "snippet": {
+        "textDisplay": "Pois \u00e9, triste conhecid\u00eancia",
+        "textOriginal": "Pois \u00e9, triste conhecid\u00eancia",
+        "parentId": "UgzXjdObSk0o2c-GqAV4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-28T20:30:24Z",
+        "updatedAt": "2021-04-28T20:30:24Z"
+      }
+    }
+  ]
+}

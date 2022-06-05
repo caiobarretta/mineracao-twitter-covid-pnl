@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Fjla2U9gABUBLHTxFfX4_PtPGxk",
+  "id": "UgxeF44xsV5FsF17ytt4AaABAg",
+  "snippet": {
+    "videoId": "wYdB1xydpBU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-8JsbgfWDLtpWOcDbUU-9UKjPwg",
+      "id": "UgxeF44xsV5FsF17ytt4AaABAg",
+      "snippet": {
+        "videoId": "wYdB1xydpBU",
+        "textDisplay": "They do this everytime we get too comfortable lol",
+        "textOriginal": "They do this everytime we get too comfortable lol",
+        "authorDisplayName": "Prettyful Brown",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kKRe0rw1YiIbhnuqbmW9TmHdZW2yLHS_Gkj-gXNJ0bBix4W53jxa9KFi-bxHIsirITstrCfU=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVtiEGlE-3PyXsKFjSXmnuA",
+        "authorChannelId": {
+          "value": "UCVtiEGlE-3PyXsKFjSXmnuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2022-05-13T03:15:04Z",
+        "updatedAt": "2022-05-13T03:15:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "30FQkRXSCUjcm7vjgAsWMN5cjL4",
+      "id": "UgxeF44xsV5FsF17ytt4AaABAg.9axPJOlcI089b80_bSZ4fJ",
+      "snippet": {
+        "textDisplay": "November Elections  are coming.",
+        "textOriginal": "November Elections  are coming.",
+        "parentId": "UgxeF44xsV5FsF17ytt4AaABAg",
+        "authorDisplayName": "Bilinda Mueller",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMTNafC3GGyBLkVz3igpaexTjgM-9WQlK_OEJTHeeIxmLBntDMmHXONqd6K2rA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCooMft_ypFrZazlgoP00Yhg",
+        "authorChannelId": {
+          "value": "UCooMft_ypFrZazlgoP00Yhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-17T15:29:51Z",
+        "updatedAt": "2022-05-17T15:29:51Z"
+      }
+    }
+  ]
+}

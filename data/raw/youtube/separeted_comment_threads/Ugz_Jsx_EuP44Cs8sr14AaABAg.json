@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Iimxl2ZqEFlwvnaHSfyX145USRI",
+  "id": "Ugz_Jsx_EuP44Cs8sr14AaABAg",
+  "snippet": {
+    "videoId": "rqBpMuncLxI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "l1O0lmjpD0am_scyZIk3U0zwd6s",
+      "id": "Ugz_Jsx_EuP44Cs8sr14AaABAg",
+      "snippet": {
+        "videoId": "rqBpMuncLxI",
+        "textDisplay": "Maravilhosa. N\u00e3o fica enrolando pra explicar e explica tudo que precisamos saber!",
+        "textOriginal": "Maravilhosa. N\u00e3o fica enrolando pra explicar e explica tudo que precisamos saber!",
+        "authorDisplayName": "Kaylane Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDgJqDO3hNWAAjMoWZXPgv68SLseoey3r2bHP_n_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUPUnl7sD4kbi9ryqhUaWGA",
+        "authorChannelId": {
+          "value": "UCUPUnl7sD4kbi9ryqhUaWGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2020-07-18T00:02:28Z",
+        "updatedAt": "2020-07-18T00:02:28Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "70IlnpQbWMsy-ZWfwkN5TES9pHw",
+      "id": "Ugz_Jsx_EuP44Cs8sr14AaABAg.9BEJRnd3iJj9QK0mRGAcjG",
+      "snippet": {
+        "textDisplay": "E",
+        "textOriginal": "E",
+        "parentId": "Ugz_Jsx_EuP44Cs8sr14AaABAg",
+        "authorDisplayName": "Luiz Felipe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9uBypr7-Fg__oTjy8xAgerJBOhzHXBFUidmEUAUk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYiJyQ9T6ziK6cW_7-bmDsA",
+        "authorChannelId": {
+          "value": "UCYiJyQ9T6ziK6cW_7-bmDsA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-28T01:05:45Z",
+        "updatedAt": "2021-07-28T01:05:45Z"
+      }
+    }
+  ]
+}

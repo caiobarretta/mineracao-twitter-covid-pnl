@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-tIETKuixsCQrwOHLpjzpHR8cGI",
+  "id": "UgzNlmzDPMAyQWpzbvh4AaABAg",
+  "snippet": {
+    "videoId": "-scPSsRQ9Xg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4TAWwthrUYNafBtZaTUe84MisUA",
+      "id": "UgzNlmzDPMAyQWpzbvh4AaABAg",
+      "snippet": {
+        "videoId": "-scPSsRQ9Xg",
+        "textDisplay": "Ya nos contar\u00e1s q tl el pastelito,me quede con ganas de probarlo.",
+        "textOriginal": "Ya nos contar\u00e1s q tl el pastelito,me quede con ganas de probarlo.",
+        "authorDisplayName": "Patri Rodriguez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9ps1LEvRzY5NP5ToU6iDGyUfPc3N8CB4rlIXbludb4wW3o-R52RT15FzMQMHowOCiKaz9Scy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1oxhtKT-bNPkjIthuxkF0g",
+        "authorChannelId": {
+          "value": "UC1oxhtKT-bNPkjIthuxkF0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-29T12:52:09Z",
+        "updatedAt": "2022-05-29T12:52:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GngIIa0VJClLFPm36aNg3fO9U1A",
+      "id": "UgzNlmzDPMAyQWpzbvh4AaABAg.9bbd45DErd89bc01p6_sVX",
+      "snippet": {
+        "textDisplay": "Esta de muerte \ud83d\udc80\ud83d\ude02",
+        "textOriginal": "Esta de muerte \ud83d\udc80\ud83d\ude02",
+        "parentId": "UgzNlmzDPMAyQWpzbvh4AaABAg",
+        "authorDisplayName": "Inma y sus novedades",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQQMFSTDHzJXC5yIC8eUmM1lS91RKKsRtA_12S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO5Fad-VeFAJr2kRPnSV_oA",
+        "authorChannelId": {
+          "value": "UCO5Fad-VeFAJr2kRPnSV_oA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-29T16:21:33Z",
+        "updatedAt": "2022-05-29T16:21:33Z"
+      }
+    }
+  ]
+}

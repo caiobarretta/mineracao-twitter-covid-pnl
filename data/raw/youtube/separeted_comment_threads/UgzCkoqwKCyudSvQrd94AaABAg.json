@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lYEcEFFyHZXSYUlMf48qc1JtL2I",
+  "id": "UgzCkoqwKCyudSvQrd94AaABAg",
+  "snippet": {
+    "videoId": "yZjjhvnax4Y",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "5u2gYSQlwqaOKdEeQKJyLvGKoqk",
+      "id": "UgzCkoqwKCyudSvQrd94AaABAg",
+      "snippet": {
+        "videoId": "yZjjhvnax4Y",
+        "textDisplay": "Inhame \u00e9 otimo pra imunidade",
+        "textOriginal": "Inhame \u00e9 otimo pra imunidade",
+        "authorDisplayName": "Maria In\u00eas Domingos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKJyG5WJuFZHBNk0sCKmCZzDGFAm4IxEgeRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6UlzY5W7WQDOzJWgju90EQ",
+        "authorChannelId": {
+          "value": "UC6UlzY5W7WQDOzJWgju90EQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-27T16:35:35Z",
+        "updatedAt": "2022-01-27T16:35:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YbiXan9q-3RNDdfVeaWnkgUwIj8",
+      "id": "UgzCkoqwKCyudSvQrd94AaABAg.9Xhtelq-JiL9XnEyZEa5iI",
+      "snippet": {
+        "textDisplay": "Vinagre de ma\u00e7\u00e3 tamb\u00e9m",
+        "textOriginal": "Vinagre de ma\u00e7\u00e3 tamb\u00e9m",
+        "parentId": "UgzCkoqwKCyudSvQrd94AaABAg",
+        "authorDisplayName": "zete dias",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRUJxz8Otqosf3wOxEHzrfh9HBhvzxZEt86Cg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLo5LXLd7j-xb_vQc9Yzt6Q",
+        "authorChannelId": {
+          "value": "UCLo5LXLd7j-xb_vQc9Yzt6Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-29T18:26:43Z",
+        "updatedAt": "2022-01-29T18:26:43Z"
+      }
+    }
+  ]
+}

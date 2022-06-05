@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YMnmfAxHyVxUmnZOE8hN-19RCY0",
+  "id": "UgzpHIyALSxIluHHp7F4AaABAg",
+  "snippet": {
+    "videoId": "qEqU09xwFg8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cnRUgRIyAXHo8bIR-e6-y7CvjtE",
+      "id": "UgzpHIyALSxIluHHp7F4AaABAg",
+      "snippet": {
+        "videoId": "qEqU09xwFg8",
+        "textDisplay": "All the mutations and subtypes around the world were once never been seen before.",
+        "textOriginal": "All the mutations and subtypes around the world were once never been seen before.",
+        "authorDisplayName": "Zerg Cerebrates",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfirEi4j5ri0vB33aIsjtjyfJhqWmk4w4cc3xL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm3bRqWr0e-CLNd1LKoWUrw",
+        "authorChannelId": {
+          "value": "UCm3bRqWr0e-CLNd1LKoWUrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-04-05T06:17:32Z",
+        "updatedAt": "2022-04-05T06:17:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VXNtNwrlpHg7E4fwhl9nRfOTVn0",
+      "id": "UgzpHIyALSxIluHHp7F4AaABAg.9_QszZ2RGdI9_R-nrX_0iC",
+      "snippet": {
+        "textDisplay": "Like influenza and other common diseases, they change and keep coming.",
+        "textOriginal": "Like influenza and other common diseases, they change and keep coming.",
+        "parentId": "UgzpHIyALSxIluHHp7F4AaABAg",
+        "authorDisplayName": "Myraida Diaz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYupXg049Yk-zQjmzpH1WvjNuy3mlA81-JBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2IKAG7a2HEo180EEp3tSQw",
+        "authorChannelId": {
+          "value": "UC2IKAG7a2HEo180EEp3tSQw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-05T07:25:50Z",
+        "updatedAt": "2022-04-05T07:25:50Z"
+      }
+    }
+  ]
+}

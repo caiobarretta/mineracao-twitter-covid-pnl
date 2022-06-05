@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A6exBwkowGJRKMRWcOOUfi9NZMo",
+  "id": "UgzfXMEH7Sr2fEpnZD94AaABAg",
+  "snippet": {
+    "videoId": "tzHslSe7nZw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7WmMNfk8aJ1j4LBY_NJ6REwftUs",
+      "id": "UgzfXMEH7Sr2fEpnZD94AaABAg",
+      "snippet": {
+        "videoId": "tzHslSe7nZw",
+        "textDisplay": "Bom dia, eu ganhando seis mil reais viveria bem a\u00ed na Argentina com minha esposa?",
+        "textOriginal": "Bom dia, eu ganhando seis mil reais viveria bem a\u00ed na Argentina com minha esposa?",
+        "authorDisplayName": "Carlos Augusto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNnxPMum2NRS3l38hpA8iuhhyNavlVIHs_GQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZbZ1xmt83cX9kqCiY-E99g",
+        "authorChannelId": {
+          "value": "UCZbZ1xmt83cX9kqCiY-E99g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-11-02T05:23:18Z",
+        "updatedAt": "2021-11-02T05:23:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "li29_1joSzfaugF091LMA0vWLFs",
+      "id": "UgzfXMEH7Sr2fEpnZD94AaABAg.9UEFMd6w0tO9UIx6Qmxwd0",
+      "snippet": {
+        "textDisplay": "Viveria muito, muito bem mesmo. Todos que eu conhe\u00e7o aqui vivem com a metade ou menos que a metade disso",
+        "textOriginal": "Viveria muito, muito bem mesmo. Todos que eu conhe\u00e7o aqui vivem com a metade ou menos que a metade disso",
+        "parentId": "UgzfXMEH7Sr2fEpnZD94AaABAg",
+        "authorDisplayName": "Eujesz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/1R_11snHdK4eliWPyqAFN6xNArEigojXBSQh8k0l78k9H78LPZGItIMTVQ86nP4y6WtfvTUawQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVtmCYHZt4DTDx3sJFWiuQg",
+        "authorChannelId": {
+          "value": "UCVtmCYHZt4DTDx3sJFWiuQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-11-04T01:11:16Z",
+        "updatedAt": "2021-11-04T01:11:16Z"
+      }
+    }
+  ]
+}

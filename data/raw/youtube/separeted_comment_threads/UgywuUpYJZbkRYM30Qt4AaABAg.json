@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jWSYS4m8HmvykHYrjIWpcIFcxmI",
+  "id": "UgywuUpYJZbkRYM30Qt4AaABAg",
+  "snippet": {
+    "videoId": "YqcDK4MQnak",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eQqajK7eYJWTf-tM2emik6u2kRI",
+      "id": "UgywuUpYJZbkRYM30Qt4AaABAg",
+      "snippet": {
+        "videoId": "YqcDK4MQnak",
+        "textDisplay": "PRIMEIRO GG",
+        "textOriginal": "PRIMEIRO GG",
+        "authorDisplayName": "NALTA 10",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/7GtgFRbuZGEiWlQsDwOj4f8If2b23n2Ll2JC8NFPeu4VHZwqqqJ5C-pi5QoIORig_wl-Ia8JLdI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCj0SG_5WmV1fq-RT543h7dA",
+        "authorChannelId": {
+          "value": "UCj0SG_5WmV1fq-RT543h7dA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-04-16T15:41:47Z",
+        "updatedAt": "2022-04-16T15:41:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "r8DbHD2uFq2Q1mz06A8ugrvolWQ",
+      "id": "UgywuUpYJZbkRYM30Qt4AaABAg.9_tDIsUFsfu9_tRB-wS0tj",
+      "snippet": {
+        "textDisplay": "Emocionado",
+        "textOriginal": "Emocionado",
+        "parentId": "UgywuUpYJZbkRYM30Qt4AaABAg",
+        "authorDisplayName": "Rodrigo da Costa Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/d2yXmQuToqVq3O_vH3CBCIztodAbxvR6_nDCZR2jFP9mP0aW4fRcbJc3rFWhHYXfoM5AuIahUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNuZ51i8_jVynMIz5GpynaA",
+        "authorChannelId": {
+          "value": "UCNuZ51i8_jVynMIz5GpynaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-16T17:43:02Z",
+        "updatedAt": "2022-04-16T17:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uebgLukcNkKDKkWlq-kBYedWTrs",
+      "id": "UgywuUpYJZbkRYM30Qt4AaABAg.9_tDIsUFsfu9_tEQvQQ24K",
+      "snippet": {
+        "textDisplay": "segundo GG",
+        "textOriginal": "segundo GG",
+        "parentId": "UgywuUpYJZbkRYM30Qt4AaABAg",
+        "authorDisplayName": "pardo_joao",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/A02yEN0dzwC4Pb4WRdhRo0nY4fxJ9YEZ32mm79H5CpxVshrN3_e8QU4JO5CLPDVbRgzNxLVp=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnl5SOMqyOV-qNmzwAhpJ-w",
+        "authorChannelId": {
+          "value": "UCnl5SOMqyOV-qNmzwAhpJ-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-16T15:51:37Z",
+        "updatedAt": "2022-04-16T15:51:37Z"
+      }
+    }
+  ]
+}

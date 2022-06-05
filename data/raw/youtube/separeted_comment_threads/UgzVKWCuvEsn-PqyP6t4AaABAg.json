@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "GxYNqv-W3K2Tq3UsgNleXjO1oT8",
+  "id": "UgzVKWCuvEsn-PqyP6t4AaABAg",
+  "snippet": {
+    "videoId": "-S4iHBcx0hE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XX-9QLujDSOeT94iyU2DqYC18bs",
+      "id": "UgzVKWCuvEsn-PqyP6t4AaABAg",
+      "snippet": {
+        "videoId": "-S4iHBcx0hE",
+        "textDisplay": "Qnd a pessoa quer ela para! \u00c9 dif\u00edcil, mas consegue. Eu parei h\u00e1 9 anos. Gra\u00e7as a Deus!",
+        "textOriginal": "Qnd a pessoa quer ela para! \u00c9 dif\u00edcil, mas consegue. Eu parei h\u00e1 9 anos. Gra\u00e7as a Deus!",
+        "authorDisplayName": "Carol F.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTf9KH3e874ak2TuvGHq4JfHthn-gLvy4kkWlMWtRY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgCNvOx8o5f-erUrviPZVUA",
+        "authorChannelId": {
+          "value": "UCgCNvOx8o5f-erUrviPZVUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2020-06-29T02:20:15Z",
+        "updatedAt": "2020-06-29T02:20:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vyG6KDlXQzBe6H22brYnPHztfIA",
+      "id": "UgzVKWCuvEsn-PqyP6t4AaABAg.9ATd6JPywA69AVAHBU7OyR",
+      "snippet": {
+        "textDisplay": "\u00c9 verdade",
+        "textOriginal": "\u00c9 verdade",
+        "parentId": "UgzVKWCuvEsn-PqyP6t4AaABAg",
+        "authorDisplayName": "Rodrigo Cunha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT92kRtUbvzrVJ4xgbyQnvOgf9GmXh1D9QfRgBh=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTntZzUloJS1eI9uYzTrSuA",
+        "authorChannelId": {
+          "value": "UCTntZzUloJS1eI9uYzTrSuA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-06-29T16:38:04Z",
+        "updatedAt": "2020-06-29T16:38:04Z"
+      }
+    }
+  ]
+}

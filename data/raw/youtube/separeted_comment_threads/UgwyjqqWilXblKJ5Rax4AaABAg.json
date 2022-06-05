@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "JkJdv2AFsijJHYdI-kyyp_twmMk",
+  "id": "UgwyjqqWilXblKJ5Rax4AaABAg",
+  "snippet": {
+    "videoId": "2s5mbpSoj5E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "89zbPn-0hKRHQlf8IVFMwSjv3QM",
+      "id": "UgwyjqqWilXblKJ5Rax4AaABAg",
+      "snippet": {
+        "videoId": "2s5mbpSoj5E",
+        "textDisplay": "E da\u00ed. Dane-se",
+        "textOriginal": "E da\u00ed. Dane-se",
+        "authorDisplayName": "Natasha Vodianova",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQahmj1QHgpuI5iYFNlhvIiyX4t4YRXdy0Cfg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1BDTvompwgSQFVSYnBBIpA",
+        "authorChannelId": {
+          "value": "UC1BDTvompwgSQFVSYnBBIpA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-01-05T21:51:14Z",
+        "updatedAt": "2022-01-05T21:51:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OwZylY9owSKlUwfwMQ3sIMAW5PY",
+      "id": "UgwyjqqWilXblKJ5Rax4AaABAg.9WpoIPtW2BV9WrNvE2ucaW",
+      "snippet": {
+        "textDisplay": "Q isso cara",
+        "textOriginal": "Q isso cara",
+        "parentId": "UgwyjqqWilXblKJ5Rax4AaABAg",
+        "authorDisplayName": "Remag_",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/v7rnWlTDqoWlxVVe-W-GZoqbStgTADRhRk6UkGavBemrLNYLYl0ZcDzmn-FMB6GmHB7hJWDc=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV0kQKe6rPrAIUCqsrGmYLw",
+        "authorChannelId": {
+          "value": "UCV0kQKe6rPrAIUCqsrGmYLw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-06T12:30:29Z",
+        "updatedAt": "2022-01-06T12:30:29Z"
+      }
+    }
+  ]
+}

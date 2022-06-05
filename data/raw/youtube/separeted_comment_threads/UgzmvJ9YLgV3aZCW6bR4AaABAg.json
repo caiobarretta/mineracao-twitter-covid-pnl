@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IZ2wnlrSQfl77T0VzU6xP7_coPo",
+  "id": "UgzmvJ9YLgV3aZCW6bR4AaABAg",
+  "snippet": {
+    "videoId": "3yWYAWC5UAI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "AggZ9aI7JjOd3qolWnkL4Tu6IEY",
+      "id": "UgzmvJ9YLgV3aZCW6bR4AaABAg",
+      "snippet": {
+        "videoId": "3yWYAWC5UAI",
+        "textDisplay": "Voc\u00ea est\u00e1 estudando franc\u00eas?",
+        "textOriginal": "Voc\u00ea est\u00e1 estudando franc\u00eas?",
+        "authorDisplayName": "Wesley",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyt7ypQL529b5ZgOvPJt_YfmLElLmqDqD3fgnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGTC6MnSCpNtYyqM0JnhkJw",
+        "authorChannelId": {
+          "value": "UCGTC6MnSCpNtYyqM0JnhkJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-05T02:56:29Z",
+        "updatedAt": "2022-02-05T02:56:29Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d-oORz-RYwVXJSkHZGN9RYuTfrw",
+      "id": "UgzmvJ9YLgV3aZCW6bR4AaABAg.9Y2b4PPe24T9Y99TelRhij",
+      "snippet": {
+        "textDisplay": "@Yasmim Lupepsa ela falou em Mandarim que estuda franc\u00eas.",
+        "textOriginal": "@Yasmim Lupepsa ela falou em Mandarim que estuda franc\u00eas.",
+        "parentId": "UgzmvJ9YLgV3aZCW6bR4AaABAg",
+        "authorDisplayName": "Wesley",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyt7ypQL529b5ZgOvPJt_YfmLElLmqDqD3fgnA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGTC6MnSCpNtYyqM0JnhkJw",
+        "authorChannelId": {
+          "value": "UCGTC6MnSCpNtYyqM0JnhkJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2022-02-07T16:01:12Z",
+        "updatedAt": "2022-02-07T16:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "O1AKfjMzcMQ1vRY7IPELaeIkSuM",
+      "id": "UgzmvJ9YLgV3aZCW6bR4AaABAg.9Y2b4PPe24T9Y3w9nYSPpj",
+      "snippet": {
+        "textDisplay": "Mandarin",
+        "textOriginal": "Mandarin",
+        "parentId": "UgzmvJ9YLgV3aZCW6bR4AaABAg",
+        "authorDisplayName": "Yasmim Lupepsa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToxLVxoZn_yzTvJVjBan6t7yMUwK7io_xj-A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOFq0TE0lBjYCgFEEWSjKUw",
+        "authorChannelId": {
+          "value": "UCOFq0TE0lBjYCgFEEWSjKUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-05T15:19:58Z",
+        "updatedAt": "2022-02-05T15:19:58Z"
+      }
+    }
+  ]
+}

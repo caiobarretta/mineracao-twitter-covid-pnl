@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "WfOA97VbihanHQpcCT44aepUxGg",
+  "id": "UgwtmQgDo4ezRA1swkx4AaABAg",
+  "snippet": {
+    "videoId": "-scPSsRQ9Xg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pVjU7atjQINYhqjuGrTZSwAhP9M",
+      "id": "UgwtmQgDo4ezRA1swkx4AaABAg",
+      "snippet": {
+        "videoId": "-scPSsRQ9Xg",
+        "textDisplay": "Hola Inma me gusta mucho tus compras y como lo explicas. Tienes raz\u00f3n en lo del kiwi oro est\u00e1 mucho m\u00e1s bueno y dulce,un saludo.",
+        "textOriginal": "Hola Inma me gusta mucho tus compras y como lo explicas. Tienes raz\u00f3n en lo del kiwi oro est\u00e1 mucho m\u00e1s bueno y dulce,un saludo.",
+        "authorDisplayName": "FRANCISCA AMATE",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCPEjZN10jzdpfeEuixyxYvJpTJFojkrss9k-RzQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjjQbKXvPtgnKGyFxSWG_Bw",
+        "authorChannelId": {
+          "value": "UCjjQbKXvPtgnKGyFxSWG_Bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-29T18:23:10Z",
+        "updatedAt": "2022-05-29T18:23:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NH0iIKR_qjzFzvCfKi_-b8LqSQE",
+      "id": "UgwtmQgDo4ezRA1swkx4AaABAg.9bcDxZUfA-E9bcGpPm540G",
+      "snippet": {
+        "textDisplay": "Pod\u00eda ser un poquito m\u00e1s barato \ud83d\ude1d\ud83d\ude1d",
+        "textOriginal": "Pod\u00eda ser un poquito m\u00e1s barato \ud83d\ude1d\ud83d\ude1d",
+        "parentId": "UgwtmQgDo4ezRA1swkx4AaABAg",
+        "authorDisplayName": "Inma y sus novedades",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQQMFSTDHzJXC5yIC8eUmM1lS91RKKsRtA_12S=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCO5Fad-VeFAJr2kRPnSV_oA",
+        "authorChannelId": {
+          "value": "UCO5Fad-VeFAJr2kRPnSV_oA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-29T18:48:16Z",
+        "updatedAt": "2022-05-29T18:48:16Z"
+      }
+    }
+  ]
+}

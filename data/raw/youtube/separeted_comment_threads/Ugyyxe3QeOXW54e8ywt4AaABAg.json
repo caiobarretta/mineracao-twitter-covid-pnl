@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k6AJFVhKsvJGESmxg6lBHGg-7X8",
+  "id": "Ugyyxe3QeOXW54e8ywt4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kPnDHV8SGvH0pw421RVSXvBGhjs",
+      "id": "Ugyyxe3QeOXW54e8ywt4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "Emot api 3x",
+        "textOriginal": "Emot api 3x",
+        "authorDisplayName": "Kadek Danu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/24YET0EOdmyJNG8R20amJKcTjC3wTQPPQrxQS-GTQKMHR7AIL_sgl3i_HpvBVZm7fNUh2rdViQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgetp5q_ng1a8L6cNpSz4Lg",
+        "authorChannelId": {
+          "value": "UCgetp5q_ng1a8L6cNpSz4Lg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T10:52:50Z",
+        "updatedAt": "2021-10-18T10:52:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5f1v5ihBkmQH0cY21mHCBflhtpI",
+      "id": "Ugyyxe3QeOXW54e8ywt4AaABAg.9TdD9650s2k9TdM5wtBmjj",
+      "snippet": {
+        "textDisplay": "emot kiss unlimited",
+        "textOriginal": "emot kiss unlimited",
+        "parentId": "Ugyyxe3QeOXW54e8ywt4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T12:11:03Z",
+        "updatedAt": "2021-10-18T12:11:03Z"
+      }
+    }
+  ]
+}

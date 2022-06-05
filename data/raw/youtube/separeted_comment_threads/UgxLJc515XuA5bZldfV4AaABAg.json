@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "HhW3dvvAN-yBjbpRrZ0k1LSLvpo",
+  "id": "UgxLJc515XuA5bZldfV4AaABAg",
+  "snippet": {
+    "videoId": "j1embAqET9g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZMwrjzZCDAzJ61FvmarkAR4DIjs",
+      "id": "UgxLJc515XuA5bZldfV4AaABAg",
+      "snippet": {
+        "videoId": "j1embAqET9g",
+        "textDisplay": "Olha a var\u00edola!\n\u00c9 mentira! \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "textOriginal": "Olha a var\u00edola!\n\u00c9 mentira! \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "authorDisplayName": "Papa Defunto Do Bairro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvDmVQjVO22Kk8k_WaVUc7n93__OtUS5bynizj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPaKStnSq9IbbzQaq_X8iQQ",
+        "authorChannelId": {
+          "value": "UCPaKStnSq9IbbzQaq_X8iQQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2022-05-29T02:09:57Z",
+        "updatedAt": "2022-05-29T02:09:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fwca5jE38_TGFj7bhS8eOeNzYA0",
+      "id": "UgxLJc515XuA5bZldfV4AaABAg.9baU_SO4C-79baolVHUTK_",
+      "snippet": {
+        "textDisplay": "N\u00e9 \ud83d\ude01\ud83d\ude44.",
+        "textOriginal": "N\u00e9 \ud83d\ude01\ud83d\ude44.",
+        "parentId": "UgxLJc515XuA5bZldfV4AaABAg",
+        "authorDisplayName": "Fernanda De Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPMnFRbzij2XgBMqKrCeWix8HdWas1AmdzLw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_Jr7h93f8hE33DfLqLfreg",
+        "authorChannelId": {
+          "value": "UC_Jr7h93f8hE33DfLqLfreg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-29T05:15:06Z",
+        "updatedAt": "2022-05-29T05:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "gM3Xe5ZxHyp6Zag9lDn-a2xVymc",
+      "id": "UgxLJc515XuA5bZldfV4AaABAg.9baU_SO4C-79baXC7v-4CN",
+      "snippet": {
+        "textDisplay": "Tr\u00e1gico",
+        "textOriginal": "Tr\u00e1gico",
+        "parentId": "UgxLJc515XuA5bZldfV4AaABAg",
+        "authorDisplayName": "Felipy Ramos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BUjfUoS3mU2pMBMXPNwFK43BG1U6XtOq7pblImPHbc01TdUEGU1af4N057nEk3rvBR3LRuQagg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMo3luokemu-KD1DQpO-CDA",
+        "authorChannelId": {
+          "value": "UCMo3luokemu-KD1DQpO-CDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-29T02:32:50Z",
+        "updatedAt": "2022-05-29T02:32:50Z"
+      }
+    }
+  ]
+}

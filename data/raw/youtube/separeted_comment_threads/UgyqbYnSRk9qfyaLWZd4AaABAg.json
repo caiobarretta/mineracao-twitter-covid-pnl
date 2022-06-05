@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "lcFRymhQZ0kIxtSFQKrAxMUjF1I",
+  "id": "UgyqbYnSRk9qfyaLWZd4AaABAg",
+  "snippet": {
+    "videoId": "lC4qTgXG7FY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zfPryLYOvDxgyYkiGuXPuQ2LkBs",
+      "id": "UgyqbYnSRk9qfyaLWZd4AaABAg",
+      "snippet": {
+        "videoId": "lC4qTgXG7FY",
+        "textDisplay": "\"Claudin confia\"\n\"T\u00e1 de castigo at\u00e9 o pombo sair do carro do Victor",
+        "textOriginal": "\"Claudin confia\"\n\"T\u00e1 de castigo at\u00e9 o pombo sair do carro do Victor",
+        "authorDisplayName": "davizin01",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/LrFDYz9ZfOZHvWpslaBLw944AewkUx_JL6K8MjvlY2Lyz-pL_VCncuoZbpeLIYxyHKnEmAYT_O4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHS_D-gZMs-Naa7M9NBkANw",
+        "authorChannelId": {
+          "value": "UCHS_D-gZMs-Naa7M9NBkANw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-29T13:04:27Z",
+        "updatedAt": "2022-05-29T13:07:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DiTOwmBg34Lgce3UHKVlp3VlpYg",
+      "id": "UgyqbYnSRk9qfyaLWZd4AaABAg.9bbeU7jgAe89beTB26R-Dp",
+      "snippet": {
+        "textDisplay": "Fonte confia",
+        "textOriginal": "Fonte confia",
+        "parentId": "UgyqbYnSRk9qfyaLWZd4AaABAg",
+        "authorDisplayName": "eny Vieira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_a22-4YYGif96ri380FRYeiu6Xo1quxKldSPRjw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-HSoy0pm85uHp3CaNxx2MA",
+        "authorChannelId": {
+          "value": "UC-HSoy0pm85uHp3CaNxx2MA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T15:14:42Z",
+        "updatedAt": "2022-05-30T15:14:42Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ss_r-ndwmI5bLIeeV4hXUL1-vNs",
+  "id": "UgynPuXByz2e8SgHBnp4AaABAg",
+  "snippet": {
+    "videoId": "pV2ZSm1-Y1I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qvXY32vAuA2ul6x7ttv5xgaqRJA",
+      "id": "UgynPuXByz2e8SgHBnp4AaABAg",
+      "snippet": {
+        "videoId": "pV2ZSm1-Y1I",
+        "textDisplay": "Boris Jonson quer melhorar sua popularidade.",
+        "textOriginal": "Boris Jonson quer melhorar sua popularidade.",
+        "authorDisplayName": "Antonio Alberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWYpmqOR3rrbdd1gUEtR16-L11J4hxZYlazg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCiV-ZoXMN_5WjGLuyB37Jlg",
+        "authorChannelId": {
+          "value": "UCiV-ZoXMN_5WjGLuyB37Jlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 74,
+        "publishedAt": "2022-02-21T23:14:59Z",
+        "updatedAt": "2022-02-21T23:14:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Rsx1laFrxQoxc8Y9maQ0QCRZggo",
+      "id": "UgynPuXByz2e8SgHBnp4AaABAg.9YizF0GrAwD9Yks9g_kBDn",
+      "snippet": {
+        "textDisplay": "Se esta ruim \u00e9 pq esta fazendo o que o povo n\u00e3o quer, se o povo quer liberdade que assim seja.",
+        "textOriginal": "Se esta ruim \u00e9 pq esta fazendo o que o povo n\u00e3o quer, se o povo quer liberdade que assim seja.",
+        "parentId": "UgynPuXByz2e8SgHBnp4AaABAg",
+        "authorDisplayName": "Ricardo Tomaselli",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSp-2KE-1pl0W0G6HNbv4OeOc2z5lhpb8fk7A3o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5vm8lGHQ4SeBuAWLXWFG2w",
+        "authorChannelId": {
+          "value": "UC5vm8lGHQ4SeBuAWLXWFG2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-02-22T16:51:34Z",
+        "updatedAt": "2022-02-22T16:51:34Z"
+      }
+    }
+  ]
+}

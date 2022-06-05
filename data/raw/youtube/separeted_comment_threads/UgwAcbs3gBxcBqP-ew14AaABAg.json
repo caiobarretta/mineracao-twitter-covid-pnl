@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QBjd9nw0euUx-DrhLDe8mCIC5gE",
+  "id": "UgwAcbs3gBxcBqP-ew14AaABAg",
+  "snippet": {
+    "videoId": "ztD6FExoBmg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4i0axSIWBGHmMTyu-jNf3HVPdMQ",
+      "id": "UgwAcbs3gBxcBqP-ew14AaABAg",
+      "snippet": {
+        "videoId": "ztD6FExoBmg",
+        "textDisplay": "Muito legal as orienta\u00e7\u00f5es! Gratid\u00e3o",
+        "textOriginal": "Muito legal as orienta\u00e7\u00f5es! Gratid\u00e3o",
+        "authorDisplayName": "ana lucia pareira dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShs9xZL9JmMdvlwn6fMRvkPb38ybr92XtOQw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVQfuuzOTXMkxu3c99Uj4rQ",
+        "authorChannelId": {
+          "value": "UCVQfuuzOTXMkxu3c99Uj4rQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-08-30T18:06:23Z",
+        "updatedAt": "2020-08-30T18:06:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NJp-KeA2o4VC6HumZXGQTH7l2lg",
+      "id": "UgwAcbs3gBxcBqP-ew14AaABAg.9CzyfGZpDsv9D0hh3D7zFy",
+      "snippet": {
+        "textDisplay": "\u263a\ufe0f\ud83e\udd17",
+        "textOriginal": "\u263a\ufe0f\ud83e\udd17",
+        "parentId": "UgwAcbs3gBxcBqP-ew14AaABAg",
+        "authorDisplayName": "Vamos Fugir Blog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8zt4n0G65CR8UiYAMNItKMYcLeqoxcwDHbhIhBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCngY-0fPeVYo-TdIBmj-hGg",
+        "authorChannelId": {
+          "value": "UCngY-0fPeVYo-TdIBmj-hGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-31T10:16:34Z",
+        "updatedAt": "2020-08-31T10:16:34Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XBNOy0IEHWz6cS6XAc4J7xDgDZE",
+  "id": "Ugy7w0fXQBtmdku_7oZ4AaABAg",
+  "snippet": {
+    "videoId": "0hE6yoV7POs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "EA2gANJrR_i65rwGAwwysBCVmwU",
+      "id": "Ugy7w0fXQBtmdku_7oZ4AaABAg",
+      "snippet": {
+        "videoId": "0hE6yoV7POs",
+        "textDisplay": "\u0645\u0633\u0631\u0639 \u0627\u0643\u062a\u0634\u0641\u0648\u0647 \u0648\u0645\u0627 \u0642\u062f \u0645\u0627\u062a\u0648 \u0627\u0644\u0627 \u062b\u0644\u0627\u062b\u0647 \u0645\u0646 \u0628\u064a\u0646 \u0627\u062b\u0646\u064a\u0646 \u0645\u0644\u064a\u0627\u0631",
+        "textOriginal": "\u0645\u0633\u0631\u0639 \u0627\u0643\u062a\u0634\u0641\u0648\u0647 \u0648\u0645\u0627 \u0642\u062f \u0645\u0627\u062a\u0648 \u0627\u0644\u0627 \u062b\u0644\u0627\u062b\u0647 \u0645\u0646 \u0628\u064a\u0646 \u0627\u062b\u0646\u064a\u0646 \u0645\u0644\u064a\u0627\u0631",
+        "authorDisplayName": "\u0639\u0644\u0649 \u0627\u0644\u0637\u0627\u064a\u0631",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRw0jXYOhzM5KWmL5D1w90UT6OLR0AoEB5SnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVplW3SGCmXu-2mZiIyyjvA",
+        "authorChannelId": {
+          "value": "UCVplW3SGCmXu-2mZiIyyjvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 7,
+        "publishedAt": "2020-01-20T17:45:49Z",
+        "updatedAt": "2020-01-20T17:45:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vCvpe84wFdswM6k9VK75gqzLHxw",
+      "id": "Ugy7w0fXQBtmdku_7oZ4AaABAg.940j2PfnU0194FhMyNeKYY",
+      "snippet": {
+        "textDisplay": "\u0648\u0644\u0644\u0647 \u064a\u0643\u0630\u0628\u0648 \u0632\u0639\u0645\u0627 \u0635\u062d \u0645\u0627\u062a\u0648\u0627 3\u0627\u0634\u062e\u0627\u0635 \u0628\u0631\u0643 \u064a\u0627\u0648 \u0645\u0627\u062a\u0648\u0627 2000500\u0634\u062e\u0635",
+        "textOriginal": "\u0648\u0644\u0644\u0647 \u064a\u0643\u0630\u0628\u0648 \u0632\u0639\u0645\u0627 \u0635\u062d \u0645\u0627\u062a\u0648\u0627 3\u0627\u0634\u062e\u0627\u0635 \u0628\u0631\u0643 \u064a\u0627\u0648 \u0645\u0627\u062a\u0648\u0627 2000500\u0634\u062e\u0635",
+        "parentId": "Ugy7w0fXQBtmdku_7oZ4AaABAg",
+        "authorDisplayName": "Lamis Lamis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgpaeV3K4YMz-BfBpRcI_6PI4fGwXZkRGZTg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrzmAE1OkAJoIcFlEfumJYA",
+        "authorChannelId": {
+          "value": "UCrzmAE1OkAJoIcFlEfumJYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-01-26T13:19:45Z",
+        "updatedAt": "2020-01-26T13:19:45Z"
+      }
+    }
+  ]
+}

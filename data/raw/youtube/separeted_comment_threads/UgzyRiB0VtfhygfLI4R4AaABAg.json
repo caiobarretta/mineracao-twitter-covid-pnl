@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "PCi3Q24mXla1BA4OFknv9kyB7y8",
+  "id": "UgzyRiB0VtfhygfLI4R4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dmLihRg3VhjI378Cryjdn38DpTk",
+      "id": "UgzyRiB0VtfhygfLI4R4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Aula muito boa. Deu pra assimilar de forma bem mais f\u00e1cil.",
+        "textOriginal": "Aula muito boa. Deu pra assimilar de forma bem mais f\u00e1cil.",
+        "authorDisplayName": "Jo\u00e3o Caio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPp-zStZOy6_2Jd50tDYnk5ialD75N7S75ymay=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_nZC4CZ16_KxUW6wVvJHcQ",
+        "authorChannelId": {
+          "value": "UC_nZC4CZ16_KxUW6wVvJHcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-09-17T19:39:52Z",
+        "updatedAt": "2021-09-17T19:39:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "hntljzANcT72baJjLnyBeHx6Ex8",
+      "id": "UgzyRiB0VtfhygfLI4R4AaABAg.9SPKp4rGTfG9SQBMboBNLZ",
+      "snippet": {
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Obrigado. Ficamos felizes em facilitar o entendimento.",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Obrigado. Ficamos felizes em facilitar o entendimento.",
+        "parentId": "UgzyRiB0VtfhygfLI4R4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-18T03:36:27Z",
+        "updatedAt": "2021-09-18T03:36:27Z"
+      }
+    }
+  ]
+}

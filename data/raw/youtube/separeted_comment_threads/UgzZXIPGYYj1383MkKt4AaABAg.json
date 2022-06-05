@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "2iZcLGxSPgDeBDjUjl03UBqmGTU",
+  "id": "UgzZXIPGYYj1383MkKt4AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ysxWcxX6TPQgEgicegZCkCVrB8o",
+      "id": "UgzZXIPGYYj1383MkKt4AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "Cuidado Josi vai pelo acostamento muito perigoso",
+        "textOriginal": "Cuidado Josi vai pelo acostamento muito perigoso",
+        "authorDisplayName": "Eletrica Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uARKR9VUUJsqhWkA96-HUoLM23TCfKlTb2lvNSjWossPKvUv-x53z2JFPxIb0Ngfl6Af-igQSf8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzzpooa6kP2T21J9BECNxJw",
+        "authorChannelId": {
+          "value": "UCzzpooa6kP2T21J9BECNxJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-28T14:58:48Z",
+        "updatedAt": "2022-04-28T14:58:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jGCx8mONihNfhfMOSp9HVbL4hOg",
+      "id": "UgzZXIPGYYj1383MkKt4AaABAg.9aN1vbUSozW9aNXcKl7_EB",
+      "snippet": {
+        "textDisplay": "Verdade viu",
+        "textOriginal": "Verdade viu",
+        "parentId": "UgzZXIPGYYj1383MkKt4AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T19:35:48Z",
+        "updatedAt": "2022-04-28T19:35:55Z"
+      }
+    }
+  ]
+}

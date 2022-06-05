@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yzo3d46NYYgbdg4ASa9YW2a8Feg",
+  "id": "Ugyly9gs3isQLJtCT5Z4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2wRPTQl6ScoboGYsQcWQy1AvXJw",
+      "id": "Ugyly9gs3isQLJtCT5Z4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+        "textOriginal": "\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+        "authorDisplayName": "Yoga Astawa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bQS4jVL06iEJmdcSaTWyXB3ObAUYGDOW3J06CzCe81UBvoRePVgLNZf5-dDZrpHjtiAJQ23Cvg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH1QF30zdCCRdatRv1o5vRQ",
+        "authorChannelId": {
+          "value": "UCH1QF30zdCCRdatRv1o5vRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-17T12:31:34Z",
+        "updatedAt": "2021-10-17T12:31:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "T4xiwI_-8VcRX-41obWUL5FicIE",
+      "id": "Ugyly9gs3isQLJtCT5Z4AaABAg.9TaoeNcv2Au9Tc4kA2z0ff",
+      "snippet": {
+        "textDisplay": "\u2764\ufe0f\u200d\ud83d\udd25",
+        "textOriginal": "\u2764\ufe0f\u200d\ud83d\udd25",
+        "parentId": "Ugyly9gs3isQLJtCT5Z4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T00:20:09Z",
+        "updatedAt": "2021-10-18T00:20:09Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0Yku6DBxKmlVxwMV6acvQ6rZX4k",
+  "id": "Ugywo7pdhQU-qg5yA-54AaABAg",
+  "snippet": {
+    "videoId": "x5pyGZ-kPTg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "uuIyGpMH48kxbXZ3I0t0ofziD8o",
+      "id": "Ugywo7pdhQU-qg5yA-54AaABAg",
+      "snippet": {
+        "videoId": "x5pyGZ-kPTg",
+        "textDisplay": "Amei essa aula\ud83d\ude0d\ud83d\ude0d\ud83d\udc93",
+        "textOriginal": "Amei essa aula\ud83d\ude0d\ud83d\ude0d\ud83d\udc93",
+        "authorDisplayName": "Maria Clara Cuz Bastos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOEazMx0yzUFTBKF1Twzh2rj4pBbLCZO9D7pXO2_EJTSzTHMt1Ops-ngzguAQr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUOn8TSv5LPld14vkINFTVQ",
+        "authorChannelId": {
+          "value": "UCUOn8TSv5LPld14vkINFTVQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-07-28T19:08:18Z",
+        "updatedAt": "2021-07-28T19:08:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ZAQx78GrkQj2jKJ3euKZifG28zQ",
+      "id": "Ugywo7pdhQU-qg5yA-54AaABAg.9QLxfCgj8o39QMQH1YU4XV",
+      "snippet": {
+        "textDisplay": "Ah, que \u00f3timo! Muito obrigado!",
+        "textOriginal": "Ah, que \u00f3timo! Muito obrigado!",
+        "parentId": "Ugywo7pdhQU-qg5yA-54AaABAg",
+        "authorDisplayName": "portugu\u00eas n\u00e3o \u00e9 f\u00e1cil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/NCiutVRIXjRZ8ybQnKnm-Q26FtF_2gAVuToZ1U3JuKvc0dZnlV7p8z5Ey8ociKXPPaLXlXM7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDVW3tXFddNETL0LQ9pTA9w",
+        "authorChannelId": {
+          "value": "UCDVW3tXFddNETL0LQ9pTA9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-28T23:27:00Z",
+        "updatedAt": "2021-07-28T23:27:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T9QxZiWusp18C1fDE7yI5TswBWQ",
+  "id": "UgxtHS8VwhiuDpVWXu94AaABAg",
+  "snippet": {
+    "videoId": "7otL9p5DjsU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "J-GaYEoYghdakJKpa_NlU73DtuY",
+      "id": "UgxtHS8VwhiuDpVWXu94AaABAg",
+      "snippet": {
+        "videoId": "7otL9p5DjsU",
+        "textDisplay": "Boa tarde. Eu aderi a m\u00e1scara para sempre.",
+        "textOriginal": "Boa tarde. Eu aderi a m\u00e1scara para sempre.",
+        "authorDisplayName": "fatimaleal53",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTucvJcyV7wKcIXxF7exf7L7VjxQfUYasAILdObPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIMtZIeFCNiw4yJyVUG3giQ",
+        "authorChannelId": {
+          "value": "UCIMtZIeFCNiw4yJyVUG3giQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2021-11-13T20:44:01Z",
+        "updatedAt": "2021-11-13T20:44:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "h23hsNryrX6_m16ggBh36Qw2GWg",
+      "id": "UgxtHS8VwhiuDpVWXu94AaABAg.9UhDTnuBxIy9UkOH8cYX7Z",
+      "snippet": {
+        "textDisplay": "Use pff2",
+        "textOriginal": "Use pff2",
+        "parentId": "UgxtHS8VwhiuDpVWXu94AaABAg",
+        "authorDisplayName": "Jessica Bezerra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxEos9HsgtMlP8C9l2ZPtNffi2cKEXnMi_8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4DCy3SLllTZj_TTo-LUL4g",
+        "authorChannelId": {
+          "value": "UC4DCy3SLllTZj_TTo-LUL4g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-15T02:16:08Z",
+        "updatedAt": "2021-11-15T02:16:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vZNzaZFlbAFK0oObvWj7YROxNeY",
+  "id": "UgjBmccW0N-hPXgCoAEC",
+  "snippet": {
+    "videoId": "SmUjfaOo0MU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8DrngS3CIg1IidCzealTZnCd18Y",
+      "id": "UgjBmccW0N-hPXgCoAEC",
+      "snippet": {
+        "videoId": "SmUjfaOo0MU",
+        "textDisplay": "Ne serite.Ovo nije muzika,Glava me boli od ovog sranja.",
+        "textOriginal": "Ne serite.Ovo nije muzika,Glava me boli od ovog sranja.",
+        "authorDisplayName": "Milan Stojanov",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTL7mwYurMJW_HysduQlgvOUUv7ZRrJZnJPQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC39pHPXaW92j4oK85DZIXKQ",
+        "authorChannelId": {
+          "value": "UC39pHPXaW92j4oK85DZIXKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2014-03-16T11:47:30Z",
+        "updatedAt": "2014-03-16T11:47:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mAqEM-UlCrL5sLoiCQKoQSyARWk",
+      "id": "UgjBmccW0N-hPXgCoAEC.7-H0Z7-1dzg74C0npmHLVo",
+      "snippet": {
+        "textDisplay": "\u0160ta tra\u017ei\u0161 onda ovde?",
+        "textOriginal": "\u0160ta tra\u017ei\u0161 onda ovde?",
+        "parentId": "UgjBmccW0N-hPXgCoAEC",
+        "authorDisplayName": "Loki01",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3Zxrph5rYhq8S70zzGLUDv-QiOekohIdNZnZ2Yw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmUkkcRQJ3H8dWPQX7Y2-Tw",
+        "authorChannelId": {
+          "value": "UCmUkkcRQJ3H8dWPQX7Y2-Tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2014-07-16T19:50:25Z",
+        "updatedAt": "2014-07-16T19:50:25Z"
+      }
+    }
+  ]
+}

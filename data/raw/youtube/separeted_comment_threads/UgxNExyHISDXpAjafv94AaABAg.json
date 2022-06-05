@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "j0X3W1zrRG3ea2NBCNlLjPsMjLw",
+  "id": "UgxNExyHISDXpAjafv94AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MFvYGFP8M2hs_nnOS6yL3JDta0w",
+      "id": "UgxNExyHISDXpAjafv94AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Top essa aula!\nTem esse material em PDF?",
+        "textOriginal": "Top essa aula!\nTem esse material em PDF?",
+        "authorDisplayName": "Burgu\u00eas pipas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ63wNVRJmb4PVjUEdAWfWYgrJTrAPZE6Eyryex6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCGq-m0sKjiVQF7futMu5MQ",
+        "authorChannelId": {
+          "value": "UCCGq-m0sKjiVQF7futMu5MQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-02-11T14:32:04Z",
+        "updatedAt": "2022-02-11T14:32:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HNhYjSM6l6CKlVv4IV3gRfpg7bw",
+      "id": "UgxNExyHISDXpAjafv94AaABAg.9YJISJzD3gC9aGMP3wM4AY",
+      "snippet": {
+        "textDisplay": "@Emili Gomes conseguiu o material?",
+        "textOriginal": "@Emili Gomes conseguiu o material?",
+        "parentId": "UgxNExyHISDXpAjafv94AaABAg",
+        "authorDisplayName": "MarcaodoDriver",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GXbMuMfaeQ6-7dBu0VgAEasS_HbRau1CLMWJXR-9v0qJHmyINSg32MwkFvJHY550gXt5gWxM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMhUxj9P-eFssSzYS50-lDQ",
+        "authorChannelId": {
+          "value": "UCMhUxj9P-eFssSzYS50-lDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-26T00:43:02Z",
+        "updatedAt": "2022-04-26T00:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "SgOqqIrWfcfO5vhQeDgaTkMXW2I",
+      "id": "UgxNExyHISDXpAjafv94AaABAg.9YJISJzD3gC9_4htplYa7w",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m gostaria do material",
+        "textOriginal": "Tamb\u00e9m gostaria do material",
+        "parentId": "UgxNExyHISDXpAjafv94AaABAg",
+        "authorDisplayName": "Emili Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1lRMZQTcnuR7Ur08oghUHisTfYEjmb83MXagcxZk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbjxFKW4w4hy_ydrPHJGVOQ",
+        "authorChannelId": {
+          "value": "UCbjxFKW4w4hy_ydrPHJGVOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-27T15:37:20Z",
+        "updatedAt": "2022-03-27T15:37:20Z"
+      }
+    }
+  ]
+}

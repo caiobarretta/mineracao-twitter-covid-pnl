@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yKlqOm4L5QD2P4xs0ynCJNcYUHU",
+  "id": "Ugye63ruP9d4Byf5zmd4AaABAg",
+  "snippet": {
+    "videoId": "ZNuWXSvhhD8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ahtqo4iU7iCoeS1j2y_alldHN4U",
+      "id": "Ugye63ruP9d4Byf5zmd4AaABAg",
+      "snippet": {
+        "videoId": "ZNuWXSvhhD8",
+        "textDisplay": "Eh caro!",
+        "textOriginal": "Eh caro!",
+        "authorDisplayName": "Rafael Young",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQX9AOSj9TqXsGhPLKdngeNwuLE9duybKC_3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjav0vkvN3MxH6en0eNm3aw",
+        "authorChannelId": {
+          "value": "UCjav0vkvN3MxH6en0eNm3aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-12-25T21:46:00Z",
+        "updatedAt": "2021-12-25T21:46:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "l9eoq43cH_8LxAN8k6m7K6gBfyU",
+      "id": "Ugye63ruP9d4Byf5zmd4AaABAg.9WOTxT1Pp5A9XnO8TCgIQC",
+      "snippet": {
+        "textDisplay": "Muito",
+        "textOriginal": "Muito",
+        "parentId": "Ugye63ruP9d4Byf5zmd4AaABAg",
+        "authorDisplayName": "Canto Da Medicina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-JRfpAKRLh1EQHPfk5U27_PPs8P2qHHphBANrw7JugHqNf0Jfho8Ew8MtweSdGPZ_mlshegfiXY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMCqTXpj5YtAWIKEx63iotA",
+        "authorChannelId": {
+          "value": "UCMCqTXpj5YtAWIKEx63iotA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-01-29T19:46:51Z",
+        "updatedAt": "2022-01-29T19:46:51Z"
+      }
+    }
+  ]
+}

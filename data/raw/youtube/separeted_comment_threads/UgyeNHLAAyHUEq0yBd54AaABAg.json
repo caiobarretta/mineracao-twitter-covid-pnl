@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MbH1I9OCy4MV-XfqFgKs5gR2UY4",
+  "id": "UgyeNHLAAyHUEq0yBd54AaABAg",
+  "snippet": {
+    "videoId": "cbdSKUU8w_0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kNjdQdn3tk-28x3E-XRxBAa_wyA",
+      "id": "UgyeNHLAAyHUEq0yBd54AaABAg",
+      "snippet": {
+        "videoId": "cbdSKUU8w_0",
+        "textDisplay": "5 vs 2 mana bole..  \ud83d\ude32",
+        "textOriginal": "5 vs 2 mana bole..  \ud83d\ude32",
+        "authorDisplayName": "Nizam Jinmo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTOAXIZXHjayWdSdzTp4eoGJE5ZG13eepK-CvXl=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7CAI5x9AgjtjPmqRYeebSA",
+        "authorChannelId": {
+          "value": "UC7CAI5x9AgjtjPmqRYeebSA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-05-01T00:40:50Z",
+        "updatedAt": "2018-05-01T00:40:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JP6_jrsHNFgashu1HNY8wInY8IM",
+      "id": "UgyeNHLAAyHUEq0yBd54AaABAg.8fgGjrahe-x8foSzutetRK",
+      "snippet": {
+        "textDisplay": "tu lah kan!",
+        "textOriginal": "tu lah kan!",
+        "parentId": "UgyeNHLAAyHUEq0yBd54AaABAg",
+        "authorDisplayName": "XENO Entertainment",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvqbHYgPXGQbvD9ZPXf7H_Yljl8FG13X6o-BB57g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLYBbM5piEIuZ9ryOmkZKCA",
+        "authorChannelId": {
+          "value": "UCLYBbM5piEIuZ9ryOmkZKCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-05-04T05:01:47Z",
+        "updatedAt": "2018-05-04T05:01:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 03 17:54:20 +0000 2022",
+  "id": 1532782751199465477,
+  "id_str": "1532782751199465477",
+  "full_text": "@reumalho Dentista do SUS, Sesc e algumas consultas particulares. Algo em torno de 60/62 horas semanais trabalhadas. Ap\u00f3s o retorno das atividades n\u00e3o estou mais conseguindo dar conta de tudo como no pr\u00e9 pandemia.",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    213
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "reumalho",
+        "name": "Jo\u00e3o Alho",
+        "id": 1137581080788307968,
+        "id_str": "1137581080788307968",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1532448153840107522,
+  "in_reply_to_status_id_str": "1532448153840107522",
+  "in_reply_to_user_id": 1137581080788307968,
+  "in_reply_to_user_id_str": "1137581080788307968",
+  "in_reply_to_screen_name": "reumalho",
+  "user": {
+    "id": 77566995,
+    "id_str": "77566995",
+    "name": "Marcelo Brahemcha",
+    "screen_name": "mbrahemcha",
+    "location": "Brasil",
+    "description": "Dentista, Especialista em Disfun\u00e7\u00e3o T\u00eamporo Mandibular e Dor Orofacial, Terrabolista, Jundiaiense, Torcedor do Galo da Japy.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 268,
+    "listed_count": 2,
+    "created_at": "Sat Sep 26 20:26:25 +0000 2009",
+    "favourites_count": 1640,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 255,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1485244417292353543/KjItRW4J_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485244417292353543/KjItRW4J_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/77566995/1642945208",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "04b990530ebe63a3",
+    "url": "https://api.twitter.com/1.1/geo/id/04b990530ebe63a3.json",
+    "place_type": "city",
+    "name": "Jundia\u00ed",
+    "full_name": "Jundia\u00ed, Brasil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -47.0286798,
+            -23.326241
+          ],
+          [
+            -46.7880529,
+            -23.326241
+          ],
+          [
+            -46.7880529,
+            -23.07595
+          ],
+          [
+            -47.0286798,
+            -23.07595
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

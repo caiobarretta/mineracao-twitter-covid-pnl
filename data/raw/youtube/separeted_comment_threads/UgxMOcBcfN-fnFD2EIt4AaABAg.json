@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZYNtoh5LCUd8ijJ9cMLci69hDTk",
+  "id": "UgxMOcBcfN-fnFD2EIt4AaABAg",
+  "snippet": {
+    "videoId": "J4w-2NoxLJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MYsNULDveGRsWDRzw6iRaa8SivA",
+      "id": "UgxMOcBcfN-fnFD2EIt4AaABAg",
+      "snippet": {
+        "videoId": "J4w-2NoxLJk",
+        "textDisplay": "2 adultos e 1 crian\u00e7a de 3 anos por 2.500,00.",
+        "textOriginal": "2 adultos e 1 crian\u00e7a de 3 anos por 2.500,00.",
+        "authorDisplayName": "Pietro Menezes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9_1xCXM_Yu-OEMpTZ-f5km7C32dgCxKNWRwmttg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIOVeeKcNrgaNkv5GckifDQ",
+        "authorChannelId": {
+          "value": "UCIOVeeKcNrgaNkv5GckifDQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-30T18:10:04Z",
+        "updatedAt": "2018-07-30T18:10:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "b3nSq3dV_8CLMPkebIBl0O_n0I8",
+      "id": "UgxMOcBcfN-fnFD2EIt4AaABAg.8jKtMURa_A08jLAO8J1Jec",
+      "snippet": {
+        "textDisplay": "UAU!!!",
+        "textOriginal": "UAU!!!",
+        "parentId": "UgxMOcBcfN-fnFD2EIt4AaABAg",
+        "authorDisplayName": "Irm\u00e3os Prezia - Canada para Brasileiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJ4vyD0aKON8zEeYmG6dp8ixl8fuae31_2DSie=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC52m0Q5PEvFkeq51wbimj2g",
+        "authorChannelId": {
+          "value": "UC52m0Q5PEvFkeq51wbimj2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-30T20:47:35Z",
+        "updatedAt": "2018-07-30T20:47:35Z"
+      }
+    }
+  ]
+}

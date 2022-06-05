@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "wVACPafNX5k-bL1UfE7-Z-IPNWo",
+  "id": "Ugwxfne8ClAf1nSOcFF4AaABAg",
+  "snippet": {
+    "videoId": "oipQdjWA-54",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8aZay2jiq78IBDhVEQNSSjXf-8Q",
+      "id": "Ugwxfne8ClAf1nSOcFF4AaABAg",
+      "snippet": {
+        "videoId": "oipQdjWA-54",
+        "textDisplay": "D+",
+        "textOriginal": "D+",
+        "authorDisplayName": "Regiane Bertolini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKhezqid-q1grlWTF1cnhGcuwEOuLCFFo87nxl9rQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqse9SjhkztmVoNQRNWI2PA",
+        "authorChannelId": {
+          "value": "UCqse9SjhkztmVoNQRNWI2PA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-12-20T23:54:45Z",
+        "updatedAt": "2020-12-20T23:54:45Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Cl7PPiVOPVv-p-lhTjaZaMDMA9I",
+      "id": "Ugwxfne8ClAf1nSOcFF4AaABAg.9HVzZlIAeYV9HWEptDwfQ9",
+      "snippet": {
+        "textDisplay": "Diogo sou professora aposentada e amo suas hist\u00f3rias.",
+        "textOriginal": "Diogo sou professora aposentada e amo suas hist\u00f3rias.",
+        "parentId": "Ugwxfne8ClAf1nSOcFF4AaABAg",
+        "authorDisplayName": "Marilia Ibanez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTycyaTzApije6SrF-2P2zKOgzS1EqHUXj6NOSdpcQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3-RZOPWss1kN6UNX2VWujA",
+        "authorChannelId": {
+          "value": "UC3-RZOPWss1kN6UNX2VWujA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-21T02:16:54Z",
+        "updatedAt": "2020-12-21T02:16:54Z"
+      }
+    }
+  ]
+}

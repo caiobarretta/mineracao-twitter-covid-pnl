@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KD7AYWlSRKoJuZV9yPryYQDQKDc",
+  "id": "UgziUf4Fh52utCpWO9h4AaABAg",
+  "snippet": {
+    "videoId": "ifLLH1XBeds",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GR8KffTDxALXXOmqUZH384tztBM",
+      "id": "UgziUf4Fh52utCpWO9h4AaABAg",
+      "snippet": {
+        "videoId": "ifLLH1XBeds",
+        "textDisplay": "Chiaro e preciso, come sempre. Grazie mille! Aspetto con gioia i nuovi video.\nA mio parere spieghi molto bene, ti vorrei come professore alla mia universit\u00e0 \ud83d\ude02.\nA presto! \ud83d\udc4b",
+        "textOriginal": "Chiaro e preciso, come sempre. Grazie mille! Aspetto con gioia i nuovi video.\nA mio parere spieghi molto bene, ti vorrei come professore alla mia universit\u00e0 \ud83d\ude02.\nA presto! \ud83d\udc4b",
+        "authorDisplayName": "Martina Forcina",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSG7K-T_5C3rUC8jhpXI3UCDo4jHB0DWEOi3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkFsIautlq3Y5WsJx6DNEMw",
+        "authorChannelId": {
+          "value": "UCkFsIautlq3Y5WsJx6DNEMw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-26T09:05:52Z",
+        "updatedAt": "2020-03-26T09:05:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_y4aNcckLtmEY4NmLlfy7UxqWVI",
+      "id": "UgziUf4Fh52utCpWO9h4AaABAg.96ek0-sK__i96enHzkjJKW",
+      "snippet": {
+        "textDisplay": "Grazie \ud83d\ude01\u2764\ufe0f",
+        "textOriginal": "Grazie \ud83d\ude01\u2764\ufe0f",
+        "parentId": "UgziUf4Fh52utCpWO9h4AaABAg",
+        "authorDisplayName": "Vita A Zero Kelvin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpuvrzC_wtqSf88JvCvEiFPccR1rd3jBnq_Im9tQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGDkFvYnK2TYvEhOkTZyXWg",
+        "authorChannelId": {
+          "value": "UCGDkFvYnK2TYvEhOkTZyXWg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-26T09:34:32Z",
+        "updatedAt": "2020-03-26T09:34:32Z"
+      }
+    }
+  ]
+}

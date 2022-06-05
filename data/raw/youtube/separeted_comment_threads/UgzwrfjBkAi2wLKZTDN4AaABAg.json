@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4Uqc06ZT96IPi7cDIPRwh_kJQ8c",
+  "id": "UgzwrfjBkAi2wLKZTDN4AaABAg",
+  "snippet": {
+    "videoId": "gPqoFFJAaDY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GeMyRb51_7TzXZudy-GMzMD4FZ8",
+      "id": "UgzwrfjBkAi2wLKZTDN4AaABAg",
+      "snippet": {
+        "videoId": "gPqoFFJAaDY",
+        "textDisplay": "Fluvoxamine, an antidepressant, contains fluoride, a neurotoxin.",
+        "textOriginal": "Fluvoxamine, an antidepressant, contains fluoride, a neurotoxin.",
+        "authorDisplayName": "Lisa Meyer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTM6TuiIFenR1OziVI7RgV4wUJz86x-3a7VEg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9jkZDA-2GQnyiURhoAVSNA",
+        "authorChannelId": {
+          "value": "UC9jkZDA-2GQnyiURhoAVSNA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-11-03T18:32:10Z",
+        "updatedAt": "2021-11-03T18:32:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7_YuCWsKtGPBWQljxTj2qT1fsUE",
+      "id": "UgzwrfjBkAi2wLKZTDN4AaABAg.9UIERHvXIu89UIwT6u-YDG",
+      "snippet": {
+        "textDisplay": "It\u2019s bound to carbon.",
+        "textOriginal": "It\u2019s bound to carbon.",
+        "parentId": "UgzwrfjBkAi2wLKZTDN4AaABAg",
+        "authorDisplayName": "MedCram - Medical Lectures Explained CLEARLY",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8kzx5BL5vju2efLnrB6zyBh053ETraTOukM9dfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG-iSMVtWbbwDDXgXXypARQ",
+        "authorChannelId": {
+          "value": "UCG-iSMVtWbbwDDXgXXypARQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-11-04T01:05:38Z",
+        "updatedAt": "2021-11-04T01:05:38Z"
+      }
+    }
+  ]
+}

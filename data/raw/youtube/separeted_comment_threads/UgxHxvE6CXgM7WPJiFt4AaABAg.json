@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LauT-hUb5IY1van84HdT1H_MpKk",
+  "id": "UgxHxvE6CXgM7WPJiFt4AaABAg",
+  "snippet": {
+    "videoId": "JTWUvY3gmrE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GYr3VLyJRheVdSiPGfuvsRH7f4c",
+      "id": "UgxHxvE6CXgM7WPJiFt4AaABAg",
+      "snippet": {
+        "videoId": "JTWUvY3gmrE",
+        "textDisplay": "NORAH O\u2019DONNELL IS BACK TO WASHINGTON D.C.",
+        "textOriginal": "NORAH O\u2019DONNELL IS BACK TO WASHINGTON D.C.",
+        "authorDisplayName": "anandguruji83",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR0P69Jw43AB7ljq1k7dMe4RmDfb5vb-M6IAmfnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeZcAjEHZyGZCB7-iiKTHcQ",
+        "authorChannelId": {
+          "value": "UCeZcAjEHZyGZCB7-iiKTHcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-19T22:53:36Z",
+        "updatedAt": "2022-05-19T22:53:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "EKoNRxTJvHqLQFW_Hn5HnejpXtw",
+      "id": "UgxHxvE6CXgM7WPJiFt4AaABAg.9bDxxRFaXdx9bDxy8ZkEzt",
+      "snippet": {
+        "textDisplay": "NORAH O\u2019DONNELL IS BACK TO WASHINGTON D.C.",
+        "textOriginal": "NORAH O\u2019DONNELL IS BACK TO WASHINGTON D.C.",
+        "parentId": "UgxHxvE6CXgM7WPJiFt4AaABAg",
+        "authorDisplayName": "anandguruji83",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR0P69Jw43AB7ljq1k7dMe4RmDfb5vb-M6IAmfnQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeZcAjEHZyGZCB7-iiKTHcQ",
+        "authorChannelId": {
+          "value": "UCeZcAjEHZyGZCB7-iiKTHcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-19T22:53:41Z",
+        "updatedAt": "2022-05-19T22:53:41Z"
+      }
+    }
+  ]
+}

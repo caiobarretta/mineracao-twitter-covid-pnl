@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IZjjFbqQAxZNm64vTK5f5v-DiFs",
+  "id": "UgyxlSLkr5UM0xZoeih4AaABAg",
+  "snippet": {
+    "videoId": "vEfPBaqvJCc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "izC_bvWfYE4RlH7SUoSES0vwWlI",
+      "id": "UgyxlSLkr5UM0xZoeih4AaABAg",
+      "snippet": {
+        "videoId": "vEfPBaqvJCc",
+        "textDisplay": "A quien le importa eso",
+        "textOriginal": "A quien le importa eso",
+        "authorDisplayName": "Luis Miguel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TBUGCJC4aOE0vhpVU1CIjFcV20wFZHTF2ejIYSc7Y_kLfl2FKFWmZiSxEE9DGs0Xch4daf5mNg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQioXTH3zQiSM93dm_x7nBA",
+        "authorChannelId": {
+          "value": "UCQioXTH3zQiSM93dm_x7nBA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-22T20:16:57Z",
+        "updatedAt": "2022-05-22T20:16:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "z1DX1dANaMU-zkV4pVPKAwJC4vI",
+      "id": "UgyxlSLkr5UM0xZoeih4AaABAg.9bLPPhehhjK9bP0B7bKGYt",
+      "snippet": {
+        "textDisplay": "Lo mismo que le importa tu vida a alguien.",
+        "textOriginal": "Lo mismo que le importa tu vida a alguien.",
+        "parentId": "UgyxlSLkr5UM0xZoeih4AaABAg",
+        "authorDisplayName": "Nox",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lJXc5zQroD-k76-AEfIzQyIpUC3ERmQZFVT8kSBwA5lXESvN94-F3-oJyFMpZ4qnSOnJ91B2qA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4dY8fuza-YLNnP1sgjQ6SA",
+        "authorChannelId": {
+          "value": "UC4dY8fuza-YLNnP1sgjQ6SA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-24T05:53:28Z",
+        "updatedAt": "2022-05-24T05:53:28Z"
+      }
+    }
+  ]
+}

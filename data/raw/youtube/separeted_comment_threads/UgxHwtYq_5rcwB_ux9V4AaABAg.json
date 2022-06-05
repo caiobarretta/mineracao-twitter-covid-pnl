@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "A45r01mIR-qRWGlrBMUs_Vvg77E",
+  "id": "UgxHwtYq_5rcwB_ux9V4AaABAg",
+  "snippet": {
+    "videoId": "v-f6XLsU1tE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NRsUzf5gPv3qgGozVFax7XigAPY",
+      "id": "UgxHwtYq_5rcwB_ux9V4AaABAg",
+      "snippet": {
+        "videoId": "v-f6XLsU1tE",
+        "textDisplay": "Tamo fudido \ud83e\udd23",
+        "textOriginal": "Tamo fudido \ud83e\udd23",
+        "authorDisplayName": "Vagner Alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQ0ZWvdKpU3pZ-iOL2CXZs_TjzhewZR6ZhhhRe3g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCt99eadK96qLTz8IALTJtRQ",
+        "authorChannelId": {
+          "value": "UCt99eadK96qLTz8IALTJtRQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-26T21:22:10Z",
+        "updatedAt": "2022-05-26T21:22:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KP-6aLv3_RZ3e0DTFopMb4V6-94",
+      "id": "UgxHwtYq_5rcwB_ux9V4AaABAg.9bVp2v1p3He9ba5NJKDE_p",
+      "snippet": {
+        "textDisplay": "Vc neh!  Pq eu to tranquilo aqui",
+        "textOriginal": "Vc neh!  Pq eu to tranquilo aqui",
+        "parentId": "UgxHwtYq_5rcwB_ux9V4AaABAg",
+        "authorDisplayName": "Alexandr\u00eb Sousaah",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/GaqaugpuJ1gGQM-4-_T4iOx7hxgr3HMThif4FNTc8vpisnl5PDi8tBfocKRcsSrJKD2msCAkUA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgIc8z6p8mcTffBrz4A3utw",
+        "authorChannelId": {
+          "value": "UCgIc8z6p8mcTffBrz4A3utw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-28T22:29:42Z",
+        "updatedAt": "2022-05-28T22:29:42Z"
+      }
+    }
+  ]
+}

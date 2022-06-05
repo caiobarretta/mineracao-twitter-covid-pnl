@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "T98NlR3J_MvCz_kwgqCP3YEwqRU",
+  "id": "UgwEv2AL9EcmiIVsrlJ4AaABAg",
+  "snippet": {
+    "videoId": "9eJNN2Ua7jQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3meWLlm_x8U5zLtM4HjeQ1S0xno",
+      "id": "UgwEv2AL9EcmiIVsrlJ4AaABAg",
+      "snippet": {
+        "videoId": "9eJNN2Ua7jQ",
+        "textDisplay": "E carnaval passou , deixa terminar as elei\u00e7\u00f5es tudo fechado de novo",
+        "textOriginal": "E carnaval passou , deixa terminar as elei\u00e7\u00f5es tudo fechado de novo",
+        "authorDisplayName": "Andr\u00e9 Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTesooExQJ3PB6QWOC-JSK3uPmVk_iePurQ8A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXvdLC6ku18mp52LSSKoJcQ",
+        "authorChannelId": {
+          "value": "UCXvdLC6ku18mp52LSSKoJcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 52,
+        "publishedAt": "2022-05-03T00:02:17Z",
+        "updatedAt": "2022-05-03T00:02:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "NzxeiBL-nR7SHTIJuNJZH92P6ro",
+      "id": "UgwEv2AL9EcmiIVsrlJ4AaABAg.9aYJIe0O0Ru9aYl59abMAE",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgwEv2AL9EcmiIVsrlJ4AaABAg",
+        "authorDisplayName": "Multimilion\u00e1rio Solteiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/F4x99bMRbdjRI6z9x6bdC6k0zs4seQLiNLrADKKeyC35bfI1Pn-T54wGmpo7567lUT-X5s34naI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIRLzcgm0N77prUVgmeu5eA",
+        "authorChannelId": {
+          "value": "UCIRLzcgm0N77prUVgmeu5eA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-03T04:13:51Z",
+        "updatedAt": "2022-05-03T04:13:51Z"
+      }
+    }
+  ]
+}

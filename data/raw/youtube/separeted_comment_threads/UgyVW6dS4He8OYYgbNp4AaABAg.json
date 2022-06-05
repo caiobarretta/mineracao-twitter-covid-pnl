@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cD0Ac8l_0MyifdAfuwEraZTb_DU",
+  "id": "UgyVW6dS4He8OYYgbNp4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2LqFsWryRVYnjXd_VDlo5ufM9Ik",
+      "id": "UgyVW6dS4He8OYYgbNp4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "amei a aula como fa\u00e7o pra adquirir esse mapa ?",
+        "textOriginal": "amei a aula como fa\u00e7o pra adquirir esse mapa ?",
+        "authorDisplayName": "R\u00cdSILA ARAUJO   RODRIGUES ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vzD1CuAMv9KS0qfEya-vq0FASq6aq7zfaTeksjB7I3aPVvFPck7lpqFUWSwFQulOBzx3Afo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxmNe_PUY056rpj6PCgdNwQ",
+        "authorChannelId": {
+          "value": "UCxmNe_PUY056rpj6PCgdNwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-04-06T22:59:00Z",
+        "updatedAt": "2022-04-06T22:59:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YxnLoo5p81-IAZOaPK0x9CJ-Ixw",
+      "id": "UgyVW6dS4He8OYYgbNp4AaABAg.9_VFOR94NRW9b5KWxHnn-f",
+      "snippet": {
+        "textDisplay": "TBM QUERIA ESSE MAPA , MUITO TOP",
+        "textOriginal": "TBM QUERIA ESSE MAPA , MUITO TOP",
+        "parentId": "UgyVW6dS4He8OYYgbNp4AaABAg",
+        "authorDisplayName": "Aline Vieira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQic_CCDQXUeA6blT7-mDYOQH6mpzSQRfayA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC633DEvcfQseqyT1FWtgc5w",
+        "authorChannelId": {
+          "value": "UC633DEvcfQseqyT1FWtgc5w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-16T14:26:23Z",
+        "updatedAt": "2022-05-16T14:26:23Z"
+      }
+    }
+  ]
+}

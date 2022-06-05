@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "rB3jQMRMU-3LsnHvcJkHJ-Msy88",
+  "id": "UgxRb8IEovHtZquHWyJ4AaABAg",
+  "snippet": {
+    "videoId": "i63tpRMkxzs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0UiwdGNqI2xXlsC1hwze2ROnV-s",
+      "id": "UgxRb8IEovHtZquHWyJ4AaABAg",
+      "snippet": {
+        "videoId": "i63tpRMkxzs",
+        "textDisplay": "T\u00f4 bem tranquilo...",
+        "textOriginal": "T\u00f4 bem tranquilo...",
+        "authorDisplayName": "Sem Nome",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF3h0drZD-3lgaszsnozTffkKTkJ2VKcTt5ZjRQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZhnap-msBw2MCdnkObNiCQ",
+        "authorChannelId": {
+          "value": "UCZhnap-msBw2MCdnkObNiCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T02:26:01Z",
+        "updatedAt": "2022-05-25T02:26:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Eb7iW6uyQxOyccXEi7cz3lE9bQQ",
+      "id": "UgxRb8IEovHtZquHWyJ4AaABAg.9bRDEaaVrwL9bTSRJy_KM_",
+      "snippet": {
+        "textDisplay": "Eu tbm t\u00f4 tranquilo ...",
+        "textOriginal": "Eu tbm t\u00f4 tranquilo ...",
+        "parentId": "UgxRb8IEovHtZquHWyJ4AaABAg",
+        "authorDisplayName": "Quando vc sorri da minha cara eu vou estar l\u00e1",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yTbXc0cLjQW0TXp1rmyVtSCUh2adov71BCpvPiwLvvKzJ0p1Gt6vxG7i7olwj_cfMYUdSowe=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYbeW6PduoRoUXYsMe6z-YQ",
+        "authorChannelId": {
+          "value": "UCYbeW6PduoRoUXYsMe6z-YQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T23:17:18Z",
+        "updatedAt": "2022-05-25T23:17:18Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "Vcw3aFbMrKPz8gr9-JD-REFNd0s",
+      "id": "UgxRb8IEovHtZquHWyJ4AaABAg.9bRDEaaVrwL9bT8C6nHoAS",
+      "snippet": {
+        "textDisplay": "C\u00ea t\u00e1 \u00e9 se cagando de medo q eu sei",
+        "textOriginal": "C\u00ea t\u00e1 \u00e9 se cagando de medo q eu sei",
+        "parentId": "UgxRb8IEovHtZquHWyJ4AaABAg",
+        "authorDisplayName": "uma menina a\u00ed",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ2vA4S07rJRpjcSSQ7J3nV1Fpy7JPDXfEvNlO=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1Qe5EOqBypnOZpNdN3cCUw",
+        "authorChannelId": {
+          "value": "UC1Qe5EOqBypnOZpNdN3cCUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T20:20:28Z",
+        "updatedAt": "2022-05-25T20:20:28Z"
+      }
+    }
+  ]
+}

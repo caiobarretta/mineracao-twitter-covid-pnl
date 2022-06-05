@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "m5p1jciw2Z_SHnywHG1N1c1YemI",
+  "id": "Ugzqry0LGPxKZMVOhY54AaABAg",
+  "snippet": {
+    "videoId": "SmUjfaOo0MU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WU7TzcqXOAPTCcDYEcO81ZA2mBA",
+      "id": "Ugzqry0LGPxKZMVOhY54AaABAg",
+      "snippet": {
+        "videoId": "SmUjfaOo0MU",
+        "textDisplay": "Raki is Turkish and I\u2019m guessing Serbians turned Raki into Rakija",
+        "textOriginal": "Raki is Turkish and I\u2019m guessing Serbians turned Raki into Rakija",
+        "authorDisplayName": "Timothy Burch",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0QfrJm4CPydTLPbvtvgt22LxTN7NFZVFmPiQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEl-Znqu168Hzh8jxECe4Kw",
+        "authorChannelId": {
+          "value": "UCEl-Znqu168Hzh8jxECe4Kw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-03-14T20:51:41Z",
+        "updatedAt": "2020-03-14T20:51:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Rq8Q7nJjWL8eFBO7yNrgKDKN9G8",
+      "id": "Ugzqry0LGPxKZMVOhY54AaABAg.96C6F38UMq996e6OPS4-w3",
+      "snippet": {
+        "textDisplay": "Nije to isto ne seri",
+        "textOriginal": "Nije to isto ne seri",
+        "parentId": "Ugzqry0LGPxKZMVOhY54AaABAg",
+        "authorDisplayName": "LOL Videos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOMBRqzFFK41G_0sPIvNy-7zJ2MIRN9ewSbfHzDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLw4iH_cdLbSkgcZkkXXrLQ",
+        "authorChannelId": {
+          "value": "UCLw4iH_cdLbSkgcZkkXXrLQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-26T03:10:56Z",
+        "updatedAt": "2020-03-26T03:10:56Z"
+      }
+    }
+  ]
+}

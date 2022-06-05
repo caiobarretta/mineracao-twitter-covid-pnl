@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "idTxJKuHl6M-f9zJk2FJs5K52Fk",
+  "id": "UgwIFdoT6NiRw6vjo6t4AaABAg",
+  "snippet": {
+    "videoId": "S4QEEbQCjeE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "877Z8nlsFx2zmXaR3d24SoXxd6Q",
+      "id": "UgwIFdoT6NiRw6vjo6t4AaABAg",
+      "snippet": {
+        "videoId": "S4QEEbQCjeE",
+        "textDisplay": "Excelente! O v\u00eddeo ficou muito legal!",
+        "textOriginal": "Excelente! O v\u00eddeo ficou muito legal!",
+        "authorDisplayName": "Juliana Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtie5q1dAuwiBEAMyo7tv_NTf5xDIz-DU-mw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRt8JOKh7PIdoWA-FpIgdsg",
+        "authorChannelId": {
+          "value": "UCRt8JOKh7PIdoWA-FpIgdsg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2018-08-14T21:51:26Z",
+        "updatedAt": "2018-08-14T21:51:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fMQHFgreXIK8En-HFpQ_Met2mEA",
+      "id": "UgwIFdoT6NiRw6vjo6t4AaABAg.8jwubuRnUBa8jz9_XtQJ-S",
+      "snippet": {
+        "textDisplay": "Obrigada, Ju!",
+        "textOriginal": "Obrigada, Ju!",
+        "parentId": "UgwIFdoT6NiRw6vjo6t4AaABAg",
+        "authorDisplayName": "Curso Enem Gratuito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt6bne936X3q_VC9L1ehDnkUZlNlgPTLEaVb56jw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_53VGoH_0XLFmYVpGMvhvg",
+        "authorChannelId": {
+          "value": "UC_53VGoH_0XLFmYVpGMvhvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-08-15T18:49:24Z",
+        "updatedAt": "2018-08-15T18:49:24Z"
+      }
+    }
+  ]
+}

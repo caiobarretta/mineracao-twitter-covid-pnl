@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vGlA5-XOKBZSukZ4g-2M8zgAhJw",
+  "id": "UgwQJJFjTezqlSW1v4l4AaABAg",
+  "snippet": {
+    "videoId": "v7NkSPKyj0c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-pD5jEh9G0gI7eT1fQZu01dQiCs",
+      "id": "UgwQJJFjTezqlSW1v4l4AaABAg",
+      "snippet": {
+        "videoId": "v7NkSPKyj0c",
+        "textDisplay": "Ele poderia pegar a doen\u00e7a e ir no SUS que ele criou",
+        "textOriginal": "Ele poderia pegar a doen\u00e7a e ir no SUS que ele criou",
+        "authorDisplayName": "Ana Eliza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4KGyrUsftnLTq3JktmMqLei2wLHgn-PZWGnF5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMgbqcvQIh6_4yu8II5v3tg",
+        "authorChannelId": {
+          "value": "UCMgbqcvQIh6_4yu8II5v3tg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-21T00:21:26Z",
+        "updatedAt": "2020-05-21T00:21:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FY3RptkErtjD3RVVFh9vX8aDPfg",
+      "id": "UgwQJJFjTezqlSW1v4l4AaABAg.98u-VsbXTa398u0zWDrOTJ",
+      "snippet": {
+        "textDisplay": "Se n\u00e3o fosse o SUS estar\u00edamos muito pior",
+        "textOriginal": "Se n\u00e3o fosse o SUS estar\u00edamos muito pior",
+        "parentId": "UgwQJJFjTezqlSW1v4l4AaABAg",
+        "authorDisplayName": "Juan bravo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGOh9hrk9Y_tHOBhzmu-cjHqMbZIiB0z7HJe4U2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQONoh-M3bB1_HG-twjq36A",
+        "authorChannelId": {
+          "value": "UCQONoh-M3bB1_HG-twjq36A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-21T00:34:21Z",
+        "updatedAt": "2020-05-21T00:34:21Z"
+      }
+    }
+  ]
+}

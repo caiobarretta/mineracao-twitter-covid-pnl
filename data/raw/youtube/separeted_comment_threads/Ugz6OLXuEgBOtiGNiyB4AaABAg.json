@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3X2dVunfiYED4XUHOJjc10Tfpcw",
+  "id": "Ugz6OLXuEgBOtiGNiyB4AaABAg",
+  "snippet": {
+    "videoId": "BMorNQ3rD6Q",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "20kEQIZqqDbd7MmFPBitwKDYH3M",
+      "id": "Ugz6OLXuEgBOtiGNiyB4AaABAg",
+      "snippet": {
+        "videoId": "BMorNQ3rD6Q",
+        "textDisplay": "O carnaval aqui no Brasil foi realmente contagiante",
+        "textOriginal": "O carnaval aqui no Brasil foi realmente contagiante",
+        "authorDisplayName": "Emerson Tadeu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSk4epq9ZqUQQEnMmi6XG1Vxq8JCSu8GWiJ4g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXdSR1KOa7zed8JmSzQJkew",
+        "authorChannelId": {
+          "value": "UCXdSR1KOa7zed8JmSzQJkew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2021-08-01T21:12:09Z",
+        "updatedAt": "2021-08-01T21:12:09Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wLc9R9UbziRv4nyNX6HTQgCEzxk",
+      "id": "Ugz6OLXuEgBOtiGNiyB4AaABAg.9QWU0qqGr5f9_nfNY-HkwY",
+      "snippet": {
+        "textDisplay": "Verdade Emerson \nSe fosse da minha vontade essa festa nem existiria mais",
+        "textOriginal": "Verdade Emerson \nSe fosse da minha vontade essa festa nem existiria mais",
+        "parentId": "Ugz6OLXuEgBOtiGNiyB4AaABAg",
+        "authorDisplayName": "Cl\u00e1udio Dos Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/xXmhegPZj-zozOyNBb-i-8Y3k-nRAfcjsPIaIqnh2w6-3gKkIEqBH6IoV6mLYeTXEZlL7MTz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7ekkc2jnBEqi7ppkHMm7JQ",
+        "authorChannelId": {
+          "value": "UC7ekkc2jnBEqi7ppkHMm7JQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-14T12:00:23Z",
+        "updatedAt": "2022-04-14T12:00:23Z"
+      }
+    }
+  ]
+}

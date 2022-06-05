@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Oq4ANY9H6OR8bJk9HDFuDUr01a8",
+  "id": "UgjmBWPm1hFjaXgCoAEC",
+  "snippet": {
+    "videoId": "Qex-EXhPtvM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NDirqu4eGa-wOcscEOt7nkZvu1k",
+      "id": "UgjmBWPm1hFjaXgCoAEC",
+      "snippet": {
+        "videoId": "Qex-EXhPtvM",
+        "textDisplay": "Predivno :) <3",
+        "textOriginal": "Predivno :) <3",
+        "authorDisplayName": "Mjau Krofnica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPFDI6OqeYyVf6pjElffp30RVAe2u8C8dkCyx7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVM54RyrstTT8j2lAcKO6tw",
+        "authorChannelId": {
+          "value": "UCVM54RyrstTT8j2lAcKO6tw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-06-13T17:43:57Z",
+        "updatedAt": "2016-06-13T17:43:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "aCF4fS2BqY-IntGlsAdttNU93gs",
+      "id": "UgjmBWPm1hFjaXgCoAEC.8F47iFO_Qt48F4EkbWuLhS",
+      "snippet": {
+        "textDisplay": "bas kao i tvoje ime \"krofnica\" <3 ;)",
+        "textOriginal": "bas kao i tvoje ime \"krofnica\" <3 ;)",
+        "parentId": "UgjmBWPm1hFjaXgCoAEC",
+        "authorDisplayName": "Nitro Acoustic \ud83c\udfb5",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_FR5Vc53xETMRkKoMKejU0ObC3vZWmrSrub9ZEHH8bYpYceQQTG0CeymVv48StmwmrElRfi8bSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN_b9p2bOthGKTb_j-dn8mw",
+        "authorChannelId": {
+          "value": "UCN_b9p2bOthGKTb_j-dn8mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-06-13T18:45:26Z",
+        "updatedAt": "2016-06-13T18:45:26Z"
+      }
+    }
+  ]
+}

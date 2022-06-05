@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Sa363FDdYzdhg285lIPtu4rB6g4",
+  "id": "UgyOzxSxTkeAYW3wbbp4AaABAg",
+  "snippet": {
+    "videoId": "cIHQ6kfF6Ck",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mkT1YVN9onx94bRMcH2SF29w8Og",
+      "id": "UgyOzxSxTkeAYW3wbbp4AaABAg",
+      "snippet": {
+        "videoId": "cIHQ6kfF6Ck",
+        "textDisplay": "Mim ajude",
+        "textOriginal": "Mim ajude",
+        "authorDisplayName": "Francisco gleuson de oliveira silva Greuson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTB7ywx-ywSdrI1pq4tiF7fZ77leKwa9sRQ1A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCebfjxl1Kdk3dQ-GV1zaSdQ",
+        "authorChannelId": {
+          "value": "UCebfjxl1Kdk3dQ-GV1zaSdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-15T22:13:14Z",
+        "updatedAt": "2020-07-15T22:13:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "S8ihB8QqtgSOFtsQYJUS8NLnZKY",
+      "id": "UgyOzxSxTkeAYW3wbbp4AaABAg.9B8yM-84qrX9B9ISIlfcd_",
+      "snippet": {
+        "textDisplay": "Ol\u00e1, Francisco! Como posso ajudar a voc\u00ea?",
+        "textOriginal": "Ol\u00e1, Francisco! Como posso ajudar a voc\u00ea?",
+        "parentId": "UgyOzxSxTkeAYW3wbbp4AaABAg",
+        "authorDisplayName": "#DicasPsi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/H5Bi0lkYjvl_t5vtVN25obsTbR86ZFfvZwhOmIoGYpg-lmAj-K0F9psMZFPaco7UiE7O5rHzd50=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeMvNB-8CsUxuuG6Bntlhzw",
+        "authorChannelId": {
+          "value": "UCeMvNB-8CsUxuuG6Bntlhzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-16T01:17:36Z",
+        "updatedAt": "2020-07-16T01:17:36Z"
+      }
+    }
+  ]
+}

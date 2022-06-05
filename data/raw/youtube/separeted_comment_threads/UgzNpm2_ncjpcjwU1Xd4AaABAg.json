@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XS-P6ExFo-AdDMDzmgMu2OQuzg0",
+  "id": "UgzNpm2_ncjpcjwU1Xd4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dqFvTGdikJGBNLADA2lO6AK9u0c",
+      "id": "UgzNpm2_ncjpcjwU1Xd4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Batista Parente",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRIbCUFQdkbtuZ_WTp7c9Q4Fv8Fn-LIf1U2tfvqdFoU7A_uPcT1IDc8Cq9jOuy=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCksuT5991leAKyw54rYEPtg",
+        "authorChannelId": {
+          "value": "UCksuT5991leAKyw54rYEPtg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-17T23:58:40Z",
+        "updatedAt": "2021-09-17T23:58:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jUKa6nrRkKgkwFf6--XLzruCtR8",
+      "id": "UgzNpm2_ncjpcjwU1Xd4AaABAg.9SPnRaVzNg39SQ9OpdDJHD",
+      "snippet": {
+        "textDisplay": "\u263a\ud83d\udcda",
+        "textOriginal": "\u263a\ud83d\udcda",
+        "parentId": "UgzNpm2_ncjpcjwU1Xd4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-18T03:19:16Z",
+        "updatedAt": "2021-09-18T03:19:16Z"
+      }
+    }
+  ]
+}

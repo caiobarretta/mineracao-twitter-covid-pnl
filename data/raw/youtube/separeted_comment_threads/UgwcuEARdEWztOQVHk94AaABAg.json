@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RFxEpr0L7WnirnlijQi-zVqUB4U",
+  "id": "UgwcuEARdEWztOQVHk94AaABAg",
+  "snippet": {
+    "videoId": "pV2ZSm1-Y1I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MdolNV7zI0FETcwPBrg2x-eqWR8",
+      "id": "UgwcuEARdEWztOQVHk94AaABAg",
+      "snippet": {
+        "videoId": "pV2ZSm1-Y1I",
+        "textDisplay": "Taca fogo nessas malditas m\u00e1scaras!!!",
+        "textOriginal": "Taca fogo nessas malditas m\u00e1scaras!!!",
+        "authorDisplayName": "Pol\u00ed Guedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZcjku0bEFl2_NpSJYMqFwuvG3m4TvKSgvcg9-VQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1oRMemFmc3WdoWKQBpx8lQ",
+        "authorChannelId": {
+          "value": "UC1oRMemFmc3WdoWKQBpx8lQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 9,
+        "publishedAt": "2022-02-21T23:15:25Z",
+        "updatedAt": "2022-02-21T23:15:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ftfwr0-nLPdglx2Xih3tLYeOVLk",
+      "id": "UgwcuEARdEWztOQVHk94AaABAg.9YizI6serYd9YjhFBXWAEj",
+      "snippet": {
+        "textDisplay": "@Pol\u00ed Guedes  nao prcisa esperar, j\u00e1 fa\u00e7a!",
+        "textOriginal": "@Pol\u00ed Guedes  nao prcisa esperar, j\u00e1 fa\u00e7a!",
+        "parentId": "UgwcuEARdEWztOQVHk94AaABAg",
+        "authorDisplayName": "faus T\u00d4 aqui",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/T_tEyoYpMcCfJsy5wgaTkocx0IupSAmZOvNHmG5_CFEdfUkdFQVuPq8AqQZWND79c4OqpSKnxA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4uZrB-T80ReFRR1zxVR5oQ",
+        "authorChannelId": {
+          "value": "UC4uZrB-T80ReFRR1zxVR5oQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-22T05:56:58Z",
+        "updatedAt": "2022-02-22T05:56:58Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "UNE7CdvgdzBqP7V4PRo0fbh34_M",
+      "id": "UgwcuEARdEWztOQVHk94AaABAg.9YizI6serYd9YjDC03wuL8",
+      "snippet": {
+        "textDisplay": "@faus T\u00d4 aqui Kkkkkkkkkkkkkkkkkkkk Mal posso esperar!!!",
+        "textOriginal": "@faus T\u00d4 aqui Kkkkkkkkkkkkkkkkkkkk Mal posso esperar!!!",
+        "parentId": "UgwcuEARdEWztOQVHk94AaABAg",
+        "authorDisplayName": "Pol\u00ed Guedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZcjku0bEFl2_NpSJYMqFwuvG3m4TvKSgvcg9-VQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1oRMemFmc3WdoWKQBpx8lQ",
+        "authorChannelId": {
+          "value": "UC1oRMemFmc3WdoWKQBpx8lQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-22T01:25:39Z",
+        "updatedAt": "2022-02-22T01:26:01Z"
+      }
+    }
+  ]
+}

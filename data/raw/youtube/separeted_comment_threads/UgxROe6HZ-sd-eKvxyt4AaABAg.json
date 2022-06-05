@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Q7-6JOLlvJkI6y8ne_N3BPya4Gg",
+  "id": "UgxROe6HZ-sd-eKvxyt4AaABAg",
+  "snippet": {
+    "videoId": "OEGDzj0eGIY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "koUv-_m1TZ3uPUztX2U_rfHWJgI",
+      "id": "UgxROe6HZ-sd-eKvxyt4AaABAg",
+      "snippet": {
+        "videoId": "OEGDzj0eGIY",
+        "textDisplay": "Oi Roberta. Adorei seus v\u00eddeos!",
+        "textOriginal": "Oi Roberta. Adorei seus v\u00eddeos!",
+        "authorDisplayName": "Josemar Melo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOoVR5wOudY91DLXvLwhEAYBBNb7uGHkgoDiXIlA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjo9gzvNywV0CKmZEZD9vPA",
+        "authorChannelId": {
+          "value": "UCjo9gzvNywV0CKmZEZD9vPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-26T13:55:57Z",
+        "updatedAt": "2021-12-26T13:55:57Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jGC4jUOvBAaYoPgnbLtGwYKL2UI",
+      "id": "UgxROe6HZ-sd-eKvxyt4AaABAg.9WQCxbme6T19WT22KPGqRn",
+      "snippet": {
+        "textDisplay": "Ah, obrigada!!!! De verdade! Espero que ajudo!",
+        "textOriginal": "Ah, obrigada!!!! De verdade! Espero que ajudo!",
+        "parentId": "UgxROe6HZ-sd-eKvxyt4AaABAg",
+        "authorDisplayName": "Beta em Montreal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/pU6UdIO8KI3zVm2V0_0XoeToYdkJTw9EIVVUfO28k2YUOTo8o4nrjCL3-SfAVwcXWPs2S9m2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH2FRvbuAEPBjvCcNYyglhg",
+        "authorChannelId": {
+          "value": "UCH2FRvbuAEPBjvCcNYyglhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-27T16:18:20Z",
+        "updatedAt": "2021-12-27T16:18:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Htd4agSUyz4LzufiePKM91TdUf4",
+  "id": "UgyLYuXyv_kHApDIpEZ4AaABAg",
+  "snippet": {
+    "videoId": "hxZpWYwNo5M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "HJfm-8IGzYo-2iStQGMNLB5W8kY",
+      "id": "UgyLYuXyv_kHApDIpEZ4AaABAg",
+      "snippet": {
+        "videoId": "hxZpWYwNo5M",
+        "textDisplay": "Cara, que did\u00e1tica FODA! Parab\u00e9ns BBC",
+        "textOriginal": "Cara, que did\u00e1tica FODA! Parab\u00e9ns BBC",
+        "authorDisplayName": "Carlos Victor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAEvMoJCMEtuUZiOydx2Tsst84CWQiC7eD0OjV8Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSVsXx9sZIF30fBnf0mmm-g",
+        "authorChannelId": {
+          "value": "UCSVsXx9sZIF30fBnf0mmm-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 64,
+        "publishedAt": "2020-03-12T04:12:37Z",
+        "updatedAt": "2020-03-12T04:12:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KIakoi0rXEWsOQbRJLMvKXGn87k",
+      "id": "UgyLYuXyv_kHApDIpEZ4AaABAg.965AJqS5MaY966CToZF6la",
+      "snippet": {
+        "textDisplay": "Obrigada, Carlos Victor!",
+        "textOriginal": "Obrigada, Carlos Victor!",
+        "parentId": "UgyLYuXyv_kHApDIpEZ4AaABAg",
+        "authorDisplayName": "BBC News Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHZ4cwvhJrfPl2m7nOPujalJP811Q1lghY7qauYT0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q",
+        "authorChannelId": {
+          "value": "UCthbIFAxbXTTQEC7EcQvP1Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-03-12T13:50:41Z",
+        "updatedAt": "2020-03-12T13:50:41Z"
+      }
+    }
+  ]
+}

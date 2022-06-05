@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MAK4BURPC_JgmuGHNl6EEWyt8Q4",
+  "id": "Ugx4rbWRpjPR5p3AMgN4AaABAg",
+  "snippet": {
+    "videoId": "gFq-aX1E4l0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1fIdL-IRMqJIuaIVn52V-jjosTY",
+      "id": "Ugx4rbWRpjPR5p3AMgN4AaABAg",
+      "snippet": {
+        "videoId": "gFq-aX1E4l0",
+        "textDisplay": "Igual covid",
+        "textOriginal": "Igual covid",
+        "authorDisplayName": "Marlene Fernandes Rodrigues Viana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSkvi_qxfK2BiNJQMkRf7iU4-KYd39N1A-wtw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCCL663e6Mkgt2IaJDCuHGUQ",
+        "authorChannelId": {
+          "value": "UCCL663e6Mkgt2IaJDCuHGUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-28T13:24:26Z",
+        "updatedAt": "2021-04-28T13:24:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Gr2Gfqh8XiyWRNH5EXAoxWtIQRY",
+      "id": "Ugx4rbWRpjPR5p3AMgN4AaABAg.9Mg0yzpAi619Mg2mdshRJe",
+      "snippet": {
+        "textDisplay": "Pois eh, bem mais letal por\u00e9m menos transmiss\u00edvel.",
+        "textOriginal": "Pois eh, bem mais letal por\u00e9m menos transmiss\u00edvel.",
+        "parentId": "Ugx4rbWRpjPR5p3AMgN4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-28T13:40:13Z",
+        "updatedAt": "2021-04-28T13:40:13Z"
+      }
+    }
+  ]
+}

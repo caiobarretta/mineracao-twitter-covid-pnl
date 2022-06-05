@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7IjdPKYCdcA0zDMpv_CXD6Iszgw",
+  "id": "Ugx8R17gHXUevjIwWIV4AaABAg",
+  "snippet": {
+    "videoId": "KO_QQcGV1bU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "R3dhKYZ3D7-lYlsimddbTbqdZ6U",
+      "id": "Ugx8R17gHXUevjIwWIV4AaABAg",
+      "snippet": {
+        "videoId": "KO_QQcGV1bU",
+        "textDisplay": "Inuntabaum?",
+        "textOriginal": "Inuntabaum?",
+        "authorDisplayName": "Oloko Cetaloko",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0epWbQpFloXriAs-BEqnjePJ1skhY5_A_Ig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCu7UgE_Tb2h9opHNoK822rw",
+        "authorChannelId": {
+          "value": "UCu7UgE_Tb2h9opHNoK822rw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-29T20:39:02Z",
+        "updatedAt": "2022-05-29T20:39:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "CwjxyRYqhPfcI1NH_co5WKmFrps",
+      "id": "Ugx8R17gHXUevjIwWIV4AaABAg.9bcTV_NZjkW9bdtzcDyGYO",
+      "snippet": {
+        "textDisplay": "Nauuumtabaummnaoo",
+        "textOriginal": "Nauuumtabaummnaoo",
+        "parentId": "Ugx8R17gHXUevjIwWIV4AaABAg",
+        "authorDisplayName": "Sergio Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBkbzRchnyCMkmbB0QemBdPU6AFFs655U6b3zllg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkQMcj-0ordjfEltcGhObFA",
+        "authorChannelId": {
+          "value": "UCkQMcj-0ordjfEltcGhObFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T09:58:26Z",
+        "updatedAt": "2022-05-30T09:58:26Z"
+      }
+    }
+  ]
+}

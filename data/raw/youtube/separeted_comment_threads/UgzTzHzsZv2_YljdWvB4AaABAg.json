@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ttY_gQDVh8nzuIKW5L5ZuMfAgEY",
+  "id": "UgzTzHzsZv2_YljdWvB4AaABAg",
+  "snippet": {
+    "videoId": "s0MTUI_H3t8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sLCoavGEt5jXV7aqe66n6sfltH0",
+      "id": "UgzTzHzsZv2_YljdWvB4AaABAg",
+      "snippet": {
+        "videoId": "s0MTUI_H3t8",
+        "textDisplay": "TODAV\u00cdA COLOMBIA ES LIBRE Y PUEDE VOTAR POR QUIEN LE DE LA GANA...",
+        "textOriginal": "TODAV\u00cdA COLOMBIA ES LIBRE Y PUEDE VOTAR POR QUIEN LE DE LA GANA...",
+        "authorDisplayName": "Jose Galindo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5OP4rPrULy4NF81fAQ-YB2NnwZ7Qmbpuv-Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWJx7zqFS5V61Z4nN9Q2_Vw",
+        "authorChannelId": {
+          "value": "UCWJx7zqFS5V61Z4nN9Q2_Vw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 13,
+        "publishedAt": "2022-05-30T12:54:24Z",
+        "updatedAt": "2022-05-30T12:54:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Sh8BGnlpqJ7KxirET50USd1t3oM",
+      "id": "UgzTzHzsZv2_YljdWvB4AaABAg.9beD7S1Cbkb9bf3uOGskZK",
+      "snippet": {
+        "textDisplay": "Buena respuesta",
+        "textOriginal": "Buena respuesta",
+        "parentId": "UgzTzHzsZv2_YljdWvB4AaABAg",
+        "authorDisplayName": "Claudia Bejarano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7iZattp4ypl9PY3UfbwjtsMGuA11i0fBp_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCH_IIv10YNQIU32_1o0OJaQ",
+        "authorChannelId": {
+          "value": "UCH_IIv10YNQIU32_1o0OJaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T20:53:05Z",
+        "updatedAt": "2022-05-30T20:53:05Z"
+      }
+    }
+  ]
+}

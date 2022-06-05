@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Kts31pjYxwRa2B-qL6SJjWJWTwQ",
+  "id": "Ugw5TXBg3NHNaTOQcqJ4AaABAg",
+  "snippet": {
+    "videoId": "r-PsxLOZYTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "L3mRCktQXgQx1KNjcX3wyWfkmS0",
+      "id": "Ugw5TXBg3NHNaTOQcqJ4AaABAg",
+      "snippet": {
+        "videoId": "r-PsxLOZYTs",
+        "textDisplay": "E s\u00f3 perguntar pra China !",
+        "textOriginal": "E s\u00f3 perguntar pra China !",
+        "authorDisplayName": "Carlos Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRviHrQg5LC5CN8wXFlZdl0BfR_oHf2crdsJRkyVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQIKevEeAOUyt2Hxelojo0A",
+        "authorChannelId": {
+          "value": "UCQIKevEeAOUyt2Hxelojo0A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2020-06-10T18:54:47Z",
+        "updatedAt": "2020-06-10T18:54:47Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "z-VK9_F_vH7lcOiLOSBleV01ZWk",
+      "id": "Ugw5TXBg3NHNaTOQcqJ4AaABAg.99jUorUgQ8V99jYNb5sacw",
+      "snippet": {
+        "textDisplay": "Nem todo v\u00edrus/bact\u00e9ria vem da China",
+        "textOriginal": "Nem todo v\u00edrus/bact\u00e9ria vem da China",
+        "parentId": "Ugw5TXBg3NHNaTOQcqJ4AaABAg",
+        "authorDisplayName": "Poeta Ocioso",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/S1kxNYxkkYuguDK2JYSl9JdzLpW8pq-DvyfzyGbU5RneC_VH4lMxHFxkrPdJg6gs9n7tJwxKbUg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAl9OjHR4Jy-cKF4kPMJEXQ",
+        "authorChannelId": {
+          "value": "UCAl9OjHR4Jy-cKF4kPMJEXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-10T19:25:53Z",
+        "updatedAt": "2020-06-10T19:25:53Z"
+      }
+    }
+  ]
+}

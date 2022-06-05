@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "H0V_JlCfm9lwfjttsmPmXryrN38",
+  "id": "Ugyt4EFSziNFkBF0a9J4AaABAg",
+  "snippet": {
+    "videoId": "gFq-aX1E4l0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "f4buADLzRntmujVtN4pmYGONJcM",
+      "id": "Ugyt4EFSziNFkBF0a9J4AaABAg",
+      "snippet": {
+        "videoId": "gFq-aX1E4l0",
+        "textDisplay": "A vacina Coronavac est\u00e1 em falta. Se passar do prazo de 28 dias de intervalo para a segunda dose, o que acontece?",
+        "textOriginal": "A vacina Coronavac est\u00e1 em falta. Se passar do prazo de 28 dias de intervalo para a segunda dose, o que acontece?",
+        "authorDisplayName": "Camille Mello",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwuR8i--KVMEGYoALxls4cWD0UBcDyl4uY8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe10vq_-33oV38fMgEp6z2g",
+        "authorChannelId": {
+          "value": "UCe10vq_-33oV38fMgEp6z2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-30T21:19:36Z",
+        "updatedAt": "2021-04-30T21:19:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IoDQDZrv6STBzkkzdCTD_OY4biA",
+      "id": "Ugyt4EFSziNFkBF0a9J4AaABAg.9Mm0wzJoQjF9MmU7KEwxER",
+      "snippet": {
+        "textDisplay": "@DescomplicaMais obrigada",
+        "textOriginal": "@DescomplicaMais obrigada",
+        "parentId": "Ugyt4EFSziNFkBF0a9J4AaABAg",
+        "authorDisplayName": "Camille Mello",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRwuR8i--KVMEGYoALxls4cWD0UBcDyl4uY8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCe10vq_-33oV38fMgEp6z2g",
+        "authorChannelId": {
+          "value": "UCe10vq_-33oV38fMgEp6z2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-01T01:34:33Z",
+        "updatedAt": "2021-05-01T01:34:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "uC9Md6FWvz5z2tAnywx_ClhobjQ",
+      "id": "Ugyt4EFSziNFkBF0a9J4AaABAg.9Mm0wzJoQjF9MmII-RGxaM",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Camille, tem alguns estudos que viram que o intervalo pode ser um pouco maior que os 28 dias com bons resultados. Tomara que chegue logo para n\u00e3o passar de 40 dias de intervalo.",
+        "textOriginal": "Ol\u00e1 Camille, tem alguns estudos que viram que o intervalo pode ser um pouco maior que os 28 dias com bons resultados. Tomara que chegue logo para n\u00e3o passar de 40 dias de intervalo.",
+        "parentId": "Ugyt4EFSziNFkBF0a9J4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-30T23:51:09Z",
+        "updatedAt": "2021-04-30T23:51:09Z"
+      }
+    }
+  ]
+}

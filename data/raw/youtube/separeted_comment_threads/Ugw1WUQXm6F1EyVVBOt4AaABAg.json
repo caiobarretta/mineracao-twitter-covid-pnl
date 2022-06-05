@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "mioH4-3FFo6EnPUWR9hZ-aE8Zzs",
+  "id": "Ugw1WUQXm6F1EyVVBOt4AaABAg",
+  "snippet": {
+    "videoId": "LUTiaQybgfo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3OWxmJiR_B8I5wdk08yBi1BD1xc",
+      "id": "Ugw1WUQXm6F1EyVVBOt4AaABAg",
+      "snippet": {
+        "videoId": "LUTiaQybgfo",
+        "textDisplay": "Muito bem explicado \ud83d\udc4f",
+        "textOriginal": "Muito bem explicado \ud83d\udc4f",
+        "authorDisplayName": "Guilherme da Silva Moll",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVuwIVks5jV7sR-eyzoKtOcLJsXknSBgPHOri1dQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtd3Yrxi88auECtN3WD3u3g",
+        "authorChannelId": {
+          "value": "UCtd3Yrxi88auECtN3WD3u3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T12:44:38Z",
+        "updatedAt": "2022-05-21T12:44:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "g9s9rsr2AfcscAuxwucCnBirBGk",
+      "id": "Ugw1WUQXm6F1EyVVBOt4AaABAg.9bI0r1sMC5P9bIFrT5d2qd",
+      "snippet": {
+        "textDisplay": "Que bom que gostou",
+        "textOriginal": "Que bom que gostou",
+        "parentId": "Ugw1WUQXm6F1EyVVBOt4AaABAg",
+        "authorDisplayName": "Cientificando",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTn9IpP0fJFTSG8PyPbmhmEm6-vSbN5p-EzSSGbpg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqfappOZFCgvcc0ZlqxR9rw",
+        "authorChannelId": {
+          "value": "UCqfappOZFCgvcc0ZlqxR9rw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T14:55:46Z",
+        "updatedAt": "2022-05-21T14:55:46Z"
+      }
+    }
+  ]
+}

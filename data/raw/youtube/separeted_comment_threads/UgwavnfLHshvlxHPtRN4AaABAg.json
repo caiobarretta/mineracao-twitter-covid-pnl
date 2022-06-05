@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xe5fkHnMH8fJOymthVec5HJV-o0",
+  "id": "UgwavnfLHshvlxHPtRN4AaABAg",
+  "snippet": {
+    "videoId": "lj_ICfXVykg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "B1XoK2B2W2Yjust3wZeu8n6UT9c",
+      "id": "UgwavnfLHshvlxHPtRN4AaABAg",
+      "snippet": {
+        "videoId": "lj_ICfXVykg",
+        "textDisplay": "Que besteirol!!!",
+        "textOriginal": "Que besteirol!!!",
+        "authorDisplayName": "Sheila Fe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQLUm7UiXFk7UlpazonBahdtom9H6D0hUBwY3byQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ1rZ0LP8BvCVNmlCk7FQFQ",
+        "authorChannelId": {
+          "value": "UCZ1rZ0LP8BvCVNmlCk7FQFQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-01-24T18:53:19Z",
+        "updatedAt": "2021-01-24T18:53:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "1eK2AdEb93hdy2-1HXS_whCyhik",
+      "id": "UgwavnfLHshvlxHPtRN4AaABAg.9IuZtdpCIHZ9MXZ2M_oKR4",
+      "snippet": {
+        "textDisplay": "E quem viu \u00e9 o qu\u00ea, besta tbm.",
+        "textOriginal": "E quem viu \u00e9 o qu\u00ea, besta tbm.",
+        "parentId": "UgwavnfLHshvlxHPtRN4AaABAg",
+        "authorDisplayName": "Vanda Martins",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQYcMX_GztgZpU5hW0xJePMZySPLUIrF9EkUtqJJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC73DBzr4ehBqhzwaJAOsvNg",
+        "authorChannelId": {
+          "value": "UC73DBzr4ehBqhzwaJAOsvNg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-24T21:09:43Z",
+        "updatedAt": "2021-04-24T21:09:43Z"
+      }
+    }
+  ]
+}

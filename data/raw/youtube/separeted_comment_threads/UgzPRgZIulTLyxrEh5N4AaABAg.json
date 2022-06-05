@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Gazsm06erlEJ29uDyrnjc5E9iNQ",
+  "id": "UgzPRgZIulTLyxrEh5N4AaABAg",
+  "snippet": {
+    "videoId": "Xuc9D4LVJdg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "WFUOKZvCStyWWZMVYrrVgUif63Q",
+      "id": "UgzPRgZIulTLyxrEh5N4AaABAg",
+      "snippet": {
+        "videoId": "Xuc9D4LVJdg",
+        "textDisplay": "Digg describes this as an \"Eye-Popping Visualization\". I usually trust them.\n\nIs this video safe to watch? Can anyone, or their next of kin, report that their eyes did or did not pop?",
+        "textOriginal": "Digg describes this as an \"Eye-Popping Visualization\". I usually trust them.\n\nIs this video safe to watch? Can anyone, or their next of kin, report that their eyes did or did not pop?",
+        "authorDisplayName": "Tim Freeman",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSi3UkqWZUh_k8_Y2Ob-kudqWI0hNFmyvBpiQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjevVy-5zDfgXgQih7tujAQ",
+        "authorChannelId": {
+          "value": "UCjevVy-5zDfgXgQih7tujAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-07T19:15:24Z",
+        "updatedAt": "2022-01-07T19:15:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fk4ZPPzPLMYr9qh8zkymfCp6GZo",
+      "id": "UgzPRgZIulTLyxrEh5N4AaABAg.9Wug2ssV16C9ZoLqRrf4J2",
+      "snippet": {
+        "textDisplay": "Dear Mr Freeman, we extensively tested this video on a large number of students, who previously had given their consent, and can confirm their eyes did not pop.",
+        "textOriginal": "Dear Mr Freeman, we extensively tested this video on a large number of students, who previously had given their consent, and can confirm their eyes did not pop.",
+        "parentId": "UgzPRgZIulTLyxrEh5N4AaABAg",
+        "authorDisplayName": "ThornLab",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjqj67sMrVwtanK_SEWuKHmxcBUBFyXeSUL3Zi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsEfbyZZD49WxUP5iJn6BkQ",
+        "authorChannelId": {
+          "value": "UCsEfbyZZD49WxUP5iJn6BkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-20T21:48:48Z",
+        "updatedAt": "2022-03-20T21:48:48Z"
+      }
+    }
+  ]
+}

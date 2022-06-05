@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yQ7sSfQ0mOIK7O9-cwgcb4g9dio",
+  "id": "UgyxA3KbGpOgYi0hCQ54AaABAg",
+  "snippet": {
+    "videoId": "NjnYx7Qyj0M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pQNyaP0B4W1yUqD86YpkpGd00PA",
+      "id": "UgyxA3KbGpOgYi0hCQ54AaABAg",
+      "snippet": {
+        "videoId": "NjnYx7Qyj0M",
+        "textDisplay": "All the WHOs in WHOville like Christmas a lot!",
+        "textOriginal": "All the WHOs in WHOville like Christmas a lot!",
+        "authorDisplayName": "dmz140",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5BCpu6HKypqTgm34CZyAQZ9SfiwhtrQIP68RV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvIP129h9iHRk1NjeUr9i2g",
+        "authorChannelId": {
+          "value": "UCvIP129h9iHRk1NjeUr9i2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2020-12-23T18:33:21Z",
+        "updatedAt": "2020-12-23T18:33:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "bZrNw3QEr2rr1vYFr6VPPjc_FUc",
+      "id": "UgyxA3KbGpOgYi0hCQ54AaABAg.9Hc8AK4Y90b9JJFB_rQsbE",
+      "snippet": {
+        "textDisplay": "\ud83d\ude04",
+        "textOriginal": "\ud83d\ude04",
+        "parentId": "UgyxA3KbGpOgYi0hCQ54AaABAg",
+        "authorDisplayName": "Tara Schmidheini",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPdYAkyG9lKiVpVCeXwUSmrfoRMVuik38o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0u5bauSUEMc7dznZwB2mAw",
+        "authorChannelId": {
+          "value": "UC0u5bauSUEMc7dznZwB2mAw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-02-03T18:12:40Z",
+        "updatedAt": "2021-02-03T18:12:40Z"
+      }
+    }
+  ]
+}

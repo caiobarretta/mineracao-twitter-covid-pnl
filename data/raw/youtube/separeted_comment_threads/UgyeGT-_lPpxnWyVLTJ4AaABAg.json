@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cI59YVF94jokhKaXv9TgsOtvEco",
+  "id": "UgyeGT-_lPpxnWyVLTJ4AaABAg",
+  "snippet": {
+    "videoId": "189hYByEGC4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RtA8HjvNpsXPFFnrEMSjCu4uEc8",
+      "id": "UgyeGT-_lPpxnWyVLTJ4AaABAg",
+      "snippet": {
+        "videoId": "189hYByEGC4",
+        "textDisplay": "Fiquem em casa pelo bem de todos\ud83d\ude4f",
+        "textOriginal": "Fiquem em casa pelo bem de todos\ud83d\ude4f",
+        "authorDisplayName": "Wesley Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIbqxPi-glNQ01u0_XykzL4JsOmxCTl34T9GJzo1U=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmxllA_Vjs3eDLejYjQxqEg",
+        "authorChannelId": {
+          "value": "UCmxllA_Vjs3eDLejYjQxqEg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2020-04-14T20:43:50Z",
+        "updatedAt": "2020-04-14T20:43:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fHn28o_3-laGpZ61xWcKJe0ce6Q",
+      "id": "UgyeGT-_lPpxnWyVLTJ4AaABAg.97RuzcEDskt9BV1zBcO3aj",
+      "snippet": {
+        "textDisplay": "VTNC",
+        "textOriginal": "VTNC",
+        "parentId": "UgyeGT-_lPpxnWyVLTJ4AaABAg",
+        "authorDisplayName": "Gabriel Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSlPI-gtEdizCzYMgVjhk8YBCCcwEZ4bwFVw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwhZ1trxgVnM4KBn40LmShA",
+        "authorChannelId": {
+          "value": "UCwhZ1trxgVnM4KBn40LmShA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-07-24T11:56:58Z",
+        "updatedAt": "2020-07-24T11:56:58Z"
+      }
+    }
+  ]
+}

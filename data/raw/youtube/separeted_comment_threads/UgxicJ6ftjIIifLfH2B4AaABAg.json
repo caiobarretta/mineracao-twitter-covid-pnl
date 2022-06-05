@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "cCYzJQqYiqT2Dg8iEBSORRlt-9o",
+  "id": "UgxicJ6ftjIIifLfH2B4AaABAg",
+  "snippet": {
+    "videoId": "DgHKVJ5T_Ro",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "0zQjYv84zxAVt7OgbCKWEsl8ARM",
+      "id": "UgxicJ6ftjIIifLfH2B4AaABAg",
+      "snippet": {
+        "videoId": "DgHKVJ5T_Ro",
+        "textDisplay": "do jeito que o mundo anda uma MERDA, est\u00e1 compensando morrer.",
+        "textOriginal": "do jeito que o mundo anda uma MERDA, est\u00e1 compensando morrer.",
+        "authorDisplayName": "Allan Armani",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR1v1WmLnSJV4elrU_B9-gyuA8aSGEnXTlu5EHY1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UComBxEWw1dxgoFshbMSDxOQ",
+        "authorChannelId": {
+          "value": "UComBxEWw1dxgoFshbMSDxOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-05T21:20:03Z",
+        "updatedAt": "2022-05-05T21:20:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "jDCJ5AmEMWZtxAf-X0QASb9sUuQ",
+      "id": "UgxicJ6ftjIIifLfH2B4AaABAg.9aek72WpS3G9aeuYXGbCYz",
+      "snippet": {
+        "textDisplay": "Otimo, v\u00e1 na frente e depois diga-me como foi...............de preferencia; sem puxar meu p\u00e9 a noite kkkk",
+        "textOriginal": "Otimo, v\u00e1 na frente e depois diga-me como foi...............de preferencia; sem puxar meu p\u00e9 a noite kkkk",
+        "parentId": "UgxicJ6ftjIIifLfH2B4AaABAg",
+        "authorDisplayName": "Matheus Amado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ICgxgL-TSDSW8zi9ylta49JppUK1IK5BrwNwGtXG0OVWdmVyIgmDthdcAZZrgmkCCbFh9WB2aw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC28C4dOYnzB29Qwq9lueR9w",
+        "authorChannelId": {
+          "value": "UC28C4dOYnzB29Qwq9lueR9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-05T22:51:11Z",
+        "updatedAt": "2022-05-05T22:51:11Z"
+      }
+    }
+  ]
+}

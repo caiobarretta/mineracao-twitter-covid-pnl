@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZuGV_TKBKHgF_OT8TeEkK78AnwI",
+  "id": "UgzkFo5EOW7YSc5FZ2d4AaABAg",
+  "snippet": {
+    "videoId": "NjnYx7Qyj0M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "GhmSzDHzyHK287lyG0GTYwR8F2Q",
+      "id": "UgzkFo5EOW7YSc5FZ2d4AaABAg",
+      "snippet": {
+        "videoId": "NjnYx7Qyj0M",
+        "textDisplay": "Wow! I like how you're delivering this information. Not to discourage children but to educate them. Thumbs up!",
+        "textOriginal": "Wow! I like how you're delivering this information. Not to discourage children but to educate them. Thumbs up!",
+        "authorDisplayName": "Johnson Adu-Afriyie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLREj3L9_wTlEeVSBvb0K2Ag1LkpI0SIqModx1SRqfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDnUZReRdyB2845n9tDPmPg",
+        "authorChannelId": {
+          "value": "UCDnUZReRdyB2845n9tDPmPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-28T02:49:11Z",
+        "updatedAt": "2020-12-28T02:49:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yz6g4VCLXkJ14860eixxPDG5uX0",
+      "id": "UgzkFo5EOW7YSc5FZ2d4AaABAg.9HnK5PgnNLR9UoGaM6mkSU",
+      "snippet": {
+        "textDisplay": "Santa is a lie.  Teaching kids to lie",
+        "textOriginal": "Santa is a lie.  Teaching kids to lie",
+        "parentId": "UgzkFo5EOW7YSc5FZ2d4AaABAg",
+        "authorDisplayName": "Zee Hilal",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQB1tDiJ4FYIeVhpG4HDO-mVQ6KZFTuwEVIsXXh_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCC0cFiyAlEKU597vZpz5vxg",
+        "authorChannelId": {
+          "value": "UCC0cFiyAlEKU597vZpz5vxg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-16T14:25:57Z",
+        "updatedAt": "2021-11-16T14:25:57Z"
+      }
+    }
+  ]
+}

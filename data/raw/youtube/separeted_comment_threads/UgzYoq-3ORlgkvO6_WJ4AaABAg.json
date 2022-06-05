@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8VBae0SQMQsNxCYQa3Rw9BoDMj4",
+  "id": "UgzYoq-3ORlgkvO6_WJ4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "snWTXlNvASbDkfa38aiQNnOsY5s",
+      "id": "UgzYoq-3ORlgkvO6_WJ4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Que aula maravilhosa \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Que aula maravilhosa \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Adryeli Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR8BgH9zh-b56MtFsmTNpdt-1-OSJZ0PnA30a74WBI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxLCkiLmIbcORLPrFZzta0g",
+        "authorChannelId": {
+          "value": "UCxLCkiLmIbcORLPrFZzta0g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-02-24T17:48:24Z",
+        "updatedAt": "2022-02-24T17:48:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xQxSnBb5ee0IN67Xh-kE98a83HY",
+      "id": "UgzYoq-3ORlgkvO6_WJ4AaABAg.9Yq7Fa76HEN9_IujzdyR90",
+      "snippet": {
+        "textDisplay": "Obrigada. Bons estudos",
+        "textOriginal": "Obrigada. Bons estudos",
+        "parentId": "UgzYoq-3ORlgkvO6_WJ4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-02T03:58:57Z",
+        "updatedAt": "2022-04-02T03:58:57Z"
+      }
+    }
+  ]
+}

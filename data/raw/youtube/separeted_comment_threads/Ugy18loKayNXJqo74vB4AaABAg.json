@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8Fjmpu5BQIQOMU7FWodTfQuQe68",
+  "id": "Ugy18loKayNXJqo74vB4AaABAg",
+  "snippet": {
+    "videoId": "-usJVjwVFDM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "kF-5xfVCOYPbRPRmNqgcnyQtpCc",
+      "id": "Ugy18loKayNXJqo74vB4AaABAg",
+      "snippet": {
+        "videoId": "-usJVjwVFDM",
+        "textDisplay": "Meu Deus, a Noruega \u00e9 um horror, UM horror em termos gerais.",
+        "textOriginal": "Meu Deus, a Noruega \u00e9 um horror, UM horror em termos gerais.",
+        "authorDisplayName": "Maria Lofe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo3qlLtpR84-vgneHx8l_XiXttYbF6HTcfDDrtZk0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCr0eVTyrgjuARuIsIekWPVw",
+        "authorChannelId": {
+          "value": "UCr0eVTyrgjuARuIsIekWPVw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-10T19:40:52Z",
+        "updatedAt": "2021-06-10T19:40:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "olE0tgG_lOWsjJNnPTKhV24NxC4",
+      "id": "Ugy18loKayNXJqo74vB4AaABAg.9OQQEmCYEZW9SkGTVEOhS8",
+      "snippet": {
+        "textDisplay": "Pode cr\u00ea\u2026 Eu sei porque eu moro aqui. Tudo isso \u00e9 super verdade.",
+        "textOriginal": "Pode cr\u00ea\u2026 Eu sei porque eu moro aqui. Tudo isso \u00e9 super verdade.",
+        "parentId": "Ugy18loKayNXJqo74vB4AaABAg",
+        "authorDisplayName": "Ere Lie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/WtrlE-8F--_s06ScnLYGdJHbQl-itVmAQAMtmm5yxv9PDTiShLloBNA6bG9OtWBmXl0XONOI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9mxFqXGjvgUnLA5_kg8YdQ",
+        "authorChannelId": {
+          "value": "UC9mxFqXGjvgUnLA5_kg8YdQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-26T08:05:08Z",
+        "updatedAt": "2021-09-26T08:05:08Z"
+      }
+    }
+  ]
+}

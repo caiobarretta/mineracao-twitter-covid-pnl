@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ejqn-6SVUXbOeSBggCXwp-TBJV4",
+  "id": "UgwjHIwjeV5TZj79no54AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ouFUqMgz0gzGYloK1JI_CQgu5fU",
+      "id": "UgwjHIwjeV5TZj79no54AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "Que f\u00f4lego hein minha amiga,  \ud83d\udeb2\ud83d\udeb4\ud83d\udeb4",
+        "textOriginal": "Que f\u00f4lego hein minha amiga,  \ud83d\udeb2\ud83d\udeb4\ud83d\udeb4",
+        "authorDisplayName": "Maria Celi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQULLRxHO7aDLHRWHq50vrdEon_wbdnkXXRAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqp3YKDEAIUAN65XvGSFn-A",
+        "authorChannelId": {
+          "value": "UCqp3YKDEAIUAN65XvGSFn-A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-28T20:00:52Z",
+        "updatedAt": "2022-04-28T20:00:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yJ4c_PCBeh4VS0MKzP0yOOnOQm8",
+      "id": "UgwjHIwjeV5TZj79no54AaABAg.9aN_UxwiJrV9aNrqkc22XH",
+      "snippet": {
+        "textDisplay": "\ud83d\ude01\ud83d\ude01\ud83d\ude18\u2764",
+        "textOriginal": "\ud83d\ude01\ud83d\ude01\ud83d\ude18\u2764",
+        "parentId": "UgwjHIwjeV5TZj79no54AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-28T22:41:16Z",
+        "updatedAt": "2022-04-28T22:41:16Z"
+      }
+    }
+  ]
+}

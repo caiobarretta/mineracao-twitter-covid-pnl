@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YlcpR_GHbVaSfxPkX5f9nsEe9_Q",
+  "id": "UgyTRDVHSDeA7yN7X-N4AaABAg",
+  "snippet": {
+    "videoId": "JTWUvY3gmrE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ZQ57VeNGsi3HuzGKelwdF5pJZM8",
+      "id": "UgyTRDVHSDeA7yN7X-N4AaABAg",
+      "snippet": {
+        "videoId": "JTWUvY3gmrE",
+        "textDisplay": "I'm in a state of shock.",
+        "textOriginal": "I'm in a state of shock.",
+        "authorDisplayName": "Superlative CG",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/A5B90pJlQAAiYGI7dBCgYkRjnIvn4BDK3XqfZASkCkmddmjU_xacSC5z0LuYsIx6yR16YUkEGw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKNaq7saPByTPh-mogygdgw",
+        "authorChannelId": {
+          "value": "UCKNaq7saPByTPh-mogygdgw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-20T03:32:51Z",
+        "updatedAt": "2022-05-20T03:32:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vjleKAcVBeaMVpgZxMDA-AcN0Po",
+      "id": "UgyTRDVHSDeA7yN7X-N4AaABAg.9bESuircQdL9bEmGntkjgQ",
+      "snippet": {
+        "textDisplay": "The state of stupid",
+        "textOriginal": "The state of stupid",
+        "parentId": "UgyTRDVHSDeA7yN7X-N4AaABAg",
+        "authorDisplayName": "Jason Torres",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/TslU49w26yQwnDowIdM9StDcILWLyZzLGIqsGajS1e83iQosPOXcQQ50s7kRYSTLUSnIXS6VF1o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDZQE4f4DyzAkquTb53YIeA",
+        "authorChannelId": {
+          "value": "UCDZQE4f4DyzAkquTb53YIeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T06:30:45Z",
+        "updatedAt": "2022-05-20T06:30:45Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "CXi5IIO1_NSqvIh86JKylkykSL8",
+      "id": "UgyTRDVHSDeA7yN7X-N4AaABAg.9bESuircQdL9bEl0cbMUka",
+      "snippet": {
+        "textDisplay": "I'm sorry; I have a touch of Sheldon Cooper syndrome. \ud83d\ude02 Was that sarcasm or no?",
+        "textOriginal": "I'm sorry; I have a touch of Sheldon Cooper syndrome. \ud83d\ude02 Was that sarcasm or no?",
+        "parentId": "UgyTRDVHSDeA7yN7X-N4AaABAg",
+        "authorDisplayName": "Candice Lynn",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtvlik2IOwNJnFfsgpXlJ4m36poUCKqxe8wljhlDaWCRZbUCYHWioQkpQkWngi=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBxcbnrZ-za3Z9nT91-hQmA",
+        "authorChannelId": {
+          "value": "UCBxcbnrZ-za3Z9nT91-hQmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T06:19:49Z",
+        "updatedAt": "2022-05-20T06:19:49Z"
+      }
+    }
+  ]
+}

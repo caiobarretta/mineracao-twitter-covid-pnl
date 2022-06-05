@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MOgllhMjo40uh6z5SO4qLtqjzY8",
+  "id": "UgwsIHsBX5xcVDoCHmV4AaABAg",
+  "snippet": {
+    "videoId": "x5pyGZ-kPTg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tdgHzw0x9Dc39RiGN_OvZQ2lHTc",
+      "id": "UgwsIHsBX5xcVDoCHmV4AaABAg",
+      "snippet": {
+        "videoId": "x5pyGZ-kPTg",
+        "textDisplay": "excelente aula professor!",
+        "textOriginal": "excelente aula professor!",
+        "authorDisplayName": "Victor ESTD",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtMXCOYNFmlP6Irgo893uvsbBjEjjdGEMzQTf0pA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMXPI7l1CoG0DfBTxf2YDhw",
+        "authorChannelId": {
+          "value": "UCMXPI7l1CoG0DfBTxf2YDhw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-20T19:41:40Z",
+        "updatedAt": "2021-05-20T19:41:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "y4Fc5NcUzmKiAX-IbVEebTKotOM",
+      "id": "UgwsIHsBX5xcVDoCHmV4AaABAg.9N_LdE7ea9d9N_XqLG9nMQ",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Victor!",
+        "textOriginal": "Muito obrigado, Victor!",
+        "parentId": "UgwsIHsBX5xcVDoCHmV4AaABAg",
+        "authorDisplayName": "portugu\u00eas n\u00e3o \u00e9 f\u00e1cil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/NCiutVRIXjRZ8ybQnKnm-Q26FtF_2gAVuToZ1U3JuKvc0dZnlV7p8z5Ey8ociKXPPaLXlXM7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDVW3tXFddNETL0LQ9pTA9w",
+        "authorChannelId": {
+          "value": "UCDVW3tXFddNETL0LQ9pTA9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-20T21:28:19Z",
+        "updatedAt": "2021-05-20T21:28:19Z"
+      }
+    }
+  ]
+}

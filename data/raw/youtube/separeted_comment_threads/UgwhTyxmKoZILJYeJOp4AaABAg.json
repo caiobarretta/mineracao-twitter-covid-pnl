@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YfJblqoHe3UlYnowmW7vTLk58GY",
+  "id": "UgwhTyxmKoZILJYeJOp4AaABAg",
+  "snippet": {
+    "videoId": "PqFcd6Te7Eg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IK8ZA6XrjcnsBh2xDLuuiSTbJIE",
+      "id": "UgwhTyxmKoZILJYeJOp4AaABAg",
+      "snippet": {
+        "videoId": "PqFcd6Te7Eg",
+        "textDisplay": "Greetings from Artsakh. Congratulations, it is great work",
+        "textOriginal": "Greetings from Artsakh. Congratulations, it is great work",
+        "authorDisplayName": "Manoush Aleqsanyan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQb55U3pvDBR0PUQl63ME7Lyi1NRDO_NhZQL7Fkraq5rJd4Zv0VrAzS5n2IwGd3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHIq63QD4lLzTiORGBJ7WrQ",
+        "authorChannelId": {
+          "value": "UCHIq63QD4lLzTiORGBJ7WrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 22,
+        "publishedAt": "2022-04-23T15:29:42Z",
+        "updatedAt": "2022-04-23T15:29:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Nq7jIIMId3rHm9mcU2J2ANuw-9A",
+      "id": "UgwhTyxmKoZILJYeJOp4AaABAg.9aADUTTj2NN9aPrCB-ZKCz",
+      "snippet": {
+        "textDisplay": "\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddf2",
+        "textOriginal": "\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddf2",
+        "parentId": "UgwhTyxmKoZILJYeJOp4AaABAg",
+        "authorDisplayName": "Artsakh is Armenia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dTsxm_T3zj2oOy27EHbhMK1-XLEHM_17bVNS6WPAzGs-JkhVsP7xPxHVzVBLbUoZ6nJ2kCoo9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFMhR_Hmk7UwM_dcL3sd9bw",
+        "authorChannelId": {
+          "value": "UCFMhR_Hmk7UwM_dcL3sd9bw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-29T17:14:04Z",
+        "updatedAt": "2022-04-29T17:14:04Z"
+      }
+    }
+  ]
+}

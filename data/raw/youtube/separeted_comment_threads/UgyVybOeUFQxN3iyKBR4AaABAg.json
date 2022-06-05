@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0EoPLs5_rkOcaF7zkxDpTFKLyVw",
+  "id": "UgyVybOeUFQxN3iyKBR4AaABAg",
+  "snippet": {
+    "videoId": "PYSHJ8UYJxE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "yyzQtZYyzvf40Z393Mks_uH_p48",
+      "id": "UgyVybOeUFQxN3iyKBR4AaABAg",
+      "snippet": {
+        "videoId": "PYSHJ8UYJxE",
+        "textDisplay": "Boa noite, video miito importante parab\u00e9ns!",
+        "textOriginal": "Boa noite, video miito importante parab\u00e9ns!",
+        "authorDisplayName": "Antonio silveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5mQuOYMugg9lLlGGbr43OEV3zVylMcUeOKw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQlq_XfmFzp5T_UyPaXttOA",
+        "authorChannelId": {
+          "value": "UCQlq_XfmFzp5T_UyPaXttOA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-23T01:50:23Z",
+        "updatedAt": "2021-08-23T01:50:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JrncqwkQNsBXJYu-tKbZ3ZMCfJY",
+      "id": "UgyVybOeUFQxN3iyKBR4AaABAg.9RN2Z0zjxiM9ROAl1WTJbM",
+      "snippet": {
+        "textDisplay": "Ol\u00e1 Ant\u00f4nio \nMuito obrigado, grande abra\u00e7o aqui de Bombinhas SC !!",
+        "textOriginal": "Ol\u00e1 Ant\u00f4nio \nMuito obrigado, grande abra\u00e7o aqui de Bombinhas SC !!",
+        "parentId": "UgyVybOeUFQxN3iyKBR4AaABAg",
+        "authorDisplayName": "Lucas Silva O Corretor",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/CvPt1zW-dcs16aWyw_au0KiXqP06lsqi50sbfc3N8lEw7MrfwpGBgX4JCt0Kkh8Qz-lHWQi-NQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChClUzEq57u4BcXUHbs5JaQ",
+        "authorChannelId": {
+          "value": "UChClUzEq57u4BcXUHbs5JaQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-23T12:21:18Z",
+        "updatedAt": "2021-08-23T12:21:18Z"
+      }
+    }
+  ]
+}

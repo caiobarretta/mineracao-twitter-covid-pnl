@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "inaikB-Eh99NVA37T8RgYcj3Y9k",
+  "id": "Ugz3V3Ip6gaIjkPdzwp4AaABAg",
+  "snippet": {
+    "videoId": "-usJVjwVFDM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4GO9CFFux-2iZztvyxt5J8BrwaI",
+      "id": "Ugz3V3Ip6gaIjkPdzwp4AaABAg",
+      "snippet": {
+        "videoId": "-usJVjwVFDM",
+        "textDisplay": "Ol\u00e1 \ud83c\udf3a\ud83c\udf3b",
+        "textOriginal": "Ol\u00e1 \ud83c\udf3a\ud83c\udf3b",
+        "authorDisplayName": "Andrea A",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkEOpgDhSFgGFKRHfug9Y9V2Pn0Uozge9j-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3BEaCjjiWQOUvx0_fL0diQ",
+        "authorChannelId": {
+          "value": "UC3BEaCjjiWQOUvx0_fL0diQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-12T14:02:07Z",
+        "updatedAt": "2021-04-12T14:02:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GYLs1E3_CPZeMfh6JAWygdPoRQ8",
+      "id": "Ugz3V3Ip6gaIjkPdzwp4AaABAg.9M1t_4DMnYD9M1uyBVjzWE",
+      "snippet": {
+        "textDisplay": "\ud83e\udd70",
+        "textOriginal": "\ud83e\udd70",
+        "parentId": "Ugz3V3Ip6gaIjkPdzwp4AaABAg",
+        "authorDisplayName": "Lado B da Noruega",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/U1USbUDUwkhhVVlOVbIbMKpNx0FOK2QEzi1xeYs7t6CMt5qI9vbZ6_ftSFy76cb27STvVqFG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMu22I5cZWwq5ZvUOXULLgQ",
+        "authorChannelId": {
+          "value": "UCMu22I5cZWwq5ZvUOXULLgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T14:14:17Z",
+        "updatedAt": "2021-04-12T14:14:17Z"
+      }
+    }
+  ]
+}

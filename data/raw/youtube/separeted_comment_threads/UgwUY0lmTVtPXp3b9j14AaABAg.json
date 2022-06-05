@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VBWhQ5o8YllQ59IZpyCKKoHd0iY",
+  "id": "UgwUY0lmTVtPXp3b9j14AaABAg",
+  "snippet": {
+    "videoId": "pjPJIa63Or0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "w1F3IcWsBaKnyv0yPhUiZjOhQmM",
+      "id": "UgwUY0lmTVtPXp3b9j14AaABAg",
+      "snippet": {
+        "videoId": "pjPJIa63Or0",
+        "textDisplay": "Ol\u00e1, falar musicas",
+        "textOriginal": "Ol\u00e1, falar musicas",
+        "authorDisplayName": "B\u00f6bbest",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iPvkgwdjgn84bi5N9-nzaYfUAV2sCqZQjGCUVflUu_53NdGKstk2NAtcOk8D1kZy2j2WM1fbrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOTqf9CIu-Z9DkQKoIjoV3g",
+        "authorChannelId": {
+          "value": "UCOTqf9CIu-Z9DkQKoIjoV3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-04T12:58:24Z",
+        "updatedAt": "2022-03-04T12:58:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vTDBo5WfulHOirABBFsymV93s-Y",
+      "id": "UgwUY0lmTVtPXp3b9j14AaABAg.9Z9CQdQ50PI9ZCcu2TS_6m",
+      "snippet": {
+        "textDisplay": "@Jonzin valeu te amo",
+        "textOriginal": "@Jonzin valeu te amo",
+        "parentId": "UgwUY0lmTVtPXp3b9j14AaABAg",
+        "authorDisplayName": "B\u00f6bbest",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/iPvkgwdjgn84bi5N9-nzaYfUAV2sCqZQjGCUVflUu_53NdGKstk2NAtcOk8D1kZy2j2WM1fbrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOTqf9CIu-Z9DkQKoIjoV3g",
+        "authorChannelId": {
+          "value": "UCOTqf9CIu-Z9DkQKoIjoV3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-05T20:56:12Z",
+        "updatedAt": "2022-03-05T20:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "TdJI4fwhuhwJ0o4TvDF7PWf57zw",
+      "id": "UgwUY0lmTVtPXp3b9j14AaABAg.9Z9CQdQ50PI9ZCc_1lfIWR",
+      "snippet": {
+        "textDisplay": "Fiz um v\u00eddeo com todas as m\u00fasicas",
+        "textOriginal": "Fiz um v\u00eddeo com todas as m\u00fasicas",
+        "parentId": "UgwUY0lmTVtPXp3b9j14AaABAg",
+        "authorDisplayName": "Jonzin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/EjwTpAcDxtRb9LTUo27HWPaDbIc37UESaP4YXEq9cMiHh7WHlEih2hNQSzO9o1Ki2ZgBwxui=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKYKMQHUqAPH9TyGzjFiT3A",
+        "authorChannelId": {
+          "value": "UCKYKMQHUqAPH9TyGzjFiT3A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-03-05T20:53:20Z",
+        "updatedAt": "2022-03-05T20:53:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "XNt1t0wUM5XdRy2xPpj2D8SbbBs",
+  "id": "UgxWT7s5UZXsuq7D4LN4AaABAg",
+  "snippet": {
+    "videoId": "D6_r-OJtBr4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "eKi2ZccDNjTGz7oJYvfkN4hcdaM",
+      "id": "UgxWT7s5UZXsuq7D4LN4AaABAg",
+      "snippet": {
+        "videoId": "D6_r-OJtBr4",
+        "textDisplay": "Epsilon variant entered Pakistan aswell. 5th wave",
+        "textOriginal": "Epsilon variant entered Pakistan aswell. 5th wave",
+        "authorDisplayName": "Umair Ahmed",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNzlXVUfLb_65J_PpnmKA30TuecR9azi52Bg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0QWjHFhYL1AtdDjfNRuo3w",
+        "authorChannelId": {
+          "value": "UC0QWjHFhYL1AtdDjfNRuo3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-10-23T04:04:35Z",
+        "updatedAt": "2021-10-23T04:04:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "0-gZjEZT_FwDjaLkh9udMkiN5jo",
+      "id": "UgxWT7s5UZXsuq7D4LN4AaABAg.9TpMPFfIBpZ9Tpn6wPzVzC",
+      "snippet": {
+        "textDisplay": "Yes",
+        "textOriginal": "Yes",
+        "parentId": "UgxWT7s5UZXsuq7D4LN4AaABAg",
+        "authorDisplayName": "Japani Hamza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/mCParZjbCUvj0EdrLSr8tymOENNbNlN12R7ZLXNU5JZ8R8uX0AenQTN0ydoApkOz7qs906wRQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPoCJg6eXimr5Dlzw2rMOlg",
+        "authorChannelId": {
+          "value": "UCPoCJg6eXimr5Dlzw2rMOlg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-23T08:06:44Z",
+        "updatedAt": "2021-10-23T08:06:44Z"
+      }
+    }
+  ]
+}

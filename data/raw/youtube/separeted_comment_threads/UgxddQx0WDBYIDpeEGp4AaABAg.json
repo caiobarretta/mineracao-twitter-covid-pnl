@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tONsCun91wK_J2_R9HZ5cSazhwU",
+  "id": "UgxddQx0WDBYIDpeEGp4AaABAg",
+  "snippet": {
+    "videoId": "iBzyAU6oqXQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hZpbWmDKBz2tBqWg2XHGcjYoDLA",
+      "id": "UgxddQx0WDBYIDpeEGp4AaABAg",
+      "snippet": {
+        "videoId": "iBzyAU6oqXQ",
+        "textDisplay": "Eu bebi no mesmo dia que tomei mas moderadamente",
+        "textOriginal": "Eu bebi no mesmo dia que tomei mas moderadamente",
+        "authorDisplayName": "Beatriz Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjWlSXUd-C6PnSxhe7DEBu-2XsWPj3hMQZw8U01w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeq7go0xkoxfQ8kycqvbZ-g",
+        "authorChannelId": {
+          "value": "UCeq7go0xkoxfQ8kycqvbZ-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-08-18T22:36:59Z",
+        "updatedAt": "2021-08-18T22:36:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "mhkxw7SLJLSgEapBiXiC43p1RO0",
+      "id": "UgxddQx0WDBYIDpeEGp4AaABAg.9RCPF2xuoET9RoFyRpKLUs",
+      "snippet": {
+        "textDisplay": "Eu tb Beatriz, tomei cerveja mas moderado, sem exagero.",
+        "textOriginal": "Eu tb Beatriz, tomei cerveja mas moderado, sem exagero.",
+        "parentId": "UgxddQx0WDBYIDpeEGp4AaABAg",
+        "authorDisplayName": "Marcelo Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRXjhSKgVgv3QySZVuk16VKmWGzfvkFjTvy78emHw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCs2S41JD_I1hlZT3wShabYA",
+        "authorChannelId": {
+          "value": "UCs2S41JD_I1hlZT3wShabYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-03T00:46:19Z",
+        "updatedAt": "2021-09-03T00:46:19Z"
+      }
+    }
+  ]
+}

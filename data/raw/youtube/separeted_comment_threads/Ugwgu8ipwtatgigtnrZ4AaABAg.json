@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OCB0YCd51eHQuobfcvavckwbo1c",
+  "id": "Ugwgu8ipwtatgigtnrZ4AaABAg",
+  "snippet": {
+    "videoId": "lC4qTgXG7FY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7O9m_Dr_H0In9evfggrHAIWNuB0",
+      "id": "Ugwgu8ipwtatgigtnrZ4AaABAg",
+      "snippet": {
+        "videoId": "lC4qTgXG7FY",
+        "textDisplay": "\"Claudin\"\n\"Est\u00e1 de castigo at\u00e9 a Pepsi ser melhor do que a coca cola\"",
+        "textOriginal": "\"Claudin\"\n\"Est\u00e1 de castigo at\u00e9 a Pepsi ser melhor do que a coca cola\"",
+        "authorDisplayName": "Adolfo Andr\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQuxotPYGLD_NCnCXZjDGZZNKZfi1Nxgk6toA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgeuEYsCLs7jOCYHYXZdMww",
+        "authorChannelId": {
+          "value": "UCgeuEYsCLs7jOCYHYXZdMww"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-29T16:19:40Z",
+        "updatedAt": "2022-05-29T16:19:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "vgMIdNM8M_9bFtLxouXujc2Lui0",
+      "id": "Ugwgu8ipwtatgigtnrZ4AaABAg.9bc-p-l4hnu9beM9CnuL_q",
+      "snippet": {
+        "textDisplay": "Mais ja \u00e9",
+        "textOriginal": "Mais ja \u00e9",
+        "parentId": "Ugwgu8ipwtatgigtnrZ4AaABAg",
+        "authorDisplayName": "ARTHUR PELO DIGIMUNDO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/bOWS857rdiAxMZqJc-LupQI1EcZc8M6L7FSe889SJKfdLUJ_ri0sbwa3gOmVlZDY6annDsqIlw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXhRNmEIc946lylh-0CS1-g",
+        "authorChannelId": {
+          "value": "UCXhRNmEIc946lylh-0CS1-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T14:13:17Z",
+        "updatedAt": "2022-05-30T14:13:17Z"
+      }
+    }
+  ]
+}

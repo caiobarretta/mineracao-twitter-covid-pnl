@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-Fb7Cr63_30fwDwX5L7Hb0_5XOk",
+  "id": "Ugxi7tGBqCcDfdXYCBN4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "2ji5PB2Tt1-q_SNLA6ZTwQW-0fw",
+      "id": "Ugxi7tGBqCcDfdXYCBN4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Galera algu\u00e9m teve resposta de onde conseguir este mapa?",
+        "textOriginal": "Galera algu\u00e9m teve resposta de onde conseguir este mapa?",
+        "authorDisplayName": "Sumaia Prata",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrOq1fFz2s6cDP37hYNozAz1afglqS2KZ57eLIaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa8NDW2mvYQXg3FFbxzSE6A",
+        "authorChannelId": {
+          "value": "UCa8NDW2mvYQXg3FFbxzSE6A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-03T02:06:33Z",
+        "updatedAt": "2022-05-03T02:06:33Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "afu6HjRJRxZozinTWdyl8cFJDLQ",
+      "id": "Ugxi7tGBqCcDfdXYCBN4AaABAg.9aYXWkm6RXJ9aZRK7x5Ht4",
+      "snippet": {
+        "textDisplay": "Oi Sumaia. Este material est\u00e1 apenas no formato de v\u00eddeo.",
+        "textOriginal": "Oi Sumaia. Este material est\u00e1 apenas no formato de v\u00eddeo.",
+        "parentId": "Ugxi7tGBqCcDfdXYCBN4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-03T10:31:38Z",
+        "updatedAt": "2022-05-03T10:31:38Z"
+      }
+    }
+  ]
+}

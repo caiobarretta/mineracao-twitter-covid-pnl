@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eQB7HAnVRnBpZgKzmTxWQFZ98mw",
+  "id": "UgyCqREc9AUmlFOhm1t4AaABAg",
+  "snippet": {
+    "videoId": "FNF7i_DpfIo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "NJVuRageHpcXTSlTK5MAORk0hV8",
+      "id": "UgyCqREc9AUmlFOhm1t4AaABAg",
+      "snippet": {
+        "videoId": "FNF7i_DpfIo",
+        "textDisplay": "\u00d3tima live",
+        "textOriginal": "\u00d3tima live",
+        "authorDisplayName": "Sonia Lucia Afonso Araujo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiSRr5zo2oHW7L0b3uscwBoTqmvLvHhOsZmg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYfh3XgNfwxDLWAXtmeqYeA",
+        "authorChannelId": {
+          "value": "UCYfh3XgNfwxDLWAXtmeqYeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-24T17:02:10Z",
+        "updatedAt": "2020-06-24T17:02:10Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z17aNY3nQkTNDR0FwFAVroOsLAs",
+      "id": "UgyCqREc9AUmlFOhm1t4AaABAg.9AIL3CpWswR9AVnVPXaiRi",
+      "snippet": {
+        "textDisplay": "\u00f3timo.",
+        "textOriginal": "\u00f3timo.",
+        "parentId": "UgyCqREc9AUmlFOhm1t4AaABAg",
+        "authorDisplayName": "Renato Regis",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsfXfR3Pkb9nTsjxxo19631L-LtT0UXvZmSQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC81mObtJM8utLlKSJbljFvA",
+        "authorChannelId": {
+          "value": "UC81mObtJM8utLlKSJbljFvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-29T22:29:32Z",
+        "updatedAt": "2020-06-29T22:29:32Z"
+      }
+    }
+  ]
+}

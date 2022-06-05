@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "b1MTSAhSrdf6uAe1NuadHftHSYA",
+  "id": "UgyAqrTMjNoOFs1xb4V4AaABAg",
+  "snippet": {
+    "videoId": "hpaPUY5zwaQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zs_Awr6PTEDjYs1mPKb8QMtIAIw",
+      "id": "UgyAqrTMjNoOFs1xb4V4AaABAg",
+      "snippet": {
+        "videoId": "hpaPUY5zwaQ",
+        "textDisplay": "Rodolfo Hern\u00e1ndez ser\u00e1 el mejor presidente para Colombia :)",
+        "textOriginal": "Rodolfo Hern\u00e1ndez ser\u00e1 el mejor presidente para Colombia :)",
+        "authorDisplayName": "mnbvcxzlkjhgfdsam90",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7_tHPmy32uI946HNAw2svLsbhdueRYeSruA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8iwHfe66mRQgIp6JMU0RUw",
+        "authorChannelId": {
+          "value": "UC8iwHfe66mRQgIp6JMU0RUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-05-27T19:22:05Z",
+        "updatedAt": "2022-05-27T19:22:05Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "T4emYr1p5WZ0rgiupWtwNxWErxw",
+      "id": "UgyAqrTMjNoOFs1xb4V4AaABAg.9bYB6GT0ZhM9bYHVKbmBbS",
+      "snippet": {
+        "textDisplay": "Jajajaja",
+        "textOriginal": "Jajajaja",
+        "parentId": "UgyAqrTMjNoOFs1xb4V4AaABAg",
+        "authorDisplayName": "Gisell Cano Durango",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSseOt7d1veF_EpcNVa4gr54tNmiOfUQn4vNg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaORrmzxlhYU0vicfE42Odg",
+        "authorChannelId": {
+          "value": "UCaORrmzxlhYU0vicfE42Odg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-27T20:17:56Z",
+        "updatedAt": "2022-05-27T20:17:56Z"
+      }
+    }
+  ]
+}

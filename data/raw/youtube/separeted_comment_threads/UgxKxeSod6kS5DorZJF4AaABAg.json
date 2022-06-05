@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4eu8ryFvdyujg8zVNEw7h4qiSDc",
+  "id": "UgxKxeSod6kS5DorZJF4AaABAg",
+  "snippet": {
+    "videoId": "gFq-aX1E4l0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8DQt_3hPBeltKFbGjQJAzXRGTvI",
+      "id": "UgxKxeSod6kS5DorZJF4AaABAg",
+      "snippet": {
+        "videoId": "gFq-aX1E4l0",
+        "textDisplay": "Tem um filme hospedeiro q fala sobre sars",
+        "textOriginal": "Tem um filme hospedeiro q fala sobre sars",
+        "authorDisplayName": "Nubia Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRPuCXqjO-FA8PdOqeVTqrf8SaaXUxl4BiTDq90=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUrqJxceb0IbVdxb60Tv8cg",
+        "authorChannelId": {
+          "value": "UCUrqJxceb0IbVdxb60Tv8cg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-28T11:49:46Z",
+        "updatedAt": "2021-04-28T11:49:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ECkhkVE9kSx6eBarq2_u4iwBuFI",
+      "id": "UgxKxeSod6kS5DorZJF4AaABAg.9Mfr8h3sjoO9Mg2qFbDqHB",
+      "snippet": {
+        "textDisplay": "Vou procurar assistir, deve ser legal",
+        "textOriginal": "Vou procurar assistir, deve ser legal",
+        "parentId": "UgxKxeSod6kS5DorZJF4AaABAg",
+        "authorDisplayName": "DescomplicaMais",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQ2hajYNfV1n3ow4Ts8Ftzj4oEvxoakyKFJ230XA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCw7Scb4p32TrLWnzzhOIEOQ",
+        "authorChannelId": {
+          "value": "UCw7Scb4p32TrLWnzzhOIEOQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-28T13:40:42Z",
+        "updatedAt": "2021-04-28T13:40:42Z"
+      }
+    }
+  ]
+}

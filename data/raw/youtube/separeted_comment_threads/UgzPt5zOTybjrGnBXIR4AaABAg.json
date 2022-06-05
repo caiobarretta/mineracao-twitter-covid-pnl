@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "q5Terw7rMPHbLKPiCPEQ78mM_Pw",
+  "id": "UgzPt5zOTybjrGnBXIR4AaABAg",
+  "snippet": {
+    "videoId": "J4w-2NoxLJk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CIT7RT2SHjGQp1tQIsInIsgmEWE",
+      "id": "UgzPt5zOTybjrGnBXIR4AaABAg",
+      "snippet": {
+        "videoId": "J4w-2NoxLJk",
+        "textDisplay": "\u00d3timo v\u00eddeo!",
+        "textOriginal": "\u00d3timo v\u00eddeo!",
+        "authorDisplayName": "grigorhaig",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzIuCmAQsICrsK-Ng8xaP-qlLuJ-du9TD4Phjb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCenpEkkY41_d4Ge3Wms18rA",
+        "authorChannelId": {
+          "value": "UCenpEkkY41_d4Ge3Wms18rA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2018-07-29T14:15:52Z",
+        "updatedAt": "2018-07-29T14:15:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HJDqyV0l7Uz_zu-MqATnczWATZ4",
+      "id": "UgzPt5zOTybjrGnBXIR4AaABAg.8jHtlDEcK5G8jIladmvzl6",
+      "snippet": {
+        "textDisplay": "Valeu!",
+        "textOriginal": "Valeu!",
+        "parentId": "UgzPt5zOTybjrGnBXIR4AaABAg",
+        "authorDisplayName": "Irm\u00e3os Prezia - Canada para Brasileiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJ4vyD0aKON8zEeYmG6dp8ixl8fuae31_2DSie=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC52m0Q5PEvFkeq51wbimj2g",
+        "authorChannelId": {
+          "value": "UC52m0Q5PEvFkeq51wbimj2g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-07-29T22:23:45Z",
+        "updatedAt": "2018-07-29T22:23:45Z"
+      }
+    }
+  ]
+}

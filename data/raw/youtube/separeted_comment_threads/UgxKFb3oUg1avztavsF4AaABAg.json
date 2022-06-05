@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5y7BKtg8FGrxoDlC3ROMZ70LZX0",
+  "id": "UgxKFb3oUg1avztavsF4AaABAg",
+  "snippet": {
+    "videoId": "tzHslSe7nZw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BQB5zvv6yAWOG9BknDu91Yhjwgw",
+      "id": "UgxKFb3oUg1avztavsF4AaABAg",
+      "snippet": {
+        "videoId": "tzHslSe7nZw",
+        "textDisplay": "Oi que site vejo endere\u00e7os",
+        "textOriginal": "Oi que site vejo endere\u00e7os",
+        "authorDisplayName": "Sueli Ribeiro Toffaletti Silva Toffaletti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgEaMoprECZMeLSon5hMIFzcEXwMXySt87KqwFKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEERAx3ZOzuv0vbqs-at6xw",
+        "authorChannelId": {
+          "value": "UCEERAx3ZOzuv0vbqs-at6xw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-05T20:30:51Z",
+        "updatedAt": "2021-09-05T20:30:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IUeVOXRiQo8_CkmZcKL5uHNiJOk",
+      "id": "UgxKFb3oUg1avztavsF4AaABAg.9RvX6x2ICvW9RvZCAB4Vnx",
+      "snippet": {
+        "textDisplay": "Esta na descri\u00e7\u00e3o \u2728",
+        "textOriginal": "Esta na descri\u00e7\u00e3o \u2728",
+        "parentId": "UgxKFb3oUg1avztavsF4AaABAg",
+        "authorDisplayName": "Eujesz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/1R_11snHdK4eliWPyqAFN6xNArEigojXBSQh8k0l78k9H78LPZGItIMTVQ86nP4y6WtfvTUawQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVtmCYHZt4DTDx3sJFWiuQg",
+        "authorChannelId": {
+          "value": "UCVtmCYHZt4DTDx3sJFWiuQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-05T20:49:02Z",
+        "updatedAt": "2021-09-05T20:49:02Z"
+      }
+    }
+  ]
+}

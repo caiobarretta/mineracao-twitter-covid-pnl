@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FFrtALdFxIghzsZoabjdjeQCu0g",
+  "id": "Ugw_0y4ATE2ukkxTwmJ4AaABAg",
+  "snippet": {
+    "videoId": "HQxJBhR5ZzU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QBpbaHjOmcRMxQsNcn0E4diZyMw",
+      "id": "Ugw_0y4ATE2ukkxTwmJ4AaABAg",
+      "snippet": {
+        "videoId": "HQxJBhR5ZzU",
+        "textDisplay": "Well, desperate measures are sometimes justified. The lesser evil, as they say, sacrifices a minority for the wellness of the majority.",
+        "textOriginal": "Well, desperate measures are sometimes justified. The lesser evil, as they say, sacrifices a minority for the wellness of the majority.",
+        "authorDisplayName": "Fernando Arana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiifjrBchY8nOpJVRMAN-0Ayg1Syc8URq3TA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChanWwgxS8x-R7S8rImsanw",
+        "authorChannelId": {
+          "value": "UChanWwgxS8x-R7S8rImsanw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-17T15:09:17Z",
+        "updatedAt": "2022-05-17T15:09:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DkYXP__-9Woher10zhKnQWG4KT8",
+      "id": "Ugw_0y4ATE2ukkxTwmJ4AaABAg.9b7zE-jnKaG9bCWNouuBZf",
+      "snippet": {
+        "textDisplay": "The overall policy is good, but when it is implemented, some details have bastards",
+        "textOriginal": "The overall policy is good, but when it is implemented, some details have bastards",
+        "parentId": "Ugw_0y4ATE2ukkxTwmJ4AaABAg",
+        "authorDisplayName": "T",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcw5wLz-70eEanbaNzLW6SD5zr3sfwYRYBKtEyO_bkHQ8bwJ6v6pOhfe82-vAA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-kx84j83bVKr9kDY8kS58w",
+        "authorChannelId": {
+          "value": "UC-kx84j83bVKr9kDY8kS58w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T09:24:41Z",
+        "updatedAt": "2022-05-19T09:24:41Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "8UYuTGz4VyskOEZi5r-4rIatOEk",
+      "id": "Ugw_0y4ATE2ukkxTwmJ4AaABAg.9b7zE-jnKaG9b8CFAFtDRk",
+      "snippet": {
+        "textDisplay": "Nope.  You can move there if you'd like.",
+        "textOriginal": "Nope.  You can move there if you'd like.",
+        "parentId": "Ugw_0y4ATE2ukkxTwmJ4AaABAg",
+        "authorDisplayName": "Bob Bobby",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ44YtNRZOSuTNuQ3uMS8w-1VAU3hm2pf0zuHKnUFMgL_bSvTjWqQ-RP2waCc81=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCaZyMseRtu3qQrOV_VOCUfg",
+        "authorChannelId": {
+          "value": "UCaZyMseRtu3qQrOV_VOCUfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-17T17:11:47Z",
+        "updatedAt": "2022-05-17T17:11:47Z"
+      }
+    }
+  ]
+}

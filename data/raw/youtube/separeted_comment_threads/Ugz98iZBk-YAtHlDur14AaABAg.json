@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3lnqe87JopfwdNP_8fo3VeY-TAk",
+  "id": "Ugz98iZBk-YAtHlDur14AaABAg",
+  "snippet": {
+    "videoId": "BXWv-ZD0CGU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gpkdJTyghfgj-C1AqFAZn1E2yQw",
+      "id": "Ugz98iZBk-YAtHlDur14AaABAg",
+      "snippet": {
+        "videoId": "BXWv-ZD0CGU",
+        "textDisplay": "Vamos manter a quarentena! Muito importante pra todo mundo",
+        "textOriginal": "Vamos manter a quarentena! Muito importante pra todo mundo",
+        "authorDisplayName": "mauricio humberto",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfJhUje-fltV6fKIL84TVn2rHxsD1AiWJVpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGdAwVwT53juLYubm-s-ZGg",
+        "authorChannelId": {
+          "value": "UCGdAwVwT53juLYubm-s-ZGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-04-14T18:36:54Z",
+        "updatedAt": "2020-04-14T18:36:54Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xsTipfgiteytPQLX0RX4-Aqihuc",
+      "id": "Ugz98iZBk-YAtHlDur14AaABAg.97RgSzsJJK69BssNan7v83",
+      "snippet": {
+        "textDisplay": "Concordo",
+        "textOriginal": "Concordo",
+        "parentId": "Ugz98iZBk-YAtHlDur14AaABAg",
+        "authorDisplayName": "Keller Kelly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSFQZtsCoNkEf-5LYrU1K-PXktgrqK3cnK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzFB-7l9BOqPbz97Jcd9B4Q",
+        "authorChannelId": {
+          "value": "UCzFB-7l9BOqPbz97Jcd9B4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-08-03T03:25:20Z",
+        "updatedAt": "2020-08-03T03:25:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iYe8XmJF6q0dK8M7IAPVJM7qLDw",
+  "id": "Ugyoxr4D7gEmzMysFCN4AaABAg",
+  "snippet": {
+    "videoId": "BXWv-ZD0CGU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "I55_1PmfaOeY_nfysHMTt95JFoY",
+      "id": "Ugyoxr4D7gEmzMysFCN4AaABAg",
+      "snippet": {
+        "videoId": "BXWv-ZD0CGU",
+        "textDisplay": "Hoje passamos 200.000 de mortes.",
+        "textOriginal": "Hoje passamos 200.000 de mortes.",
+        "authorDisplayName": "Maca",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQXQvASsP-tPckdps4ullYngKXjpWG9_B8-vHbxYB05rXpnp5EOiRxqQeBXN_R=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFy5Ks7hYprQJUz8zRl2wjw",
+        "authorChannelId": {
+          "value": "UCFy5Ks7hYprQJUz8zRl2wjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-06T22:36:31Z",
+        "updatedAt": "2021-03-06T22:36:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "GJuGf_sAbZ33_YkXZ1Nn4UQjkqE",
+      "id": "Ugyoxr4D7gEmzMysFCN4AaABAg.9KZY1GkT12Q9KmVMBq8g-r",
+      "snippet": {
+        "textDisplay": "Um munic\u00edpio inteiro.",
+        "textOriginal": "Um munic\u00edpio inteiro.",
+        "parentId": "Ugyoxr4D7gEmzMysFCN4AaABAg",
+        "authorDisplayName": "Leonardo Ricardo dos santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR78rb1U3nSIUwiLTCYM-rSbrxRZrC-28jAbclaXA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNldHcCAdyu1oLdzuEbhTXw",
+        "authorChannelId": {
+          "value": "UCNldHcCAdyu1oLdzuEbhTXw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-03-12T08:42:32Z",
+        "updatedAt": "2021-03-12T08:42:32Z"
+      }
+    }
+  ]
+}

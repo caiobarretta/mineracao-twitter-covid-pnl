@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4KNOi0NCK7Coiv_0gTn4GcNw32E",
+  "id": "UgzbPNUncG_MMs2gXF94AaABAg",
+  "snippet": {
+    "videoId": "-usJVjwVFDM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7MR9C859Br8mNWIEvjclvhHCjoI",
+      "id": "UgzbPNUncG_MMs2gXF94AaABAg",
+      "snippet": {
+        "videoId": "-usJVjwVFDM",
+        "textDisplay": "Eu estou amando seu canal! Estou maratonando! E olha que nem tinha curiosidade para saber nada da Noruega. Muito legal!",
+        "textOriginal": "Eu estou amando seu canal! Estou maratonando! E olha que nem tinha curiosidade para saber nada da Noruega. Muito legal!",
+        "authorDisplayName": "Luciana Angelica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Fyf9a7BrbCeFtPMaVe6gG5GD_jVLhNs8Gw2KMMixDLQkVydyrGaz11BX85s0Q6PPveNJhhoTJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgJqRlm0pCIpTgCy0xSi_Ew",
+        "authorChannelId": {
+          "value": "UCgJqRlm0pCIpTgCy0xSi_Ew"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-09T22:32:27Z",
+        "updatedAt": "2021-06-09T22:32:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "gMTxMNebo0Edmp3NHK2vv2tLU0M",
+      "id": "UgzbPNUncG_MMs2gXF94AaABAg.9OO94_ctmUL9OO9Hx_q3GF",
+      "snippet": {
+        "textDisplay": "Bem vinda \ud83d\ude18\ud83d\udc90",
+        "textOriginal": "Bem vinda \ud83d\ude18\ud83d\udc90",
+        "parentId": "UgzbPNUncG_MMs2gXF94AaABAg",
+        "authorDisplayName": "Lado B da Noruega",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/U1USbUDUwkhhVVlOVbIbMKpNx0FOK2QEzi1xeYs7t6CMt5qI9vbZ6_ftSFy76cb27STvVqFG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMu22I5cZWwq5ZvUOXULLgQ",
+        "authorChannelId": {
+          "value": "UCMu22I5cZWwq5ZvUOXULLgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-06-09T22:34:17Z",
+        "updatedAt": "2021-06-09T22:34:17Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "E6CvBheSNpbb8BIgWSAmrFGSLDo",
+  "id": "UgxyGCxVsIb5zyiSzcx4AaABAg",
+  "snippet": {
+    "videoId": "0OGg3zKsxFM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xVPX2L3DguYPiu-fwAJihOCdPOc",
+      "id": "UgxyGCxVsIb5zyiSzcx4AaABAg",
+      "snippet": {
+        "videoId": "0OGg3zKsxFM",
+        "textDisplay": "What happened to the same you tube video with over 414 000 views this morning? Did they take it down?",
+        "textOriginal": "What happened to the same you tube video with over 414 000 views this morning? Did they take it down?",
+        "authorDisplayName": "Julie Mardian",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRSRfEsrVTBbd-mQ_zMhXqj8h6m2xvZE7brBhusf0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvjaKpktdlLRi3cRKaE8G_Q",
+        "authorChannelId": {
+          "value": "UCvjaKpktdlLRi3cRKaE8G_Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-20T23:39:40Z",
+        "updatedAt": "2021-06-20T23:39:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UlTtj4hyEXllKYGyAUABW8vKSQY",
+      "id": "UgxyGCxVsIb5zyiSzcx4AaABAg.9OpaWU1zYEc9OqicazYfIc",
+      "snippet": {
+        "textDisplay": "It's beening suppressed. I noticed this too. Still their but harder to find.",
+        "textOriginal": "It's beening suppressed. I noticed this too. Still their but harder to find.",
+        "parentId": "UgxyGCxVsIb5zyiSzcx4AaABAg",
+        "authorDisplayName": "AnonymousAggregator",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5258JhAyEVgXky0wtbAHfOpQYKdkjOD_qjg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbs7pU0bqNQb5hFRlAgrs4w",
+        "authorChannelId": {
+          "value": "UCbs7pU0bqNQb5hFRlAgrs4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-06-21T10:09:47Z",
+        "updatedAt": "2021-06-21T10:09:47Z"
+      }
+    }
+  ]
+}

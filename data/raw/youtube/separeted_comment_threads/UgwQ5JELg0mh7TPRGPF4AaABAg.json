@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IxCLIelIYwZa4v3vNKy4SwzmxFE",
+  "id": "UgwQ5JELg0mh7TPRGPF4AaABAg",
+  "snippet": {
+    "videoId": "S4QEEbQCjeE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "m8JzwuOmmccBJCfExw6yTFddGi0",
+      "id": "UgwQ5JELg0mh7TPRGPF4AaABAg",
+      "snippet": {
+        "videoId": "S4QEEbQCjeE",
+        "textDisplay": "Ali\u00e1s, os coment\u00e1rios aqui s\u00f3  mostram o quanto um v\u00eddeo  desses \u00e9  extremamente necess\u00e1rio.",
+        "textOriginal": "Ali\u00e1s, os coment\u00e1rios aqui s\u00f3  mostram o quanto um v\u00eddeo  desses \u00e9  extremamente necess\u00e1rio.",
+        "authorDisplayName": "Leandro Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS2b5Ji_sJ9LDl7Yx_LcdHxODilJPKcglcHg6uKSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjjtP-rPH2zcI9wPBRK5P-Q",
+        "authorChannelId": {
+          "value": "UCjjtP-rPH2zcI9wPBRK5P-Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 38,
+        "publishedAt": "2018-08-14T21:44:26Z",
+        "updatedAt": "2018-08-14T21:44:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9NU73gm7-Lfgx9g8G0-rhAU8TOo",
+      "id": "UgwQ5JELg0mh7TPRGPF4AaABAg.8jwtoaK26Df8k5rAORKesz",
+      "snippet": {
+        "textDisplay": "finalmente um coment\u00e1rio sensato! :)",
+        "textOriginal": "finalmente um coment\u00e1rio sensato! :)",
+        "parentId": "UgwQ5JELg0mh7TPRGPF4AaABAg",
+        "authorDisplayName": "Laura Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGDBCJnzJ9ROpwS8lkRsEpShKb0DY7hb6usozTbmA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpJFtlH2yK3sFc5QyOgoQWQ",
+        "authorChannelId": {
+          "value": "UCpJFtlH2yK3sFc5QyOgoQWQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-08-18T18:33:44Z",
+        "updatedAt": "2018-08-18T18:33:44Z"
+      }
+    }
+  ]
+}

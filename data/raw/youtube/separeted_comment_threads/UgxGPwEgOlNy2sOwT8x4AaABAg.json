@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Xbdfzsn5BnuBr2kmS2MtBuyks8U",
+  "id": "UgxGPwEgOlNy2sOwT8x4AaABAg",
+  "snippet": {
+    "videoId": "lj_ICfXVykg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "A9f43QAF1uoe0ZuPfDAC0AMSxFQ",
+      "id": "UgxGPwEgOlNy2sOwT8x4AaABAg",
+      "snippet": {
+        "videoId": "lj_ICfXVykg",
+        "textDisplay": "Maycon faz pandemia 2 o primeiro ta muito top",
+        "textOriginal": "Maycon faz pandemia 2 o primeiro ta muito top",
+        "authorDisplayName": "Gaming Swag",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmuBbkm5-JFEiq7wvt06o11T45y2PchTVVRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2iQ0bG8u4bUeQOF_qg0cIw",
+        "authorChannelId": {
+          "value": "UC2iQ0bG8u4bUeQOF_qg0cIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-12-06T00:59:27Z",
+        "updatedAt": "2020-12-06T00:59:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Z0ilQvoGyNI5adPIcLLC_UsXYds",
+      "id": "UgxGPwEgOlNy2sOwT8x4AaABAg.9GuU2QL3JpS9HRToiKpkDr",
+      "snippet": {
+        "textDisplay": "Eeee queeo cafeee",
+        "textOriginal": "Eeee queeo cafeee",
+        "parentId": "UgxGPwEgOlNy2sOwT8x4AaABAg",
+        "authorDisplayName": "Rodrigo Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSh66PnOpILNDgT64He3sHipEmpDW9LN5J6WsTzLaY=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVorJ6Zhgk8K8r-yJthf93w",
+        "authorChannelId": {
+          "value": "UCVorJ6Zhgk8K8r-yJthf93w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-19T05:51:37Z",
+        "updatedAt": "2020-12-19T05:51:37Z"
+      }
+    }
+  ]
+}

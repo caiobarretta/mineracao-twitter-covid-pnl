@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "d_Gnpq4TaYLFC13_ZPQwDA6dG7Q",
+  "id": "UgxfJTmMz0NVyBe2yCF4AaABAg",
+  "snippet": {
+    "videoId": "x5pyGZ-kPTg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BKTWqlW_idm2Gglsm2saa4T8vI8",
+      "id": "UgxfJTmMz0NVyBe2yCF4AaABAg",
+      "snippet": {
+        "videoId": "x5pyGZ-kPTg",
+        "textDisplay": "Muito obrigado por nos ajudar com o seu conte\u00fado de excel\u00eancia!",
+        "textOriginal": "Muito obrigado por nos ajudar com o seu conte\u00fado de excel\u00eancia!",
+        "authorDisplayName": "Pedro Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK8lX4Tjh5pijvPAa2EEghDbLMcCY8S4FHqQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2x5QOLPL0pno730JbkEeqg",
+        "authorChannelId": {
+          "value": "UC2x5QOLPL0pno730JbkEeqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-18T22:18:36Z",
+        "updatedAt": "2020-11-18T22:18:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "THddZESaKQB8TDQy0NZFh2v3AYM",
+      "id": "UgxfJTmMz0NVyBe2yCF4AaABAg.9GDQ7WvCSsy9GDRPIU16kO",
+      "snippet": {
+        "textDisplay": "Eu que agrade\u00e7o o apoio.",
+        "textOriginal": "Eu que agrade\u00e7o o apoio.",
+        "parentId": "UgxfJTmMz0NVyBe2yCF4AaABAg",
+        "authorDisplayName": "portugu\u00eas n\u00e3o \u00e9 f\u00e1cil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/NCiutVRIXjRZ8ybQnKnm-Q26FtF_2gAVuToZ1U3JuKvc0dZnlV7p8z5Ey8ociKXPPaLXlXM7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDVW3tXFddNETL0LQ9pTA9w",
+        "authorChannelId": {
+          "value": "UCDVW3tXFddNETL0LQ9pTA9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-18T22:29:46Z",
+        "updatedAt": "2020-11-18T22:29:46Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "MsImNGsthOMWZSczsnsjYaWqRZA",
+  "id": "UgzwMaO0mBMl6ITHKBx4AaABAg",
+  "snippet": {
+    "videoId": "qcU4im7eqyQ",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "zG7njqG_chf3EK-BUs6BlNCpp4M",
+      "id": "UgzwMaO0mBMl6ITHKBx4AaABAg",
+      "snippet": {
+        "videoId": "qcU4im7eqyQ",
+        "textDisplay": "Empezamos bien, desde la comodidad de su casa.",
+        "textOriginal": "Empezamos bien, desde la comodidad de su casa.",
+        "authorDisplayName": "Angela Granados",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRG9mteFISK6izyO4hFyb-QO1nvWja-u23mwQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCS-wOUte2ouEO0zF1PydPXg",
+        "authorChannelId": {
+          "value": "UCS-wOUte2ouEO0zF1PydPXg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-05-29T23:42:34Z",
+        "updatedAt": "2022-05-29T23:42:34Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "avZtgjmNsGO_AA3M4D1_I5ACnYc",
+      "id": "UgzwMaO0mBMl6ITHKBx4AaABAg.9bcnVqFP9jW9bf4PBDtywh",
+      "snippet": {
+        "textDisplay": "siiii mientras lo esperaban en su sede.",
+        "textOriginal": "siiii mientras lo esperaban en su sede.",
+        "parentId": "UgzwMaO0mBMl6ITHKBx4AaABAg",
+        "authorDisplayName": "Jhoan Delgado",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0a5N8ICnQycV1K1d-xC6t8qZC0p22DcBR=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKgU40rzucxd65qM4xNqT-g",
+        "authorChannelId": {
+          "value": "UCKgU40rzucxd65qM4xNqT-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-30T20:57:25Z",
+        "updatedAt": "2022-05-30T20:57:25Z"
+      }
+    }
+  ]
+}

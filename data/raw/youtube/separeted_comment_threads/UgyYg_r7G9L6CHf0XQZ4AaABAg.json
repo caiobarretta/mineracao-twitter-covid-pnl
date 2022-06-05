@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aMqL4WGKT1dyP7YNuw7OEWQ329M",
+  "id": "UgyYg_r7G9L6CHf0XQZ4AaABAg",
+  "snippet": {
+    "videoId": "dZJTLIK7SjA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Vsx-Hn_AHgUljIK_Aew9tha3uN8",
+      "id": "UgyYg_r7G9L6CHf0XQZ4AaABAg",
+      "snippet": {
+        "videoId": "dZJTLIK7SjA",
+        "textDisplay": "Thanku so much sir",
+        "textOriginal": "Thanku so much sir",
+        "authorDisplayName": "Princy Bajpai",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtJz16oJ9Ip3zKdGw5THCo5w8FvxjY0oPUDQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC54yNH2R5_M6yJzPZ9fyzPA",
+        "authorChannelId": {
+          "value": "UC54yNH2R5_M6yJzPZ9fyzPA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-20T16:18:26Z",
+        "updatedAt": "2020-11-20T16:18:26Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WSEUbU2RFa6beAw8TqKORSqZPcM",
+      "id": "UgyYg_r7G9L6CHf0XQZ4AaABAg.9GHvVLTn3m09GITdOQgbbf",
+      "snippet": {
+        "textDisplay": "Your welcome..",
+        "textOriginal": "Your welcome..",
+        "parentId": "UgyYg_r7G9L6CHf0XQZ4AaABAg",
+        "authorDisplayName": "P Kalika Maths",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwCa0EdvkRneYjIrfsBVCOQmfkYhxOH2OUAvejhA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVUB-lRXnN40I0EXjvVVJDw",
+        "authorChannelId": {
+          "value": "UCVUB-lRXnN40I0EXjvVVJDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-11-20T21:25:30Z",
+        "updatedAt": "2020-11-20T21:25:30Z"
+      }
+    }
+  ]
+}

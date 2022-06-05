@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "akKrFG-3N3bZb0JZgX7KNdnAxMM",
+  "etag": "KlgcGbyNFIxC0DLw8cw9p53fi2Q",
   "id": "UgwjkwMzhDsx8mOCa9d4AaABAg",
   "snippet": {
     "videoId": "wT10bO9fhb0",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "b4jIDkWm2r3d6UOIG0o8T9rcwpQ",
+      "etag": "CyTsxxfuc7EmJx1c4YE0LtwxN6w",
       "id": "UgwjkwMzhDsx8mOCa9d4AaABAg",
       "snippet": {
         "videoId": "wT10bO9fhb0",
@@ -20,14 +20,36 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 49,
+        "likeCount": 60,
         "publishedAt": "2022-05-08T15:38:56Z",
         "updatedAt": "2022-05-08T15:41:18Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 0,
+    "totalReplyCount": 1,
     "isPublic": true
   },
-  "comments": []
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "VqQBUb_sBdqCLwQ7vHgLZdSCl6w",
+      "id": "UgwjkwMzhDsx8mOCa9d4AaABAg.9alrTG4kfyJ9apgA7e-_NU",
+      "snippet": {
+        "textDisplay": "Obrigada doutor pelos esclarecimentos. Tenho 58 anos tomei 3 doses.\nCont\u00ednuo tomando todos    \n  os cuidados e usando m\u00e1scara. Deus o aben\u00e7oe.",
+        "textOriginal": "Obrigada doutor pelos esclarecimentos. Tenho 58 anos tomei 3 doses.\nCont\u00ednuo tomando todos    \n  os cuidados e usando m\u00e1scara. Deus o aben\u00e7oe.",
+        "parentId": "UgwjkwMzhDsx8mOCa9d4AaABAg",
+        "authorDisplayName": "Mary",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yYik54PavNHsc4mxL7H9TqwyXxr6sJphIlCvxXwgJawhrnW4XRXeqr-fxl2voWvfFUohH07XjYo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCm027y-w90UOZ0oZNcpj2TA",
+        "authorChannelId": {
+          "value": "UCm027y-w90UOZ0oZNcpj2TA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-10T03:17:10Z",
+        "updatedAt": "2022-05-10T03:17:10Z"
+      }
+    }
+  ]
 }

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jX0mlBPiXm6Yy_zTH3YocO4mbfo",
+  "id": "UgwfWEdnRL02zBhVVWd4AaABAg",
+  "snippet": {
+    "videoId": "whK5zu4sMgA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "YmZktim_qZRU_dDLgJPfyFpijFc",
+      "id": "UgwfWEdnRL02zBhVVWd4AaABAg",
+      "snippet": {
+        "videoId": "whK5zu4sMgA",
+        "textDisplay": "This is what happens when u make the pass mark 30 percent",
+        "textOriginal": "This is what happens when u make the pass mark 30 percent",
+        "authorDisplayName": "Random Immigrant",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiBL40vpMoFXVgQM9A_j29DPygwNq9q6T28gLB1Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC17Egep9W4Lm2jFyEz6Ng9g",
+        "authorChannelId": {
+          "value": "UC17Egep9W4Lm2jFyEz6Ng9g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 140,
+        "publishedAt": "2018-10-20T06:24:35Z",
+        "updatedAt": "2018-10-20T06:24:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "grRfbxPbg-BVQtIzk3NY81tERwM",
+      "id": "UgwfWEdnRL02zBhVVWd4AaABAg.8mblo2Gk0dm8oMcDQt9Zzm",
+      "snippet": {
+        "textDisplay": "20 percent",
+        "textOriginal": "20 percent",
+        "parentId": "UgwfWEdnRL02zBhVVWd4AaABAg",
+        "authorDisplayName": "Aaron Bornmann",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8fAQ8NVHY9HLGGHnVqB5u9Ol1ehRMhRU_pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCpG682iZxt8LBsgj18xzInw",
+        "authorChannelId": {
+          "value": "UCpG682iZxt8LBsgj18xzInw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2018-12-02T16:55:44Z",
+        "updatedAt": "2018-12-02T16:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "weAuAjEFiwwkbg0OBJWHWrC1Opw",
+      "id": "UgwfWEdnRL02zBhVVWd4AaABAg.8mblo2Gk0dm8mhcreEmMcn",
+      "snippet": {
+        "textDisplay": "Random Immigrant\nI know some really successful businessmen who were 30 \"percenters\"...This one is totally unschooled...",
+        "textOriginal": "Random Immigrant\nI know some really successful businessmen who were 30 \"percenters\"...This one is totally unschooled...",
+        "parentId": "UgwfWEdnRL02zBhVVWd4AaABAg",
+        "authorDisplayName": "Beetle Bayley",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQe-Fd6-w1hfiIqrAKwpyPhlq707cWqpYZzaA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWmHURvh-0M0Fcs6XEntoiw",
+        "authorChannelId": {
+          "value": "UCWmHURvh-0M0Fcs6XEntoiw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2018-10-22T13:01:52Z",
+        "updatedAt": "2018-10-22T13:01:52Z"
+      }
+    }
+  ]
+}

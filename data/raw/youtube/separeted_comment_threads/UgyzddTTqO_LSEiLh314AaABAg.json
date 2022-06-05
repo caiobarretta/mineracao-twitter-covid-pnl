@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0AE5WL1NN2n0wUW47HRkUUwqPao",
+  "id": "UgyzddTTqO_LSEiLh314AaABAg",
+  "snippet": {
+    "videoId": "YI8i_zyGP2E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gD5JTzpxLel8P9VXpYxyz9MZbho",
+      "id": "UgyzddTTqO_LSEiLh314AaABAg",
+      "snippet": {
+        "videoId": "YI8i_zyGP2E",
+        "textDisplay": "tanta desgra\u00e7a acontecendo que  fica dificil acreditar que foi tudo em um ano s\u00f3.",
+        "textOriginal": "tanta desgra\u00e7a acontecendo que  fica dificil acreditar que foi tudo em um ano s\u00f3.",
+        "authorDisplayName": "Danilo Pablo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShrF7mcTqsbxHi_9Rj-oCtG03BrrQ0HPnCjKmZ9A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyb6SiHIRxsZVrDBSIoDfag",
+        "authorChannelId": {
+          "value": "UCyb6SiHIRxsZVrDBSIoDfag"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-12-30T12:34:02Z",
+        "updatedAt": "2021-12-30T12:34:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rgd5SkP_0AgxHbPep220Ckjkl_g",
+      "id": "UgyzddTTqO_LSEiLh314AaABAg.9W_Ml9OvHsU9W_yHgGyAI9",
+      "snippet": {
+        "textDisplay": "Achei 2020 pior.",
+        "textOriginal": "Achei 2020 pior.",
+        "parentId": "UgyzddTTqO_LSEiLh314AaABAg",
+        "authorDisplayName": "Canal do Besouro Azul",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3MyhEqlIM2Nda8MLnguFFWAUMwobFIay3V-Fr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYVDRGELrb3I5SMPcqcaP8g",
+        "authorChannelId": {
+          "value": "UCYVDRGELrb3I5SMPcqcaP8g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-30T18:10:40Z",
+        "updatedAt": "2021-12-30T18:10:40Z"
+      }
+    }
+  ]
+}

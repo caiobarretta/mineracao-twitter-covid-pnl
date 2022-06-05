@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "0Fr6kJkRzWRsxad5ycFIcaXjqug",
+  "id": "Ugwx9rybyW7enZZYHYJ4AaABAg",
+  "snippet": {
+    "videoId": "NNkCqqPZ4eE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "axYGObzWoNbX6MPJNTVzJkxUXaw",
+      "id": "Ugwx9rybyW7enZZYHYJ4AaABAg",
+      "snippet": {
+        "videoId": "NNkCqqPZ4eE",
+        "textDisplay": "Agora mim diga. Esse povo bem alimentado em ???  jesus que trag\u00e9dia.",
+        "textOriginal": "Agora mim diga. Esse povo bem alimentado em ???  jesus que trag\u00e9dia.",
+        "authorDisplayName": "emi gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSL7W1H3LQSSCPgoKL8ZqPEtQzUD3hoOy20Aa7t9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT9qSuPGaRmERsx-FSK_WqQ",
+        "authorChannelId": {
+          "value": "UCT9qSuPGaRmERsx-FSK_WqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 6,
+        "publishedAt": "2022-05-18T17:44:16Z",
+        "updatedAt": "2022-05-18T17:44:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d62qHQLOP_SYXQbfFCWUrr2pmbQ",
+      "id": "Ugwx9rybyW7enZZYHYJ4AaABAg.9bApl1HTpDb9bDP-qcv-n4",
+      "snippet": {
+        "textDisplay": "\u00cdndio mim disse kk",
+        "textOriginal": "\u00cdndio mim disse kk",
+        "parentId": "Ugwx9rybyW7enZZYHYJ4AaABAg",
+        "authorDisplayName": "T\u00e1ssio Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4r1a2sGJEdMnIHSo7relq-uNVUC_DQ2DU8y3nzGHYF8Aj0ldk5IWI60owJDuk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnwZcFUddPq7-9eDXuhWsjw",
+        "authorChannelId": {
+          "value": "UCnwZcFUddPq7-9eDXuhWsjw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-19T17:39:29Z",
+        "updatedAt": "2022-05-19T17:39:29Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "k5gQmuQdnn6EPMIc_9Tkz_YlBWU",
+  "id": "UgwSd0dLd2YortG3mGV4AaABAg",
+  "snippet": {
+    "videoId": "v7NkSPKyj0c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "n6tbNWQo6q-SXkSQcQFhZ83LQ1U",
+      "id": "UgwSd0dLd2YortG3mGV4AaABAg",
+      "snippet": {
+        "videoId": "v7NkSPKyj0c",
+        "textDisplay": "Extra Extra! Regina Duarte sai da secretaria da cultura.",
+        "textOriginal": "Extra Extra! Regina Duarte sai da secretaria da cultura.",
+        "authorDisplayName": "Marcondes Thom\u00e9",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCmNqVrGMLNf7-w7uJH1nFa3rxr1GMnAKeDxtncw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8413QGKDElXyXbv2uoJWZg",
+        "authorChannelId": {
+          "value": "UC8413QGKDElXyXbv2uoJWZg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-05-20T13:39:27Z",
+        "updatedAt": "2020-05-20T13:39:27Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xpXHlsJp9O8RoNmcy2SgaQipHfU",
+      "id": "UgwSd0dLd2YortG3mGV4AaABAg.98sr1pd_7RN98tOBfFllGB",
+      "snippet": {
+        "textDisplay": "Grande Porcaria, nem era para ter secretaria disso.",
+        "textOriginal": "Grande Porcaria, nem era para ter secretaria disso.",
+        "parentId": "UgwSd0dLd2YortG3mGV4AaABAg",
+        "authorDisplayName": "Luan Guedes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6vtEyz9zsKb3ifwzsTPch7LRC_2L1YloGAilu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvi1nhq8QDmfGBrnvYCwDUw",
+        "authorChannelId": {
+          "value": "UCvi1nhq8QDmfGBrnvYCwDUw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-20T18:37:53Z",
+        "updatedAt": "2020-05-20T18:37:53Z"
+      }
+    }
+  ]
+}

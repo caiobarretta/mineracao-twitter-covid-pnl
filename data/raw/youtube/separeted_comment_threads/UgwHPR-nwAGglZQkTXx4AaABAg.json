@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DhEjLpdOOz7bFtOPtqCh15LAn10",
+  "id": "UgwHPR-nwAGglZQkTXx4AaABAg",
+  "snippet": {
+    "videoId": "1EYUbDsAubo",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "DxvoHDaQLaWC6m-6ZEg2ZP5XY-g",
+      "id": "UgwHPR-nwAGglZQkTXx4AaABAg",
+      "snippet": {
+        "videoId": "1EYUbDsAubo",
+        "textDisplay": "Bro your frame rate is awful, what are you playing on \ud83d\ude05",
+        "textOriginal": "Bro your frame rate is awful, what are you playing on \ud83d\ude05",
+        "authorDisplayName": "Ashton Dwyer",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQe5iicW3mDsUz-7xsMxkBcTp1wpfoFytLNgidUGQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuyo3OnkUd-IVuNPT4-ew2w",
+        "authorChannelId": {
+          "value": "UCuyo3OnkUd-IVuNPT4-ew2w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-25T10:35:44Z",
+        "updatedAt": "2021-07-25T10:35:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "N2h38ETmD4oUuexkOy2UDLqkUl4",
+      "id": "UgwHPR-nwAGglZQkTXx4AaABAg.9QDJcOj7rVT9QE6paLa_J0",
+      "snippet": {
+        "textDisplay": "I'm on Ps4 and luckily I don't have that issue.",
+        "textOriginal": "I'm on Ps4 and luckily I don't have that issue.",
+        "parentId": "UgwHPR-nwAGglZQkTXx4AaABAg",
+        "authorDisplayName": "Patrick D",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWeoQxwhtdyzAEsn8vvHgYr7CuhGgBiuBSXXW81A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbIcXy8DicGrXDJojV036sw",
+        "authorChannelId": {
+          "value": "UCbIcXy8DicGrXDJojV036sw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-25T18:03:10Z",
+        "updatedAt": "2021-07-25T18:03:10Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "N2oFbRvo-noZmNm5mRQXnA-kyjU",
+      "id": "UgwHPR-nwAGglZQkTXx4AaABAg.9QDJcOj7rVT9QDf_xJgaus",
+      "snippet": {
+        "textDisplay": "PS4 bro!",
+        "textOriginal": "PS4 bro!",
+        "parentId": "UgwHPR-nwAGglZQkTXx4AaABAg",
+        "authorDisplayName": "Kree",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQUNerf4u_kWMYG_Dpdc31ZG_ZjrdlDW29U5P959w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCL9WPYEJCUaf4NFBwPXBHuQ",
+        "authorChannelId": {
+          "value": "UCL9WPYEJCUaf4NFBwPXBHuQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-25T13:56:22Z",
+        "updatedAt": "2021-07-25T13:56:22Z"
+      }
+    }
+  ]
+}

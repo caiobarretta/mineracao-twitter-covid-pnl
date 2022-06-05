@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bRa-UNvO05YUCN0faLAus0VxEl4",
+  "id": "UgylW2gdN9X7QxhvKJF4AaABAg",
+  "snippet": {
+    "videoId": "Hk3_uNyBd0c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ykEMJJgElZveTUlSOtra_xaur4k",
+      "id": "UgylW2gdN9X7QxhvKJF4AaABAg",
+      "snippet": {
+        "videoId": "Hk3_uNyBd0c",
+        "textDisplay": "U\u00e9  ? Mas n\u00e3o s\u00e3o os fod\u00e3o?",
+        "textOriginal": "U\u00e9  ? Mas n\u00e3o s\u00e3o os fod\u00e3o?",
+        "authorDisplayName": "EFS F",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ24kcWc4uMhDEKNAeSPYuug7VnWhHBk7f9Mg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSLY3GYifXE-qLdJfCGMJFA",
+        "authorChannelId": {
+          "value": "UCSLY3GYifXE-qLdJfCGMJFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-22T16:18:23Z",
+        "updatedAt": "2020-06-22T16:18:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i1RGb0hBc7Nu3DbjfLcAWTeuTo0",
+      "id": "UgylW2gdN9X7QxhvKJF4AaABAg.9AD6SpGzDHP9LDBspXqIxz",
+      "snippet": {
+        "textDisplay": "S\u00e3o os empres\u00e1rios que mais geram empregos... d\u00e3aaa \ud83e\udd2a.",
+        "textOriginal": "S\u00e3o os empres\u00e1rios que mais geram empregos... d\u00e3aaa \ud83e\udd2a.",
+        "parentId": "UgylW2gdN9X7QxhvKJF4AaABAg",
+        "authorDisplayName": "Ivie Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AVuIYJDixrAPw-b2BrSDuff_tNipTGgaNEF7wWlrwryX2LSsA7PuT6XgGiX9Fcg3CW77Hu_KQA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnzbjACUqUPVRkp9dLyePPg",
+        "authorChannelId": {
+          "value": "UCnzbjACUqUPVRkp9dLyePPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-23T02:51:06Z",
+        "updatedAt": "2021-03-23T02:51:23Z"
+      }
+    }
+  ]
+}

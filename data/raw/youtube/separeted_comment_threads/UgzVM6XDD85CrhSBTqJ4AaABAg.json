@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RMUM1jDNouGFz1JAUbV4CDeDedg",
+  "id": "UgzVM6XDD85CrhSBTqJ4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "TNcUfa08INQAXfNKkyFTYfzPlxc",
+      "id": "UgzVM6XDD85CrhSBTqJ4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Amei. Facilitou muito \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "textOriginal": "Amei. Facilitou muito \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "authorDisplayName": "Leticia Barbosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRDgWZ6058mV5kCtQvr91hkE_wQrwetUWNeHdSS=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXYmMoP4CVWMC0yDSLPQ5_A",
+        "authorChannelId": {
+          "value": "UCXYmMoP4CVWMC0yDSLPQ5_A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-09-20T21:55:23Z",
+        "updatedAt": "2021-09-20T21:55:23Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wkt72Rg8kjRnfF0dTP0z1cujzoE",
+      "id": "UgzVM6XDD85CrhSBTqJ4AaABAg.9SXIiGBMMW59SXa8strXU1",
+      "snippet": {
+        "textDisplay": "Obg Let\u00edcia. Ficamos felizes em facilitar.",
+        "textOriginal": "Obg Let\u00edcia. Ficamos felizes em facilitar.",
+        "parentId": "UgzVM6XDD85CrhSBTqJ4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-09-21T00:36:27Z",
+        "updatedAt": "2021-09-21T00:36:27Z"
+      }
+    }
+  ]
+}

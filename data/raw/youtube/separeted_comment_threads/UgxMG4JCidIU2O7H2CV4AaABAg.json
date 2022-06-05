@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "iO3dyPaz9BGKOejTDJBExs5Jkzc",
+  "id": "UgxMG4JCidIU2O7H2CV4AaABAg",
+  "snippet": {
+    "videoId": "-usJVjwVFDM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "xqUBeteR7fVgdb5AWrvu6Je1C4s",
+      "id": "UgxMG4JCidIU2O7H2CV4AaABAg",
+      "snippet": {
+        "videoId": "-usJVjwVFDM",
+        "textDisplay": "Bom dia lindona \ud83d\ude0d\ud83d\ude18\ud83c\udf39\ud83c\udf3b",
+        "textOriginal": "Bom dia lindona \ud83d\ude0d\ud83d\ude18\ud83c\udf39\ud83c\udf3b",
+        "authorDisplayName": "Telma Rocha V\u00eddeo Aulas.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/n3FLHaqJZhQ9GvBUw3qbj7lVZNeAgFdY7BFpW4pm90IVDmLoYQIhaCoZrZKvwdttvaExIsoQ8g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUB9ValL0aKjfK5Cuu_zjhg",
+        "authorChannelId": {
+          "value": "UCUB9ValL0aKjfK5Cuu_zjhg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-04-12T14:17:32Z",
+        "updatedAt": "2021-04-12T14:17:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8fdAcMqpvAsubsBCvj12rfpGvCo",
+      "id": "UgxMG4JCidIU2O7H2CV4AaABAg.9M1vKxkAQ0w9M1w2cX32qs",
+      "snippet": {
+        "textDisplay": "Bom diaaa!\ud83e\udd70\ud83d\ude18",
+        "textOriginal": "Bom diaaa!\ud83e\udd70\ud83d\ude18",
+        "parentId": "UgxMG4JCidIU2O7H2CV4AaABAg",
+        "authorDisplayName": "Lado B da Noruega",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/U1USbUDUwkhhVVlOVbIbMKpNx0FOK2QEzi1xeYs7t6CMt5qI9vbZ6_ftSFy76cb27STvVqFG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMu22I5cZWwq5ZvUOXULLgQ",
+        "authorChannelId": {
+          "value": "UCMu22I5cZWwq5ZvUOXULLgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-12T14:23:46Z",
+        "updatedAt": "2021-04-12T14:52:32Z"
+      }
+    }
+  ]
+}

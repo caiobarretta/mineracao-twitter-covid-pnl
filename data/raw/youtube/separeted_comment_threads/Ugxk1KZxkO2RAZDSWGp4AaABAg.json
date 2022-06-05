@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DVLYSTTJYC1K6uDlNyhV-3gQ61E",
+  "id": "Ugxk1KZxkO2RAZDSWGp4AaABAg",
+  "snippet": {
+    "videoId": "ztD6FExoBmg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4Mg1G621HBPpuRKmwR4-OAFJwSI",
+      "id": "Ugxk1KZxkO2RAZDSWGp4AaABAg",
+      "snippet": {
+        "videoId": "ztD6FExoBmg",
+        "textDisplay": "Eu vou por volta das 20:0, 21:00.",
+        "textOriginal": "Eu vou por volta das 20:0, 21:00.",
+        "authorDisplayName": "Diego P.N.",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSij6OliFQ8kBGB__bj77VfDVx2stDvz1nE0oUFmy8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIyUdKQjBk_Te72nl56sDqQ",
+        "authorChannelId": {
+          "value": "UCIyUdKQjBk_Te72nl56sDqQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-08T22:41:50Z",
+        "updatedAt": "2020-03-08T22:41:50Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "xdd389tHcoYTuCJWemelz4B4ffk",
+      "id": "Ugxk1KZxkO2RAZDSWGp4AaABAg.95xr4a2mLfc96Dasrts4Ln",
+      "snippet": {
+        "textDisplay": "Fiquei confuso.. Acho q nau \u00f1 entendi \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+        "textOriginal": "Fiquei confuso.. Acho q nau \u00f1 entendi \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+        "parentId": "Ugxk1KZxkO2RAZDSWGp4AaABAg",
+        "authorDisplayName": "Vamos Fugir Blog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8zt4n0G65CR8UiYAMNItKMYcLeqoxcwDHbhIhBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCngY-0fPeVYo-TdIBmj-hGg",
+        "authorChannelId": {
+          "value": "UCngY-0fPeVYo-TdIBmj-hGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-03-15T10:47:23Z",
+        "updatedAt": "2020-03-15T10:47:23Z"
+      }
+    }
+  ]
+}

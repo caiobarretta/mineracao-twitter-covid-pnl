@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "U78O-lXinY_iWtkOdyDTPM4xzYc",
+  "id": "Ugye-DjWtfsiEzSj5oV4AaABAg",
+  "snippet": {
+    "videoId": "8NvfS4KQ0t0",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "9juGE_SLGOa9k6ERf6JAcQqpLeI",
+      "id": "Ugye-DjWtfsiEzSj5oV4AaABAg",
+      "snippet": {
+        "videoId": "8NvfS4KQ0t0",
+        "textDisplay": "Zorrrr\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude06",
+        "textOriginal": "Zorrrr\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude06",
+        "authorDisplayName": "Hello Newman",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS98iziN0k3bE3VWM5lrLJlkcCESBcq0NL9TckPrDGBQnuZx5LJ8N6LTu9vprat=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxMsks6IjF-5vUHCEPhHPIw",
+        "authorChannelId": {
+          "value": "UCxMsks6IjF-5vUHCEPhHPIw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-09-28T03:56:07Z",
+        "updatedAt": "2021-09-28T03:56:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "I28Cfq208pAMA_zVOK5MT3eh8iM",
+      "id": "Ugye-DjWtfsiEzSj5oV4AaABAg.9SoyZSNnY-89Sy5BwDYEAy",
+      "snippet": {
+        "textDisplay": "\u0427\u0442\u043e \u0442\u0430\u043c \u043a\u043b\u0430\u0441\u0441\u043d\u043e",
+        "textOriginal": "\u0427\u0442\u043e \u0442\u0430\u043c \u043a\u043b\u0430\u0441\u0441\u043d\u043e",
+        "parentId": "Ugye-DjWtfsiEzSj5oV4AaABAg",
+        "authorDisplayName": "Javoxir Soibjonov",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzyC6sD6C-6BHqnUa6FfVRcCcb6HLyGvRmWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNgCl6YVZRghhzETt-XRMDA",
+        "authorChannelId": {
+          "value": "UCNgCl6YVZRghhzETt-XRMDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-01T16:55:59Z",
+        "updatedAt": "2021-10-01T16:55:59Z"
+      }
+    }
+  ]
+}

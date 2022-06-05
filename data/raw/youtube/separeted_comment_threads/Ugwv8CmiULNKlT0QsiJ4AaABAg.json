@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qOzEJ7GhcIkOJO-s591hlJWNLDg",
+  "id": "Ugwv8CmiULNKlT0QsiJ4AaABAg",
+  "snippet": {
+    "videoId": "450EHuWhxww",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "dK7mx-pYqlVlOv0eJEEt1iyB8e4",
+      "id": "Ugwv8CmiULNKlT0QsiJ4AaABAg",
+      "snippet": {
+        "videoId": "450EHuWhxww",
+        "textDisplay": "Velho gag\u00e1!\"Eu n\u00e3o vou enganar o povo mais uma vez\".kkk",
+        "textOriginal": "Velho gag\u00e1!\"Eu n\u00e3o vou enganar o povo mais uma vez\".kkk",
+        "authorDisplayName": "Sidney Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIRcDiXUJ8oHzdEiW-qtUvsMvqwMMe7iDgHms5Ag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqa7Q6JCCvACP34CURB6UAQ",
+        "authorChannelId": {
+          "value": "UCqa7Q6JCCvACP34CURB6UAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2021-03-11T12:45:41Z",
+        "updatedAt": "2021-03-11T12:45:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "l7hYq-B_qPuy2psOhIAnJSyd8wo",
+      "id": "Ugwv8CmiULNKlT0QsiJ4AaABAg.9KkMO9r7Xda9Myn_TEhVxN",
+      "snippet": {
+        "textDisplay": "@Janaina Rodrigues dos Santos verdade.",
+        "textOriginal": "@Janaina Rodrigues dos Santos verdade.",
+        "parentId": "Ugwv8CmiULNKlT0QsiJ4AaABAg",
+        "authorDisplayName": "Sidney Ribeiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSIRcDiXUJ8oHzdEiW-qtUvsMvqwMMe7iDgHms5Ag=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqa7Q6JCCvACP34CURB6UAQ",
+        "authorChannelId": {
+          "value": "UCqa7Q6JCCvACP34CURB6UAQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-05T20:24:11Z",
+        "updatedAt": "2021-05-05T20:24:11Z"
+      }
+    }
+  ]
+}

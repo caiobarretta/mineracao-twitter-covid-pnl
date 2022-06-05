@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VD4Gvkdk0MI46OL5PwvC96h80JE",
+  "id": "UgzdcaW-th9BRgtFUKx4AaABAg",
+  "snippet": {
+    "videoId": "KNEd7u5NceU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "QUQ9-mZGSiNpHaI5gkpVuYhhpFg",
+      "id": "UgzdcaW-th9BRgtFUKx4AaABAg",
+      "snippet": {
+        "videoId": "KNEd7u5NceU",
+        "textDisplay": "#forabolsonaro...",
+        "textOriginal": "#forabolsonaro...",
+        "authorDisplayName": "Mag Games",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShy7BUFAHz0EG81HgFcDtHuiAaem6nV7j2s5ZT=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeClaz4pAxODLA9aF5aSQDA",
+        "authorChannelId": {
+          "value": "UCeClaz4pAxODLA9aF5aSQDA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-01-26T17:24:58Z",
+        "updatedAt": "2022-01-26T17:24:58Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "cAN9FaIatPbqn_z_MJkSGjf2vfM",
+      "id": "UgzdcaW-th9BRgtFUKx4AaABAg.9XfPWbp8DID9Xm_Q_xeTnV",
+      "snippet": {
+        "textDisplay": "Bolsonaro 2022 \ud83c\udde7\ud83c\uddf7\ud83d\ude18",
+        "textOriginal": "Bolsonaro 2022 \ud83c\udde7\ud83c\uddf7\ud83d\ude18",
+        "parentId": "UgzdcaW-th9BRgtFUKx4AaABAg",
+        "authorDisplayName": "Rafael Mesquita",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjitaXIMhU7Jo7Z5mHnqgIj7CGZEtDKF9jXkoC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqpUvq1clKpW8AxHpApcQeA",
+        "authorChannelId": {
+          "value": "UCqpUvq1clKpW8AxHpApcQeA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-01-29T12:14:57Z",
+        "updatedAt": "2022-01-29T12:14:57Z"
+      }
+    }
+  ]
+}

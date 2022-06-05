@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "o_-ukNsKcN_cJCPHUJkYBvFtsoA",
+  "id": "UgzCvAvPp1DBbwkpH7x4AaABAg",
+  "snippet": {
+    "videoId": "NjnYx7Qyj0M",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1jz3mXK2WXfwR89O_qtQEDeKaFw",
+      "id": "UgzCvAvPp1DBbwkpH7x4AaABAg",
+      "snippet": {
+        "videoId": "NjnYx7Qyj0M",
+        "textDisplay": "Well I hope Santa shares his secret to inmunity LOL",
+        "textOriginal": "Well I hope Santa shares his secret to inmunity LOL",
+        "authorDisplayName": "Samantha Marcenaro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSFAc-EIL5WMC48I670JGGdItmjOCubt7p_4rCBr74=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7Owo2EOUQ0kqwYfuvqlLuw",
+        "authorChannelId": {
+          "value": "UC7Owo2EOUQ0kqwYfuvqlLuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2020-12-24T23:16:30Z",
+        "updatedAt": "2020-12-24T23:16:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "yYXKbn8IUvMYFtUyLfTLvSvTvE4",
+      "id": "UgzCvAvPp1DBbwkpH7x4AaABAg.9HfDN4FJCzY9HnK8lICX2H",
+      "snippet": {
+        "textDisplay": "Hahahaaa",
+        "textOriginal": "Hahahaaa",
+        "parentId": "UgzCvAvPp1DBbwkpH7x4AaABAg",
+        "authorDisplayName": "Johnson Adu-Afriyie",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLREj3L9_wTlEeVSBvb0K2Ag1LkpI0SIqModx1SRqfA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDnUZReRdyB2845n9tDPmPg",
+        "authorChannelId": {
+          "value": "UCDnUZReRdyB2845n9tDPmPg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-28T02:49:38Z",
+        "updatedAt": "2020-12-28T02:49:38Z"
+      }
+    }
+  ]
+}

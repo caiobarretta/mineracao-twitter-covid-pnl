@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "7vLU6yf4ghXktDls-sqN5j01qPc",
+  "id": "UgwnLScZMY8-pWEjUGF4AaABAg",
+  "snippet": {
+    "videoId": "-usJVjwVFDM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3-2gF5bY3ScflPnmdmexuZLd2nM",
+      "id": "UgwnLScZMY8-pWEjUGF4AaABAg",
+      "snippet": {
+        "videoId": "-usJVjwVFDM",
+        "textDisplay": "Boa tarde  de Portugal.",
+        "textOriginal": "Boa tarde  de Portugal.",
+        "authorDisplayName": "Francisca Gon\u00e7alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSvefdfeB80vXw7Irt2j-jfgvOzjKReDE7CPw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAswxoCripQGJC-gZAKWcig",
+        "authorChannelId": {
+          "value": "UCAswxoCripQGJC-gZAKWcig"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-04-12T15:24:44Z",
+        "updatedAt": "2021-04-12T15:24:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "DKHtUd7W_PmluHKx1tKP-OTIM00",
+      "id": "UgwnLScZMY8-pWEjUGF4AaABAg.9M2217JQxrf9M239H_Yyvh",
+      "snippet": {
+        "textDisplay": "Boa tarde lindona! \ud83d\ude18\ud83d\ude0d",
+        "textOriginal": "Boa tarde lindona! \ud83d\ude18\ud83d\ude0d",
+        "parentId": "UgwnLScZMY8-pWEjUGF4AaABAg",
+        "authorDisplayName": "Lado B da Noruega",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/U1USbUDUwkhhVVlOVbIbMKpNx0FOK2QEzi1xeYs7t6CMt5qI9vbZ6_ftSFy76cb27STvVqFG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMu22I5cZWwq5ZvUOXULLgQ",
+        "authorChannelId": {
+          "value": "UCMu22I5cZWwq5ZvUOXULLgQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-12T15:34:35Z",
+        "updatedAt": "2021-04-12T15:34:35Z"
+      }
+    }
+  ]
+}

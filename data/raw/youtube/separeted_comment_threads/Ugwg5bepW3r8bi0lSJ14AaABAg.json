@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RhDpOQ7lzvdMa_dUim1VQVB2r8g",
+  "id": "Ugwg5bepW3r8bi0lSJ14AaABAg",
+  "snippet": {
+    "videoId": "PTPw-XKfAi8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ElnJ_uElQElmjApLyf7cfb4aclY",
+      "id": "Ugwg5bepW3r8bi0lSJ14AaABAg",
+      "snippet": {
+        "videoId": "PTPw-XKfAi8",
+        "textDisplay": "My heart is with you...\ud83d\ude22\ud83d\ude37\u270a\ud83d\udc94",
+        "textOriginal": "My heart is with you...\ud83d\ude22\ud83d\ude37\u270a\ud83d\udc94",
+        "authorDisplayName": "Chris Seupe",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRO5ESnVY7PMqLKrzO0imbKRmcj-jhGgt4NtejPGw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrdIbnXjZAfbnYF-hXKUxJA",
+        "authorChannelId": {
+          "value": "UCrdIbnXjZAfbnYF-hXKUxJA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-05-03T08:03:18Z",
+        "updatedAt": "2021-05-03T08:03:18Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "kpd6-mtm0KPPtSRjdMw68XqwrNs",
+      "id": "Ugwg5bepW3r8bi0lSJ14AaABAg.9MsKCOManZ59UeDK8BPMR5",
+      "snippet": {
+        "textDisplay": "Yg",
+        "textOriginal": "Yg",
+        "parentId": "Ugwg5bepW3r8bi0lSJ14AaABAg",
+        "authorDisplayName": "Mala Ganguly",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUGXtqJ9faPmJRHSclQiWLwhR5_ziD808KBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCb9_4cFQ-Y0hG7hXEPk5Vwg",
+        "authorChannelId": {
+          "value": "UCb9_4cFQ-Y0hG7hXEPk5Vwg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-12T16:44:59Z",
+        "updatedAt": "2021-11-12T16:44:59Z"
+      }
+    }
+  ]
+}

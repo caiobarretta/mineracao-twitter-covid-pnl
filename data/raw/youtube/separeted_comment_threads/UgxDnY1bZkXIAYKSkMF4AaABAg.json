@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "k-SCD--R9eGkYSl_R21g-6a5AGc",
+  "etag": "B9LhRvjsrXacvS1R6IocvBRLGog",
   "id": "UgxDnY1bZkXIAYKSkMF4AaABAg",
   "snippet": {
     "videoId": "jATYbmGBBYc",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "S3JcPjC443HmriYLbbzr-4gp5sM",
+      "etag": "EP7kuOUeM0NyjiosxKCop-YKtzA",
       "id": "UgxDnY1bZkXIAYKSkMF4AaABAg",
       "snippet": {
         "videoId": "jATYbmGBBYc",
@@ -20,36 +20,14 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 31,
+        "likeCount": 28,
         "publishedAt": "2022-05-09T01:09:04Z",
         "updatedAt": "2022-05-09T01:09:04Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 1,
+    "totalReplyCount": 0,
     "isPublic": true
   },
-  "comments": [
-    {
-      "kind": "youtube#comment",
-      "etag": "igbAWNbPUJi50xpcOI8u3A4JH0E",
-      "id": "UgxDnY1bZkXIAYKSkMF4AaABAg.9amshzPJ0029aoTW5ykY7O",
-      "snippet": {
-        "textDisplay": "Proof of virus?",
-        "textOriginal": "Proof of virus?",
-        "parentId": "UgxDnY1bZkXIAYKSkMF4AaABAg",
-        "authorDisplayName": "eclipse369",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/5wL35_6rbQN7Y_7SMpAdaJQhayfzWclmLLnYQ98x5liPtAtLYqa_aG7d39uInceIheBB758q=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCXyDC-2ydR54v6rll1HG7-A",
-        "authorChannelId": {
-          "value": "UCXyDC-2ydR54v6rll1HG7-A"
-        },
-        "canRate": true,
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-05-09T15:58:35Z",
-        "updatedAt": "2022-05-09T15:58:35Z"
-      }
-    }
-  ]
+  "comments": []
 }

@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "OTNNpMIz_14r3km9qFY6YWAr-To",
+  "id": "UgwSUcnIu5csRMvCZO94AaABAg",
+  "snippet": {
+    "videoId": "rFWLQOuk8kE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "acb2XrLTE-8-DNr5J9yDKunnVLk",
+      "id": "UgwSUcnIu5csRMvCZO94AaABAg",
+      "snippet": {
+        "videoId": "rFWLQOuk8kE",
+        "textDisplay": "Vc \u00e9 muito linda....",
+        "textOriginal": "Vc \u00e9 muito linda....",
+        "authorDisplayName": "Fatima Cabral",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGlwuiPrbsFjrWWm5pdIuqtYjm7R7Ab6uYGg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCShhXvkVXPy187K-AE-8cHw",
+        "authorChannelId": {
+          "value": "UCShhXvkVXPy187K-AE-8cHw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-05-28T00:12:12Z",
+        "updatedAt": "2021-05-28T00:12:12Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "lzVujh_wHMiAaeDXZDGcL3OIouI",
+      "id": "UgwSUcnIu5csRMvCZO94AaABAg.9Nrr9puhVLY9PxHKh_TBWu",
+      "snippet": {
+        "textDisplay": "Kkk",
+        "textOriginal": "Kkk",
+        "parentId": "UgwSUcnIu5csRMvCZO94AaABAg",
+        "authorDisplayName": "Tahyla Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3HpPC6hcOVkx1-BQ9szn4y3337UwHBSFsxkad=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwgJlzMObgfgrWabb1YSisg",
+        "authorChannelId": {
+          "value": "UCwgJlzMObgfgrWabb1YSisg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-18T19:48:37Z",
+        "updatedAt": "2021-07-18T19:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "mwLCjHFWtMIo6xqe4ZjLw0xrK4s",
+      "id": "UgwSUcnIu5csRMvCZO94AaABAg.9Nrr9puhVLY9OrL6lao-by",
+      "snippet": {
+        "textDisplay": "? Mds",
+        "textOriginal": "? Mds",
+        "parentId": "UgwSUcnIu5csRMvCZO94AaABAg",
+        "authorDisplayName": "VZzin 10",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Lv3-8omLdF_uWQeUcLxehrrQm7iM_kYpc3l7lK5ULFikuS5B9pO8GaOIEkcAXKdnouaoVRWl2w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWwGqXY3lRlg3vLLaYiHIzg",
+        "authorChannelId": {
+          "value": "UCWwGqXY3lRlg3vLLaYiHIzg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-06-21T15:54:49Z",
+        "updatedAt": "2021-06-21T15:54:49Z"
+      }
+    }
+  ]
+}

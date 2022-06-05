@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "_ho2VPoU8bMmenZU3_oAi_3scAg",
+  "id": "UgyV5XNpBOPaglj7RuN4AaABAg",
+  "snippet": {
+    "videoId": "aNFZxXCsS4o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "XthHFK2Yn37l7gsP5wrrmjPfd1w",
+      "id": "UgyV5XNpBOPaglj7RuN4AaABAg",
+      "snippet": {
+        "videoId": "aNFZxXCsS4o",
+        "textDisplay": "Valeu prof",
+        "textOriginal": "Valeu prof",
+        "authorDisplayName": "Fl\u00e1via",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBjl6xl0nPisvhMdFCI-Fuzcc4MWFApedBPSE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClqM0oDQ9ZBdB7nmvmlc57w",
+        "authorChannelId": {
+          "value": "UClqM0oDQ9ZBdB7nmvmlc57w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-03-25T13:13:40Z",
+        "updatedAt": "2021-03-25T13:13:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "7bGsPbCvdeSPmM8Q80qxRrBhZ3c",
+      "id": "UgyV5XNpBOPaglj7RuN4AaABAg.9LJSiRw5yCx9Lq7hnroCas",
+      "snippet": {
+        "textDisplay": "Por nada, qual concurso voc\u00ea vai fazer? Sucesso, desejo que seja aprovada!",
+        "textOriginal": "Por nada, qual concurso voc\u00ea vai fazer? Sucesso, desejo que seja aprovada!",
+        "parentId": "UgyV5XNpBOPaglj7RuN4AaABAg",
+        "authorDisplayName": "Professor Tiago Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSysqkyXpDo1mTXNlPq1rIYveXWDIFXZQ8NTHsxVg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMIAzvrCpApjss0Gwd0u0kQ",
+        "authorChannelId": {
+          "value": "UCMIAzvrCpApjss0Gwd0u0kQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-07T15:04:15Z",
+        "updatedAt": "2021-04-07T15:04:15Z"
+      }
+    }
+  ]
+}

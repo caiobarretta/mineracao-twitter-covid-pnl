@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "YMIUzhlPilVveWgKj5GlecN4iNE",
+  "id": "UgzSCY4h2CULUyG0qwJ4AaABAg",
+  "snippet": {
+    "videoId": "nIGWKbUVP3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "A23bYbjL8Yfkw0aGwuQkZ8feWyw",
+      "id": "UgzSCY4h2CULUyG0qwJ4AaABAg",
+      "snippet": {
+        "videoId": "nIGWKbUVP3I",
+        "textDisplay": "Que cabelo lindo \ud83d\ude0d\ud83d\ude0d Vem pro Brasil Fernanda \ud83d\udc9f\ud83d\udc9f",
+        "textOriginal": "Que cabelo lindo \ud83d\ude0d\ud83d\ude0d Vem pro Brasil Fernanda \ud83d\udc9f\ud83d\udc9f",
+        "authorDisplayName": "Laila Rosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcNOdIGFB4Aca4Iwku6gdiHAOSq7ySZjchX5dX=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdTUheiOcOkWyk4-xvikKaA",
+        "authorChannelId": {
+          "value": "UCdTUheiOcOkWyk4-xvikKaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-07-28T00:00:03Z",
+        "updatedAt": "2020-07-28T00:00:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "JATyxTOVpUx-F9egp-Yj64FkWPk",
+      "id": "UgzSCY4h2CULUyG0qwJ4AaABAg.9Bd36p0qrPl9Bd92G8YpOY",
+      "snippet": {
+        "textDisplay": "Um dia minha querida \u2764\ud83d\ude4f",
+        "textOriginal": "Um dia minha querida \u2764\ud83d\ude4f",
+        "parentId": "UgzSCY4h2CULUyG0qwJ4AaABAg",
+        "authorDisplayName": "Fernanda Aiuba",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yLtlO58KyQt2wvRNTAvObBcT8-dOPiriLSq__Fp5s-5hvMBjQsoh2QIszqkqjISBYd0m245I3uE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4nwCGlCqH4kSsiiKvLFFvA",
+        "authorChannelId": {
+          "value": "UC4nwCGlCqH4kSsiiKvLFFvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-28T00:51:51Z",
+        "updatedAt": "2020-07-28T00:51:51Z"
+      }
+    }
+  ]
+}

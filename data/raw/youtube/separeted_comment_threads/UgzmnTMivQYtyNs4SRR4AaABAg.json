@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "8TEa9Kx_ZvPx23suSb9cYZFNEM4",
+  "id": "UgzmnTMivQYtyNs4SRR4AaABAg",
+  "snippet": {
+    "videoId": "i63tpRMkxzs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7dGsD2B3xaH43xEs7koMbsG_on0",
+      "id": "UgzmnTMivQYtyNs4SRR4AaABAg",
+      "snippet": {
+        "videoId": "i63tpRMkxzs",
+        "textDisplay": "Dr.Moacir , um forte abra\u00e7o!",
+        "textOriginal": "Dr.Moacir , um forte abra\u00e7o!",
+        "authorDisplayName": "Heide Marques",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTUXL6WOih6ypKlqAmNZgpHspxxZ82zA3YaLRcSTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxEeGL8Te45LNP5JfpPKNdg",
+        "authorChannelId": {
+          "value": "UCxEeGL8Te45LNP5JfpPKNdg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-24T21:31:32Z",
+        "updatedAt": "2022-05-24T21:31:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "sgKAXXdGoyJbBkF0FUwIwX-_LRk",
+      "id": "UgzmnTMivQYtyNs4SRR4AaABAg.9bQgXlvX-JH9bRWlOO-oLi",
+      "snippet": {
+        "textDisplay": "Um abra\u00e7o querida",
+        "textOriginal": "Um abra\u00e7o querida",
+        "parentId": "UgzmnTMivQYtyNs4SRR4AaABAg",
+        "authorDisplayName": "Carlos Milheiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS389EQvtR9JjpoI4zOjQAlvIdA5HntxxPYaqbFAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLyT_hct1PK2SS4Mby5pbOg",
+        "authorChannelId": {
+          "value": "UCLyT_hct1PK2SS4Mby5pbOg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T05:16:39Z",
+        "updatedAt": "2022-05-25T05:16:39Z"
+      }
+    }
+  ]
+}

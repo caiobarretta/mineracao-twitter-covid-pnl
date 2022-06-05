@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZlMzbWdvFB0wHbOXMoWukBeRJA4",
+  "id": "Ugxe8YQgqgtmRo4lbOp4AaABAg",
+  "snippet": {
+    "videoId": "nHI3EHCOBGI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UJeNjPqXAR8uAs6eit9V4IwE9pI",
+      "id": "Ugxe8YQgqgtmRo4lbOp4AaABAg",
+      "snippet": {
+        "videoId": "nHI3EHCOBGI",
+        "textDisplay": "Ela voltou a dividir apartamento?",
+        "textOriginal": "Ela voltou a dividir apartamento?",
+        "authorDisplayName": "Marlen Luavanny",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTPUB_OY1XvQEF40awiBHd_Kkq8-MRtYa8BW5hh1Yw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC-6COqOLLWBEIh6yAcDSayw",
+        "authorChannelId": {
+          "value": "UC-6COqOLLWBEIh6yAcDSayw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-14T19:36:40Z",
+        "updatedAt": "2020-04-14T19:36:40Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SDgDc2LNGYBsxvc96moOXUJ5d7Q",
+      "id": "Ugxe8YQgqgtmRo4lbOp4AaABAg.97RnIksmq_w97RugXkxNAS",
+      "snippet": {
+        "textDisplay": "Mora com o marido",
+        "textOriginal": "Mora com o marido",
+        "parentId": "Ugxe8YQgqgtmRo4lbOp4AaABAg",
+        "authorDisplayName": "Paula",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVLgffhQRmWrL6OYoctugP9mRxP57pqmnfIv1k_-upWnCm1x37F3VbzdbGsLt5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC3AUOJDQi2iCjUdNQTQIteQ",
+        "authorChannelId": {
+          "value": "UC3AUOJDQi2iCjUdNQTQIteQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-14T20:41:13Z",
+        "updatedAt": "2020-04-14T20:41:13Z"
+      }
+    }
+  ]
+}

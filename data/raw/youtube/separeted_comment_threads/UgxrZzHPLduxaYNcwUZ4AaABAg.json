@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eMi2BWf3Aa9VMpriW229SUgTwsA",
+  "id": "UgxrZzHPLduxaYNcwUZ4AaABAg",
+  "snippet": {
+    "videoId": "nIGWKbUVP3I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "mZIyJ-3YHkU78W8aH38zeQ8Nx90",
+      "id": "UgxrZzHPLduxaYNcwUZ4AaABAg",
+      "snippet": {
+        "videoId": "nIGWKbUVP3I",
+        "textDisplay": "Boa noite Fernanda! Aqui tamb\u00e9m tem estados que a sa\u00fade \u00e9 prec\u00e1ria.",
+        "textOriginal": "Boa noite Fernanda! Aqui tamb\u00e9m tem estados que a sa\u00fade \u00e9 prec\u00e1ria.",
+        "authorDisplayName": "Shirley Colheita Feliz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSU4tTgha2hRw3mnoEFb3szH_gKTSihdX8lt3Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjVR2Sluu7DA8r-Toh7rvQg",
+        "authorChannelId": {
+          "value": "UCjVR2Sluu7DA8r-Toh7rvQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2020-07-28T00:27:41Z",
+        "updatedAt": "2020-07-28T00:27:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "eTueziZ58azt36cdwkaJtn2C5HU",
+      "id": "UgxrZzHPLduxaYNcwUZ4AaABAg.9Bd6H903b0U9Bd9t3eZI-p",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "textOriginal": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "parentId": "UgxrZzHPLduxaYNcwUZ4AaABAg",
+        "authorDisplayName": "Fernanda Aiuba",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yLtlO58KyQt2wvRNTAvObBcT8-dOPiriLSq__Fp5s-5hvMBjQsoh2QIszqkqjISBYd0m245I3uE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4nwCGlCqH4kSsiiKvLFFvA",
+        "authorChannelId": {
+          "value": "UC4nwCGlCqH4kSsiiKvLFFvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-07-28T00:59:12Z",
+        "updatedAt": "2020-07-28T00:59:12Z"
+      }
+    }
+  ]
+}

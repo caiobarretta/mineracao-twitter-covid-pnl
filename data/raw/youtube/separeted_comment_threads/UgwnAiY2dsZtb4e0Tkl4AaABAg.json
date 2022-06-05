@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zCLweE7q1W1vShzzuvudZCrGIBs",
+  "id": "UgwnAiY2dsZtb4e0Tkl4AaABAg",
+  "snippet": {
+    "videoId": "RI1t3y9FhPM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "qAQgfResbLYneFz17fdXoNjAArA",
+      "id": "UgwnAiY2dsZtb4e0Tkl4AaABAg",
+      "snippet": {
+        "videoId": "RI1t3y9FhPM",
+        "textDisplay": "Edaina first Hyderabad ke ravale.. jai Telangana",
+        "textOriginal": "Edaina first Hyderabad ke ravale.. jai Telangana",
+        "authorDisplayName": "Raghavendra Srinivas",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJ-Js7CDy4oe2XTNQbaW22PGyxuRDBTnqx-w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVWDJR2py1fS3Pq2ukYQQrg",
+        "authorChannelId": {
+          "value": "UCVWDJR2py1fS3Pq2ukYQQrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T17:18:19Z",
+        "updatedAt": "2022-05-20T17:18:19Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "IIajT5TIxlyp6KClK1FpZzDyPf4",
+      "id": "UgwnAiY2dsZtb4e0Tkl4AaABAg.9bFwNgf8ul09bG1-oJ-EV0",
+      "snippet": {
+        "textDisplay": "Ktr taypinchadu",
+        "textOriginal": "Ktr taypinchadu",
+        "parentId": "UgwnAiY2dsZtb4e0Tkl4AaABAg",
+        "authorDisplayName": "mystudies 09",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS3bRRjp-vhx8sl3Ku2ndv7NO9p8XhQbc6AOg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMLCKkRQ-c5vWksxFO06GaA",
+        "authorChannelId": {
+          "value": "UCMLCKkRQ-c5vWksxFO06GaA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T18:07:29Z",
+        "updatedAt": "2022-05-20T18:07:29Z"
+      }
+    }
+  ]
+}

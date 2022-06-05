@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "X1oXVFAPgYmjlA-mdkTa3wbFRtM",
+  "id": "Ugw0eX0Xhd9uKgeaa3l4AaABAg",
+  "snippet": {
+    "videoId": "TS0IM54eyR8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "vW5U6Co-HnVNpv3qpkZ-C5Lj-dA",
+      "id": "Ugw0eX0Xhd9uKgeaa3l4AaABAg",
+      "snippet": {
+        "videoId": "TS0IM54eyR8",
+        "textDisplay": "Si es berdad",
+        "textOriginal": "Si es berdad",
+        "authorDisplayName": "jhomar ff",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROseWbOt1cgB8tVsVjkdeei84VGCekC4pHB0_wDFQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxIPy52AdrGecuQ7C67oMSg",
+        "authorChannelId": {
+          "value": "UCxIPy52AdrGecuQ7C67oMSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-01-20T14:41:49Z",
+        "updatedAt": "2021-01-20T14:41:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2tvOY2Y5WsBAJ2MVvDLLnLqjZP0",
+      "id": "Ugw0eX0Xhd9uKgeaa3l4AaABAg.9Ijow01x4-19YTiTNLeFzd",
+      "snippet": {
+        "textDisplay": "Verdad*",
+        "textOriginal": "Verdad*",
+        "parentId": "Ugw0eX0Xhd9uKgeaa3l4AaABAg",
+        "authorDisplayName": "chelita c",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/l2u6RMy_6R761YrTrB7OZrSG20rMXiZD4oAK7lhQpGXXCdfcfhv-FeOtOkOjLWSmCfs9mcRs=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCB_7j9G4tFOwP3CuD6H6ULw",
+        "authorChannelId": {
+          "value": "UCB_7j9G4tFOwP3CuD6H6ULw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-15T15:40:33Z",
+        "updatedAt": "2022-02-15T15:40:33Z"
+      }
+    }
+  ]
+}

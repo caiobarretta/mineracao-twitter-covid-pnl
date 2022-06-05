@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZO1XWwNW7sWGIb3BiMeiDZvwnFQ",
+  "id": "UgwwOt4ed7l1y2oRHcV4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "loDEqRS4nlZmLSZkM7SS7HiHtS4",
+      "id": "UgwwOt4ed7l1y2oRHcV4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "Asane di riuh kopi ne klip ne",
+        "textOriginal": "Asane di riuh kopi ne klip ne",
+        "authorDisplayName": "UFO Eggshells",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYDbVwkXw0atlWP5a4-4dreC4KO1V6d0eMgrhrlJA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC8p3BfyxWPyIWR0N2JsOb3g",
+        "authorChannelId": {
+          "value": "UC8p3BfyxWPyIWR0N2JsOb3g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-17T01:40:21Z",
+        "updatedAt": "2021-10-17T01:40:21Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "WXY56qzab_P23kAT9-GVYWDfK6Q",
+      "id": "UgwwOt4ed7l1y2oRHcV4AaABAg.9T_e7c6YHWh9Tc4sH6UGY0",
+      "snippet": {
+        "textDisplay": "Benar sekali",
+        "textOriginal": "Benar sekali",
+        "parentId": "UgwwOt4ed7l1y2oRHcV4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T00:21:15Z",
+        "updatedAt": "2021-10-18T00:21:15Z"
+      }
+    }
+  ]
+}

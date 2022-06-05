@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "xK_hkrtlXlIj79adZ-QVETDxraU",
+  "id": "UgzPn3ljJ3sa2AMNoql4AaABAg",
+  "snippet": {
+    "videoId": "vEfPBaqvJCc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SsVoUMoKnKEf8PB0rF_Yxgl57E0",
+      "id": "UgzPn3ljJ3sa2AMNoql4AaABAg",
+      "snippet": {
+        "videoId": "vEfPBaqvJCc",
+        "textDisplay": "Rocket man \ud83d\ude80",
+        "textOriginal": "Rocket man \ud83d\ude80",
+        "authorDisplayName": "Jessica \ud83c\udf3b",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/JkmbZwwSW3zqkd7S5ZyRhj7FfbXQSjcOEMOWFIPnU-f-T32qbl-30XJrdOi9-iz47npU8u1DDw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1LGTH8WrGQYakTmA1QLUrA",
+        "authorChannelId": {
+          "value": "UC1LGTH8WrGQYakTmA1QLUrA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-20T05:50:59Z",
+        "updatedAt": "2022-05-20T05:50:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "apYBQ3ZOFTV0IzvYRuhCe-Q7NlU",
+      "id": "UgzPn3ljJ3sa2AMNoql4AaABAg.9bEhiQkITSl9bIdt9RzGP5",
+      "snippet": {
+        "textDisplay": "Si el amor plat\u00f3nico de Trompito. Es tanto as\u00ed que se llevo las cartas de Amor para su casa.",
+        "textOriginal": "Si el amor plat\u00f3nico de Trompito. Es tanto as\u00ed que se llevo las cartas de Amor para su casa.",
+        "parentId": "UgzPn3ljJ3sa2AMNoql4AaABAg",
+        "authorDisplayName": "Luis Colom",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJRxVEiFimz03wy5ty4OE6fX1kdFqmemnhhRXXNt_3R8hQ6_EYIxQ96QMb4yFE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCoFsbrsq4KzruWAzRnBOFnQ",
+        "authorChannelId": {
+          "value": "UCoFsbrsq4KzruWAzRnBOFnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-21T18:34:27Z",
+        "updatedAt": "2022-05-21T18:34:27Z"
+      }
+    }
+  ]
+}

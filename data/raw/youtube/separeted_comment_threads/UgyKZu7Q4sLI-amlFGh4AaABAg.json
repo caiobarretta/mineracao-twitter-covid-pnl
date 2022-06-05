@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "QyHYlfqld8ROyA_NlJBW_QY97iM",
+  "id": "UgyKZu7Q4sLI-amlFGh4AaABAg",
+  "snippet": {
+    "videoId": "6Tb5ysL9Jrg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tMMXAPZMdybaJOz7CjWYPVUP274",
+      "id": "UgyKZu7Q4sLI-amlFGh4AaABAg",
+      "snippet": {
+        "videoId": "6Tb5ysL9Jrg",
+        "textDisplay": "bruh",
+        "textOriginal": "bruh",
+        "authorDisplayName": "1pedrinhoo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQNpfI94WJHrjZ4OZrldXzBc9yPk5pmKTiuDrZ6og=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCcDoMqdTnssX24Q-NnYS6-g",
+        "authorChannelId": {
+          "value": "UCcDoMqdTnssX24Q-NnYS6-g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-19T20:01:30Z",
+        "updatedAt": "2020-04-19T20:01:30Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3_Tg3zTuef1qkFxg9Q_xGClq8Po",
+      "id": "UgyKZu7Q4sLI-amlFGh4AaABAg.97di6whscOf998b2iyiCpT",
+      "snippet": {
+        "textDisplay": "Parab\u00e9ns pelo iniciativa da aula",
+        "textOriginal": "Parab\u00e9ns pelo iniciativa da aula",
+        "parentId": "UgyKZu7Q4sLI-amlFGh4AaABAg",
+        "authorDisplayName": "maria do socorro Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTV03qwSPYb-LVfL92S06kW88Cnq4NoBELpNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBLXNkAqI__4heya3Q7GqCQ",
+        "authorChannelId": {
+          "value": "UCBLXNkAqI__4heya3Q7GqCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-27T01:46:50Z",
+        "updatedAt": "2020-05-27T01:46:50Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "b9zclfkGgMHeZL62VtuHS5_VMcE",
+      "id": "UgyKZu7Q4sLI-amlFGh4AaABAg.97di6whscOf998axioxZuZ",
+      "snippet": {
+        "textDisplay": "Excelente",
+        "textOriginal": "Excelente",
+        "parentId": "UgyKZu7Q4sLI-amlFGh4AaABAg",
+        "authorDisplayName": "maria do socorro Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTV03qwSPYb-LVfL92S06kW88Cnq4NoBELpNA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCBLXNkAqI__4heya3Q7GqCQ",
+        "authorChannelId": {
+          "value": "UCBLXNkAqI__4heya3Q7GqCQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-27T01:46:01Z",
+        "updatedAt": "2020-05-27T01:46:01Z"
+      }
+    }
+  ]
+}

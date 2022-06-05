@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aVN7hQRddTS76WF2AgFvhGb25zg",
+  "id": "Ugw_yrt6YtBa0e2dt1F4AaABAg",
+  "snippet": {
+    "videoId": "O8Bp3osrSQE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ihoqVOm1ukwtgFmHyojpvJ6jQ5M",
+      "id": "Ugw_yrt6YtBa0e2dt1F4AaABAg",
+      "snippet": {
+        "videoId": "O8Bp3osrSQE",
+        "textDisplay": "9 godina od kako su izbacili pesmu i jos uvek bolja od svih ovih novih pesama (gasera)",
+        "textOriginal": "9 godina od kako su izbacili pesmu i jos uvek bolja od svih ovih novih pesama (gasera)",
+        "authorDisplayName": "Docix",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzHUr_SfkJ0KCu--Se09Ed9K9CztDQjQGdK4KN=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCglhsVHca6GKjMu6qcz5m9A",
+        "authorChannelId": {
+          "value": "UCglhsVHca6GKjMu6qcz5m9A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 56,
+        "publishedAt": "2020-04-08T15:26:35Z",
+        "updatedAt": "2020-04-08T15:26:35Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Kz9XmZuPMA01fF0nF7E8l3zFFGY",
+      "id": "Ugw_yrt6YtBa0e2dt1F4AaABAg.97BtupLnmod9Gyuc_Px2yh",
+      "snippet": {
+        "textDisplay": "Slazem se",
+        "textOriginal": "Slazem se",
+        "parentId": "Ugw_yrt6YtBa0e2dt1F4AaABAg",
+        "authorDisplayName": "Jan Vranjes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGPl2P8rcTcgdwaiY2PmvnsvOBPvMAL6owWYfhLA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0bJIXruj0JTABeyqE3xNcg",
+        "authorChannelId": {
+          "value": "UC0bJIXruj0JTABeyqE3xNcg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-12-07T18:17:24Z",
+        "updatedAt": "2020-12-07T18:17:24Z"
+      }
+    }
+  ]
+}

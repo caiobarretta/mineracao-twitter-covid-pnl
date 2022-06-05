@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ofFNkL4qZ1FXB7Bn-1D9HjHKjPw",
+  "id": "Ugzkb1F1wzMiqxpOEPd4AaABAg",
+  "snippet": {
+    "videoId": "ihVD_ogSZVM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IroA3uSz-p5KDu-VcKFk9Fg1QFo",
+      "id": "Ugzkb1F1wzMiqxpOEPd4AaABAg",
+      "snippet": {
+        "videoId": "ihVD_ogSZVM",
+        "textDisplay": "Eu assistir todas as aulas dela no YouTube \u00e9 maravilhosa sabe tudo.",
+        "textOriginal": "Eu assistir todas as aulas dela no YouTube \u00e9 maravilhosa sabe tudo.",
+        "authorDisplayName": "Va Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYCPxZemcDut00LhF5uoM7CaCEUW77OYjI=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_T1RIFN6Xekc2HgYGj81aw",
+        "authorChannelId": {
+          "value": "UC_T1RIFN6Xekc2HgYGj81aw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-07-22T22:46:59Z",
+        "updatedAt": "2021-07-22T22:46:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H7-AkJKsEbUZYt64kMbcNnrQGe8",
+      "id": "Ugzkb1F1wzMiqxpOEPd4AaABAg.9Q6tveey5LS9QVpgd8uATs",
+      "snippet": {
+        "textDisplay": "muito bem explicado. boa sorte  a todos",
+        "textOriginal": "muito bem explicado. boa sorte  a todos",
+        "parentId": "Ugzkb1F1wzMiqxpOEPd4AaABAg",
+        "authorDisplayName": "Tucano - Relaxing Music ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/-6i24B2fvWSQpTyahqNW3JrUrv8N6GiF_axH_cLF6I-4ToJhFdqs6-K0VOk1ISucUus61PEvQg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSPSeXl-_BjA-HBSTI6dVcQ",
+        "authorChannelId": {
+          "value": "UCSPSeXl-_BjA-HBSTI6dVcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-01T15:11:00Z",
+        "updatedAt": "2021-08-01T15:11:00Z"
+      }
+    }
+  ]
+}

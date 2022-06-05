@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RJ8dT424Z-SZW3TT0JXU-Sja6W0",
+  "id": "UgzQyY-MS6bSje3Yy2h4AaABAg",
+  "snippet": {
+    "videoId": "S4QEEbQCjeE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hrma_l0D7P0GSWUzFetqAYXBU2w",
+      "id": "UgzQyY-MS6bSje3Yy2h4AaABAg",
+      "snippet": {
+        "videoId": "S4QEEbQCjeE",
+        "textDisplay": "Os coment\u00e1rios \ud83d\ude33\ud83d\ude33",
+        "textOriginal": "Os coment\u00e1rios \ud83d\ude33\ud83d\ude33",
+        "authorDisplayName": "Gabi Takiguti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRROB_d1_czyYcMvc0_HyQRjyPj8BZ9Ky5eRgGxSw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgmN4MA9hyP3qbCkE5r_zYg",
+        "authorChannelId": {
+          "value": "UCgmN4MA9hyP3qbCkE5r_zYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-23T12:28:07Z",
+        "updatedAt": "2020-10-23T12:28:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-SGSqwL4vLBKxe-ukEMvwfxkceU",
+      "id": "UgzQyY-MS6bSje3Yy2h4AaABAg.9F9PsyKkUay9FCJRjTjBPZ",
+      "snippet": {
+        "textDisplay": "@victor Hugo KKKKKKKKKKKKKKKKK",
+        "textOriginal": "@victor Hugo KKKKKKKKKKKKKKKKK",
+        "parentId": "UgzQyY-MS6bSje3Yy2h4AaABAg",
+        "authorDisplayName": "Gabi Takiguti",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRROB_d1_czyYcMvc0_HyQRjyPj8BZ9Ky5eRgGxSw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCgmN4MA9hyP3qbCkE5r_zYg",
+        "authorChannelId": {
+          "value": "UCgmN4MA9hyP3qbCkE5r_zYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-24T15:29:33Z",
+        "updatedAt": "2020-10-24T15:29:33Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "zGt-2VgF8eKKfQ0C02MjfLbwOMU",
+      "id": "UgzQyY-MS6bSje3Yy2h4AaABAg.9F9PsyKkUay9FCJHIt-Ph0",
+      "snippet": {
+        "textDisplay": "Olha quem eu achei aquiKkkkkkkkk",
+        "textOriginal": "Olha quem eu achei aquiKkkkkkkkk",
+        "parentId": "UgzQyY-MS6bSje3Yy2h4AaABAg",
+        "authorDisplayName": "victor Hugo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqeIs36OqmOqIlajOOwBZblV6JMzg0Y9ZF1DnMLQE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6iKB5A55iCGgzVb7LgUGhQ",
+        "authorChannelId": {
+          "value": "UC6iKB5A55iCGgzVb7LgUGhQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-10-24T15:28:08Z",
+        "updatedAt": "2020-10-24T15:28:08Z"
+      }
+    }
+  ]
+}

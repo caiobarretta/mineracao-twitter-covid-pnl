@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Rs0xGwKemXRu62b5GVl3x7lxYuA",
+  "id": "Ugx-2DLOkFLMCcZQFoZ4AaABAg",
+  "snippet": {
+    "videoId": "03vxzwEQHdU",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6U5B5VuWOLgtnMbndIodJaSZGyc",
+      "id": "Ugx-2DLOkFLMCcZQFoZ4AaABAg",
+      "snippet": {
+        "videoId": "03vxzwEQHdU",
+        "textDisplay": "O qu\u00ea eles acertaram?",
+        "textOriginal": "O qu\u00ea eles acertaram?",
+        "authorDisplayName": "nenen alves",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTILPx0IBaiNaRKwGdcpaIHVJR3_6bqMsd9KnS5=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYC5sYTWgYovf8QvmhO5BCA",
+        "authorChannelId": {
+          "value": "UCYC5sYTWgYovf8QvmhO5BCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-22T21:25:42Z",
+        "updatedAt": "2020-04-22T21:25:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "UBw8aWbDqdaHyysHJvblVxfHXVw",
+      "id": "Ugx-2DLOkFLMCcZQFoZ4AaABAg.97la8Kbd_JL9IVw24AOaGq",
+      "snippet": {
+        "textDisplay": "pela amor seu b",
+        "textOriginal": "pela amor seu b",
+        "parentId": "Ugx-2DLOkFLMCcZQFoZ4AaABAg",
+        "authorDisplayName": "Graciele Duarte",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5S37ZuAmgysIGzqt0EDA7Wlu97VaKg_p7SW6fTw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwnnomIPGMFUdWxPoPswgqA",
+        "authorChannelId": {
+          "value": "UCwnnomIPGMFUdWxPoPswgqA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-01-14T19:55:20Z",
+        "updatedAt": "2021-01-14T19:55:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "R6S6sP8jL3IX9owMq6kU9J2YicI",
+      "id": "Ugx-2DLOkFLMCcZQFoZ4AaABAg.97la8Kbd_JL99CvLx2guVK",
+      "snippet": {
+        "textDisplay": "2:06",
+        "textOriginal": "2:06",
+        "parentId": "Ugx-2DLOkFLMCcZQFoZ4AaABAg",
+        "authorDisplayName": "Jorge",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYM4T7tvmej9tqjLgOu5S-66I7JOtmcqFvBvqIig=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVSw6P679uewOyQJtaqprEQ",
+        "authorChannelId": {
+          "value": "UCVSw6P679uewOyQJtaqprEQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-28T18:01:11Z",
+        "updatedAt": "2020-05-28T18:01:11Z"
+      }
+    }
+  ]
+}

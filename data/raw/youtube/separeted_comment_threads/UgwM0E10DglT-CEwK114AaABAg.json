@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IZ3Bpkv7o2b1TRBdGnyTk2QkPmA",
+  "id": "UgwM0E10DglT-CEwK114AaABAg",
+  "snippet": {
+    "videoId": "rqBpMuncLxI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "Gczfe4tFXLx31JeMWGRkU-RBAyE",
+      "id": "UgwM0E10DglT-CEwK114AaABAg",
+      "snippet": {
+        "videoId": "rqBpMuncLxI",
+        "textDisplay": "Qual foi o valor? Eu posso comprar esse teste e fazer em casa ?",
+        "textOriginal": "Qual foi o valor? Eu posso comprar esse teste e fazer em casa ?",
+        "authorDisplayName": "Kaylane Gomes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSDgJqDO3hNWAAjMoWZXPgv68SLseoey3r2bHP_n_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUPUnl7sD4kbi9ryqhUaWGA",
+        "authorChannelId": {
+          "value": "UCUPUnl7sD4kbi9ryqhUaWGA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-24T22:16:49Z",
+        "updatedAt": "2020-08-24T22:16:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "3_F429g91VbUBQFRLZZNbh6qaM0",
+      "id": "UgwM0E10DglT-CEwK114AaABAg.9CkyZASmMUr9F1ZZYfnZXu",
+      "snippet": {
+        "textDisplay": "Ola, Keylane! O teste \u00e9 para uso profissional somente!",
+        "textOriginal": "Ola, Keylane! O teste \u00e9 para uso profissional somente!",
+        "parentId": "UgwM0E10DglT-CEwK114AaABAg",
+        "authorDisplayName": "ECO Diagn\u00f3stica",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmV_XrGBgg5Vwz_d4mp3JD9QbW_nqpva58eeFz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC17tFLXPaWFjfbvlHwuhFqg",
+        "authorChannelId": {
+          "value": "UC17tFLXPaWFjfbvlHwuhFqg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-10-20T11:18:47Z",
+        "updatedAt": "2020-10-20T11:18:47Z"
+      }
+    }
+  ]
+}

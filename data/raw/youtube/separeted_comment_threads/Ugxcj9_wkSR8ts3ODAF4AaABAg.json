@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "LKOdMEzRvDcSafD7lzIyTdgLaAY",
+  "id": "Ugxcj9_wkSR8ts3ODAF4AaABAg",
+  "snippet": {
+    "videoId": "27tEFSX0N4o",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ktSPSXundi1yTCrnFCOk0fuRGtw",
+      "id": "Ugxcj9_wkSR8ts3ODAF4AaABAg",
+      "snippet": {
+        "videoId": "27tEFSX0N4o",
+        "textDisplay": "The protection of environment is a must!",
+        "textOriginal": "The protection of environment is a must!",
+        "authorDisplayName": "Harsha Sankar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjJUXNLtyNaNZdtfRGHClIGst_DOm_AIlbvQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7sMk_ouqGgznfPVbbak5Xg",
+        "authorChannelId": {
+          "value": "UC7sMk_ouqGgznfPVbbak5Xg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2022-05-19T15:47:48Z",
+        "updatedAt": "2022-05-19T15:47:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oioezxSOD83kxjFou2iMmKkNm2M",
+      "id": "Ugxcj9_wkSR8ts3ODAF4AaABAg.9bDCDs0mQzu9bDvuopOUJl",
+      "snippet": {
+        "textDisplay": "People like monney and luxe",
+        "textOriginal": "People like monney and luxe",
+        "parentId": "Ugxcj9_wkSR8ts3ODAF4AaABAg",
+        "authorDisplayName": "Soul Keeper",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/BUZfadlhkzvxP24zvPvvWU7dX89kLzrjY4RnpclrFFqp9OMCA6BxLHFbUOwEwlAZNILIGsae=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV4kcSuLEAQBEypCTXTIQ4Q",
+        "authorChannelId": {
+          "value": "UCV4kcSuLEAQBEypCTXTIQ4Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T22:35:46Z",
+        "updatedAt": "2022-05-19T22:35:46Z"
+      }
+    }
+  ]
+}

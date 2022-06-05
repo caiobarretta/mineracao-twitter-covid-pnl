@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "i_YKwKXSw6f-xeLWXQPa8VfkYtE",
+  "id": "UgymYwoAVfcJYRIkRQZ4AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ABaWtP-Ln6U1LtlCB9A7Z4K_DOE",
+      "id": "UgymYwoAVfcJYRIkRQZ4AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "Que beleza de estrada amiga",
+        "textOriginal": "Que beleza de estrada amiga",
+        "authorDisplayName": "Eletrica Rocha",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/uARKR9VUUJsqhWkA96-HUoLM23TCfKlTb2lvNSjWossPKvUv-x53z2JFPxIb0Ngfl6Af-igQSf8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzzpooa6kP2T21J9BECNxJw",
+        "authorChannelId": {
+          "value": "UCzzpooa6kP2T21J9BECNxJw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-28T14:57:38Z",
+        "updatedAt": "2022-04-28T14:57:38Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "oahZ9gvCPWjCWzCHxzmdpWVvinM",
+      "id": "UgymYwoAVfcJYRIkRQZ4AaABAg.9aN1mzXS7OY9aNXaBIvDiL",
+      "snippet": {
+        "textDisplay": "S\u00f3 tenho medo dos carros que passam vuando\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "textOriginal": "S\u00f3 tenho medo dos carros que passam vuando\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "parentId": "UgymYwoAVfcJYRIkRQZ4AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T19:35:30Z",
+        "updatedAt": "2022-04-28T19:35:30Z"
+      }
+    }
+  ]
+}

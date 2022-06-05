@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "FaDj78eciyhbWfaMdKcUnEAd1x8",
+  "id": "UgwgBXd1DzFa_rL2VqJ4AaABAg",
+  "snippet": {
+    "videoId": "diJfOnvIDzM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "tD4SK0aHEjRBEpYBJQgbbqnaRu4",
+      "id": "UgwgBXd1DzFa_rL2VqJ4AaABAg",
+      "snippet": {
+        "videoId": "diJfOnvIDzM",
+        "textDisplay": "Ministra da sa\u00fade do governo LULA !!!",
+        "textOriginal": "Ministra da sa\u00fade do governo LULA !!!",
+        "authorDisplayName": "Emerson X",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgMUIo1o1pRgxLLGPJBTLxYKx63KggcK0ikv8h8w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsr47V-m93oVp38mbKE80DQ",
+        "authorChannelId": {
+          "value": "UCsr47V-m93oVp38mbKE80DQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-23T12:50:00Z",
+        "updatedAt": "2022-05-23T12:50:00Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "RgNSHwcz7n7jlFQ7-LaTTe3jX7w",
+      "id": "UgwgBXd1DzFa_rL2VqJ4AaABAg.9bNB30qx_D_9bOYHNhBKHJ",
+      "snippet": {
+        "textDisplay": "N\u00e3o no que depender do meu voto.",
+        "textOriginal": "N\u00e3o no que depender do meu voto.",
+        "parentId": "UgwgBXd1DzFa_rL2VqJ4AaABAg",
+        "authorDisplayName": "Andr\u00e9 Clayton",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnQ6x02v_SeHX0P_D4UqCGtVjgq-5lu6NrSMLd5A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsKiql5NerHg__v4JLuU1jQ",
+        "authorChannelId": {
+          "value": "UCsKiql5NerHg__v4JLuU1jQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-24T01:32:10Z",
+        "updatedAt": "2022-05-24T01:32:10Z"
+      }
+    }
+  ]
+}

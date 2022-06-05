@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "c-SX_zGm9iUQoY6m0-praxJjRGs",
+  "id": "UgzN_ZVHLGqOj7GymFt4AaABAg",
+  "snippet": {
+    "videoId": "sXF6kX3ZC1E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ePmFcXXo3jKkWqgEPQ-CgzUN4Xk",
+      "id": "UgzN_ZVHLGqOj7GymFt4AaABAg",
+      "snippet": {
+        "videoId": "sXF6kX3ZC1E",
+        "textDisplay": "Hospital esyrsmhy",
+        "textOriginal": "Hospital esyrsmhy",
+        "authorDisplayName": "Romilda Ladislau",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGBfdwd6saoFxtaEy5mfQdLokYCzrbyfg8UQ6-gA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2ORbphsY9ZNRGqOTUercnQ",
+        "authorChannelId": {
+          "value": "UC2ORbphsY9ZNRGqOTUercnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-28T22:45:43Z",
+        "updatedAt": "2019-04-28T22:45:43Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "TSTEdHjXi-rfrc-kVeHKazAeTLU",
+      "id": "UgzN_ZVHLGqOj7GymFt4AaABAg.8uHl7QBmFjF8uHl9E_Qbv7",
+      "snippet": {
+        "textDisplay": "Estranho",
+        "textOriginal": "Estranho",
+        "parentId": "UgzN_ZVHLGqOj7GymFt4AaABAg",
+        "authorDisplayName": "Romilda Ladislau",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGBfdwd6saoFxtaEy5mfQdLokYCzrbyfg8UQ6-gA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2ORbphsY9ZNRGqOTUercnQ",
+        "authorChannelId": {
+          "value": "UC2ORbphsY9ZNRGqOTUercnQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2019-04-28T22:45:58Z",
+        "updatedAt": "2019-04-28T22:45:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "fQmFKsygb6beQY1evzZxAW7Z11U",
+  "id": "Ugy1Qe1JCZNAhyY6ngt4AaABAg",
+  "snippet": {
+    "videoId": "IEeuzXK6j4E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "s3TCbuBTsQk-VvQRNuUEJdyzgYg",
+      "id": "Ugy1Qe1JCZNAhyY6ngt4AaABAg",
+      "snippet": {
+        "videoId": "IEeuzXK6j4E",
+        "textDisplay": "As restri\u00e7\u00f5es na Europa est\u00e3o diminuindo devido a press\u00e3o das ruas.",
+        "textOriginal": "As restri\u00e7\u00f5es na Europa est\u00e3o diminuindo devido a press\u00e3o das ruas.",
+        "authorDisplayName": "Giu Ferreira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTl7YgzBWh2B8GD-tAdRdPG__cGH7O-LSCO7mi3sQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl6vWTkmXucYTQ39ZL9lgUA",
+        "authorChannelId": {
+          "value": "UCl6vWTkmXucYTQ39ZL9lgUA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 16,
+        "publishedAt": "2022-02-05T01:08:03Z",
+        "updatedAt": "2022-02-05T01:08:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "H31CX4v5GMSLj-CbibE2F4BKOkM",
+      "id": "Ugy1Qe1JCZNAhyY6ngt4AaABAg.9Y2PfDI5hCp9Y4Ukm7e8pb",
+      "snippet": {
+        "textDisplay": "Sim foi por causa disso",
+        "textOriginal": "Sim foi por causa disso",
+        "parentId": "Ugy1Qe1JCZNAhyY6ngt4AaABAg",
+        "authorDisplayName": "felipe C\u00e9sar",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/WJwAB00uoQG-apBFjXx6XyjiG4DCa4h87WRkLNBL7VcQuX4JaZHQzsF00_YdHmEgm56uhXbZcg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNj7LuJLqkCsIpDcDs61PUQ",
+        "authorChannelId": {
+          "value": "UCNj7LuJLqkCsIpDcDs61PUQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-02-05T20:30:59Z",
+        "updatedAt": "2022-02-05T20:30:59Z"
+      }
+    }
+  ]
+}

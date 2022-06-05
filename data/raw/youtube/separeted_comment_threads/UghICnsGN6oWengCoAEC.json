@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "VROLd-vnY1IBcOghM4BsZ2a570M",
+  "id": "UghICnsGN6oWengCoAEC",
+  "snippet": {
+    "videoId": "1S4jwYeQjb4",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cx9gS4m_XKyImg9o9bIAff6MFWw",
+      "id": "UghICnsGN6oWengCoAEC",
+      "snippet": {
+        "videoId": "1S4jwYeQjb4",
+        "textDisplay": "MuitoBom..!!",
+        "textOriginal": "MuitoBom..!!",
+        "authorDisplayName": "Marcos Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZGNQUxFQiXqfehD564Pf6j_UbKq9QCGzYxmI-RA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCy89LTVMKDE-69cDeh9v4PQ",
+        "authorChannelId": {
+          "value": "UCy89LTVMKDE-69cDeh9v4PQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2016-08-23T21:31:03Z",
+        "updatedAt": "2016-08-23T21:31:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Hb-Lz6rJoeB9uUtCTP14cDCEUFU",
+      "id": "UghICnsGN6oWengCoAEC.8HwM8gGB_M08Hxz4U7P9O4",
+      "snippet": {
+        "textDisplay": "Muito obrigado pela sua participa\u00e7\u00e3o!",
+        "textOriginal": "Muito obrigado pela sua participa\u00e7\u00e3o!",
+        "parentId": "UghICnsGN6oWengCoAEC",
+        "authorDisplayName": "Filosofia Da Psique",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9img-JXfjrCZzhBfPT48TBpwV2dYJ-Pfv2ZcnAQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCa7YacrcE2qTobpurY41CZA",
+        "authorChannelId": {
+          "value": "UCa7YacrcE2qTobpurY41CZA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2016-08-24T12:39:14Z",
+        "updatedAt": "2016-08-24T12:39:14Z"
+      }
+    }
+  ]
+}

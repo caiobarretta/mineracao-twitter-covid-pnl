@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "qYVa7dbCtbT0pqMRk3YJeDcm4tE",
+  "id": "UgydKSG2cPABqX1Gfut4AaABAg",
+  "snippet": {
+    "videoId": "EDcwMYAqNts",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "CApGiF_iL_6yqcdSeX5vlvMcF-4",
+      "id": "UgydKSG2cPABqX1Gfut4AaABAg",
+      "snippet": {
+        "videoId": "EDcwMYAqNts",
+        "textDisplay": "I think I have developed a severe case of misanthropy. I honestly couldn\u2019t care less.",
+        "textOriginal": "I think I have developed a severe case of misanthropy. I honestly couldn\u2019t care less.",
+        "authorDisplayName": "Jay Mac",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzxTaWBO_e6tSZ-RzXRPDm6mHpNzASkxZAL-7y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnyqjIzx1umwRyUr6U2RLrQ",
+        "authorChannelId": {
+          "value": "UCnyqjIzx1umwRyUr6U2RLrQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 19,
+        "publishedAt": "2022-05-16T20:32:11Z",
+        "updatedAt": "2022-05-16T20:32:11Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_0XMhZ2gk_SCpuZ7k0qgWHefKS0",
+      "id": "UgydKSG2cPABqX1Gfut4AaABAg.9b5zO6_iwnb9bD96w7uoo5",
+      "snippet": {
+        "textDisplay": "Grow up",
+        "textOriginal": "Grow up",
+        "parentId": "UgydKSG2cPABqX1Gfut4AaABAg",
+        "authorDisplayName": "Abracadaver",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeSVb4j0lSuh4nobhy5XvvK0s-QvbfYM5t8fUjbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbdnk-U1hC65JSoIBYaBPyA",
+        "authorChannelId": {
+          "value": "UCbdnk-U1hC65JSoIBYaBPyA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-05-19T15:20:39Z",
+        "updatedAt": "2022-05-19T15:20:39Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "HLG9v14HsuE0AmzBLPe91qeVHEk",
+      "id": "UgydKSG2cPABqX1Gfut4AaABAg.9b5zO6_iwnb9b8WssCRRBN",
+      "snippet": {
+        "textDisplay": "Man, I really feel you on this. But, I\u2019m trying to maintain my humanity.",
+        "textOriginal": "Man, I really feel you on this. But, I\u2019m trying to maintain my humanity.",
+        "parentId": "UgydKSG2cPABqX1Gfut4AaABAg",
+        "authorDisplayName": "Terrence Elbourne",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTuQ9doFDZQsbo5A5VIaprTaOYsxIjBkhEdG--Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCil1SQPTcQQy0cXGCakQ8eg",
+        "authorChannelId": {
+          "value": "UCil1SQPTcQQy0cXGCakQ8eg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-17T20:12:06Z",
+        "updatedAt": "2022-05-17T20:12:06Z"
+      }
+    }
+  ]
+}

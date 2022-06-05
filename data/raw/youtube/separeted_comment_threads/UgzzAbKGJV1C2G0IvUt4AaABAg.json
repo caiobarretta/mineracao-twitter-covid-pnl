@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "P-XWrV8iNvlZMWA_w9VMcJzuopk",
+  "id": "UgzzAbKGJV1C2G0IvUt4AaABAg",
+  "snippet": {
+    "videoId": "TS0IM54eyR8",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iIniSoZLo60qoYyVXaqVbKpr-00",
+      "id": "UgzzAbKGJV1C2G0IvUt4AaABAg",
+      "snippet": {
+        "videoId": "TS0IM54eyR8",
+        "textDisplay": "Y porque el covid no es pandemia?",
+        "textOriginal": "Y porque el covid no es pandemia?",
+        "authorDisplayName": "Mariia Diana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRAoWRD2XSm0cmWITdAQ1jh0c-lhTDmd0B3PSqWDJw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYDGbzDNTllbz8FEU8riiZQ",
+        "authorChannelId": {
+          "value": "UCYDGbzDNTllbz8FEU8riiZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-21T21:35:31Z",
+        "updatedAt": "2020-06-21T21:35:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "SR36eF5Z7d-Mi36tMqNy4VEE_kg",
+      "id": "UgzzAbKGJV1C2G0IvUt4AaABAg.9AB5xjxTLeH9CugS2dEjXp",
+      "snippet": {
+        "textDisplay": "*confusion*",
+        "textOriginal": "*confusion*",
+        "parentId": "UgzzAbKGJV1C2G0IvUt4AaABAg",
+        "authorDisplayName": "Yuuki",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmMYPpchewrgie9lyKgDcbH6pjMr1vF_GeXV_Rfg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVMz4r-32FeO0errKawPSTg",
+        "authorChannelId": {
+          "value": "UCVMz4r-32FeO0errKawPSTg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-08-28T16:50:57Z",
+        "updatedAt": "2020-08-28T16:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "7ZB1yW9PeS9U6bko5TsV1XLHIiw",
+      "id": "UgzzAbKGJV1C2G0IvUt4AaABAg.9AB5xjxTLeH9ATE-NQfC4o",
+      "snippet": {
+        "textDisplay": "4:01 .-.",
+        "textOriginal": "4:01 .-.",
+        "parentId": "UgzzAbKGJV1C2G0IvUt4AaABAg",
+        "authorDisplayName": "Luis Edison Caiza Grefa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTcDxpys3y9y2eRNa5GB5AgVX2Wp4tn_8ldOu-4DA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4aHsqctDq6Vf9RuTBRzuKQ",
+        "authorChannelId": {
+          "value": "UC4aHsqctDq6Vf9RuTBRzuKQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-28T22:32:07Z",
+        "updatedAt": "2020-06-28T22:32:07Z"
+      }
+    }
+  ]
+}

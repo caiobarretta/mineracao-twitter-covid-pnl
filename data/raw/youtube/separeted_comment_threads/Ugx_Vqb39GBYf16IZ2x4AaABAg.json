@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3f7wLI2kRQFGIIGftTQoHaXoExY",
+  "id": "Ugx_Vqb39GBYf16IZ2x4AaABAg",
+  "snippet": {
+    "videoId": "lIV_e50RhnI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ytDWHp-XADcBDxYIXCxC3SZRJxI",
+      "id": "Ugx_Vqb39GBYf16IZ2x4AaABAg",
+      "snippet": {
+        "videoId": "lIV_e50RhnI",
+        "textDisplay": "Concordo plenamente com o Facebook de bloquear as fake news.",
+        "textOriginal": "Concordo plenamente com o Facebook de bloquear as fake news.",
+        "authorDisplayName": "Maria Fernanda Camacho da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6qC9LyOLGYZLJiMwOzPXmMPti7JkxYUes3noa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbFxWID39tDRhzd_XEEgWsw",
+        "authorChannelId": {
+          "value": "UCbFxWID39tDRhzd_XEEgWsw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2021-10-25T15:10:59Z",
+        "updatedAt": "2021-10-25T15:10:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wchLBz4-JKhWYZU-2YaKDuV9GWM",
+      "id": "Ugx_Vqb39GBYf16IZ2x4AaABAg.9TvhFuNgGre9U-FZZruDzs",
+      "snippet": {
+        "textDisplay": "@Daniel Mendes \u00c9 verdade.",
+        "textOriginal": "@Daniel Mendes \u00c9 verdade.",
+        "parentId": "Ugx_Vqb39GBYf16IZ2x4AaABAg",
+        "authorDisplayName": "Maria Fernanda Camacho da Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6qC9LyOLGYZLJiMwOzPXmMPti7JkxYUes3noa=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbFxWID39tDRhzd_XEEgWsw",
+        "authorChannelId": {
+          "value": "UCbFxWID39tDRhzd_XEEgWsw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-10-27T09:36:28Z",
+        "updatedAt": "2021-10-27T09:36:28Z"
+      }
+    }
+  ]
+}

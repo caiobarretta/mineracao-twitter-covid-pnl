@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eC0AToWxVocCcxXGb01KsU5Mafk",
+  "id": "UgyGiVm5dfjll1pIgyV4AaABAg",
+  "snippet": {
+    "videoId": "ztD6FExoBmg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "cdtVY_0G6A1GSO5SJK-bLAh-oMQ",
+      "id": "UgyGiVm5dfjll1pIgyV4AaABAg",
+      "snippet": {
+        "videoId": "ztD6FExoBmg",
+        "textDisplay": "Que bom saber sobre  sa\u00fade,  se cuidem  amigos,  ameii",
+        "textOriginal": "Que bom saber sobre  sa\u00fade,  se cuidem  amigos,  ameii",
+        "authorDisplayName": "Angela Fachi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHAOcnkj6m8hUzMTXX3KDhx_pmz2Ab19cvDQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxx1W_qyiX1Xs8KXTPAHHwA",
+        "authorChannelId": {
+          "value": "UCxx1W_qyiX1Xs8KXTPAHHwA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-06-17T00:27:48Z",
+        "updatedAt": "2020-06-17T00:27:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "B7OT6xYR00mcevc2C6-CpJicy6A",
+      "id": "UgyGiVm5dfjll1pIgyV4AaABAg.99zXhC48yUx9AC5sY2e7SY",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0a",
+        "textOriginal": "\ud83d\ude0a",
+        "parentId": "UgyGiVm5dfjll1pIgyV4AaABAg",
+        "authorDisplayName": "Vamos Fugir Blog",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8zt4n0G65CR8UiYAMNItKMYcLeqoxcwDHbhIhBQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCngY-0fPeVYo-TdIBmj-hGg",
+        "authorChannelId": {
+          "value": "UCngY-0fPeVYo-TdIBmj-hGg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-22T06:54:03Z",
+        "updatedAt": "2020-06-22T06:54:03Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "4L6VEFHpzBynJH5NqGZKsdmNsZE",
+  "id": "UgxyU7I8b3ldg9XL6Zl4AaABAg",
+  "snippet": {
+    "videoId": "-ZM2uR_yYQY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "1XeAm8GTnnXk3CDkOwya6wd_Ktw",
+      "id": "UgxyU7I8b3ldg9XL6Zl4AaABAg",
+      "snippet": {
+        "videoId": "-ZM2uR_yYQY",
+        "textDisplay": "keren, ditunggu karya berikutnya!",
+        "textOriginal": "keren, ditunggu karya berikutnya!",
+        "authorDisplayName": "Ida Wayan Bagus Endranyana",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTaPGUvSlzn22YQr_MBrE9Moa5XJCWOmtV5Ae6_NXvuhvi5ePofQUDHdjkiKLYL=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFV0CQmqSggEQk8xJFC5W2Q",
+        "authorChannelId": {
+          "value": "UCFV0CQmqSggEQk8xJFC5W2Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-03-17T07:57:07Z",
+        "updatedAt": "2022-03-17T07:57:07Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "wTRLaEPWUPwIwG8bYLxSfHOAW60",
+      "id": "UgxyU7I8b3ldg9XL6Zl4AaABAg.9Zf8HMZYgQG9_UaippUr3J",
+      "snippet": {
+        "textDisplay": "terimakasih atas supportnya, ditunggu sebentar lagi rilis",
+        "textOriginal": "terimakasih atas supportnya, ditunggu sebentar lagi rilis",
+        "parentId": "UgxyU7I8b3ldg9XL6Zl4AaABAg",
+        "authorDisplayName": "Sars",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/zSjGm-aumznGjVyCkL-wN4A-Tx9D0k4EsE4pkOT5GxLxOT1cgsNvObn_Ve__FwRNM8fBWEgbjyA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZo2yyUChECXaid1zo0GimQ",
+        "authorChannelId": {
+          "value": "UCZo2yyUChECXaid1zo0GimQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-06T16:54:55Z",
+        "updatedAt": "2022-04-06T16:54:55Z"
+      }
+    }
+  ]
+}

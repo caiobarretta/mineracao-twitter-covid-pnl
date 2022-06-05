@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y_nDmmdvb1sNNznxtYh6eY_mQHc",
+  "id": "UgzQmyShsBxb3Xxrunp4AaABAg",
+  "snippet": {
+    "videoId": "bpjd6sNFe9I",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "7us8PbTwjX3TPtDyo5J2dJ22d1s",
+      "id": "UgzQmyShsBxb3Xxrunp4AaABAg",
+      "snippet": {
+        "videoId": "bpjd6sNFe9I",
+        "textDisplay": "Ent\u00e3o, \u00e9 como o Brasil.",
+        "textOriginal": "Ent\u00e3o, \u00e9 como o Brasil.",
+        "authorDisplayName": "Rafael Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZgl3EjvJRdUVwzXrO97DeTJHl0tyvLGBKA0nOug=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJH_qp9zmrw1yEHiSWooYZQ",
+        "authorChannelId": {
+          "value": "UCJH_qp9zmrw1yEHiSWooYZQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-27T23:10:03Z",
+        "updatedAt": "2022-05-27T23:10:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "i-LRq6A0Lc_y4sK0V6giNO56_tU",
+      "id": "UgzQmyShsBxb3Xxrunp4AaABAg.9bYaBzGanBU9bYbiCXlGVG",
+      "snippet": {
+        "textDisplay": "Bons estudos...",
+        "textOriginal": "Bons estudos...",
+        "parentId": "UgzQmyShsBxb3Xxrunp4AaABAg",
+        "authorDisplayName": "K\u0259li",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kdVUK_pP0bd8oVT0jVcknYzWRB-Op4FYbAA37m7A_pYl02jAAIR9P_0uNtZQPVSBK2KDo8o7Yg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCmp0Kzt9RCQS-Vsx8tadGfg",
+        "authorChannelId": {
+          "value": "UCmp0Kzt9RCQS-Vsx8tadGfg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-27T23:23:19Z",
+        "updatedAt": "2022-05-27T23:23:19Z"
+      }
+    }
+  ]
+}

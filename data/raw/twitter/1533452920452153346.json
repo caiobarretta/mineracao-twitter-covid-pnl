@@ -1,0 +1,160 @@
+{
+  "created_at": "Sun Jun 05 14:17:21 +0000 2022",
+  "id": 1533452920452153346,
+  "id_str": "1533452920452153346",
+  "full_text": "@silberhautchen @crisdescomplica @RenataSilveiraC @DrBrunoGino Pelo que entendi o Queiroga resolveu que era a OMS e suspendeu o estado de emerg\u00eancia de sa\u00fade p\u00fablica. Ent\u00e3o, tecnicamente...cab\u00f4 pandemia no BR! Sabe como \u00e9, n\u00e9? Nosso manejo de crise foi muito eficiente...\ud83d\ude12\ud83d\ude12\ud83d\ude12",
+  "truncated": false,
+  "display_text_range": [
+    63,
+    274
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "silberhautchen",
+        "name": "Estagi\u00e1ria Especialista Plenah",
+        "id": 1278653663809024000,
+        "id_str": "1278653663809024000",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "crisdescomplica",
+        "name": "M\u00e9dica da Firma",
+        "id": 121293953,
+        "id_str": "121293953",
+        "indices": [
+          16,
+          32
+        ]
+      },
+      {
+        "screen_name": "RenataSilveiraC",
+        "name": "Satan\u00e1ries! \ud83c\udf35\ud83c\udfc1\ud83c\udf2a\ud83d\ude43",
+        "id": 1895262764,
+        "id_str": "1895262764",
+        "indices": [
+          33,
+          49
+        ]
+      },
+      {
+        "screen_name": "DrBrunoGino",
+        "name": "Bruno Gino, MD \ud83c\udde7\ud83c\uddf7\ud83c\udde8\ud83c\udde6",
+        "id": 2583268313,
+        "id_str": "2583268313",
+        "indices": [
+          50,
+          62
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1533168843228876800,
+  "in_reply_to_status_id_str": "1533168843228876800",
+  "in_reply_to_user_id": 1278653663809024000,
+  "in_reply_to_user_id_str": "1278653663809024000",
+  "in_reply_to_screen_name": "silberhautchen",
+  "user": {
+    "id": 215464440,
+    "id_str": "215464440",
+    "name": "Rosane de Souza",
+    "screen_name": "rosoubr",
+    "location": "Rio de Janeiro",
+    "description": "M\u00e9dica, m\u00e3e, leitora e viajante apaixonada, flamenguista sofredora.\nAcreditando num mundo ao menos um pouquinho menos desigual e tentando manter a sanidade...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 417,
+    "friends_count": 445,
+    "listed_count": 1,
+    "created_at": "Sun Nov 14 00:56:20 +0000 2010",
+    "favourites_count": 27374,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5233,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1375751806484107264/qVapP4XL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375751806484107264/qVapP4XL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/215464440/1616839943",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "97bcdfca1a2dca59",
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "place_type": "city",
+    "name": "Rio de Janeiro",
+    "full_name": "Rio de Janeiro, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.795449,
+            -23.08302
+          ],
+          [
+            -43.0877068,
+            -23.08302
+          ],
+          [
+            -43.0877068,
+            -22.7398234
+          ],
+          [
+            -43.795449,
+            -22.7398234
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

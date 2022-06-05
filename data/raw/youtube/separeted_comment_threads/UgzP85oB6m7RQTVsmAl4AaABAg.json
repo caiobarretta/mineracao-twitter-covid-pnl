@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "uF2eK-aNynV3DJ-8YXmU5ib2i7M",
+  "id": "UgzP85oB6m7RQTVsmAl4AaABAg",
+  "snippet": {
+    "videoId": "8iWVE-a2nSk",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "IZ7wygJnzEnkteeC4m1r5v2LZQw",
+      "id": "UgzP85oB6m7RQTVsmAl4AaABAg",
+      "snippet": {
+        "videoId": "8iWVE-a2nSk",
+        "textDisplay": "Boa tarde \ud83e\udde1 \nJosi \ud83c\udf37\nAmiga que lugares bonitos..\u00d3tima 5feira \n\ud83e\udd17\u2764",
+        "textOriginal": "Boa tarde \ud83e\udde1 \nJosi \ud83c\udf37\nAmiga que lugares bonitos..\u00d3tima 5feira \n\ud83e\udd17\u2764",
+        "authorDisplayName": "Ana Maria",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRTgZAfZw-gek9rI2FVCYUBkjx6YEm_6v9V49wz=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC5Gq5LWMRdvZ7gWYQtThMQg",
+        "authorChannelId": {
+          "value": "UC5Gq5LWMRdvZ7gWYQtThMQg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-28T17:53:13Z",
+        "updatedAt": "2022-04-28T17:53:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4Gm2AwV7DvLxytKpXJXtq_SwW-0",
+      "id": "UgzP85oB6m7RQTVsmAl4AaABAg.9aNLt04AIH59aNXOrjgqV4",
+      "snippet": {
+        "textDisplay": "\u2764\ud83d\ude18\ud83e\udd70",
+        "textOriginal": "\u2764\ud83d\ude18\ud83e\udd70",
+        "parentId": "UgzP85oB6m7RQTVsmAl4AaABAg",
+        "authorDisplayName": "Nosso jeito la na ro\u00e7a",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/gz7qOptrGZeQ1vJI2JOeVtddVZn1axiDXeC6Ik3TeX5nNTg7JEO5EvObObKtXxb9agDERU1H=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2Zga8HS3_RFMNNJRHxCJIQ",
+        "authorChannelId": {
+          "value": "UC2Zga8HS3_RFMNNJRHxCJIQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-04-28T19:33:49Z",
+        "updatedAt": "2022-04-28T19:33:49Z"
+      }
+    }
+  ]
+}

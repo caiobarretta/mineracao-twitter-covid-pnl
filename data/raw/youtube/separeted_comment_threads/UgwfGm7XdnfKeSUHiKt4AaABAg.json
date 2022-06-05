@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "NWMIsplO0-ErK_myOWxBpjBSRJQ",
+  "id": "UgwfGm7XdnfKeSUHiKt4AaABAg",
+  "snippet": {
+    "videoId": "anT0zp8vWeI",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8gQ1dkhz6kt1WN2XdSq0T0szcBk",
+      "id": "UgwfGm7XdnfKeSUHiKt4AaABAg",
+      "snippet": {
+        "videoId": "anT0zp8vWeI",
+        "textDisplay": "Excelente explica\u00e7\u00e3o mais uma inscrita ...",
+        "textOriginal": "Excelente explica\u00e7\u00e3o mais uma inscrita ...",
+        "authorDisplayName": "Roseni Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqRbmFlQhRtxRp2-5GB3JhK56JkV_V6NUOjg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFOoWOFMClsGWzjQXYVHvOw",
+        "authorChannelId": {
+          "value": "UCFOoWOFMClsGWzjQXYVHvOw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2021-06-12T01:15:44Z",
+        "updatedAt": "2021-06-12T01:15:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "uy2AGrmAdv32-crjWhNJFs7mD4Q",
+      "id": "UgwfGm7XdnfKeSUHiKt4AaABAg.9OTaMINhPnZ9OUcpfumVGn",
+      "snippet": {
+        "textDisplay": "Seja bem-vinda Roseni! \ud83d\ude09",
+        "textOriginal": "Seja bem-vinda Roseni! \ud83d\ude09",
+        "parentId": "UgwfGm7XdnfKeSUHiKt4AaABAg",
+        "authorDisplayName": "Thay na Inglaterra",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkb9PnqeyNBU47S6-0CP-X_CWbmnoB4XMwqWOj=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCETm7ARJLCgXjdSimq2yquA",
+        "authorChannelId": {
+          "value": "UCETm7ARJLCgXjdSimq2yquA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-06-12T10:56:36Z",
+        "updatedAt": "2021-06-12T10:56:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "y2kPL41Jl-AcIwukW0EzrgVtqgY",
+  "id": "UgzetjWMXyOTzsv0Wsp4AaABAg",
+  "snippet": {
+    "videoId": "bKgJ_eoW4jw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "oszIf5vjB4clJPvvq3Om3k7lC3A",
+      "id": "UgzetjWMXyOTzsv0Wsp4AaABAg",
+      "snippet": {
+        "videoId": "bKgJ_eoW4jw",
+        "textDisplay": "Hmm toda maquiada, chiqu\u00e9rrima",
+        "textOriginal": "Hmm toda maquiada, chiqu\u00e9rrima",
+        "authorDisplayName": "Ludenberg! ?",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTH18Rxry6X5B6un0mzVPWQAZyEJ7BCNqqsj6Rm2Q4=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0Mt6rKzDdKpqwSn2VycFpg",
+        "authorChannelId": {
+          "value": "UC0Mt6rKzDdKpqwSn2VycFpg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2019-06-22T22:43:46Z",
+        "updatedAt": "2019-06-22T22:43:46Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "f6ZJo1VzsOZPcZndbVMUBBXhVDs",
+      "id": "UgzetjWMXyOTzsv0Wsp4AaABAg.8wVNcAMSz5R8wVX9YFJK_B",
+      "snippet": {
+        "textDisplay": "Obrigada! De vez em quando a gente muda um pouquinho \ud83d\ude01",
+        "textOriginal": "Obrigada! De vez em quando a gente muda um pouquinho \ud83d\ude01",
+        "parentId": "UgzetjWMXyOTzsv0Wsp4AaABAg",
+        "authorDisplayName": "Al\u00e9m do Brasil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQK9f93sxSRMrYWJlDNNlpSQj9Dr3P1QzEmlbET=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkvabgse_AJr5uzWhyOAf7Q",
+        "authorChannelId": {
+          "value": "UCkvabgse_AJr5uzWhyOAf7Q"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2019-06-23T00:07:06Z",
+        "updatedAt": "2019-06-23T00:07:17Z"
+      }
+    }
+  ]
+}

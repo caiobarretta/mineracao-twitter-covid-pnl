@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "erbGzFeZ3IZoVnPjO_gMCMY3UfA",
+  "id": "UggI6-SVcwC0hngCoAEC",
+  "snippet": {
+    "videoId": "Qex-EXhPtvM",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "BpAcqrfVLQx2hb1W1wbaCdJmosI",
+      "id": "UggI6-SVcwC0hngCoAEC",
+      "snippet": {
+        "videoId": "Qex-EXhPtvM",
+        "textDisplay": "Prelepo je dru\u017ee. Ne zna se dal je video ili muzika bolja.",
+        "textOriginal": "Prelepo je dru\u017ee. Ne zna se dal je video ili muzika bolja.",
+        "authorDisplayName": "Goran Pudja",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTGhEBj3hWx6BYgiyIpUmLtLWCCPTLJDEcu77Ci=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnONT-5g0IWKrfLpb11MuYA",
+        "authorChannelId": {
+          "value": "UCnONT-5g0IWKrfLpb11MuYA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2015-10-30T06:34:41Z",
+        "updatedAt": "2015-10-30T06:34:41Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "pqBOjogEOEqVfziYJcTY5qsXhV8",
+      "id": "UggI6-SVcwC0hngCoAEC.85vQfk1o9LD7-H12pSRF81",
+      "snippet": {
+        "textDisplay": "+Goran Pudja hvala Pudja :)",
+        "textOriginal": "+Goran Pudja hvala Pudja :)",
+        "parentId": "UggI6-SVcwC0hngCoAEC",
+        "authorDisplayName": "Nitro Acoustic \ud83c\udfb5",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/_FR5Vc53xETMRkKoMKejU0ObC3vZWmrSrub9ZEHH8bYpYceQQTG0CeymVv48StmwmrElRfi8bSA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCN_b9p2bOthGKTb_j-dn8mw",
+        "authorChannelId": {
+          "value": "UCN_b9p2bOthGKTb_j-dn8mw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2015-10-30T06:39:00Z",
+        "updatedAt": "2015-10-30T06:39:00Z"
+      }
+    }
+  ]
+}

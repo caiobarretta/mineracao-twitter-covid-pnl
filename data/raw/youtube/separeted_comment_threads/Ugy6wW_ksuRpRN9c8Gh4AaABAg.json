@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Ma-Y9UGapYy93B7c0GDYdXIPECc",
+  "id": "Ugy6wW_ksuRpRN9c8Gh4AaABAg",
+  "snippet": {
+    "videoId": "yAp5Ru_qmmc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JPXuHbuHtxWX4n9vHia8gDKGqnc",
+      "id": "Ugy6wW_ksuRpRN9c8Gh4AaABAg",
+      "snippet": {
+        "videoId": "yAp5Ru_qmmc",
+        "textDisplay": "Novak,  intelligent , \u00e9thique,  vrai.",
+        "textOriginal": "Novak,  intelligent , \u00e9thique,  vrai.",
+        "authorDisplayName": "Brigitte Buisson",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZCRgkGpG3SQj6pTxCrqFX6qGOz7vyokryMUTcrw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZXdXKgz3MgxNeWQFHqKoRw",
+        "authorChannelId": {
+          "value": "UCZXdXKgz3MgxNeWQFHqKoRw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 37,
+        "publishedAt": "2022-05-21T10:13:13Z",
+        "updatedAt": "2022-05-21T10:13:13Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Hlw9bDjB097yu3r2ASO9E11kSgo",
+      "id": "Ugy6wW_ksuRpRN9c8Gh4AaABAg.9bHkWyb8FhU9bS_y44gUt2",
+      "snippet": {
+        "textDisplay": "Inform\u00e9 , courageux et libre \u2026.!!!!",
+        "textOriginal": "Inform\u00e9 , courageux et libre \u2026.!!!!",
+        "parentId": "Ugy6wW_ksuRpRN9c8Gh4AaABAg",
+        "authorDisplayName": "Sonia G",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQVYJw6p-n9wFz4B2X1nyyizz9E7CqYTZ88Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyukhfsdDP-GqU5TPVdTIXQ",
+        "authorChannelId": {
+          "value": "UCyukhfsdDP-GqU5TPVdTIXQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-25T15:12:34Z",
+        "updatedAt": "2022-05-25T15:12:34Z"
+      }
+    }
+  ]
+}

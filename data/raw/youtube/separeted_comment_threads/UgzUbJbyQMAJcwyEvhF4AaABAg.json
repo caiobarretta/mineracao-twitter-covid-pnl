@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "zPr4hGhHFtalTZtkDN-UR_xspqk",
+  "id": "UgzUbJbyQMAJcwyEvhF4AaABAg",
+  "snippet": {
+    "videoId": "f-7pc-7rmko",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "-XGU8nRI8XwyH-1_3KerfeXk7U4",
+      "id": "UgzUbJbyQMAJcwyEvhF4AaABAg",
+      "snippet": {
+        "videoId": "f-7pc-7rmko",
+        "textDisplay": "Ol\u00e1 pessoal um dia eu volto",
+        "textOriginal": "Ol\u00e1 pessoal um dia eu volto",
+        "authorDisplayName": "Johann",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTG6nHKFZkXtewH9PVj-rC8nMupd0dZ2ori2Kap=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuDiitqYT8uqdp-1-oj1JCA",
+        "authorChannelId": {
+          "value": "UCuDiitqYT8uqdp-1-oj1JCA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-05-02T12:03:15Z",
+        "updatedAt": "2020-05-02T12:03:15Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Xi0M6pvefB_IedG2pNYRLKveU4s",
+      "id": "UgzUbJbyQMAJcwyEvhF4AaABAg.989KiVLK6iO98OBOTNRKkd",
+      "snippet": {
+        "textDisplay": "Kkkk",
+        "textOriginal": "Kkkk",
+        "parentId": "UgzUbJbyQMAJcwyEvhF4AaABAg",
+        "authorDisplayName": "Anderson Rodrigues",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQluxRlrKifwtk0y8cLMFdtyeiuRG4ThsRdmwerdw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuPoty_P2pf4u0LLXWB13cw",
+        "authorChannelId": {
+          "value": "UCuPoty_P2pf4u0LLXWB13cw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-08T06:30:20Z",
+        "updatedAt": "2020-05-08T06:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "d9M2bSnUlcxnJIq-W4_3ym2BYic",
+      "id": "UgzUbJbyQMAJcwyEvhF4AaABAg.989KiVLK6iO98Mn7WAtZ1x",
+      "snippet": {
+        "textDisplay": "Kkk",
+        "textOriginal": "Kkk",
+        "parentId": "UgzUbJbyQMAJcwyEvhF4AaABAg",
+        "authorDisplayName": "Maria Elisa Gusm\u00e3o",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1mbmUr9wSN8eYujpb5xmHxV9rJcIKM0IV0SI5pQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCEgKeevm7TuPpdDB3RgIjvg",
+        "authorChannelId": {
+          "value": "UCEgKeevm7TuPpdDB3RgIjvg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-07T17:30:19Z",
+        "updatedAt": "2020-05-07T17:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "GxRqaWiSRrNK14J9C7ERu6Cgjr8",
+      "id": "UgzUbJbyQMAJcwyEvhF4AaABAg.989KiVLK6iO989r7M0FMLr",
+      "snippet": {
+        "textDisplay": "s\u00f3 na mesa branca",
+        "textOriginal": "s\u00f3 na mesa branca",
+        "parentId": "UgzUbJbyQMAJcwyEvhF4AaABAg",
+        "authorDisplayName": "Jornalista Renata Rosa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSWQYn9NUSW7UY81v2KidFlyW6twa8D5QIaUTfNrg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCUzGqoSrca6cN9EDRnRS7TQ",
+        "authorChannelId": {
+          "value": "UCUzGqoSrca6cN9EDRnRS7TQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-02T16:55:08Z",
+        "updatedAt": "2020-05-02T16:55:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "O7-cd6dcYIqU20kAt9tNKya2bl0",
+  "id": "UgxbKjBNkXHVcX46NVN4AaABAg",
+  "snippet": {
+    "videoId": "cIHQ6kfF6Ck",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pPIy7jAa2b0F_uj84oruuwqlsng",
+      "id": "UgxbKjBNkXHVcX46NVN4AaABAg",
+      "snippet": {
+        "videoId": "cIHQ6kfF6Ck",
+        "textDisplay": "video excelente, mas vamos nos preocupar com o \u00e1udio! \u2665",
+        "textOriginal": "video excelente, mas vamos nos preocupar com o \u00e1udio! \u2665",
+        "authorDisplayName": "Est\u00e1 Feito",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ0gQmd-G8wJJJXZ-tvc-emvsrrq7qm8e3w3hHP=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOfjaRErNcmIKzkO-I9E-iQ",
+        "authorChannelId": {
+          "value": "UCOfjaRErNcmIKzkO-I9E-iQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-07T16:52:02Z",
+        "updatedAt": "2022-03-07T16:52:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "KdxpBMIiVaUbNF0nQDIJ3wrqTpw",
+      "id": "UgxbKjBNkXHVcX46NVN4AaABAg.9ZHLYNCanIa9ZJSOeP3Cxa",
+      "snippet": {
+        "textDisplay": "Muito obrigada, nos v\u00eddeos seguintes tentei o melhor para ajustar esta quest\u00e3o. Agrade\u00e7o e se tiver mais sugest\u00f5es ficarei feliz em receber!",
+        "textOriginal": "Muito obrigada, nos v\u00eddeos seguintes tentei o melhor para ajustar esta quest\u00e3o. Agrade\u00e7o e se tiver mais sugest\u00f5es ficarei feliz em receber!",
+        "parentId": "UgxbKjBNkXHVcX46NVN4AaABAg",
+        "authorDisplayName": "#DicasPsi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/H5Bi0lkYjvl_t5vtVN25obsTbR86ZFfvZwhOmIoGYpg-lmAj-K0F9psMZFPaco7UiE7O5rHzd50=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeMvNB-8CsUxuuG6Bntlhzw",
+        "authorChannelId": {
+          "value": "UCeMvNB-8CsUxuuG6Bntlhzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-03-08T12:30:21Z",
+        "updatedAt": "2022-03-08T12:30:21Z"
+      }
+    }
+  ]
+}

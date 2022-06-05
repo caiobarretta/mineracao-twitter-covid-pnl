@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "5NHuLxiy9KHEk2JKloZmWICTGgM",
+  "id": "Ugw78qER8zg2sbvYkFt4AaABAg",
+  "snippet": {
+    "videoId": "H4J9OXwdo_c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "lDAGYRSSQlTxppZZ-AB-IQJb6zk",
+      "id": "Ugw78qER8zg2sbvYkFt4AaABAg",
+      "snippet": {
+        "videoId": "H4J9OXwdo_c",
+        "textDisplay": "\ud83d\ude02\ud83e\udd21\ud83d\ude02\ud83e\udd21\ud83d\ude02\ud83e\udd21\ud83d\ude02",
+        "textOriginal": "\ud83d\ude02\ud83e\udd21\ud83d\ude02\ud83e\udd21\ud83d\ude02\ud83e\udd21\ud83d\ude02",
+        "authorDisplayName": "Mindyour Ownbusiness",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRx4uZ-uzXi_1sKza3E7XN1LT3tbQTBVvKg_g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCrVHl4OyhzMmGWITIkbO0EA",
+        "authorChannelId": {
+          "value": "UCrVHl4OyhzMmGWITIkbO0EA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2022-05-20T19:59:04Z",
+        "updatedAt": "2022-05-20T19:59:04Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2xUFeFBgl9hItsznvB0S6yY8DnA",
+      "id": "Ugw78qER8zg2sbvYkFt4AaABAg.9bGDlzOHQom9bGJVF2_ZEz",
+      "snippet": {
+        "textDisplay": "\ud83e\udde0",
+        "textOriginal": "\ud83e\udde0",
+        "parentId": "Ugw78qER8zg2sbvYkFt4AaABAg",
+        "authorDisplayName": "Blue Lava",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJFoUpD4Ux4OgDe6kbh-8ISiyxIFDBS6H0K0fPaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCISsFdehzZEiELuvLBN4XtA",
+        "authorChannelId": {
+          "value": "UCISsFdehzZEiELuvLBN4XtA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-20T20:49:04Z",
+        "updatedAt": "2022-05-20T20:49:04Z"
+      }
+    }
+  ]
+}

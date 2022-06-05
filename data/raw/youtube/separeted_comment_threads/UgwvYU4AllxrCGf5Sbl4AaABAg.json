@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "ZfgDZoNhJcjA7agNa9EXJKCk3RI",
+  "id": "UgwvYU4AllxrCGf5Sbl4AaABAg",
+  "snippet": {
+    "videoId": "YI8i_zyGP2E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "K0xo4T-RG5B0NgIj8DdkXrBPw4s",
+      "id": "UgwvYU4AllxrCGf5Sbl4AaABAg",
+      "snippet": {
+        "videoId": "YI8i_zyGP2E",
+        "textDisplay": "S\u00f3 coisa boa em 2021...",
+        "textOriginal": "S\u00f3 coisa boa em 2021...",
+        "authorDisplayName": "Alan Mota",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyPc0sNWNm3dLLsVXGnqX9wa6A03rgWs1-6Hx8GDBgB8vxdtIiakcwPQXiAfU3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCns2EKrEJGVHpBCWY9BgfgA",
+        "authorChannelId": {
+          "value": "UCns2EKrEJGVHpBCWY9BgfgA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 15,
+        "publishedAt": "2021-12-28T15:29:55Z",
+        "updatedAt": "2021-12-28T15:29:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "awsj1FBDuSjz2KY4LPJyw6Igs-M",
+      "id": "UgwvYU4AllxrCGf5Sbl4AaABAg.9WVXIeAY_uR9WZ5hzN9JIu",
+      "snippet": {
+        "textDisplay": "S\u00f3 desgra\u00e7as",
+        "textOriginal": "S\u00f3 desgra\u00e7as",
+        "parentId": "UgwvYU4AllxrCGf5Sbl4AaABAg",
+        "authorDisplayName": "HUZULINO",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/FKe3UX0fS93z8Vb66_-7tyUHM4bXtySdzwxA5n_NlOv023xxAbFNm8wRV-PavOsrx-aStHTEcw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2inkJE422Xy-PGjNB0KeLg",
+        "authorChannelId": {
+          "value": "UC2inkJE422Xy-PGjNB0KeLg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-30T00:45:49Z",
+        "updatedAt": "2021-12-30T00:45:49Z"
+      }
+    }
+  ]
+}

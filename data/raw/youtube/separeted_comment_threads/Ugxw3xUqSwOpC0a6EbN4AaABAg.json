@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "tEBUG-yzNx_l7d3tKGOHYI_iCSA",
+  "id": "Ugxw3xUqSwOpC0a6EbN4AaABAg",
+  "snippet": {
+    "videoId": "sQaBKLsuMrY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3PMFbk4-vgCARN7QhXSH62VwVAA",
+      "id": "Ugxw3xUqSwOpC0a6EbN4AaABAg",
+      "snippet": {
+        "videoId": "sQaBKLsuMrY",
+        "textDisplay": "PREFEITURA DE SERRINHA",
+        "textOriginal": "PREFEITURA DE SERRINHA",
+        "authorDisplayName": "G\u00e9ssica Daise Oliveira deAlmeida",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJ9zBDrL3Kz9stq4kO7ACzqF7_YeSWmxPHKi5JKg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCGHMovNN75FvoqP3OLEZyuw",
+        "authorChannelId": {
+          "value": "UCGHMovNN75FvoqP3OLEZyuw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2020-04-02T03:00:25Z",
+        "updatedAt": "2020-04-02T03:00:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "E8kyrr0H7Aj0kRtPdLPlSnS6Uas",
+      "id": "Ugxw3xUqSwOpC0a6EbN4AaABAg.96w6kUgpqDC98XBZgkSYPK",
+      "snippet": {
+        "textDisplay": "Tamb\u00e9m!",
+        "textOriginal": "Tamb\u00e9m!",
+        "parentId": "Ugxw3xUqSwOpC0a6EbN4AaABAg",
+        "authorDisplayName": "Julio Cesar Figueiredo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9kEu1uDGi9gIVj1pV-9TuOZ6gmBKYTuyV3vPsuQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC95sHcO6Dc0p9PFLJbSim_g",
+        "authorChannelId": {
+          "value": "UC95sHcO6Dc0p9PFLJbSim_g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-05-11T18:25:02Z",
+        "updatedAt": "2020-05-11T18:25:02Z"
+      }
+    }
+  ]
+}

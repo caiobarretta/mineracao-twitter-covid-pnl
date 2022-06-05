@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Q-NFMVOdKiZS1gMkLBwYt4aGwXM",
+  "id": "UgzcLWSDGLR1Ir0m-5d4AaABAg",
+  "snippet": {
+    "videoId": "vEfPBaqvJCc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "W8IDFmvi2qy4urFa0m57gFp1HFg",
+      "id": "UgzcLWSDGLR1Ir0m-5d4AaABAg",
+      "snippet": {
+        "videoId": "vEfPBaqvJCc",
+        "textDisplay": "El Nicol\u00e1s Maduro asi\u00e1tico.",
+        "textOriginal": "El Nicol\u00e1s Maduro asi\u00e1tico.",
+        "authorDisplayName": "Yesid Angel B",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/9j_afORxiNdP2L91SXb0pCh2HZbWHeZjvhR_OqGXcGbPrKO8zkTcOa7j_SSmzg3XBOKiHuSH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyXv8MXfTujKcxMZWeokgBw",
+        "authorChannelId": {
+          "value": "UCyXv8MXfTujKcxMZWeokgBw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 11,
+        "publishedAt": "2022-05-20T21:05:03Z",
+        "updatedAt": "2022-05-20T21:05:03Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "t_nyZBAZQATFgk94qxbhhecubLs",
+      "id": "UgzcLWSDGLR1Ir0m-5d4AaABAg.9bGLKMGckYf9bKhE6g9Rp0",
+      "snippet": {
+        "textDisplay": "Maduro es m\u00e1s racional que Kim",
+        "textOriginal": "Maduro es m\u00e1s racional que Kim",
+        "parentId": "UgzcLWSDGLR1Ir0m-5d4AaABAg",
+        "authorDisplayName": "SCP-173 (Mr.cacahuate)",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/dKbj2Bo8FdMqrFD5KaeRmgtXnDDV97LsSLF_r4rmX4s-nkmwruqF9N2TpSg-WrqXciAh541XE0o=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_SJxQlEixDMKW4LLqG7XYg",
+        "authorChannelId": {
+          "value": "UC_SJxQlEixDMKW4LLqG7XYg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-22T13:42:08Z",
+        "updatedAt": "2022-05-22T13:42:08Z"
+      }
+    }
+  ]
+}

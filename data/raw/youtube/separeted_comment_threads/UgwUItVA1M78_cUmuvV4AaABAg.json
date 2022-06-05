@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "doiJudew1D9HhsX83HdqLQSDptE",
+  "id": "UgwUItVA1M78_cUmuvV4AaABAg",
+  "snippet": {
+    "videoId": "x5pyGZ-kPTg",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "iO6Co09n49vloGH0BrgH3auI18g",
+      "id": "UgwUItVA1M78_cUmuvV4AaABAg",
+      "snippet": {
+        "videoId": "x5pyGZ-kPTg",
+        "textDisplay": "Que aula incr\u00edvel!",
+        "textOriginal": "Que aula incr\u00edvel!",
+        "authorDisplayName": "Iramar Di\u00f3genes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGVQ53FiXeEiRYIelg7F6dERysEB1alaAadqfPN68=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfFeC1g6XmfctRjfHuPJXcQ",
+        "authorChannelId": {
+          "value": "UCfFeC1g6XmfctRjfHuPJXcQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-04-15T03:22:01Z",
+        "updatedAt": "2021-04-15T03:22:01Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "dJHryiWSLbmKusLSSLOwb5fjKaE",
+      "id": "UgwUItVA1M78_cUmuvV4AaABAg.9M8ThOfkvKb9MAEAHIcEW-",
+      "snippet": {
+        "textDisplay": "Muito obrigado, Iramar!",
+        "textOriginal": "Muito obrigado, Iramar!",
+        "parentId": "UgwUItVA1M78_cUmuvV4AaABAg",
+        "authorDisplayName": "portugu\u00eas n\u00e3o \u00e9 f\u00e1cil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/NCiutVRIXjRZ8ybQnKnm-Q26FtF_2gAVuToZ1U3JuKvc0dZnlV7p8z5Ey8ociKXPPaLXlXM7=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDVW3tXFddNETL0LQ9pTA9w",
+        "authorChannelId": {
+          "value": "UCDVW3tXFddNETL0LQ9pTA9w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-04-15T19:44:46Z",
+        "updatedAt": "2021-04-15T19:44:46Z"
+      }
+    }
+  ]
+}

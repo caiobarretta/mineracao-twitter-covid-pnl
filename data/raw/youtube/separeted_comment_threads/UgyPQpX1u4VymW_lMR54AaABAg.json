@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "KE5yKF8h1bR99li2qmJQsPrzphc",
+  "id": "UgyPQpX1u4VymW_lMR54AaABAg",
+  "snippet": {
+    "videoId": "vRocWIpExSs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "3UXV0giTKeNDYXLASugpe-Nt_wk",
+      "id": "UgyPQpX1u4VymW_lMR54AaABAg",
+      "snippet": {
+        "videoId": "vRocWIpExSs",
+        "textDisplay": "Agora \u00e9 pandemia???\nN\u00e3o era gripezinha???",
+        "textOriginal": "Agora \u00e9 pandemia???\nN\u00e3o era gripezinha???",
+        "authorDisplayName": "Eduardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2cKupFb4mxarVGM9gPVSSyAD3mlx71tL2FA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtP0cUtTuqr-GmNAQU_2-pw",
+        "authorChannelId": {
+          "value": "UCtP0cUtTuqr-GmNAQU_2-pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 20,
+        "publishedAt": "2022-04-18T00:33:20Z",
+        "updatedAt": "2022-04-18T00:33:20Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YyDNQ_p_hKEYvh-G3tiq_cg5fkU",
+      "id": "UgyPQpX1u4VymW_lMR54AaABAg.9_wjvxgLuCt9_x39pkvIwJ",
+      "snippet": {
+        "textDisplay": "fica em casa!",
+        "textOriginal": "fica em casa!",
+        "parentId": "UgyPQpX1u4VymW_lMR54AaABAg",
+        "authorDisplayName": "Lucas F",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQm3mTZPwi3l0CMLT8s2sJdKxeqyamBsG6v_ug5ascAlSFur39QoFicfuCwUUq=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKgPCMIALVhtKI7WSz5kdPw",
+        "authorChannelId": {
+          "value": "UCKgPCMIALVhtKI7WSz5kdPw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-04-18T03:30:08Z",
+        "updatedAt": "2022-04-18T03:30:08Z"
+      }
+    }
+  ]
+}

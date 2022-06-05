@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "aQkEn49S0-90rCLDwll9OHEs8Tg",
+  "id": "UgytJ5Zp_ZOyZVZElaB4AaABAg",
+  "snippet": {
+    "videoId": "65pOa17oYeY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "hDDKIDK5gCCSL5DFWHpw1IVH-Oc",
+      "id": "UgytJ5Zp_ZOyZVZElaB4AaABAg",
+      "snippet": {
+        "videoId": "65pOa17oYeY",
+        "textDisplay": "Algu\u00e9m tem o link da parte 1",
+        "textOriginal": "Algu\u00e9m tem o link da parte 1",
+        "authorDisplayName": "Mirian Medeiros de fran\u00e7a Medeiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMXAq7tcM586-UcIOJCXBaI_sK5uRinYanWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ7i7W6gNkdQl7DTYLv4VmA",
+        "authorChannelId": {
+          "value": "UCJ7i7W6gNkdQl7DTYLv4VmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-11T23:03:32Z",
+        "updatedAt": "2021-07-11T23:03:32Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 3,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "-SY2LFCRBJJ8rtArsiVnh6QwVNc",
+      "id": "UgytJ5Zp_ZOyZVZElaB4AaABAg.9Pfb4Gqwd649Pi3y9vc0_I",
+      "snippet": {
+        "textDisplay": "@Mirian Medeiros de fran\u00e7a Medeiros por nada querida!",
+        "textOriginal": "@Mirian Medeiros de fran\u00e7a Medeiros por nada querida!",
+        "parentId": "UgytJ5Zp_ZOyZVZElaB4AaABAg",
+        "authorDisplayName": "Carol Anjos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7bFXrP9oplb-0_fRlXebTRFiR4YrgqFzuhbIUXg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSDCJBB16zN8VNPz1svmVHQ",
+        "authorChannelId": {
+          "value": "UCSDCJBB16zN8VNPz1svmVHQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-12T22:03:11Z",
+        "updatedAt": "2021-07-12T22:03:11Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "MbTMggLOrjwAxhUUY3LRnMV9dhM",
+      "id": "UgytJ5Zp_ZOyZVZElaB4AaABAg.9Pfb4Gqwd649Pi3v5-i-0-",
+      "snippet": {
+        "textDisplay": "@Carol Anjos obrigada",
+        "textOriginal": "@Carol Anjos obrigada",
+        "parentId": "UgytJ5Zp_ZOyZVZElaB4AaABAg",
+        "authorDisplayName": "Mirian Medeiros de fran\u00e7a Medeiros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMXAq7tcM586-UcIOJCXBaI_sK5uRinYanWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCJ7i7W6gNkdQl7DTYLv4VmA",
+        "authorChannelId": {
+          "value": "UCJ7i7W6gNkdQl7DTYLv4VmA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-07-12T22:02:46Z",
+        "updatedAt": "2021-07-12T22:02:46Z"
+      }
+    }
+  ]
+}

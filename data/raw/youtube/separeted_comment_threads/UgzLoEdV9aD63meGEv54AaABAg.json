@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6jH0kxT0ARR7IIKYSF-W9NZvnSA",
+  "id": "UgzLoEdV9aD63meGEv54AaABAg",
+  "snippet": {
+    "videoId": "-GaLOnHDAHc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MLZk0LfEVboMVvXYFStMgo7PAgs",
+      "id": "UgzLoEdV9aD63meGEv54AaABAg",
+      "snippet": {
+        "videoId": "-GaLOnHDAHc",
+        "textDisplay": "O Portugu\u00eas est\u00e1 em todos os lugares. \u2764\u2764\u2764",
+        "textOriginal": "O Portugu\u00eas est\u00e1 em todos os lugares. \u2764\u2764\u2764",
+        "authorDisplayName": "Beatriz Lapa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXFnX5nuyhg83QQcV2_TtSS3LZXcKD0C7e8d3HBw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWdTooYf2XOnr0Xqp1mlstA",
+        "authorChannelId": {
+          "value": "UCWdTooYf2XOnr0Xqp1mlstA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 18,
+        "publishedAt": "2020-03-17T19:20:16Z",
+        "updatedAt": "2020-03-17T19:20:16Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "d5YVPdaHwGksIVTGc-FygUJv2dc",
+      "id": "UgzLoEdV9aD63meGEv54AaABAg.96JfA8YXvaF9Q1RKexKvkN",
+      "snippet": {
+        "textDisplay": "Verdade",
+        "textOriginal": "Verdade",
+        "parentId": "UgzLoEdV9aD63meGEv54AaABAg",
+        "authorDisplayName": "Daniela Abel",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJi1SuQfoy1hBSS2mQahI5C8zirbqHG91eIQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0011s-6sZGUn9BTPiEL2wg",
+        "authorChannelId": {
+          "value": "UC0011s-6sZGUn9BTPiEL2wg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-07-20T19:52:11Z",
+        "updatedAt": "2021-07-20T19:52:11Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "zUaO9W1eN3BkIrOkj0bZD3IeddY",
+      "id": "UgzLoEdV9aD63meGEv54AaABAg.96JfA8YXvaF97P0RZ_C72k",
+      "snippet": {
+        "textDisplay": "Lindo\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+        "textOriginal": "Lindo\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+        "parentId": "UgzLoEdV9aD63meGEv54AaABAg",
+        "authorDisplayName": "Leila Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTQKshAeXNTHQRJi08kbZDbIKF1uOAHkieZhQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF4YRmT65282Xp-mPda5StA",
+        "authorChannelId": {
+          "value": "UCF4YRmT65282Xp-mPda5StA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-13T17:42:29Z",
+        "updatedAt": "2020-04-13T17:42:29Z"
+      }
+    }
+  ]
+}

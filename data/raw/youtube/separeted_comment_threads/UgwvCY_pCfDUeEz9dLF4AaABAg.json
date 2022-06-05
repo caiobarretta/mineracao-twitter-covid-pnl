@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "eSGxrmCM3MOMPxvAXxprvap475I",
+  "id": "UgwvCY_pCfDUeEz9dLF4AaABAg",
+  "snippet": {
+    "videoId": "YI8i_zyGP2E",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "MFEeimruHRReCJRG7TvQGGVTgd4",
+      "id": "UgwvCY_pCfDUeEz9dLF4AaABAg",
+      "snippet": {
+        "videoId": "YI8i_zyGP2E",
+        "textDisplay": "Bolsonaro2022 para salvar nos.",
+        "textOriginal": "Bolsonaro2022 para salvar nos.",
+        "authorDisplayName": "Moises S",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEPfddDO2HZ_pOENKF5CUZ68osR5l2LiR3qxWY5w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCxKYuly6ODip1hpyELPlJ4w",
+        "authorChannelId": {
+          "value": "UCxKYuly6ODip1hpyELPlJ4w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2021-12-30T00:37:02Z",
+        "updatedAt": "2021-12-30T00:37:02Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "HoIrnTxkgACRy16OXI2OKDIH9Kc",
+      "id": "UgwvCY_pCfDUeEz9dLF4AaABAg.9WZ4hi4cllH9W_bMSJF7UD",
+      "snippet": {
+        "textDisplay": "Para matar",
+        "textOriginal": "Para matar",
+        "parentId": "UgwvCY_pCfDUeEz9dLF4AaABAg",
+        "authorDisplayName": "Meta",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/YRk0OwcU3AHjZMbaeup-79h7Q-74FK-O-2ck5C3uMoz_ZJm11LmYp9ucziw4vg8K4yI0noNn=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCqqE0rx9HTN308V0cXbejrw",
+        "authorChannelId": {
+          "value": "UCqqE0rx9HTN308V0cXbejrw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-12-30T14:50:20Z",
+        "updatedAt": "2021-12-30T14:50:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "DDNgGAdE-V3sg64PPjOYV4FWYqI",
+  "id": "Ugx6uImqk2boQxCLvdt4AaABAg",
+  "snippet": {
+    "videoId": "obmlZH3X9gs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "SoIoDsaSJHezJ8ir-ZIs2WfeXDc",
+      "id": "Ugx6uImqk2boQxCLvdt4AaABAg",
+      "snippet": {
+        "videoId": "obmlZH3X9gs",
+        "textDisplay": "0:54 Now we know what innersloth was inspired of",
+        "textOriginal": "0:54 Now we know what innersloth was inspired of",
+        "authorDisplayName": "RetziQ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQSFt2ZTSiPnvHuVfuwKU8QWffM8EnqfhlDE1ZAYA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UChDQefIqEC16rb7AXAOlFcA",
+        "authorChannelId": {
+          "value": "UChDQefIqEC16rb7AXAOlFcA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 14,
+        "publishedAt": "2022-04-20T20:08:17Z",
+        "updatedAt": "2022-04-20T20:08:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "BthBGbQXDC4S89N3fdzR3jDeBCY",
+      "id": "Ugx6uImqk2boQxCLvdt4AaABAg.9a2zzEse2xA9a6-KbmSJfz",
+      "snippet": {
+        "textDisplay": "This is exactly the comment I was hoping to see lmao",
+        "textOriginal": "This is exactly the comment I was hoping to see lmao",
+        "parentId": "Ugx6uImqk2boQxCLvdt4AaABAg",
+        "authorDisplayName": "Phoenix",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJo-95OOL6fx3Jm53F8gfFPQk6w4Z8F_07-Svr=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCPJgz11aMZfZ2Sj5BP2GKlA",
+        "authorChannelId": {
+          "value": "UCPJgz11aMZfZ2Sj5BP2GKlA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2022-04-22T00:09:03Z",
+        "updatedAt": "2022-04-22T00:09:03Z"
+      }
+    }
+  ]
+}

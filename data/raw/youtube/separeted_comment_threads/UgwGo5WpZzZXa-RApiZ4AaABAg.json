@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jsZnIUybnltWY_fj3TO-KvkLx6g",
+  "id": "UgwGo5WpZzZXa-RApiZ4AaABAg",
+  "snippet": {
+    "videoId": "8J5mwLqoSfw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "sft8jJPoAOWDz0qJiHpdxslAntM",
+      "id": "UgwGo5WpZzZXa-RApiZ4AaABAg",
+      "snippet": {
+        "videoId": "8J5mwLqoSfw",
+        "textDisplay": "It's so lax because the alternative is like herding cats.",
+        "textOriginal": "It's so lax because the alternative is like herding cats.",
+        "authorDisplayName": "John Billings",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRGTeKBZaLE-9j5HK3h563I83GnvDdBCld_3w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCl0pYvnntHAp8mJ0QbMQwrg",
+        "authorChannelId": {
+          "value": "UCl0pYvnntHAp8mJ0QbMQwrg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2022-05-20T21:05:44Z",
+        "updatedAt": "2022-05-20T21:05:44Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "9YMR4eanMmzMfLtlCQQZabdVu0c",
+      "id": "UgwGo5WpZzZXa-RApiZ4AaABAg.9bGLPJ10bOU9bN9YaGzLEP",
+      "snippet": {
+        "textDisplay": "Absolutely  everything has become so political.",
+        "textOriginal": "Absolutely  everything has become so political.",
+        "parentId": "UgwGo5WpZzZXa-RApiZ4AaABAg",
+        "authorDisplayName": "Robert Pendergrass",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQg0b6DF9pu1PNrj5hqE87RNtfmVv8-cvL6pc_FYIXissoucHyPEDoNDuHtuyM2=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkgWfuGqb3CO9C_9JspKvbA",
+        "authorChannelId": {
+          "value": "UCkgWfuGqb3CO9C_9JspKvbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-23T12:36:50Z",
+        "updatedAt": "2022-05-23T12:36:50Z"
+      }
+    }
+  ]
+}

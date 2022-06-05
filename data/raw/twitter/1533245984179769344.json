@@ -1,0 +1,140 @@
+{
+  "created_at": "Sun Jun 05 00:35:03 +0000 2022",
+  "id": 1533245984179769344,
+  "id_str": "1533245984179769344",
+  "full_text": "@LuizFer18962352 @MoroNordeste Bom, eu li a mat\u00e9ria e n\u00e3o \u00e9 s\u00f3 pela taxa\u00e7\u00e3o de grandes fortunas que est\u00e3o saindo n\u00e9?!\nPandemia, infla\u00e7\u00e3o, altos impostos, baixa produ\u00e7\u00e3o ...\n\nEnquanto Uruguai oferece uma sa\u00fade p\u00fablica de qualidade, com facilidades para migra\u00e7\u00e3o e maior seguran\u00e7a.",
+  "truncated": false,
+  "display_text_range": [
+    31,
+    279
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LuizFer18962352",
+        "name": "Luiz Fernando \ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\udde6",
+        "id": 1442241232361590790,
+        "id_str": "1442241232361590790",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "MoroNordeste",
+        "name": "Moro Nordeste",
+        "id": 1275171518230790146,
+        "id_str": "1275171518230790146",
+        "indices": [
+          17,
+          30
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1533244135750127616,
+  "in_reply_to_status_id_str": "1533244135750127616",
+  "in_reply_to_user_id": 1442241232361590790,
+  "in_reply_to_user_id_str": "1442241232361590790",
+  "in_reply_to_screen_name": "LuizFer18962352",
+  "user": {
+    "id": 1065777396861804544,
+    "id_str": "1065777396861804544",
+    "name": "Peterson",
+    "screen_name": "SenhaPeterson",
+    "location": "Curitiba, Brasil",
+    "description": "Santista, f\u00e3 de pixote e ala armador \ud83c\udf39\nEntusiasta na \u00e1rea de tecnologia e futuro engenheiro eletricista.\nDecidi ser chato no Twitter e postar meme no Facebook",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3412,
+    "friends_count": 4718,
+    "listed_count": 10,
+    "created_at": "Fri Nov 23 01:21:47 +0000 2018",
+    "favourites_count": 42514,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6849,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1424670127472193538/TrUL7wPB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424670127472193538/TrUL7wPB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065777396861804544/1548714529",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "6d5542f8d837770d",
+    "url": "https://api.twitter.com/1.1/geo/id/6d5542f8d837770d.json",
+    "place_type": "city",
+    "name": "Curitiba",
+    "full_name": "Curitiba, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -49.3916434,
+            -25.6447517
+          ],
+          [
+            -49.1852775,
+            -25.6447517
+          ],
+          [
+            -49.1852775,
+            -25.3457471
+          ],
+          [
+            -49.3916434,
+            -25.3457471
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

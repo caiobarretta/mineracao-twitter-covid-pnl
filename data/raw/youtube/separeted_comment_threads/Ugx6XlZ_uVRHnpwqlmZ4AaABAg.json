@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "vocxsturNvPyDaJlzeFrNwsqwJ0",
+  "id": "Ugx6XlZ_uVRHnpwqlmZ4AaABAg",
+  "snippet": {
+    "videoId": "TFsd3fWw6Es",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pWU5tpvNW2zaaTVBnyke1QLT6xY",
+      "id": "Ugx6XlZ_uVRHnpwqlmZ4AaABAg",
+      "snippet": {
+        "videoId": "TFsd3fWw6Es",
+        "textDisplay": "boa noite \ud83d\udc95",
+        "textOriginal": "boa noite \ud83d\udc95",
+        "authorDisplayName": "Grazy Bernardes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHXttVS6tydRauc0AbFCT5U-31hbIzYtCn70BcfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSONZjXdnF-zufhAeOCcfkQ",
+        "authorChannelId": {
+          "value": "UCSONZjXdnF-zufhAeOCcfkQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-02-04T00:12:55Z",
+        "updatedAt": "2020-02-04T00:12:55Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "V9FrZ-1T2lSn6viixwwsdGWelfw",
+      "id": "Ugx6XlZ_uVRHnpwqlmZ4AaABAg.94aTTyKeVlh94aVPiyHdj1",
+      "snippet": {
+        "textDisplay": "Grazy Bernardes Boa noite Grazy \ud83e\udd70",
+        "textOriginal": "Grazy Bernardes Boa noite Grazy \ud83e\udd70",
+        "parentId": "Ugx6XlZ_uVRHnpwqlmZ4AaABAg",
+        "authorDisplayName": "CASINHA DA DINA MORI SOARES",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRdWWqqmAjcFk1V_Smmx1Hga2IOtgm1fzoy6A__6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVLtoncQdRhSLUTDhVwZjNQ",
+        "authorChannelId": {
+          "value": "UCVLtoncQdRhSLUTDhVwZjNQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-02-04T00:29:49Z",
+        "updatedAt": "2020-02-04T00:29:49Z"
+      }
+    }
+  ]
+}

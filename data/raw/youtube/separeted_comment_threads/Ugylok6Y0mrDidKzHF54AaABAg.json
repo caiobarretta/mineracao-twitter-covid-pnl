@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "6bOH2p6GP6eY5OtBN3byYPe8UCQ",
+  "id": "Ugylok6Y0mrDidKzHF54AaABAg",
+  "snippet": {
+    "videoId": "E8Ms56gX-Tc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "gnjk5KBTWTp9486BjtcfH0TdBSE",
+      "id": "Ugylok6Y0mrDidKzHF54AaABAg",
+      "snippet": {
+        "videoId": "E8Ms56gX-Tc",
+        "textDisplay": "Slusanje ove pjesme u noci u krevetu sa sluskama je neopisiv osjecaj",
+        "textOriginal": "Slusanje ove pjesme u noci u krevetu sa sluskama je neopisiv osjecaj",
+        "authorDisplayName": "David Tunjic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS-QDYtvDHCC8KmgkagPk86TToeiiTItBqYaQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLcukr7JRuSq8xP-5-PUONg",
+        "authorChannelId": {
+          "value": "UCLcukr7JRuSq8xP-5-PUONg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 73,
+        "publishedAt": "2020-10-12T21:59:56Z",
+        "updatedAt": "2020-10-12T21:59:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "fliRgGoKYusPpMh0nqoIhJ9-dPM",
+      "id": "Ugylok6Y0mrDidKzHF54AaABAg.9Ej6_R7od0e9FyqCRl051j",
+      "snippet": {
+        "textDisplay": "Dobro zboris, brate!",
+        "textOriginal": "Dobro zboris, brate!",
+        "parentId": "Ugylok6Y0mrDidKzHF54AaABAg",
+        "authorDisplayName": "Luka Jankovic",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFAK2FxSWDpXH-6gVKPkHenSaYfGQmSizdIxsTTA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0HdgbkR7re9sK9t7DN9pvA",
+        "authorChannelId": {
+          "value": "UC0HdgbkR7re9sK9t7DN9pvA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-11-12T21:07:21Z",
+        "updatedAt": "2020-11-12T21:07:21Z"
+      }
+    }
+  ]
+}

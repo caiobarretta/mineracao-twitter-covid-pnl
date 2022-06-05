@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jyTDqlqxjUJebhN5gei0B8fIx5Q",
+  "id": "UgyQI8c5e_vEic2kf3J4AaABAg",
+  "snippet": {
+    "videoId": "lC4qTgXG7FY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "p_RW1qL0dCWDH60xC0w-s_WU-G4",
+      "id": "UgyQI8c5e_vEic2kf3J4AaABAg",
+      "snippet": {
+        "videoId": "lC4qTgXG7FY",
+        "textDisplay": "\"Claudin\"\n\"De castigo at\u00e9 o Victor para de criar Carlos\"",
+        "textOriginal": "\"Claudin\"\n\"De castigo at\u00e9 o Victor para de criar Carlos\"",
+        "authorDisplayName": "\ua9c1\u029c\u1d00\u0274\u1d0d\u1d00\ua9c2",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/AcwLMSqxAZyAuBFM8niiF9SlpUt5vLh0TI8P6hYjLWG6e5eHrMfq9uNFJaRSqLXvrGFFk-0K=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCWp3tEZz6zKmMe6oVgTL38g",
+        "authorChannelId": {
+          "value": "UCWp3tEZz6zKmMe6oVgTL38g"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 21,
+        "publishedAt": "2022-05-28T19:33:24Z",
+        "updatedAt": "2022-05-28T19:33:24Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "5vuFGCiA4BD5hBHzG01CAiCTbAY",
+      "id": "UgyQI8c5e_vEic2kf3J4AaABAg.9b_mC21bTgY9baFkqncRTF",
+      "snippet": {
+        "textDisplay": "Se eu n me engano j\u00e1 tem um desses",
+        "textOriginal": "Se eu n me engano j\u00e1 tem um desses",
+        "parentId": "UgyQI8c5e_vEic2kf3J4AaABAg",
+        "authorDisplayName": "Lefty Thebear_678",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lPQGDa-wcg9-KZNo2n1oNOE3PdNnMV-tbc0nSuIwfM2y5kmqNzAaz7pTI8k2SDXgoenUFHeuWw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCf1R8fDG2tz-QcNTBaCfLRg",
+        "authorChannelId": {
+          "value": "UCf1R8fDG2tz-QcNTBaCfLRg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-29T00:00:26Z",
+        "updatedAt": "2022-05-29T00:00:26Z"
+      }
+    }
+  ]
+}

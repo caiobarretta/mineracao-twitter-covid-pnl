@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "Qwfb6ZHk3g4AReFkjR-Jh75t1RA",
+  "id": "UgzhMo9V6f96LjPRu3p4AaABAg",
+  "snippet": {
+    "videoId": "z3Z5PBsOskc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "PDWo72HBJPSlYDe9RZ9F6sCAT2Q",
+      "id": "UgzhMo9V6f96LjPRu3p4AaABAg",
+      "snippet": {
+        "videoId": "z3Z5PBsOskc",
+        "textDisplay": "31/12/19 vivemos at\u00e9 a\u00ed",
+        "textOriginal": "31/12/19 vivemos at\u00e9 a\u00ed",
+        "authorDisplayName": "CryptoCoin",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/I-AqgoJEN2QqXOQayRaKDtWoSeNMz6BLvq0eMDJLYhG2VwZIRFwgi_jeNGxmaGfxiEYTMeSGdi8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC2YGkwz8QXa31zbuujtntwQ",
+        "authorChannelId": {
+          "value": "UC2YGkwz8QXa31zbuujtntwQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-03-02T14:40:22Z",
+        "updatedAt": "2021-03-02T14:40:22Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "2WaNGtOxFBrR4va4ZwGj-RaLAdo",
+      "id": "UgzhMo9V6f96LjPRu3p4AaABAg.9KOOMMcSQHJ9QgL0yN52nc",
+      "snippet": {
+        "textDisplay": "05/08/21",
+        "textOriginal": "05/08/21",
+        "parentId": "UgzhMo9V6f96LjPRu3p4AaABAg",
+        "authorDisplayName": "Andressa Oliveira",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaq3h0vGHBKV26N-uqGgn-Bo6HHt2NvxSPIrdK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeUDKDmyGI3Eq0YVra-hOSg",
+        "authorChannelId": {
+          "value": "UCeUDKDmyGI3Eq0YVra-hOSg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-08-06T02:25:10Z",
+        "updatedAt": "2021-08-06T02:25:10Z"
+      }
+    }
+  ]
+}

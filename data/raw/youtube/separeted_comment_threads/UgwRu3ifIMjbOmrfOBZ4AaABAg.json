@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "jXq__qMeRsYJJ9jB5NlOXaYBDzw",
+  "id": "UgwRu3ifIMjbOmrfOBZ4AaABAg",
+  "snippet": {
+    "videoId": "v-f6XLsU1tE",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "izibhHBNYuw9zOFc6rVPiyp-Mgo",
+      "id": "UgwRu3ifIMjbOmrfOBZ4AaABAg",
+      "snippet": {
+        "videoId": "v-f6XLsU1tE",
+        "textDisplay": "umbrella corporation simples;)",
+        "textOriginal": "umbrella corporation simples;)",
+        "authorDisplayName": "Elias Jr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIwu_NPtR7YknhLcnPpcnvR-o-LEcCw_nD1GK7ZJ0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfWKFc-hvxidO_ycysYSvmQ",
+        "authorChannelId": {
+          "value": "UCfWKFc-hvxidO_ycysYSvmQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-27T02:34:59Z",
+        "updatedAt": "2022-05-27T02:34:59Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "rxjO2OzaHh1aUHtZUoHAzfr4wI8",
+      "id": "UgwRu3ifIMjbOmrfOBZ4AaABAg.9bWNr6FYujf9bWOPHRvcpo",
+      "snippet": {
+        "textDisplay": "o dono da Microsoft ta no meio certeza",
+        "textOriginal": "o dono da Microsoft ta no meio certeza",
+        "parentId": "UgwRu3ifIMjbOmrfOBZ4AaABAg",
+        "authorDisplayName": "Elias Jr",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIwu_NPtR7YknhLcnPpcnvR-o-LEcCw_nD1GK7ZJ0=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfWKFc-hvxidO_ycysYSvmQ",
+        "authorChannelId": {
+          "value": "UCfWKFc-hvxidO_ycysYSvmQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-27T02:39:47Z",
+        "updatedAt": "2022-05-27T02:39:47Z"
+      }
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "KIpTl8lVJWy_NxhPvkn3wXqiOYI",
+  "etag": "S2TqlgPZ7SyMna3Svi4bhYONiJo",
   "id": "Ugz601usEQgLGoEwpx94AaABAg",
   "snippet": {
     "videoId": "LLelnPhkk6c",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "Zi222FlfZ0e8wNDe7DCgXmVbgIY",
+      "etag": "2aNl5cJHgPcp6HFXE8-OZpj2YvI",
       "id": "Ugz601usEQgLGoEwpx94AaABAg",
       "snippet": {
         "videoId": "LLelnPhkk6c",
@@ -20,36 +20,14 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 4,
+        "likeCount": 1,
         "publishedAt": "2022-05-06T18:17:17Z",
         "updatedAt": "2022-05-06T18:17:17Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 1,
+    "totalReplyCount": 0,
     "isPublic": true
   },
-  "comments": [
-    {
-      "kind": "youtube#comment",
-      "etag": "NAdVMpYC5d5w8SFzMAWCOaVijHM",
-      "id": "Ugz601usEQgLGoEwpx94AaABAg.9ah--JqqfBy9asvDq1l32B",
-      "snippet": {
-        "textDisplay": "Comparala con la inflaci\u00f3n, la bolsa, la deuda y hasta los activos de Rusia.\n\nA ver cu\u00e1l de los 2 va ganando",
-        "textOriginal": "Comparala con la inflaci\u00f3n, la bolsa, la deuda y hasta los activos de Rusia.\n\nA ver cu\u00e1l de los 2 va ganando",
-        "parentId": "Ugz601usEQgLGoEwpx94AaABAg",
-        "authorDisplayName": "Iofer",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSKgaajBTPGm_wj-ePGmsw9pm3CuJR8r0eLlA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCjUvTEVueQyZIWaLQvKqYgw",
-        "authorChannelId": {
-          "value": "UCjUvTEVueQyZIWaLQvKqYgw"
-        },
-        "canRate": true,
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-05-11T09:26:28Z",
-        "updatedAt": "2022-05-11T09:26:28Z"
-      }
-    }
-  ]
+  "comments": []
 }

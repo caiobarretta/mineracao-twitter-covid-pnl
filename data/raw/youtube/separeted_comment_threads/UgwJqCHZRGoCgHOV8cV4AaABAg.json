@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "pgH_i-lMFgfEAD6fEYiPeALsnqg",
+  "id": "UgwJqCHZRGoCgHOV8cV4AaABAg",
+  "snippet": {
+    "videoId": "lSyXNpY48yY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "4-t4ctmEO3-7yrlp-v0K0s104sc",
+      "id": "UgwJqCHZRGoCgHOV8cV4AaABAg",
+      "snippet": {
+        "videoId": "lSyXNpY48yY",
+        "textDisplay": "Dr Renato e os idosos contunuam a sofrer mais?",
+        "textOriginal": "Dr Renato e os idosos contunuam a sofrer mais?",
+        "authorDisplayName": "Nilva Lisboa",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQeds3Ig8v7piu5J6EcWEs9sAz2zqc4q9CluQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCyvnQKU5uTn_1CPVTCH-Imw",
+        "authorChannelId": {
+          "value": "UCyvnQKU5uTn_1CPVTCH-Imw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2022-05-17T21:46:51Z",
+        "updatedAt": "2022-05-17T21:46:51Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "__3Qwofkz1vjM_nMLa7pqrLbkTc",
+      "id": "UgwJqCHZRGoCgHOV8cV4AaABAg.9b8gimYZxbG9b8gwH1Z7JQ",
+      "snippet": {
+        "textDisplay": "Sim!",
+        "textOriginal": "Sim!",
+        "parentId": "UgwJqCHZRGoCgHOV8cV4AaABAg",
+        "authorDisplayName": "Renato Cassol - M\u00e9dico Infectologista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSrcZVWOum_Cvnec_hNWTNeD5QGo4T46j0M0bEo1w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOxM5rESbIueKgZv9zqTquw",
+        "authorChannelId": {
+          "value": "UCOxM5rESbIueKgZv9zqTquw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-05-17T21:48:41Z",
+        "updatedAt": "2022-05-17T21:48:41Z"
+      }
+    }
+  ]
+}

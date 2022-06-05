@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "RwPe7PrZ8nk5ujN04RP0kydyY3A",
+  "id": "UgxaSc4bLu9e-xphDVR4AaABAg",
+  "snippet": {
+    "videoId": "vFdJOnymu8c",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "pBIleJa_16eswzLy9DB6RXQKtvM",
+      "id": "UgxaSc4bLu9e-xphDVR4AaABAg",
+      "snippet": {
+        "videoId": "vFdJOnymu8c",
+        "textDisplay": "Nossa ficou incr\u00edvel!",
+        "textOriginal": "Nossa ficou incr\u00edvel!",
+        "authorDisplayName": "Maria Eduarda Andrade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzc1aeojT1TNIpEvHGCsUQQdNZ46fPJhRZ6NSHt6w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCs98ecQrtEk8j50uj_yvr-w",
+        "authorChannelId": {
+          "value": "UCs98ecQrtEk8j50uj_yvr-w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-10-05T02:45:52Z",
+        "updatedAt": "2021-10-05T02:45:52Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "8xAZNTSqYDdthKtRxg-BYidXGhw",
+      "id": "UgxaSc4bLu9e-xphDVR4AaABAg.9T5s52FOyln9T7RLJEVORy",
+      "snippet": {
+        "textDisplay": "Obrigada Maria. Bons estudos e muito sucesso pra voc\u00ea  \ud83d\udcda",
+        "textOriginal": "Obrigada Maria. Bons estudos e muito sucesso pra voc\u00ea  \ud83d\udcda",
+        "parentId": "UgxaSc4bLu9e-xphDVR4AaABAg",
+        "authorDisplayName": "CURSO BM",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9iYjUdqC-7DcnWx_h9mH4vlnjIfobY6x6r7gu=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCeTyPy8AciZeh82K8QVczAg",
+        "authorChannelId": {
+          "value": "UCeTyPy8AciZeh82K8QVczAg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-05T17:21:54Z",
+        "updatedAt": "2021-10-05T17:21:54Z"
+      }
+    }
+  ]
+}

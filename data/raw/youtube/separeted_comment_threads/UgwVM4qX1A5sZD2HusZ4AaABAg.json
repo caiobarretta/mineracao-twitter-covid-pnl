@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "bxA3dHaChM-GFTL9nNwjlHcNTGo",
+  "id": "UgwVM4qX1A5sZD2HusZ4AaABAg",
+  "snippet": {
+    "videoId": "_SDFAY3PT94",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "JDHp5JCEKW1BvnOQTY5yYVnM9O8",
+      "id": "UgwVM4qX1A5sZD2HusZ4AaABAg",
+      "snippet": {
+        "videoId": "_SDFAY3PT94",
+        "textDisplay": "Record t\u00e1 virando a Globo lixo.",
+        "textOriginal": "Record t\u00e1 virando a Globo lixo.",
+        "authorDisplayName": "Sonia Busnardo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTpqBV8K93tyCb-osgEd81_mougDmXjLVIKiEIM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0xBoC7SM1489Mhx6UN9W7w",
+        "authorChannelId": {
+          "value": "UC0xBoC7SM1489Mhx6UN9W7w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2021-11-30T19:39:56Z",
+        "updatedAt": "2021-11-30T19:39:56Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "Q4FcR8FrgUvwTiZsb6I17MoftOg",
+      "id": "UgwVM4qX1A5sZD2HusZ4AaABAg.9VNseCxofkX9VO1PqvRo5e",
+      "snippet": {
+        "textDisplay": "Record \u00e9  capa branca.",
+        "textOriginal": "Record \u00e9  capa branca.",
+        "parentId": "UgwVM4qX1A5sZD2HusZ4AaABAg",
+        "authorDisplayName": "Pereira Lima",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSybQE3IcFAPLquMEUzN-MMvhGMhvr2PT7sg0O1cw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCXcU4QTinbSoSm3-NokS61A",
+        "authorChannelId": {
+          "value": "UCXcU4QTinbSoSm3-NokS61A"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-30T21:05:12Z",
+        "updatedAt": "2021-11-30T21:05:12Z"
+      }
+    }
+  ]
+}

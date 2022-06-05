@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "-RxaUcn5ju2Uj4A1PGpDmS8QRaw",
+  "id": "UgzkhAKk4oSCx2tNpOp4AaABAg",
+  "snippet": {
+    "videoId": "QmHz-3Gcmhs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "RxiS5Ze3Oilm5GXpRPDzV7OLWVc",
+      "id": "UgzkhAKk4oSCx2tNpOp4AaABAg",
+      "snippet": {
+        "videoId": "QmHz-3Gcmhs",
+        "textDisplay": "Belos document\u00e1rios.",
+        "textOriginal": "Belos document\u00e1rios.",
+        "authorDisplayName": "Carlos Fabian Barros",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9qVn6NdU0bV3wQSIN3_HyfTvU2PJPb3pd=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZfAy1OCLAwyMH244mtBVzw",
+        "authorChannelId": {
+          "value": "UCZfAy1OCLAwyMH244mtBVzw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-10T14:12:42Z",
+        "updatedAt": "2021-11-10T14:12:42Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "YEAFej7zc7deqIl5dvLdHUPe5Gc",
+      "id": "UgzkhAKk4oSCx2tNpOp4AaABAg.9UZnJ56xdro9U_wtus17Ns",
+      "snippet": {
+        "textDisplay": "Obrigado, Carlos!",
+        "textOriginal": "Obrigado, Carlos!",
+        "parentId": "UgzkhAKk4oSCx2tNpOp4AaABAg",
+        "authorDisplayName": "Destino: Berlim",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6Es-sLPrOjprcLdUt5HmFNvP125HIsk6YYcc3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCHJd8Np1fTwLUfBJsvH9RRA",
+        "authorChannelId": {
+          "value": "UCHJd8Np1fTwLUfBJsvH9RRA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-11-11T00:55:45Z",
+        "updatedAt": "2021-11-11T00:55:45Z"
+      }
+    }
+  ]
+}

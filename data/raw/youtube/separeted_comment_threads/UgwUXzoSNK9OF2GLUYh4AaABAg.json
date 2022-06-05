@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "x7wIv2obckm-uW3WwokyQeS-vvM",
+  "id": "UgwUXzoSNK9OF2GLUYh4AaABAg",
+  "snippet": {
+    "videoId": "dZJTLIK7SjA",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "v3tnF61bStDwCyPJE6PbiAv1aMo",
+      "id": "UgwUXzoSNK9OF2GLUYh4AaABAg",
+      "snippet": {
+        "videoId": "dZJTLIK7SjA",
+        "textDisplay": "Outstanding mind blowing superb",
+        "textOriginal": "Outstanding mind blowing superb",
+        "authorDisplayName": "DIVYKANT SIR",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSAdErM15nF_RA71W-PvYQjpMUiq6k5dq4-Cg2eAw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDG7Xrq7Z3047XjJWakVxVA",
+        "authorChannelId": {
+          "value": "UCDG7Xrq7Z3047XjJWakVxVA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2020-11-14T04:22:49Z",
+        "updatedAt": "2020-11-14T04:22:49Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "OYEuU-b43I7jCY5qcJYbLvN-Jss",
+      "id": "UgwUXzoSNK9OF2GLUYh4AaABAg.9G1BplYVPk49G22But0NVz",
+      "snippet": {
+        "textDisplay": "Thank you so much \ud83d\ude00",
+        "textOriginal": "Thank you so much \ud83d\ude00",
+        "parentId": "UgwUXzoSNK9OF2GLUYh4AaABAg",
+        "authorDisplayName": "P Kalika Maths",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwCa0EdvkRneYjIrfsBVCOQmfkYhxOH2OUAvejhA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVUB-lRXnN40I0EXjvVVJDw",
+        "authorChannelId": {
+          "value": "UCVUB-lRXnN40I0EXjvVVJDw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-11-14T12:17:50Z",
+        "updatedAt": "2020-11-14T12:17:50Z"
+      }
+    }
+  ]
+}

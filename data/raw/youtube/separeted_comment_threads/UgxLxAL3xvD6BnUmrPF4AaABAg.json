@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "3G30LXULzfFQVR1q2BJOa9ZUeUc",
+  "id": "UgxLxAL3xvD6BnUmrPF4AaABAg",
+  "snippet": {
+    "videoId": "1lsv4Y1Pkzc",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "8zub2uCqnhoumY3Dt9Yrcx20wqU",
+      "id": "UgxLxAL3xvD6BnUmrPF4AaABAg",
+      "snippet": {
+        "videoId": "1lsv4Y1Pkzc",
+        "textDisplay": "oque \u00e9 sua ?",
+        "textOriginal": "oque \u00e9 sua ?",
+        "authorDisplayName": "Maria Jos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsgNce79q2UXQzgZEl4vvMbbN-f8e3yQqkiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzWRBBglEGoLbByy3aTSr8w",
+        "authorChannelId": {
+          "value": "UCzWRBBglEGoLbByy3aTSr8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-17T23:35:48Z",
+        "updatedAt": "2022-02-17T23:35:48Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FaqaUBl0aSYvWHGdVnGZtuitduA",
+      "id": "UgxLxAL3xvD6BnUmrPF4AaABAg.9YZiRsjhzKb9YbGuZi2BAb",
+      "snippet": {
+        "textDisplay": "\ud83d\ude0f",
+        "textOriginal": "\ud83d\ude0f",
+        "parentId": "UgxLxAL3xvD6BnUmrPF4AaABAg",
+        "authorDisplayName": "EVALDO OLIVEIRA",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTBXoasrRy18Y_UT3CmoD0Eh06OLURcJ887Q3rZCPg_48vweYq__-ozqxISFV0V=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC0MktyXd0SIw_G6-lQLW7Fg",
+        "authorChannelId": {
+          "value": "UC0MktyXd0SIw_G6-lQLW7Fg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-02-18T23:24:10Z",
+        "updatedAt": "2022-02-18T23:24:10Z"
+      }
+    },
+    {
+      "kind": "youtube#comment",
+      "etag": "te4w6XOyfSlZWwZ_hnA2pBVZYy4",
+      "id": "UgxLxAL3xvD6BnUmrPF4AaABAg.9YZiRsjhzKb9YZiWs-4YhQ",
+      "snippet": {
+        "textDisplay": "oque \u00e9 sus ?",
+        "textOriginal": "oque \u00e9 sus ?",
+        "parentId": "UgxLxAL3xvD6BnUmrPF4AaABAg",
+        "authorDisplayName": "Maria Jos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsgNce79q2UXQzgZEl4vvMbbN-f8e3yQqkiw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCzWRBBglEGoLbByy3aTSr8w",
+        "authorChannelId": {
+          "value": "UCzWRBBglEGoLbByy3aTSr8w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-02-17T23:36:28Z",
+        "updatedAt": "2022-02-17T23:36:28Z"
+      }
+    }
+  ]
+}

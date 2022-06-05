@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "R_ar2SMfepU-Azv33-VHbgmyrK0",
+  "id": "UgxJaKTS0JBUXdT-DS54AaABAg",
+  "snippet": {
+    "videoId": "gPqoFFJAaDY",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "E7tmCGWDDjf9s1rebOshOS4wz-o",
+      "id": "UgxJaKTS0JBUXdT-DS54AaABAg",
+      "snippet": {
+        "videoId": "gPqoFFJAaDY",
+        "textDisplay": "Tiny correction: Glycolysis happens in the cytosol, not in the mitochondria.  Otherwise, excellent as usual",
+        "textOriginal": "Tiny correction: Glycolysis happens in the cytosol, not in the mitochondria.  Otherwise, excellent as usual",
+        "authorDisplayName": "Solomon Mowshowitz",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR61fmIuv1Drry4uyzao-MYwMjeKetfprcBsYyV=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCQML1INwosc8Z7sog6DbvbA",
+        "authorChannelId": {
+          "value": "UCQML1INwosc8Z7sog6DbvbA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 74,
+        "publishedAt": "2021-11-02T15:16:17Z",
+        "updatedAt": "2021-11-02T15:16:17Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "im4CElrNRMf1VqTJOe6NwfNVLcs",
+      "id": "UgxJaKTS0JBUXdT-DS54AaABAg.9UFJDlQ2XVd9UHyYYGiKis",
+      "snippet": {
+        "textDisplay": "True that.",
+        "textOriginal": "True that.",
+        "parentId": "UgxJaKTS0JBUXdT-DS54AaABAg",
+        "authorDisplayName": "MedCram - Medical Lectures Explained CLEARLY",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8kzx5BL5vju2efLnrB6zyBh053ETraTOukM9dfQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCG-iSMVtWbbwDDXgXXypARQ",
+        "authorChannelId": {
+          "value": "UCG-iSMVtWbbwDDXgXXypARQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 34,
+        "publishedAt": "2021-11-03T16:04:36Z",
+        "updatedAt": "2021-11-03T16:04:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "baof0fj0qfI32QrFftllslPcPOU",
+  "id": "Ugz8DcCnq26ZUVhfqQJ4AaABAg",
+  "snippet": {
+    "videoId": "K-QiTrPcw4g",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "txUF2wKt4QeRcoN6QRV05H5UVp4",
+      "id": "Ugz8DcCnq26ZUVhfqQJ4AaABAg",
+      "snippet": {
+        "videoId": "K-QiTrPcw4g",
+        "textDisplay": "Where did sars start from",
+        "textOriginal": "Where did sars start from",
+        "authorDisplayName": "Uma Ashok",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZC6mrZRN_EH-aOGJMT9az4CRtkPZXPTyEfArIqw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC7r32A3p0kKDTmmSDd-iFFA",
+        "authorChannelId": {
+          "value": "UC7r32A3p0kKDTmmSDd-iFFA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-04-15T07:57:36Z",
+        "updatedAt": "2020-04-15T07:57:36Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "w1wrDZF2gEUHqaH7BJUDFRelrZo",
+      "id": "Ugz8DcCnq26ZUVhfqQJ4AaABAg.97T75WjHnr497qu9aKOY19",
+      "snippet": {
+        "textDisplay": "\ud83c\udde8\ud83c\uddf3",
+        "textOriginal": "\ud83c\udde8\ud83c\uddf3",
+        "parentId": "Ugz8DcCnq26ZUVhfqQJ4AaABAg",
+        "authorDisplayName": "hjil",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/KuZ8h0CmYs_N1laxV-fbrkoSoRENdbv3wDvSb6LMXJbON59MmPV5DG2S4c7wuRdqhMrjQ9b6=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6Lj2CaO3XL6Ncn9rfcoZoQ",
+        "authorChannelId": {
+          "value": "UC6Lj2CaO3XL6Ncn9rfcoZoQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2020-04-24T22:56:50Z",
+        "updatedAt": "2020-04-24T22:56:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "IjoDgW19XfG6HLBa5mv4yQP2Uek",
+  "id": "Ugz6_ojndNqse8fhw4R4AaABAg",
+  "snippet": {
+    "videoId": "cSY-jOfICjw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "ihLu7IhUX8zTsJF1Zu-SQ3s4kpg",
+      "id": "Ugz6_ojndNqse8fhw4R4AaABAg",
+      "snippet": {
+        "videoId": "cSY-jOfICjw",
+        "textDisplay": "Fora Bolsonaro",
+        "textOriginal": "Fora Bolsonaro",
+        "authorDisplayName": "Marquelane Keller de Souza",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSS5lRKBmhLr8l09CIO14uaiC2RQwWdnzZARQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCAbyDbGyaFbWIzpQHvOL1Wg",
+        "authorChannelId": {
+          "value": "UCAbyDbGyaFbWIzpQHvOL1Wg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 3,
+        "publishedAt": "2022-05-18T10:23:14Z",
+        "updatedAt": "2022-05-18T10:23:14Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "ynC2G3qflpHGPCYCAAjTIl37iHw",
+      "id": "Ugz6_ojndNqse8fhw4R4AaABAg.9bA2Hh1k-5i9bDuURiokFe",
+      "snippet": {
+        "textDisplay": "Quer O ladr\u00e3o de nove dedos de volta",
+        "textOriginal": "Quer O ladr\u00e3o de nove dedos de volta",
+        "parentId": "Ugz6_ojndNqse8fhw4R4AaABAg",
+        "authorDisplayName": "Cl\u00e1udio Santos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0wmHGIulJu2wqqL8MZJlLcQLf8NTmynRJpJLZomSYovWtPhVL6VhzdCqA_gqK=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOc4DckRs9q7donO6l3kbiA",
+        "authorChannelId": {
+          "value": "UCOc4DckRs9q7donO6l3kbiA"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-19T22:23:17Z",
+        "updatedAt": "2022-05-19T22:23:17Z"
+      }
+    }
+  ]
+}

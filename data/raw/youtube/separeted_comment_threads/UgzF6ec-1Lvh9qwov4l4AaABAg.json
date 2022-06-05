@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "yfvH9zG-l_Zktg7OJdWNRSMJCGQ",
+  "id": "UgzF6ec-1Lvh9qwov4l4AaABAg",
+  "snippet": {
+    "videoId": "tzHslSe7nZw",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "6HB3I1v3ai4-iR5if2DZZu755oU",
+      "id": "UgzF6ec-1Lvh9qwov4l4AaABAg",
+      "snippet": {
+        "videoId": "tzHslSe7nZw",
+        "textDisplay": "Voc\u00ea acha melhor que o SUS?",
+        "textOriginal": "Voc\u00ea acha melhor que o SUS?",
+        "authorDisplayName": "Ca\u00edque Emrich",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBliqaFAdgKlfsIcfYuA9xDKjeVBswa_H6O-Mx6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4xo7oS23NGrTiO7CfWuryw",
+        "authorChannelId": {
+          "value": "UC4xo7oS23NGrTiO7CfWuryw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 2,
+        "publishedAt": "2021-10-13T00:51:25Z",
+        "updatedAt": "2021-10-13T00:51:25Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "FTfFHuo-k78grJQYv4CVyGjPlE8",
+      "id": "UgzF6ec-1Lvh9qwov4l4AaABAg.9TQGLmTD-kB9TcN6qDTncB",
+      "snippet": {
+        "textDisplay": "Com certeza. M\u00e9dicos na Argentina s\u00e3o melhores que no Brasil",
+        "textOriginal": "Com certeza. M\u00e9dicos na Argentina s\u00e3o melhores que no Brasil",
+        "parentId": "UgzF6ec-1Lvh9qwov4l4AaABAg",
+        "authorDisplayName": "Carolina Fernandes",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuhSW2czmJPesMRMguffPBkwvieUqOplvQerrF6A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNkpmDRQ5b24_QrPJog5YsQ",
+        "authorChannelId": {
+          "value": "UCNkpmDRQ5b24_QrPJog5YsQ"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2021-10-18T03:00:40Z",
+        "updatedAt": "2021-10-18T03:00:40Z"
+      }
+    }
+  ]
+}

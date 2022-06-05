@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#commentThread",
+  "etag": "V3zWMiN3YAukQGPFWrrsYCiAKwI",
+  "id": "UgyCrm7h44DJ_qTo3Qp4AaABAg",
+  "snippet": {
+    "videoId": "r-PsxLOZYTs",
+    "topLevelComment": {
+      "kind": "youtube#comment",
+      "etag": "UCWH8cAShRh1JWCsi1WOhFNruN0",
+      "id": "UgyCrm7h44DJ_qTo3Qp4AaABAg",
+      "snippet": {
+        "videoId": "r-PsxLOZYTs",
+        "textDisplay": "N\u00e3o querem seguir Levitico 11",
+        "textOriginal": "N\u00e3o querem seguir Levitico 11",
+        "authorDisplayName": "Jonathan Carneiro",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSr19slYy7IeGGTmc6asxewyDUGDJ__RDaM27vfiXM=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCkrqEk-u-7VsH4oQA_jw8Pw",
+        "authorChannelId": {
+          "value": "UCkrqEk-u-7VsH4oQA_jw8Pw"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2020-06-11T15:21:31Z",
+        "updatedAt": "2020-06-11T15:21:31Z"
+      }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+  },
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "_kGRXpn120fVlD4Ho1zLaYpMEA8",
+      "id": "UgyCrm7h44DJ_qTo3Qp4AaABAg.99lgCjYZoDO99lmGHoz4yS",
+      "snippet": {
+        "textDisplay": "E da\u00ed?",
+        "textOriginal": "E da\u00ed?",
+        "parentId": "UgyCrm7h44DJ_qTo3Qp4AaABAg",
+        "authorDisplayName": "Kau\u00ea R S Kleinke",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/82eEoGj_BsQAXKVFHg8SVV23JmrsWT_mrB6-OZJSPaB0N-eeiUf1LlPeV29Diu-NfnUR2uJskRo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFS9FNPuW2hpuo9bhS7OCUg",
+        "authorChannelId": {
+          "value": "UCFS9FNPuW2hpuo9bhS7OCUg"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "moderationStatus": "likelySpam",
+        "publishedAt": "2020-06-11T16:14:26Z",
+        "updatedAt": "2020-06-11T16:14:26Z"
+      }
+    }
+  ]
+}
