@@ -33,7 +33,7 @@ class SearchListYouTube(SearchBase):
     
 
 def main():
-    search = SearchListYouTube(True, 100000)
+    search = SearchListYouTube(True, 1000000000)
     file_credentials = 'src/credentials.yaml'
 
     func_get_new_instance_api = search.get_new_instance_api

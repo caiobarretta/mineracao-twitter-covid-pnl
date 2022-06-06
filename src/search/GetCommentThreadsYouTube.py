@@ -5,7 +5,7 @@ from SearchKeys import SearchKeys
 from os.path import exists
 
 class SearchListYouTube(SearchBase):
-    def __init__(self, replace_existing_tweets = True, verify_comments_loaded = True, yt_time_sleep_load_search = 0):
+    def __init__(self, replace_existing_tweets = True, verify_comments_loaded = True, yt_time_sleep_load_search = 5):
         self.replace_existing_tweets = replace_existing_tweets
         self.verify_comments_loaded = verify_comments_loaded
         self.path_comments_loaded = 'data/raw/youtube/comments_loaded.json'
@@ -70,7 +70,7 @@ class SearchListYouTube(SearchBase):
     
 def main():
     search = SearchListYouTube(False)
-    file_credentials = 'src/search/credentials.yaml'
+    file_credentials = 'src/credentials.yaml'
 
     search_keys = SearchKeys('pt')
 
