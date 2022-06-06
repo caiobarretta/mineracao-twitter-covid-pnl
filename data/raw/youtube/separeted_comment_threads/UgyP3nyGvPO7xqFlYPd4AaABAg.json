@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "BU5DOmXeaB4F7sUDvV4-VGwO1uU",
+  "etag": "u43FwTfJxjGp8lDxJQgyN8n4ids",
   "id": "UgyP3nyGvPO7xqFlYPd4AaABAg",
   "snippet": {
     "videoId": "jATYbmGBBYc",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "HYTGvr06GgcklXlvl8Nf6iwil1M",
+      "etag": "fVClmbCfpMjLeB43s6RSk3AJkDM",
       "id": "UgyP3nyGvPO7xqFlYPd4AaABAg",
       "snippet": {
         "videoId": "jATYbmGBBYc",
@@ -20,14 +20,36 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 5,
+        "likeCount": 9,
         "publishedAt": "2022-05-09T02:54:06Z",
         "updatedAt": "2022-05-09T02:54:06Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 0,
+    "totalReplyCount": 1,
     "isPublic": true
   },
-  "comments": []
+  "comments": [
+    {
+      "kind": "youtube#comment",
+      "etag": "4ZvHynj84TXzc_4PP0u6W3wVqLM",
+      "id": "UgyP3nyGvPO7xqFlYPd4AaABAg.9an3jIJ05eX9ao8dw03niH",
+      "snippet": {
+        "textDisplay": "I have seen BA2 and now I\u2019ve seen BA2.12.q BA4 BA.5 omicron sub variant that are driving us nuts and no striations no masking or anything in the whole world and it\u2019s horrible we all want this pandemic to end now",
+        "textOriginal": "I have seen BA2 and now I\u2019ve seen BA2.12.q BA4 BA.5 omicron sub variant that are driving us nuts and no striations no masking or anything in the whole world and it\u2019s horrible we all want this pandemic to end now",
+        "parentId": "UgyP3nyGvPO7xqFlYPd4AaABAg",
+        "authorDisplayName": "Dillon Wood",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ62rVTXYJeftZLlOQ68JZl0whxu2hvs45b3A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnn5j6I1_40Ym41JpREyR3w",
+        "authorChannelId": {
+          "value": "UCnn5j6I1_40Ym41JpREyR3w"
+        },
+        "canRate": true,
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-09T12:56:18Z",
+        "updatedAt": "2022-05-09T12:56:18Z"
+      }
+    }
+  ]
 }

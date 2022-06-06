@@ -1,12 +1,12 @@
 {
   "kind": "youtube#commentThread",
-  "etag": "otpDKXI-vCCoIkmaxsAUdykci9E",
+  "etag": "0XFi9waukCrSg_vxqYUXUjAkv_s",
   "id": "UgzbfJLWFZIEwG8l3up4AaABAg",
   "snippet": {
     "videoId": "wT10bO9fhb0",
     "topLevelComment": {
       "kind": "youtube#comment",
-      "etag": "tTFha1PGlhzyZ9LrQiZ5HmUlvIo",
+      "etag": "mlXjWCPHipjQFGbdGf4h-kc9Pno",
       "id": "UgzbfJLWFZIEwG8l3up4AaABAg",
       "snippet": {
         "videoId": "wT10bO9fhb0",
@@ -20,36 +20,14 @@
         },
         "canRate": true,
         "viewerRating": "none",
-        "likeCount": 16,
+        "likeCount": 11,
         "publishedAt": "2022-05-08T17:30:21Z",
         "updatedAt": "2022-05-08T17:30:21Z"
       }
     },
     "canReply": true,
-    "totalReplyCount": 1,
+    "totalReplyCount": 0,
     "isPublic": true
   },
-  "comments": [
-    {
-      "kind": "youtube#comment",
-      "etag": "_F_Xxb5SJl4d1CTdmZXQtZty4fk",
-      "id": "UgzbfJLWFZIEwG8l3up4AaABAg.9am3DIh2sBG9atLlqJkYuW",
-      "snippet": {
-        "textDisplay": "Quais foram os sintomas e qual foi a pior a primeira ou segunda vez de covid. Eu e dois filhos tivemos. O meu filho estava com dezessete anos, e ele ficou sequelas no paladar e olfato, diz que a carne e chocolate, bolo de chocolate tem cheiro e gosto horr\u00edvel. E sempre est\u00e1 com resfriado.",
-        "textOriginal": "Quais foram os sintomas e qual foi a pior a primeira ou segunda vez de covid. Eu e dois filhos tivemos. O meu filho estava com dezessete anos, e ele ficou sequelas no paladar e olfato, diz que a carne e chocolate, bolo de chocolate tem cheiro e gosto horr\u00edvel. E sempre est\u00e1 com resfriado.",
-        "parentId": "UgzbfJLWFZIEwG8l3up4AaABAg",
-        "authorDisplayName": "Adriana Monteiro",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/o56uw8DVJi0Yck6SXwsYEDvBztxCmT0b9Jd1XM1zygpEbbNKitXASmqbJCeqb6xD3nFWCc9K0w=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCRlEI7_2hZuK_yd1nfypkHw",
-        "authorChannelId": {
-          "value": "UCRlEI7_2hZuK_yd1nfypkHw"
-        },
-        "canRate": true,
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-05-11T13:27:10Z",
-        "updatedAt": "2022-05-11T13:32:37Z"
-      }
-    }
-  ]
+  "comments": []
 }
