@@ -1,0 +1,143 @@
+{
+  "created_at": "Thu Jul 14 14:39:21 +0000 2022",
+  "id": 1547591585965023233,
+  "id_str": "1547591585965023233",
+  "full_text": "@EdwardKonings Em minha experi\u00eancia, me parece que essa exalta\u00e7\u00e3o do SUS, principalmente entre os jovens, \u00e9 um fen\u00f4meno recente. Desde pequeno sempre s\u00f3 ouvi gente reclamando do SUS. Da\u00ed com o COVID, parece que geral ficou falando como se fosse mil maravilhas.",
+  "truncated": false,
+  "display_text_range": [
+    15,
+    260
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EdwardKonings",
+        "name": "K\u00f6nings",
+        "id": 1079320522452811776,
+        "id_str": "1079320522452811776",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1547586371472109568,
+  "in_reply_to_status_id_str": "1547586371472109568",
+  "in_reply_to_user_id": 1079320522452811776,
+  "in_reply_to_user_id_str": "1079320522452811776",
+  "in_reply_to_screen_name": "EdwardKonings",
+  "user": {
+    "id": 1368722537518149634,
+    "id_str": "1368722537518149634",
+    "name": "Zinho",
+    "screen_name": "NeoZinhoFz",
+    "location": "S\u00e3o Paulo, Brasil",
+    "description": "Economia - FEA USP. Futuro acad\u00eamico. Socialista Hayekiano. Perdidamente apaixonado pela @mercykiIIings. Eu n\u00e3o passo de um malandro/De um moleque do Brasil.",
+    "url": "https://t.co/CL2lt0Sh55",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CL2lt0Sh55",
+            "expanded_url": "https://gabrielfferraz.medium.com/",
+            "display_url": "gabrielfferraz.medium.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 291,
+    "friends_count": 462,
+    "listed_count": 0,
+    "created_at": "Mon Mar 08 00:37:48 +0000 2021",
+    "favourites_count": 22016,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4070,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1511653152768024576/QwzHuCYX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1511653152768024576/QwzHuCYX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368722537518149634/1652631771",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "68e019afec7d0ba5",
+    "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+    "place_type": "city",
+    "name": "Sao Paulo",
+    "full_name": "Sao Paulo, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -46.826039,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -23.356792
+          ],
+          [
+            -46.826039,
+            -23.356792
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

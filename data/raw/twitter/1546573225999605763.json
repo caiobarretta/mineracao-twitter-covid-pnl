@@ -1,0 +1,205 @@
+{
+  "created_at": "Mon Jul 11 19:12:45 +0000 2022",
+  "id": 1546573225999605763,
+  "id_str": "1546573225999605763",
+  "full_text": "#RT @MarinaSilva: Comecei o dia tomando a 4a dose da vacina contra covid-19 na UBS da S\u00e9 em S\u00e3o Paulo. Viva o SUS! https://t.co/Wds3Ue3VXR",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RT",
+        "indices": [
+          0,
+          3
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MarinaSilva",
+        "name": "Marina Silva",
+        "id": 105155795,
+        "id_str": "105155795",
+        "indices": [
+          4,
+          16
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1546566345877250052,
+        "id_str": "1546566345877250052",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/media/FXaB5cOWYAQFFXO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FXaB5cOWYAQFFXO.jpg",
+        "url": "https://t.co/Wds3Ue3VXR",
+        "display_url": "pic.twitter.com/Wds3Ue3VXR",
+        "expanded_url": "https://twitter.com/MarinaSilva/status/1546566352672100358/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 1600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1546566352672100358,
+        "source_status_id_str": "1546566352672100358",
+        "source_user_id": 105155795,
+        "source_user_id_str": "105155795"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1546566345877250052,
+        "id_str": "1546566345877250052",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/media/FXaB5cOWYAQFFXO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FXaB5cOWYAQFFXO.jpg",
+        "url": "https://t.co/Wds3Ue3VXR",
+        "display_url": "pic.twitter.com/Wds3Ue3VXR",
+        "expanded_url": "https://twitter.com/MarinaSilva/status/1546566352672100358/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 1600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1546566352672100358,
+        "source_status_id_str": "1546566352672100358",
+        "source_user_id": 105155795,
+        "source_user_id_str": "105155795"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3183224997,
+    "id_str": "3183224997",
+    "name": "A Marina Silva sumiu? \ud83d\udc9a",
+    "screen_name": "AMarinaSumiu",
+    "location": "Brasil - Amaz\u00f4nia",
+    "description": "Perfil de um eleitor, otimizado para desmentir o falso discurso que tenta desmoralizar a atua\u00e7\u00e3o de @MarinaSilva no cen\u00e1rio pol\u00edtico.",
+    "url": "https://t.co/5AMjcao4hg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/5AMjcao4hg",
+            "expanded_url": "http://marinasilva.org.br",
+            "display_url": "marinasilva.org.br",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 400,
+    "friends_count": 71,
+    "listed_count": 3,
+    "created_at": "Sun Apr 19 14:10:34 +0000 2015",
+    "favourites_count": 2835,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5507,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1409555212273127431/gMaproqQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409555212273127431/gMaproqQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3183224997/1624899103",
+    "profile_link_color": "118764",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "pt"
+}
