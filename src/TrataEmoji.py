@@ -10,8 +10,8 @@ https://pypi.org/project/demoji/
 """
 
 class TrataEmoji:
-    def __init__(self):
-        self.tradutor = Tradutor()
+    def __init__(self, tradutor):
+        self.tradutor = tradutor
 
     def converte_emoji_em_texto(self, texto, sep=" "):
         '''
@@ -64,11 +64,14 @@ class TrataEmoji:
             texto_sem_emoji = texto_sem_emoji.replace(old_string, new_string)
         return texto_sem_emoji
 
+    def tratar_texto(self, texto):
+        return self.converte_traduz_emoji_em_texto(texto)
+
 #Teste
 def test_converte_texto_em_emoji():
   '''Função que testa a função converte_texto_em_emoji'''
   tweet = "#startspreadingthenews yankees win great start by 🎅🏾 going 5strong innings with 5k’s🔥 🐂"
-  trataEmoji = TrataEmoji()
+  trataEmoji = TrataEmoji(Tradutor())
   tweet_sem_emoji = trataEmoji.converte_emoji_em_texto(tweet, ' ')
   print(tweet_sem_emoji)
 
@@ -76,7 +79,7 @@ def test_converte_texto_em_emoji():
 def test_converte_traduz_emoji_em_texto():
     '''Função que testa a função converte_traduz_emoji_em_texto'''
     tweet = "#startspreadingthenews yankees win great start by 🎅🏾 going 5strong innings with 5k’s🔥 🐂"
-    trataEmoji = TrataEmoji()
+    trataEmoji = TrataEmoji(Tradutor())
     tweet_sem_emoji = trataEmoji.converte_traduz_emoji_em_texto(tweet)
     print(tweet_sem_emoji)
 

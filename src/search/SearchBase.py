@@ -56,7 +56,7 @@ class SearchBase:
         print(f'Quantidades de itens da pesquisa: {len(pesquisa)}')
         search_lst = pesquisa
         if invert_search:
-            search_lst = search[::-1]
+            search_lst = search_lst[::-1]
         for search in search_lst:
             query = search['q']
             lang = ''

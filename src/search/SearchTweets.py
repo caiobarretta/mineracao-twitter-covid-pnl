@@ -32,7 +32,7 @@ class SearchTweets(SearchBase):
         return TweepyAPI(file_credentials)
 
 def main():
-    search = SearchTweets(False, 5)
+    search = SearchTweets(False)
     file_credentials = 'src/credentials.yaml'
 
     func_get_new_instance_api = search.get_new_instance_api
@@ -41,7 +41,7 @@ def main():
 
     pesquisa = search.load_search_query_list_dict(func_get_query_to_search)
 
-    search.load_search(file_credentials, pesquisa, func_get_new_instance_api, func_get_and_save_data)
+    search.load_search(file_credentials, pesquisa, func_get_new_instance_api, func_get_and_save_data, False)
 
 if __name__ == '__main__':
     main()
