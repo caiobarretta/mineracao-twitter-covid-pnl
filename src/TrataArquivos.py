@@ -57,7 +57,7 @@ class TrataArquivos:
         time.sleep(self.time_sleep_load_tratamento)
 
     def tratar_arquivos_youtube(self, file, content, refazer_tratamento):
-        node_dest = 'textTratado'
+        node_dest = 'text_tratado'
         if node_dest in content and not refazer_tratamento:
             return
         print(f'processando arquivo: {file}')
@@ -65,6 +65,19 @@ class TrataArquivos:
         get_text_from_json = self.get_text_from_json_youtube
         set_text_from_json = self.set_text_from_json_youtube
         self.processa_tratamento_arquivos(file, content, get_text_from_files, get_text_from_json, set_text_from_json)
+
+def test_tratar_arquivo():
+    tradutor = Tradutor()
+    trataEmoji = TrataEmoji(tradutor)
+    consolidaArquivos = ConsolidaArquivos()
+    trataArquivos = TrataArquivos(consolidaArquivos, trataEmoji, 0)
+    path_tweets = consolidaArquivos.PATH_TWEETS
+    extension = consolidaArquivos.EXTENSION
+    file_list = consolidaArquivos.get_file_list(path_tweets, extension)[0:50]
+    trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.TWITTER, True)
+
+def tests():
+    test_tratar_arquivo()
 
 def main():
     tradutor = Tradutor()
@@ -75,8 +88,9 @@ def main():
     path_youtube_comments = consolidaArquivos.PATH_YOUTUBE_COMMENTS
     extension = consolidaArquivos.EXTENSION
 
-    trataArquivos = TrataArquivos(consolidaArquivos, trataEmoji, 5)
+    trataArquivos = TrataArquivos(consolidaArquivos, trataEmoji, 0)
     trataArquivos.tratar_arquivos(path_tweets, extension, TipoDeArquivos.TWITTER)
+    trataArquivos.tratar_arquivos(path_youtube_comments, extension, TipoDeArquivos.YOUTUBE_COMMENTS)
 
 if __name__ == '__main__':
     main()

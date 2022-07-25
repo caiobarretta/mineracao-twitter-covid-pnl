@@ -68,6 +68,8 @@ class ConsolidaArquivos:
         json = {}
         json['id'] = content['id']
         json['texto'] = content['snippet']['topLevelComment']['snippet']['textOriginal']
+        if 'text_tratado' in content:
+            json['texto_tratado'] = content['text_tratado']
         return json
 
     def save_data_partition(self, index, path, content, extension):
