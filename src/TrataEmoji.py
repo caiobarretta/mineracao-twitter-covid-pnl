@@ -235,15 +235,15 @@ def test_tratar_texto():
     print(trataEmoji.tratar_texto(tweet))
 
 def main():
-    #test_converte_texto_em_emoji()
-    #test_converte_traduz_emoji_em_texto()
-    #test_retorna_lista_emoji_do_texto()
-    #test_retorna_dict_emoji_texto()
-    #test_retorna_lista_dicionario_emoji_traduzido()
-    #test_retorna_emojis_dicionario()
+    test_converte_texto_em_emoji()
+    test_converte_traduz_emoji_em_texto()
+    test_retorna_lista_emoji_do_texto()
+    test_retorna_dict_emoji_texto()
+    test_retorna_lista_dicionario_emoji_traduzido()
+    test_retorna_emojis_dicionario()
     test_salvar_emojis_dicionario()
     test_salvar_emojis_dicionario_texto_sem_emoji()
-    #test_tratar_texto()
+    test_tratar_texto()
 
 if __name__ == '__main__':
     main()
