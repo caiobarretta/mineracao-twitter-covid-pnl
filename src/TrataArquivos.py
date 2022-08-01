@@ -82,6 +82,8 @@ class TrataArquivos:
                 if type(classe_tratamento) is dict:
                     if classe_tratamento['Executar']:
                         return classe_tratamento['Classe'].tratar_texto(texto)
+                    else:
+                        return texto
                 else:
                     return classe_tratamento.tratar_texto(texto)
         else:
@@ -131,7 +133,7 @@ def tests():
 
 def main():
     remocaoDeUrl = RemocaoDeUrl()
-    trataEmoji = TrataEmoji(Tradutor())
+    trataEmoji = {'Classe': TrataEmoji(Tradutor()), 'Executar': False}
     dividePalavrasUnidas = DividePalavrasUnidas()
     removeElementosDeMarcacao = RemoveElementosDeMarcacao()
     corrigiOrtografiaForaDoPadrao = CorrigiOrtografiaForaDoPadrao()
