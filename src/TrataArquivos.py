@@ -131,20 +131,26 @@ def tests():
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
 
-def main():
-    remocaoDeUrl = RemocaoDeUrl()
-    trataEmoji = {'Classe': TrataEmoji(Tradutor()), 'Executar': False}
-    dividePalavrasUnidas = DividePalavrasUnidas()
-    removeElementosDeMarcacao = RemoveElementosDeMarcacao()
-    corrigiOrtografiaForaDoPadrao = CorrigiOrtografiaForaDoPadrao()
-    classe_tratar_arquivo_lst = [trataEmoji, remocaoDeUrl, corrigiOrtografiaForaDoPadrao, dividePalavrasUnidas,
-        removeElementosDeMarcacao]
+def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True):
+    classe_tratar_arquivo_lst = []
+    if remocao_de_url:
+        classe_tratar_arquivo_lst.append(RemocaoDeUrl())
+    if trata_emoji:
+        classe_tratar_arquivo_lst.append(TrataEmoji(Tradutor()))
+    if divide_palavras_unidas:
+        classe_tratar_arquivo_lst.append(DividePalavrasUnidas())
+    if corrigi_ortografia_fora_do_padrao:
+        classe_tratar_arquivo_lst.append(CorrigiOrtografiaForaDoPadrao())
+    if remove_elementos_de_marcacao:
+        classe_tratar_arquivo_lst.append(RemoveElementosDeMarcacao())
+    return classe_tratar_arquivo_lst
 
+def main():
+    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(True, False, False, False, False)
     consolidaArquivos = ConsolidaArquivos()
     path_tweets = consolidaArquivos.PATH_TWEETS
     path_youtube_comments = consolidaArquivos.PATH_YOUTUBE_COMMENTS
     extension = consolidaArquivos.EXTENSION
-
     trataArquivos = TrataArquivos(consolidaArquivos, classe_tratar_arquivo_lst, 0)
     trataArquivos.tratar_arquivos(path_tweets, extension, TipoDeArquivos.TWITTER, True, 'texto_tratado')
     trataArquivos.tratar_arquivos(path_youtube_comments, extension, TipoDeArquivos.YOUTUBE_COMMENTS, True, 'texto_tratado')

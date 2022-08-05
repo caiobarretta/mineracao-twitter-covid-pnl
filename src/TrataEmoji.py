@@ -4,6 +4,7 @@ from typing import Final
 import demoji
 import uuid
 from Tradutor import Tradutor
+import time
 
 """
 Links:
@@ -15,8 +16,9 @@ https://pypi.org/project/demoji/
 class TrataEmoji:
     FULL_PATH_FILE_DICT_EMOJI: Final[str] = f'data/dict_emoji.json'
 
-    def __init__(self, tradutor):
+    def __init__(self, tradutor, time_sleep = 5):
         self.tradutor = tradutor
+        self.time_sleep = time_sleep
 
     def retorna_dict_emoji_texto(self, texto):
         '''Função que retorno um dicionário de emoji e o respectivo texto'''
@@ -48,6 +50,7 @@ class TrataEmoji:
         emojis_traduzidos = []
         for emoji in emojis_iteration:
             emojis_traduzidos.append(self.tradutor.traducao_portugues(emoji))
+            time.sleep(self.time_sleep)
         return emojis_traduzidos
 
     def cria_dicionario_traducao_emoji(self, emojis, emojis_traduzidos):
