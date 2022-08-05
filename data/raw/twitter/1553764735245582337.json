@@ -1,0 +1,130 @@
+{
+  "created_at": "Sun Jul 31 15:29:15 +0000 2022",
+  "id": 1553764735245582337,
+  "id_str": "1553764735245582337",
+  "full_text": "@DurvalNormande Credo... O Corona vai fazer a festa!!!! Deixa estar...depois o SUS paga a conta!",
+  "truncated": false,
+  "display_text_range": [
+    16,
+    96
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DurvalNormande",
+        "name": "Durval Normande \ud83c\udde7\ud83c\uddf7",
+        "id": 1214158746634469377,
+        "id_str": "1214158746634469377",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1550949074110742528,
+  "in_reply_to_status_id_str": "1550949074110742528",
+  "in_reply_to_user_id": 1214158746634469377,
+  "in_reply_to_user_id_str": "1214158746634469377",
+  "in_reply_to_screen_name": "DurvalNormande",
+  "user": {
+    "id": 2633571097,
+    "id_str": "2633571097",
+    "name": "vera  schultze",
+    "screen_name": "VeraSchultze",
+    "location": "RIO PARDO - RS",
+    "description": "Arquiteta.Pesquisadora.Conservadora de Bens Culturais.Amo a arte do passado porque ela me inspira e me ensina.Amo a arte moderna, poque ela fala por mim.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 241,
+    "friends_count": 168,
+    "listed_count": 4,
+    "created_at": "Sat Jul 12 23:31:51 +0000 2014",
+    "favourites_count": 7269,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1298,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/601904168845058048/E3GJftzf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/601904168845058048/E3GJftzf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2633571097/1409710736",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "9f2f9256e5c61817",
+    "url": "https://api.twitter.com/1.1/geo/id/9f2f9256e5c61817.json",
+    "place_type": "city",
+    "name": "Rio Pardo",
+    "full_name": "Rio Pardo, Brasil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -52.7558408,
+            -30.3735615
+          ],
+          [
+            -52.1043169,
+            -30.3735615
+          ],
+          [
+            -52.1043169,
+            -29.7712359
+          ],
+          [
+            -52.7558408,
+            -29.7712359
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

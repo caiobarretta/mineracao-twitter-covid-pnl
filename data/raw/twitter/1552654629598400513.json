@@ -1,0 +1,143 @@
+{
+  "created_at": "Thu Jul 28 13:58:05 +0000 2022",
+  "id": 1552654629598400513,
+  "id_str": "1552654629598400513",
+  "full_text": "@luanborges Aqui em SP \u00e9 normal. Os dados de vacina\u00e7\u00e3o contra a COVID s\u00e3o nacionais e inseridos direto na base do SUS. Acredito que no Rio deve ser normal tb.",
+  "truncated": false,
+  "display_text_range": [
+    12,
+    158
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "luanborges",
+        "name": "Luan Borges",
+        "id": 17548865,
+        "id_str": "17548865",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1552653559107178499,
+  "in_reply_to_status_id_str": "1552653559107178499",
+  "in_reply_to_user_id": 17548865,
+  "in_reply_to_user_id_str": "17548865",
+  "in_reply_to_screen_name": "luanborges",
+  "user": {
+    "id": 14421336,
+    "id_str": "14421336",
+    "name": "Jonatas Oliveira - www.jonatas.com.br \u30c4",
+    "screen_name": "JonatasMobile",
+    "location": "S\u00e3o Paulo - Brasil",
+    "description": "Escritor, jornalista e autor de \"O Di\u00e1rio de Arthur Ferra\u00f9\", \"\u00c1guas de Mar\u00e7o\" e da s\u00e9rie \"Labirintos do Cora\u00e7\u00e3o\". Ironia e humor duvidoso. I'm a superman!",
+    "url": "https://t.co/vxiYjOX9Vl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/vxiYjOX9Vl",
+            "expanded_url": "https://linktr.ee/jonatasmobile",
+            "display_url": "linktr.ee/jonatasmobile",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1479,
+    "friends_count": 1111,
+    "listed_count": 42,
+    "created_at": "Thu Apr 17 14:39:36 +0000 2008",
+    "favourites_count": 369,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 87170,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1366797867067858944/25fuL9iP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366797867067858944/25fuL9iP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14421336/1557839531",
+    "profile_link_color": "F7951C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "68e019afec7d0ba5",
+    "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+    "place_type": "city",
+    "name": "Sao Paulo",
+    "full_name": "Sao Paulo, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -46.826039,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -24.008814
+          ],
+          [
+            -46.365052,
+            -23.356792
+          ],
+          [
+            -46.826039,
+            -23.356792
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

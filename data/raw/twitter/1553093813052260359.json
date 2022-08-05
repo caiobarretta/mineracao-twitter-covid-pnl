@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jul 29 19:03:14 +0000 2022",
+  "id": 1553093813052260359,
+  "id_str": "1553093813052260359",
+  "full_text": "@eliasmsfilho N\u00e3o! Os que estou me consultando agora s\u00e3o outros, pelo SUS me mostraram serem bem assertivos. O problema \u00e9 a demora para realizar exames, teve a pandemia para atrapalhar.",
+  "truncated": false,
+  "display_text_range": [
+    14,
+    185
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "eliasmsfilho",
+        "name": "Elias M S Filho",
+        "id": 1513989353466441739,
+        "id_str": "1513989353466441739",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1553092199067406338,
+  "in_reply_to_status_id_str": "1553092199067406338",
+  "in_reply_to_user_id": 1513989353466441739,
+  "in_reply_to_user_id_str": "1513989353466441739",
+  "in_reply_to_screen_name": "eliasmsfilho",
+  "user": {
+    "id": 99804306,
+    "id_str": "99804306",
+    "name": "Resistindo! #Lula13Presidente",
+    "screen_name": "cantafer",
+    "location": "S\u00e3o Lu\u00eds, MA",
+    "description": "Ocean\u00f3grafa, Estuda Ictiopl\u00e2ncton, Especialista em Vigil\u00e2ncia em Sa\u00fade. Filiada ao PT, Feminista, anti-facista, anti-racista.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 407,
+    "friends_count": 1163,
+    "listed_count": 0,
+    "created_at": "Sun Dec 27 23:11:20 +0000 2009",
+    "favourites_count": 27261,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4259,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1535601043714760708/wtu_LrMD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1535601043714760708/wtu_LrMD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/99804306/1644220503",
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "23299615a880d29d",
+    "url": "https://api.twitter.com/1.1/geo/id/23299615a880d29d.json",
+    "place_type": "city",
+    "name": "S\u00e3o Lu\u00eds",
+    "full_name": "S\u00e3o Lu\u00eds, Brazil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -44.441517,
+            -2.800361
+          ],
+          [
+            -44.163584,
+            -2.800361
+          ],
+          [
+            -44.163584,
+            -2.45821
+          ],
+          [
+            -44.441517,
+            -2.45821
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}

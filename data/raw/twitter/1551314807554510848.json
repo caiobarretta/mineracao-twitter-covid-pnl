@@ -1,0 +1,152 @@
+{
+  "created_at": "Sun Jul 24 21:14:06 +0000 2022",
+  "id": 1551314807554510848,
+  "id_str": "1551314807554510848",
+  "full_text": "Meu marido tentou tirar o certificado de vacina\u00e7\u00e3o do COVID e o Conecte SUS simplesmente n\u00e3o incluiu a 1\u00b0 dose dele, consta apenas a 2\u00b0 dose e diz ser erro do posto. Precisamos disso pra daqui h\u00e1 uns dias.   @prefnova_iguacu #conectesus #ministeriodasaude #COVID19",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    264
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "conectesus",
+        "indices": [
+          225,
+          236
+        ]
+      },
+      {
+        "text": "ministeriodasaude",
+        "indices": [
+          237,
+          255
+        ]
+      },
+      {
+        "text": "COVID19",
+        "indices": [
+          256,
+          264
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "prefnova_iguacu",
+        "name": "Prefeitura de Nova Igua\u00e7u",
+        "id": 2217620418,
+        "id_str": "2217620418",
+        "indices": [
+          208,
+          224
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "pt",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1253885951564222464,
+    "id_str": "1253885951564222464",
+    "name": "Katiuscia Marins",
+    "screen_name": "_katiuscia",
+    "location": "",
+    "description": "Fisioterapeuta - P\u00f3s graduada em UTI adulto. Leitora e colecionadora. Green Bay Packer e Gr\u00eamio. Apaixonada pelos meus dogs. I'm a star, shining like the sun.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 39,
+    "friends_count": 542,
+    "listed_count": 0,
+    "created_at": "Sat Apr 25 03:18:11 +0000 2020",
+    "favourites_count": 13045,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2187,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1329943117244588033/8EwnJDzM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329943117244588033/8EwnJDzM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253885951564222464/1587786574",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4029837e46e8e369",
+    "url": "https://api.twitter.com/1.1/geo/id/4029837e46e8e369.json",
+    "place_type": "city",
+    "name": "Nova Igua\u00e7u",
+    "full_name": "Nova Igua\u00e7u, Brasil",
+    "country_code": "BR",
+    "country": "Brazil",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.681932,
+            -22.865838
+          ],
+          [
+            -43.366801,
+            -22.865838
+          ],
+          [
+            -43.366801,
+            -22.527218
+          ],
+          [
+            -43.681932,
+            -22.527218
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "pt"
+}
