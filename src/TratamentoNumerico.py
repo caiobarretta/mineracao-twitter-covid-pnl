@@ -44,6 +44,7 @@ class TratamentoNumerico(TratamentoTextoBase):
 
     def tratar_texto(self, texto):
         texto = self.strip_unicode(texto)
+        texto = self.to_lowercase(texto)
         texto = self.identify_alpha_numerics(texto)
         texto = self.replace_numbers(texto)
         texto = self.indentify_money(texto)

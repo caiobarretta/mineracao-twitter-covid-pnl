@@ -184,8 +184,8 @@ def main():
         tratamento_dataehora = True,
         tratamento_numerico = True,
         tratamento_texto_redesociais = True)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
 
     verificaIdioma = VerificaIdioma(Tradutor())
     tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")

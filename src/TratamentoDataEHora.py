@@ -61,6 +61,7 @@ class TratamentoDataEHora(TratamentoTextoBase):
 
     def tratar_texto(self, texto):
         texto = self.strip_unicode(texto)
+        texto = self.to_lowercase(texto)
         texto = self.process_times(texto)
         texto = self.process_dates_en(texto)
         texto = self.process_dates_ptbr(texto)

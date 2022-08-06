@@ -11,6 +11,7 @@ class TratamentoTextoRedeSociais(TratamentoTextoBase):
 
     def tratar_texto(self, texto):
         texto = self.strip_unicode(texto)
+        texto = self.to_lowercase(texto)
         texto = self.process_hashtags(texto)
         texto = self.process_mentions(texto)
 

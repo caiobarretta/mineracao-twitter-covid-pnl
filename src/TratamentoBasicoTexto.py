@@ -24,22 +24,8 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
         transient_tweet_text = re.sub(self.STRIP_WHITESPACES_REGEX, self.BLANK_SPACE, transient_tweet_text)
         return transient_tweet_text
 
-    def to_lowercase(self, transient_tweet_text):
-        '''
-        Convert tweet text to lower to lower case alphabets
-        '''
-        transient_tweet_text = transient_tweet_text.lower()
-        return transient_tweet_text
-
     def remove_spl_words(self, transient_tweet_text):
         return transient_tweet_text.replace(self.SPL_WORD_E, self.WORD_E)
-
-    def strip_unicode(self, transient_tweet_text):
-        '''
-        Strip all unicode characters from a tweet
-        '''
-        tweet = ''.join(i for i in transient_tweet_text if ord(i)<128)
-        return tweet
 
     def process_email_ids(self, transient_tweet_text):
         '''
