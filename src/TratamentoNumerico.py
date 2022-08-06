@@ -43,6 +43,7 @@ class TratamentoNumerico(TratamentoTextoBase):
         return transient_tweet_text
 
     def tratar_texto(self, texto):
+        texto = self.strip_unicode(texto)
         texto = self.identify_alpha_numerics(texto)
         texto = self.replace_numbers(texto)
         texto = self.indentify_money(texto)
@@ -51,9 +52,10 @@ class TratamentoNumerico(TratamentoTextoBase):
 def test_trata_texto():
     test_tweet = """ 
         Nice @varun paytm @paytm saver abc@gmail.com sizes for the wolf on 20/10/2010 at 10:00PM  grey/deep royal-volt Nike Air Skylon II retro are 40% OFF for a limited time at $59.99 + FREE shipping.BUY HERE -> https://bit.ly/2L2n7rB (promotion - use code MEMDAYSV at checkout)
-        r$ 20,00, r$ 30.00, r$ 4.000
+        R$ 20,00, R$ 30.00, R$ 4.000
     """
     tratamento = TratamentoNumerico()
+    test_tweet = test_tweet.lower()
     tweet_tratado = tratamento.tratar_texto(test_tweet)
     print('tweet:', test_tweet)
     print('tweet_tratado:', tweet_tratado)

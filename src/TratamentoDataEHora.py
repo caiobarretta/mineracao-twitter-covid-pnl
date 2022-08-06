@@ -60,6 +60,7 @@ class TratamentoDataEHora(TratamentoTextoBase):
         return re.sub(self.TIME_REGEX, self.CONSTANT_TIME, transient_tweet_text)
 
     def tratar_texto(self, texto):
+        texto = self.strip_unicode(texto)
         texto = self.process_times(texto)
         texto = self.process_dates_en(texto)
         texto = self.process_dates_ptbr(texto)
@@ -88,12 +89,13 @@ def test_trata_texto():
     De acordo com a Constituição, o Congresso Nacional se reúne de 1 de fevereiro a 17 de julho e de 1 de agosto a 22 de dezembro.
     Em infográficos, tabelas, créditos de imagens ou textos de legenda, pode-se usar a data de forma abreviada. Nesse caso, separe os números por barra e use zero antes dos números: 07/02/2012."""
     tratamento = TratamentoDataEHora()
+    test_tweet = test_tweet.lower()
     tweet_tratado = tratamento.tratar_texto(test_tweet)
     print('tweet:', test_tweet)
     print('tweet_tratado:', tweet_tratado)
 
 def main():
-    #test_print()
+    test_print()
     test_trata_texto()
 
 if __name__ == '__main__':

@@ -56,6 +56,7 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
         return transient_tweet_text
 
     def tratar_texto(self, texto):
+        texto = self.strip_unicode(texto)
         texto = self.to_lowercase(texto)
         texto = self.trim(texto)
         texto = self.strip_whitespaces_regex(texto)
@@ -63,11 +64,6 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
 
         texto = self.process_email_ids(texto)
         texto = self.strip_unicode(texto)
-
-        texto = self.identify_alpha_numerics(texto)
-        texto = self.replace_numbers(texto)
-
-        texto = self.indentify_money(texto)
 
         texto = self.trim(texto)
         texto = self.strip_whitespaces_regex(texto)
@@ -89,6 +85,7 @@ def test_print():
 def test_trata_texto():
     test_tweet = " Nice @varun paytm @paytm saver abc@gmail.com sizes for the wolf on 20/10/2010 at 10:00PM  grey/deep royal-volt Nike Air Skylon II retro are 40% OFF for a limited time at $59.99 + FREE shipping.BUY HERE -> https://bit.ly/2L2n7rB (promotion - use code MEMDAYSV at checkout)"
     tratamento = TratamentoBasicoTexto()
+    test_tweet = test_tweet.lower()
     tweet_tratado = tratamento.tratar_texto(test_tweet)
     print('tweet:', test_tweet)
     print('tweet_tratado:', tweet_tratado)

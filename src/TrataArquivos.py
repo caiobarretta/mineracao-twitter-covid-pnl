@@ -12,7 +12,7 @@ from RemoveElementosDeMarcacao import RemoveElementosDeMarcacao
 from TratamentoBasicoTexto import TratamentoBasicoTexto
 from TratamentoDataEHora import TratamentoDataEHora
 from TratamentoNumerico import TratamentoNumerico
-from TrataTextoRedeSociais import TrataTextoRedeSociais
+from TratamentoTextoRedeSociais import TratamentoTextoRedeSociais
 
 class TrataArquivos:
     def __init__(self, consolidaArquivos, tratamento, time_sleep_load_tratamento = 5, node_dest = 'text_tratado'):
@@ -136,7 +136,7 @@ def tests():
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
 
-def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratatexto_redesociais = True):
+def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True):
     classe_tratar_arquivo_lst = []
     if remocao_de_url:
         classe_tratar_arquivo_lst.append(RemocaoDeUrl())
@@ -154,8 +154,8 @@ def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True,
         classe_tratar_arquivo_lst.append(TratamentoDataEHora())
     if tratamento_numerico:
         classe_tratar_arquivo_lst.append(TratamentoNumerico())
-    if tratatexto_redesociais:
-        classe_tratar_arquivo_lst.append(TrataTextoRedeSociais())
+    if tratamento_texto_redesociais:
+        classe_tratar_arquivo_lst.append(TratamentoTextoRedeSociais())
 
     return classe_tratar_arquivo_lst
 
@@ -174,7 +174,16 @@ def tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, 
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
 
-    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratatexto_redesociais = True)
+    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(
+        remocao_de_url = False,
+        trata_emoji = False,
+        divide_palavras_unidas = False,
+        corrigi_ortografia_fora_do_padrao = False,
+        remove_elementos_de_marcacao = False,
+        tratamento_basico_texto = True,
+        tratamento_dataehora = True,
+        tratamento_numerico = True,
+        tratamento_texto_redesociais = True)
     tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension)
     tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension)
 
