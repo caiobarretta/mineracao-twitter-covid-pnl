@@ -1,18 +1,25 @@
 import time
+from typing import Tuple
 from TrataEmoji import TrataEmoji
 from ConsolidaArquivos import ConsolidaArquivos
 from TipoDeArquivos import TipoDeArquivos
+from VerificaIdioma import VerificaIdioma
 from Tradutor import Tradutor
 from RemocaoDeUrl import RemocaoDeUrl
 from CorrigiOrtografiaForaDoPadrao import CorrigiOrtografiaForaDoPadrao
 from DividePalavrasUnidas import DividePalavrasUnidas
 from RemoveElementosDeMarcacao import RemoveElementosDeMarcacao
+from TratamentoBasicoTexto import TratamentoBasicoTexto
+from TratamentoDataEHora import TratamentoDataEHora
+from TratamentoNumerico import TratamentoNumerico
+from TrataTextoRedeSociais import TrataTextoRedeSociais
 
 class TrataArquivos:
-    def __init__(self, consolidaArquivos, tratamento, time_sleep_load_tratamento = 5):
+    def __init__(self, consolidaArquivos, tratamento, time_sleep_load_tratamento = 5, node_dest = 'text_tratado'):
         self.time_sleep_load_tratamento = time_sleep_load_tratamento
         self.consolidaArquivos = consolidaArquivos
         self.tratamento = tratamento
+        self.node_dest = node_dest
 
     def tratar_arquivos(self, path, extension, tipo_arquivo, refazer_tratamento=False, propriedade_json = 'texto'):
         print('carregando lista de arquivos')
@@ -31,8 +38,7 @@ class TrataArquivos:
                 raise Exception(f'Função para enum: {tipo_arquivo} não implementada.')
 
     def tratar_arquivos_twitter(self, file, content, refazer_tratamento, propriedade_json):
-        node_dest = 'text_tratado'
-        if node_dest in content and not refazer_tratamento:
+        if self.node_dest in content and not refazer_tratamento:
             return
         print(f'processando arquivo: {file}')
         get_text_from_files = self.consolidaArquivos.get_text_from_twitter_json_files
@@ -41,8 +47,7 @@ class TrataArquivos:
         self.processa_tratamento_arquivos(file, content, get_text_from_files, get_text_from_json, set_text_from_json, propriedade_json)
     
     def tratar_arquivos_youtube(self, file, content, refazer_tratamento, propriedade_json):
-        node_dest = 'text_tratado'
-        if node_dest in content and not refazer_tratamento:
+        if self.node_dest in content and not refazer_tratamento:
             return
         print(f'processando arquivo: {file}')
         get_text_from_files = self.consolidaArquivos.get_text_from_youtube_comments_json_files
@@ -61,10 +66,10 @@ class TrataArquivos:
         return json['texto']
 
     def set_text_from_json_twitter(self, json, texto):
-        json['text_tratado'] = texto
+        json[self.node_dest] = texto
 
     def set_text_from_json_youtube(self, json, texto):
-        json['text_tratado'] = texto
+        json[self.node_dest] = texto
 
     def processa_tratamento_arquivos(self, file, content, get_text_from_files, get_text_from_json, set_text_from_json, propriedade_json):
         json_content = get_text_from_files(content)
@@ -131,7 +136,7 @@ def tests():
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
 
-def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True):
+def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratatexto_redesociais = True):
     classe_tratar_arquivo_lst = []
     if remocao_de_url:
         classe_tratar_arquivo_lst.append(RemocaoDeUrl())
@@ -143,17 +148,39 @@ def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True,
         classe_tratar_arquivo_lst.append(CorrigiOrtografiaForaDoPadrao())
     if remove_elementos_de_marcacao:
         classe_tratar_arquivo_lst.append(RemoveElementosDeMarcacao())
+    if tratamento_basico_texto:
+        classe_tratar_arquivo_lst.append(TratamentoBasicoTexto())
+    if tratamento_dataehora:
+        classe_tratar_arquivo_lst.append(TratamentoDataEHora())
+    if tratamento_numerico:
+        classe_tratar_arquivo_lst.append(TratamentoNumerico())
+    if tratatexto_redesociais:
+        classe_tratar_arquivo_lst.append(TrataTextoRedeSociais())
+
     return classe_tratar_arquivo_lst
 
-def main():
-    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(True, False, False, False, False)
+def get_file_path_and_extension():
     consolidaArquivos = ConsolidaArquivos()
     path_tweets = consolidaArquivos.PATH_TWEETS
     path_youtube_comments = consolidaArquivos.PATH_YOUTUBE_COMMENTS
     extension = consolidaArquivos.EXTENSION
-    trataArquivos = TrataArquivos(consolidaArquivos, classe_tratar_arquivo_lst, 0)
-    trataArquivos.tratar_arquivos(path_tweets, extension, TipoDeArquivos.TWITTER, True, 'texto_tratado')
-    trataArquivos.tratar_arquivos(path_youtube_comments, extension, TipoDeArquivos.YOUTUBE_COMMENTS, True, 'texto_tratado')
+    return path_tweets, path_youtube_comments, extension, consolidaArquivos
 
+def tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, extension:str, time_sleep_load_tratamento:int = 0, node_dest:str = 'text_tratado', refazer_tratamento:bool=True, propriedade_json:str = 'texto_tratado'):
+    path, tipo = path_tipo[0], path_tipo[1]
+    trataArquivos = TrataArquivos(consolidaArquivos, ioc, time_sleep_load_tratamento, node_dest)
+    trataArquivos.tratar_arquivos(path, extension, tipo, refazer_tratamento, propriedade_json)
+
+def main():
+    path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
+
+    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratatexto_redesociais = True)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension)
+
+    verificaIdioma = VerificaIdioma(Tradutor())
+    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+    
 if __name__ == '__main__':
     main()

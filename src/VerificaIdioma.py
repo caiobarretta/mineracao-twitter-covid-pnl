@@ -1,35 +1,14 @@
-from googletrans import Translator, LANGCODES
+from Tradutor import Tradutor
 
+class VerificaIdioma:
+    def __init__(self, tradutor):
+        self.tradutor = tradutor
 
-class Tradutor:
-    def __init__(self):
-        self.translator = Translator()
+    def tratar_texto(self, texto):
+        return self.tradutor.verifica_idioma(texto)
 
-    def traducao_portugues(self, texto):
-        """
-        Função que traduz o texto para portugues usando o google tradutor
-        O parametro texto será o texto a ser traduzido para portugues
-        returna a tradução
-        """
-        sigla_portugues = LANGCODES['portuguese']
-        return self.translator.translate(texto, dest=sigla_portugues).text
-
-    def verifica_idioma(self, texto):
-        """
-        Função que verifica o idioma do texto usando o google tradutor
-        O parametro texto será o texto a ser verificado
-        returna o idioma
-        """
-        return self.translator.detect(texto).lang
-
-
-def test_traducao_portugues():
-    tradutor = Tradutor()
-    texto = '안녕하세요.'
-    print(tradutor.traducao_portugues(texto))
-
-def test_verifica_idioma():
-    tradutor = Tradutor()
+def test_trata_texto():
+    verificaIdioma = VerificaIdioma(Tradutor())
     textos = [
         "Excelente MESTRE Peninha !!!!\nO nosso maior problema em todas as 00e1reas 00e9 a corrup00e700e3o, no SUS agora o COVID00c3O, enquanto os miser00e1veis morrem nos hospitais p00fablicos os de sempre continuam roubando.\nVoc00ea j00e1 fez algum cap00edtulo da CORRUP00c700c3O NO BRASIL  ?\nd83dde4fd83dde4fd83dde4fd83dde4f",
         "Una gran informaci00f3n y es una gran preocupaci00f3n hasta donde llega la ignorancia de las personas  al desechar todas sus basuras a los r00edos y mares no tomando en cuenta que estamos cavando nuestra propia tumba  al esparcir todos estos virus en  lo que nos da la vida, el agua, de verdad es muy preocupante ver los r00edos infestados de cubre bocas  y basura desechos de toda esta pandemia.  Saludos y muchas felicidades por su valiosa informaci00f3n.",
@@ -37,12 +16,11 @@ def test_verifica_idioma():
         "Semoga vurus corona segera pergi dari dunia ini,khususnya negara kita(indonesia)AAMIINd83edd32"
         ]
     for texto in textos:
-        idioma = tradutor.verifica_idioma(texto)
+        idioma = verificaIdioma.tratar_texto(texto)
         print("idioma: ", idioma)
 
 def main():
-    #test_traducao_portugues()
-    test_verifica_idioma()
-
+    test_trata_texto()
+    
 if __name__ == '__main__':
     main()

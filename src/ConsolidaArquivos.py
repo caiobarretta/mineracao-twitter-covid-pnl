@@ -9,7 +9,6 @@ from TrataEmoji import TrataEmoji
 from Tradutor import Tradutor
 
 class ConsolidaArquivos:
-
     PATH_RAW: Final[str] = f'data/raw/'
     PATH_TWEETS: Final[str] = f'{PATH_RAW}twitter/'
     PATH_YOUTUBE_COMMENTS: Final[str] = f'{PATH_RAW}youtube/filtered_comment_threads/'
@@ -62,6 +61,8 @@ class ConsolidaArquivos:
             json['texto'] = content['text']
         if 'text_tratado' in content:
             json['texto_tratado'] = content['text_tratado']
+        if 'idioma' in content:
+            json['idioma'] = content['idioma']
         return json
 
     def get_text_from_youtube_comments_json_files(self, content):
@@ -70,6 +71,8 @@ class ConsolidaArquivos:
         json['texto'] = content['snippet']['topLevelComment']['snippet']['textOriginal']
         if 'text_tratado' in content:
             json['texto_tratado'] = content['text_tratado']
+        if 'idioma' in content:
+            json['idioma'] = content['idioma']
         return json
 
     def save_data_partition(self, index, path, content, extension):
