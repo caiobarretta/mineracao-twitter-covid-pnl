@@ -17,6 +17,7 @@ class TratamentoDataEHora(TratamentoTextoBase):
     DATE_REGEX_PTBR1: Final[str] = r'(0[1-9]|1\d{1}|2\d{1}|3[0-1])(\/|\-|\.)(0[1-9]|[1-9]|1[0-2])\2\d{4}'
     DATE_REGEX_PTBR2: Final[str] = r'^(?:(?:31([-\/.]?)(?:0[13578]|1[02]))\1|(?:(?:29|30)([-\/.]?)(?:0[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)\d{2})$|^(?:29([-\/.]?)02\3(?:(?:(?:1[6-9]|[2-9]\d)(?:0[48]|[2468][048]|[13579][26]))))$|^(?:0[1-9]|1\d|2[0-8])([-\/.]?)(?:(?:0[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)\d{2})$'
     DATE_REGEX_PTBR3: Final[str] = r'[\s]?([0-9]|[0-9][0-9]) ((de|em)) '
+    DATE_REGEX_PTBR4: Final[str] = r'[-\/.](\d{4}|\d{2})'
 
 
     def process_dates_en(self, transient_tweet_text):
@@ -50,6 +51,9 @@ class TratamentoDataEHora(TratamentoTextoBase):
 
         date_regex3 = self.DATE_REGEX_PTBR3 + Months
         transient_tweet_text = re.sub(date_regex3, self.CONSTANT_DATE, transient_tweet_text)
+
+        date_regex4 = Months + self.DATE_REGEX_PTBR4
+        transient_tweet_text = re.sub(date_regex4, self.CONSTANT_DATE, transient_tweet_text)
 
         return transient_tweet_text
 
@@ -88,7 +92,10 @@ def test_trata_texto():
     Brasília, 9 de março
     Com participação de argentinos, PARLASUL volta a se reunir em 2 de julho.
     De acordo com a Constituição, o Congresso Nacional se reúne de 1 de fevereiro a 17 de julho e de 1 de agosto a 22 de dezembro.
-    Em infográficos, tabelas, créditos de imagens ou textos de legenda, pode-se usar a data de forma abreviada. Nesse caso, separe os números por barra e use zero antes dos números: 07/02/2012."""
+    Em infográficos, tabelas, créditos de imagens ou textos de legenda, pode-se usar a data de forma abreviada. Nesse caso, separe os números por barra e use zero antes dos números: 07/02/2012.
+    rt  constantenaomencaodamarca : meu pl a suspensao das metas ate jun/22. bolsonaro argumenta que deu fim a emergencia em saude publica de importancia nacio...
+    rt  constantenaomencaodamarca : meu pl a suspensao das metas ate dez/2050. bolsonaro argumenta que deu fim a emergencia em saude publica de importancia nacio...
+    """
     tratamento = TratamentoDataEHora()
     test_tweet = test_tweet.lower()
     tweet_tratado = tratamento.tratar_texto(test_tweet)

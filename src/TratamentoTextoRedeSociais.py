@@ -14,6 +14,7 @@ class TratamentoTextoRedeSociais(TratamentoTextoBase):
         texto = self.to_lowercase(texto)
         texto = self.process_hashtags(texto)
         texto = self.process_mentions(texto)
+        return texto
 
     def process_mentions(self, transient_tweet_text):
         '''

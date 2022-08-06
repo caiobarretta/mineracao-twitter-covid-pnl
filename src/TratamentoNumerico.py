@@ -54,6 +54,8 @@ def test_trata_texto():
     test_tweet = """ 
         Nice @varun paytm @paytm saver abc@gmail.com sizes for the wolf on 20/10/2010 at 10:00PM  grey/deep royal-volt Nike Air Skylon II retro are 40% OFF for a limited time at $59.99 + FREE shipping.BUY HERE -> https://bit.ly/2L2n7rB (promotion - use code MEMDAYSV at checkout)
         R$ 20,00, R$ 30.00, R$ 4.000
+        "rt @jairbolsonaro: - o @minsaude converte 6,4 mil leitos de unidade de terapia intensiva (uti) exclusivos para covid em leitos convencionai...",
+        "rt  constantenaomencaodamarca : certas coisas nao tem preco... mas c bolsocard vc pode gastar 12,53 mi/mes e depois esconder debaixo d tapete ! agora os 790mi...",
     """
     tratamento = TratamentoNumerico()
     test_tweet = test_tweet.lower()

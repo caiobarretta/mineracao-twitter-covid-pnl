@@ -82,17 +82,26 @@ class TrataArquivos:
         time.sleep(self.time_sleep_load_tratamento)
 
     def resolve_tratamento_texto_ioc(self, texto):
+        novo_texto = ''
         if type(self.tratamento ) is list:
             for classe_tratamento in self.tratamento:
                 if type(classe_tratamento) is dict:
                     if classe_tratamento['Executar']:
-                        return classe_tratamento['Classe'].tratar_texto(texto)
+                        print('Executando tratamento:', classe_tratamento['Classe'])
+                        novo_texto = classe_tratamento['Classe'].tratar_texto(texto)
                     else:
-                        return texto
+                        print('Ignorando tratamento:', self.retorna_nome_classe(classe_tratamento['Classe']))
+                        novo_texto = texto
                 else:
-                    return classe_tratamento.tratar_texto(texto)
+                    print('Executando tratamento:', self.retorna_nome_classe(classe_tratamento))
+                    novo_texto = classe_tratamento.tratar_texto(texto)
         else:
-            return self.tratamento.tratar_texto(texto)
+            print('Executando tratamento:', self.retorna_nome_classe(self.tratamento))
+            novo_texto = self.tratamento.tratar_texto(texto)
+        return novo_texto
+
+    def retorna_nome_classe(self, classe):
+        return type(classe).__name__
 
 def test_tratar_arquivo():
     trataEmoji = TrataEmoji(Tradutor())
@@ -152,10 +161,10 @@ def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True,
         classe_tratar_arquivo_lst.append(TratamentoBasicoTexto())
     if tratamento_dataehora:
         classe_tratar_arquivo_lst.append(TratamentoDataEHora())
-    if tratamento_numerico:
-        classe_tratar_arquivo_lst.append(TratamentoNumerico())
     if tratamento_texto_redesociais:
         classe_tratar_arquivo_lst.append(TratamentoTextoRedeSociais())
+    if tratamento_numerico:
+        classe_tratar_arquivo_lst.append(TratamentoNumerico())
 
     return classe_tratar_arquivo_lst
 
@@ -174,18 +183,14 @@ def tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, 
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
 
-    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst(
-        remocao_de_url = False,
-        trata_emoji = False,
-        divide_palavras_unidas = False,
-        corrigi_ortografia_fora_do_padrao = False,
-        remove_elementos_de_marcacao = False,
-        tratamento_basico_texto = True,
-        tratamento_dataehora = True,
-        tratamento_numerico = True,
-        tratamento_texto_redesociais = True)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
+    classe_tratar_arquivo_lst_tratamento_sem_timeout = carrega_classe_tratar_arquivo_lst(trata_emoji = False)
+
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst_tratamento_sem_timeout, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst_tratamento_sem_timeout, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
+
+    trataEmoji = TrataEmoji(Tradutor())
+    tratar_arquivos(consolidaArquivos, trataEmoji, (path_tweets, TipoDeArquivos.TWITTER), extension, 1)
+    tratar_arquivos(consolidaArquivos, trataEmoji, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 1)
 
     verificaIdioma = VerificaIdioma(Tradutor())
     tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")

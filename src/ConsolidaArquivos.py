@@ -18,7 +18,7 @@ class ConsolidaArquivos:
             file_exists = False
             if not replace_existing_file:
                 file_exists = exists(file_name)
-            if not file_exists:
+            if not file_exists and content:
                 with open(file_name, "w") as f:
                     json.dump(content, f, indent=2)
 

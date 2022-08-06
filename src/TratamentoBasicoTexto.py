@@ -53,7 +53,6 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
 
         texto = self.trim(texto)
         texto = self.strip_whitespaces_regex(texto)
-
         return texto
 
  
