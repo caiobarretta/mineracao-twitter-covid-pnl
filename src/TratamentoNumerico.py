@@ -3,11 +3,11 @@ from typing import Final
 from TratamentoTextoBase import TratamentoTextoBase
 
 class TratamentoNumerico(TratamentoTextoBase):
-    CONSTANT_NUM_WITHOUT_BLANK_SPACE: Final[str] = "constantenumerica" 
-    CONSTANT_ALPHA_NUM_WITHOUT_BLANK_SPACE: Final[str] = "constantealfanumerica"
+    CONSTANT_NUM_WITHOUT_BLANK_SPACE: Final[str] = "constante_numerica" 
+    CONSTANT_ALPHA_NUM_WITHOUT_BLANK_SPACE: Final[str] = "constante_alfanumerica"
 
     CONSTANT_NUM: Final[str] = f" {CONSTANT_NUM_WITHOUT_BLANK_SPACE} "
-    CONSTANT_MONEY: Final[str] = " constantedinheiro "
+    CONSTANT_MONEY: Final[str] = " constante_dinheiro "
     CONSTANT_ALPHA_NUM: Final[str] = f" {CONSTANT_ALPHA_NUM_WITHOUT_BLANK_SPACE} "
 
     MONEY_REGEX1: Final[str] = r'\b(r$|rs|\$)[\s]*('+CONSTANT_NUM_WITHOUT_BLANK_SPACE+')?[\.]?[\s]*'+CONSTANT_NUM_WITHOUT_BLANK_SPACE+'\b'

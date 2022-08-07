@@ -1,10 +1,13 @@
 from Tradutor import Tradutor
+import time
 
 class VerificaIdioma:
-    def __init__(self, tradutor):
+    def __init__(self, tradutor, time_sleep = 5):
         self.tradutor = tradutor
+        self.time_sleep = time_sleep
 
     def tratar_texto(self, texto):
+        time.sleep(self.time_sleep)
         return self.tradutor.verifica_idioma(texto)
 
 def test_trata_texto():

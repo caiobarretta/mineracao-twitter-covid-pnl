@@ -9,7 +9,7 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
     STRIP_WHITESPACES_REGEX: Final[str] = r'[\s]+'
 
     EMAIL_REGEX: Final[str] = r'(\b)?[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\b)?'
-    CONSTANT_EMAIL_ID: Final[str] = ' constanteemailid '
+    CONSTANT_EMAIL_ID: Final[str] = ' constante_email_id '
 
     def trim(self, transient_tweet_text):
         ''' 

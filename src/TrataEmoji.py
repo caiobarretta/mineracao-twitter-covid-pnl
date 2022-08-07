@@ -73,7 +73,7 @@ class TrataEmoji:
                 'translated_text': emoji_traduzido})
         return list_dict_emoji
     
-    def converte_traduz_emoji_em_texto(self, texto, usar_dicionario_emoji = True, atualizar_dicionario_emoji = False, start_sep = "(", end_sep = ")"):
+    def converte_traduz_emoji_em_texto(self, texto, usar_dicionario_emoji = False, atualizar_dicionario_emoji = False, start_sep = "(", end_sep = ")"):
         '''
         Função que traduz emoji em texto
         O parametro texto é o texto a ser traduzido
@@ -91,7 +91,7 @@ class TrataEmoji:
             texto_sem_emoji = texto_sem_emoji.replace(old_string, new_string)
         return texto_sem_emoji
 
-    def retorna_lista_dicionario_emoji_traduzido(self, texto, usar_dicionario_emoji = True, atualizar_dicionario_emoji = False):
+    def retorna_lista_dicionario_emoji_traduzido(self, texto, usar_dicionario_emoji = False, atualizar_dicionario_emoji = False):
         '''
         Função que retorna a lista de dicionário de emojis traduzidos de um texto
         O parametro texto é o texto a ser traduzido
@@ -166,8 +166,8 @@ class TrataEmoji:
                 return content
         return content
 
-    def tratar_texto(self, texto, usar_dicionario_emoji = False):
-        return self.converte_traduz_emoji_em_texto(texto, usar_dicionario_emoji)
+    def tratar_texto(self, texto):
+        return self.converte_traduz_emoji_em_texto(texto)
 
 #Teste
 def test_converte_texto_em_emoji():

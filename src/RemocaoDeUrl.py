@@ -1,6 +1,5 @@
 import re
 from typing import Final
-import uuid
 
 class RemocaoDeUrl:
     REMOVAL_OF_URLS_REGEX: Final[str] = r'https?:\/\/.*?[\s+]'

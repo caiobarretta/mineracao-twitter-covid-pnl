@@ -13,6 +13,8 @@ from TratamentoBasicoTexto import TratamentoBasicoTexto
 from TratamentoDataEHora import TratamentoDataEHora
 from TratamentoNumerico import TratamentoNumerico
 from TratamentoTextoRedeSociais import TratamentoTextoRedeSociais
+from TraducaoTexto import TraducaoTexto
+from IdiomaTraducao import IdiomaTraducao
 
 class TrataArquivos:
     def __init__(self, consolidaArquivos, tratamento, time_sleep_load_tratamento = 5, node_dest = 'text_tratado'):
@@ -145,12 +147,10 @@ def tests():
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
 
-def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, trata_emoji = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True):
+def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True):
     classe_tratar_arquivo_lst = []
     if remocao_de_url:
         classe_tratar_arquivo_lst.append(RemocaoDeUrl())
-    if trata_emoji:
-        classe_tratar_arquivo_lst.append(TrataEmoji(Tradutor()))
     if divide_palavras_unidas:
         classe_tratar_arquivo_lst.append(DividePalavrasUnidas())
     if corrigi_ortografia_fora_do_padrao:
@@ -180,21 +180,32 @@ def tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, 
     trataArquivos = TrataArquivos(consolidaArquivos, ioc, time_sleep_load_tratamento, node_dest)
     trataArquivos.tratar_arquivos(path, extension, tipo, refazer_tratamento, propriedade_json)
 
+def traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos):
+    traduzIngles = TraducaoTexto(Tradutor(), idioma=IdiomaTraducao.ENG, time_sleep=2)
+    tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_tweets, TipoDeArquivos.TWITTER), extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=True)
+    tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS),  extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=True)
+
+def verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos):
+    verificaIdioma = VerificaIdioma(Tradutor(), time_sleep=1)
+    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+
+def trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos):
+    classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst()
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
+    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
+
+def trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos):
+    trataEmoji = TrataEmoji(Tradutor(), 2)
+    tratar_arquivos(consolidaArquivos, trataEmoji, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, propriedade_json = "texto")
+    tratar_arquivos(consolidaArquivos, trataEmoji, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, propriedade_json = "texto")
+
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
+    trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
 
-    classe_tratar_arquivo_lst_tratamento_sem_timeout = carrega_classe_tratar_arquivo_lst(trata_emoji = False)
-
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst_tratamento_sem_timeout, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst_tratamento_sem_timeout, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
-
-    trataEmoji = TrataEmoji(Tradutor())
-    tratar_arquivos(consolidaArquivos, trataEmoji, (path_tweets, TipoDeArquivos.TWITTER), extension, 1)
-    tratar_arquivos(consolidaArquivos, trataEmoji, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 1)
-
-    verificaIdioma = VerificaIdioma(Tradutor())
-    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")
-    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 1, 'idioma', refazer_tratamento=False, propriedade_json="texto")
-    
 if __name__ == '__main__':
     main()

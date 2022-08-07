@@ -3,15 +3,16 @@ from typing import Final
 from TratamentoTextoBase import TratamentoTextoBase
 
 class TratamentoDataEHora(TratamentoTextoBase):
-    CONSTANT_DATE: Final[str] = ' constantedata '
-    CONSTANT_TIME: Final[str] = ' constantetempo '
+    CONSTANT_DATE_SEM_ESPACO: Final[str] = 'constante_data'
+    CONSTANT_DATE: Final[str] = f' {CONSTANT_DATE_SEM_ESPACO} '
+    CONSTANT_TIME: Final[str] = ' constante_tempo '
 
     DATE_REGEX_EN1: Final[str] = r'\b((0|1|2|3)?[0-9][\s]*)[-./]([\s]*([012]?[0-9])[\s]*)([-./]([\s]*(19|20)[0-9][0-9]))?\b'
     DATE_REGEX_EN2: Final[str] = r'\b((19|20)[0-9][0-9][\s]*[-./]?)?[\s]*([012]?[0-9])[\s]*[-./][\s]*(0|1|2|3)?[0-9]\b'
     DATE_REGEX_EN3: Final[str] = r'\d+[\s]*(st|nd|rd|th)[\s]*'
     DATE_REGEX_EN4: Final[str] = r'[\s]*\d+[\s]*(st|nd|rd|th)*\b'
     DATE_REGEX_EN5: Final[str] = r'[\s]?\b(19|20)[0-9][0-9]\b[\s]?'
-    DATE_REGEX_EN6: Final[str] = r'([\s]*(constantedata))+'
+    DATE_REGEX_EN6: Final[str] = r'([\s]*('+CONSTANT_DATE_SEM_ESPACO+'))+'
     TIME_REGEX: Final[str] = r'([0-9]|0[0-9]|1[0-9]|2[0-3]):[0-5][0-9][\s]*(am|pm)?[\s]*([iescm](st)|gmt|utc|[pmce](dt))?'
 
     DATE_REGEX_PTBR1: Final[str] = r'(0[1-9]|1\d{1}|2\d{1}|3[0-1])(\/|\-|\.)(0[1-9]|[1-9]|1[0-2])\2\d{4}'

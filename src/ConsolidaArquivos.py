@@ -3,10 +3,7 @@ import json
 from os.path import exists
 from time import sleep
 from typing import Final
-
 from TipoDeArquivos import TipoDeArquivos
-from TrataEmoji import TrataEmoji
-from Tradutor import Tradutor
 
 class ConsolidaArquivos:
     PATH_RAW: Final[str] = f'data/raw/'
@@ -51,7 +48,7 @@ class ConsolidaArquivos:
             raise Exception(f'Função para enum: {tipo_arquivo} não implementada.')
         json['src'] = str(tipo_arquivo.name)
         return json
-
+    
     def get_text_from_twitter_json_files(self, content):
         json = {}
         json['id'] = content['id']
@@ -59,33 +56,33 @@ class ConsolidaArquivos:
             json['texto'] = content['full_text']
         else:
             json['texto'] = content['text']
-        if 'text_tratado' in content:
-            json['texto_tratado'] = content['text_tratado']
-        if 'idioma' in content:
-            json['idioma'] = content['idioma']
+        self.get_text_from_common_json_files(json, content)
         return json
 
     def get_text_from_youtube_comments_json_files(self, content):
         json = {}
         json['id'] = content['id']
         json['texto'] = content['snippet']['topLevelComment']['snippet']['textOriginal']
+        self.get_text_from_common_json_files(json, content)
+        return json
+
+    def get_text_from_common_json_files(self, json, content):
         if 'text_tratado' in content:
             json['texto_tratado'] = content['text_tratado']
         if 'idioma' in content:
             json['idioma'] = content['idioma']
-        return json
+        if 'texto_en' in content:
+            json['texto_en'] = content['texto_en']
 
     def save_data_partition(self, index, path, content, extension):
         file_name = f'{path}consolidado_part_{index}{extension}'
         self.save_json(file_name, content)
 
     def save_consolidation_data_partition(self, path, data, extension, file_size, tratar_emoji = False, traduzir_texto = False):
-        tradutor = Tradutor()
         total_file_len = 0
         file_count = 0
         json_list = []
         for json in data:
-            self.executa_tratamentos(json, tradutor, tratar_emoji, traduzir_texto)
             json_len =  self.get_string_dict_len(json)
             total_file_len = total_file_len + json_len
             json_list.append(json)
@@ -107,17 +104,6 @@ class ConsolidaArquivos:
         src = json['src']
         full_string = '{' + f"'{id}','{texto}','{texto_tratado}','{src}'" + "},"
         return len(full_string.encode('utf-8'))
-
-    def executa_tratamentos(self, json, tradutor, tratar_emoji = False, traduzir_texto = False):
-        if tratar_emoji:
-            self.converter_emoji_em_texto(json)
-        if traduzir_texto:
-            self.traduzir_texto_portugues(json, tradutor)
-
-    def converter_emoji_em_texto(self, json):
-        print(f"Tratando emoji do texto id: {json['id']}")
-        trataEmoji = TrataEmoji()
-        json['texto_tratado'] = trataEmoji.converte_emoji_em_texto(json['texto'], ' ')
 
     def traduzir_texto_portugues(self, json, tradutor, sleep=10):
         sleep(sleep)

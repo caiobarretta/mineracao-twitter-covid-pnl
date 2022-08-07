@@ -4,10 +4,10 @@ from TratamentoTextoBase import TratamentoTextoBase
 
 class TratamentoTextoRedeSociais(TratamentoTextoBase):
     PROCESS_MENTIONS_REGEX: Final[str] = r"@(\w+)"
-    CONSTANT_NON_BRAND_MENTION: Final[str] = " constantenaomencaodamarca "
+    CONSTANT_NON_BRAND_MENTION: Final[str] = " constante_nao_mencao_da_marca "
 
     PROCESS_HASHTAGS_REGEX: Final[str] = r"#(\w+)\b"
-    CONSTANT_HASHTAG: Final[str] = " hashtagconstante "
+    CONSTANT_HASHTAG: Final[str] = " hashtag_constante "
 
     def tratar_texto(self, texto):
         texto = self.strip_unicode(texto)
