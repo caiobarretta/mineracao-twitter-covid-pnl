@@ -83,6 +83,6 @@
   "favorited": false,
   "retweeted": false,
   "lang": "pt",
-  "text_tratado": "covid constante_numerica  rn\npanorama assistencial\n constante_numerica  constante_numerica \n\n*internados:  constante_numerica \nsus:  constante_numerica \nprivado:  constante_numerica \n\n*leitos criticos\nsus:  constante_numerica \nprivado:  constante_numerica \n\n*leitos clinicos\nsus:  constante_numerica \nprivado:  constante_numerica ",
-  "idioma": "es"
-}
+  "text_tratado": "covid  rn\npanorama assistencial\n  \n\n*internados:  \nsus:  \nprivado:  \n\n*leitos criticos\nsus:  \nprivado:  \n\n*leitos clinicos\nsus:  \nprivado:  ",
+  "idioma": "es",
+  "texto_en": "covid numeric_constant rn\nhealthcare panorama\n numeric_constant numeric_constant\n\n*internships: numeric_constant\nits: numeric_constant\nprivate: numeric_constant\n\n* critical readings\nits: numeric_constant\nprivate: numeric_constant\n\n*clinical litters\nits: numeric_constant\nprivate: numeric_constant",
