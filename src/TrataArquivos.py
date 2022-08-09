@@ -29,8 +29,11 @@ class TrataArquivos:
         self.tratar_arquivo(file_list, tipo_arquivo, refazer_tratamento, propriedade_json)
 
     def tratar_arquivo(self, file_list, tipo_arquivo, refazer_tratamento, propriedade_json):
+        file_count = 0
+        files_count_total = len(file_list)
         for file in file_list:
-            print(f'Lendo arquivo: {file}')
+            file_count = file_count + 1
+            print(f'Lendo arquivo: {file} posicao: {file_count} de: {files_count_total} faltam: {files_count_total - file_count}')
             content = self.consolidaArquivos.read_json(file)
             if tipo_arquivo == TipoDeArquivos.TWITTER:
                 self.tratar_arquivos_twitter(file, content, refazer_tratamento, propriedade_json)
@@ -142,12 +145,30 @@ def test_lista_de_classes():
         texto_tratado = classe_tratar_arquivo.tratar_texto(texto)
         print('texto_tratado:', texto_tratado)
 
+def test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud():
+    classe_tratamento_texto_wordcloud = [
+        RemocaoDeUrl(),
+        DividePalavrasUnidas(),
+        CorrigiOrtografiaForaDoPadrao(),
+        RemoveElementosDeMarcacao(),
+        TratamentoBasicoTexto(False),
+        TratamentoDataEHora(False),
+        TratamentoTextoRedeSociais(False),
+        TratamentoNumerico(False)
+    ]
+    consolidaArquivos = ConsolidaArquivos()
+    trataArquivos = TrataArquivos(consolidaArquivos, classe_tratamento_texto_wordcloud, 0, 'texto_wordcloud')
+    path_tweets = consolidaArquivos.PATH_TWEETS
+    extension = consolidaArquivos.EXTENSION
+    file_list = consolidaArquivos.get_file_list(path_tweets, extension)[0:10000]
+    trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.TWITTER, True, propriedade_json = "texto")
+
 def tests():
     test_tratar_arquivo()
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
 
-def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True):
+def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True, usar_constante = True):
     classe_tratar_arquivo_lst = []
     if remocao_de_url:
         classe_tratar_arquivo_lst.append(RemocaoDeUrl())
@@ -158,14 +179,13 @@ def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, divide_palavras_uni
     if remove_elementos_de_marcacao:
         classe_tratar_arquivo_lst.append(RemoveElementosDeMarcacao())
     if tratamento_basico_texto:
-        classe_tratar_arquivo_lst.append(TratamentoBasicoTexto())
+        classe_tratar_arquivo_lst.append(TratamentoBasicoTexto(usar_constante))
     if tratamento_dataehora:
-        classe_tratar_arquivo_lst.append(TratamentoDataEHora())
+        classe_tratar_arquivo_lst.append(TratamentoDataEHora(usar_constante))
     if tratamento_texto_redesociais:
-        classe_tratar_arquivo_lst.append(TratamentoTextoRedeSociais())
+        classe_tratar_arquivo_lst.append(TratamentoTextoRedeSociais(usar_constante))
     if tratamento_numerico:
-        classe_tratar_arquivo_lst.append(TratamentoNumerico())
-
+        classe_tratar_arquivo_lst.append(TratamentoNumerico(usar_constante))
     return classe_tratar_arquivo_lst
 
 def get_file_path_and_extension():
@@ -175,37 +195,43 @@ def get_file_path_and_extension():
     extension = consolidaArquivos.EXTENSION
     return path_tweets, path_youtube_comments, extension, consolidaArquivos
 
-def tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, extension:str, time_sleep_load_tratamento:int = 0, node_dest:str = 'text_tratado', refazer_tratamento:bool=True, propriedade_json:str = 'texto_tratado'):
+def build_tratar_arquivos(consolidaArquivos: ConsolidaArquivos, ioc, path_tipo:Tuple, extension:str, time_sleep_load_tratamento:int = 0, node_dest:str = 'text_tratado', refazer_tratamento:bool=True, propriedade_json:str = 'texto_tratado'):
     path, tipo = path_tipo[0], path_tipo[1]
     trataArquivos = TrataArquivos(consolidaArquivos, ioc, time_sleep_load_tratamento, node_dest)
     trataArquivos.tratar_arquivos(path, extension, tipo, refazer_tratamento, propriedade_json)
 
 def traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos):
-    traduzIngles = TraducaoTexto(Tradutor(), idioma=IdiomaTraducao.ENG, time_sleep=2)
-    tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_tweets, TipoDeArquivos.TWITTER), extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=True)
-    tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS),  extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=True)
+    traduzIngles = TraducaoTexto(Tradutor(), idioma=IdiomaTraducao.ENG, time_sleep=0)
+    build_tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_tweets, TipoDeArquivos.TWITTER), extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=False)
+    build_tratar_arquivos(consolidaArquivos=consolidaArquivos, ioc=traduzIngles, path_tipo=(path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS),  extension=extension, time_sleep_load_tratamento=0, node_dest='texto_en', refazer_tratamento=False)
 
 def verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos):
-    verificaIdioma = VerificaIdioma(Tradutor(), time_sleep=1)
-    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
-    tratar_arquivos(consolidaArquivos, verificaIdioma, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+    verificaIdioma = VerificaIdioma(Tradutor(), time_sleep=0)
+    build_tratar_arquivos(consolidaArquivos, verificaIdioma, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
+    build_tratar_arquivos(consolidaArquivos, verificaIdioma, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, 'idioma', refazer_tratamento=False, propriedade_json="texto")
 
 def trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos):
     classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst()
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
-    tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
+    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
+    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
 
 def trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos):
-    trataEmoji = TrataEmoji(Tradutor(), 2)
-    tratar_arquivos(consolidaArquivos, trataEmoji, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, propriedade_json = "texto")
-    tratar_arquivos(consolidaArquivos, trataEmoji, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, propriedade_json = "texto")
+    trataEmoji = TrataEmoji(Tradutor(), time_sleep=0)
+    build_tratar_arquivos(consolidaArquivos, trataEmoji, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, propriedade_json = "texto")
+    build_tratar_arquivos(consolidaArquivos, trataEmoji, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, propriedade_json = "texto")
+
+def trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consolidaArquivos):
+    classe_tratamento_texto_wordcloud = carrega_classe_tratar_arquivo_lst(usar_constante=False)
+    build_tratar_arquivos(consolidaArquivos, classe_tratamento_texto_wordcloud, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, "texto_wordcloud", refazer_tratamento=True, propriedade_json = "texto")
+    build_tratar_arquivos(consolidaArquivos, classe_tratamento_texto_wordcloud, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, "texto_wordcloud", refazer_tratamento=True, propriedade_json = "texto")
 
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
-    trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    #trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    #trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    #verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    #traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consolidaArquivos)
 
 if __name__ == '__main__':
-    main()
+    test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud()

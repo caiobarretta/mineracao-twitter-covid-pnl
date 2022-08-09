@@ -3,6 +3,8 @@ from unidecode import unidecode
 
 class TratamentoTextoBase:
     BLANK_SPACE: Final[str] = ' '
+    def __init__(self, usar_constante=True):
+        self.usar_constante = usar_constante
     def regex_or(self, *items):
         r = '|'.join(items)
         r = '(' + r + ')'
@@ -20,6 +22,11 @@ class TratamentoTextoBase:
         '''
         transient_tweet_text = transient_tweet_text.lower()
         return transient_tweet_text
+
+    def verifica_utilizacao_contantes(self, constante):
+        if self.usar_constante:
+            return constante
+        return self.BLANK_SPACE
 
 def test_strip_unicode():
     tratamento = TratamentoTextoBase()

@@ -11,6 +11,9 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
     EMAIL_REGEX: Final[str] = r'(\b)?[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\b)?'
     CONSTANT_EMAIL_ID: Final[str] = ' constante_email_id '
 
+    def __init__(self, usar_constante=True):
+        super(TratamentoBasicoTexto, self).__init__(usar_constante)
+
     def trim(self, transient_tweet_text):
         ''' 
         trim leading and trailing spaces in the tweet text
@@ -31,7 +34,7 @@ class TratamentoBasicoTexto(TratamentoTextoBase):
         '''
         identify email mentioned if any
         '''
-        transient_tweet_text = re.sub(self.EMAIL_REGEX, self.CONSTANT_EMAIL_ID, transient_tweet_text)
+        transient_tweet_text = re.sub(self.EMAIL_REGEX, self.verifica_utilizacao_contantes(self.CONSTANT_EMAIL_ID), transient_tweet_text)
         return transient_tweet_text
 
     def strip_whitespaces_regex(self, transient_tweet_text):
@@ -75,9 +78,20 @@ def test_trata_texto():
     print('tweet:', test_tweet)
     print('tweet_tratado:', tweet_tratado)
 
+
+def test_trata_texto_sem_constantes():
+    test_tweet = " Nice @varun paytm @paytm saver abc@gmail.com sizes for the wolf on 20/10/2010 at 10:00PM  grey/deep royal-volt Nike Air Skylon II retro are 40% OFF for a limited time at $59.99 + FREE shipping.BUY HERE -> https://bit.ly/2L2n7rB (promotion - use code MEMDAYSV at checkout)"
+    tratamento = TratamentoBasicoTexto(False)
+    test_tweet = test_tweet.lower()
+    tweet_tratado = tratamento.tratar_texto(test_tweet)
+    print('tweet:', test_tweet)
+    print('tweet_tratado:', tweet_tratado)
+
+
 def main():
     test_print()
     test_trata_texto()
+    test_trata_texto_sem_constantes()
 
 if __name__ == '__main__':
     main()

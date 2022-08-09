@@ -73,6 +73,8 @@ class ConsolidaArquivos:
             json['idioma'] = content['idioma']
         if 'texto_en' in content:
             json['texto_en'] = content['texto_en']
+        if 'texto_wordcloud' in content:
+            json['texto_wordcloud'] = content['texto_wordcloud']
 
     def save_data_partition(self, index, path, content, extension):
         file_name = f'{path}consolidado_part_{index}{extension}'
@@ -98,11 +100,20 @@ class ConsolidaArquivos:
             self.save_data_partition(file_count, path, json_list, extension)
 
     def get_string_dict_len(self, json):
-        id = json['id']
-        texto = json['texto']
-        texto_tratado = json['texto']
-        src = json['src']
-        full_string = '{' + f"'{id}','{texto}','{texto_tratado}','{src}'" + "},"
+        lst = []
+        if 'id' in json:
+            lst.append(str(json['id']))
+        if 'texto' in json:
+            lst.append(str(json['texto']))
+        if 'texto_tratado' in json:
+            lst.append(str(json['texto_tratado']))
+        if 'src' in json:
+            lst.append(str(json['src']))
+        if 'texto_wordcloud' in json:
+            lst.append(str(json['texto_wordcloud']))
+        json_prop_separator = ","
+        join_props = json_prop_separator.join(lst)
+        full_string = '{' + join_props + "},"
         return len(full_string.encode('utf-8'))
 
     def traduzir_texto_portugues(self, json, tradutor, sleep=10):

@@ -16,14 +16,16 @@ class TratamentoNumerico(TratamentoTextoBase):
 
     NUM_REGEX = r'(?<!#)\b(?:[-+]?[\d,]*[\.]?[\d,]*[\d]+|\d+)\b'
     ALPHA_NUMERIC_REGEX: Final[str] = r'(?<!#)\b(?:([a-z]+[0-9]+[a-z]*|[a-z]*[0-9]+[a-z]+)[a-z,0-9]*)\b'
+    def __init__(self, usar_constante=True):
+        super(TratamentoNumerico, self).__init__(usar_constante)
 
     def indentify_money(self, transient_tweet_text):
         '''
         identify money in the tweet text but outside offers. This includes $,Rs, pound, Euro
         '''
-        transient_tweet_text = re.sub(self.MONEY_REGEX1, self.CONSTANT_MONEY, transient_tweet_text)
-        transient_tweet_text = re.sub(self.MONEY_REGEX2, self.CONSTANT_MONEY, transient_tweet_text)
-        transient_tweet_text = re.sub(self.MONEY_REGEX3, self.CONSTANT_MONEY, transient_tweet_text)
+        transient_tweet_text = re.sub(self.MONEY_REGEX1, self.verifica_utilizacao_contantes(self.CONSTANT_MONEY), transient_tweet_text)
+        transient_tweet_text = re.sub(self.MONEY_REGEX2, self.verifica_utilizacao_contantes(self.CONSTANT_MONEY), transient_tweet_text)
+        transient_tweet_text = re.sub(self.MONEY_REGEX3, self.verifica_utilizacao_contantes(self.CONSTANT_MONEY), transient_tweet_text)
         return transient_tweet_text
 
     def replace_numbers(self, transient_tweet_text):
@@ -31,7 +33,7 @@ class TratamentoNumerico(TratamentoTextoBase):
         Given any number/interger in tweet text, we want it to be replaced by constantnum
         '''
         # we want to process only those numbers that are not in a hashtag - below logic does this
-        transient_tweet_text = re.sub(self.NUM_REGEX, self.CONSTANT_NUM , transient_tweet_text)
+        transient_tweet_text = re.sub(self.NUM_REGEX, self.verifica_utilizacao_contantes(self.CONSTANT_NUM), transient_tweet_text)
         return transient_tweet_text
 
     def identify_alpha_numerics(self, transient_tweet_text):
@@ -39,7 +41,7 @@ class TratamentoNumerico(TratamentoTextoBase):
         Identify alpha numerics - this helps in identifying product codes/models, promocodes, Order IDs
         '''
         
-        transient_tweet_text = re.sub(self.ALPHA_NUMERIC_REGEX, self.CONSTANT_ALPHA_NUM, transient_tweet_text)
+        transient_tweet_text = re.sub(self.ALPHA_NUMERIC_REGEX, self.verifica_utilizacao_contantes(self.CONSTANT_ALPHA_NUM), transient_tweet_text)
         return transient_tweet_text
 
     def tratar_texto(self, texto):

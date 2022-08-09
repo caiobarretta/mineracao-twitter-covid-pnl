@@ -20,24 +20,26 @@ class TratamentoDataEHora(TratamentoTextoBase):
     DATE_REGEX_PTBR3: Final[str] = r'[\s]?([0-9]|[0-9][0-9]) ((de|em)) '
     DATE_REGEX_PTBR4: Final[str] = r'[-\/.](\d{4}|\d{2})'
 
+    def __init__(self, usar_constante=True):
+        super(TratamentoDataEHora, self).__init__(usar_constante)
 
     def process_dates_en(self, transient_tweet_text):
         '''
         Identify date and convert it to constant
         '''
-        transient_tweet_text = re.sub(self.DATE_REGEX_EN1, self.CONSTANT_DATE, transient_tweet_text)
-        transient_tweet_text = re.sub(self.DATE_REGEX_EN2, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_EN1, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_EN2, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
         Months = self.regex_or('january','jan','february','feb','march','mar','april','may','june','jun','july','jul','august','aug','september','sep','october','oct','november','nov','december','dec')
 
         date_regex3 = self.DATE_REGEX_EN3 + Months
-        transient_tweet_text = re.sub(date_regex3, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(date_regex3, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
         
         date_regex4 = Months + self.DATE_REGEX_EN4
-        transient_tweet_text = re.sub(date_regex4, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(date_regex4, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
-        transient_tweet_text = re.sub(self.DATE_REGEX_EN5, self.CONSTANT_DATE, transient_tweet_text)
-        transient_tweet_text = re.sub(self.DATE_REGEX_EN6, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_EN5, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_EN6, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
         return transient_tweet_text
 
@@ -45,16 +47,16 @@ class TratamentoDataEHora(TratamentoTextoBase):
         '''
         Identify date and convert it to constant
         '''
-        transient_tweet_text = re.sub(self.DATE_REGEX_PTBR1, self.CONSTANT_DATE, transient_tweet_text)
-        transient_tweet_text = re.sub(self.DATE_REGEX_PTBR2, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_PTBR1, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
+        transient_tweet_text = re.sub(self.DATE_REGEX_PTBR2, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
         Months = self.regex_or('janeiro', 'jan', 'fevereiro', 'fev', 'março', 'mar', 'abril', 'abr', 'maio', 'maio', 'junho', 'jun', 'julho', 'jul', 'agosto', 'ago', 'setembro', 'set', 'outubro', 'out', 'novembro', 'nov', 'dezembro', 'dez')
 
         date_regex3 = self.DATE_REGEX_PTBR3 + Months
-        transient_tweet_text = re.sub(date_regex3, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(date_regex3, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
         date_regex4 = Months + self.DATE_REGEX_PTBR4
-        transient_tweet_text = re.sub(date_regex4, self.CONSTANT_DATE, transient_tweet_text)
+        transient_tweet_text = re.sub(date_regex4, self.verifica_utilizacao_contantes(self.CONSTANT_DATE), transient_tweet_text)
 
         return transient_tweet_text
 
@@ -62,7 +64,7 @@ class TratamentoDataEHora(TratamentoTextoBase):
         '''
         Indentify time and convert it to constant
         '''
-        return re.sub(self.TIME_REGEX, self.CONSTANT_TIME, transient_tweet_text)
+        return re.sub(self.TIME_REGEX, self.verifica_utilizacao_contantes(self.CONSTANT_TIME), transient_tweet_text)
 
     def tratar_texto(self, texto):
         texto = self.strip_unicode(texto)

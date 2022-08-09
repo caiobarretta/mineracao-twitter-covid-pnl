@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
+from TratamentoTextoBase import TratamentoTextoBase
 
-class RemoveElementosDeMarcacao:
+class RemoveElementosDeMarcacao(TratamentoTextoBase):
     def tratar_texto(self, texto):
+        texto = self.to_lowercase(texto)
         """
         Função que trata o texto removendo os elementos de marcação
         O parametro texto é o texto que será tratado
