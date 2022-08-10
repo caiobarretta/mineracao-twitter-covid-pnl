@@ -3,21 +3,20 @@ from typing import Final
 from TratamentoTextoBase import TratamentoTextoBase
 
 class RemocaoDeUrl(TratamentoTextoBase):
-    REMOVAL_OF_URLS_REGEX: Final[str] = r'https?:\/\/.*?[\s+]'
+    REMOVAL_OF_URLS_REGEX: Final[str] = r'(htt?p?s?:\/?\/.*?[\s+])'
     STRING_TO_REPLACE_URL: Final[str] = ''
+
+    def remove_urls(self, transient_tweet_text):
+        texto_com_espaco_em_branco = f"{transient_tweet_text} "
+        return re.sub(self.REMOVAL_OF_URLS_REGEX, self.STRING_TO_REPLACE_URL, texto_com_espaco_em_branco)[:-1]
+        
     def tratar_texto(self, texto):
-        texto = self.to_lowercase(texto)
         """
         Função que remove url de texto
         O parametro texto é o texto que será tratado
         """
-        texto_com_espaco_em_branco = f"{texto} "
-        novo_texto = ''
-        match_lst = re.findall(self.REMOVAL_OF_URLS_REGEX, texto_com_espaco_em_branco)
-        if match_lst:
-            for match in match_lst:
-                novo_texto = texto_com_espaco_em_branco.replace(match, self.STRING_TO_REPLACE_URL)
-            return novo_texto[:-1]
+        texto = self.to_lowercase(texto)
+        texto = self.remove_urls(texto)
         return texto
 
 def main():
@@ -34,7 +33,10 @@ def main():
     "este e o primeiro tratamento incluido no sistema unico de saude (sus) para tratar os pacientes contra o virus.\n#tvcultura #covid #sus\nhttps://t.co/",
     "Este é o primeiro tratamento incluído no Sistema Único de Saúde (SUS) para tratar os pacientes contra o vírus.\n#TVCultura #Covid #SUS\nhttps://t.co/JxsA7e1SxB",
     "este e o primeiro tratamento incluido no sistema unico de saude (sus) para tratar os pacientes contra o virus.\n#tvcultura #covid #sus\nhttps://t.co/",
-    "pernambuco esta sob o alerta ha mais de dois anos.\nhttps://t.co/ "]
+    "pernambuco esta sob o alerta ha mais de dois anos.\nhttps://t.co/ ",
+    "consulta publica para incorporacao pelo sus dos imunobiologicos tixagevimabe e cilgavimabe. >participe: htps:/t.co/                         ",
+    "Sobre pandemias, ci\u00eancia(s) e cuidado: desafios da Sa\u00fade Coletiva e do Sistema \u00danico de Sa\u00fade (SUS) para a inven\u00e7\u00e3o de uma vida outra - S\u00e9rgio Resende Carvalho\n\nAcesso em: https://t.co/PxAFf29GTl\n\n#pandemia #SUS #saudecoletiva https://t.co/QLyRUcI9qs"
+    ]
     remocaoDeUrl = RemocaoDeUrl()
     for texto in textos:
         print("-------------------------------------------------------------------------------------")

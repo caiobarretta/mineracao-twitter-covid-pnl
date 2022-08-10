@@ -216,8 +216,8 @@ def verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArqu
 
 def trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos):
     classe_tratar_arquivo_lst = carrega_classe_tratar_arquivo_lst()
-    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0)
-    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0)
+    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_tweets, TipoDeArquivos.TWITTER), extension, 0, "texto_tratado", refazer_tratamento=True, propriedade_json = "texto")
+    build_tratar_arquivos(consolidaArquivos, classe_tratar_arquivo_lst, (path_youtube_comments, TipoDeArquivos.YOUTUBE_COMMENTS), extension, 0, "texto_tratado", refazer_tratamento=True, propriedade_json = "texto")
 
 def trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos):
     trataEmoji = TrataEmoji(Tradutor(), time_sleep=0)
@@ -232,7 +232,7 @@ def trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consoli
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
     #trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    #trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
     #verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
     #traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
     trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consolidaArquivos)
