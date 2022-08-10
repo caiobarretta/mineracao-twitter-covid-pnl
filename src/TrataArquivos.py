@@ -80,29 +80,29 @@ class TrataArquivos:
         json_content = get_text_from_files(content)
         texto = get_text_from_json(json_content, propriedade_json)
 
-        texto_sem_emoji = self.resolve_tratamento_texto_ioc(texto)
+        texto_tratado = self.resolve_tratamento_texto_ioc(texto)
         
-        set_text_from_json(content, texto_sem_emoji)
+        set_text_from_json(content, texto_tratado)
         self.consolidaArquivos.save_json(file, content)
         time.sleep(self.time_sleep_load_tratamento)
 
     def resolve_tratamento_texto_ioc(self, texto):
-        novo_texto = ''
-        if type(self.tratamento ) is list:
+        novo_texto = texto
+        if type(self.tratamento) is list:
             for classe_tratamento in self.tratamento:
                 if type(classe_tratamento) is dict:
                     if classe_tratamento['Executar']:
                         print('Executando tratamento:', classe_tratamento['Classe'])
-                        novo_texto = classe_tratamento['Classe'].tratar_texto(texto)
+                        novo_texto = classe_tratamento['Classe'].tratar_texto(novo_texto)
                     else:
                         print('Ignorando tratamento:', self.retorna_nome_classe(classe_tratamento['Classe']))
                         novo_texto = texto
                 else:
                     print('Executando tratamento:', self.retorna_nome_classe(classe_tratamento))
-                    novo_texto = classe_tratamento.tratar_texto(texto)
+                    novo_texto = classe_tratamento.tratar_texto(novo_texto)
         else:
             print('Executando tratamento:', self.retorna_nome_classe(self.tratamento))
-            novo_texto = self.tratamento.tratar_texto(texto)
+            novo_texto = self.tratamento.tratar_texto(novo_texto)
         return novo_texto
 
     def retorna_nome_classe(self, classe):
@@ -159,14 +159,18 @@ def test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud():
     consolidaArquivos = ConsolidaArquivos()
     trataArquivos = TrataArquivos(consolidaArquivos, classe_tratamento_texto_wordcloud, 0, 'texto_wordcloud')
     path_tweets = consolidaArquivos.PATH_TWEETS
+    path_yt = consolidaArquivos.PATH_YOUTUBE_COMMENTS
     extension = consolidaArquivos.EXTENSION
-    file_list = consolidaArquivos.get_file_list(path_tweets, extension)[0:10000]
+    file_list = consolidaArquivos.get_file_list(path_tweets, extension)[0:1000]
     trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.TWITTER, True, propriedade_json = "texto")
+    #file_list = consolidaArquivos.get_file_list(path_yt, extension)
+    #trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.YOUTUBE_COMMENTS, True, propriedade_json = "texto_wordcloud")
 
 def tests():
     test_tratar_arquivo()
     test_tratar_arquivo_lst_classe_tratamento()
     test_lista_de_classes()
+    test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud()
 
 def carrega_classe_tratar_arquivo_lst(remocao_de_url = True, divide_palavras_unidas = True, corrigi_ortografia_fora_do_padrao = True, remove_elementos_de_marcacao = True, tratamento_basico_texto = True, tratamento_dataehora = True, tratamento_numerico = True, tratamento_texto_redesociais = True, usar_constante = True):
     classe_tratar_arquivo_lst = []
@@ -234,4 +238,4 @@ def main():
     trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consolidaArquivos)
 
 if __name__ == '__main__':
-    test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud()
+    main()
