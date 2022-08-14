@@ -3,7 +3,7 @@ from typing import Final
 from TratamentoTextoBase import TratamentoTextoBase
 
 class RemocaoDeUrl(TratamentoTextoBase):
-    REMOVAL_OF_URLS_REGEX: Final[str] = r'(htt?p?s?:\/?\/.*?[\s+])'
+    REMOVAL_OF_URLS_REGEX: Final[str] = r'(htt?p?s?:\/?\/.*?[\s+])|(htt?p?s?:?.*[\s+])'
     STRING_TO_REPLACE_URL: Final[str] = ''
 
     def remove_urls(self, transient_tweet_text):
@@ -35,7 +35,9 @@ def main():
     "este e o primeiro tratamento incluido no sistema unico de saude (sus) para tratar os pacientes contra o virus.\n#tvcultura #covid #sus\nhttps://t.co/",
     "pernambuco esta sob o alerta ha mais de dois anos.\nhttps://t.co/ ",
     "consulta publica para incorporacao pelo sus dos imunobiologicos tixagevimabe e cilgavimabe. >participe: htps:/t.co/                         ",
-    "Sobre pandemias, ci\u00eancia(s) e cuidado: desafios da Sa\u00fade Coletiva e do Sistema \u00danico de Sa\u00fade (SUS) para a inven\u00e7\u00e3o de uma vida outra - S\u00e9rgio Resende Carvalho\n\nAcesso em: https://t.co/PxAFf29GTl\n\n#pandemia #SUS #saudecoletiva https://t.co/QLyRUcI9qs"
+    "Sobre pandemias, ci\u00eancia(s) e cuidado: desafios da Sa\u00fade Coletiva e do Sistema \u00danico de Sa\u00fade (SUS) para a inven\u00e7\u00e3o de uma vida outra - S\u00e9rgio Resende Carvalho\n\nAcesso em: https://t.co/PxAFf29GTl\n\n#pandemia #SUS #saudecoletiva https://t.co/QLyRUcI9qs",
+    "rt @ciencia_sou: sao perguntas importantes e para as quais nao temos respostas definitivas.  saiba mais no blog do sou_c na @folha: https:...",
+    "rt @ : eua assinou um contrato para \"pesquisa covid \" na ucrania   meses antes de se tornar conhecida a existencia covid...\nhttps..."
     ]
     remocaoDeUrl = RemocaoDeUrl()
     for texto in textos:

@@ -67,8 +67,8 @@ class ConsolidaArquivos:
         return json
 
     def get_text_from_common_json_files(self, json, content):
-        if 'text_tratado' in content:
-            json['texto_tratado'] = content['text_tratado']
+        if 'texto_tratado' in content:
+            json['texto_tratado'] = content['texto_tratado']
         if 'idioma' in content:
             json['idioma'] = content['idioma']
         if 'texto_en' in content:
