@@ -163,8 +163,8 @@ def test_tratar_arquivo_carrega_classe_tratar_arquivo_lst_texto_wordcloud():
     extension = consolidaArquivos.EXTENSION
     file_list = consolidaArquivos.get_file_list(path_tweets, extension)[0:1000]
     trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.TWITTER, True, propriedade_json = "texto")
-    #file_list = consolidaArquivos.get_file_list(path_yt, extension)
-    #trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.YOUTUBE_COMMENTS, True, propriedade_json = "texto_wordcloud")
+    file_list = consolidaArquivos.get_file_list(path_yt, extension)
+    trataArquivos.tratar_arquivo(file_list, TipoDeArquivos.YOUTUBE_COMMENTS, True, propriedade_json = "texto_wordcloud")
 
 def tests():
     test_tratar_arquivo()
@@ -231,10 +231,10 @@ def trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consoli
 
 def main():
     path_tweets, path_youtube_comments, extension, consolidaArquivos = get_file_path_and_extension()
-    #trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    trata_emoji(path_tweets, path_youtube_comments, extension, consolidaArquivos)
     trata_texto(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    #verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
-    #traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    verifica_idioma(path_tweets, path_youtube_comments, extension, consolidaArquivos)
+    traduz_ingles(path_tweets, path_youtube_comments, extension, consolidaArquivos)
     trata_texto_wordcloud(path_tweets, path_youtube_comments, extension, consolidaArquivos)
 
 if __name__ == '__main__':

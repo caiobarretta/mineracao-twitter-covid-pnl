@@ -56,6 +56,9 @@ class ConsolidaArquivos:
             json['texto'] = content['full_text']
         else:
             json['texto'] = content['text']
+        if 'user' in content:
+            if 'location' in content['user']:
+                json['local'] = content['user']['location']
         self.get_text_from_common_json_files(json, content)
         return json
 
