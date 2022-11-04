@@ -30,7 +30,7 @@ Outro experimento foi verificar que a Análise de Sentimentos baseada em léxico
 
 Figura 31 - Classificação TextBlob, análise baseada em léxico, Vader, LeIA.
 
-![Alt text](Classificacao-TextBlob-lexico-Vader-LeIA.png, "Figura 31 - Classificação TextBlob, análise baseada em léxico, Vader, LeIA.png")
+![Alt text](Classificacao-TextBlob-lexico-Vader-LeIA.png "Figura 31 - Classificação TextBlob, análise baseada em léxico, Vader, LeIA.png")
 
 Fonte: criado por este autor.
 
