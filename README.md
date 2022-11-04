@@ -10,9 +10,14 @@ O escopo deste trabalho trata da coleta, processamento e análise de dados refer
 
 Figura 1 - Pipeline resumido.
 
+![Alt text](Pipeline-Resumido.png "Figura 1 - Pipeline resumido.")
+
 Fonte: criado por este autor.
 
 Figura 2 - Pipeline detalhado.
+
+![Alt text](Pipeline-Detalhado.png "Figura 2 - Pipeline detalhado.")
+
 Fonte: criado por este autor.
 
 A coleta de dados na rede social Twitter pode ser feita por meio de API, Interface de Programação de Aplicativos. Para isso, é necessário criar uma conta e configurar para consumir os dados da Interface de Programação de Aplicativos, doravante API.
