@@ -29,6 +29,9 @@ Portanto, conclui-se que, o processamento textual é difícil, pois não existem
 Outro experimento foi verificar que a Análise de Sentimentos baseada em léxico é um ótimo caminho para iniciar uma Análise de Sentimentos, pois sua performance é bem otimizada e o dicionário de palavras positivas e negativas são customizáveis, por conseguinte palavras mais comuns de um contexto específico podem ser utilizadas servindo para comparativos com outras técnicas/ferramentas de Análise de Sentimentos.
 
 Figura 31 - Classificação TextBlob, análise baseada em léxico, Vader, LeIA.
+
+![Alt text](Classificação-TextBlob-léxico-Vader-LeIA.png, "Figura 31 - Classificação TextBlob, análise baseada em léxico, Vader, LeIA.png")
+
 Fonte: criado por este autor.
 
 A biblioteca LeIA apesar de ser baseada na biblioteca Vader, o texto foi traduzido automaticamente, através da API do google, portanto, a tradução poderia gerar uma variação na Análise de Sentimentos, entretanto isso não ocorreu para o recorte de dados aqui utilizado.
